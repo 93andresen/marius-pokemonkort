@@ -1,0 +1,26 @@
+/.autogit/
+/.history/
+# Especcially important for"gitdoc.enabled" to avoid conflicts
+/.vscode/
+
+Autohotkey/GOG-Galaxy.Installer.exe
+Autohotkey/sync.ffs_db
+Autohotkey/sync.ffs_lock
+sync.ffs_db
+sync.ffs_lock
+sync.ffs_db
+~syncthing~*
+*.tmp
+*.exe
+~syncthing~*.tmp
+realtimesst.log
+*.asc
+
+# Environments
+.env
+.envrc
+.venv*
+venv*
+env/
+ENV/
+env.bak/
