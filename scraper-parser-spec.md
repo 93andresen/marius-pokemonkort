@@ -176,7 +176,7 @@ Parser rules for machine-read fields:
 
 ### 3.4 Sold-ad intelligence (comps — a suggestion not in the base file)
 - [ ] **Keep scraping inactive/sold ads.** Sold ads are historical sales data: they tell you what actually sells, at what price, and how fast. Over time this builds a finn.no price history for vintage sets that no price API covers.
-- [ ] Track **time-to-sell** (`published` → `status != Aktiv` first observed). Velocity per category is a direct input into the arbitrage model in [`prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md`](prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md) ("a 10% margin that takes 6 months is worse than a 5% margin in a week").
+- [ ] Track **time-to-sell** (`published` → `status != Aktiv` first observed). Velocity per category is a useful design input in its own right ("a 10% margin that takes 6 months is worse than a 5% margin in a week" — phrasing from the old research prompt [`prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md`](prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md), kept as history; this spec does not build on that work).
 - [ ] Track **favorite count over time** as a demand signal (JS-only field — another reason `--js` is mandatory).
 
 ### 3.5 Sheets UX
