@@ -97,4 +97,3 @@ Not covered by global rules (repo/session-specific — these are the ones only t
 - [ ] Language preference (respond in English; Norwegian where mirroring FINN content).
 - [ ] Windows/cmd environment note (cmd.exe, `findstr` not `grep`, real paths — no symlinks).
 - [ ] Warning that `.git` holds ~242 MiB of dead loose objects from the undone commit `250c9ef` (binaries) — so a future agent doesn't "helpfully" run `git gc`; cleanup is the human's call (reflog expire + gc).
-
