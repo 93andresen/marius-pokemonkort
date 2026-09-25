@@ -212,6 +212,8 @@ C:\data\code\marius-pokemonkort\prompts-and-notes\pokewallet-api-ideas\pokewalle
 
 ---
 
+2026-09-25-20.17.11
+
 scraper-parser-spec.md:185-185
 ```
 3. **Snapshot the search result page itself** (not just ads): the raw search md is evidence of what existed at time T. Cheap to keep, priceless for debugging "why didn't we see ad X".
@@ -268,6 +270,10 @@ https://app.getcollectr.com/showcase/profile/@llvbhb?sortType=dateAdded&sortOrde
 sort: date added newest first
 view: grid="C:\Users\93and\Downloads\Marius's Pokemon Trading Card Collection - Collectr (25_09_2026 16：07：16).html"
 view: list="C:\Users\93and\Downloads\Marius's Pokemon Trading Card Collection - Collectr (25_09_2026 16：13：56).html"
+
+---
+
+Also, needs to fix stale links and filepaths and filenames in scraper-parser-spec.md after all the changes.
 
 ---
 
