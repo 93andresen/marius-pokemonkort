@@ -59,3 +59,28 @@ The pipeline specification is [`scraper-parser-spec.md`](scraper-parser-spec.md)
 
 - Scraped material and exports belong in their topical folders (`finn/annonser/{FINN-kode}_{slug}/` for ads once the pipeline exists; downloads/exports in their named folders).
 - New top-level structure decisions should be recorded in the spec or in a commit message explaining the **why** — this repo values documented intent over tribal knowledge.
+
+---
+
+## ⚠️ OPEN REVIEW SECTION (for the human — decide, then edit or delete this section)
+
+Things the AI that wrote this file flagged for your review. None of these are decided yet.
+
+### Session rules I made permanent here — confirm or strike:
+- [ ] **"Never read `prompts-notes/prompts.md`"** — that was a session instruction, not necessarily repo law. Keeping it means every agent tool refuses that file forever.
+- [ ] **"Git is read-only by default"** — came from session feedback; confirm you want it as standing policy for all agents.
+- [ ] **"Use long flags"** — same; style rule, your call.
+- [ ] **"Never modify the user's rules"** — phrase is ambiguous in a repo file ("whose rules?"). Clearer wording would be "do not edit the rules sections of this file".
+
+### Duplication / drift risk:
+- [ ] The 7 philosophy points exist twice (here + spec §0). Options: keep both and accept syncing, or trim this file to one-line pointers to [`scraper-parser-spec.md` §0](scraper-parser-spec.md). Lean: trim to pointers.
+- [ ] Sheet ID, `web_to_md.py` path, uv rules also live in the owner's global agent config. Repetition only matters if you use tools that read *only* this file (Codex etc.).
+
+### Aging hazards:
+- [ ] The `0ccc05c` reference will read as stale trivia later; could become "the pivot commit in the git history".
+
+### Possibly missing:
+- [ ] A `getcollectr/README.md` recording the original Downloads filenames + the two source URLs (provenance; currently only in chat history).
+- [ ] Language preference (respond in English; Norwegian where mirroring FINN content).
+- [ ] Windows/cmd environment note (cmd.exe, `findstr` not `grep`, real paths — no symlinks).
+- [ ] Warning that `.git` holds ~242 MiB of dead loose objects from the undone commit `250c9ef` (binaries) — so a future agent doesn't "helpfully" run `git gc`; cleanup is the human's call (reflog expire + gc).
