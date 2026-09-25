@@ -10,7 +10,9 @@
 
 ---
 
-## 0. Non-negotiable principles (the philosophy everything else follows)
+## 0. Non-negotiable principles (the pipeline constitution)
+
+> *(How to *behave* in this repo — git, uv, `.trash`, no-silent-success — lives in [`AGENTS.md`](AGENTS.md). This section is what the pipeline **is**: the principles it must obey, stated here exactly once.)*
 
 1. **We never delete anything. Ever.** This applies to the entire repo, in every sense. Removal from the working tree means moving to `.trash/`, and history is version-controlled. The pipeline itself is effectively an **append-only log**: we can always go back and see what was, and no information is ever lost.
 2. **Scraped sources are immutable.** What we scrape from the internet is a *source*. We can run whatever tools we want on it and output whatever we want from it, but sources are never edited. Fix something, improve the parser? Re-run it on the sources — they are always there, unchanged.
