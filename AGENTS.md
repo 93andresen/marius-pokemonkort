@@ -10,19 +10,16 @@ This repo grew out of a Pokémon-card project around FINN.no listings: ad captur
 
 The **FINN-kode** (the numeric ad id, e.g. `475878513`) is the primary key for everything: folders, rows, dedupe, image downloads.
 
-The pipeline specification is [`scraper-parser-spec.md`](scraper-parser-spec.md) — read it first. Its §0 ("Non-negotiable principles") is the constitution for this whole repo, not just the scraper.
+The pipeline specification is [`scraper-parser-spec.md`](scraper-parser-spec.md) — read it before doing any pipeline work. **Division of responsibility:** this file says *how to act* in this repo (workspace + tool rules, repo map); the spec says *what we are building and why*. The pipeline philosophy is stated **only** in the spec (§0) — never duplicated here, so the two cannot drift apart.
 
 ---
 
-## The philosophy (non-negotiable, applies to everything)
+## Workspace principles (non-negotiable — how you behave here, pipeline or not)
 
-1. **We never delete anything. Ever.** Not in git, not on disk, not in the pipeline. Removing a file from the working tree means moving it to a `.trash/` folder **in the same directory** (e.g. `docs/foo.md` → `docs/.trash/foo.md`). Never dump into one global trash folder.
-2. **Append-only.** The pipeline is effectively an append-only log. History is never mutated; changes are visible as new entries, not silent edits.
-3. **Scraped sources are immutable.** Raw captures are archives. Fix a parser bug → re-run the parser on the same raw file. Never edit a capture.
-4. **Save everything.** Every part of the pipeline saves its output, always. There is no such thing as a "progress point" to lose: every completed capture is durable the moment it is written.
-5. **Version the producer, version the output.** Parsers/tools are versioned and each output row records what produced it. Updating a parser never silently rewrites old values — a human may be referencing the data.
-6. **Two kinds of data** (see spec §2.0): machine-read (parser only, append-only) and derived (LLM/human, in their own clearly-labeled columns). **A writer never touches a column owned by another writer.**
-7. **No silent success.** Never suppress errors. Never print "operation completed successfully" without actually verifying it. All output is shown, everything is visible.
+1. **We never delete anything. Ever.** Not in git, not on disk. Removing a file from the working tree means moving it to a `.trash/` folder **in the same directory** (e.g. `docs/foo.md` → `docs/.trash/foo.md`). Never dump into one global trash folder.
+2. **No silent success.** Never suppress errors. Never print "operation completed successfully" without actually verifying it. All output is shown, everything is visible.
+
+The pipeline philosophy — append-only log, immutable scraped sources, save everything, versioned producers/outputs, two kinds of data — lives **exactly once**, in [`scraper-parser-spec.md` §0](scraper-parser-spec.md).
 
 ---
 
@@ -73,7 +70,7 @@ Things the AI that wrote this file flagged for your review. None of these are de
 - [ ] **"Never modify the user's rules"** — phrase is ambiguous in a repo file ("whose rules?"). Clearer wording would be "do not edit the rules sections of this file".
 
 ### Duplication / drift risk:
-- [ ] The 7 philosophy points exist twice (here + spec §0). Options: keep both and accept syncing, or trim this file to one-line pointers to [`scraper-parser-spec.md` §0](scraper-parser-spec.md). Lean: trim to pointers.
+- [x] **RESOLVED (restructured):** the philosophy is no longer duplicated. Workspace principles (never delete, no silent success) stay here; the pipeline philosophy (append-only, immutable sources, save everything, versioned producers, two kinds of data) lives only in [spec §0](scraper-parser-spec.md).
 - [ ] Sheet ID, `web_to_md.py` path, uv rules also live in the owner's global agent config. Repetition only matters if you use tools that read *only* this file (Codex etc.).
 
 ### Overlap with the owner's global rules (what is a pure duplicate?):
