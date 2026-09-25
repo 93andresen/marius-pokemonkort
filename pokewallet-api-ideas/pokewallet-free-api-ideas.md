@@ -6,7 +6,7 @@
 >
 > **Free plan limits:** 100 requests/hour · 1,000 requests/day
 >
-> **Companion docs:** [`docs/pokewallet_io_api-docs.md`](pokewallet_io_api-docs.md) (full API reference) · [`docs/pokemon-card-collection-tracker-plan.md`](pokemon-card-collection-tracker-plan.md) (spreadsheet design)
+> **Companion docs:** [`docs/pokewallet_io_api-docs.md`](../docs/pokewallet_io_api-docs.md) (full API reference) · [`pokemon-card-collection-tracker-plan.md`](pokemon-card-collection-tracker-plan.md) (spreadsheet design)
 
 ---
 
@@ -139,7 +139,7 @@ Health check and API info. Useful for monitoring scripts and uptime checks — t
 
 ## 4. Ideas for the Spreadsheet Tracker
 
-These build directly on the existing plan in [`docs/pokemon-card-collection-tracker-plan.md`](pokemon-card-collection-tracker-plan.md).
+These build directly on the existing plan in [`pokemon-card-collection-tracker-plan.md`](pokemon-card-collection-tracker-plan.md).
 
 ### 4.1 Auto-fill card metadata on entry
 

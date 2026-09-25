@@ -1,13 +1,22 @@
 # Scraping → Spreadsheet Pipeline: Additional Instructions & Suggestions
 
-> **Companion to:** [`task-scraping-pipeline.md`](task-scraping-pipeline.md)
-> **Purpose:** Everything that the scraping/ingestion system should do that was NOT already mentioned in the base file. Each item is written as an instruction/requirement that can later be turned into concrete implementation steps.
+> **Origin:** grew out of the original human-written brief [`prompts-notes/scraper-parser-spec-prompt.md`](prompts-notes/scraper-parser-spec-prompt.md). That brief is superseded by this spec — kept only as history (nothing is ever deleted). We are starting from scratch here: nothing is based on the older spreadsheet/tracker docs, though links to relevant repo context are kept below.
 >
 > **Relevant context already in the repo:**
-> - Google Sheet: `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` (see [`notes.md`](notes.md))
-> - Spreadsheet tab architecture: [`docs/pokemon-card-collection-tracker-plan.md`](docs/pokemon-card-collection-tracker-plan.md)
-> - Sample scraped ads: [`finn/annonser/Pokemon_kort/Pokemon_kort.md`](finn/annonser/Pokemon_kort/Pokemon_kort.md)
+> - Google Sheet: `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` (see [`prompts-notes/notes.md`](prompts-notes/notes.md))
+> - Older spreadsheet tab architecture (pre-pivot, reference only): [`pokewallet-api-ideas/pokemon-card-collection-tracker-plan.md`](pokewallet-api-ideas/pokemon-card-collection-tracker-plan.md)
+> - Sample scraped ads (pre-pivot captures, now archived): [`.trash/finn/annonser/Pokemon_kort/Pokemon_kort.md`](.trash/finn/annonser/Pokemon_kort/Pokemon_kort.md)
 > - Scraper tool: `C:\data\code\93andresen_Scripts\web_to_md.py` (run with `uv run`, use `--js`)
+
+---
+
+## 0. Non-negotiable principles (the philosophy everything else follows)
+
+1. **We never delete anything. Ever.** This applies to the entire repo, in every sense. Removal from the working tree means moving to `.trash/`, and history is version-controlled. The pipeline itself is effectively an **append-only log**: we can always go back and see what was, and no information is ever lost.
+2. **Scraped sources are immutable.** What we scrape from the internet is a *source*. We can run whatever tools we want on it and output whatever we want from it, but sources are never edited. Fix something, improve the parser? Re-run it on the sources — they are always there, unchanged.
+3. **Version the producer, version the output.** The parser is versioned, and every output row records the `parser_version` that produced it. When the parser is updated we may re-run it on sources, but we do not silently rewrite old values — a human may be referencing the data, and if a value changes, that change must be visible as history, not a silent mutation.
+4. **"Save everything" means there is no progress point to lose.** Every completed capture is durable the moment it is written. A crash mid-batch leaves a partial but valid archive — nothing is lost. What people usually call "checkpoints" (§4.4) exist only to avoid *re-requesting* the same URLs (politeness/efficiency), never to protect data.
+5. **Machine-read stays machine-read, humans stay in their own columns** — the two-kinds-of-data rule (§2.0). Writers never touch columns owned by other writers.
 
 ---
 
@@ -48,7 +57,7 @@
 - [ ] **Pagination**: scrape all pages of a search, not page 1. Detect the last page and verify the ad count matches (again: visible verification, not silent truncation).
 - [ ] **Delta detection**: keep a registry of all FINN-kodes ever seen per search query. Each run reports: new ads / still-active known ads / gone (sold or removed) ads. New ads are the trigger for full ad-scrapes.
 - [ ] Scrape each search with **at least two sorts** (`PUBLISHED_DESC` for freshness, `RELEVANCE` for recall) and union the results — cheap insurance against ranking-dependent omissions.
-- [ ] Vary the query list systematically (from [`task.md`](task.md): "pokemon kort", "vintage pokemon kort", "pokemon samling", set names like "Base Set Charizard", "japanske pokemon kort", misspellings that sellers make, e.g. "pokémon", "pok mon", "poekmon"). Seller typos are where underpriced deals hide.
+- [ ] Vary the query list systematically: "pokemon kort", "vintage pokemon kort", "pokemon samling", set names like "Base Set Charizard", "japanske pokemon kort", misspellings that sellers make, e.g. "pokémon", "pok mon", "poekmon"). Seller typos are where underpriced deals hide.
 - [ ] Keep a **scrape log** (timestamp, URL, result, error) — append-only, same principle as the price history in the spreadsheet plan.
 
 ### 1.6 Politeness, limits, legal
@@ -76,7 +85,7 @@ The single non-negotiable invariant behind the table: **a writer never touches a
 
 ### 2.1 Machine-read fields, with exact extraction anchors
 
-Grounded in the real captures (`image-20-js.md`, `Pokemon_kort.md`, `Pokemonkort_-_79_stk_reverse_holo.md`):
+Grounded in the real captures (`.trash/finn/annonser/tests/image-20-js.md`, `.trash/finn/annonser/Pokemon_kort/Pokemon_kort.md`, `.trash/finn/annonser/Pokemonkort_-_79_stk_reverse_holo/Pokemonkort_-_79_stk_reverse_holo.md`):
 
 | Field | Anchor in raw `.md` | Notes |
 |---|---|---|
@@ -167,7 +176,7 @@ Parser rules for machine-read fields:
 
 ### 3.4 Sold-ad intelligence (comps — a suggestion not in the base file)
 - [ ] **Keep scraping inactive/sold ads.** Sold ads are historical sales data: they tell you what actually sells, at what price, and how fast. Over time this builds a finn.no price history for vintage sets that no price API covers.
-- [ ] Track **time-to-sell** (`published` → `status != Aktiv` first observed). Velocity per category is a direct input into the arbitrage model in [`research-prompt-pokemon-arbitrage-norway.md`](research-prompt-pokemon-arbitrage-norway.md) ("a 10% margin that takes 6 months is worse than a 5% margin in a week").
+- [ ] Track **time-to-sell** (`published` → `status != Aktiv` first observed). Velocity per category is a direct input into the arbitrage model in [`prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md`](prompts-notes/old/research-prompt-pokemon-arbitrage-norway.md) ("a 10% margin that takes 6 months is worse than a 5% margin in a week").
 - [ ] Track **favorite count over time** as a demand signal (JS-only field — another reason `--js` is mandatory).
 
 ### 3.5 Sheets UX
@@ -182,9 +191,9 @@ Parser rules for machine-read fields:
 
 1. **Notification layer.** New-ad detection should optionally push a summary (e.g. to console/log first; later Telegram/email) — "3 new pokemon-kort ads since last run, best deal: X at 45% of est. value". The system "predicts intent instantly" only if you don't have to open the sheet to learn something happened.
 2. **Seller dimension.** Power sellers (card shops flipping lots) deserve their own small tab: ad history, typical markup, average time-to-sell. Knowing the sellers is as useful as knowing the ads.
-3. **Snapshot the search result page itself** (not just ads): the raw search md is evidence of what existed at time T. Cheap to keep, priceless for debugging "why didn't we see ad X".
-4. **Resume/checkpoint batches.** Long scrapes must be resumable: checkpoint file with completed FINN-kodes so a crash doesn't restart from zero.
-5. **Version the parser.** Raw md is immutable, but parsing rules will evolve. Store `parser_version` per row so old rows can be re-parsed and improvements measured.
+3. **Snapshot the search result page itself** (not just ads): the raw search md is evidence of what existed at time T. By principle §0.1 this is not even a choice — everything is saved, always. Kept here as a reminder of *why*: priceless for debugging "why didn't we see ad X".
+4. **Avoid re-requesting completed scrapes in a batch.** (Rephrased from "resume/checkpoint": per principle §0.4 there is no data progress point to lose — every finished capture is already saved. A record of completed FINN-kodes only prevents wasting requests on URLs we already have, which is a politeness/efficiency concern, not a data-safety one.)
+5. **Version the parser.** Raw md is immutable, but parsing rules will evolve. Store `parser_version` per row so old rows can be re-parsed and improvements measured — and so old outputs are never silently rewritten (principle §0.3).
 6. **Price-change alerts within an ad** (seller lowers price) — historically the strongest buy signal on marketplaces.
 7. **Cross-check against Cardmarket/TCGPlayer in one direction only:** finn prices are NOK asking prices; API prices are market values. Store both with their currencies and let `deal_score` do the comparison — never blend currencies in one column.
 8. **Local CSV export backup** of the whole sheet on each run (the sheet is a Google service; a daily CSV snapshot in the repo is free insurance against accidental edits).
@@ -198,4 +207,4 @@ Parser rules for machine-read fields:
 - Does the search result page expose total result count that we can assert pagination against?
 - How often should the system run (daily? on-demand only?), and is there a request budget ceiling we should hard-code?
 - Should inactive ads be auto-archived to a separate tab after N days to keep `FinnAdsCurrent` fast?
-- Should the "Mer som dette" (similar ads) listings on ad pages be harvested as a discovery source too (they carry kode + price + title + location — all machine-read)?
+- **ANSWERED (discussed 2026-09-25):** Should the "Mer som dette" (similar ads) listings on ad pages be harvested as a discovery source? → **Not as a discovery source** — we will not have a problem finding pages to scrape. Interesting to think about how FINN's similarity algorithm picks them, though. And because raw ad captures are saved whole (§0.1), the "Mer som dette" section is already inside every raw capture anyway — the data exists if we ever want it, at zero extra cost.
