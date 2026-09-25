@@ -24,3 +24,9 @@ venv*
 env/
 ENV/
 env.bak/
+
+# Repo-Spesific ignores (ALL EDITS TO THIS FILE SHOULD BE BELOW THIS LINE)
+
+# s21-silver downloads (scraped binaries, not for version control)
+/s21-silver-downloads/some-old-ad/
+/s21-silver-downloads/android-apps/
