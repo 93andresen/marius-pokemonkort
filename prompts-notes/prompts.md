@@ -148,7 +148,7 @@ then you read:
 C:\data\code\marius-pokemonkort\task-scraping-pipeline.md
 
 instead of:
-C:\data\code\marius-pokemonkort\task-scraping-pipeline-additions.md
+C:\data\code\marius-pokemonkort\scraper-parser-spec.md
 
 ---
 
@@ -212,17 +212,17 @@ C:\data\code\marius-pokemonkort\prompts-and-notes\pokewallet-api-ideas\pokewalle
 
 ---
 
-task-scraping-pipeline-additions.md:185-185
+scraper-parser-spec.md:185-185
 ```
 3. **Snapshot the search result page itself** (not just ads): the raw search md is evidence of what existed at time T. Cheap to keep, priceless for debugging "why didn't we see ad X".
 ```
 
- task-scraping-pipeline-additions.md:186-186
+ scraper-parser-spec.md:186-186
 ```
 4. **Resume/checkpoint batches.** Long scrapes must be resumable: checkpoint file with completed FINN-kodes so a crash doesn't restart from zero.
 ```
 
- task-scraping-pipeline-additions.md:187-187
+ scraper-parser-spec.md:187-187
 ```
 5. **Version the parser.** Raw md is immutable, but parsing rules will evolve. Store `parser_version` per row so old rows can be re-parsed and improvements measured.
 ```
@@ -237,7 +237,7 @@ It is the same with the suggestion about the search result pages, to save those.
 
 I don't know how much well I told you to look around the repository and read files at the start of this session when when we first created when I first asked you to create the additions and suggestions I just write now realized that the repository contains like some previous generated suggestions that were well not for the scraper but was for the spreadsheet for the portfolio tracker and so on now I don't know exactly what those contains and probably they are good maybe but I don't know and so I just I just wanted to say and the reason why I'm saying this now is because i saw this:
 
-task-scraping-pipeline-additions.md:8-8
+scraper-parser-spec.md:8-8
 ```
 > - Spreadsheet tab architecture: [`docs/pokemon-card-collection-tracker-plan.md`](docs/pokemon-card-collection-tracker-plan.md)
 ```
@@ -248,7 +248,7 @@ The point the point is really that uh well the point is that that we are startin
 
 ---
 
-task-scraping-pipeline-additions.md:201-201
+scraper-parser-spec.md:201-201
 ```
 - Should the "Mer som dette" (similar ads) listings on ad pages be harvested as a discovery source too (they carry kode + price + title + location — all machine-read)?
 ```
