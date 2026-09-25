@@ -6,7 +6,7 @@ Instructions for any AI agent (Roo, Claude, Codex, ...) working in this reposito
 
 ## What this repo is
 
-This repo was originally a FINN.no Pokémon-card arbitrage project. As of commit `0ccc05c` it **pivoted**: it is now about turning **finn.no into structured data** — a pipeline that scrapes FINN.no listings, parses them into machine-read fields, and lands them in an append-only archive and a Google Sheet.
+This repo grew out of a Pokémon-card project around FINN.no listings: ad captures, collection exports, scanned-card CSVs, price/droprate research and tracker ideas. As of commit `0ccc05c` it **pivoted** to one clear purpose: turning **finn.no into structured data** — a pipeline that scrapes FINN.no listings, parses them into machine-read fields, and lands them in an append-only archive and a Google Sheet.
 
 The **FINN-kode** (the numeric ad id, e.g. `475878513`) is the primary key for everything: folders, rows, dedupe, image downloads.
 
