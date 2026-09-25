@@ -76,6 +76,19 @@ Things the AI that wrote this file flagged for your review. None of these are de
 - [ ] The 7 philosophy points exist twice (here + spec §0). Options: keep both and accept syncing, or trim this file to one-line pointers to [`scraper-parser-spec.md` §0](scraper-parser-spec.md). Lean: trim to pointers.
 - [ ] Sheet ID, `web_to_md.py` path, uv rules also live in the owner's global agent config. Repetition only matters if you use tools that read *only* this file (Codex etc.).
 
+### Overlap with the owner's global rules (what is a pure duplicate?):
+Rules here that Roo already enforces globally from `~/.roo/rules/` — duplicated on purpose *if* non-Roo tools (Codex etc.) will use this repo, pure noise if Roo-only:
+- [ ] **uv run / `uv add --script` / never hand-edit PEP 723** → duplicates `python-env-rules.md` (verbatim).
+- [ ] **"File operations must fail rather than overwrite"** → duplicates universal-rules "Moving/Renaming files".
+- [ ] **"Never modify the user's rules"** → duplicates universal-rules "Do not modify the rules".
+- [ ] **"Never delete anything / .trash in the same directory"** → duplicates universal-rules "Never delete files".
+- [ ] **"No silent success"** → duplicates universal-rules "Never suppress errors" (+ the success-print clause).
+Not covered by global rules (repo/session-specific — these are the ones only this file carries):
+- Git read-only by default; long flags.
+- Never read `prompts-notes/prompts.md`.
+- `web_to_md.py --js` scraping rule.
+- Append-only pipeline, immutable sources, versioned producers, two-kinds-of-data, sheet/finn-kode specifics (the genuinely repo-own rules).
+
 ### Aging hazards:
 - [ ] The `0ccc05c` reference will read as stale trivia later; could become "the pivot commit in the git history".
 
@@ -84,3 +97,4 @@ Things the AI that wrote this file flagged for your review. None of these are de
 - [ ] Language preference (respond in English; Norwegian where mirroring FINN content).
 - [ ] Windows/cmd environment note (cmd.exe, `findstr` not `grep`, real paths — no symlinks).
 - [ ] Warning that `.git` holds ~242 MiB of dead loose objects from the undone commit `250c9ef` (binaries) — so a future agent doesn't "helpfully" run `git gc`; cleanup is the human's call (reflog expire + gc).
+
