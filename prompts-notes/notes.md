@@ -1,8 +1,4 @@
-Google Sheets Link:
-https://docs.google.com/spreadsheets/d/13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM/edit?gid=0#gid=0
-
-Google Sheets ID:
-13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM
+""" **THIS IS JUST A FILE WHERE I PASTED ALL SORTS OF TRASH SNIPPETS I HAVE FOUND AS LONG AS IT IS ABOUT POKEMON CARDS, AGENTS SHOULD IGNORE ALL OF THIS!**
 
 ---
 

@@ -66,15 +66,47 @@ and for fetching linnk crawl with swearch first
 
 search dyntax in url is:
 
-### Search for these things - Here are a couple of examples for search queries. make an optimal list of search queries for scraping for maximizing profit
+### Search for these things - Here are a couple of examples for search queries. make an list of search queries that optimizes for ~~profit~~ **WHAT HE FINDS INTRESTING!**
 
+### **These are search queries. I asked him what he usually searches for.**
 
+### Search queries
 Pokemon Kort
 Vintage Pokemon Kort
 Pokemon Samling
 Vintage Samling 4570
 
+Neo Genesis
+G
+
 ### Induvidual Cards
+Umbreon
+Gengar
+Mew
+Mew2
+Ho-Oh
+Lugia
+Pikachu
+Jolteon
+Alakazam
+Rayquasa
+mightyena
+dragonair
+typhhlosion
+raichu
+
+**I remember I told him I needed to know the sets for them also and the sets below is what he gave me.**
+
+**I guess we still would need the spesific sets for the pokemon above if he has any prefference?**
+
+I think
+
+**Regardless...**
+
+**But we should probably start by focusing on all the search terms above first since that is the literal list he was listing on the fly over the phone when I asked him.**
+
+**Actually I am sitting with him now and THESE Sets are INTRRESTING:**
+
 ​Base Set (1999)  
 ​Jungle (1999)  
 ​Fossil (1999)  
@@ -85,6 +117,10 @@ Vintage Samling 4570
 ​Neo Genesis (2000)  
 ​Neo Discovery (2001)
 ​Neo Revelation (2001)
+
+**These too, but NOT NEARLY AS INTRESTING AS THE SETS ABOVE**
+
+Literal quote: **"As long as they are at least 20 years old..."**
 
 ​Skyridge (2003) – Siste sett fra WotC, kjent for ekstremt sjeldne Crystal-kort.  
 ​Base Set (1st Edition / Shadowless) (1999) – Inneholder det ikoniske 1st Edition Charizard-kortet.  
@@ -281,3 +317,249 @@ We need to create an AGENTS.md file.
 
 And it needs to contain, well, you should think about what it needs to contain and make it.
 
+---
+
+@/docs/pokewallet_io_api-docs.md 
+
+Now we have the ACTUAL EXPORT of my friends portfolio!
+
+Here:
+C:\data\code\marius-pokemonkort\getcollectr\marius_pokemon_cards_collectr_export_2026-10-02-052742.csv
+
+Use the docs
+Write a script
+to fetch all the current information about all those cards.
+
+Make the script as useful and flexible as possible.
+
+look around in this repo and get familiar so you have a good idea about all the different thigs that might be useful.
+
+And you have all the docs there also.
+
+Could just make a script that can be used for any of the api's functionaleties
+
+There are some considerations to be made here.
+
+Like for example, we have the csv, and we have the spreadsheet
+
+This file has to be changed in multiple ways:
+C:\data\code\marius-pokemonkort\scraper-parser-spec.md
+
+scraper-parser-spec.md:6-6
+```
+> - Google Sheet: `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` (see [`prompts-notes/notes.md`](prompts-notes/notes.md))
+```
+
+That is not there anymore I moved it to the top of AGENTS.md
+
+---
+
+ scraper-parser-spec.md:9-9
+```
+> - Scraper tool: `C:\data\code\93andresen_Scripts\web_to_md.py` (run with `uv run`, use `--js`)
+```
+
+I don't think it's a good idea to use my markdown scraper to scrape finn.no
+
+THIS IS  THE BIG THING!
+
+It is NOT optimal AL ALL to convert it to markdown when we can really just grap everything we need much eisier and better in every way wothout the markdown conversion anyway!
+
+It is much cleaner, better in every way really.
+
+How will we do that?
+
+You should update the files that needs to be updated.
+
+Then you should use the csv file and create all the code for the entire portfolio tracker, and make sure we start fetching price data of his entire portfolio immediatly so that we captuyre as much price changes as possible!
+
+And feel free to create any utileties you want along the way!
+
+And also, you should populate the spreadsheed with his collection and all the values that are in the csv. And when you have the updated prices from the API you should insert them there too and create Good sprreadsheets, overviews, dashboards, make it possible to sort by anything, do and see useful and intresting things, impress us with actual useful functionality.
+
+We need to save everything that the API returns and everything we scrape to disk, never delete anything.
+
+Always write scripts for everything so that everything is always reusable.
+
+You have to actually plan out this entire project now. All parts of it. And write everything down so that we can resume at any time by reading everything you  have written.
+
+I hope you can see the vision here. There are multiple. And frankly, right now, TODAY, when hhe gets home from work, I would love to be able to show him something cool. I son't know what yet. The spreadsheet possibly.
+
+The tool that actually fetches the prices from the finn.no searches is the real goldmine though'
+
+That is where we can blow his mind!
+
+But there are subtle things here.
+
+ho will we get it into the spreadsheet from finn.no?
+
+That is of course not really a problem...
+
+But how can we make this the best tool?
+
+Probably some functionality that let's him fetch prices and graphs (if price history is possible for a single card? or?) Should have graphs ideally but at least what the current price of a card is as convenient as possible.
+
+So not JUST scraping and trying to parse those but tools that he can literally use live, while browsing finn.no
+
+Like I am imagening something like he is just hoovering over a card with the mouse and an overlay with much useful information just appears, or he could have a hotkey and press it when he has the link in the clipboard or when he is on that site is probably maybe the most natural for him. I don't know, we should create multiple functionaleties like this.
+
+Many different ways to augment finn.no by providing instant price information that he can see on finn.no while he is browsing.
+
+It sould trigger every time the url changes. If it changes to an spesific ad, then scrape that ad, and if it's possible fetch the card(s).
+
+If it is not possible to determine EXACTLY what the card(s) are for any reason (there will be many reasons...) Then What do we do?
+
+Well, we could think of some sort of optimal auto correct. No, I meant auto complete so if we if we create if we create so so if we if we know about all the different possible Pokemon cards and all the different possible sets that is that it can even be then well just by knowing what Pokemon it is at least then we can know immediately which ones it can be right and well we can we can we can simply just make a simple thing that will take the most likely ones and put them put them on top and we can just and we can just fetch multiple like if it is right I mean if if we we should probably set a limit to how many we want to narrow it down to before just fetching the prices because well because what what do we have like a hundred calls an hour or something like that so if we have a hundred calls an hour well let's effectively well I mean that's that's more than one minute actually that's almost two calls every minute but so how can we be smart about this we should we should we should say everything that we call to disco need to we need to figure out how we can how we can really be smart about this and be as useful as possible and so and so I think this is probably how how we're actually going to use this and this is the best way this is the coolest way that I can think of to use it some kind of some kind of tool that will because what he does now is that he he opens up a new tab every time and he goes to prize charting to price charting and and
+
+
+
+
+Here, you can try on this link so you have something to test.
+
+https://www.finn.no/recommerce/forsale/search?q=vintage+pokemonkort
+
+And that link contains all these links:
+
+
+https://helthjem.no/
+https://hjelpesenter.finn.no/hc/no
+https://morgenlevering.no/
+https://twitter.com/finn_no
+https://vend.com/career
+https://vend.com/privacy/no-policy
+https://www.facebook.com/finn.no/
+https://www.finn.no/
+https://www.finn.no/bap/artikler/aktuelt/om-vend
+https://www.finn.no/bap/artikler/trygg-pa-finn
+https://www.finn.no/bedrift
+https://www.finn.no/bedriftskunde
+https://www.finn.no/bli-bedriftskunde
+https://www.finn.no/business
+https://www.finn.no/create-item/start
+https://www.finn.no/finnspirasjon
+https://www.finn.no/map/recommerce/forsale?q=vintage+pokemonkort
+https://www.finn.no/messages
+https://www.finn.no/mobility/browse/boat
+https://www.finn.no/mobility/browse/car
+https://www.finn.no/mobility/browse/mc
+https://www.finn.no/my-page
+https://www.finn.no/notifications
+https://www.finn.no/nybrukt
+https://www.finn.no/privacy
+https://www.finn.no/recommerce/forsale/item/343497750
+https://www.finn.no/recommerce/forsale/item/396457712
+https://www.finn.no/recommerce/forsale/item/454059968
+https://www.finn.no/recommerce/forsale/item/457301204
+https://www.finn.no/recommerce/forsale/item/461428934
+https://www.finn.no/recommerce/forsale/item/473170726
+https://www.finn.no/recommerce/forsale/item/473488025
+https://www.finn.no/recommerce/forsale/item/473896151
+https://www.finn.no/recommerce/forsale/item/474057424
+https://www.finn.no/recommerce/forsale/item/474098987
+https://www.finn.no/recommerce/forsale/item/475002093
+https://www.finn.no/recommerce/forsale/item/475548037
+https://www.finn.no/recommerce/forsale/item/475656236
+https://www.finn.no/recommerce/forsale/item/476275362
+https://www.finn.no/recommerce/forsale/item/476300208
+https://www.finn.no/recommerce/forsale/item/476374848
+https://www.finn.no/recommerce/forsale/item/476378494
+https://www.finn.no/recommerce/forsale/item/476436091
+https://www.finn.no/recommerce/forsale/item/476465342
+https://www.finn.no/recommerce/forsale/item/476524524
+https://www.finn.no/recommerce/forsale/item/476672213
+https://www.finn.no/recommerce/forsale/item/476672843
+https://www.finn.no/recommerce/forsale/item/476673489
+https://www.finn.no/recommerce/forsale/item/476674038
+https://www.finn.no/recommerce/forsale/item/476675869
+https://www.finn.no/recommerce/forsale/item/476737492
+https://www.finn.no/recommerce/forsale/item/476771196
+https://www.finn.no/recommerce/forsale/item/476829779
+https://www.finn.no/recommerce/forsale/item/476861358
+https://www.finn.no/recommerce/forsale/item/476916664
+https://www.finn.no/recommerce/forsale/item/477143304
+https://www.finn.no/recommerce/forsale/item/477239833
+https://www.finn.no/recommerce/forsale/item/477240639
+https://www.finn.no/recommerce/forsale/item/477247473
+https://www.finn.no/recommerce/forsale/item/477248421
+https://www.finn.no/recommerce/forsale/item/477248839
+https://www.finn.no/recommerce/forsale/item/477249260
+https://www.finn.no/recommerce/forsale/item/477249379
+https://www.finn.no/recommerce/forsale/item/477249540
+https://www.finn.no/recommerce/forsale/item/477295287
+https://www.finn.no/recommerce/forsale/item/477362319
+https://www.finn.no/recommerce/forsale/item/477405819
+https://www.finn.no/recommerce/forsale/item/477406490
+https://www.finn.no/recommerce/forsale/item/477411866
+https://www.finn.no/recommerce/forsale/item/477418602
+https://www.finn.no/recommerce/forsale/item/477424483
+https://www.finn.no/recommerce/forsale/item/477433267
+https://www.finn.no/recommerce/forsale/item/477434460
+https://www.finn.no/recommerce/forsale/item/477456856
+https://www.finn.no/recommerce/forsale/item/477516275
+https://www.finn.no/recommerce/forsale/item/477516805
+https://www.finn.no/recommerce/forsale/item/477587734
+https://www.finn.no/recommerce/forsale/item/477611901
+https://www.finn.no/recommerce/forsale/item/477756586
+https://www.finn.no/recommerce/forsale/search?category=0.3857&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.67&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.68&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.69&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.71&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.76&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.77&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.78&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.86&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.90&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.91&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?category=0.93&q=vintage pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=1&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=2&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=3&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=4&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=5&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=6&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?page=7&q=vintage+pokemonkort
+https://www.finn.no/recommerce/forsale/search?q=vintage+pokemonkort#skip-to-filters
+https://www.finn.no/recommerce/forsale/search?q=vintage+pokemonkort#skip-to-results
+https://www.finn.no/vilkar
+https://www.finn.no/vilkar/brukervilkar-finn
+https://www.instagram.com/finn_no/
+https://www.nettbil.no/
+https://www.youtube.com/user/finn
+https://helthjem.no/
+https://hjelpesenter.finn.no/
+https://morgenlevering.no/
+https://twitter.com/
+https://vend.com/
+https://www.facebook.com/
+https://www.finn.no/
+https://www.instagram.com/
+https://www.nettbil.no/
+https://www.youtube.com/
+
+
+Allthough you could really just make your own lests and gather your own links...
+
+And every time he opens up a spesific pricecharting link then that should be saved too. We should basivly just save the entire browser history so we can go back in time and trigger anything we want.
+
+Also, then he will be able to say to you something like "Find all the Pichu's I have looked at in the last 4 weeks" And you will actualy be able to find it, regardless of website.
+
+Pricechatring links should be stored somewhere though but not used as confirmation unless the user actually confirms that it is correct!
+
+We need to make sure we can always trust everything!
+
+Go wild!
+
+I will leave and come back later. UYou probably have to just make many decicionshere and we will see when I come back!
+
+The spreadsheet is completly empty, feel free to do absolutly whatever you want with it.
+
+Please I hope to come back and see many things!
+
+And I'm looking forward to see what you can do with the spreadsheet also!
+
+For now you can just manually populate it with everything and you can really spend alot of time there.
+
+but alot of time shold be spent really trying to think about and trying to figure out and come up with new tools and new ways to use the tools that you make you know that whole augmenting finn.no thing.
+
+EVERYTHING i have talked about should be done with alot of thoughts and take your time with everything!
