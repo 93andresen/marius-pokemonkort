@@ -1,0 +1,10 @@
+generated_at: 2026-10-02-173950
+rows: 191
+
+4	Brave Stars (Charm)
+3	Brave Stars (Courage)
+2	Base Set (Japanese)
+1	Gym Challenge (Japanese)
+1	Gym Heroes (Japanese)
+1	Neo Genesis (Japanese)
+1	Vending Series 1 (Blue)
