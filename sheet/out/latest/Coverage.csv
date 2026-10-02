@@ -1,26 +1,34 @@
 Metric,Value
 Rows in portfolio,191
-Rows with a price,36
-Rows without a price,155
-Coverage %,18.8
+Rows with a price,108
+Rows without a price,83
+Coverage %,56.5
 ,
 === price_source ===,
-(blank),155
-both,21
-tcgplayer,11
+(blank),83
+both,75
+tcgplayer,29
 cardmarket,4
 ,
 === served_from ===,
-(blank),142
+fetched,72
+(blank),64
 cache,36
 orphan,13
+miss,6
 ,
 === match_method ===,
-set:name_exact,74
-set:name_suffix,63
-set:name_exact+card:name_number,28
+set:name_exact+card:name_number,49
+set:name_exact,43
+set:name_suffix+card:name_number,39
+set:name_suffix,21
 set:none,13
-set:name_fuzzy+card:name_number,7
-set:name_fuzzy,4
+set:name_fuzzy+card:name_number,10
+set:name_exact+card:set_number,8
+set:name_suffix+card:none,2
+set:name_exact+card:none,1
+set:name_exact+card:reject,1
+set:name_fuzzy+card:none,1
 set:name_fuzzy+card:set_number,1
-set:name_partial,1
+set:name_partial+card:none,1
+set:name_suffix+card:set_number,1

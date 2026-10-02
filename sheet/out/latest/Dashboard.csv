@@ -1,19 +1,19 @@
 Pokémon Portfolio Dashboard,
-Generated (UTC),2026-10-02 15:56:35
+Generated (UTC),2026-10-02 16:10:55
 ,
 === Holdings ===,
 Distinct rows,191
 Total card quantity,204
-Rows with an API price,36
-Price coverage %,18.8
+Rows with an API price,108
+Price coverage %,56.5
 ,
 === Value (NOK) ===,
 Collectr market total (NOK),19814.95
-"API-priced total (NOK @ USD 10.8, EUR 11.7)",11136.74
+"API-priced total (NOK @ USD 10.8, EUR 11.7)",15455.1
 ,
 === References ===,
 Sets in catalog,864
-Snapshot records captured,210
+Snapshot records captured,337
 ,
 === Top 15 holdings by Collectr value ===,
 Set,Product,Number,Qty,Collectr (NOK),Collectr Value (NOK)

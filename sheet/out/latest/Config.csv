@@ -9,4 +9,4 @@ MIN_DAY_REMAINING,20,safety floor
 USD_NOK,10.8,edit to update API->NOK conversion
 EUR_NOK,11.7,edit to update API->NOK conversion
 FRESH_HOURS,20,fetcher serves cached prices younger than this
-Generated (UTC),2026-10-02 15:56:35,
+Generated (UTC),2026-10-02 16:10:55,
