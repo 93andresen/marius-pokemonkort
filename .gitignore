@@ -30,3 +30,7 @@ env.bak/
 # s21-silver downloads (scraped binaries, not for version control)
 /s21-silver-downloads/some-old-ad/
 /s21-silver-downloads/android-apps/
+
+# Python bytecode (generated)
+__pycache__/
+*.pyc
