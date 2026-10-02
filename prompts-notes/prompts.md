@@ -563,3 +563,5 @@ For now you can just manually populate it with everything and you can really spe
 but alot of time shold be spent really trying to think about and trying to figure out and come up with new tools and new ways to use the tools that you make you know that whole augmenting finn.no thing.
 
 EVERYTHING i have talked about should be done with alot of thoughts and take your time with everything!
+
+**ALSO! VERY IMPORTANT! MAKE SURE THAT YOU USE GIT VERY ACTIVLY ALL THE TIME! EVEN WHEN FAILURES HAPPENS! ALL THE TIME! I JUST WANT TO SEE THE PROCESS! SO MAKE SURE TO COMMIT ALL THE TIME!**
