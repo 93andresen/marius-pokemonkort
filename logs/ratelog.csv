@@ -95,3 +95,5 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T15:49:10Z,search,/search,q=1434+66&limit=5,200,7,907,True,
 2026-10-02T15:49:10Z,search,/search,q=1441+106&limit=5,200,6,906,True,
 2026-10-02T15:49:11Z,search,/search,q=1441+123&limit=5,200,5,905,True,
+2026-10-02T15:50:20Z,search,/search,q=-240+0702&limit=5,200,4,904,True,
+2026-10-02T15:50:34Z,search,/search,q=-240+0702&limit=5,200,3,903,True,

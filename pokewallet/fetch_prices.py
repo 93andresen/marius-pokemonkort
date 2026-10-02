@@ -247,7 +247,10 @@ def carry_forward(record: dict, cached: dict | None) -> bool:
 
 
 # --- main ------------------------------------------------------------------
-def main(argv: list[str] | None = None) -> int:
+def main(argv: list[str] | None = None, stats: dict | None = None) -> int:
+    """Run one fetch pass. If ``stats`` is given, it is filled with run counts
+    (``calls``/``fetched``/``cache``/``to_fetch``/``total``/``stopped``) so an
+    orchestrator (``fetch_loop.py``) can decide whether to keep going."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--csv", default=str(config.COLLECTR_CSV),
                         help="path to the Collectr export CSV")
@@ -472,6 +475,16 @@ def main(argv: list[str] | None = None) -> int:
               "snapshots are append-only and safe to repeat.")
     print(f"appended jsonl:         {SNAPSHOT_JSONL}  (+{wrote - len(orphan_rows)} rows)")
     print(f"snapshot csv:           {snapshot_csv}")
+    if stats is not None:
+        stats.update(
+            calls=calls,
+            fetched=cards_found,
+            cache=len(fresh_keys),
+            to_fetch=len(fetch_keys),
+            total=len(all_keys),
+            stopped=stopped,
+            snapshot_csv=str(snapshot_csv),
+        )
     return 0
 
 
