@@ -1,0 +1,62 @@
+{
+  "query": "2289 060",
+  "results": [
+    {
+      "id": "pk_e34ef3412397fc0f79c6168194b12f5e4fc2c775d1d72c7716984574a43cb613c06b2802d789fb6594a7ad0c228a",
+      "card_info": {
+        "name": "Baxcalibur - 060/193 (Cosmos Holo)",
+        "clean_name": "Baxcalibur 060 193 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "060/193",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "160",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Super Cold</strong>\r\n<br>As often as you like during your turn, you may attach a Basic W Energy card from your hand to 1 of your Pokemon.",
+        "attacks": [
+          "[1WW] Buster Tail (130)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.5,
+            "high_price": 1000,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/555880"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

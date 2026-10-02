@@ -1,0 +1,88 @@
+{
+  "query": "24310 068",
+  "results": [
+    {
+      "id": "pk_876dc6c58cd715df1e523a8184fc6abbe908245e95e0f6a91e3519de1605485d3fc27dcadc2ba8b6e5c7fbaae58df1",
+      "card_info": {
+        "name": "Team Rocket's Muk",
+        "clean_name": "Team Rockets Muk",
+        "set_name": "SV10: The Glory of Team Rocket",
+        "set_code": "SV10",
+        "set_id": "24310",
+        "card_number": "068/098",
+        "rarity": "Uncommon",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Colorless] Sticky Stain (40)<br> Your opponent's Active Pokémon is now Confused. During your opponent's next turn, that Pokémon can't retreat.",
+          "[Darkness][Darkness][Colorless] Venom Hazard (100x)<br> This attack does 100 damage for each Special Condition affecting your opponent's Active Pokémon."
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.2,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/628709"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Muk",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Muk-sv10068"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "query": "23266 095",
+  "results": [
+    {
+      "id": "pk_0b38b47f75b088061535aeb3fd2d117c3242afa97dea930c874f41e82ac21b3419fcf479b0faf3a26eebca2247bb85",
+      "card_info": {
+        "name": "Lycanroc",
+        "clean_name": "Lycanroc",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "095/185",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Rock Throw (40)",
+          "[1F] Sharp Mane (70)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515655"
+      },
+      "cardmarket": {
+        "product_name": "Lycanroc",
+        "prices": [
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.38,
+            "avg30": 0.19,
+            "trend": 0.22,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Lycanroc-BOO23VIV-095"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

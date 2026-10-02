@@ -1,0 +1,98 @@
+{
+  "query": "Holon Phantom 80",
+  "results": [
+    {
+      "id": "pk_d9edf81234590dbbad70bb58148381a6f4f0634f93ea548b8dea5d4f58b22895dd91316cdc66ac4a0a5e2d54dd",
+      "card_info": {
+        "name": "Poochyena",
+        "clean_name": "Poochyena",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "80/110",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Paralyzing Gaze  \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[2] Smash Kick (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.18,
+            "mid_price": 0.5,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 11.99,
+            "mid_price": 85.49,
+            "high_price": 199.99,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 16.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88298"
+      },
+      "cardmarket": {
+        "product_name": "Poochyena",
+        "prices": [
+          {
+            "avg": 5.5,
+            "low": 1.99,
+            "avg1": 20,
+            "avg7": 6.35,
+            "avg30": 5.2,
+            "trend": 6.86,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.43,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.72,
+            "avg30": 0.4,
+            "trend": 0.35,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Poochyena-HP80"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

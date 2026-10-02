@@ -1,0 +1,88 @@
+{
+  "query": "23266 062",
+  "results": [
+    {
+      "id": "pk_39b3ca391673aa7658b679bd20a2656ba338145c12d1750266f7a72a0cd9d57a871674695d27288d92a9a9c6bb0f4a",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "062/193",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Growl\r\n<br>During your opponent’s next turn, the Defending Pokemon’s attacks do 20 less damage (before applying Weakness and Resistance).",
+          "[1L] Pika Bolt (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.55,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.51,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515654"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.98,
+            "low": 0.1,
+            "avg1": 0.8,
+            "avg7": 1.05,
+            "avg30": 0.93,
+            "trend": 1.14,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.46,
+            "low": 0.86,
+            "avg1": 0.45,
+            "avg7": 1.86,
+            "avg30": 1.21,
+            "trend": 1.61,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Pikachu-BOO23PAL-062"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

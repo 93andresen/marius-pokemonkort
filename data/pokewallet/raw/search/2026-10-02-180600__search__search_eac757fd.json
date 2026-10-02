@@ -1,0 +1,102 @@
+{
+  "query": "1842 29",
+  "results": [
+    {
+      "id": "pk_b2598173a2061059e0ff134c979798d7e40d466d4b1ee6d98c57795859e75f60112609cde97b3bd1926f239a0301",
+      "card_info": {
+        "name": "Dewgong",
+        "clean_name": "Dewgong",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "29/108",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Super Deep Dive\r\n<br>Heal 40 damage from this Pokemon. Switch this Pokemon with 1 of your Benched Pokemon.",
+          "[2W] Take Down (90)\r\n<br>This Pokemon does 20 damage to itself."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 35,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 1.7,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.77,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124042"
+      },
+      "cardmarket": {
+        "product_name": "Dewgong",
+        "prices": [
+          {
+            "avg": 2.1,
+            "low": 0.1,
+            "avg1": 3,
+            "avg7": 2.01,
+            "avg30": 2.46,
+            "trend": 2.5,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.28,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.28,
+            "avg30": 0.27,
+            "trend": 0.24,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dewgong-EVO29"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

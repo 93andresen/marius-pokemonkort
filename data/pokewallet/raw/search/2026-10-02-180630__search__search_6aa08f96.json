@@ -1,0 +1,87 @@
+{
+  "query": "23645 115",
+  "results": [
+    {
+      "id": "pk_98e262de840f758e80fbe90931148798e7f00117b1f35fd725424f3ba8c587b13428decd99308594bae1d92119f5996d",
+      "card_info": {
+        "name": "Radiant Eternatus",
+        "clean_name": "Radiant Eternatus",
+        "set_name": "S12a: VSTAR Universe",
+        "set_code": "S12a",
+        "set_id": "23645",
+        "card_number": "115/172",
+        "rarity": "Kagayaku",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire][Darkness][Colorless] Power Beam (200)"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.42,
+            "mid_price": 0.67,
+            "high_price": 3.25,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571653"
+      },
+      "cardmarket": {
+        "product_name": "Radiant Eternatus",
+        "prices": [
+          {
+            "avg": 0.53,
+            "low": 0.1,
+            "avg1": 0.75,
+            "avg7": 0.54,
+            "avg30": 0.54,
+            "trend": 0.53,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/VSTAR-Universe/Radiant-Eternatus-s12a115"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

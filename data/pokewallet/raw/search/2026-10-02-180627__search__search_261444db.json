@@ -1,0 +1,87 @@
+{
+  "query": "23561 096",
+  "results": [
+    {
+      "id": "pk_9fef717584ef3b96cbece4be62b203007be6079ac628dd45567bcbda75c3f32791c8db31c5b7f24bc793f2d1dcf924",
+      "card_info": {
+        "name": "Fezandipiti (Cosmos Holo)",
+        "clean_name": "Fezandipiti Cosmos Holo",
+        "set_name": "Trick or Trade BOOster Bundle 2024",
+        "set_code": "TTBB24",
+        "set_id": "23561",
+        "card_number": "096/167",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Adrena-Pheromone</strong><br>If this Pokémon has any D Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.",
+        "attacks": [
+          "[P] Energy Feather (30x)\r\nThis attack does 30 damage for each Energy attached to this Pokémon."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/570568"
+      },
+      "cardmarket": {
+        "product_name": "Fezandipiti",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.12,
+            "avg30": 0.14,
+            "trend": 0.28,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2024/Fezandipiti-BOO24TWM-096"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

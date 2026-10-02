@@ -1,0 +1,88 @@
+{
+  "query": "23645 041",
+  "results": [
+    {
+      "id": "pk_b7e177a6b6849247185a2d7481a34e80068e3502fb1e961d33da58116279603e763fcc8468db9c79d9543929834a11",
+      "card_info": {
+        "name": "Zeraora VMAX - 041/172",
+        "clean_name": "Zeraora VMAX",
+        "set_name": "S12a: VSTAR Universe",
+        "set_code": "S12a",
+        "set_id": "23645",
+        "card_number": "041/172",
+        "rarity": "Triple Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "VMAX",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Lightning] Reactive Pulse (60x)<br> This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability.",
+          "[Lightning][Lightning][Colorless] Max Fist (240)<br> Discard 2 Energy from this Pokémon."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.59,
+            "mid_price": 0.99,
+            "high_price": 4.6,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571579"
+      },
+      "cardmarket": {
+        "product_name": "Zeraora VMAX",
+        "prices": [
+          {
+            "avg": 0.97,
+            "low": 0.38,
+            "avg1": 0.65,
+            "avg7": 0.9,
+            "avg30": 0.96,
+            "trend": 0.99,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/VSTAR-Universe/Zeraora-VMAX-V1-s12a041"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

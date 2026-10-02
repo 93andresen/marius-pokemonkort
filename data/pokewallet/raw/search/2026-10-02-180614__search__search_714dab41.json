@@ -1,0 +1,102 @@
+{
+  "query": "23237 007",
+  "results": [
+    {
+      "id": "pk_6f4137bf148368ce862425e9deaa1fc4231c4e827977de635e2dd8b4a5d5a7ed4bae15c87d86070a2436169a2db2",
+      "card_info": {
+        "name": "Squirtle - 007/165",
+        "clean_name": "Squirtle",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "007/165",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Withdraw\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokemon by attacks.",
+          "[WW] Skull Bash (20)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.46,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.27,
+            "high_price": 18.38,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/502548"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": 3.99,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.78,
+            "low": 3.99,
+            "avg1": 5.94,
+            "avg7": 7.45,
+            "avg30": 6.81,
+            "trend": 7.27,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Squirtle-V4-MEW007"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

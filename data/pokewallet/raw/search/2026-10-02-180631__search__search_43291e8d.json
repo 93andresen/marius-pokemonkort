@@ -1,0 +1,87 @@
+{
+  "query": "23645 048",
+  "results": [
+    {
+      "id": "pk_1b3305af20ac1686743867fb66dc9015f529edc54e80bf9935c9d2a4de0c57a9d6b1aad4bc60f65f1f58b0ba39f90b",
+      "card_info": {
+        "name": "Gengar",
+        "clean_name": "Gengar",
+        "set_name": "S12a: VSTAR Universe",
+        "set_code": "S12a",
+        "set_id": "23645",
+        "card_number": "048/172",
+        "rarity": null,
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Psychic] Screaming Circle<br> Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon."
+        ],
+        "weakness": "Darkness x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.85,
+            "mid_price": 3,
+            "high_price": 5.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 2.6,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571586"
+      },
+      "cardmarket": {
+        "product_name": "Gengar",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.8,
+            "low": 0.5,
+            "avg1": 2.09,
+            "avg7": 1.94,
+            "avg30": 1.83,
+            "trend": 1.66,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/VSTAR-Universe/Gengar-s12a048"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

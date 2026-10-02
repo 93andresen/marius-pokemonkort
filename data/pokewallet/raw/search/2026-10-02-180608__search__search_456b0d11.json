@@ -1,0 +1,98 @@
+{
+  "query": "1842 97",
+  "results": [
+    {
+      "id": "pk_f9d9d0eae7cf3282639a7250f3cb86f63aac08c6d172f11afe8d113afc8879f7ed7d6a684a9bbfd911dee7a3cbe1",
+      "card_info": {
+        "name": "Darkness Energy",
+        "clean_name": "Darkness Energy",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "97/108",
+        "rarity": "Common",
+        "card_type": "Basic Darkness Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.98,
+            "mid_price": 1.49,
+            "high_price": 24.52,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 10.5,
+            "high_price": 50.2,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 10.01,
+            "direct_low_price": 10.88,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124110"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 2.56,
+            "low": 0.02,
+            "avg1": 5,
+            "avg7": 2.44,
+            "avg30": 2.97,
+            "trend": 2.1,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.25,
+            "low": 1.85,
+            "avg1": 5,
+            "avg7": 8.16,
+            "avg30": 6.29,
+            "trend": 7.95,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Darkness-Energy-EVO97"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

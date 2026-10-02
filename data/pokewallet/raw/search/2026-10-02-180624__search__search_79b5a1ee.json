@@ -1,0 +1,92 @@
+{
+  "query": "23473 221",
+  "results": [
+    {
+      "id": "pk_8b4d48cb5c5b51c74c6fcdeaf44900eb4c1aeb4fe2ab52c6dda1419b792a8db52de0f3db8f34e5fe1f5d9bf6a88a34b0",
+      "card_info": {
+        "name": "Teal Mask Ogerpon ex - 221/167",
+        "clean_name": "Teal Mask Ogerpon ex",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "221/167",
+        "rarity": "Hyper Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Teal Dance</strong><br>Once during your turn, you may attach a Basic G Energy card from your hand to this Pokémon. If you attached Energy to a pokemon in this way, draw a card.",
+        "attacks": [
+          "[GGG] Myriad Lead Shower (30+)\r\nThis attack does 30 more damage for each Energy attached to both Active Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 9.99,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 9.19,
+            "direct_low_price": 9.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550265"
+      },
+      "cardmarket": {
+        "product_name": "Teal Mask Ogerpon ex",
+        "prices": [
+          {
+            "avg": 10.07,
+            "low": 7,
+            "avg1": 7.18,
+            "avg7": 11.58,
+            "avg30": 10.02,
+            "trend": 10.61,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Teal-Mask-Ogerpon-ex-V4-TWM221"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

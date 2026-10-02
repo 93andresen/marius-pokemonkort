@@ -1,0 +1,63 @@
+{
+  "query": "2289 13",
+  "results": [
+    {
+      "id": "pk_083e14bfb7f054d3d93f128697c0446d1cc9b2eebe313179c833bba11689163d06eeb1d0aa11907413f876c0490e51",
+      "card_info": {
+        "name": "Copperajah - 137/202 (Non-Holo Gamestop Exclusive)",
+        "clean_name": "Copperajah 137 202 Non Holo Gamestop Exclusive",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "137/202",
+        "rarity": "Promo",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "190",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[MM] Dig Drain (60)\r\n<br>Heal 30 damage from this Pokémon.",
+          "[MMM] Muscular Nose (220)\r\n<br>If this Pokémon has 8 or more damage counters on it, this attack does nothing."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.85,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.71,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/222223"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

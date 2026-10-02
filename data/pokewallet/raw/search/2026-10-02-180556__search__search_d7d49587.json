@@ -1,0 +1,151 @@
+{
+  "query": "1840 013",
+  "results": [
+    {
+      "id": "pk_03ebb83d14b57b84681330d01e499341acafbe5e177020f9097fd22604a6e0ca355c8c49915557fa142dd1ad4323",
+      "card_info": {
+        "name": "Delphox - 13/124 (XY Fates Collide)",
+        "clean_name": "Delphox 13 124 XY Fates Collide",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "013/124",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[R] Flickering Flames (40)\r\n<br>Your opponent's Active Pokémon is now Asleep.",
+          "[3] Psystorm (20x)\r\n<br>This attack does 20 damage times the amount of Energy attached to all Pokémon in play."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.19,
+            "mid_price": 0.53,
+            "high_price": 1.99,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.58,
+            "direct_low_price": 0.61,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/123465"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_22f26a61ca74718ad492136d6e46627c902640848816cc32bd530f8d46f24b90222195fd30ed2a2898f17c8620",
+      "card_info": {
+        "name": "Volcarona - 13/101 (BW Plasma Blast)",
+        "clean_name": "Volcarona 13 101 BW Plasma Blast",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "013/101",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Solar Transporter\r\n<br>Reveal the top 5 cards of your deck and put all Team Plasma cards you find there into your hand.  Discard the other cards.",
+          "[1RR] Leech Life (50)\r\n<br>\r\nHeal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.85,
+            "mid_price": 1.46,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/91370"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9788f843277b38c4bac563ba26a042152906817562e3b53621951f1befe6c896899df7a7bd6bbba3d66c7d5fc497",
+      "card_info": {
+        "name": "Venusaur (DPPt Supreme Victors)",
+        "clean_name": "Venusaur DPPt Supreme Victors",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "013/147",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Green Aroma</strong>\r\n<br>\r\nRemove all Special Conditions from each of your Grass Pokémon. Each of your Grass Pokémon can't be affected by any Special Conditions.",
+        "attacks": [
+          "[G] Desperate Pollen (30)\r\n<br>If Venusaur already has 8 or more damage counters on it, the Defending Pokémon is now Burned, Confused, and Poisoned.",
+          "[2GG] Special Reaction (40+)\r\n<br>If the Defending Pokémon is affected by any Special Conditions, this attack does 40 damage plus 40 more damage for each of those Special Conditions."
+        ],
+        "weakness": "R+40",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 11.1,
+            "high_price": 249.84,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 11.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125073"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 0,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

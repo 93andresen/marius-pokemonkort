@@ -1,0 +1,93 @@
+{
+  "query": "23651 133",
+  "results": [
+    {
+      "id": "pk_a3a9e0bfcc50fff4210e45ed6138ad1cd462dbd1c48e023725a140a137f5c745e79ee5467b8dea605fabb063e647422e",
+      "card_info": {
+        "name": "Alolan Exeggutor ex - 133/191",
+        "clean_name": "Alolan Exeggutor ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "133/191",
+        "rarity": "Double Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[GW] Tropical Frenzy (150)<br> You may attach any number of Basic Energy cards from your hand to your Pokemon in any way you like.",
+          "[GWF] Swinging Sphene<br> Flip a coin. If heads, Knock Out your opponent's Active Basic Pokemon. If tails, Knock Out 1 of your opponent's Benched Basic Pokemon."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.86,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.79,
+            "direct_low_price": 0.86,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/589858"
+      },
+      "cardmarket": {
+        "product_name": "Alolan Exeggutor ex",
+        "prices": [
+          {
+            "avg": 0.72,
+            "low": 0.08,
+            "avg1": 0.74,
+            "avg7": 0.81,
+            "avg30": 0.71,
+            "trend": 0.8,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Alolan-Exeggutor-ex-V1-SSP133"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

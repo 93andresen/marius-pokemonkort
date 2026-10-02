@@ -1,0 +1,149 @@
+{
+  "query": "1840 029",
+  "results": [
+    {
+      "id": "pk_36201a98df0c9ae78b81ef0cc27a69e9ffeeadd3745e7909a7a7988e6493efd80af368b35bc12fc354e5a1b2a2a2",
+      "card_info": {
+        "name": "Empoleon - 29/108 (Battle Arena Deck Exclusive)",
+        "clean_name": "Empoleon 29 108 Battle Arena Deck Exclusive",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "029/108",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Diving Draw</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may discard a card from your hand.  If you do, draw 2 cards.",
+        "attacks": [
+          "[W] Attack Command (10x)\r\n<br>Does 10 damage times the number of Pokémon in play <em>(both yours and your opponent's)</em>."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.8,
+            "mid_price": 1.12,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.97,
+            "direct_low_price": 0.87,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/177163"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_342a547fd3fbec1b239b87392b8c713d1eb6d3cdbadcd00530f8892e5ba7140dcfc7aff28fcb1781581e452a2dd2",
+      "card_info": {
+        "name": "Chi-Yu - 029/182 (Non-Holo)",
+        "clean_name": "Chi Yu 029 182 Non Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "029/182",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Flare Bringer\r\n<br>Attach up to 2 [R] Energy cards from your discard pile to 1 of your Pokémon.",
+          "[RR] Megafire of Envy (50+)\r\n<br>If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 90 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.24,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/528309"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ea438950ef0e65c174c815a5cb07e0324148edfa7640bdc6865daba7db90223dee3213d182ae23ef0b65d9a079",
+      "card_info": {
+        "name": "Lugia - 29/115 (EX Unseen Forces)",
+        "clean_name": "Lugia 29 115 EX Unseen Forces",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "029/115",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Aeroblast (20+)\r\n<br>Flip 2 coins. This attack does 20 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 68.43,
+            "mid_price": 376.76,
+            "high_price": 909.38,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 74.5,
+            "direct_low_price": 909.38,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/97708"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 0,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

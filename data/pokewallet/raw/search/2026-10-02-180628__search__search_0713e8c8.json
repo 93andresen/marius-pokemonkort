@@ -1,0 +1,88 @@
+{
+  "query": "23639 029",
+  "results": [
+    {
+      "id": "pk_a95dc44d3c30745127af62856982ae41523352b5e2d9d4bdcf23a8b7943422ad1eb052298f71971731d04bbb53586f",
+      "card_info": {
+        "name": "Hisuian Typhlosion VSTAR - 029/067",
+        "clean_name": "Hisuian Typhlosion VSTAR",
+        "set_name": "S9a: Battle Region",
+        "set_code": "S9a",
+        "set_id": "23639",
+        "card_number": "029/067",
+        "rarity": "Triple Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "VSTAR",
+        "card_text": null,
+        "attacks": [
+          "[Psychic][Psychic][Colorless] Hollow Flame (180)<br> Put 3 damage counters on your opponent's Benched Pokémon in any way you like.",
+          "[Psychic] Shimmering Star<br> If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. <em>(You can't use more than 1 <strong>VSTAR</strong> Power in a game.)</em>"
+        ],
+        "weakness": "Darkness x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.55,
+            "mid_price": 0.99,
+            "high_price": 2.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.84,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/570598"
+      },
+      "cardmarket": {
+        "product_name": "Hisuian Typhlosion VSTAR",
+        "prices": [
+          {
+            "avg": 0.77,
+            "low": 0.4,
+            "avg1": 0.85,
+            "avg7": 0.87,
+            "avg30": 0.74,
+            "trend": 0.77,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Region/Hisuian-Typhlosion-VSTAR-V1-s9a029"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

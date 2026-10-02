@@ -1,0 +1,101 @@
+{
+  "query": "23651 031",
+  "results": [
+    {
+      "id": "pk_f16db9de182cfb6083d218af939edc8c02171b79655d8a575dd3dbbae900d6c4259218acd7978b20bc90fdc5bd8c70",
+      "card_info": {
+        "name": "Skeledirge",
+        "clean_name": "Skeledirge",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "031/191",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Unaware</strong> Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. <em>(Damage is not an effect.)</em>",
+        "attacks": [
+          "[RC] Torcherto (60+)<br> This attack does 20 more damage for each Benched Pokemon <em>(both yours and your opponent's)</em>."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.29,
+            "high_price": 14.28,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.29,
+            "direct_low_price": 0.26,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.23,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590053"
+      },
+      "cardmarket": {
+        "product_name": "Skeledirge",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.06,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.13,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Skeledirge-V1-SSP031"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=17689+GG60&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 16:05:55 GMT
+Content-Type: application/json
+Content-Length: 1202
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 885
+X-RateLimit-Remaining-Hour: 83
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8W2KWWoYY26yqgc%2FApw0kNbtIaYPIR0Katg738%2BwEafBjFSvlIzyWT9DAVKyzcq090xn3lk%2FFYNsetYVOD9vBrFKPuwQ%2BNmSPikflfFp94Lgfo4s5Tgk05wCiaTJR9I0Mo3fad%2BK67V9NIwHrgOk9g%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444f38c1b5056a8-OSL
+alt-svc: h3=":443"; ma=86400

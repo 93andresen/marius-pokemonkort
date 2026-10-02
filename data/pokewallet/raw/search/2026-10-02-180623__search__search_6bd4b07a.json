@@ -1,0 +1,92 @@
+{
+  "query": "23381 104",
+  "results": [
+    {
+      "id": "pk_4feed57d5fd7bbedc4eab7dfaef8d33457abf0f2389a648f84017b037f6ce04024fe053deecfdcb1ee6602cfd5e10ce7",
+      "card_info": {
+        "name": "Gengar ex - 104/162",
+        "clean_name": "Gengar ex",
+        "set_name": "SV05: Temporal Forces",
+        "set_code": "TEF",
+        "set_id": "23381",
+        "card_number": "104/162",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability—Gnawing Curse</strong><br>\r\nWhenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+        "attacks": [
+          "[D][D] Tricky Steps (160) \r\nYou may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.99,
+            "mid_price": 7.38,
+            "high_price": 143.8,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 6.37,
+            "direct_low_price": 6.35,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/542848"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex",
+        "prices": [
+          {
+            "avg": 4.8,
+            "low": 2.9,
+            "avg1": 6.63,
+            "avg7": 4.98,
+            "avg30": 4.85,
+            "trend": 5.2,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Gengar-ex-V1-TEF104"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

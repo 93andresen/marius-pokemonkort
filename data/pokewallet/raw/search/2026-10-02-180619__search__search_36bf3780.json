@@ -1,0 +1,102 @@
+{
+  "query": "23286 118",
+  "results": [
+    {
+      "id": "pk_4e4c7e76ec48360da366a7c98f8220e9a6a247736e5790501de132b7b503776a1a621b1d9f08140f903883abff41757f",
+      "card_info": {
+        "name": "Yveltal - 118/182",
+        "clean_name": "Yveltal",
+        "set_name": "SV04: Paradox Rift",
+        "set_code": "PAR",
+        "set_id": "23286",
+        "card_number": "118/182",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Cross-Cut (30+)\r\n<br>If your opponent’s Active Pokémon is an Evolution Pokémon, this attack does 60 more damage.",
+          "[1DD] Dark Edge (120)\r\n<br>Discard an Energy from this Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 3.34,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.16,
+            "direct_low_price": 0.08,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.08,
+            "mid_price": 0.25,
+            "high_price": 2,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.24,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/523793"
+      },
+      "cardmarket": {
+        "product_name": "Yveltal",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.07,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.19,
+            "avg30": 0.18,
+            "trend": 0.12,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Yveltal-V1-PAR118"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

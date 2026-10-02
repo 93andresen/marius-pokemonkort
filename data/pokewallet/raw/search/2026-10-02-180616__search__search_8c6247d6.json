@@ -1,0 +1,87 @@
+{
+  "query": "23266 071",
+  "results": [
+    {
+      "id": "pk_cdf02f8faa96c94a79cbe62be31c1cc99ddf0d62a4b910708344e88848cab0e99dc83936973b26ac5017acddca1162",
+      "card_info": {
+        "name": "Dusknoir",
+        "clean_name": "Dusknoir",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "071/185",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Spectral Breach</strong>\r\n<br>All Special Energy attached to Pokémon <em>(both yours and your opponent's)</em> provide Colorless Energy and have no other effect.",
+        "attacks": [
+          "[2P] Spooky Shot (120)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515664"
+      },
+      "cardmarket": {
+        "product_name": "Dusknoir",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.05,
+            "avg30": 0.1,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.1,
+            "avg1": 0.1,
+            "avg7": 0.57,
+            "avg30": 0.18,
+            "trend": 0.6,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Dusknoir-BOO23VIV-071"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

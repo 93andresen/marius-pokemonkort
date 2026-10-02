@@ -1,0 +1,102 @@
+{
+  "query": "1842 67",
+  "results": [
+    {
+      "id": "pk_eb56671063893b0b293ca4c109207c2a54194a1680d79dbeb6f2c1b143c480747764b69e8d90a7d40860766d47de",
+      "card_info": {
+        "name": "Raticate",
+        "clean_name": "Raticate",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "67/108",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Crunch (10)\r\n<br>Discard an Energy attached to your opponent's Active Pokemon.",
+          "[1] Shadowy Bite (60x)\r\n<br>This attack does 60 damage times the number of Special Energy cards in your opponent's discard pile."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 15.42,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.17,
+            "direct_low_price": 0.06,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.84,
+            "high_price": 18.94,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.8,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124080"
+      },
+      "cardmarket": {
+        "product_name": "Raticate",
+        "prices": [
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.21,
+            "avg7": 0.28,
+            "avg30": 0.21,
+            "trend": 0.19,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.12,
+            "low": 0.19,
+            "avg1": 0.2,
+            "avg7": 2.5,
+            "avg30": 2.24,
+            "trend": 2.46,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Raticate-EVO67"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

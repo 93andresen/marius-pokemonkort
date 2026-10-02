@@ -1,0 +1,99 @@
+{
+  "query": "1842 94",
+  "results": [
+    {
+      "id": "pk_8234acc2fcc1778fb8c6b2d33fd8c102de546b453ebfafaa50b5f89aef82e76e1cbd26294c5ce947043983b707ed",
+      "card_info": {
+        "name": "Lightning Energy",
+        "clean_name": "Lightning Energy",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "94/108",
+        "rarity": "Common",
+        "card_type": "Basic Lightning Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2,
+            "high_price": 30.44,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 2.27,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.06,
+            "mid_price": 0.24,
+            "high_price": 19.12,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.21,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124107"
+      },
+      "cardmarket": {
+        "product_name": "Lightning Energy",
+        "prices": [
+          {
+            "avg": 5.25,
+            "low": 0.5,
+            "avg1": 6.9,
+            "avg7": 5.06,
+            "avg30": 3.91,
+            "trend": 4.09,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.26,
+            "avg30": 0.27,
+            "trend": 0.28,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Lightning-Energy-EVO94"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

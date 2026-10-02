@@ -1,0 +1,92 @@
+{
+  "query": "23473 077",
+  "results": [
+    {
+      "id": "pk_59369de5820b1533f00d3027755314b72bf1fcc55c33280243c300b3510ba45917ebf9f9c85406d9920b5b26781cca",
+      "card_info": {
+        "name": "Iron Thorns ex - 077/167",
+        "clean_name": "Iron Thorns ex",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "077/167",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Initialization</strong><br> As long as this Pokémon is in the Active Spot, Pokémon with a Rule Box in play <em>(both yours and your opponent's)</em> have no Abilities, except for Future Pokémon. <em>(Pokémon <strong>ex</strong>, Pokémon <strong>V</strong>, etc. have Rule Boxes.)</em>",
+        "attacks": [
+          "[LCC] Volt Cyclone (140)\nMove an Energy from this Pokémon to 1 of your Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.34,
+            "mid_price": 0.88,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.67,
+            "direct_low_price": 0.76,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550121"
+      },
+      "cardmarket": {
+        "product_name": "Iron Thorns ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.68,
+            "low": 0.08,
+            "avg1": 0.85,
+            "avg7": 0.82,
+            "avg30": 0.68,
+            "trend": 0.73,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Iron-Thorns-ex-V1-TWM077"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

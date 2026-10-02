@@ -1,0 +1,99 @@
+{
+  "query": "1842 89",
+  "results": [
+    {
+      "id": "pk_c88e0902038bc125dac7920aadab4eb4562e6a8246cb47d38759aee34d7333a0ec0282e342155ce79c45cfbe93ef",
+      "card_info": {
+        "name": "Venusaur Spirit Link",
+        "clean_name": "Venusaur Spirit Link",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "89/108",
+        "rarity": "Uncommon",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n<br>\r\n<br>Your turn does not end if the Pokemon this card is attached to becomes M Venusaur EX.\r\n<br>\r\n<br><em>You may play as many Item cards as you like during your turn (before your attack).",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.24,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 1.29,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.35,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124102"
+      },
+      "cardmarket": {
+        "product_name": "Venusaur Spirit Link",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.14,
+            "avg30": 0.18,
+            "trend": 0.26,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.17,
+            "low": 0.5,
+            "avg1": 8,
+            "avg7": 3.47,
+            "avg30": 3.87,
+            "trend": 3.11,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Venusaur-Spirit-Link-EVO89"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "query": "2374 048",
+  "results": [
+    {
+      "id": "pk_42d13c2e4a0cf744c1c21edde5aece9093bd8975ef8605f84dfc6d305bfad0a302451cd5dc17210ce9a14914d09f",
+      "card_info": {
+        "name": "Lapras - 048/202 (Holiday Calendar)",
+        "clean_name": "Lapras 048 202 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "048/202",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWWW] Aqua Wash (70)\r\n<br>\r\nYou may put 2 Energy attached to your opponent's Active Pokémon into their hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 5,
+            "high_price": 208.45,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.44,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283291"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ea281ead1f82dc7461693837963f26cda32e9d6fd033fa38c68455dce06e5be9bf79148767a6943ea9a9b18e9fb3",
+      "card_info": {
+        "name": "Zapdos (Cosmos Holo)",
+        "clean_name": "Zapdos Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "048/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Drill Peck (20)",
+          "[1LL] Thunder Snipe\r\n<br>Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent's Pokémon V or Pokémon-GX. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.54,
+            "mid_price": 1.3,
+            "high_price": 65,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.31,
+            "direct_low_price": 1.82,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/489360"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 0,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

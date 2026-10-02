@@ -1,0 +1,88 @@
+{
+  "query": "23561 130",
+  "results": [
+    {
+      "id": "pk_edcfa36e5afcbd718e4df02b3e8fe316acc80d6a6f487dcf445b23e5ff9a1ffa1cfb0fd071a149802ea8b603e1150e40",
+      "card_info": {
+        "name": "Umbreon",
+        "clean_name": "Umbreon",
+        "set_name": "Trick or Trade BOOster Bundle 2024",
+        "set_code": "TTBB24",
+        "set_id": "23561",
+        "card_number": "130/197",
+        "rarity": "Uncommon",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Feint Attack\r\n<br>This attack does 50 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness or Resistance, or by effects of your opponent's Active Pokemon.",
+          "[2D] Pitch-Black Blade (140)\r\n<br>During your next turn, this Pokémon can’t attack."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.52,
+            "high_price": 35,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568704"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 0.89,
+            "low": 0.2,
+            "avg1": 1.2,
+            "avg7": 0.91,
+            "avg30": 0.97,
+            "trend": 0.7,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2024/Umbreon-BOO24OBF-130"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

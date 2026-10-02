@@ -1,0 +1,236 @@
+{
+  "query": "2374 051",
+  "results": [
+    {
+      "id": "pk_d4f24568d941a202fe8cbf136314d74c09ec8f45505cdeea665fa228eb9621dba15018f4618a1d7d86f0aca64826",
+      "card_info": {
+        "name": "Team Rocket's Articuno (Destined Rivals Stamp)",
+        "clean_name": "Team Rockets Articuno Destined Rivals Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/182",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Repelling Veil</strong> Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon in play. <em>(Existing effects are not removed. Damage is not an effect.)</em>",
+        "attacks": [
+          "[WCC] Dark Frost (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 27,
+            "mid_price": 32.98,
+            "high_price": 263.24,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 30.28,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635484"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_03cd439adf4ea340016f07b27845c5d6208c71d28391a5778b2ba56ac79ffd0a6dafc2713bfa2009d122d490e077",
+      "card_info": {
+        "name": "Pikachu - 051/162 (Cosmo Holo)",
+        "clean_name": "Pikachu 051 162 Cosmo Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/162",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Random Spark\r\nThis attack does 10 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.32,
+            "high_price": 90.91,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.96,
+            "direct_low_price": 2.5,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599656"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c08caf970c49bc7819eb1af8735a4b89b00bcb20edf6d44b5cd8aa1953c346c5b8184932180e732550ea4cfdded2",
+      "card_info": {
+        "name": "Team Rocket's Articuno - 051-182 (Cosmos Holo)",
+        "clean_name": "Team Rockets Articuno 051 182 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/182",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Repelling Veil</strong> Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon in play. <em>(Existing effects are not removed. Damage is not an effect.)</em>",
+        "attacks": [
+          "[WCC] Dark Frost (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.26,
+            "high_price": 45,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/658500"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_40ae3742caa675cc0ed839d41d2edfe42fe50e4ab167839ed9368076095890b793b9855ccbdcf50233d80eb30d81",
+      "card_info": {
+        "name": "Glastrier - 051/196 (Holiday Calendar)",
+        "clean_name": "Glastrier 051 196 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/196",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1W] Freeze Down (40)\r\n<br>\r\nIf the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "[1WW] Wild Tackle (130)\r\n<br>\r\nThis Pokémon also does 30 damage to itself."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.51,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/514448"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_57ec8882bfba9c1e9c621460bb13a536215a9056da3239b5fb5fbd131bda617bf4e6f1469885a65e2f2520286d92",
+      "card_info": {
+        "name": "Lucario ex (Prismatic Evolutions Stamp)",
+        "clean_name": "Lucario ex Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/131",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Aura Uppercut (50)",
+          "[FC] Tornado Rush (100)<br> During your next turn, this Pokemon's Tornado Rush attack does 100 more damage <em>(before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.1,
+            "high_price": 90,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/652715"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 5,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 5,
+    "tcg": 5,
+    "cardmarket": 0,
+    "tcg_only": 5,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

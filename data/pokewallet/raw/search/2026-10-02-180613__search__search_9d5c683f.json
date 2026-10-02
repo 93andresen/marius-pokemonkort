@@ -1,0 +1,88 @@
+{
+  "query": "23120 196",
+  "results": [
+    {
+      "id": "pk_0b82b4bba94c0731a12e2a86dfa75a49cd70740b92439abe5dc340aae8ea8a39142f74b3d40a22e876d4c87cef9aa2cb",
+      "card_info": {
+        "name": "Sprigatito - 196/193",
+        "clean_name": "Sprigatito",
+        "set_name": "SV02: Paldea Evolved",
+        "set_code": "PAL",
+        "set_id": "23120",
+        "card_number": "196/193",
+        "rarity": "Illustration Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Gather Sunlight\r\n<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "[G] Seed Bomb (10)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.95,
+            "mid_price": 59.99,
+            "high_price": 850.9,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 57.19,
+            "direct_low_price": 51.68,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/497599"
+      },
+      "cardmarket": {
+        "product_name": "Sprigatito",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 23.36,
+            "low": 7.5,
+            "avg1": 26.23,
+            "avg7": 23.92,
+            "avg30": 23.67,
+            "trend": 24.1,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Sprigatito-V2-PAL196"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

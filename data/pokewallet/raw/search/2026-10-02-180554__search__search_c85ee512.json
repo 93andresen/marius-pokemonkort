@@ -1,0 +1,102 @@
+{
+  "query": "1661 69",
+  "results": [
+    {
+      "id": "pk_04165b50e725d66eaffee189b9831eb4bc37ce0151511eeb25343f2dbd1324df881f1263efdfe8e9f4d6d764b4d7",
+      "card_info": {
+        "name": "Kirlia",
+        "clean_name": "Kirlia",
+        "set_name": "XY - BREAKthrough",
+        "set_code": "BKT",
+        "set_id": "1661",
+        "card_number": "69/162",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Beckon\r\n<br>Put a Supporter card from your discard pile into your hand.",
+          "[2] Quick Turn (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.37,
+            "high_price": 16.36,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 0.42,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1,
+            "mid_price": 1.39,
+            "high_price": 29.99,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 1.62,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107188"
+      },
+      "cardmarket": {
+        "product_name": "Kirlia",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.28,
+            "avg7": 0.26,
+            "avg30": 0.26,
+            "trend": 0.22,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.85,
+            "low": 0.8,
+            "avg1": 0.8,
+            "avg7": 1.13,
+            "avg30": 1.68,
+            "trend": 2.31,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Kirlia-BKT69"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

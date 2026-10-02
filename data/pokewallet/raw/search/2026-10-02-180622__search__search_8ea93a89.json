@@ -1,0 +1,150 @@
+{
+  "query": "23323 016",
+  "results": [
+    {
+      "id": "pk_d66a1f89329ca1f6df363bb371eaf64dc3778e1c73e1e3702115734a5ddc7fdf836bdffc011cb7aaf95fe0b37a8b15",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "016/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[1] Collect\r\n<br>Draw 2 cards.",
+          "[3] Collapse (120)\r\n<br>This Pokemon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.14,
+            "mid_price": 18.96,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 16.65,
+            "direct_low_price": 17.89,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/527903"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9733b9fc15caf2fde95786f6bac9bca2c4842ed8ed02b7c91d086f5ced4836cdf1164b6aeaedb9a1cd6e36d3421cc7",
+      "card_info": {
+        "name": "Lt. Surge's Raticate",
+        "clean_name": "Lt Surges Raticate",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "016/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[1] Super Fang\r\n<br>Put damage counters on your opponent's Active Pokémon until its remaining HP is halved, rounded down. <em>(If your opponent's Active Pokémon has 30 HP remaining, put 2 damage counters on it.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.8,
+            "mid_price": 1.74,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 1.55,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/528004"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_03e4f4dc1d5028196ce594dc09625a313b0597507e510313c8707fed59cbb20e6be63ef28dbcaa05a073adab4d1883",
+      "card_info": {
+        "name": "Stantler",
+        "clean_name": "Stantler",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "016/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[0] Lead\r\n<br>\r\nSearch your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[2] Frighten Horn (20)\r\n<br>\r\nIf your opponent's Active Pokémon is a Basic Pokémon, it is now Confused."
+        ],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.97,
+            "high_price": 54.75,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.94,
+            "direct_low_price": 1.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/527950"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 0,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

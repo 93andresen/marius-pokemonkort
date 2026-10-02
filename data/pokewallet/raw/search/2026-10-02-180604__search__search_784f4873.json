@@ -1,0 +1,417 @@
+{
+  "query": "1842 7",
+  "results": [
+    {
+      "id": "pk_9c660ad599be940d0c028d251a67347a34ee54d68e6ed26e2704f6c8a0ca803a1141b3d6769f5ff4c43e0e1e3365",
+      "card_info": {
+        "name": "Charizard Spirit Link",
+        "clean_name": "Charizard Spirit Link",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "75/108",
+        "rarity": "Uncommon",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n<br>\r\n<br>Your turn does not end if the Pokemon this card is attached to becomes M Charizard EX.\r\n<br>\r\n<br><em>You may play as many Item cards as you like during your turn (before your attack).",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.4,
+            "high_price": 18.56,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.39,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.54,
+            "mid_price": 8.12,
+            "high_price": 33.06,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 8.12,
+            "direct_low_price": 4.3,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124088"
+      },
+      "cardmarket": {
+        "product_name": "Charizard Spirit Link",
+        "prices": [
+          {
+            "avg": 9.14,
+            "low": 1.9,
+            "avg1": 11,
+            "avg7": 8.42,
+            "avg30": 7.4,
+            "trend": 10.03,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.8,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 8.45,
+            "avg30": 2.75,
+            "trend": 3.08,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-Spirit-Link-EVO75"
+      }
+    },
+    {
+      "id": "pk_1fcf283e441b3342c433bb78ebbb1fcff79f5451922691cede9e88e699e5b2f5d541cfae9bdc4b5111fea25a4b",
+      "card_info": {
+        "name": "Beedrill",
+        "clean_name": "Beedrill",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "7/108",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Poison Sting (30)\r\n<br>Your opponent's Active Pokemon is now Poisoned.",
+          "[1G] Swarming Sting\r\n<br>This attack does 40 damage times the number of Beedrill you have in play to 1 of your opponent's Pokemon <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 1.3,
+            "high_price": 18.8,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.35,
+            "direct_low_price": 1.03,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.28,
+            "high_price": 19.46,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124020"
+      },
+      "cardmarket": {
+        "product_name": "Beedrill",
+        "prices": [
+          {
+            "avg": 3.24,
+            "low": 0.15,
+            "avg1": 4,
+            "avg7": 3.35,
+            "avg30": 2.66,
+            "trend": 3.67,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.37,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.33,
+            "avg30": 0.33,
+            "trend": 0.17,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Beedrill-EVO7"
+      }
+    },
+    {
+      "id": "pk_5ea2ee8397464add054c3bc557d6f8a12e872e114d0607a6c1a8f2e4634ed3e5383658fb63afd5131472c1d3254e",
+      "card_info": {
+        "name": "Porygon",
+        "clean_name": "Porygon",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "71/108",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Conversion 3\r\n<br>Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. The Defending Pokemon's Weakness is now that type until the end of your next turn. <i>(The amount of Weakness doesn't change.)</i>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 14.22,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.26,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.58,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.6,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124084"
+      },
+      "cardmarket": {
+        "product_name": "Porygon",
+        "prices": [
+          {
+            "avg": 0.91,
+            "low": 0.1,
+            "avg1": 0.35,
+            "avg7": 0.62,
+            "avg30": 0.8,
+            "trend": 0.72,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.34,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Porygon-EVO71"
+      }
+    },
+    {
+      "id": "pk_6f494fe142bcdf69ebcedde6d15abac4e1414ca097156c49fcf4253177c062db34b1f5c725fdcae5ca110a6ff1b3",
+      "card_info": {
+        "name": "Dragonite EX",
+        "clean_name": "Dragonite EX",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "72/108",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": "<b>Ability — Pull Up</b>\r\n<br>When you play this Pokemon from your hand onto your Bench, you may put 2 Basic Pokemon <em>(except for Dragonite EX)</em> from your discard pile into your hand.",
+        "attacks": [
+          "[4] Hyper Beam (130)\r\n<br>Discard an Energy attached to your opponent's Active Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 9.99,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 9.29,
+            "direct_low_price": 7.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124085"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.75,
+            "avg7": 5.28,
+            "avg30": 5.56,
+            "trend": 5.74,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.37,
+            "low": 1.5,
+            "avg1": 6.12,
+            "avg7": 9.17,
+            "avg30": 8.64,
+            "trend": 8.16,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V1-EVO72"
+      }
+    },
+    {
+      "id": "pk_563f5a543c731bd9b376887d9c5412b85b9940affede8d0b00739516533cd21aee8beb56ab3c4bd2b1cc0dc5fe66",
+      "card_info": {
+        "name": "Blastoise Spirit Link",
+        "clean_name": "Blastoise Spirit Link",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "73/108",
+        "rarity": "Uncommon",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n<br>\r\n<br>Your turn does not end if the Pokemon this card is attached to becomes M Blastoise EX.\r\n<br>\r\n<br><em>You may play as many Item cards as you like during your turn (before your attack).",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 18.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.69,
+            "mid_price": 1.99,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 2.26,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124086"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise Spirit Link",
+        "prices": [
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.18,
+            "trend": 0.13,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.38,
+            "low": 0.1,
+            "avg1": 6,
+            "avg7": 3.4,
+            "avg30": 3.08,
+            "trend": 3.88,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Blastoise-Spirit-Link-EVO73"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 11,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

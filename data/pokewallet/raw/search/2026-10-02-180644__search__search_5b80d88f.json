@@ -1,0 +1,240 @@
+{
+  "query": "23821 059",
+  "results": [
+    {
+      "id": "pk_b1f5b1464aba9b6c5571ff23721b6705aa9b22fa212ebd30e52e06641b1605a9bd4aad790064217fdd563bdb9110aa",
+      "card_info": {
+        "name": "Umbreon",
+        "clean_name": "Umbreon",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "059/131",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokemon.",
+          "[DCC] Pitch-Black Blade (140)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.54,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.47,
+            "direct_low_price": 1,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.67,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.61,
+            "direct_low_price": 0.62,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610414"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 0.77,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 1.53,
+            "avg30": 0.78,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.43,
+            "avg30": 0.43,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-PRE059"
+      }
+    },
+    {
+      "id": "pk_21c82d9a3a35d8580b453c970192ac91e768a62195a5bf10dccdc30e59efc20ba97ea023198e02e3fb6c97a8af1077",
+      "card_info": {
+        "name": "Umbreon (Poke Ball Pattern)",
+        "clean_name": "Umbreon Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "059/131",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokemon.",
+          "[DCC] Pitch-Black Blade (140)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.9,
+            "mid_price": 4.51,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 3.69,
+            "direct_low_price": 3.9,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610578"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 0.77,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 1.53,
+            "avg30": 0.78,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.43,
+            "avg30": 0.43,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-PRE059"
+      }
+    },
+    {
+      "id": "pk_4f68855fb5402239fbd6145c73b031a51a0609daf619edfc79f94c700c5eff8e552cc87c6d53d9fdc92c7a8329261b",
+      "card_info": {
+        "name": "Umbreon (Master Ball Pattern)",
+        "clean_name": "Umbreon Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "059/131",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokemon.",
+          "[DCC] Pitch-Black Blade (140)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 55.99,
+            "mid_price": 72.97,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 66.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610679"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 0.77,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 1.53,
+            "avg30": 0.78,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.43,
+            "avg30": 0.43,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-PRE059"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

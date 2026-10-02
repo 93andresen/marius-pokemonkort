@@ -1,0 +1,157 @@
+{
+  "query": "23266 090",
+  "results": [
+    {
+      "id": "pk_d73bda19b8fadbd8a4838baf347cea905a6dca58bb6c9bb8e6be89e731aafce7259fadb406d8e6dc25c34bdf0c74d6",
+      "card_info": {
+        "name": "Polteageist",
+        "clean_name": "Polteageist",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "090/202",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Teatime\r\n<br>Each player draws 2 cards.",
+          "[1P] Poltergeist (50x)\r\n<br>Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515676"
+      },
+      "cardmarket": {
+        "product_name": "Polteageist",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Polteageist-BOO23SSH-090"
+      }
+    },
+    {
+      "id": "pk_eae358086bf8e603596a8bd609fce6592ad447e090f8e4e273db8697a03273f20d49bcffbd518a6c34febd5e4c6774",
+      "card_info": {
+        "name": "Drifblim",
+        "clean_name": "Drifblim",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "090/198",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Gust (30)",
+          "[PPP] Spread Curses\r\n<br>Put 8 damage counters on your opponent’s Pokemon in any way you like."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.08,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515671"
+      },
+      "cardmarket": {
+        "product_name": "Drifblim",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Drifblim-BOO23SVI-090"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

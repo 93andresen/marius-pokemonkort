@@ -1,0 +1,93 @@
+{
+  "query": "24269 031",
+  "results": [
+    {
+      "id": "pk_fe5ffd94ab2efa61fd675d3f770a7afbb675808cd2636ebc962f577881d58578da8d880db3eb32ed7cb4acaf5b437d",
+      "card_info": {
+        "name": "Team Rocket's Moltres ex",
+        "clean_name": "Team Rockets Moltres ex",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "031/182",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RCC] Flame Screen (110)<br> During your opponent's next turn, this Pokémon takes 50 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+          "[RCCC] Evil Incineration<br> Discard a 182 from this Pokémon. If you do, discard your opponent's Active Pokémon and all attached cards."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.91,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.9,
+            "direct_low_price": 1.48,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/630808"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Moltres ex",
+        "prices": [
+          {
+            "avg": 0.62,
+            "low": 0.04,
+            "avg1": 0.48,
+            "avg7": 0.61,
+            "avg30": 0.62,
+            "trend": 0.66,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.1,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.68,
+            "avg30": 0.9,
+            "trend": 1.18,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Moltres-ex-V1-DRI031"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

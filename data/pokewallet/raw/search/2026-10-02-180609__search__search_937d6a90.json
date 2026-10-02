@@ -1,0 +1,67 @@
+{
+  "query": "22873 253",
+  "results": [
+    {
+      "id": "pk_363201270d4afa467e4be33a8351a5f4b2f358887f1383b2db03bceaf749122fce4a599f009bb58ea6e1c5a5197b7dd6",
+      "card_info": {
+        "name": "Miraidon ex - 253/198",
+        "clean_name": "Miraidon ex",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "253/198",
+        "rarity": "Hyper Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Tandem Unit</strong>\r\n<br>\r\nOnce during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck.\r\n<br><br>\r\n<em>Pokémon ex rule — When a Pokémon ex has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1LL] Photon Blaster (220)\r\n<br>\r\nDuring your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 8,
+            "high_price": 161.2,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 7.65,
+            "direct_low_price": 9.71,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490043"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "query": "Holon Phantom 101",
+  "results": [
+    {
+      "id": "pk_67f5b981f882f8227f8d48d5f974446a6d273030ec7b6af375d29392802f41ad8b0ee144e2f9f982e703c288d36b",
+      "card_info": {
+        "name": "Mightyena ex",
+        "clean_name": "Mightyena ex",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "101/110",
+        "rarity": "Ultra Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Driving Howl \r\n<br>Once during your turn <em>(before your attack)</em>, you may choose 1 of the Defending Pokemon and switch it with 1 of your opponent's Benched Pokemon.  Your opponent chooses the Benched Pokemon to switch.  This power can't be used if Mightyena ex is affected by a Special Condition.",
+        "attacks": [
+          "[2] Sharp Fang (30)",
+          "[2D] Hyper Claws (50+)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 74.99,
+            "mid_price": 110,
+            "high_price": 200.01,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87451"
+      },
+      "cardmarket": {
+        "product_name": "Mightyena ex",
+        "prices": [
+          {
+            "avg": 38.99,
+            "low": 13.89,
+            "avg1": 42.5,
+            "avg7": 48.44,
+            "avg30": 42.03,
+            "trend": 53.21,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 34.5,
+            "avg7": 21.76,
+            "avg30": 17.42,
+            "trend": 18.74,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mightyena-ex-HP101"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

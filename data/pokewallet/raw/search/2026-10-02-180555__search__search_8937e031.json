@@ -1,0 +1,60 @@
+{
+  "query": "17689 GG60",
+  "results": [
+    {
+      "id": "pk_712127e0870de9b9252d990b063298a6bf7ead2d0c0611226a78d2dfa663b50f959f345622031ee5a493e7c69215344b81b6",
+      "card_info": {
+        "name": "Cynthia's Ambition",
+        "clean_name": "Cynthias Ambition",
+        "set_name": "Crown Zenith: Galarian Gallery",
+        "set_code": "CRZ:GG",
+        "set_id": "17689",
+        "card_number": "GG60/GG70",
+        "rarity": "Ultra Rare",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponent's last turn, draw cards until you have 8 cards in your hand instead.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.95,
+            "mid_price": 27,
+            "high_price": 186.92,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 23.17,
+            "direct_low_price": 21.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/477052"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

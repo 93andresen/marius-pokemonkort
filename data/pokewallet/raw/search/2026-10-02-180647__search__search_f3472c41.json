@@ -1,0 +1,226 @@
+{
+  "query": "23909 092",
+  "results": [
+    {
+      "id": "pk_4c3160078b4650174ea9bf9be70f740a408ed04b35aa42c9d29a2f95a41d1aa1925c143dcbcd513b75f9ab389b9c21",
+      "card_info": {
+        "name": "Umbreon",
+        "clean_name": "Umbreon",
+        "set_name": "SV8a: Terastal Fest ex",
+        "set_code": "SV8a",
+        "set_id": "23909",
+        "card_number": "092/187",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokémon.",
+          "[Darkness][Colorless][Colorless] Pitch-Black Blade (140)<br> During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "[Grass] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.39,
+            "high_price": 25,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/602478"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 1.64,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 3.85,
+            "avg30": 1.02,
+            "trend": 6.63,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 26.42,
+            "low": 0.05,
+            "avg1": 5,
+            "avg7": 28.43,
+            "avg30": 25.16,
+            "trend": 27.58,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Terastal-Festival-ex/Umbreon-sv8a092"
+      }
+    },
+    {
+      "id": "pk_8c0a95ec5d1b9cf6435409cb520c272732edc550d6d98d2edc8a61b0cca15effcf5eb12876e7289c82462e800ac597",
+      "card_info": {
+        "name": "Umbreon (Mirror Foil)",
+        "clean_name": "Umbreon Mirror Foil",
+        "set_name": "SV8a: Terastal Fest ex",
+        "set_code": "SV8a",
+        "set_id": "23909",
+        "card_number": "092/187",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokémon.",
+          "[Darkness][Colorless][Colorless] Pitch-Black Blade (140)<br> During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "[Grass] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.61,
+            "mid_price": 9.08,
+            "high_price": 40,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 7.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/602479"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 1.64,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 3.85,
+            "avg30": 1.02,
+            "trend": 6.63,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 26.42,
+            "low": 0.05,
+            "avg1": 5,
+            "avg7": 28.43,
+            "avg30": 25.16,
+            "trend": 27.58,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Terastal-Festival-ex/Umbreon-sv8a092"
+      }
+    },
+    {
+      "id": "pk_92c5f6edf689bb5cbb32161ab2bbcd61cb4ae0d2c9bfba8b31d4a135c345bfc4e95492ccc9fdcf0375fbfed8c3db4f",
+      "card_info": {
+        "name": "Umbreon (Master Ball Pattern)",
+        "clean_name": "Umbreon Master Ball Pattern",
+        "set_name": "SV8a: Terastal Fest ex",
+        "set_code": "SV8a",
+        "set_id": "23909",
+        "card_number": "092/187",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Feint Attack<br> This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on that Pokémon.",
+          "[Darkness][Colorless][Colorless] Pitch-Black Blade (140)<br> During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "[Grass] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 36.76,
+            "mid_price": 50.05,
+            "high_price": 210,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 48.73,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/604570"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 1.64,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 3.85,
+            "avg30": 1.02,
+            "trend": 6.63,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 26.42,
+            "low": 0.05,
+            "avg1": 5,
+            "avg7": 28.43,
+            "avg30": 25.16,
+            "trend": 27.58,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Terastal-Festival-ex/Umbreon-sv8a092"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "query": "23286 074",
+  "results": [
+    {
+      "id": "pk_9b460b47b1052ab331fc145210c642e43b51738613ca52e0cb394bde7488360497dd8b59cbf3b568836ace0fed53d9",
+      "card_info": {
+        "name": "Deoxys",
+        "clean_name": "Deoxys",
+        "set_name": "SV04: Paradox Rift",
+        "set_code": "PAR",
+        "set_id": "23286",
+        "card_number": "074/182",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Psypunch (30)",
+          "[PPP] Genome Spiral (120)\r\n<br>Move all Energy attached to this Pokémon to your Benched Pokémon in any way you like."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.29,
+            "high_price": 14.27,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.28,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 14.21,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.22,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/523734"
+      },
+      "cardmarket": {
+        "product_name": "Deoxys",
+        "prices": [
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.22,
+            "avg30": 0.19,
+            "trend": 0.25,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.09,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Deoxys-PAR074"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "query": "1842 14",
+  "results": [
+    {
+      "id": "pk_f439ddf01cdda1c193e07b1f7a8579f754d5d6799b046e6a4f340a57c175af830cfb2bfed332fe3d999c2ee69b76",
+      "card_info": {
+        "name": "Vulpix",
+        "clean_name": "Vulpix",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "14/108",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Confuse Ray (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Confused."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 14.21,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.22,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.7,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.76,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124027"
+      },
+      "cardmarket": {
+        "product_name": "Vulpix",
+        "prices": [
+          {
+            "avg": 1.2,
+            "low": 0.1,
+            "avg1": 0.5,
+            "avg7": 0.92,
+            "avg30": 0.96,
+            "trend": 1.87,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.11,
+            "avg30": 0.12,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Vulpix-EVO14"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

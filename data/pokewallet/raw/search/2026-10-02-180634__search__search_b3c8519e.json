@@ -1,0 +1,93 @@
+{
+  "query": "23651 086",
+  "results": [
+    {
+      "id": "pk_5707d10fd8369ec2f1f24eb14889bb83b7016a7905b023014f3063b775e0bdd97db3e9b3b46cbfa0a94702f75c954d",
+      "card_info": {
+        "name": "Sylveon ex",
+        "clean_name": "Sylveon ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "086/191",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PCC] Magical Charm (160)<br> During your opponent's next turn, attacks used by the Defending Pokemon do 100 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[WLP] Angelite<br> Choose 2 of your opponent's Benched Pokemon. Shuffle those Pokemon and all attached cards into your opponent's deck. If 1 of your Pokemon used Angelite during your last turn, this attack can't be used."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.48,
+            "mid_price": 2.75,
+            "high_price": 44,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 2.69,
+            "direct_low_price": 4.73,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590069"
+      },
+      "cardmarket": {
+        "product_name": "Sylveon ex",
+        "prices": [
+          {
+            "avg": 1.97,
+            "low": 0.2,
+            "avg1": 2.03,
+            "avg7": 2.08,
+            "avg30": 1.96,
+            "trend": 1.72,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Sylveon-ex-SSP086"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

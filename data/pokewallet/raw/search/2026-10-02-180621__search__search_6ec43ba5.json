@@ -1,0 +1,151 @@
+{
+  "query": "23323 015",
+  "results": [
+    {
+      "id": "pk_1534a68a7b872490fcc7826df737781239b8725ad322c46ffc19d6484eb9ba903123ee79b7be5ac6ba3b43aa601731",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "015/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+          "[4] Double-edge (80)\r\n<br>This Pokémon also does 80 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.19,
+            "mid_price": 9.9,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 8.73,
+            "direct_low_price": 10.26,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/527902"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2b5446d3f76e59c9cea942d34e880c63372921a91e48c9733b6324d12f6ce21c4fda677195487277c261aab1c1e2f2",
+      "card_info": {
+        "name": "Dunsparce",
+        "clean_name": "Dunsparce",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "015/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[1] Strike and Run \r\n<br>Search your deck for up to 3 Basic Pokemon and put them onto your Bench.  Then, shuffle your deck. If you put any Pokémon onto your Bench in this way, you may switch this Pokémon with 1 of your Benched Pokémon.",
+          "[1] Sudden Flash (10) \r\n<br>Flip a coin.  If heads, your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.53,
+            "mid_price": 1,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.98,
+            "direct_low_price": 1.34,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/527952"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_db6e89a4d69c843cefcbebddb0be815833924cb604c0d1b93675d170a280145953e9d67092c1738c3fa2e4e9578005",
+      "card_info": {
+        "name": "Lt. Surge's Rattata",
+        "clean_name": "Lt Surges Rattata",
+        "set_name": "Trading Card Game Classic",
+        "set_code": "CL",
+        "set_id": "23323",
+        "card_number": "015/034",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\">Note: This card is <strong>NOT</strong> tournament legal.</span>",
+        "attacks": [
+          "[1] Focus Energy\r\n<br>During your next turn, this Pokémon's Gnaw attack does 20 more damage <em>(before applying Weakness and Resistance)</em>.",
+          "[2] Gnaw (20)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.47,
+            "mid_price": 2.53,
+            "high_price": 35.34,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 2.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/528003"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 0,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

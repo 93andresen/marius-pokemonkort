@@ -1,0 +1,106 @@
+{
+  "query": "2374 010",
+  "results": [
+    {
+      "id": "pk_99641324acffe938f1000c204b6267e10aba0335c7582f32ae04cfb4adf1a38a4a4941028e6c3df695f87edba65d",
+      "card_info": {
+        "name": "Abomasnow - 010/198 (Holiday Calendar)",
+        "clean_name": "Abomasnow 010 198 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "010/198",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Toughness Boost</strong>\r\n<br>Your Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time.",
+        "attacks": [
+          "[2G] Mega Punch (90)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.62,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.52,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283285"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_40b44a330e0eed912ee006a2086aae249ac57fa879decf95abc34417364f3b76b9e6cb86a22082e854312c4e4b04",
+      "card_info": {
+        "name": "Horsea - 010/064 (Cosmos Holo)",
+        "clean_name": "Horsea 010 064 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "010/064",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Hold Still<br> Heal 30 damage from this Pokemon.",
+          "[CC] Razor Fin (20)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.75,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.74,
+            "direct_low_price": 0.85,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/562172"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 0,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

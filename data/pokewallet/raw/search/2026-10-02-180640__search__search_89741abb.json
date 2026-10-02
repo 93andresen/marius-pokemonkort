@@ -1,0 +1,194 @@
+{
+  "query": "2374 019",
+  "results": [
+    {
+      "id": "pk_4def3ddb9cf6f5e8b358ea33cbf2b5dd00c93d01fcb0a89c5cc8cf8470c79baaa90c83ce0770a56ae9671b6c67ad",
+      "card_info": {
+        "name": "Charmeleon - 19/147 (Premium Collection Promo)",
+        "clean_name": "Charmeleon 19 147 Premium Collection Promo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "019/147",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Claw Slash (30)",
+          "[1RR] Heat Blast (70)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.98,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/138484"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_547bf40f1a1f658380c0aac579b21ddf0dff2295042c0f06f3f845b9e3ce642b107735fd7dd62d67642eaf457fe8",
+      "card_info": {
+        "name": "Moltres - 19/181 (Team Up Stamped)",
+        "clean_name": "Moltres 19 181 Team Up Stamped",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "019/181",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Top Burner\r\n<br>Discard all Fire Energy from this Pokémon. Then, discard a card from the top of your opponent's deck for each Energy you discarded in this way.",
+          "[1RRR] Fire Spin (180)\r\n<br>Discard 3 Energy from this Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 96.95,
+            "mid_price": 96.95,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 47.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/276393"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bf13051f154dfe029901b69d6cddb1d38dcf07e0a5a70bafa13988928b2e57619b1ad85a640855444001d55768e0",
+      "card_info": {
+        "name": "Charizard - 19/113 (Cosmos Holo)",
+        "clean_name": "Charizard 19 113 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "019/113",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2R] Split Bomb\r\n<br>This attack does 40 damage to 2 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[4R] Scorching Fire (150)\r\n<br>Discard a Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 68,
+            "mid_price": 152,
+            "high_price": 204.98,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 137.01,
+            "direct_low_price": 80.37,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/226672"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9e777765e5d447ca573e77a58bfee795070d0a8673ac2d4a1f3ad551de55983a521ad4b1da1bdc6d174a3ea82e84",
+      "card_info": {
+        "name": "Suicune - 19/132 (Cracked Ice Holo)",
+        "clean_name": "Suicune 19 132 Cracked Ice Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "019/132",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Aqua Recover </strong\r\n<br>Once during your turn, when you put Suicune from your hand onto your Bench, you may search your discard pile for up to 3 Water Pokémon, show them to your opponent, and put them into your hand.",
+        "attacks": [
+          "[WWW] Cure Stream (60) \r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20<em> (before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "L+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.47,
+            "mid_price": 29.99,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 31.51,
+            "direct_low_price": 36.69,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/153235"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 0,
+    "tcg_only": 4,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

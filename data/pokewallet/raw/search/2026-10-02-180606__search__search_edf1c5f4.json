@@ -1,0 +1,99 @@
+{
+  "query": "1842 86",
+  "results": [
+    {
+      "id": "pk_8bc5fc0280dff1f92b5cc5e5353a66bf978063e4814ee3799a913bb1ac9c35473582d6a7716a6c965adcd5cbaac4",
+      "card_info": {
+        "name": "Slowbro Spirit Link",
+        "clean_name": "Slowbro Spirit Link",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "86/108",
+        "rarity": "Uncommon",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n<br>\r\n<br>Your turn does not end if the Pokemon this card is attached to becomes M Slowbro EX.\r\n<br>\r\n<br><em>You may play as many Item cards as you like during your turn (before your attack).",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.27,
+            "high_price": 14.29,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.28,
+            "direct_low_price": 0.16,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.35,
+            "mid_price": 0.98,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124099"
+      },
+      "cardmarket": {
+        "product_name": "Slowbro Spirit Link",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.16,
+            "avg30": 0.14,
+            "trend": 0.13,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.37,
+            "low": 0.02,
+            "avg1": 4,
+            "avg7": 2.97,
+            "avg30": 2.02,
+            "trend": 2.82,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Slowbro-Spirit-Link-EVO86"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

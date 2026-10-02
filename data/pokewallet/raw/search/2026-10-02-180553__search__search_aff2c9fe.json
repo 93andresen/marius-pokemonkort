@@ -1,0 +1,73 @@
+{
+  "query": "N4 50",
+  "results": [
+    {
+      "id": "pk_90c9aa90e01303ed97e47d1e17aa299194980574c93cabb92c989d8d47e184978f3557370507513063a9073903",
+      "card_info": {
+        "name": "Light Ninetales",
+        "clean_name": "Light Ninetales",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "050/105",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Guiding Flame\r\n<br>Put a Baby Pokémon or a Basic Pokémon card from your discard pile onto your Bench. <em>(You can't use this attack if your Bench is full.)</em>",
+          "[RRR] Fire Blast (50)\r\n<br>Discard a Fire Energy card attached to Light Ninetales in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 41,
+            "high_price": 129.3,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 28.55,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 61.56,
+            "mid_price": 419.84,
+            "high_price": 569.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 58.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86746"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "query": "23473 029",
+  "results": [
+    {
+      "id": "pk_fa883eb13246646c37cc824b682d82256cdb102450199b68bee312211605694e7ec544d316450070c5831a059c89d5",
+      "card_info": {
+        "name": "Magcargo ex - 029/167",
+        "clean_name": "Magcargo ex",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "029/167",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[RC] Hot Magma (70)\nYour opponent's Active Pokémon is now Burned.",
+          "[RRC] Ground Burn (140+)\nDiscard the top card of each player's deck. This attack does 140 more damage for each Energy card discarded in this way."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.9,
+            "high_price": 999,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.65,
+            "direct_low_price": 0.91,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550073"
+      },
+      "cardmarket": {
+        "product_name": "Magcargo ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.59,
+            "low": 0.09,
+            "avg1": 0.53,
+            "avg7": 0.6,
+            "avg30": 0.57,
+            "trend": 0.54,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Magcargo-ex-V1-TWM029"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

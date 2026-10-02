@@ -1,0 +1,87 @@
+{
+  "query": "23266 073",
+  "results": [
+    {
+      "id": "pk_ca34e023b23731d857200e1712faa4fb7a21cdc1cd6a076bf7a0603cf55216cc0d7364202bbef3555595b06fd0fec9",
+      "card_info": {
+        "name": "Banette",
+        "clean_name": "Banette",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "073/196",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Puppet Offering</strong>\r\n<br>\r\nOnce during your turn, you may put a Supporter card from your discard pile into your hand. If you do, put this Pokémon in the Lost Zone. <em>(Discard all attached cards.)</em>",
+        "attacks": [
+          "[PP] Spooky Shot (50)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.21,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515666"
+      },
+      "cardmarket": {
+        "product_name": "Banette",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.19,
+            "avg30": 0.29,
+            "trend": 0.33,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Banette-BOO23LOR-073"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

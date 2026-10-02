@@ -1,0 +1,150 @@
+{
+  "query": "2374 125",
+  "results": [
+    {
+      "id": "pk_63187dec1b2cdb10faaf06e599df131598cb86715c672e91d9afd386c81753b03107f2a4e9ab8b832461002b6fb2a2",
+      "card_info": {
+        "name": "Steelix - 125/182 (Cosmos Holo)",
+        "clean_name": "Steelix 125 182 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "125/182",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[M] Earthquake (130)\r\n<br>This attack also does 30 damage to each of your Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon)</em>.",
+          "[3MM] Heavy Impact (180)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.6,
+            "mid_price": 11.66,
+            "high_price": 94.44,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 10.78,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/557370"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d8ae44b82eb087b90cbc9800f93282c839396931adb0e51fbe3da3430cf23524a352916a4b1cec88af6d382fabacf5",
+      "card_info": {
+        "name": "Stantler - 125/189 (Holiday Calendar)",
+        "clean_name": "Stantler 125 189 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "125/189",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Guard Press (30)\r\n<br>During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.39,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/514445"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_16c564bf2881d5709fa4ff84089182afab1d4c16c764ee3fdf45672f78d3212413fb5765de33063ce763a11d2ef2a6",
+      "card_info": {
+        "name": "Electabuzz - 125/165 (Cosmos Holo)",
+        "clean_name": "Electabuzz 125 165 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "125/165",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Electro Combo (10+)\r\n<br>If Magmar is on your Bench, this attack does 40 more damage.",
+          "[1L] Light Punch (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.52,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.5,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/520726"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 0,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

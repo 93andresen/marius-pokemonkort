@@ -1,0 +1,101 @@
+{
+  "query": "1842 57",
+  "results": [
+    {
+      "id": "pk_c36c6e58796bca5e44144f023bfacdd05c068c8a10ab281049109b750884a5a984479434012ef3c73acffb09d2bf",
+      "card_info": {
+        "name": "Machop",
+        "clean_name": "Machop",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "57/108",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[FF] Dual Chop (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 15,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.19,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.48,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124070"
+      },
+      "cardmarket": {
+        "product_name": "Machop",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.68,
+            "low": 0.1,
+            "avg1": 2.38,
+            "avg7": 0.81,
+            "avg30": 0.56,
+            "trend": 1.07,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machop-EVO57"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

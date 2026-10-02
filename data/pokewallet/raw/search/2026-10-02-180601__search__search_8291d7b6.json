@@ -1,0 +1,433 @@
+{
+  "query": "1842 4",
+  "results": [
+    {
+      "id": "pk_a799e04fc2c560e3ea4f7393942f49dfe800aa4842aed40122c90e0fcc57c30eee64a5b7ee52f5e1e7ebf47f32",
+      "card_info": {
+        "name": "Metapod",
+        "clean_name": "Metapod",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "4/108",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Stiffen\r\n<br>During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 40 <i>(after applying Weakness and Resistance)</i>.",
+          "[GG] Stun Spore (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.23,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.4,
+            "high_price": 17.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.4,
+            "direct_low_price": 0.44,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124017"
+      },
+      "cardmarket": {
+        "product_name": "Metapod",
+        "prices": [
+          {
+            "avg": 0.7,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.97,
+            "avg30": 0.73,
+            "trend": 0.55,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.1,
+            "avg30": 0.13,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Metapod-EVO4"
+      }
+    },
+    {
+      "id": "pk_ad59659212d63ea219c0cc8dd35fa9f666d0dd921a504a300a0f8973230a90b72ebe0d1656a462520b3ffa3a1517",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "40/108",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Ability — Buzzap Thunder</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may Knock Out this Pokemon and attach it to one of your Lightning Pokemon as a Special Energy card. This card provides 2 Lightning Energy only while this card is attached to a Pokemon.",
+        "attacks": [
+          "[1LL] Head Bolt (70)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.33,
+            "high_price": 16.88,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.41,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.33,
+            "mid_price": 1,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 1.06,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124053"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 1.76,
+            "low": 0.05,
+            "avg1": 2,
+            "avg7": 1.37,
+            "avg30": 1.95,
+            "trend": 2.15,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.25,
+            "avg30": 0.21,
+            "trend": 0.2,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electrode-EVO40"
+      }
+    },
+    {
+      "id": "pk_b026b15fb1f62de27d32c0442c7ea66b7b72eeeebcc286f479bfc9875ced7c617f9a378679c8566c650350ea0b4f",
+      "card_info": {
+        "name": "Electabuzz",
+        "clean_name": "Electabuzz",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "41/108",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Shock (10)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[1L] Thunder Punch (30+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage. If tails, this Pokemon does 10 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 14.28,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.23,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.52,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124054"
+      },
+      "cardmarket": {
+        "product_name": "Electabuzz",
+        "prices": [
+          {
+            "avg": 0.61,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.66,
+            "avg30": 0.84,
+            "trend": 0.59,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.11,
+            "avg30": 0.5,
+            "trend": 0.15,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electabuzz-EVO41"
+      }
+    },
+    {
+      "id": "pk_e169f4534c628d8b9b035805cbd75bee3eebbfaa91bbff97f6562b1ca13545442d3321c5bd0d9307ae0e3a479b34",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "42/108",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2LL] Thunder (90)\r\n<br>This Pokemon does 30 damage to itself.",
+          "[LLLL] Thunderbolt (170)\r\n<br>Discard all Energy attached to this Pokemon."
+        ],
+        "weakness": null,
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 6.83,
+            "high_price": 94.56,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 6.81,
+            "direct_low_price": 8.4,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 2.99,
+            "mid_price": 6.42,
+            "high_price": 115.8,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 6.26,
+            "direct_low_price": 19.94,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124055"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": 7.91,
+            "low": 0.98,
+            "avg1": 6,
+            "avg7": 6.43,
+            "avg30": 6.98,
+            "trend": 7.2,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.45,
+            "low": 0.98,
+            "avg1": 8,
+            "avg7": 6.51,
+            "avg30": 7.51,
+            "trend": 7.2,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Zapdos-EVO42"
+      }
+    },
+    {
+      "id": "pk_f0e4a64f11f006989e3dabec9713188fbc080aa06f188d3a77aeea32d821201db00433f2a7eeb000d15d51230c64",
+      "card_info": {
+        "name": "Nidorino",
+        "clean_name": "Nidorino",
+        "set_name": "XY - Evolutions",
+        "set_code": "EVO",
+        "set_id": "1842",
+        "card_number": "44/108",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Horn Attack (20)",
+          "[3] Fury Attack (30x)\r\n<br>Flip 3 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 19.16,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.46,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:33.887012",
+            "market_price": 0.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/124057"
+      },
+      "cardmarket": {
+        "product_name": "Nidorino",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.14,
+            "avg30": 0.15,
+            "trend": 0.25,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.72,
+            "low": 0.1,
+            "avg1": 0.3,
+            "avg7": 0.65,
+            "avg30": 0.82,
+            "trend": 0.72,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidorino-EVO44"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 11,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "query": "BLE 13",
+  "results": [
+    {
+      "id": "pk_fad4cd21f7a695cac2a57c676604211f69b84fbe27a5a61110af900e9198975ba2e1e9de182713f8acc1b87db5fdeb",
+      "card_info": {
+        "name": "Brambleghast",
+        "clean_name": "Brambleghast",
+        "set_name": "SV5M: Cyber Judge",
+        "set_code": "SV5M",
+        "set_id": "23613",
+        "card_number": "013/071",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Grass][Colorless][Colorless] Powerful Needles (80x)<br> Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.2,
+            "high_price": 1.68,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/566164"
+      },
+      "cardmarket": {
+        "product_name": "Brambleghast",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cyber-Judge/Brambleghast-sv5M013"
+      }
+    },
+    {
+      "id": "pk_2e386e10628f4acd84f7f8441e421f0db9b94f7fa4785d41158a6ef1bd16c8c13c054699a37a63148f9aa9c957",
+      "card_info": {
+        "name": "Cryogonal (32)",
+        "clean_name": "Cryogonal 32",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "32/101",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Icy Wind - The Defending Pokemon is now Asleep.",
+          "[1W] Ice Shard (30+) If the Defending Pokemon is a F Pokemon, this attack does 40 more damage."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.05,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 0.78,
+            "direct_low_price": 1.79,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.4,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 0.41,
+            "direct_low_price": 0.38,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84512"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bfeb3cde2765ac9f059d2c1fbbb3cfd5838112713e35af14222fd755ff9d22dafcc4fdadf619e17c3b265ff089",
+      "card_info": {
+        "name": "Larvesta (20)",
+        "clean_name": "Larvesta 20",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "20/101",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Take Down (30) This Pokemon does 10 damage to itself."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.3,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 1.94,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 1.3,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86628"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4fa643c4948bdd185d549937ae5f66f834ffd59bc96ef216bb0b2879fef3029f527682d741f921dbce4d503378",
+      "card_info": {
+        "name": "Victini (98 Full Art)",
+        "clean_name": "Victini 98 Full Art",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "98/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "Victory Star - Once during your turn, after you flip any coins for an attack, you may ignore all effects of those coin flips and begin flipping those coins again.  You can't use more than 1 Victory Star Ability each turn.  (Ability)",
+        "attacks": [
+          "[1R] Stored Power (30) Move an Energy attached to this Pokemon to 1 of your Benched Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 122.04,
+            "mid_price": 200,
+            "high_price": 250,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 199.03,
+            "direct_low_price": 249.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90349"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9f89b162479d4911badac9a6eaf65234a26d104f06ba8ede8274f754bc04fbacb145ad5811178c2a081e206102",
+      "card_info": {
+        "name": "Virizion",
+        "clean_name": "Virizion",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "13/101",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Double Draw - Draw 2 cards.",
+          "[1G] Leaf Wallop (40) During your next turn, this Pokemon's Leaf Wallop attack does 40 more damage (before applying Weakness and Resistance)."
+        ],
+        "weakness": "Rx2",
+        "resistance": "W-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 1.99,
+            "high_price": 24.74,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 1.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1.26,
+            "mid_price": 2.4,
+            "high_price": 32.94,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 2.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90388"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 314,
+    "total_pages": 63
+  },
+  "metadata": {
+    "total_count": 314,
+    "tcg": 312,
+    "cardmarket": 31,
+    "tcg_only": 283,
+    "cardmarket_only": 2,
+    "both_sources": 29
+  }
+}
