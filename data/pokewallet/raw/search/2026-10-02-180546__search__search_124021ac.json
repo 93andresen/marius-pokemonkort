@@ -1,0 +1,69 @@
+{
+  "query": "1441 130",
+  "results": [
+    {
+      "id": "pk_31445d60b6bb5b719f38c2fbfb7ec1ad316c2c0608bde333ce4c6d61430ed40e39e44c7a49e2d9e775fcad6fba70",
+      "card_info": {
+        "name": "Lightning Energy",
+        "clean_name": "Lightning Energy",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "130/132",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1.5,
+            "high_price": 95.24,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.11,
+            "direct_low_price": 4.06,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.45,
+            "high_price": 18.36,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.41,
+            "direct_low_price": 0.45,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86757"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

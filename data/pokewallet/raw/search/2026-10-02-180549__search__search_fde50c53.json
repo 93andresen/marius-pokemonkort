@@ -1,0 +1,114 @@
+{
+  "query": "G1 43",
+  "results": [
+    {
+      "id": "pk_ce2f5fe6baf2c2ee69cc6351f20132fd26d97c44ae91ab0c41c80d8b84522dc955466e9fcf916deadb08659552",
+      "card_info": {
+        "name": "Erika's Exeggcute (43)",
+        "clean_name": "Erikas Exeggcute 43",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "043/132",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Deflector\r\n<br>During your opponent's next turn, whenever Erika's Exeggcute takes damage, divide that damage in half (rounded down to the nearest 10). <em>(Any other effects still happen.)</em>",
+          "[1G] Egg Bomb (40)\r\n<br>Flip a coin. If tails, this attack does nothing to the Defending Pokémon and Erika's Exeggcute does 20 damage to itself."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.52,
+            "mid_price": 6.97,
+            "high_price": 58.46,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 6.24,
+            "direct_low_price": 5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 1.39,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.54,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85292"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "ef5a698e2325da9b306665c97798ac880a67ea21638029a1ed1031cf0d3e9569",
+      "card_info": {
+        "name": "Zapdos ex",
+        "set_code": "PCG1",
+        "set_id": "24117",
+        "card_number": "43",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 59.5,
+            "low": 38.9,
+            "avg1": 69,
+            "avg7": 102.33,
+            "avg30": 70.75,
+            "trend": 95.04,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flight-of-Legends/Zapdos-ex-PCG1043"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 1,
+    "cardmarket_only": 1,
+    "both_sources": 0
+  }
+}
