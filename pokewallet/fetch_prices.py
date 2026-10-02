@@ -80,13 +80,17 @@ def _info(card: dict) -> dict:
 
 
 def _base_name(value: object) -> str:
-    """Normalise a card name.
+    """Reduce a name to its bare card name for comparison.
 
-    Drops trailing ``(...)`` variant/language hints (``(JP)``, ``(CN)``,
-    ``(Poke Ball Pattern)``) then applies the shared set-name normalisation
-    (lowercase, punctuation-stripped, whitespace-collapsed).
+    The API's ``card_info.name`` is often ``"<name> - <number> (<set>)"``
+    (e.g. ``"Roaring Moon ex - 090/066"``, ``"Shelgon - 054/113 (Delta
+    Species)"``), while Collectr stores ``"Roaring Moon ex (JP)"``. So we drop
+    everything from the first ``" - "`` and remove any remaining ``(...)``
+    hints, then apply the shared name normalisation (lowercase,
+    punctuation-stripped, whitespace-collapsed).
     """
-    text = re.sub(r"\([^)]*\)", " ", str(value or ""))
+    text = str(value or "").split(" - ", 1)[0]
+    text = re.sub(r"\([^)]*\)", " ", text)
     return setslib.normalize_name(text)
 
 

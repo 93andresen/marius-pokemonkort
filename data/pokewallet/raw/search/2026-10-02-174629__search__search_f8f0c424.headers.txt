@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Ancient+Roar+090&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:46:29 GMT
+Content-Type: application/json
+Content-Length: 1729
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: HIT
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 953
+X-RateLimit-Remaining-Hour: 53
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KV5n5QIjz%2BqqhbUbqOhSN3vheusXlZVN1xupO2C35U6pfOSsMu9DlVB%2BjJ0kI8CIKSRjO0OoSqtmIt43f8%2FUAiFvEQ97ZfD0ARnzeMiLTUww1fJLOyGx%2BGSlmjcYzvL4Rpmp580j95uwGCPO6AL3aA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444d714bb695a0f-OSL
+alt-svc: h3=":443"; ma=86400

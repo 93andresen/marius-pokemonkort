@@ -1,0 +1,61 @@
+{
+  "query": "1374 67",
+  "results": [
+    {
+      "id": "64758a9fba72ea94ca400f3642dfd462047ce2832943d1b05790c8a24daf7c4f",
+      "card_info": {
+        "name": "Abra",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "67",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Abra",
+        "prices": [
+          {
+            "avg": 0.97,
+            "low": 0.1,
+            "avg1": 1.7,
+            "avg7": 1.13,
+            "avg30": 0.94,
+            "trend": 1.19,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 850,
+            "low": 80,
+            "avg1": 1100,
+            "avg7": 324.37,
+            "avg30": 131.21,
+            "trend": 408.79,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Abra-LC67"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 0,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "query": "1373 17",
+  "results": [
+    {
+      "id": "pk_f3e9793a32fe072f5632e5f156bba775f9cb692b953be769991b53d4aed0a9d5dbc6910ad76ca744be005452",
+      "card_info": {
+        "name": "Rainbow Energy (17)",
+        "clean_name": "Rainbow Energy 17",
+        "set_name": "Team Rocket",
+        "set_code": "TR",
+        "set_id": "1373",
+        "card_number": "17/82",
+        "rarity": "Holo Rare",
+        "card_type": "Special Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy counts as every type of basic Energy but only provides 1 Energy at a time. <em>(Doesn't count as a basic Energy card when not in play.)</em> When you attach this card from your hand to 1 of your Pokémon, it does 10 damage to that Pokémon. <em>(Don't apply Weakness and Resistance.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 31.11,
+            "mid_price": 45.5,
+            "high_price": 471.34,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 40.67,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 18.5,
+            "mid_price": 25.45,
+            "high_price": 247.01,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 28.95,
+            "direct_low_price": 38.78,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88550"
+      },
+      "cardmarket": {
+        "product_name": "Rainbow Energy",
+        "prices": [
+          {
+            "avg": 27.15,
+            "low": 4,
+            "avg1": 29.78,
+            "avg7": 25.13,
+            "avg30": 28.28,
+            "trend": 29.26,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.49,
+            "avg7": 18.56,
+            "avg30": 15.88,
+            "trend": 17.38,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rainbow-Energy-V1-TR17"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

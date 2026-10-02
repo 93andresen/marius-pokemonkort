@@ -1,0 +1,88 @@
+{
+  "query": "Wild Force 080",
+  "results": [
+    {
+      "id": "pk_51b7bb31edf1939b662c9533110216e8a78391e1406d01d0d33503aad9131294e8038a7e215494b2508f352fe7f9ef",
+      "card_info": {
+        "name": "Gastly - 080/071",
+        "clean_name": "Gastly",
+        "set_name": "SV5K: Wild Force",
+        "set_code": "SV5K",
+        "set_id": "23612",
+        "card_number": "080/071",
+        "rarity": "Art Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Mysterious Beam<br> Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "[Darkness][Darkness] Suffocating Gas (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 33,
+            "mid_price": 38.45,
+            "high_price": 200,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 37.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568414"
+      },
+      "cardmarket": {
+        "product_name": "Gastly",
+        "prices": [
+          {
+            "avg": 36.37,
+            "low": 21.49,
+            "avg1": 26.67,
+            "avg7": 34.51,
+            "avg30": 34.56,
+            "trend": 31.47,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Wild-Force/Gastly-V2-sv5K080"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

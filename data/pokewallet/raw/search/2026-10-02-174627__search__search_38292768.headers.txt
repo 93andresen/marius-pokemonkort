@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=CBB4C+0702&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:46:27 GMT
+Content-Type: application/json
+Content-Length: 197
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: HIT
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 960
+X-RateLimit-Remaining-Hour: 60
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xiszCFqzjRmYSVrxSM5dfc2U41kMIUbN026T91BfLqYZvKBRfNCYwPIL%2B%2FNa2bdTu9s30uA2M4zLnAQcWxU04xoX%2B8Giabys%2Bd9v5gZAuM9E3TnNG0ErIJ1xaLXTT%2Fv9c0zgvRDYyaMV7zOOWHltwQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444d70a2efc56b5-OSL
+alt-svc: h3=":443"; ma=86400

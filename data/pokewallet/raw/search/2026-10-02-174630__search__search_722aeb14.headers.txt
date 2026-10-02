@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Wild+Force+080&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:46:30 GMT
+Content-Type: application/json
+Content-Length: 1501
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: HIT
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 950
+X-RateLimit-Remaining-Hour: 50
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Gi5oDZvkWiicneoGM8CDwsUyMpbviCwjFvUDMDCLY83zT85C9S2eLC%2Blm%2BpoNM7SZPN%2BBey8CT9poaNXygsYNdadxD1jBW3CoAOTBwCFqGBv8hmfNkD3XRK9TRUaKjGpEHW%2B9n6KyMzcFN7yY4KesA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444d7195ef676ef-OSL
+alt-svc: h3=":443"; ma=86400

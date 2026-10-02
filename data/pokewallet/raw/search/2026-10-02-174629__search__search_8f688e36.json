@@ -1,0 +1,93 @@
+{
+  "query": "-42 080",
+  "results": [
+    {
+      "id": "pk_3bd4a1937b9058b66ebc675ccd6496ace7c5d5a821d3b89a56265da5fe9008f144ce14aebe0a8a5381ba1f8619849b",
+      "card_info": {
+        "name": "Medicham ex - 080/142",
+        "clean_name": "Medicham ex",
+        "set_name": "SV07: Stellar Crown",
+        "set_code": "SCR",
+        "set_id": "23537",
+        "card_number": "080/142",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Chi-Atsu<br> Put damage counters on your opponent's Active Pokemon until its remaining HP is 50.",
+          "[FCC] Yoga Kick (190)<br> This attack's damage isn't affected by Weakness or Resistance."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.21,
+            "mid_price": 0.9,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.73,
+            "direct_low_price": 0.9,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/567306"
+      },
+      "cardmarket": {
+        "product_name": "Medicham ex",
+        "prices": [
+          {
+            "avg": 0.65,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.55,
+            "avg30": 0.66,
+            "trend": 0.59,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stellar-Crown/Medicham-ex-V1-SCR080"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}
