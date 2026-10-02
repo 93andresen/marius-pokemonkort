@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Oct 2026 15:31:31 GMT
+Content-Type: application/json
+Content-Length: 971
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 1000
+X-RateLimit-Remaining-Hour: 100
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2pDA%2B7iEEyWX%2F4pqqk9b8I8CmQftMRIxUTlymHTZZnLmVM5P6hD7ZoBzVYnWYgGHpDCggjrcOwVsH%2BMZg%2FnQUNkVP4lCuBRIInRb1SnmOE1gB2yuJOS4PEkS1gcom%2BQlFWxAOhi2DM3MI0bgJSz8mA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444c1207cd8c759-OSL
+alt-svc: h3=":443"; ma=86400
+

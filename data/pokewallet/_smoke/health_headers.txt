@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Oct 2026 15:31:25 GMT
+Content-Type: application/json
+Content-Length: 271
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gpPj8CAV9SLdGcjLTsjWJiHcfPy%2FiuCU4usx3fZ74L1VS2PCgvxo1XQgJ9132j4vE9AM%2BjdhFx%2FniEQfjdRYBkEZUmmilWOEx6e2N8qjp7T3Gf0%2FJAMgyAPaHfAmw4J2rOZy%2BV41xBWzIhHrvtCGdA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444c0fd7ee65a0f-OSL
+alt-svc: h3=":443"; ma=86400
+
