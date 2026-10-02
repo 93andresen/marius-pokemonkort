@@ -477,7 +477,7 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 - [x] **M7 — FINN search + ad scrapers** (structured JSON, folder-per-ad, images). Verified: offline parse `quality=full`, live max-size `original` images, append-only manifest.
 - [x] **M8 — FINN matcher** (search/ad → candidates → prices, budget-capped). Verified offline + one live call (best score 79); append-only query cache + overlay payload.
 - [x] **M9 — Browser augmentation** (userscript + local agent + history logger). Verified end-to-end 13/13 (ephemeral-port probe); userscript syntax-checked.
-- [ ] **M10 — "Show the friend" demo.** A single, polished command/flow that demonstrates the price overlay on live finn.no + the populated sheet.
+- [x] **M10 — "Show the friend" demo.** `DEMO.md` runbook: sheet → overlay on live finn.no → history query, plus the full file map and the 60-second script.
 
 *(User wants something cool ready "today" → M5 + M6 are the fastest visible wins; M8/M9 are the mind-blower.)*
 
@@ -510,7 +510,8 @@ When resuming, do this:
 4. 🔁 `fetch_prices.py` + `fetch_loop.py` running; keep filling the portfolio each hour (M5).
 5. ✅ Sheet built + populated (M6). ✅ FINN search + ad scrapers (M7). ✅ FINN matcher (M8).
 6. ✅ FINN browser augmentation (M9) — `tools/`: userscript + local agent + history logger, verified 13/13.
-7. ⏭️ **Next up: M10 — "show the friend" demo** (polished overlay-on-live-finn.no + populated-sheet walkthrough).
+7. ✅ Demo runbook written (`DEMO.md`) — M10.
+8. ⏭️ **Ongoing:** keep `fetch_loop.py` snapping hourly; let the FINN query cache grow; next ideas — under-market alerts, sheet `FINN` tab feed from the history log.
 
 ---
 
