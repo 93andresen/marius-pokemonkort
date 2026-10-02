@@ -16,3 +16,6 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T15:42:25Z,search,/search,q=-38+090&limit=5,200,86,986,True,
 2026-10-02T15:42:27Z,search,/search,q=-38+90&limit=5,200,85,985,True,
 2026-10-02T15:42:28Z,search,/search,q=-42+080&limit=5,200,84,984,True,
+2026-10-02T15:44:05Z,search,/search,q=cs5.1c+90&limit=5,200,83,983,True,
+2026-10-02T15:44:07Z,search,/search,q=ancient+roar+90&limit=5,200,82,982,True,
+2026-10-02T15:44:08Z,search,/search,q=lot+54&limit=5,200,81,981,True,
