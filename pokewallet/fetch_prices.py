@@ -20,8 +20,10 @@ Design guarantees (per PROJECT-PLAN.md / AGENTS.md):
 * **Never overwrite / never lose data** — one JSON object per portfolio row is
   *appended* to ``snapshots/portfolio_prices.jsonl`` (flushed + fsynced), and a
   flat ``snapshots/snapshot_<run_id>.csv`` is written for the sheet.
-* **Resumable & rate-aware** — stops cleanly at the client's budget floor;
-  re-run later to continue. Unique cards are deduped so shared cards cost once.
+* **Resumable & rate-aware** — cards already fetched within ``--fresh-hours``
+  (default 20h) are served from the append-only JSONL instead of spending a new
+  call, so a run stopped at the budget floor simply continues next time. Unique
+  cards are deduped so shared cards cost once.
 * **No silent success** — every failure (missing key, HTTP error, no result) is
   printed and recorded; nothing is hidden.
 
@@ -35,8 +37,11 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import re
 import sys
+from datetime import datetime, timezone
+from pathlib import Path
 
 from pwlib import config, portfolio, prices as pricelib, sets as setslib
 from pwlib.api import BudgetExhausted, MissingApiKey, PokeWalletClient
@@ -55,10 +60,26 @@ SNAPSHOT_HEADER = [
     "tcg_market", "tcg_low", "tcg_mid", "tcg_high", "tcg_subtype", "tcg_updated",
     "tcgplayer_url",
     "cmk_trend", "cmk_avg", "cmk_low", "cmk_variant", "cmk_updated",
-    "price_source", "found", "match_method", "candidate", "query",
+    "price_source", "found", "served_from", "match_method", "candidate", "query",
 ]
 
 SNAPSHOT_JSONL = config.SNAPSHOTS_DIR / "portfolio_prices.jsonl"
+
+# Fields rebuilt from the Collectr CSV + set index on every run. Everything else
+# in SNAPSHOT_HEADER comes from the API and is therefore *carried forward* from
+# the most recent snapshot when a card is served from cache (skip) or when a
+# fresh fetch fails — so the flat CSV always shows the best known state and no
+# run ever loses a previously-known price.
+PORTFOLIO_FIELDS = {
+    "run_id", "run_ts_utc", "row_index", "portfolio", "category",
+    "set", "set_code", "set_id", "api_set_name", "number", "number_norm",
+    "product_name", "rarity", "variance", "grade", "condition", "quantity",
+    "avg_cost_paid_nok", "collectr_market_nok", "watchlist", "date_added",
+}
+CACHE_FIELDS = [
+    c for c in SNAPSHOT_HEADER
+    if c not in PORTFOLIO_FIELDS and c != "served_from"
+]
 
 
 # --- payload helpers -------------------------------------------------------
@@ -163,6 +184,68 @@ def numerator(raw: object) -> str:
     return str(raw or "").strip().split("/")[0].strip()
 
 
+# --- resume helpers --------------------------------------------------------
+def age_hours(ts_iso: object) -> float | None:
+    """Hours between ``ts_iso`` (UTC ``...Z``) and now; ``None`` if unparsable."""
+    text = str(ts_iso or "")
+    if not text:
+        return None
+    try:
+        when = datetime.strptime(text, "%Y-%m-%dT%H:%M:%SZ").replace(
+            tzinfo=timezone.utc
+        )
+    except ValueError:
+        return None
+    return (datetime.now(timezone.utc) - when).total_seconds() / 3600.0
+
+
+def load_latest_snapshots(path: Path) -> dict[tuple[str, str], dict]:
+    """Newest appended record per ``(set_id, number_norm)`` from the JSONL.
+
+    This is what makes the fetcher *truly* resumable: instead of re-spending the
+    scarce free-plan budget on cards we already resolved, we read what we have
+    and only fetch the gaps. Malformed lines are skipped, never fatal.
+    """
+    latest: dict[tuple[str, str], dict] = {}
+    if not Path(path).exists():
+        return latest
+    with Path(path).open("r", encoding="utf-8") as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if not isinstance(rec, dict):
+                continue
+            set_id = str(rec.get("set_id") or "")
+            number_norm = str(rec.get("number_norm") or "")
+            if not set_id or not number_norm:
+                continue
+            key = (set_id, number_norm)
+            prev = latest.get(key)
+            if prev is None or (rec.get("run_ts_utc") or "") >= (prev.get("run_ts_utc") or ""):
+                latest[key] = rec
+    return latest
+
+
+def carry_forward(record: dict, cached: dict | None) -> bool:
+    """Copy API-derived fields from ``cached`` into ``record``.
+
+    Returns ``True`` when the cached record actually held a price (``found``),
+    i.e. the record can be shown as a previously-known value. ``served_from`` is
+    deliberately never copied — the caller sets the current run's label.
+    """
+    if not cached:
+        return False
+    for col in CACHE_FIELDS:
+        if col in cached:
+            record[col] = cached[col]
+    return bool(cached.get("found"))
+
+
 # --- main ------------------------------------------------------------------
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -178,6 +261,9 @@ def main(argv: list[str] | None = None) -> int:
                         help="print the plan without sending any requests")
     parser.add_argument("--force", action="store_true",
                         help="ignore the rate-budget safety floor")
+    parser.add_argument("--fresh-hours", type=float, default=20.0,
+                        help="skip cards already fetched within N hours "
+                             "(0 = always refetch; default 20)")
     args = parser.parse_args(argv)
 
     fieldnames, rows = portfolio.read_rows(args.csv)
@@ -236,17 +322,31 @@ def main(argv: list[str] | None = None) -> int:
         else:
             orphan_rows.append(record)
 
-    keys = sorted(unique)
-    if args.limit:
-        keys = keys[: args.limit]
+    # --- resume: classify every card as already-fresh vs. needs-fetch ------
+    latest = load_latest_snapshots(SNAPSHOT_JSONL)
 
-    print(f"run_id:          {run_id}")
-    print(f"portfolio rows:  {len(rows)}")
+    def is_fresh(key: tuple[str, str]) -> bool:
+        cached = latest.get(key)
+        if not cached or not cached.get("found") or args.fresh_hours <= 0:
+            return False
+        age = age_hours(cached.get("run_ts_utc"))
+        return age is not None and age <= args.fresh_hours
+
+    all_keys = sorted(unique)
+    fresh_keys = [k for k in all_keys if is_fresh(k)]
+    fetch_keys = [k for k in all_keys if not is_fresh(k)]
+    if args.limit:
+        fetch_keys = fetch_keys[: args.limit]
+
+    print(f"run_id:               {run_id}")
+    print(f"portfolio rows:       {len(rows)}")
     print(f"rows w/o set/no number: {len(orphan_rows)}")
-    print(f"unique cards to fetch:  {len(unique)} (this run: {len(keys)})")
+    print(f"unique cards total:   {len(all_keys)}")
+    print(f"  served from cache:  {len(fresh_keys)} (fetched < {args.fresh_hours:g}h ago)")
+    print(f"  to fetch this run:  {len(fetch_keys)}")
 
     if args.dry_run:
-        for key in keys:
+        for key in fetch_keys:
             sample = unique[key][0]
             num_padded = numerator(sample["number"]) or key[1]
             api_name = sample.get("api_set_name") or sample["set"]
@@ -257,16 +357,24 @@ def main(argv: list[str] | None = None) -> int:
             ]))
             print(f"  [{sample['set_code']}] {sample['set']!r} #{sample['number']} -> "
                   + "  ".join(f"q={q!r}" for q in queries))
-        print(f"dry-run: no requests sent ({len(keys)} cards, up to "
-              f"{len(keys) * 3} calls planned).")
+        print(f"dry-run: no requests sent ({len(fetch_keys)} to fetch + "
+              f"{len(fresh_keys)} cached; up to {len(fetch_keys) * 3} calls planned).")
         return 0
+
+    # --- cards already fresh: emit a cache snapshot, spend no API calls ----
+    for key in fresh_keys:
+        cached = latest[key]
+        for record in unique[key]:
+            carry_forward(record, cached)
+            record["served_from"] = "cache"
+            append_jsonl(SNAPSHOT_JSONL, record)
 
     client = PokeWalletClient(verbose=False)
     calls = 0
     cards_found = 0
     stopped = False
 
-    for key in keys:
+    for key in fetch_keys:
         set_id, number_norm = key
         sample = unique[key][0]
         num_padded = numerator(sample["number"]) or number_norm
@@ -317,6 +425,7 @@ def main(argv: list[str] | None = None) -> int:
         if stopped:
             break
 
+        cached = latest.get(key)
         for record in unique[key]:
             record["query"] = used_query
             record["match_method"] = f"set:{record['set_match']}+card:{pick}"
@@ -325,12 +434,18 @@ def main(argv: list[str] | None = None) -> int:
                 record.update(pricelib.card_identity(card))
                 record.update(pricelib.extract_prices(card))
                 record["found"] = True
+                record["served_from"] = "fetched"
+            else:
+                # A failed lookup must never erase a previously-known price.
+                had_cache = carry_forward(record, cached)
+                record["served_from"] = "cache-fallback" if had_cache else "miss"
             append_jsonl(SNAPSHOT_JSONL, record)
         if card is not None:
             cards_found += 1
 
     # --- orphan rows still get a (price-less) snapshot so nothing is lost ---
     for record in orphan_rows:
+        record["served_from"] = "orphan"
         append_jsonl(SNAPSHOT_JSONL, record)
 
     # --- flat csv for the sheet -------------------------------------------
@@ -340,7 +455,7 @@ def main(argv: list[str] | None = None) -> int:
     with snapshot_csv.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.writer(fh)
         writer.writerow(SNAPSHOT_HEADER)
-        for key in keys:
+        for key in all_keys:
             for record in unique[key]:
                 writer.writerow([record.get(col, "") for col in SNAPSHOT_HEADER])
                 wrote += 1
@@ -348,7 +463,8 @@ def main(argv: list[str] | None = None) -> int:
             writer.writerow([record.get(col, "") for col in SNAPSHOT_HEADER])
             wrote += 1
 
-    print(f"unique cards resolved:  {cards_found} / {len(keys)}")
+    print(f"fetched fresh:          {cards_found} / {len(fetch_keys)}")
+    print(f"served from cache:      {len(fresh_keys)}")
     print(f"api calls this run:     {calls}")
     print(client.budget_status())
     if stopped:
