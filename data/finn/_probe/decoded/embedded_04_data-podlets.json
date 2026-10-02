@@ -1,0 +1,23 @@
+{
+  "sortingInfo": {
+    "redirect": null,
+    "content": "\n<style>search-sorting-info-podlet-isolated:not(:defined) > template[shadowrootmode] ~ *  {opacity:0;visibility:hidden;}</style>\n<search-sorting-info-podlet-isolated>\n  <template shadowrootmode=\"open\">\n    <style>@import url('https://assets.finn.no/pkg/@warp-ds/css/v2/resets.css');@import url('https://assets.finn.no/pkg/@warp-ds/css/v2/components.css');*,:before,:after{--w-rotate:0;--w-rotate-x:0;--w-rotate-y:0;--w-rotate-z:0;--w-scale-x:1;--w-scale-y:1;--w-scale-z:1;--w-skew-x:0;--w-skew-y:0;--w-translate-x:0;--w-translate-y:0;--w-translate-z:0}.text-caption{font-size:var(--w-font-size-s);line-height:var(--w-line-height-s)}.hover\\:underline:hover{text-decoration-line:underline}.flex-row-reverse{flex-direction:row-reverse}.gap-x-4{-moz-column-gap:.4rem;column-gap:.4rem}.s-icon-primary{color:var(--w-s-color-icon-primary)}.mb-16{margin-bottom:1.6rem}\nw-icon:not(:defined) {\n    display: inline-block;\n    width: 16px;\n    height: 16px;\n}\n\nw-modal:not(:defined) {\n    display: none;\n}\n\n    </style>\n    \n        <span class=\"inline-flex items-center flex-row-reverse gap-x-4 text-caption\"><button type=\"button\" class=\"appearance-none bg-transparent border-0 p-0 rounded-full cursor-pointer inline-flex items-center justify-center w-16 h-16\" id=\"search-sorting-info-podlet-link\" aria-label=\"Slik sorteres søkeresultatene\"><w-icon name=\"Info\" size=\"small\" class=\"s-icon-primary\"></w-icon></button></span><w-modal id=\"search-sorting-info-podlet-modal\"><w-modal-header slot=\"header\" title=\"Om sortering av annonsene\"></w-modal-header><div slot=\"content\"><h2 class=\"h4\">Betalt plassering</h2><p class=\"mb-16\">Det er to typer betalt innhold i resultatlisten: Den ene er at FINN-brukere kan betale for en bedre plassering av annonsene sine i resultatlisten, og disse blir merket med «Betalt plassering». Den andre er at bedrifter kan betale for reklameposisjoner, og disse er merket «Annonse».</p><h2 class=\"h4\">Sortering etter relevans</h2><p class=\"mb-16\">Vi sorterer etter hva som er relevant for deg. Rekkefølgen bestemmes derfor i stor grad av hvor godt tittelen, beskrivelsen og kategorien til en annonse samsvarer med søket ditt. Annonser fra bedrifter kan bli flettet inn i resultatlisten, i tillegg til at din tidligere bruk av FINN kan også påvirke søket.</p><h2 class=\"h4\">Sortering etter publiseringsdato</h2><p class=\"mb-16\">Sorteringen er basert på datoen annonsen ble publisert eller fornyet. Nyeste annonser kommer øverst i resultatlisten.</p><h2 class=\"h4\">Sortering etter pris</h2><p class=\"mb-16\">Det finnes to alternativer for å sortere annonser etter pris: fra høyest til lavest eller fra lavest til høyest.</p><h2 class=\"h4\">Sortering etter avstand</h2><p class=\"mb-16\">Vi spør om tillatelse til å bruke plasseringen din i nettleseren eller på mobilen din, slik at vi kan sortere annonser etter hvilke som er nærmest.</p></div></w-modal>\n        <script type=\"application/json\" data-props>e30=</script>\n        \n  </template>\n</search-sorting-info-podlet-isolated>\n<script>(()=>{function e(d){HTMLTemplateElement.prototype.hasOwnProperty(\"shadowRootMode\")||d.querySelectorAll(\"template[shadowrootmode]\").forEach(o=>{let n=o.getAttribute(\"shadowrootmode\"),s=o.hasAttribute(\"shadowrootdelegatesfocus\"),t=o.parentNode.attachShadow({mode:n,delegatesFocus:s});t.appendChild(o.content),o.remove(),e(t)})}var r;(r=document.currentScript)!=null&&r.previousElementSibling&&e(document.currentScript.previousElementSibling);})();\n</script>",
+    "headers": {
+      "x-powered-by": "Express",
+      "link": "<https://assets.finn.no/pkg/search-sorting-info-podlet/1.0.25/entry.client.js>; type=module; asset-type=script",
+      "podlet-version": "d0d66de.461",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Fri, 02 Oct 2026 16:23:02 GMT",
+      "connection": "keep-alive",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked"
+    },
+    "css": [],
+    "js": [
+      {
+        "value": "https://assets.finn.no/pkg/search-sorting-info-podlet/1.0.25/entry.client.js",
+        "type": "module"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "apiUrl": "https://www.finn.no/recommerce/forsale/search/api",
+  "assetsUrl": "https://assets.finn.no/pkg/recommerce-search-page/1.0.2838",
+  "brand": "finn",
+  "currencySymbol": "NOK",
+  "experiments": {
+    "semanticSearch": "control",
+    "exploreEntrypoints": "control",
+    "hideFilterCounts": "control",
+    "searchNewFrontier": "control",
+    "searchSuggestions": "control"
+  },
+  "favoriteUrl": "/favorite-frontend-api",
+  "featureToggles": {
+    "hideMapLink": false,
+    "seoApi": true,
+    "mapFilter": false,
+    "rangeSliderEnabled": false,
+    "hotjar": true,
+    "unifiedSearchApi": true
+  },
+  "imageBaseUrl": "https://images.finncdn.no/dynamic",
+  "initialLayout": "grid",
+  "initialSearchParams": {
+    "q": [
+      "pokemon kort"
+    ],
+    "sort": [
+      "PUBLISHED_DESC"
+    ]
+  },
+  "isProbablyMobile": false,
+  "legendary": false,
+  "locale": "nb",
+  "mapConfig": {
+    "country": "no",
+    "color": "#296DCC",
+    "lang": "no",
+    "maxBounds": [
+      {
+        "lng": 2,
+        "lat": 55
+      },
+      {
+        "lng": 34,
+        "lat": 74
+      }
+    ],
+    "center": {
+      "lng": 10,
+      "lat": 65
+    },
+    "zoom": 1
+  },
+  "mapUrl": "https://www.finn.no/map/recommerce/forsale",
+  "originalUrl": "https://www.finn.no/recommerce/forsale/search?q=pokemon+kort&sort=PUBLISHED_DESC",
+  "passthroughQueryParams": [
+    "google_preview",
+    "gdfp_req",
+    "iu",
+    "lineItemId",
+    "creativeId"
+  ],
+  "priceFilterThresholds": [
+    [
+      1000,
+      10
+    ],
+    [
+      15000,
+      100
+    ],
+    [
+      100000,
+      1000
+    ]
+  ],
+  "searchKey": "SEARCH_ID_BAP_COMMON",
+  "semanticExplorerUrl": "../explore",
+  "showAdvertisingTop2": false,
+  "siteUrl": "https://www.finn.no",
+  "quickLinks": [
+    {
+      "label": "Bil",
+      "href": "/mobility/browse/car"
+    },
+    {
+      "label": "Båt",
+      "href": "/mobility/browse/boat"
+    },
+    {
+      "label": "MC",
+      "href": "/mobility/browse/mc"
+    }
+  ],
+  "retailMediaPlacements": [
+    {
+      "placementId": "advt_spl_middle_1",
+      "position": {
+        "grid": 7,
+        "list": 9
+      }
+    }
+  ]
+}

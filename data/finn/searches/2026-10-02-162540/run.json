@@ -1,0 +1,54 @@
+{
+  "run_id": "2026-10-02-162540",
+  "started_at": "2026-10-02T16:25:40Z",
+  "queries": [
+    "pokemon kort"
+  ],
+  "sorts": [
+    "PUBLISHED_DESC"
+  ],
+  "extra_params": [],
+  "max_pages": 2,
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "pokemon kort",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+kort&sort=PUBLISHED_DESC",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 33386,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 50
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-10-02-162540\\pokemon-kort\\page_001.html"
+    },
+    {
+      "query": "pokemon kort",
+      "sort": "PUBLISHED_DESC",
+      "page": 2,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+kort&sort=PUBLISHED_DESC&page=2",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 33386,
+      "paging": {
+        "param": "page",
+        "current": 2,
+        "last": 50
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-10-02-162540\\pokemon-kort\\page_002.html"
+    }
+  ],
+  "totals": {
+    "pages": 2,
+    "docs": 106
+  },
+  "finished_at": "2026-10-02T16:25:47Z",
+  "total_new_koder": 0
+}

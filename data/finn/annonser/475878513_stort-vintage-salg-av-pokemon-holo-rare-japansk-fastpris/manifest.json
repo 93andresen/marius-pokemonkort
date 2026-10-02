@@ -1,0 +1,227 @@
+{
+  "finn_kode": "475878513",
+  "url": "https://www.finn.no/recommerce/forsale/item/475878513",
+  "slug": "475878513_stort-vintage-salg-av-pokemon-holo-rare-japansk-fastpris",
+  "first_seen": "2026-10-02T16:31:11Z",
+  "last_seen": "2026-10-02T16:32:07Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+    "status": "Inaktiv",
+    "price_nok": 100,
+    "trade_type": "Til salgs",
+    "location_text": "1366 Lysaker",
+    "postal_code": "1366",
+    "last_modified": "2026-09-08T18:44:00",
+    "gallery_count": 25,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-02T16:31:11Z",
+      "raw": "475878513_stort-vintage-salg-av-pokemon-holo-rare-japansk-fastpris/raw/475878513_2026-10-02-163111.html",
+      "parse_quality": "full",
+      "price_nok": 100,
+      "status": "Inaktiv",
+      "missing_fields": [],
+      "warnings": []
+    },
+    {
+      "scraped_at": "2026-10-02T16:31:18Z",
+      "raw": "475878513_stort-vintage-salg-av-pokemon-holo-rare-japansk-fastpris/raw/475878513_2026-10-02-163118.html",
+      "parse_quality": "full",
+      "price_nok": 100,
+      "status": "Inaktiv",
+      "missing_fields": [],
+      "warnings": []
+    },
+    {
+      "scraped_at": "2026-10-02T16:32:07Z",
+      "raw": "475878513_stort-vintage-salg-av-pokemon-holo-rare-japansk-fastpris/raw/475878513_2026-10-02-163207.html",
+      "parse_quality": "full",
+      "price_nok": 100,
+      "status": "Inaktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "182bac23-b15e-43b9-be77-f45dfa32090a",
+      "item_ref": "475878513",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/475878513/182bac23-b15e-43b9-be77-f45dfa32090a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/475878513/182bac23-b15e-43b9-be77-f45dfa32090a",
+      "bytes": 1940757,
+      "content_type": "image/jpeg",
+      "sha1": "87f76ba796190bcd8a756d62fb6b63fcd15351c2",
+      "file": "photos/01_182bac23-b15e-43b9-be77-f45dfa32090a.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "93be257c-9e0a-41e2-aa8f-54f5b7245777",
+      "item_ref": "475878513",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/475878513/93be257c-9e0a-41e2-aa8f-54f5b7245777",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/475878513/93be257c-9e0a-41e2-aa8f-54f5b7245777",
+      "bytes": 1776500,
+      "content_type": "image/jpeg",
+      "sha1": "2fa76f7417449374de3de1181a4b6a88eb25b31b",
+      "file": "photos/02_93be257c-9e0a-41e2-aa8f-54f5b7245777.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "9e73988d-75dc-446c-9bac-3e06bb8776a1",
+      "item_ref": "475878513",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/475878513/9e73988d-75dc-446c-9bac-3e06bb8776a1",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/475878513/9e73988d-75dc-446c-9bac-3e06bb8776a1",
+      "bytes": 2020853,
+      "content_type": "image/jpeg",
+      "sha1": "21e3baca685e6cfee78d87809a0058cfc0da41a2",
+      "file": "photos/03_9e73988d-75dc-446c-9bac-3e06bb8776a1.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "477604504",
+      "heading": "Stort vintage salg av Pokemon Holo/Rare/Japansk/ 1st. edition (Fastpris)",
+      "price_label": "100 kr",
+      "location": "Lysaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477604504"
+    },
+    {
+      "item_id": "473358731",
+      "heading": "Gode Pokemonkort til salgs",
+      "price_label": "100 kr",
+      "location": "Jar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473358731"
+    },
+    {
+      "item_id": "439603105",
+      "heading": "Vintage Holo Pokémon kort – selges!",
+      "price_label": "80 kr",
+      "location": "Kjeller",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/439603105"
+    },
+    {
+      "item_id": "475629281",
+      "heading": "Stor kolleksjon av gamle pokemon kort selges",
+      "price_label": "1 kr",
+      "location": "Ås",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475629281"
+    },
+    {
+      "item_id": "477681645",
+      "heading": "260+ Pokemon kort japanske. Over 50 Holo/reversed Holo kort",
+      "price_label": "199 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477681645"
+    },
+    {
+      "item_id": "477543326",
+      "heading": "Pokémon-kort – eldre samling med holo og reverse holo – selges samlet",
+      "price_label": "500 kr",
+      "location": "Ås",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477543326"
+    },
+    {
+      "item_id": "477462581",
+      "heading": "Pokémonkort – blandet samling (534 stk)",
+      "price_label": "150 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477462581"
+    },
+    {
+      "item_id": "477409860",
+      "heading": "Pokemon 80x kort samling med holo og kinesiske - ex ninetails Venusaur Arbok",
+      "price_label": "250 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477409860"
+    },
+    {
+      "item_id": "467560464",
+      "heading": "1990s og 2000s Pokemonkort fra 5kr",
+      "price_label": "5 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467560464"
+    }
+  ]
+}
