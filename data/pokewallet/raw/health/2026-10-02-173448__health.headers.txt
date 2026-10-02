@@ -1,0 +1,14 @@
+URL: https://api.pokewallet.io/health
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:34:48 GMT
+Content-Type: application/json
+Content-Length: 271
+Connection: close
+Access-Control-Allow-Origin: *
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=quVQKGJmAzhwo0hBpvGbZzuqd8bTgq9K%2BGsex3WprvCbXAB8buHPPvoMP7lGmJyxEGIzx9rxHu%2Bmjcw2L7wbsEbobgRF2Vi7WOGGuNhLQDWt1m7o3JCTBmwBmvzcAez4pAoNmrQ8cEy5%2FnQqCqywiA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444c5f40859b4ee-OSL
+alt-svc: h3=":443"; ma=86400

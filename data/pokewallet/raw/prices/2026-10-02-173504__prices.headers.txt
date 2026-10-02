@@ -1,0 +1,18 @@
+URL: https://api.pokewallet.io/prices/base1
+STATUS: 403
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:35:04 GMT
+Content-Type: application/json
+Content-Length: 158
+Connection: close
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 996
+X-RateLimit-Remaining-Hour: 96
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2%2BAQj0VlRp131CGsqVY0oHJq5gmQcUEHKwhiJEpZFt9rmxvAnj%2BQdJO42SaaV%2B8%2BMz89%2FHtUGEmOOmAqaFMDkCIUjk1AdKAjAJNDdoKKunGZqMcEekRPHQJ%2FIQO%2F7vD1YBJRoMfLV9zIRlc6bnmIgA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444c65c4a110b69-OSL
+alt-svc: h3=":443"; ma=86400

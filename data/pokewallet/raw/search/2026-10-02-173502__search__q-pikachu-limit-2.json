@@ -1,0 +1,104 @@
+{
+  "query": "pikachu",
+  "results": [
+    {
+      "id": "pk_4c87dcac6b799948e67647780ac444d88e323e31e0b4fefa55dce4be7a587ca712c9310e891e1ce44827",
+      "card_info": {
+        "name": "Basic Lightning Energy - Pikachu 4",
+        "clean_name": "Basic Lightning Energy Pikachu 4",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "004",
+        "rarity": "Common",
+        "card_type": "Basic Lightning Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.17,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556892"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ae8902d56ce18c1637eb438044763bfb50368eaa457dd40df6cfb2a9520398c389f730117fa0c7b640405088c5",
+      "card_info": {
+        "name": "Pikachu - 5/5",
+        "clean_name": "Pikachu",
+        "set_name": "Kids WB Promos",
+        "set_code": "KWBP",
+        "set_id": "2214",
+        "card_number": "005/005",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\"><strong>Not Tournament Legal.</strong></span>",
+        "attacks": [
+          "[1] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1LL] Shock Bolt (60)\r\n<br>Discard all Lightning Energy cards attached to Pikachu or this attack does nothing."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4999.99,
+            "mid_price": 4999.99,
+            "high_price": 4999.99,
+            "updated_at": "2026-09-30T11:17:17.384701",
+            "market_price": 480,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/162272"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 2,
+    "total": 821,
+    "total_pages": 411
+  },
+  "metadata": {
+    "total_count": 821,
+    "tcg": 489,
+    "cardmarket": 482,
+    "tcg_only": 339,
+    "cardmarket_only": 332,
+    "both_sources": 150
+  }
+}
