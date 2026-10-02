@@ -1,0 +1,103 @@
+{
+  "query": "LOT 54",
+  "results": [
+    {
+      "id": "2d03e057e6e3be88c6cd23dbfbd0afc4d3d3a0fc1142f1170129ef5d2eb28d9e",
+      "card_info": {
+        "name": "Slowpoke",
+        "set_code": "LOT",
+        "set_id": "-113",
+        "card_number": "54",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Slowpoke",
+        "prices": [
+          {
+            "avg": 2.01,
+            "low": 0.05,
+            "avg1": 0.1,
+            "avg7": 2.05,
+            "avg30": 2.31,
+            "trend": 1.28,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 19.01,
+            "low": 9.9,
+            "avg1": 18,
+            "avg7": 19.68,
+            "avg30": 12.46,
+            "trend": 19.77,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Slowpoke-LOT54"
+      }
+    },
+    {
+      "id": "e888e34e3b50e3e200b716ed95242f60b662ad4565b95b07383b452b5204b973",
+      "card_info": {
+        "name": "Ditto ◇",
+        "set_code": "LOT",
+        "set_id": "-113",
+        "card_number": "154",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Ditto ◇",
+        "prices": [
+          {
+            "avg": 12.52,
+            "low": 2,
+            "avg1": 12,
+            "avg7": 14.04,
+            "avg30": 10.85,
+            "trend": 10.5,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 14,
+            "low": 2.5,
+            "avg1": 14,
+            "avg7": 8.93,
+            "avg30": 5.65,
+            "trend": 7.11,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ditto-LOT154"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 0,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 2,
+    "both_sources": 0
+  }
+}

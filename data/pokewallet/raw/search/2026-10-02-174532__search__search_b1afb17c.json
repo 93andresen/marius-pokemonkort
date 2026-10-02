@@ -1,0 +1,164 @@
+{
+  "query": "-113 54",
+  "results": [
+    {
+      "id": "pk_9b9fe22100e70672186dfdb505cd2ed667b77f1de013bb0ae56029f6e2a89f01854855aa51934ba33116a44421",
+      "card_info": {
+        "name": "Shelgon - 054/113 (Delta Species)",
+        "clean_name": "Shelgon 054 113 Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "54/113",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-BODY</b> Exoskeleton \r\n<br>Any damage done to Shelgon by attacks is reduced by 10 <em>(after applying Weakness and Resistance). </em>",
+        "attacks": [
+          "[1R] Heat Blast (30)"
+        ],
+        "weakness": "C",
+        "resistance": "FR",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.76,
+            "high_price": 33.38,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 2.76,
+            "direct_low_price": 5.49,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 12,
+            "mid_price": 46.97,
+            "high_price": 676.34,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 7.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89133"
+      },
+      "cardmarket": {
+        "product_name": "Shelgon δ Delta Species",
+        "prices": [
+          {
+            "avg": 14.94,
+            "low": 1.99,
+            "avg1": 9.99,
+            "avg7": 13.38,
+            "avg30": 10.27,
+            "trend": 11.73,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.42,
+            "low": 0.2,
+            "avg1": 1.4,
+            "avg7": 2.63,
+            "avg30": 2.52,
+            "trend": 2.34,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Shelgon-Delta-Species-DS54"
+      }
+    },
+    {
+      "id": "pk_9997031a4eba3d36621e48dd76fb34ad231c1abdebf6c32a881c2ab1788795ab29bce634fe4abc2ceb872d09bbd22a",
+      "card_info": {
+        "name": "Inteleon - SWSH113 (Prerelease)",
+        "clean_name": "Inteleon SWSH113 Prerelease",
+        "set_name": "SWSH: Sword & Shield Promo Cards",
+        "set_code": "SWSD",
+        "set_id": "2545",
+        "card_number": "SWSH113",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Quick Shooting</strong>\r\n<br>Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokemon.",
+        "attacks": [
+          "[2] Waterfall (70)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.78,
+            "mid_price": 2.62,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:32.798658",
+            "market_price": 2.22,
+            "direct_low_price": 2.45,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/240892"
+      },
+      "cardmarket": {
+        "product_name": "Inteleon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.95,
+            "low": 2.5,
+            "avg1": 4.89,
+            "avg7": 6.95,
+            "avg30": 10.36,
+            "trend": 6.83,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Inteleon"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

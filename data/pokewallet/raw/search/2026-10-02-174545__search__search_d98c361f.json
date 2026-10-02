@@ -1,0 +1,61 @@
+{
+  "query": "1374 69",
+  "results": [
+    {
+      "id": "0bff60d5f45980ce17d24f5825446e36c780b53bf24085665b5920ccf4116652",
+      "card_info": {
+        "name": "Caterpie",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "69",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Caterpie",
+        "prices": [
+          {
+            "avg": 380,
+            "low": 100,
+            "avg1": 44,
+            "avg7": 55.88,
+            "avg30": 46.49,
+            "trend": 174.01,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.31,
+            "low": 0.04,
+            "avg1": 0.2,
+            "avg7": 0.3,
+            "avg30": 0.52,
+            "trend": 0.53,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Caterpie-LC69"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 0,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 0
+  }
+}

@@ -7,9 +7,13 @@ Why per-card ``/search`` (verified live 2026-10-02, see
 * ``GET /sets/:code`` returns the cards but with **empty** price arrays on the
   free plan, so it cannot be used for pricing.
 * ``GET /cards/:id`` returns prices, but we only learn the id from a set call.
-* ``GET /search?q="<set_id> <card_number>"`` (the lookup key the API docs
-  recommend) returns the exact card **with** TCGPlayer/CardMarket prices in a
-  single call. That is what we use: one call per unique portfolio card.
+* ``GET /search`` with ``q="<key> <card_number>"`` returns the card **with**
+  TCGPlayer/CardMarket prices. The docs recommend ``set_id`` as the key, which
+  is exact for positive ids, but several sets have **negative** ids (e.g. LOT
+  = ``-113``) for which the id query returns unrelated cards that merely share
+  the number. So we try several keys (id -> code -> name) and *validate every
+  candidate* before trusting it (see :func:`validate_match`). One card -> one
+  to three calls, usually one.
 
 Design guarantees (per PROJECT-PLAN.md / AGENTS.md):
 
@@ -31,6 +35,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import re
 import sys
 
 from pwlib import config, portfolio, prices as pricelib, sets as setslib
@@ -42,7 +47,7 @@ from resolve_portfolio import load_index
 
 SNAPSHOT_HEADER = [
     "run_id", "run_ts_utc", "row_index", "portfolio", "category",
-    "set", "set_code", "set_id",
+    "set", "set_code", "set_id", "api_set_name",
     "number", "number_norm", "product_name", "rarity", "variance", "grade",
     "condition", "quantity", "avg_cost_paid_nok", "collectr_market_nok",
     "watchlist", "date_added",
@@ -50,7 +55,7 @@ SNAPSHOT_HEADER = [
     "tcg_market", "tcg_low", "tcg_mid", "tcg_high", "tcg_subtype", "tcg_updated",
     "tcgplayer_url",
     "cmk_trend", "cmk_avg", "cmk_low", "cmk_variant", "cmk_updated",
-    "price_source", "found", "match_method", "query",
+    "price_source", "found", "match_method", "candidate", "query",
 ]
 
 SNAPSHOT_JSONL = config.SNAPSHOTS_DIR / "portfolio_prices.jsonl"
@@ -69,17 +74,84 @@ def search_results(payload: object) -> list[dict]:
     return []
 
 
+def _info(card: dict) -> dict:
+    """The ``card_info`` block, or the card itself if it is already flat."""
+    return card.get("card_info") or card
+
+
+def _base_name(value: object) -> str:
+    """Normalise a card name.
+
+    Drops trailing ``(...)`` variant/language hints (``(JP)``, ``(CN)``,
+    ``(Poke Ball Pattern)``) then applies the shared set-name normalisation
+    (lowercase, punctuation-stripped, whitespace-collapsed).
+    """
+    text = re.sub(r"\([^)]*\)", " ", str(value or ""))
+    return setslib.normalize_name(text)
+
+
+def validate_match(
+    card: dict,
+    number_norm: str,
+    expected_name: str,
+    set_id: str,
+    set_code: str,
+) -> str | None:
+    """Return a match label if ``card`` is a *trustworthy* hit, else ``None``.
+
+    A candidate is only accepted when the card number agrees **and** at least
+    one independent identity signal agrees:
+
+    * the card name (parenthetical-stripped, normalised) is identical
+      (``name_number``), or
+    * the card's set code / set id equals the expected one (``set_number``).
+
+    Requiring the *name* is what stops the free-text ``/search`` from matching
+    an unrelated card that merely shares a number. Verified bug (2026-10-02):
+    ``Lost Thunder #54 Slowpoke`` used to match ``Shelgon 054/113 (Delta
+    Species)``, and ``Wild Force #80 Gastly`` matched ``Medicham ex 080/142``.
+    A wrong match silently corrupts the portfolio, so an unmatched card is
+    always preferred over a confidently-wrong one (see D7 in PROJECT-PLAN.md).
+    """
+    info = _info(card)
+    if portfolio.number_norm(info.get("card_number")) != number_norm:
+        return None
+    got_name = _base_name(info.get("name"))
+    exp_name = _base_name(expected_name)
+    if exp_name and got_name and got_name == exp_name:
+        return "name_number"
+    got_code = str(info.get("set_code") or "").strip().lower()
+    got_id = str(info.get("set_id") or "").strip()
+    if set_code and got_code == str(set_code).strip().lower():
+        return "set_number"
+    if set_id and got_id == str(set_id).strip():
+        return "set_number"
+    return None
+
+
 def pick_card(
-    results: list[dict], number_norm: str
+    results: list[dict],
+    number_norm: str,
+    expected_name: str,
+    set_id: str,
+    set_code: str,
 ) -> tuple[dict | None, str]:
-    """Choose the result matching ``number_norm``; else the first result."""
+    """First result passing :func:`validate_match`; else ``(None, "reject")``."""
     for card in results:
-        info = card.get("card_info") or card
-        if portfolio.number_norm(info.get("card_number")) == number_norm:
-            return card, "number"
-    if results:
-        return results[0], "approx"
-    return None, "none"
+        label = validate_match(card, number_norm, expected_name, set_id, set_code)
+        if label:
+            return card, label
+    return (None, "reject") if results else (None, "none")
+
+
+def candidate_summary(card: dict) -> str:
+    """Compact ``name | number | set`` string for an unvalidated candidate."""
+    info = _info(card)
+    return " | ".join([
+        str(info.get("name") or ""),
+        str(info.get("card_number") or ""),
+        str(info.get("set_code") or ""),
+    ])
 
 
 def numerator(raw: object) -> str:
@@ -130,6 +202,7 @@ def main(argv: list[str] | None = None) -> int:
             "set": set_name,
             "set_code": (entry or {}).get("set_code", ""),
             "set_id": (entry or {}).get("set_id", ""),
+            "api_set_name": (entry or {}).get("name", ""),
             "number": number_raw,
             "number_norm": portfolio.number_norm(number_raw),
             "product_name": row.get(portfolio.NAME_COL, ""),
@@ -170,12 +243,18 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.dry_run:
         for key in keys:
-            set_id, number_norm = key
             sample = unique[key][0]
-            num_padded = numerator(sample["number"]) or number_norm
-            print(f"  would GET /search?q=\"{set_id} {num_padded}\"  "
-                  f"[{sample['set_code']}] {sample['set']!r} #{sample['number']}")
-        print(f"dry-run: no requests sent ({len(keys)} calls planned).")
+            num_padded = numerator(sample["number"]) or key[1]
+            api_name = sample.get("api_set_name") or sample["set"]
+            queries = list(dict.fromkeys([
+                f"{sample['set_id']} {num_padded}",
+                f"{sample['set_code']} {num_padded}",
+                f"{api_name} {num_padded}",
+            ]))
+            print(f"  [{sample['set_code']}] {sample['set']!r} #{sample['number']} -> "
+                  + "  ".join(f"q={q!r}" for q in queries))
+        print(f"dry-run: no requests sent ({len(keys)} cards, up to "
+              f"{len(keys) * 3} calls planned).")
         return 0
 
     client = PokeWalletClient(verbose=False)
@@ -187,13 +266,21 @@ def main(argv: list[str] | None = None) -> int:
         set_id, number_norm = key
         sample = unique[key][0]
         num_padded = numerator(sample["number"]) or number_norm
-        # Try the zero-padded numerator first (just verified), then the
-        # stripped form as a fallback.
-        queries = list(dict.fromkeys([f"{set_id} {num_padded}", f"{set_id} {number_norm}"]))
+        api_name = sample.get("api_set_name") or sample["set"]
+        # Query keys, most precise first. ``set_id`` is exact for positive ids
+        # (the docs' method); ``set_code`` and the canonical set *name* cover
+        # the sets whose id is negative (e.g. LOT = -113) where the id query
+        # returns unrelated cards. Every candidate is validated before use.
+        queries = list(dict.fromkeys([
+            f"{set_id} {num_padded}",
+            f"{sample['set_code']} {num_padded}",
+            f"{api_name} {num_padded}",
+        ]))
 
         card: dict | None = None
         used_query = queries[0]
         pick = "none"
+        candidate = ""
         for query in queries:
             if args.max_calls and calls >= args.max_calls:
                 print(f"max-calls cap ({args.max_calls}) reached; stopping.", file=sys.stderr)
@@ -215,15 +302,21 @@ def main(argv: list[str] | None = None) -> int:
                       f"({resp.api_error or resp.error})", file=sys.stderr)
                 continue
             results = search_results(resp.data)
-            card, pick = pick_card(results, number_norm)
+            card, pick = pick_card(
+                results, number_norm, sample["product_name"], set_id,
+                sample["set_code"],
+            )
             if card is not None:
                 break
+            if results and not candidate:
+                candidate = candidate_summary(results[0])
         if stopped:
             break
 
         for record in unique[key]:
             record["query"] = used_query
             record["match_method"] = f"set:{record['set_match']}+card:{pick}"
+            record["candidate"] = candidate
             if card is not None:
                 record.update(pricelib.card_identity(card))
                 record.update(pricelib.extract_prices(card))

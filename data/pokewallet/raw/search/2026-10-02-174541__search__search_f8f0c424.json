@@ -1,0 +1,88 @@
+{
+  "query": "Ancient Roar 090",
+  "results": [
+    {
+      "id": "pk_b15b78a21cb16a19c9934d004b37011522a8e8b52386bb71544a8e585b45952c55bf11d1852e051cbd9a110a02c8c5",
+      "card_info": {
+        "name": "Roaring Moon ex - 090/066",
+        "clean_name": "Roaring Moon ex",
+        "set_name": "SV4K: Ancient Roar",
+        "set_code": "SV4K",
+        "set_id": "23610",
+        "card_number": "090/066",
+        "rarity": "Special Art Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Darkness][Colorless] Frenzied Gouging<br> Knock Out your opponent's Active Pokémon. If your opponent's Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself.",
+          "[Darkness][Darkness][Colorless] Calamity Storm (100+)<br> You may discard a Stadium in play. If you do, this attack does 120 more damage."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 38,
+            "mid_price": 40.63,
+            "high_price": 70,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 40.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/565845"
+      },
+      "cardmarket": {
+        "product_name": "Roaring Moon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 40.81,
+            "low": 27.9,
+            "avg1": 34.95,
+            "avg7": 40.06,
+            "avg30": 39.67,
+            "trend": 37.43,
+            "updated_at": "2026-10-02T10:25:45.6598",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Roar/Roaring-Moon-ex-V3-sv4K090"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}
