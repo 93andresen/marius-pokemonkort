@@ -96,12 +96,17 @@ _NAME_ALIASES: dict[str, str] = {
 }
 
 # Score band -> method label (drives match confidence downstream).
+# Anything below ``_MIN_SCORE`` is treated as "no match" on purpose: an
+# unmatched set stays visible in the reports, whereas a confidently-wrong
+# match (e.g. "Neo Genesis (Japanese)" -> "SM12: Alter Genesis") silently
+# corrupts the portfolio. See D7 in PROJECT-PLAN.md.
 _METHOD_BY_BAND = [
-    (100, "name_exact"),
-    (80, "name_suffix"),
-    (60, "name_partial"),
-    (40, "name_fuzzy"),
+    (95, "name_exact"),
+    (68, "name_suffix"),
+    (56, "name_partial"),
+    (48, "name_fuzzy"),
 ]
+_MIN_SCORE = 48.0
 
 
 # Parenthetical language hints Collectr appends, e.g. "Base Set (Japanese)".
@@ -124,12 +129,28 @@ def _strip_parenthetical(name: str | None) -> str:
     return re.sub(r"\([^)]*\)", " ", str(name or "")).strip()
 
 
-def _contains_seq(hay: list[str], needle: list[str]) -> bool:
-    """True if ``needle`` appears as a consecutive token run inside ``hay``."""
+def _token_match(a: str, b: str) -> bool:
+    """Token equality, plus abbreviation tolerance (``fest`` ~ ``festival``).
+
+    Only short-to-long prefixes of reasonably long tokens are accepted, so
+    common short words (``set``/``sets``) do not spuriously match.
+    """
+    if a == b:
+        return True
+    if len(a) >= 4 and len(b) >= 4 and (a.startswith(b) or b.startswith(a)):
+        return True
+    return False
+
+
+def _seq_pos(hay: list[str], needle: list[str]) -> int:
+    """Index where ``needle`` appears as a consecutive (fuzzy) token run in ``hay``."""
     n = len(needle)
     if n == 0 or n > len(hay):
-        return False
-    return any(hay[i : i + n] == needle for i in range(len(hay) - n + 1))
+        return -1
+    for i in range(len(hay) - n + 1):
+        if all(_token_match(hay[i + j], needle[j]) for j in range(n)):
+            return i
+    return -1
 
 
 def _score(cnorm: str, anorm: str) -> float:
@@ -140,17 +161,30 @@ def _score(cnorm: str, anorm: str) -> float:
     if ct == at:
         return 100.0
     # API name ends with the Collectr name — the common "CODE: Name" shape.
-    if at[-len(ct):] == ct:
+    if len(ct) <= len(at) and all(
+        _token_match(at[len(at) - len(ct) + j], ct[j]) for j in range(len(ct))
+    ):
         return 80.0 - min(len(at) - len(ct), 20) * 0.5
-    # Collectr name appears consecutively inside the API name.
-    if _contains_seq(at, ct):
-        return 60.0 - min(len(at) - len(ct), 20) * 0.2
-    if _contains_seq(ct, at):
-        return 45.0
-    overlap = len(set(ct) & set(at))
-    if overlap:
-        return 10.0 + 30.0 * overlap / max(len(ct), len(at))
-    return 0.0
+    # Collectr name appears consecutively inside the API name (e.g. "Gem Pack"
+    # inside "Gem Pack Vol.4").
+    if _seq_pos(at, ct) >= 0:
+        return 62.0 - min(len(at) - len(ct), 20) * 0.2
+    # API name appears inside the Collectr name (e.g. "Crystal Guardians" in
+    # "EX Crystal Guardians").
+    if _seq_pos(ct, at) >= 0:
+        return 52.0
+    # Last resort: fraction of Collectr tokens found anywhere in the API name.
+    matched = 0
+    used: set[int] = set()
+    for c in ct:
+        for j, a in enumerate(at):
+            if j not in used and _token_match(c, a):
+                used.add(j)
+                matched += 1
+                break
+    if matched == 0:
+        return 0.0
+    return 42.0 * matched / max(len(ct), len(at))
 
 
 def lookup(index: dict[str, Any], name: str | None, code: str | None = None) -> tuple[dict | None, str]:
@@ -201,5 +235,9 @@ def lookup(index: dict[str, Any], name: str | None, code: str | None = None) -> 
     if best_key is None or best_norm is None:
         return None, "none"
     score = -best_key[0]
-    method = next((label for band, label in _METHOD_BY_BAND if score >= band), "name_fuzzy")
+    if score < _MIN_SCORE:
+        return None, "none"
+    method = next((label for band, label in _METHOD_BY_BAND if score >= band), "none")
+    if method == "none":
+        return None, "none"
     return pool[best_norm], method
