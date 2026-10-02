@@ -1,0 +1,338 @@
+{
+  "query": "-38 90",
+  "results": [
+    {
+      "id": "pk_9066173ef42770eb02120f7ccab62b8962ef2af7af9fa4b99cca904b09b49de09082410863b24caf8c03774edcee02",
+      "card_info": {
+        "name": "Staryu - 038/190",
+        "clean_name": "Staryu",
+        "set_name": "SV4a: Shiny Treasure ex",
+        "set_code": "SV4a",
+        "set_id": "23601",
+        "card_number": "038/190",
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Swift (30)<br> This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 1.35,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/567401"
+      },
+      "cardmarket": {
+        "product_name": "Staryu",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.05,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.42,
+            "low": 0.05,
+            "avg1": 0.68,
+            "avg7": 0.31,
+            "avg30": 0.33,
+            "trend": 0.27,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Treasure-ex/Staryu-V1-sv4a038"
+      }
+    },
+    {
+      "id": "pk_1c0451653b4e801a9ab655420768aa311ac53414ebe8c851076eccb017e077afbec727eb5cf2819a96d067dd26b8ce08",
+      "card_info": {
+        "name": "Yamper - 238/190",
+        "clean_name": "Yamper",
+        "set_name": "S4a: Shiny Star V",
+        "set_code": "S4a",
+        "set_id": "23643",
+        "card_number": "238/190",
+        "rarity": "Shiny Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Roar<br> Your opponent switches their Active Pok?mon with 1 of their Benched Pok?mon.",
+          "[Lightning] Static Shock (10)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14,
+            "mid_price": 17.5,
+            "high_price": 19.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 11.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571153"
+      },
+      "cardmarket": {
+        "product_name": "Yamper",
+        "prices": [
+          {
+            "avg": 7,
+            "low": 9.8,
+            "avg1": 4,
+            "avg7": 6.71,
+            "avg30": 4.9,
+            "trend": 7.76,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9,
+            "avg7": 9.11,
+            "avg30": 9,
+            "trend": 9.35,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Star-V/Yamper-V2-s4a238"
+      }
+    },
+    {
+      "id": "pk_dad9315cd2b1c457651bd3fae45dbb9025b3cb19e71ba1d0d46b4963920e486fa15e3bcf67a4da0cfd40c4dc7918ea",
+      "card_info": {
+        "name": "Galarian Darmanitan - 038/190 (Mirror Holofoil)",
+        "clean_name": "Galarian Darmanitan 038 190 Mirror Holofoil",
+        "set_name": "S4a: Shiny Star V",
+        "set_code": "S4a",
+        "set_id": "23643",
+        "card_number": "038/190",
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless][Colorless] Blizzard (80)<br> This attack also does 10 damage to each of your opponent's Benched Pok?mon. <em>(Don't apply Weakness and Resistance for Benched Pok?mon.)</em>",
+          "[Water][Water][Colorless][Colorless] Crushing Headbutt (170)<br> During your next turn, this Pok?mon can't use Crushing Headbutt."
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 1.03,
+            "high_price": 2,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/577929"
+      },
+      "cardmarket": {
+        "product_name": "Galarian Darmanitan",
+        "prices": [
+          {
+            "avg": 0.49,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.45,
+            "avg30": 0.38,
+            "trend": 0.44,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darmanitan-V1-s4a38"
+      }
+    },
+    {
+      "id": "pk_8fc4c0dc26395bc5c9ad6beaf18b3373eb2cb778fbf00e9a3d774e2f4839ef25da24d1d06a8f1de8a731d9f7c7f1ad",
+      "card_info": {
+        "name": "Honedge - 038/094",
+        "clean_name": "Honedge",
+        "set_name": "SM11: Miracle Twin",
+        "set_code": "SM11",
+        "set_id": "23690",
+        "card_number": "038/094",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Lucky Find<br> Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[Psychic] Pierce (20)"
+        ],
+        "weakness": "Darkness x2",
+        "resistance": "Fighting -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.29,
+            "high_price": 1.99,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/574541"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fdbf68699dcffa3b04556daa760ed3f3691284833fb1dbcd8d8943246ff422db36da78d3a9e6764e9bbb7662346b46",
+      "card_info": {
+        "name": "Galarian Darmanitan - 038/190",
+        "clean_name": "Galarian Darmanitan",
+        "set_name": "S4a: Shiny Star V",
+        "set_code": "S4a",
+        "set_id": "23643",
+        "card_number": "038/190",
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless][Colorless] Blizzard (80)<br> This attack also does 10 damage to each of your opponent's Benched Pok?mon. <em>(Don't apply Weakness and Resistance for Benched Pok?mon.)</em>",
+          "[Water][Water][Colorless][Colorless] Crushing Headbutt (170)<br> During your next turn, this Pok?mon can't use Crushing Headbutt."
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.2,
+            "high_price": 0.79,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/570953"
+      },
+      "cardmarket": {
+        "product_name": "Galarian Darmanitan",
+        "prices": [
+          {
+            "avg": 0.49,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.45,
+            "avg30": 0.38,
+            "trend": 0.44,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darmanitan-V1-s4a38"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 13,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 13,
+    "tcg": 13,
+    "cardmarket": 11,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}
