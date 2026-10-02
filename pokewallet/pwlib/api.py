@@ -13,6 +13,7 @@ Uses only the standard library so it runs with a plain ``uv run script.py``.
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import urllib.error
@@ -277,9 +278,12 @@ class PokeWalletClient:
         saved_headers: Path | None = None
         if save:
             ts = now_ts()
-            stem = f"{ts}__{slugify(endpoint)}"
-            if query:
-                stem += "__" + slugify(query)
+            # Include the path *and* a short URL hash so different resources
+            # (e.g. /sets/base1 vs /sets/base2) never collide, and long ids
+            # remain unique even after slug truncation.
+            url_hash = hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
+            path_slug = slugify(path.strip("/"), maxlen=40) or "root"
+            stem = f"{ts}__{slugify(endpoint)}__{path_slug}_{url_hash}"
             raw_dir = config.RAW_DIR / slugify(endpoint)
             ensure_dir(raw_dir)
             if data is not None:

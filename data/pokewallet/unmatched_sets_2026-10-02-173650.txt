@@ -1,0 +1,39 @@
+generated_at: 2026-10-02-173650
+rows: 191
+
+16	Evolutions
+7	Perfect Order
+6	Nihil Zero
+4	Brave Stars (Charm)
+4	Surging Sparks
+3	Brave Stars (Courage)
+3	EX Holon Phantoms
+3	Mega Evolution Promos
+3	Twilight Masquerade
+3	VSTAR Universe
+2	EX FireRed & LeafGreen
+2	EX Unseen Forces
+2	Paradox Rift
+2	Prismatic Evolutions
+1	Ascended Heroes
+1	BREAKthrough
+1	Battle Region
+1	Black Bolt
+1	Brilliant Stars
+1	Dark Rush
+1	Destined Rivals
+1	EX Crystal Guardians
+1	EX Delta Species
+1	EX Emerald
+1	EX Hidden Legends
+1	Fusion Strike
+1	Gem Pack
+1	Hanada City Gym Deck
+1	Mega Brave
+1	Paldea Evolved
+1	SV: 151
+1	Scarlet & Violet Base Set
+1	Shiny Star V
+1	Temporal Forces
+1	Terastal Festival ex
+1	Vending Series 1 (Blue)
