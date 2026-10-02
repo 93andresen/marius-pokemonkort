@@ -1,0 +1,80 @@
+collectr_set,api_set_name,set_code,set_id,language,match_method,confidence
+Ancient Roar,Ancient Roar,CS5.1C,-38,chn,name_exact,0.95
+Ascended Heroes,ME: Ascended Heroes,ASC,24541,eng,name_partial,0.75
+BREAKthrough,XY - BREAKthrough,BKT,1661,eng,name_partial,0.75
+Base Set (Japanese),XY Beginning Set,HXY,23983,jap,name_fuzzy,0.6
+Base Set (Unlimited),Base Set,BS,604,eng,name_exact,0.95
+Base Set 2,Base Set 2,BS2,605,eng,name_exact,0.95
+Battle Region,S9a: Battle Region,S9a,23639,jap,name_partial,0.75
+Black Bolt,SV: Black Bolt,BLK,24325,eng,name_partial,0.75
+Blister Exclusives,Blister Exclusives,BLE,2289,eng,name_exact,0.95
+Brave Stars (Charm),Victory Stars,CS6.5C,-43,chn,name_fuzzy,0.6
+Brave Stars (Courage),Victory Stars,CS6.5C,-43,chn,name_fuzzy,0.6
+Brilliant Stars,SWSH09: Brilliant Stars,SWSH09,2948,eng,name_partial,0.75
+Celebrations: Classic Collection,Celebrations: Classic Collection,CCC,2931,eng,name_exact,0.95
+Chaos Rising,Chaos Rising,CRI,24655,eng,name_exact,0.95
+Crown Zenith: Galarian Gallery,Crown Zenith: Galarian Gallery,CRZ:GG,17689,eng,name_exact,0.95
+Dark Rush,BW4: Dark Rush,BW4,23898,jap,name_partial,0.75
+Deck Exclusives,Deck Exclusives,PR,1840,eng,name_exact,0.95
+Destined Rivals,SV10: Destined Rivals,DRI,24269,eng,name_partial,0.75
+Detective Pikachu,Detective Pikachu,DEP,2409,eng,name_exact,0.95
+Diamond and Pearl,Diamond and Pearl,DP,1430,eng,name_exact,0.95
+EX Crystal Guardians,Crystal Guardians,CG,1395,eng,name_fuzzy,0.6
+EX Delta Species,Delta Species,DS,1429,eng,name_fuzzy,0.6
+EX Emerald,Emerald,EM,1410,eng,name_fuzzy,0.6
+EX FireRed & LeafGreen,FireRed & LeafGreen,RG,1419,eng,name_fuzzy,0.6
+EX Hidden Legends,Hidden Legends,HL,1416,eng,name_fuzzy,0.6
+EX Holon Phantoms,Holon Phantoms,HP,1379,eng,name_fuzzy,0.6
+EX Unseen Forces,Unseen Forces,UF,1398,eng,name_fuzzy,0.6
+Evolutions,XY - Evolutions,EVO,1842,eng,name_partial,0.75
+Fossil (Japanese),,,,,none,0.0
+Fusion Strike,SWSH08: Fusion Strike,SWSH08,2906,eng,name_partial,0.75
+Gem Pack,Gem Pack Vol.4,CBB4C,-240,chn,name_fuzzy,0.6
+Gem Pack Vol. 5,Gem Pack Vol.5,CBB5C,-242,chn,name_exact,0.95
+Gym Challenge (Japanese),City Gym Decks,24175,24175,jap,name_fuzzy,0.6
+Gym Heroes,Gym Heroes,G1,1441,eng,name_exact,0.95
+Gym Heroes (Japanese),City Gym Decks,24175,24175,jap,name_fuzzy,0.6
+Hanada City Gym Deck,City Gym Decks,24175,24175,jap,name_fuzzy,0.6
+Jungle,Jungle,JU,635,eng,name_exact,0.95
+Jungle (Japanese),Pokemon Jungle,23722,23722,jap,name_partial,0.75
+Legendary Collection,Legendary Collection,LC,1374,eng,name_exact,0.95
+Legendary Treasures,Legendary Treasures,LTR,1409,eng,name_exact,0.95
+Legends Awakened,Legends Awakened,LA,1417,eng,name_exact,0.95
+Lost Thunder,Lost Thunder,LOT,-113,eng,name_exact,0.95
+MEE: Mega Evolution Energies,MEE: Mega Evolution Energies,MEE,24461,eng,name_exact,0.95
+MEGA Dream ex,MEGA Dream ex,M2a,24499,jap,name_exact,0.95
+Mega Brave,m1L: Mega Brave,m1L,24399,jap,name_partial,0.75
+Mega Evolution Promos,ME01: Mega Evolution,MEG,24380,eng,name_fuzzy,0.6
+Miscellaneous Cards & Products,Miscellaneous Cards & Products,MCAP,2374,eng,name_exact,0.95
+Neo Destiny,Neo Destiny,N4,1444,eng,name_exact,0.95
+Neo Discovery,Neo Discovery,N2,1434,eng,name_exact,0.95
+Neo Genesis,Neo Genesis,N1,1396,eng,name_exact,0.95
+Neo Genesis (Japanese),SM12: Alter Genesis,SM12,23691,jap,name_fuzzy,0.6
+Neo Revelation,Neo Revelation,N3,1389,eng,name_exact,0.95
+Nihil Zero,M3: Nihil Zero,M3,24600,jap,name_partial,0.75
+Noble Victories,Noble Victories,NVI,1385,eng,name_exact,0.95
+Paldea Evolved,SV02: Paldea Evolved,PAL,23120,eng,name_partial,0.75
+Paradox Rift,SV04: Paradox Rift,PAR,23286,eng,name_partial,0.75
+Perfect Order,ME03: Perfect Order,POR,24587,eng,name_partial,0.75
+Pitch Black,Pitch Black,PBL,24688,eng,name_exact,0.95
+Plasma Storm,Plasma Storm,PLS,1413,eng,name_exact,0.95
+Prismatic Evolutions,SV: Prismatic Evolutions,PRE,23821,eng,name_partial,0.75
+SV: 151,SV: Scarlet & Violet 151,MEW,23237,eng,name_exact,0.95
+SV: Premium Trainer Box ex,SV: Premium Trainer Box ex,svB,23806,jap,name_exact,0.95
+Scarlet & Violet Base Set,SV01: Scarlet & Violet Base Set,SVI,22873,eng,name_partial,0.75
+Shiny Star V,S4a: Shiny Star V,S4a,23643,jap,name_partial,0.75
+Supreme Victors,Supreme Victors,SV,1384,eng,name_exact,0.95
+Surging Sparks,SV08: Surging Sparks,SSP,23651,eng,name_partial,0.75
+Team Rocket,Team Rocket,TR,1373,eng,name_exact,0.95
+Team Rocket (Japanese),SV10: The Glory of Team Rocket,SV10,24310,jap,name_partial,0.75
+Temporal Forces,SV05: Temporal Forces,TEF,23381,eng,name_partial,0.75
+Terastal Festival ex,SV8a: Terastal Fest ex,SV8a,23909,jap,name_fuzzy,0.6
+Trading Card Game Classic,Trading Card Game Classic,CL,23323,eng,name_exact,0.95
+Trick or Trade BOOster Bundle 2023,Trick or Trade BOOster Bundle 2023,TTBB23,23266,eng,name_exact,0.95
+Trick or Trade BOOster Bundle 2024,Trick or Trade BOOster Bundle 2024,TTBB24,23561,eng,name_exact,0.95
+Twilight Masquerade,SV06: Twilight Masquerade,TWM,23473,eng,name_partial,0.75
+Undaunted,Undaunted,UD,1403,eng,name_exact,0.95
+VSTAR Universe,S12a: VSTAR Universe,S12a,23645,jap,name_partial,0.75
+Vending Series 1 (Blue),POP Series 1,POP,1422,eng,name_fuzzy,0.6
+Wild Force,Wild Force,CS6.1C,-42,chn,name_exact,0.95
+XY Base Set,XY Base Set,XY,1387,eng,name_exact,0.95

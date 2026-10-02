@@ -40,7 +40,14 @@ RESOLVED_HEADER = [
     "price_source", "notes",
 ]
 
-_SET_CONFIDENCE = {"code": 1.0, "name_exact": 0.95, "name_prefix": 0.7, "none": 0.0}
+_SET_CONFIDENCE = {
+    "code": 1.0,
+    "name_exact": 0.95,
+    "name_suffix": 0.9,
+    "name_partial": 0.75,
+    "name_fuzzy": 0.6,
+    "none": 0.0,
+}
 
 
 # --- index -----------------------------------------------------------------
@@ -192,7 +199,32 @@ def main(argv: list[str] | None = None) -> int:
         for name, count in sorted(unmatched_sets.items(), key=lambda kv: (-kv[1], kv[0])):
             print(f"  {count:>3}× {name!r}")
 
+    # --- set-mapping audit (offline; surfaces risky fuzzy matches) --------
+    mapping_rows = []
+    for name in portfolio.distinct_sets(rows):
+        entry, method = setslib.lookup(index, name)
+        mapping_rows.append({
+            "collectr_set": name,
+            "api_set_name": entry.get("name") if entry else "",
+            "set_code": entry.get("set_code") if entry else "",
+            "set_id": entry.get("set_id") if entry else "",
+            "language": entry.get("language") if entry else "",
+            "match_method": method,
+            "confidence": _SET_CONFIDENCE.get(method, 0.0),
+        })
+    print(f"set mapping ({len(mapping_rows)} distinct sets; riskiest first):")
+    for r in sorted(mapping_rows, key=lambda r: (r["confidence"], r["collectr_set"])):
+        print(f"  [{r['match_method']:<12} {r['confidence']:.2f}] "
+              f"{r['collectr_set']!r} -> {r['api_set_name']!r} ({r['set_code']})")
+
     ts = now_ts()
+
+    map_csv = config.POKEWALLET_DATA / f"set_mapping_{ts}.csv"
+    with map_csv.open("w", encoding="utf-8", newline="") as fh:
+        mwriter = csv.writer(fh)
+        mwriter.writerow(list(mapping_rows[0].keys()) if mapping_rows else [])
+        for r in mapping_rows:
+            mwriter.writerow(list(r.values()))
 
     # --- optional fetch phase ---------------------------------------------
     if args.fetch:

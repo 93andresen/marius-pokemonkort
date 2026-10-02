@@ -1,0 +1,4 @@
+generated_at: 2026-10-02-173810
+rows: 191
+
+1	Fossil (Japanese)
