@@ -1,5 +1,5 @@
 Pokémon Portfolio — Dashboard
-Generated (UTC),2026-10-02 18:33:54
+Generated (UTC),2026-10-02 18:53:08
 
 ▸ HOLDINGS
 Distinct rows,191
@@ -20,7 +20,7 @@ Biggest loser,Slowpoke,0.0
 
 ▸ CATALOG
 Sets in catalog,864
-Snapshot records captured,1824
+Snapshot records captured,2015
 
 ▸ LIVE FORMULAS (self-updating)
 Collection rows,=COUNTA(Collection!C2:C)

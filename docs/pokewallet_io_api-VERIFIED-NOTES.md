@@ -248,7 +248,30 @@ agent never talks to finn.no (clipboard/URL fetches are done by the browser itse
 
 ---
 
-## 9. Change log for this file
+## 9. Publishing to the Google Sheet (live-verified constraints)
+
+The portfolio is mirrored into a bound Google Sheet
+(ID `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM`) by `sheet/build_sheet.py`, which emits one paste-payload
+per tab (`sheet/out/latest/json/<Tab>.jsonl`) that is pushed through the `google-sheets` MCP tools. The
+following was observed against the live sheet on 2026-10-02.
+
+| Item | Observed behaviour |
+|---|---|
+| **Write tools** | `get_sheet_data` and `update_cells` work. `update_cells` uses **`USER_ENTERED`** semantics, so a string beginning with `=` is evaluated as a formula on write. |
+| **`list_sheets`** | **Not registered** on this server — returns `unknown_tool` with `available_tools: []`. That empty list is a *tool-registration* artefact, **not** a sign the server is down; `get_sheet_data` responds normally in the same session. Inspect tabs with `get_sheet_data` instead. |
+| **Formatting** | MCP writes **values only** — no colours, fonts, freeze panes or number formats. All presentation is applied by the bound Apps Script `sheet/AppScript.gs` (see PROJECT-PLAN §8.5). |
+| **Grid size** | Hard-capped at **1000 rows × 26 columns**; MCP cannot expand it (larger ranges throw *"exceeds grid limits"*). `SHEET_MAX_ROWS = 1000` in `build_sheet.py` caps `PriceSnapshots` to the newest rows. |
+| **Full history** | Never lost — the append-only JSONL `data/pokewallet/snapshots/portfolio_prices.jsonl` (plus per-run CSVs) keeps every capture; the sheet only shows what fits. |
+| **`=` label bug** | A cell whose text starts with `=` renders `#ERROR!`. Section labels use the constant `SECTION = "▸"` (U+25B8): `▸ Holdings`, not `=== Holdings ===`. |
+| **Recovery** | A push can transiently fail with `Server is not configured` / `unknown_server`; retrying the identical `update_cells` call succeeded. `google-sheets` and `context7` are the two MCP servers seen in this project. |
+
+Push ranges used for the current payload: `Collection!A1:AB192` (192×28), `RateLog!A1:I202` (201×9),
+`Sets!A1:G…`, `PriceSnapshots!A1:V…`, plus the smaller `Coverage`/`CoverageMissing`/`Config`/`Dashboard`/
+`FINN`/`Movers` tabs.
+
+---
+
+## 10. Change log for this file
 
 | Date | Change |
 |---|---|
@@ -256,3 +279,4 @@ agent never talks to finn.no (clipboard/URL fetches are done by the browser itse
 | 2026-10-02 | §6 rewritten: proved `set_id`+number is broken for negative ids; documented the multi-key + per-candidate validation strategy, per-card pricing, and the resume/merge behavior. |
 | 2026-10-02 | §7 added: FINN→PokeWallet matcher strategy (heading parse + set-suffix, query plan, scoring, offline-safe query cache, overlay payload). Changelog renumbered to §8. |
 | 2026-10-02 | §8 added: browser augmentation (`tools/` userscript + loopback agent + append-only history logger; hotkeys, budget fallback, 13/13 route probe). Changelog renumbered to §9. |
+| 2026-10-02 | §9 added: Google Sheet publishing constraints (MCP value-only writes, `list_sheets` unregistered, 1000×26 grid cap, `▸` label fix, transient-server recovery). Changelog renumbered to §10. |

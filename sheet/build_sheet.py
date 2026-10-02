@@ -99,6 +99,12 @@ COLLECTION_HEADER = [
 # a leading "=" makes Google Sheets parse the cell as a formula → "#ERROR!".
 SECTION = "▸"
 
+# The bound Google Sheet's grid is fixed at 1000 rows and the google-sheets MCP
+# tools cannot expand it, so any tab that would exceed that is capped to its
+# newest rows here. The *complete* append-only history stays in the local JSONL
+# (`data/pokewallet/snapshots/portfolio_prices.jsonl`) and is never deleted.
+SHEET_MAX_ROWS = 1000
+
 
 def api_value_nok(qty: int, tcg_market: float | None, cmk_trend: float | None) -> float | None:
     if tcg_market is not None:
@@ -442,6 +448,8 @@ def build_config(sheet_id: str, apps_script_id: str) -> list[list]:
         ["USD_NOK", USD_NOK, "edit to update API->NOK conversion"],
         ["EUR_NOK", EUR_NOK, "edit to update API->NOK conversion"],
         ["FRESH_HOURS", 20, "fetcher serves cached prices younger than this"],
+        ["SHEET_MAX_ROWS", SHEET_MAX_ROWS,
+         "bound grid cap; PriceSnapshots keeps newest rows, full history = local JSONL"],
         ["Generated (UTC)", datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"), ""],
     ]
 
@@ -480,7 +488,16 @@ def main(argv: list[str] | None = None) -> int:
 
     _, snap_rows = read_csv(snap_csv)
     _, set_rows = read_csv(sets_csv)
-    snap_records = build_snapshots(jsonl)
+    snap_records_all = build_snapshots(jsonl)
+    # Cap the sheet-facing snapshot history to the grid (header + N rows).
+    keep = SHEET_MAX_ROWS - 1
+    if len(snap_records_all) > keep:
+        snap_records = snap_records_all[-keep:]
+        print(f"[build_sheet] PriceSnapshots: {len(snap_records_all)} captured rows "
+              f"> {SHEET_MAX_ROWS}-row grid; keeping newest {len(snap_records)} "
+              f"({len(snap_records_all) - len(snap_records)} oldest stay only in the JSONL)")
+    else:
+        snap_records = snap_records_all
     rate_rows = build_ratelog()
     coverage_summary, coverage_missing = build_coverage(snap_rows)
     move_map = build_move_map(jsonl)
@@ -499,7 +516,7 @@ def main(argv: list[str] | None = None) -> int:
 
     tabs: dict[str, dict] = {
         "Dashboard": {"header": [],
-                      "rows": build_dashboard(snap_rows, set_rows, len(snap_records), move_map)},
+                      "rows": build_dashboard(snap_rows, set_rows, len(snap_records_all), move_map)},
         "Collection": {"header": COLLECTION_HEADER, "rows": build_collection(snap_rows, move_map)},
         "PriceSnapshots": {"header": SNAPSHOT_HEADER, "rows": snap_records},
         "Sets": {"header": ["name", "set_code", "set_id", "language", "card_count",

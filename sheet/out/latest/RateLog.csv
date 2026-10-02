@@ -1,25 +1,4 @@
 timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
-2026-10-02T16:06:13Z,search,/search,q=23120+196&limit=5,200,60,862,True,
-2026-10-02T16:06:14Z,search,/search,q=23237+007&limit=5,200,59,861,True,
-2026-10-02T16:06:14Z,search,/search,q=23266+017&limit=5,200,58,860,True,
-2026-10-02T16:06:15Z,search,/search,q=23266+062&limit=5,200,57,859,True,
-2026-10-02T16:06:16Z,search,/search,q=23266+071&limit=5,200,56,858,True,
-2026-10-02T16:06:16Z,search,/search,q=23266+073&limit=5,200,55,857,True,
-2026-10-02T16:06:17Z,search,/search,q=23266+090&limit=5,200,54,856,True,
-2026-10-02T16:06:18Z,search,/search,q=23266+095&limit=5,200,53,855,True,
-2026-10-02T16:06:19Z,search,/search,q=23286+118&limit=5,200,52,854,True,
-2026-10-02T16:06:19Z,search,/search,q=23286+074&limit=5,200,51,853,True,
-2026-10-02T16:06:21Z,search,/search,q=23323+015&limit=5,200,50,852,True,
-2026-10-02T16:06:22Z,search,/search,q=23323+016&limit=5,200,49,851,True,
-2026-10-02T16:06:23Z,search,/search,q=23381+104&limit=5,200,48,850,True,
-2026-10-02T16:06:24Z,search,/search,q=23473+221&limit=5,200,47,849,True,
-2026-10-02T16:06:25Z,search,/search,q=23473+029&limit=5,200,46,848,True,
-2026-10-02T16:06:26Z,search,/search,q=23473+077&limit=5,200,45,847,True,
-2026-10-02T16:06:27Z,search,/search,q=23561+130&limit=5,200,44,846,True,
-2026-10-02T16:06:27Z,search,/search,q=23561+096&limit=5,200,43,845,True,
-2026-10-02T16:06:28Z,search,/search,q=23639+029&limit=5,200,42,844,True,
-2026-10-02T16:06:29Z,search,/search,q=23643+330&limit=5,200,41,843,True,
-2026-10-02T16:06:30Z,search,/search,q=23645+115&limit=5,200,40,842,True,
 2026-10-02T16:06:30Z,search,/search,q=23645+041&limit=5,200,39,841,True,
 2026-10-02T16:06:31Z,search,/search,q=23645+048&limit=5,200,38,840,True,
 2026-10-02T16:06:32Z,search,/search,q=23651+133&limit=5,200,37,839,True,
@@ -199,3 +178,24 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T18:25:17Z,search,/search,q=635+4&limit=5,200,61,665,True,
 2026-10-02T18:25:20Z,search,/search,q=JU+4&limit=5,200,60,664,True,
 2026-10-02T18:25:23Z,search,/search,q=Jungle+4&limit=5,200,59,663,True,
+2026-10-02T18:40:24Z,search,/search,q=-240+0702&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=CBB4C+0702&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Gem+Pack+Vol.4+0702&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=-242+0103&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=CBB5C+0103&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Gem+Pack+Vol.5+0103&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=1396+8&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=N1+8&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Neo+Genesis+8&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=23722+043&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Pokemon+Jungle+043&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=23723+097&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Mystery+of+the+Fossils+097&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=24175+091&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=City+Gym+Decks+091&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=604+1&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=BS+1&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Base+Set+1&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=635+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=JU+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-02T18:40:24Z,search,/search,q=Jungle+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed

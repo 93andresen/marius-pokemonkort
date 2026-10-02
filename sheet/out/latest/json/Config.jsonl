@@ -9,4 +9,5 @@
 ["USD_NOK", 10.8, "edit to update API->NOK conversion"]
 ["EUR_NOK", 11.7, "edit to update API->NOK conversion"]
 ["FRESH_HOURS", 20, "fetcher serves cached prices younger than this"]
-["Generated (UTC)", "2026-10-02 18:33:54", ""]
+["SHEET_MAX_ROWS", 1000, "bound grid cap; PriceSnapshots keeps newest rows, full history = local JSONL"]
+["Generated (UTC)", "2026-10-02 18:53:08", ""]

@@ -412,23 +412,85 @@ Full operator guide: [`tools/README.md`](tools/README.md).
 
 ## 8. Google Sheet design
 
-Built for **useful functionality**, not just data dumping: overviews, dashboards, sorting by anything.
+Built for **useful functionality**, not just data dumping: overviews, dashboards, sorting by anything —
+and, above all, **at-a-glance "in the green / in the red" signalling** so the whole portfolio reads like a
+Bloomberg terminal: a glance tells you what is up, what is down, and by how much.
 
 | Tab | Purpose |
 |---|---|
-| `Collection` | One row per owned card: Collectr fields + `pk_id` + current price(s) + value (qty × price). |
-| `PriceSnapshots` | Append-only: one row per card per capture (`fetched_at`, prices, source). This is our history. |
+| `Collection` | One row per owned card: Collectr fields + `pk_id` + current price(s) + value (qty × price) **+ the derived signal columns** (cost basis, P&L, spread, verdict). This is the hero tab. |
+| `PriceSnapshots` | Append-only: one row per card per capture (`fetched_at`, prices, source). This is our history. Capped to the newest rows to fit the grid. |
 | `Sets` | Set index from `/sets` (set_id, code, name, counts). |
 | `CardCatalog` | Resolved card metadata (name, set, number, rarity, images link, tcgplayer url). |
-| `Movers` | Derived: biggest gainers/losers between the two most recent snapshots. |
+| `Movers` | Derived: biggest gainers/losers between first-seen and latest price. |
 | `Coverage` | Derived: matched vs. unmatched cards, TCGPlayer vs. CardMarket availability, missing prices. |
-| `Dashboard` | Totals, allocation, top holdings, source split, freshness, budget status. |
-| `Config` | IDs, thresholds, budget floors, feature flags. |
+| `Dashboard` | Totals, allocation, top holdings, source split, freshness, budget status — a headline KPI block. |
+| `Config` | IDs, thresholds, budget floors, feature flags + `SHEET_MAX_ROWS`. |
 | `RateLog` | Mirror of API call log for budgeting visibility. |
 | `FINN` | Listings seen: FINN-kode, title, price, matched card, market price, delta, status. |
 
-**Sorting:** every data tab is a plain range so Google Sheets native sort/filter works everywhere;
-derived tabs use `QUERY`/`SORT`/`FILTER` formulas so they stay live.
+### 8.1 Derived signal columns (computed in [`sheet/build_sheet.py`](sheet/build_sheet.py))
+
+`build_sheet.py` is the **single source of truth** for every value pushed to the sheet — the Google Sheet
+holds no hand-entered numbers. On top of the raw Collectr/API fields the `Collection` tab carries four
+derived signals, each of which drives a colour rule:
+
+| Column | Meaning | Turns green when… | Turns red when… |
+|---|---|---|---|
+| `Cost Basis (NOK)` | What the card cost us (`qty × unit cost`) where a cost is known. | — (neutral reference) | — |
+| `P&L vs Cost (NOK)` | Market value − cost basis. | **> 0** (profit) | **< 0** (loss) |
+| `vs Collectr %` | Our API market value ÷ Collectr's own valuation online. | **≥ +0.5%** | **≤ −0.5%** |
+| `Move % (vs first seen)` | Latest price vs the first snapshot we ever captured (our own history). | **≥ +0.5%** | **≤ −0.5%** |
+| `Verdict` | One-word roll-up of the above. | `🟢 Up` | `🔴 Down` |
+
+`Movers` uses the same first-seen-vs-latest logic (`Move % (vs first seen)`), and `FINN` uses an
+**inverted polarity** — a FINN *listing* below our market price is a **good buy** (green), above is bad (red).
+
+### 8.2 Colour semantics (red = worse, green = better)
+
+Every numeric signal column is conditionally formatted by the bound Apps Script, with three bands:
+
+- 🟢 **Green** — clearly *better* (up / profit / above reference).
+- 🔴 **Red** — clearly *worse* (down / loss / below reference).
+- 🟡 **Amber** — flat (within ±0.5%), a **missing price**, or something that needs attention.
+- ⚪ **Gray** — no data at all (never evaluated).
+
+This keeps the semantics consistent everywhere: **more green = better, more red = worse.** The `Dashboard`
+KPIs use the same palette so the headline totals read the same way as the per-card rows.
+
+### 8.3 The `▸` SECTION prefix
+
+Cells whose text begins with `=` are parsed by Sheets as **formulas** and render `#ERROR!`. All section
+labels therefore use a non-`=` prefix, the constant `SECTION = "▸"` (U+25B8) in
+[`sheet/build_sheet.py`](sheet/build_sheet.py) — e.g. `▸ Holdings` instead of `=== Holdings ===`.
+
+### 8.4 Grid cap (1000 rows × 26 columns)
+
+The bound sheet's grid is hard-capped at **1000 rows × 26 columns** and the MCP tools **cannot expand it**
+(any larger range throws *"exceeds grid limits"*). `build_sheet.py` therefore defines
+`SHEET_MAX_ROWS = 1000` and **caps `PriceSnapshots` to the newest rows** that fit. The **complete**
+append-only history is never lost — it lives in `data/pokewallet/snapshots/portfolio_prices.jsonl`
+(and the per-run CSVs), which `build_sheet.py` reads. The `Config` tab records `SHEET_MAX_ROWS` so the cap
+is visible in-sheet.
+
+### 8.5 Formatting via the bound Apps Script (`sheet/AppScript.gs`)
+
+The Google Sheets MCP tools can write **values only** — they cannot set colours, fonts, freeze panes or
+number formats. All presentation therefore comes from a **bound Apps Script**, pasted by hand into the
+sheet's own Apps Script editor (the same script whose ID is recorded in `AGENTS.md` / `Config`):
+
+1. Open the sheet → **Extensions ▸ Apps Script**.
+2. Paste the full contents of [`sheet/AppScript.gs`](sheet/AppScript.gs), replacing any stub.
+3. Save, then run **📊 Portfolio ▸ Format everything** (or reload the sheet and use the 📊 Portfolio menu).
+4. The formatter is **idempotent** and **header-name driven** (not column-letter driven), so re-running it
+   after any data push is safe. It applies: frozen header rows, number/percent formats, banding, the
+   red/green/amber/gray conditional rules per tab (`collectionRules`, `moversRules`, `finnRules` [inverted],
+   `rateLogRules`, `coverageRules`), and the Dashboard KPI styling.
+
+Optional helpers on the same menu: `applyColoursOnly`, `autoFitAll`, `installDailyTrigger`
+(keeps snapshots fresh), `repairErrors`.
+
+**Sorting:** every data tab is a plain range so Google Sheets native sort/filter works everywhere.
 
 *(Detailed tab/formula design was drafted in `pokewallet-api-ideas/pokemon-card-collection-tracker-plan.md`
 during the earlier phase — reuse the good parts, but the pivot to per-card snapshots takes priority.)*
