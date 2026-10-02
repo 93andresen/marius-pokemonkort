@@ -89,7 +89,15 @@ COLLECTION_HEADER = [
     "Collectr Value (NOK)", "TCG Market (USD)", "CMK Trend (EUR)",
     "API Value (NOK)", "Price Source", "Found", "Served From", "Match Method",
     "PK Name", "PK Set", "Watchlist", "Date Added",
+    # --- derived / colour-coded signal columns (see the Apps Script for the
+    #     conditional-format rules that paint these green/red) ---
+    "Cost Basis (NOK)", "P&L vs Cost (NOK)", "vs Collectr %",
+    "Move % (vs first seen)", "Verdict",
 ]
+
+# Section-label rows deliberately start with "▸" (U+25B8) instead of "===";
+# a leading "=" makes Google Sheets parse the cell as a formula → "#ERROR!".
+SECTION = "▸"
 
 
 def api_value_nok(qty: int, tcg_market: float | None, cmk_trend: float | None) -> float | None:
@@ -100,7 +108,71 @@ def api_value_nok(qty: int, tcg_market: float | None, cmk_trend: float | None) -
     return None
 
 
-def build_collection(snap_rows: list[dict]) -> list[list]:
+def build_move_map(jsonl: Path) -> dict[str, dict]:
+    """``pk_id`` → first-seen vs latest price summary, keyed on the stable card id.
+
+    Used by the Collection tab's ``Move %`` / ``Verdict`` columns so each row can
+    show whether *that card* has gone up or down since we first saw it — the
+    primary "am I in the green?" signal for a card we haven't paid for.
+    """
+    if not jsonl.exists():
+        return {}
+    first: dict[str, tuple[float, str]] = {}
+    last: dict[str, tuple[float, str, dict]] = {}
+    with jsonl.open("r", encoding="utf-8") as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if not truthy(rec.get("found")):
+                continue
+            key = rec.get("pk_id")
+            if not key:
+                continue
+            price = fnum(rec.get("tcg_market"))
+            if price is None:
+                price = fnum(rec.get("cmk_trend"))
+            if price is None:
+                continue
+            ts = str(rec.get("run_ts_utc") or "")
+            if key not in first or ts < first[key][1]:
+                first[key] = (price, ts)
+            if key not in last or ts >= last[key][1]:
+                last[key] = (price, ts, rec)
+    out: dict[str, dict] = {}
+    for key, (p_last, ts_last, rec) in last.items():
+        p_first, ts_first = first[key]
+        out[key] = {
+            "move_pct": round(100 * (p_last - p_first) / p_first, 2) if p_first else None,
+            "first": p_first,
+            "last": p_last,
+            "delta": round(p_last - p_first, 2),
+            "ts_first": ts_first,
+            "ts_last": ts_last,
+            "set": rec.get("set") or "",
+            "product_name": rec.get("product_name") or "",
+            "number": rec.get("number") or "",
+        }
+    return out
+
+
+def verdict_of(vs_collectr: float | None, move_pct: float | None) -> str:
+    """One-word colour verdict. Green = up, Red = down, Yellow = flat, White = no data."""
+    signal = vs_collectr if vs_collectr is not None else move_pct
+    if signal is None:
+        return "⚪ No data"
+    if signal > 0.5:
+        return "🟢 Up"
+    if signal < -0.5:
+        return "🔴 Down"
+    return "🟡 Flat"
+
+
+def build_collection(snap_rows: list[dict], move_map: dict[str, dict]) -> list[list]:
     out: list[list] = []
     for r in snap_rows:
         qty = inum(r.get("quantity")) or 1
@@ -109,6 +181,15 @@ def build_collection(snap_rows: list[dict]) -> list[list]:
         tcg = fnum(r.get("tcg_market"))
         cmk = fnum(r.get("cmk_trend"))
         collectr_value = round(qty * cm, 2) if cm is not None else None
+        api_val = api_value_nok(qty, tcg, cmk)
+        cost_basis = round(qty * cost, 2) if (cost is not None and cost > 0) else None
+        pnl = round(api_val - cost_basis, 2) if (api_val is not None and cost_basis) else None
+        vs_collectr = (
+            round(100 * (api_val - collectr_value) / collectr_value, 2)
+            if (api_val is not None and collectr_value) else None
+        )
+        mv = move_map.get(r.get("pk_id") or "")
+        move_pct = mv["move_pct"] if mv else None
         out.append([
             inum(r.get("row_index")),
             r.get("set") or "",
@@ -124,7 +205,7 @@ def build_collection(snap_rows: list[dict]) -> list[list]:
             collectr_value if collectr_value is not None else "",
             tcg if tcg is not None else "",
             cmk if cmk is not None else "",
-            api_value_nok(qty, tcg, cmk) or "",
+            api_val if api_val is not None else "",
             r.get("price_source") or "",
             r.get("found") or "",
             r.get("served_from") or "",
@@ -133,6 +214,11 @@ def build_collection(snap_rows: list[dict]) -> list[list]:
             r.get("pk_set_name") or "",
             r.get("watchlist") or "",
             r.get("date_added") or "",
+            cost_basis if cost_basis is not None else "",
+            pnl if pnl is not None else "",
+            vs_collectr if vs_collectr is not None else "",
+            move_pct if move_pct is not None else "",
+            verdict_of(vs_collectr, move_pct),
         ])
     return out
 
@@ -187,13 +273,13 @@ def build_coverage(snap_rows: list[dict]) -> tuple[list[list], list[list]]:
         ["Rows without a price", len(missing)],
         ["Coverage %", round(100 * len(found) / total, 1) if total else 0],
         ["", ""],
-        ["=== price_source ===", ""],
+        [f"{SECTION} price_source", ""],
         *tally("price_source"),
         ["", ""],
-        ["=== served_from ===", ""],
+        [f"{SECTION} served_from", ""],
         *tally("served_from"),
         ["", ""],
-        ["=== match_method ===", ""],
+        [f"{SECTION} match_method", ""],
         *tally("match_method"),
     ]
     missing_rows = [
@@ -252,7 +338,8 @@ def build_movers(jsonl: Path) -> list[list]:
     return out
 
 
-def build_dashboard(snap_rows: list[dict], set_rows: list[dict], snap_count: int) -> list[list]:
+def build_dashboard(snap_rows: list[dict], set_rows: list[dict], snap_count: int,
+                    move_map: dict[str, dict]) -> list[list]:
     total = len(snap_rows)
     found = [r for r in snap_rows if truthy(r.get("found"))]
     qty_total = sum((inum(r.get("quantity")) or 1) for r in snap_rows)
@@ -268,31 +355,57 @@ def build_dashboard(snap_rows: list[dict], set_rows: list[dict], snap_count: int
         if av is not None:
             api_total += av
 
+    vs_collectr_total = (
+        round(100 * (api_total - collectr_total) / collectr_total, 2) if collectr_total else None
+    )
+
+    signals = [v for v in move_map.values() if v.get("move_pct") is not None]
+    up = [v for v in signals if v["move_pct"] > 0]
+    down = [v for v in signals if v["move_pct"] < 0]
+    best = max(signals, key=lambda v: v["move_pct"]) if signals else None
+    worst = min(signals, key=lambda v: v["move_pct"]) if signals else None
+
     top = sorted(
         snap_rows,
         key=lambda r: (inum(r.get("quantity")) or 1) * (fnum(r.get("collectr_market_nok")) or 0),
         reverse=True,
     )[:15]
 
+    coverage = round(100 * len(found) / total, 1) if total else 0
+
     rows: list[list] = [
-        ["Pokémon Portfolio Dashboard", ""],
+        ["Pokémon Portfolio — Dashboard"],
         ["Generated (UTC)", datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")],
-        ["", ""],
-        ["=== Holdings ===", ""],
+        [],
+        [f"{SECTION} HOLDINGS"],
         ["Distinct rows", total],
         ["Total card quantity", qty_total],
         ["Rows with an API price", len(found)],
-        ["Price coverage %", round(100 * len(found) / total, 1) if total else 0],
-        ["", ""],
-        ["=== Value (NOK) ===", ""],
-        ["Collectr market total (NOK)", round(collectr_total, 2)],
-        [f"API-priced total (NOK @ USD {USD_NOK}, EUR {EUR_NOK})", round(api_total, 2)],
-        ["", ""],
-        ["=== References ===", ""],
+        ["Price coverage %", coverage],
+        [],
+        [f"{SECTION} VALUE (NOK)"],
+        ["Collectr market total", round(collectr_total, 2)],
+        [f"API-priced total (USD {USD_NOK} / EUR {EUR_NOK})", round(api_total, 2)],
+        ["API vs Collectr %", vs_collectr_total if vs_collectr_total is not None else ""],
+        [],
+        [f"{SECTION} PRICE SIGNALS (since first seen)"],
+        ["Cards up", len(up)],
+        ["Cards down", len(down)],
+        ["Biggest gainer", best["product_name"] if best else "",
+         best["move_pct"] if best else ""],
+        ["Biggest loser", worst["product_name"] if worst else "",
+         worst["move_pct"] if worst else ""],
+        [],
+        [f"{SECTION} CATALOG"],
         ["Sets in catalog", len(set_rows)],
         ["Snapshot records captured", snap_count],
-        ["", ""],
-        ["=== Top 15 holdings by Collectr value ===", ""],
+        [],
+        [f"{SECTION} LIVE FORMULAS (self-updating)"],
+        ["Collection rows", "=COUNTA(Collection!C2:C)"],
+        ["Collectr value total", "=SUM(Collection!L2:L)"],
+        ["API value total", "=SUM(Collection!O2:O)"],
+        [],
+        [f"{SECTION} TOP 15 BY COLLECTR VALUE"],
         ["Set", "Product", "Number", "Qty", "Collectr (NOK)", "Collectr Value (NOK)"],
     ]
     for r in top:
@@ -302,6 +415,17 @@ def build_dashboard(snap_rows: list[dict], set_rows: list[dict], snap_count: int
             r.get("set"), r.get("product_name"), r.get("number"), qty,
             cm if cm is not None else "", round(qty * cm, 2) if cm is not None else "",
         ])
+    rows += [
+        [],
+        [f"{SECTION} LEGEND"],
+        ["🟢 Up / above reference", "in the green", "gain or favourable"],
+        ["🔴 Down / below reference", "in the red", "loss or unfavourable"],
+        ["🟡 Flat (±0.5%)", "", "little or no movement"],
+        ["⚪ No data", "", "no price/signal captured yet"],
+        [],
+        ["Sources: PokeWallet API (TCGPlayer USD, CardMarket EUR) × fixed FX; Collectr export."],
+        ["Colours applied by the bound Apps Script (menu: 📊 Portfolio ▸ Format everything)."],
+    ]
     return rows
 
 
@@ -359,6 +483,8 @@ def main(argv: list[str] | None = None) -> int:
     snap_records = build_snapshots(jsonl)
     rate_rows = build_ratelog()
     coverage_summary, coverage_missing = build_coverage(snap_rows)
+    move_map = build_move_map(jsonl)
+    print(f"[build_sheet] signals : {len(move_map)} cards with >=1 price to compare")
 
     # import config lazily so the script works even if pwlib imports change
     sys.path.insert(0, str(REPO / "pokewallet"))
@@ -372,8 +498,9 @@ def main(argv: list[str] | None = None) -> int:
         apps_script_id = "1zuV63oR_FZN1NRxlpgsrx5cFUuPc3p4ZgR2_pEZ8GZvJwvZEj6y2yUtr"
 
     tabs: dict[str, dict] = {
-        "Dashboard": {"header": [], "rows": build_dashboard(snap_rows, set_rows, len(snap_records))},
-        "Collection": {"header": COLLECTION_HEADER, "rows": build_collection(snap_rows)},
+        "Dashboard": {"header": [],
+                      "rows": build_dashboard(snap_rows, set_rows, len(snap_records), move_map)},
+        "Collection": {"header": COLLECTION_HEADER, "rows": build_collection(snap_rows, move_map)},
         "PriceSnapshots": {"header": SNAPSHOT_HEADER, "rows": snap_records},
         "Sets": {"header": ["name", "set_code", "set_id", "language", "card_count",
                             "number_count", "release_date"], "rows": build_sets(set_rows)},

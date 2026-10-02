@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=MEP+080&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 17:07:32 GMT
+Content-Type: application/json
+Content-Length: 2850
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 782
+X-RateLimit-Remaining-Hour: 80
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b4cAbnqyILx8SFvKOt3eL%2B7F7uY2jF4G5AJqemnwj9u%2BS%2Fdko%2F4PnNIpgRijYYH3MnNJZVFIDQW7gwf6eHzuHgGicCbOaYFSFz%2FbBsevl8B8vXIKHM%2F%2FZUEg23CRpJ93L25qY9%2FqZadZectqFXNJHg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4454dc7cc6d76ef-OSL
+alt-svc: h3=":443"; ma=86400

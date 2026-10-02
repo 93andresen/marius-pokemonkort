@@ -1,0 +1,88 @@
+{
+  "query": "24600 082",
+  "results": [
+    {
+      "id": "pk_ddc49b0cf6796ec8cf435b246c6a8257c09972ae1b0e369d24d820310692919136380a1e7c80f5e5708d26633411b4",
+      "card_info": {
+        "name": "Rowlet - 082/080",
+        "clean_name": "Rowlet",
+        "set_name": "M3: Nihil Zero",
+        "set_code": "M3",
+        "set_id": "24600",
+        "card_number": "082/080",
+        "rarity": "Art Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Grass] Find a Friend<br> Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[Colorless][Colorless][Colorless] Tackle (30)"
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.46,
+            "high_price": 9.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/674401"
+      },
+      "cardmarket": {
+        "product_name": "Rowlet",
+        "prices": [
+          {
+            "avg": 2.85,
+            "low": 1.89,
+            "avg1": 2.86,
+            "avg7": 2.79,
+            "avg30": 2.85,
+            "trend": 2.69,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Nihil-Zero/Rowlet-V2-m3082"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

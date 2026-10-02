@@ -1,0 +1,301 @@
+{
+  "query": "BS 1",
+  "results": [
+    {
+      "id": "pk_3c37f6d9cfcdc2adb7c6add0d4ff071c2bab3404545a1c58eb9a170dc2db0911f0fbc566218e3cb8fd131e7fda4229ac",
+      "card_info": {
+        "name": "Larvitar",
+        "clean_name": "Larvitar",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "105/197",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Corkscrew Punch (10)",
+          "[FF] Confront (30)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.12,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509792"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7866399a3d3cb61669916881dafa685726b2f0d936ab22d1771dcf640e9e3deacaa3b4abd98769af9a05df70771817a3",
+      "card_info": {
+        "name": "Yungoos",
+        "clean_name": "Yungoos",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "176/197",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Knock Away (10+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.2,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509729"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_81707f2944b1b0ba081f7ff507e10b4f60ca2ced49d95762200605ed04ac726649628e2b27fbd2f8a06a4daa2fa1e8",
+      "card_info": {
+        "name": "Solrock",
+        "clean_name": "Solrock",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "093/197",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Call For Family\r\n<br>Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+          "[P][1] Solar Beam (50)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509872"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_be6d35074de2abeee41eb259239f582ac13e5de8ea984abe41fcce56e09fd755aa76de8343d4ace67c72f71f7b22fc8d",
+      "card_info": {
+        "name": "Salandit",
+        "clean_name": "Salandit",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "139/197",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[D] Suffocating Gas (10)",
+          "[1D] Scratch (30)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.24,
+            "high_price": 40,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.22,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.14,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509911"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_74e1e1c2c7f764594563aa04eab5fbf577196d2fa448f0c697b46c74f7e58245311154dc4a80e9c1dfe79f5ccd39e4",
+      "card_info": {
+        "name": "Absol - 083/172",
+        "clean_name": "Absol",
+        "set_name": "S12a: VSTAR Universe",
+        "set_code": "S12a",
+        "set_id": "23645",
+        "card_number": "083/172",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Swirling Disaster<br> This attack does 10 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Darkness][Colorless] Claw Rend (50+)<br> If your opponent's Active Pokémon already has any damage counters on it, this attack does 70 more damage."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 9.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.26,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571621"
+      },
+      "cardmarket": {
+        "product_name": "Absol",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "trend": 0.14,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/VSTAR-Universe/Absol-V1-s12a083"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 645,
+    "total_pages": 129
+  },
+  "metadata": {
+    "total_count": 645,
+    "tcg": 392,
+    "cardmarket": 345,
+    "tcg_only": 300,
+    "cardmarket_only": 253,
+    "both_sources": 92
+  }
+}

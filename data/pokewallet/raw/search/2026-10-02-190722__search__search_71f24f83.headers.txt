@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Neo+Genesis+8&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 17:07:22 GMT
+Content-Type: application/json
+Content-Length: 5808
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 794
+X-RateLimit-Remaining-Hour: 92
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iHTcjp1tr8QFTyEEK99Hqj3QE1bP0Vko7AdvzY8vbvmmsirTotZ3gjn0Ogo1xH4h1aXBEPqWArosWPXn1cJeQOFO9qOoYXUhdRTdtmEXirb57gnfeIFvEdHClV9WmaDCkUxb%2BoaqxDQTfIbB9qa%2FJg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4454d89b883b4f9-OSL
+alt-svc: h3=":443"; ma=86400

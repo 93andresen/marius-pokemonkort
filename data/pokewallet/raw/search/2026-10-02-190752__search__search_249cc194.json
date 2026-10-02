@@ -1,0 +1,93 @@
+{
+  "query": "24688 090",
+  "results": [
+    {
+      "id": "pk_a0a77deb608aad78a2a90a81eac06fff9699e0e7d9eac861af4a7f7fbfca21fc3b1af30d60645f7999067dd2e30395",
+      "card_info": {
+        "name": "Slowbro - 090/084",
+        "clean_name": "Slowbro 090 084",
+        "set_name": "Pitch Black",
+        "set_code": "PBL",
+        "set_id": "24688",
+        "card_number": "090/084",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] All Out (50+)<br> If you have no cards in your hand, this attack does 160 more damage.",
+          "[CCC] Zen Headbutt (110)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.69,
+            "mid_price": 8.51,
+            "high_price": 49.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 6.54,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/704847"
+      },
+      "cardmarket": {
+        "product_name": "Slowbro (PBL 090)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.01,
+            "low": 4.85,
+            "avg1": 8.73,
+            "avg7": 9.24,
+            "avg30": 10.31,
+            "trend": 7.84,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Slowbro-V2-PBL090"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

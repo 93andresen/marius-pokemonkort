@@ -1,0 +1,87 @@
+{
+  "query": "MEP 048",
+  "results": [
+    {
+      "id": "pk_072207ad9297659e5746e52ec9c8bc39911ceacad70068fe9dbfe4ba8f8006f8e4a80539788f53cb6215db",
+      "card_info": {
+        "name": "Totodile - 048",
+        "clean_name": "Totodile 048",
+        "set_name": "ME: Mega Evolution Promo",
+        "set_code": "MEP",
+        "set_id": "24451",
+        "card_number": "48",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWC] Bite (50)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.25,
+            "mid_price": 12.35,
+            "high_price": 750,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 10.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/699872"
+      },
+      "cardmarket": {
+        "product_name": "Totodile (MEP 048)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 18.26,
+            "low": 10,
+            "avg1": 16.28,
+            "avg7": 17.5,
+            "avg30": 18.97,
+            "trend": 14.78,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/MEP-Black-Star-Promos/Totodile-MEP048"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

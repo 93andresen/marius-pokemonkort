@@ -1,0 +1,85 @@
+{
+  "query": "24600 080",
+  "results": [
+    {
+      "id": "pk_cfb5c669ddb308a8ee9dabd6031658f663f509fb054958d15a2aad15f53ea09003f45570a88b1c5ba2a0a5d2496dd3",
+      "card_info": {
+        "name": "Rock F Energy",
+        "clean_name": "Rock F Energy",
+        "set_name": "M3: Nihil Zero",
+        "set_code": "M3",
+        "set_id": "24600",
+        "card_number": "080/080",
+        "rarity": "Rare",
+        "card_type": "Special Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "As long as this card is attached to a Pokémon, it provides [Fighting] Energy.<br>Prevent all effects of attacks used by your opponent's Pokémon done to the [Fighting] Pokémon this card is attached to. <em>(Existing effects are not removed. Damage is not an effect.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.29,
+            "high_price": 1,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/674399"
+      },
+      "cardmarket": {
+        "product_name": "Rock [F] Energy",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.15,
+            "avg30": 0.08,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Nihil-Zero/Rock-F-Energy-m3080"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

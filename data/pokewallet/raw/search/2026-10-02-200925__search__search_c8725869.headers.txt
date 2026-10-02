@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=City+Gym+Decks+091&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 18:09:25 GMT
+Content-Type: application/json
+Content-Length: 205
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 690
+X-RateLimit-Remaining-Hour: 86
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Vh6Ro8L6dBm9e%2FEFVAbX4skQPZbKxwz4lr2l04dYPpWwSZ6xiMcRptk3dczTnpHIPhMsm6UubWSUh7pejKsJxJjgqT%2BJwxOZREi5eRIu4zAbuef%2FPtCPTFa0Vx%2F%2BAHGHmnSpnKsEJrxIIfcxNy2Vvg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a445a86cff900b69-OSL
+alt-svc: h3=":443"; ma=86400

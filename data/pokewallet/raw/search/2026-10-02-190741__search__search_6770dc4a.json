@@ -1,0 +1,60 @@
+{
+  "query": "24600 101",
+  "results": [
+    {
+      "id": "pk_9c6825b0e51299337bd4171d063d419e767b6d0949c4452ec445c03cbaf3712a5218ce42b18dbe523f795400781ea6da",
+      "card_info": {
+        "name": "Energy Recycler",
+        "clean_name": "Energy Recycler",
+        "set_name": "M3: Nihil Zero",
+        "set_code": "M3",
+        "set_id": "24600",
+        "card_number": "101/080",
+        "rarity": "Super Rare",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle up to 5 Basic Energy cards from your discard pile into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.18,
+            "mid_price": 0.64,
+            "high_price": 6,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.43,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/674420"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

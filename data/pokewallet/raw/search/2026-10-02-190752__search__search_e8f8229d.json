@@ -1,0 +1,93 @@
+{
+  "query": "2906 218",
+  "results": [
+    {
+      "id": "pk_96e44171d7d3b664d630be7c01bbf54eb7039a07d79558fdf417afdddf3eac621f7599ad764e326fdfa062f910596c",
+      "card_info": {
+        "name": "Greedent VMAX",
+        "clean_name": "Greedent VMAX",
+        "set_name": "SWSH08: Fusion Strike",
+        "set_code": "SWSH08",
+        "set_id": "2906",
+        "card_number": "218/264",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "VMAX",
+        "card_text": null,
+        "attacks": [
+          "[2] Turn a Profit (30)\r\n<br>If your opponent's Basic Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards.",
+          "[3] Max Gimme Gimme (160)\r\n<br>Draw 3 cards."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.82,
+            "high_price": 49.99,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 1.45,
+            "direct_low_price": 1.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/253317"
+      },
+      "cardmarket": {
+        "product_name": "Greedent VMAX",
+        "prices": [
+          {
+            "avg": 1.3,
+            "low": 0.5,
+            "avg1": 0.9,
+            "avg7": 1.29,
+            "avg30": 1.29,
+            "trend": 1.29,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-VMAX-V1"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

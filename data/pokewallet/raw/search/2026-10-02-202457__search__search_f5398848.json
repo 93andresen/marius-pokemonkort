@@ -1,0 +1,276 @@
+{
+  "query": "N1 8",
+  "results": [
+    {
+      "id": "pk_11ba3d2ab6faa7ce21f0af4a5408d74284aa3081068eeaa30b3b75e13670b9d93ab18cabe14927d0f8e7649fbd",
+      "card_info": {
+        "name": "Focus Band",
+        "clean_name": "Focus Band",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "086/111",
+        "rarity": "Rare",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Focus Band to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n<br>\r\nIf the Pokémon Focus Band is attached to would be Knocked Out by your opponent's attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.4,
+            "mid_price": 49.42,
+            "high_price": 117.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 17.06,
+            "direct_low_price": 38.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.88,
+            "mid_price": 12.24,
+            "high_price": 251,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 11.63,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85536"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1425e34b16e43a98c909e6518656f4a43a3fe2c10f7dc0444057a782f2d65cee25effd138e295ad89fdf60c848",
+      "card_info": {
+        "name": "PokeGear",
+        "clean_name": "PokeGear",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "088/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You can't play any more Trainer cards this turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.05,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.69,
+            "direct_low_price": 1.24,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.3,
+            "mid_price": 2.69,
+            "high_price": 33.34,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.56,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88204"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3fc90dc258ab11c80a3b1a333fdecd0d2990d5fe2591fc8458f020b44d938ad312fc212fed56fbc0bb0101be5b",
+      "card_info": {
+        "name": "Bayleef (28)",
+        "clean_name": "Bayleef 28",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "028/111",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1G] Poisonpowder (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "[1GG] Pollen Shield (30)\r\n<br>During your opponent's next turn, Bayleef can't become Asleep, Confused, Paralyzed, or Poisoned. <em>(All other effects of attacks, Pokémon Powers, and Trainer cards still happen.)</em>"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 5.73,
+            "high_price": 99.8,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 12.1,
+            "direct_low_price": 13.59,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.25,
+            "mid_price": 3,
+            "high_price": 42.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.33,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83743"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_33761935794c878c84ff0aa0984ddeba0c40982f428a1b3bf03adb3411c3da486bbe5160452122cbcc173c5ab1",
+      "card_info": {
+        "name": "Ecogym",
+        "clean_name": "Ecogym",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "084/111",
+        "rarity": "Rare",
+        "card_type": "Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n<br>\r\nWhenever an attack, Pokémon Power, or Trainer card discards another player's non-Colorless Energy card from a Pokémon, return that Energy card to its owner's hand. <em>(Energy cards that are discarded when that Pokémon is Knocked Out don't count.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.49,
+            "mid_price": 2.98,
+            "high_price": 27.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.36,
+            "direct_low_price": 1.49,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2.75,
+            "mid_price": 4,
+            "high_price": 53.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85066"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bad112c01adeaac50e8706007b8e29181bd4df08f6a1245fc26b7ca865bdca5c872697a9c307a6984370503cf9",
+      "card_info": {
+        "name": "Super Scoop Up",
+        "clean_name": "Super Scoop Up",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "098/111",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.96,
+            "mid_price": 1.88,
+            "high_price": 28.04,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.88,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.48,
+            "mid_price": 1.19,
+            "high_price": 23.49,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.19,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89634"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 20,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 20,
+    "tcg": 20,
+    "cardmarket": 0,
+    "tcg_only": 20,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

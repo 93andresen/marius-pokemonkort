@@ -1,0 +1,432 @@
+{
+  "query": "2948 0",
+  "results": [
+    {
+      "id": "pk_5f1c0e6f94fcaba78563c9c99af08829805d0f483b8473cf0737ed202558e4140672c8651407ed62d13e2b3a2e",
+      "card_info": {
+        "name": "Exeggcute",
+        "clean_name": "Exeggcute",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "001/172",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Ram (10)",
+          "[G1] Seed Bomb (20)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.24,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.17,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.14,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263578"
+      },
+      "cardmarket": {
+        "product_name": "Exeggcute",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.13,
+            "avg30": 0.15,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Exeggcute-BRS001"
+      }
+    },
+    {
+      "id": "pk_7e99a8fbc54b895ee17dda84d2d9220b54b4440145dfa5c602944ec4ba17745fec39c89f82db3a8f3e1c8eb4e4",
+      "card_info": {
+        "name": "Exeggutor",
+        "clean_name": "Exeggutor",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "002/172",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2G] Mega Drain (70)\r\n<br>Heal 30 damage from this Pokemon.",
+          "[3G] Seed Bomb (130)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.17,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.05,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263579"
+      },
+      "cardmarket": {
+        "product_name": "Exeggutor",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.21,
+            "avg7": 0.24,
+            "avg30": 0.19,
+            "trend": 0.23,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Exeggutor-BRS002"
+      }
+    },
+    {
+      "id": "pk_d12967048d685555e4b78dd1b395a71091e95197b17c97219a4a8670b09c21c135676db6b7ac046247a8b172d2",
+      "card_info": {
+        "name": "Shroomish",
+        "clean_name": "Shroomish",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "003/172",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Headbutt (10)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.18,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263580"
+      },
+      "cardmarket": {
+        "product_name": "Shroomish",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.17,
+            "avg30": 0.16,
+            "trend": 0.17,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Shroomish-BRS003"
+      }
+    },
+    {
+      "id": "pk_90538466cc607aa878825209fe13e397ed0e6e31d191de5c7bf0a70edf41a39f9b2df93ecef840dc5b94e77fbc",
+      "card_info": {
+        "name": "Breloom",
+        "clean_name": "Breloom",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "004/172",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Spore Ball (30)\r\n<br>Your opponent’s Active Pokemon is now Asleep.",
+          "[G] Powdery Uppercut (130)\r\n<br>You can’t use this attack unless this Pokemon used Illusion Spore during your previous turn."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 21,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.26,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.22,
+            "high_price": 15.5,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.17,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263583"
+      },
+      "cardmarket": {
+        "product_name": "Breloom",
+        "prices": [
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.23,
+            "avg30": 0.22,
+            "trend": 0.18,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Breloom-BRS004"
+      }
+    },
+    {
+      "id": "pk_a35b4b231b7dc08065fea0e7a42c47e2d3aec4da1220da4bf9f7b7a2ee0eb5980eb345db4e6dc7b412d3b41b4f",
+      "card_info": {
+        "name": "Tropius",
+        "clean_name": "Tropius",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "005/172",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Curative Bower</strong>\r\n<br>Each of your Pokemon that has any G Energy attached to it can’t be affected by Confusion. If those Pokemon are already Confused, remove that Special Condition.",
+        "attacks": [
+          "[1GG] Slicing Blade (100)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.25,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 15.34,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.03,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263585"
+      },
+      "cardmarket": {
+        "product_name": "Tropius",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.05,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.14,
+            "avg30": 0.19,
+            "trend": 0.17,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Tropius-BRS005"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 99,
+    "total_pages": 20
+  },
+  "metadata": {
+    "total_count": 99,
+    "tcg": 99,
+    "cardmarket": 96,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 96
+  }
+}

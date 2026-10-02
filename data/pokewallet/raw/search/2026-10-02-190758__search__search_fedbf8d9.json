@@ -1,0 +1,357 @@
+{
+  "query": "604 1",
+  "results": [
+    {
+      "id": "pk_302fe1df834c52afc1d9849f7f3ade9f9007366f0f08dcf69a3172bacd5e618ba53a05dea4e8b9c263754a298356ab",
+      "card_info": {
+        "name": "Quaquaval",
+        "clean_name": "Quaquaval",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "015/064",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Drain Fin (20)<br> Heal 20 damage from this Pokémon."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.15,
+            "high_price": 1.33,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.09,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579397"
+      },
+      "cardmarket": {
+        "product_name": "Quaquaval",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Quaquaval-sv7a015"
+      }
+    },
+    {
+      "id": "pk_61315f995c6de3c0e3f2e3ded0c54dedb8b47529d7037cd3520396497fa4e14fd5eb5ae03afcc1d9cf4c143f",
+      "card_info": {
+        "name": "Switch",
+        "clean_name": "Switch",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "095/102",
+        "rarity": "Common",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch 1 of your Benched Pokémon with your Active Pokémon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 15.27,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.43,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42439"
+      },
+      "cardmarket": {
+        "product_name": "Switch",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.89,
+            "avg7": 0.69,
+            "avg30": 0.69,
+            "trend": 1.01,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.44,
+            "low": 0.02,
+            "avg1": 0.42,
+            "avg7": 0.47,
+            "avg30": 0.41,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Switch-V1-BS95"
+      }
+    },
+    {
+      "id": "pk_44fdc840221df1ab151fbc32f8fe9f7ce75130d96707eee7e6d5c927777ba76f288fe0fde2fc93727001bbf45c70ae",
+      "card_info": {
+        "name": "Surfer - 061/064",
+        "clean_name": "Surfer",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "061/064",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 0.99,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.03,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579443"
+      },
+      "cardmarket": {
+        "product_name": "Surfer",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Surfer-V1-sv7a061"
+      }
+    },
+    {
+      "id": "pk_a0787f3f3346976bf30f3473fbe5da905abedb1abd3673e67cc026b835c4ff6e8e5b95a73bfb6f30f16f29ac",
+      "card_info": {
+        "name": "Kakuna",
+        "clean_name": "Kakuna",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "033/102",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Stiffen\r\n<br>Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[GG] Poisonpowder (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.37,
+            "mid_price": 1.01,
+            "high_price": 35.4,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.42,
+            "direct_low_price": 0.97,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42375"
+      },
+      "cardmarket": {
+        "product_name": "Kakuna",
+        "prices": [
+          {
+            "avg": 1.83,
+            "low": 0.02,
+            "avg1": 1.72,
+            "avg7": 1.46,
+            "avg30": 1.66,
+            "trend": 1.84,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.5,
+            "avg7": 1.18,
+            "avg30": 1.18,
+            "trend": 2.54,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Kakuna-V1-BS33"
+      }
+    },
+    {
+      "id": "pk_154572540c9757c724174650cb212fad5df0fe7b9a1a164b2c26c64ccd98d18e50686f987b2d8af952297b4d",
+      "card_info": {
+        "name": "Potion",
+        "clean_name": "Potion",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "094/102",
+        "rarity": "Common",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Remove up to 2 damage counters from 1 of your Pokémon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.3,
+            "high_price": 15.26,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.35,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42438"
+      },
+      "cardmarket": {
+        "product_name": "Potion",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.3,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.3,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 1.26,
+            "avg7": 0.55,
+            "avg30": 0.45,
+            "trend": 0.58,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Potion-V1-BS94"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 122,
+    "total_pages": 25
+  },
+  "metadata": {
+    "total_count": 122,
+    "tcg": 122,
+    "cardmarket": 122,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 122
+  }
+}

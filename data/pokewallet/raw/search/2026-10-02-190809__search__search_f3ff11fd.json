@@ -1,0 +1,158 @@
+{
+  "query": "604 32",
+  "results": [
+    {
+      "id": "pk_ce4f3dac65006043ae6bfcd894e752dc8f81e4ce38341ba89419ee69d510b088c665d7c1ed1806198d820c04",
+      "card_info": {
+        "name": "Kadabra",
+        "clean_name": "Kadabra",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "032/102",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PP] Recover\r\n<br>Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.",
+          "[1PP] Super Psy (50)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.06,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.72,
+            "direct_low_price": 19.96,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42374"
+      },
+      "cardmarket": {
+        "product_name": "Kadabra",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 2.04,
+            "avg30": 2.04,
+            "trend": 3.32,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.61,
+            "low": 0.03,
+            "avg1": 1.46,
+            "avg7": 3.92,
+            "avg30": 4.28,
+            "trend": 2.12,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Kadabra-V1-BS32"
+      }
+    },
+    {
+      "id": "pk_8e303e04426d64f29ec4bb85d97dd2dc12d2829b972e475d37dc681e0d6ab192fc2926125d474a644022f72894baf4",
+      "card_info": {
+        "name": "Clobbopus - 032/064",
+        "clean_name": "Clobbopus",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "032/064",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fighting] Chop (40)",
+          "[Fighting][Fighting][Colorless] Tentacle Rage (130)<br> If this Pokémon has any damage counters on it, this attack can be used for Fighting."
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 0.99,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579414"
+      },
+      "cardmarket": {
+        "product_name": "Clobbopus",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Clobbopus-V1-sv7a032"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

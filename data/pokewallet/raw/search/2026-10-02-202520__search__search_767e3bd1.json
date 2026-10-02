@@ -1,0 +1,258 @@
+{
+  "query": "JU 4",
+  "results": [
+    {
+      "id": "pk_2d6b79092d10fd43ba28f3918651d5a7396181d50db85f30287334c4b855bbf0cf20cb66b5c212d72f0e6cef",
+      "card_info": {
+        "name": "Venomoth (29)",
+        "clean_name": "Venomoth 29",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "29/64",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Shift</strong> Once during your turn <em>(before your attack)</em>, you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GG] Venom Powder (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.1,
+            "mid_price": 14.06,
+            "high_price": 243.74,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 13.44,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 5,
+            "high_price": 4318.25,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 6.54,
+            "direct_low_price": 6.48,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106991"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fbfe200c110e49040ec4039616683142b70179e5d4f42a7e49e1a9e73f2b9a177fc1a484e0f23c5420353b8a",
+      "card_info": {
+        "name": "Victreebel (30)",
+        "clean_name": "Victreebel 30",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "30/64",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon.",
+          "[GG] Acid (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.99,
+            "mid_price": 4.64,
+            "high_price": 52.2,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 7.37,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 9.2,
+            "mid_price": 15,
+            "high_price": 249.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 15.89,
+            "direct_low_price": 14.99,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106992"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_16d4cab91c96e440f31a8bd5750e9bf1f92ace622191f909970143f9c4a1dd6994d73269faba3827dec6e8668dfb9f",
+      "card_info": {
+        "name": "Hisuian Sneasler V - 074/067",
+        "clean_name": "Hisuian Sneasler V",
+        "set_name": "S10P: Space Juggler",
+        "set_code": "S10P",
+        "set_id": "23630",
+        "card_number": "074/067",
+        "rarity": "Super Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "Poison Claws<br> Your opponent's Active Pokémon is now Poisoned.",
+          "[Darkness][Colorless] Dire Claw (80x)<br> This attack does 80 damage for each Special Condition affecting your opponent's Active Pokémon."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.48,
+            "mid_price": 4,
+            "high_price": 7.89,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 3.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/569917"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_148e8d31b2b7e55fac4d9b672310f854432aeb279e5dca6ab11622195bad910a1f1f77b4ea67727d4d6d6ac51eb9e7",
+      "card_info": {
+        "name": "Kleavor VSTAR - 041/067",
+        "clean_name": "Kleavor VSTAR",
+        "set_name": "S10P: Space Juggler",
+        "set_code": "S10P",
+        "set_id": "23630",
+        "card_number": "041/067",
+        "rarity": "Triple Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "270.0",
+        "stage": "VSTAR",
+        "card_text": null,
+        "attacks": [
+          "[Fighting][Colorless] Axe Break (120)<br> This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Fighting] Rampaging Star (30x)<br> This attack does 30 damage for each Pokémon in your discard pile. <em>(You can't use more than 1 <strong>VSTAR</strong> Power in a game.)</em>"
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.58,
+            "mid_price": 0.77,
+            "high_price": 4.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.77,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/569884"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ce1d096c9dc0fd29939b42b8e59c3fa774e44b9399cbe430f1534c094a04f3b80bf9876c93036700be774b5f9a6dd4",
+      "card_info": {
+        "name": "Hisuian Sneasler V - 044/067",
+        "clean_name": "Hisuian Sneasler V",
+        "set_name": "S10P: Space Juggler",
+        "set_code": "S10P",
+        "set_id": "23630",
+        "card_number": "044/067",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "Poison Claws<br> Your opponent's Active Pokémon is now Poisoned.",
+          "[Darkness][Colorless] Dire Claw (80x)<br> This attack does 80 damage for each Special Condition affecting your opponent's Active Pokémon."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.48,
+            "mid_price": 0.65,
+            "high_price": 4.99,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.59,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/569887"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 302,
+    "total_pages": 61
+  },
+  "metadata": {
+    "total_count": 302,
+    "tcg": 292,
+    "cardmarket": 56,
+    "tcg_only": 246,
+    "cardmarket_only": 10,
+    "both_sources": 46
+  }
+}

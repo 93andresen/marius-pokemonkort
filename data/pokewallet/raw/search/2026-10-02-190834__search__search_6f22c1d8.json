@@ -1,0 +1,167 @@
+{
+  "query": "635 45",
+  "results": [
+    {
+      "id": "pk_7ddc22abf8741c683b1d062c9766953709a9162075448701384964acf574b7ce8bb13bab91ed787f3c545da27070e1",
+      "card_info": {
+        "name": "Forretress",
+        "clean_name": "Forretress",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "045/076",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Metal][Colorless][Colorless] Take Down (120)<br> This Pokémon also does 30 damage to itself.",
+          "[Metal][Metal][Colorless][Colorless] Double KO<br> Both Active Pokémon are Knocked Out."
+        ],
+        "weakness": "Fire x2",
+        "resistance": "Grass -30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.25,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571935"
+      },
+      "cardmarket": {
+        "product_name": "Forretress",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Forretress-s3a45"
+      }
+    },
+    {
+      "id": "pk_90c98b7b8dee6dc2e6ab93a853e288889d7f362464451e75c2208d78844dad2d7dec7300849d9381487269",
+      "card_info": {
+        "name": "Rhydon",
+        "clean_name": "Rhydon",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "45/64",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2F] Horn Attack (30)",
+          "[FFFF] Ram (50)\r\n<br>Rhydon does 20 damage to itself, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.07,
+            "mid_price": 9,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 10.66,
+            "direct_low_price": 8,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.94,
+            "high_price": 100,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.46,
+            "direct_low_price": 1.84,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45148"
+      },
+      "cardmarket": {
+        "product_name": "Rhydon",
+        "prices": [
+          {
+            "avg": 1.74,
+            "low": 0.02,
+            "avg1": 0.39,
+            "avg7": 1.32,
+            "avg30": 1.53,
+            "trend": 1.22,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 0.93,
+            "avg30": 0.93,
+            "trend": 1.02,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Rhydon-JU45"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

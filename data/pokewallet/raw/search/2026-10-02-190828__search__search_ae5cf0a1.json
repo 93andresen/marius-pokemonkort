@@ -1,0 +1,164 @@
+{
+  "query": "Jungle 36",
+  "results": [
+    {
+      "id": "pk_7e3a78e7e005eddf094729eaa73e441d78cebe7da414613e942119c74e0fd5b01ef817ccd9db0271c91167",
+      "card_info": {
+        "name": "Fearow",
+        "clean_name": "Fearow",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "36/64",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[3] Agility (20)\r\n<br> Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow.",
+          "[4] Drill Peck (40)"
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.79,
+            "high_price": 24.6,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.07,
+            "direct_low_price": 0.47,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.7,
+            "mid_price": 3.86,
+            "high_price": 104.76,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.05,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45139"
+      },
+      "cardmarket": {
+        "product_name": "Fearow",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.5,
+            "avg30": 0.5,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.41,
+            "low": 0.02,
+            "avg1": 0.54,
+            "avg7": 1.92,
+            "avg30": 1.42,
+            "trend": 1.32,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Fearow-JU36"
+      }
+    },
+    {
+      "id": "pk_4edf90bcc5999ef617f215a3960d8df57dfe7597f79f4865ae5123b271b07b2e7ddaa651c70754ed643737bc8a6ade",
+      "card_info": {
+        "name": "Perilous Jungle",
+        "clean_name": "Perilous Jungle",
+        "set_name": "SV5K: Wild Force",
+        "set_code": "SV5K",
+        "set_id": "23612",
+        "card_number": "070/071",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 0.89,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568404"
+      },
+      "cardmarket": {
+        "product_name": "Perilous Jungle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Wild-Force/Perilous-Jungle-sv5K070"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

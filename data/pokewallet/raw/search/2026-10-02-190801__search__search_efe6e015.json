@@ -1,0 +1,237 @@
+{
+  "query": "Base Set 1",
+  "results": [
+    {
+      "id": "pk_a65305fcf8ab9a28a5f47f85bb663eeca15341b5b2e93ee5231b151dba659f1fc385d12b30c376cb29b018f2",
+      "card_info": {
+        "name": "Bellsprout",
+        "clean_name": "Bellsprout",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "066/130",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Vine Whip (10)",
+          "[G] Call for Family\r\n<br>Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward. <em>(You can't use this attack if your Bench is full.)</em>"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.16,
+            "mid_price": 0.5,
+            "high_price": 18.4,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.61,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42485"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d52055123a266cb709d4be2a97c18e8ecd7b7e8682d56d77037b0d0c9a22584acedf20b2fbe6c42ac8dda19a",
+      "card_info": {
+        "name": "Dodrio",
+        "clean_name": "Dodrio",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "037/130",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Retreat Aid</strong> As long as Dodrio is Benched, pay 1 Colorless less to retreat your Active Pokémon.",
+        "attacks": [
+          "[3] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Dodrio."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.65,
+            "mid_price": 1.65,
+            "high_price": 75.2,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.99,
+            "direct_low_price": 33.32,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42476"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0a437fd26a4da0f154307e7efca4b6dc31c956ac55d4a30b3a6a31c4f49fab7fa2825f84894da2929b2de410",
+      "card_info": {
+        "name": "Kangaskhan",
+        "clean_name": "Kangaskhan",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "026/130",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fetch\r\n<br>Draw a card.",
+          "[4] Comet Punch (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.71,
+            "mid_price": 4.53,
+            "high_price": 42.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42498"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e68709f821951561338d3e037be47667bffaf0021a2433a5968a68796fce4432188c481ca0b0861c2deca6b3",
+      "card_info": {
+        "name": "Vulpix",
+        "clean_name": "Vulpix",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "099/130",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.9,
+            "high_price": 96.96,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42550"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1d5c2f742cbc7edb68fbb5dc376b22d63bd61337410db5477bbdf6833bf6e2a91719f0b075cd97c653a85b86cf",
+      "card_info": {
+        "name": "Gyarados",
+        "clean_name": "Gyarados",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "006/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Dragon Rage (50)",
+          "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2380,
+            "mid_price": 8330,
+            "high_price": 14280,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 632.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107000"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 416,
+    "total_pages": 84
+  },
+  "metadata": {
+    "total_count": 416,
+    "tcg": 416,
+    "cardmarket": 175,
+    "tcg_only": 241,
+    "cardmarket_only": 0,
+    "both_sources": 175
+  }
+}

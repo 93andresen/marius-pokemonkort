@@ -1,0 +1,99 @@
+{
+  "query": "24655 084",
+  "results": [
+    {
+      "id": "pk_f6bff30a1f8eb6a35ef87a3a15fed48a69cbbf1d9dc9688599595df98d521607f6a790b127555d02bd83ed501f6554",
+      "card_info": {
+        "name": "Bubbly W Energy",
+        "clean_name": "Bubbly W Energy",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "084/086",
+        "rarity": "Rare",
+        "card_type": "Special Water Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 14.25,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.24,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.16,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693458"
+      },
+      "cardmarket": {
+        "product_name": "Bubbly [W] Energy (CRI 084)",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.11,
+            "avg30": 0.13,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Bubbly-W-Energy-CRI084"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "query": "JU 36",
+  "results": [
+    {
+      "id": "pk_814f1c977e7c980fd8254cc27fbb49fd97397cd67092fa97d46116b7d808920c58d7c17c8b9de471fcd789c7c5a8be",
+      "card_info": {
+        "name": "Iron Leaves ex - 093/071",
+        "clean_name": "Iron Leaves ex",
+        "set_name": "SV5M: Cyber Judge",
+        "set_code": "SV5M",
+        "set_id": "23613",
+        "card_number": "093/071",
+        "rarity": "Special Art Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Grass][Grass][Colorless] Prism Edge (180)<br> During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 18,
+            "mid_price": 22.2,
+            "high_price": 26.99,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 21.44,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/566244"
+      },
+      "cardmarket": {
+        "product_name": "Iron Leaves ex",
+        "prices": [
+          {
+            "avg": 20.59,
+            "low": 16.99,
+            "avg1": 17.99,
+            "avg7": 19.96,
+            "avg30": 19.86,
+            "trend": 18.87,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cyber-Judge/Iron-Leaves-ex-V3-sv5M093"
+      }
+    },
+    {
+      "id": "pk_8cf8dd1277b9d9e6f0497e6f9f8f4857c26c2854b5d141c3b3945cce82d99d6d8a7932c04a2d18405a9980300e094f",
+      "card_info": {
+        "name": "Hisuian Heavy Ball",
+        "clean_name": "Hisuian Heavy Ball",
+        "set_name": "S10P: Space Juggler",
+        "set_code": "S10P",
+        "set_id": "23630",
+        "card_number": "062/067",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.65,
+            "high_price": 1.49,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.6,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/569905"
+      },
+      "cardmarket": {
+        "product_name": "Hisuian Heavy Ball",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Space-Juggler/Hisuian-Heavy-Ball-s10P062"
+      }
+    },
+    {
+      "id": "pk_6e94bc8aa299fdcb4c1e3c15b0c45fb2b2cbc14dc5cc03b78f791cbe0858255c8b39767eee2ea5cbd1eeec57cbcb161c",
+      "card_info": {
+        "name": "Jubilife Village (Mirror Holofoil)",
+        "clean_name": "Jubilife Village Mirror Holofoil",
+        "set_name": "S12a: VSTAR Universe",
+        "set_code": "S12a",
+        "set_id": "23645",
+        "card_number": "168/172",
+        "rarity": null,
+        "card_type": "Trainer - Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 0.39,
+            "high_price": 1.1,
+            "updated_at": "2026-10-02T10:48:39.828297",
+            "market_price": 0.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/577521"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b347930811226340ff384666b7ba7f8c2d8c0d66efd2131a8f327c833551f107338039f0edab4f728e1459dda55edf",
+      "card_info": {
+        "name": "Judge - 057/060",
+        "clean_name": "Judge",
+        "set_name": "SM7a: Thunderclap Spark",
+        "set_code": "SM7a",
+        "set_id": "23698",
+        "card_number": "057/060",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.5,
+            "high_price": 1.8,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.75,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/572517"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_dd2c83a2dbdfb2678c5c26a0663c0bfdce48cb02eda1434b31df4a5374229448adcde88c40cd6d3c75f51f985a1cc6",
+      "card_info": {
+        "name": "Charjabug - 076/071",
+        "clean_name": "Charjabug",
+        "set_name": "SV5M: Cyber Judge",
+        "set_code": "SV5M",
+        "set_id": "23613",
+        "card_number": "076/071",
+        "rarity": "Art Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Lightning] Static Shock (60)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.43,
+            "high_price": 8,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 2.43,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/566227"
+      },
+      "cardmarket": {
+        "product_name": "Charjabug",
+        "prices": [
+          {
+            "avg": 1.86,
+            "low": 0.98,
+            "avg1": 2.07,
+            "avg7": 1.8,
+            "avg30": 1.91,
+            "trend": 1.73,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:47.627106",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cyber-Judge/Charjabug-V2-sv5M076"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 219,
+    "total_pages": 44
+  },
+  "metadata": {
+    "total_count": 219,
+    "tcg": 219,
+    "cardmarket": 171,
+    "tcg_only": 48,
+    "cardmarket_only": 0,
+    "both_sources": 171
+  }
+}

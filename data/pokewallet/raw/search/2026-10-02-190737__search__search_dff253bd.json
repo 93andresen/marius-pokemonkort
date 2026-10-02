@@ -1,0 +1,101 @@
+{
+  "query": "24587 045",
+  "results": [
+    {
+      "id": "pk_9a566c22d95bc1f0f907c0d57a0ad942b552a239c172dcb227c416d9fde6cab5c4d862169572858ea7b857c0379f29",
+      "card_info": {
+        "name": "Tyrantrum",
+        "clean_name": "Tyrantrum",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "045/088",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[FC] Wreak Havoc (160)<br> Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.2,
+            "direct_low_price": 0.12,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.27,
+            "high_price": 8000,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.25,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684359"
+      },
+      "cardmarket": {
+        "product_name": "Tyrantrum",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.12,
+            "avg30": 0.13,
+            "trend": 0.14,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Tyrantrum-POR045"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

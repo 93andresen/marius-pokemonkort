@@ -1,0 +1,94 @@
+{
+  "query": "24461 7",
+  "results": [
+    {
+      "id": "pk_29e13b2117aaf263383ecb86799feb46bda50e73f455f5db614e5d2bf8438d6bc81fba0116dab31d98c9",
+      "card_info": {
+        "name": "Basic Darkness Energy - 007",
+        "clean_name": "Basic Darkness Energy",
+        "set_name": "MEE: Mega Evolution Energies",
+        "set_code": "MEE",
+        "set_id": "24461",
+        "card_number": "7",
+        "rarity": "Common",
+        "card_type": null,
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.12,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.35,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.45,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/656269"
+      },
+      "cardmarket": {
+        "product_name": "Basic Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.22,
+            "avg30": 0.17,
+            "trend": 0.18,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution-Energies/Basic-Darkness-Energy-V1-MEE007"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

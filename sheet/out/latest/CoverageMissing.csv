@@ -5,70 +5,8 @@ Row,Set,Product,Number,Served From,Match Method,Set ID
 106,Jungle (Japanese),Oddish (JP),043,miss,set:name_suffix+card:none,23722
 83,Fossil (Japanese),Hypno (JP),097,miss,set:name_suffix+card:none,23723
 94,Hanada City Gym Deck,Misty's Cloyster (JP),091,miss,set:name_fuzzy+card:none,24175
-22,Black Bolt,Excadrill ex,160/086,,set:name_suffix,24325
-113,Mega Brave,Mega Lucario,029/063,,set:name_suffix,24399
-117,Mega Evolution Promos,Totodile,048,,set:name_suffix,24451
-116,Mega Evolution Promos,Fennekin (Pokemon Center Exclusive),080,,set:name_suffix,24451
-115,Mega Evolution Promos,Alakazam,009,,set:name_suffix,24451
-112,MEE: Mega Evolution Energies,Basic Darkness Energy - 007,7,,set:name_exact,24461
-114,MEGA Dream ex,Rayquaza,127/193,,set:name_exact,24499
-2,Ascended Heroes,Lunatone (Energy Symbol Pattern),105/217,,set:name_suffix,24541
-148,Perfect Order,Lapras ex,022/088,,set:name_suffix,24587
-151,Perfect Order,Tyrantrum,045/088,,set:name_suffix,24587
-152,Perfect Order,Yveltal ex,053/088,,set:name_suffix,24587
-149,Perfect Order,Poke Pad,081/088,,set:name_suffix,24587
-150,Perfect Order,Rosa's Encouragement,084/088,,set:name_suffix,24587
-147,Perfect Order,Espurr,095/088,,set:name_suffix,24587
-146,Perfect Order,Doublade,098/088,,set:name_suffix,24587
-136,Nihil Zero,Energy Recycler,101/080,,set:name_suffix,24600
-138,Nihil Zero,Rock F Energy,080/080,,set:name_suffix,24600
-139,Nihil Zero,Rowlet,082/080,,set:name_suffix,24600
-135,Nihil Zero,Clefairy,086/080,,set:name_suffix,24600
-137,Nihil Zero,Raticate,092/080,,set:name_suffix,24600
-140,Nihil Zero,Salazzle ex,094/080,,set:name_suffix,24600
-41,Chaos Rising,Mega Pyroar ex,015/086,,set:name_exact,24655
-35,Chaos Rising,Ampharos,029/086,,set:name_exact,24655
-36,Chaos Rising,Ampharos,029/086,,set:name_exact,24655
-42,Chaos Rising,Trevenant,039/086,,set:name_exact,24655
-44,Chaos Rising,Xerneas,042/086,,set:name_exact,24655
-40,Chaos Rising,Crobat,051/086,,set:name_exact,24655
-38,Chaos Rising,Chesnaught,007/086,,set:name_exact,24655
-39,Chaos Rising,Cinccino ex,073/086,,set:name_exact,24655
-37,Chaos Rising,Bubbly Water Energy,084/086,,set:name_exact,24655
-43,Chaos Rising,Xerneas,091/086,,set:name_exact,24655
-153,Pitch Black,Energy Switch,107/084,,set:name_exact,24688
-154,Pitch Black,Shadowy Darkness Energy,083/084,,set:name_exact,24688
-155,Pitch Black,Slowbro,090/084,,set:name_exact,24688
-84,Fusion Strike,Greedent VMAX,218/264,,set:name_suffix,2906
-34,Celebrations: Classic Collection,M Rayquaza EX,76/108,,set:name_exact,2931
-33,Brilliant Stars,Psychic Energy (2022 Unnumbered),,,set:name_suffix,2948
-8,Base Set (Unlimited),Alakazam,1,,set:name_exact,604
-20,Base Set (Unlimited),Raichu,14,,set:name_exact,604
-11,Base Set (Unlimited),Electabuzz,20,,set:name_exact,604
-9,Base Set (Unlimited),Charmeleon,24,,set:name_exact,604
-13,Base Set (Unlimited),Farfetch'd,27,,set:name_exact,604
-15,Base Set (Unlimited),Ivysaur,30,,set:name_exact,604
-16,Base Set (Unlimited),Kadabra,32,,set:name_exact,604
-10,Base Set (Unlimited),Doduo,48,,set:name_exact,604
-14,Base Set (Unlimited),Gastly,50,,set:name_exact,604
-17,Base Set (Unlimited),Nidoran M,55,,set:name_exact,604
-18,Base Set (Unlimited),Pikachu,58,,set:name_exact,604
-19,Base Set (Unlimited),Poliwag,59,,set:name_exact,604
-12,Base Set (Unlimited),Energy Retrieval,81,,set:name_exact,604
-4,Base Set 2,Mewtwo,10,,set:name_exact,605
-3,Base Set 2,Charmander,69,,set:name_exact,605
-5,Base Set 2,Venonat,97,,set:name_exact,605
-102,Jungle,Jolteon,20,,set:name_exact,635
-95,Jungle,Butterfree,33,,set:name_exact,635
-98,Jungle,Fearow,36,,set:name_exact,635
-101,Jungle,Jolteon,4,,set:name_exact,635
-103,Jungle,Rhydon,45,,set:name_exact,635
-105,Jungle,Weepinbell,48,,set:name_exact,635
-96,Jungle,Cubone,50,,set:name_exact,635
-97,Jungle,Exeggcute,52,,set:name_exact,635
-99,Jungle,Goldeen,53,,set:name_exact,635
-100,Jungle,Jigglypuff,54,,set:name_exact,635
-104,Jungle,Rhyhorn,61,,set:name_exact,635
+8,Base Set (Unlimited),Alakazam,1,miss,set:name_exact+card:reject,604
+101,Jungle,Jolteon,4,miss,set:name_exact+card:reject,635
 6,Base Set (Japanese),Drowzee (JP),096,orphan,set:none,
 7,Base Set (Japanese),Poliwrath (JP),062,orphan,set:none,
 25,Brave Stars (Charm),Deoxys VMAX,053/127,orphan,set:none,

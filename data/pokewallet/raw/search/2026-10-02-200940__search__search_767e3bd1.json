@@ -1,0 +1,270 @@
+{
+  "query": "JU 4",
+  "results": [
+    {
+      "id": "pk_f8c67e95dfb7c6442dfc2cccc4efe8bdc2df262b545e158b4abd88d15f2c6b5ba95eb4b3243563f8149b354e1cd4ee",
+      "card_info": {
+        "name": "Judge",
+        "clean_name": "Judge",
+        "set_name": "30th Celebration Premium Deck Set",
+        "set_code": "mF",
+        "set_id": "24856",
+        "card_number": "037/040",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each player shuffles their hand into their deck and draws 4 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.5,
+            "high_price": 0.7,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716758"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_eefe6cb62b339170cb606d5df0c6739ef3aa896d0f50a2335296d016036bbb81411c9ce1dd07f461c2082eff4cf9",
+      "card_info": {
+        "name": "Jumpluff (Mirror Holofoil)",
+        "clean_name": "Jumpluff Mirror Holofoil",
+        "set_name": "L1: HeartGold Collection",
+        "set_code": "L1: HG",
+        "set_id": "24025",
+        "card_number": "008/070",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Grass] Mass Attack (10x)<br> Does 10 damage times the number of Pokémon in play <em>(both yours and your opponent's)</em>.",
+          "[Grass] Leaf Guard (30)<br> During your opponent's next turn, any damage done to Jumpluff by attacks is reduced by 30 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "[Fire] x2",
+        "resistance": "[Fighting] -20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 49.99,
+            "mid_price": 49.99,
+            "high_price": 49.99,
+            "updated_at": "2026-10-02T10:48:41.487411",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608081"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_aaa5433418c06dc094548e7bdec9e634a06bbe5da4b716cb8d713bc4fa41def8a3472fd96a3502f985dda004",
+      "card_info": {
+        "name": "Latias and Latios (Jumbo)",
+        "clean_name": "Latias and Latios Jumbo",
+        "set_name": "J Promotional Cards",
+        "set_code": "J-P",
+        "set_id": "24142",
+        "card_number": "002/J",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Psychic][Water][Colorless] Light's Guidance (100)<br> Choose as many cards as you like from your collection showing Pokémon that appear inside the circles in the above illustration. Put them onto your Bench. <em>(You can use this attack even if your Bench is full.)</em>"
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 75,
+            "mid_price": 75,
+            "high_price": 75,
+            "updated_at": "2026-10-02T10:48:43.226306",
+            "market_price": 75,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/613697"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a2e9de3438375220927fbcb58f72aa0e51336c6456e6f2c424f3d77d599d08ea828f4d94c1b28c58990ee6a9b1",
+      "card_info": {
+        "name": "Pikachu EX - XY174",
+        "clean_name": "Pikachu EX XY174",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY174",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1L] Thunder Shock (30)\r\n<br>Flip a coin. If heads, your opponent's Defending Pokémon is now Paralyzed.",
+          "[1LL] Mega Thunderbolt (160)\r\n<br>Discard all Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32,
+            "mid_price": 39.69,
+            "high_price": 383.74,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 39.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/198772"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1e40c776566ea8bf0e47fd9985e1f3e6689dec25da2b4d16713a6f668c85fe49eb525124c66def6b33ae8c",
+      "card_info": {
+        "name": "Seaking",
+        "clean_name": "Seaking",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "46/64",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Horn Attack (10)",
+          "[1W] Waterfall (30)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.84,
+            "high_price": 28.4,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.9,
+            "direct_low_price": 2.4,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.59,
+            "mid_price": 4.9,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.9,
+            "direct_low_price": 2.6,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45149"
+      },
+      "cardmarket": {
+        "product_name": "Seaking",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2,
+            "avg7": 1.4,
+            "avg30": 1.4,
+            "trend": 2,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.41,
+            "low": 0.02,
+            "avg1": 0.75,
+            "avg7": 0.89,
+            "avg30": 1.33,
+            "trend": 1.07,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Seaking-JU46"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 302,
+    "total_pages": 61
+  },
+  "metadata": {
+    "total_count": 302,
+    "tcg": 292,
+    "cardmarket": 56,
+    "tcg_only": 246,
+    "cardmarket_only": 10,
+    "both_sources": 46
+  }
+}

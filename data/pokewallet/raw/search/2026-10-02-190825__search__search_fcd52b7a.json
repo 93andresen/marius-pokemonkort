@@ -1,0 +1,354 @@
+{
+  "query": "635 36",
+  "results": [
+    {
+      "id": "pk_6d7008f6980367b5785d0e9e08c984d32778a306a6564418072d95045d44472ba73e164a5c7c3132c8739207adcaff",
+      "card_info": {
+        "name": "Moomoo Cheese",
+        "clean_name": "Moomoo Cheese",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "067/076",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.25,
+            "high_price": 0.79,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571954"
+      },
+      "cardmarket": {
+        "product_name": "Moomoo Cheese",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.08,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Moomoo-Cheese-s3a67"
+      }
+    },
+    {
+      "id": "pk_ceff18fef93ca6377ec94df23381a4349ba3e94cba641a9352cc2f3e9650bc7486ff331058f25c62ceed2679d92a9e",
+      "card_info": {
+        "name": "Cape of Toughness",
+        "clean_name": "Cape of Toughness",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "094/076",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.95,
+            "mid_price": 4.15,
+            "high_price": 6.95,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 3.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571919"
+      },
+      "cardmarket": {
+        "product_name": "Cape of Toughness",
+        "prices": [
+          {
+            "avg": 6.99,
+            "low": 6.5,
+            "avg1": 6.99,
+            "avg7": 8.95,
+            "avg30": 16.3,
+            "trend": 11.51,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Cape-of-Toughness-s3a94"
+      }
+    },
+    {
+      "id": "pk_1dbcbf7fac7541decb3274f271e948e12f49c93fffd73193f77d9c4f1a3273cdc9b08603ffafee0fcf368f25cd4e",
+      "card_info": {
+        "name": "Exeggutor",
+        "clean_name": "Exeggutor",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "005/076",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Grass] Head Crack (30)<br> Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack.",
+          "[Grass][Colorless][Colorless] Solar Beam (90)"
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.2,
+            "high_price": 0.83,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571934"
+      },
+      "cardmarket": {
+        "product_name": "Exeggutor",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Exeggutor-s3a5"
+      }
+    },
+    {
+      "id": "pk_03ab780e7758829c71d646644571121e1f91c59b2d855c5d11f7972cf3685fa190b9758a1cc24eccab1b795bd2d2ab",
+      "card_info": {
+        "name": "Rocky Helmet",
+        "clean_name": "Rocky Helmet",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "069/076",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Pokémon Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.18,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571969"
+      },
+      "cardmarket": {
+        "product_name": "Rocky Helmet",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Rocky-Helmet-s3a69"
+      }
+    },
+    {
+      "id": "pk_c020366c80c947ca3f99a49c541186c7f893c9a490cd3fda7923c75fc235a9988b1ab588a37efd8f6a901c14ef175d",
+      "card_info": {
+        "name": "Zeraora",
+        "clean_name": "Zeraora",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "021/076",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Colorless] Fighting Lightning (30+)<br> If your opponent's Active Pokémon is a Pokémon V or Pokémon-GX, this attack does 80 more damage."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.45,
+            "high_price": 1.82,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.41,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571995"
+      },
+      "cardmarket": {
+        "product_name": "Zeraora",
+        "prices": [
+          {
+            "avg": 0.84,
+            "low": 0.05,
+            "avg1": 0.2,
+            "avg7": 0.65,
+            "avg30": 0.28,
+            "trend": 0.51,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.2,
+            "low": 45,
+            "avg1": 0.2,
+            "avg7": 0.45,
+            "avg30": 0.32,
+            "trend": 0.42,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Zeraora-s3a21"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 95,
+    "total_pages": 19
+  },
+  "metadata": {
+    "total_count": 95,
+    "tcg": 95,
+    "cardmarket": 95,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 95
+  }
+}

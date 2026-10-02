@@ -1,0 +1,88 @@
+{
+  "query": "24600 092",
+  "results": [
+    {
+      "id": "pk_d84f0bf5cc7339e3ae4ebb1ef8cefb16da930ea38c2c530e1d9f646f625033f7bb410e091493357a615ca2c1bbe051",
+      "card_info": {
+        "name": "Raticate - 092/080",
+        "clean_name": "Raticate",
+        "set_name": "M3: Nihil Zero",
+        "set_code": "M3",
+        "set_id": "24600",
+        "card_number": "092/080",
+        "rarity": "Art Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Scrape Off (20)<br> Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
+          "[Colorless] Avenging Incisors (40x)<br> This attack does 40 damage for each damage counter on each of your Benched Rattata."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.18,
+            "mid_price": 1.99,
+            "high_price": 9.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.61,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/674411"
+      },
+      "cardmarket": {
+        "product_name": "Raticate",
+        "prices": [
+          {
+            "avg": 1.98,
+            "low": 1.35,
+            "avg1": 1.65,
+            "avg7": 1.86,
+            "avg30": 1.98,
+            "trend": 2.46,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Nihil-Zero/Raticate-V2-m3092"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "query": "24655 039",
+  "results": [
+    {
+      "id": "pk_aad6381922fcc3cbf9bbcd5247dbc22b3697208f336d6a279b7d7eff7c095ba5c75e52791d62240725542177161b50",
+      "card_info": {
+        "name": "Trevenant",
+        "clean_name": "Trevenant",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "039/086",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Cursed Roots (30)<br> During your opponent's next turn, Energy can't be attached from your opponent's hand to the Defending Pokémon.",
+          "[PP] Overwhelming Pain (60+)<br> This attack does 10 more damage for each damage counter on all of your opponent's Pokémon."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 14.23,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.21,
+            "direct_low_price": 0.16,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 14.12,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.13,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693556"
+      },
+      "cardmarket": {
+        "product_name": "Trevenant (CRI 039)",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Trevenant-CRI039"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "query": "BS 1",
+  "results": [
+    {
+      "id": "pk_4d294295c0133be6b28d57a499736645761f48a32e934d50f52de496ae9ded016d963348d195f3d931c6cefc1d0e3a",
+      "card_info": {
+        "name": "Absol",
+        "clean_name": "Absol",
+        "set_name": "SM11a: Remix Bout",
+        "set_code": "SM11a",
+        "set_id": "23705",
+        "card_number": "043/064",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Ominous News<br> Discard a Special Energy from 1 of your opponent's Pokémon.",
+          "[Darkness][Colorless] Dirty Throw (70)<br> Discard a card from your hand. If you can't discard a card, this attack does nothing."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Psychic -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 0.25,
+            "high_price": 1.99,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/574955"
+      },
+      "cardmarket": {
+        "product_name": "Absol",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.09,
+            "avg30": 0.98,
+            "trend": 1.82,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.99,
+            "avg7": 0.99,
+            "avg30": 0.99,
+            "trend": 0.99,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Remix-Bout/Absol"
+      }
+    },
+    {
+      "id": "pk_9e102917c60e429b7e73ac8ec2c2f1e6f7a19dd4b16c39449a3c9fbc827dfaa991f0342ca5eecd5eb7a3ed29a297",
+      "card_info": {
+        "name": "Professor Birch's Observations",
+        "clean_name": "Professor Birchs Observations",
+        "set_name": "XY - Primal Clash",
+        "set_code": "PRC",
+        "set_id": "1509",
+        "card_number": "134/160",
+        "rarity": "Uncommon",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle your hand into your deck and flip a coin. If heads, draw 7 cards. If tails, draw 4 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 0.19,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.41,
+            "high_price": 16.78,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 0.4,
+            "direct_low_price": 0.27,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/96032"
+      },
+      "cardmarket": {
+        "product_name": "Professor Birch's Observations",
+        "prices": [
+          {
+            "avg": 0.56,
+            "low": 0.1,
+            "avg1": 0.59,
+            "avg7": 0.51,
+            "avg30": 0.49,
+            "trend": 0.49,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.16,
+            "avg30": 0.16,
+            "trend": 0.12,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Professor-Birchs-Observations-PRC134"
+      }
+    },
+    {
+      "id": "pk_58e08872493c0647dd81113b7d52c2995baea47cae67008066a4dc480376805c9f5c1b839825ab8adee8a10d",
+      "card_info": {
+        "name": "Abra",
+        "clean_name": "Abra",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "043/102",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Psyshock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.75,
+            "high_price": 100,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.49,
+            "direct_low_price": 5.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42386"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d87816b1fcafeaa58868a8fe85357ec6ec31ed29796b046e80475fdb4473c6c39de21719603da662",
+      "card_info": {
+        "name": "Absol G",
+        "clean_name": "Absol G",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "1",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[D] Feint Attack - Chose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+          "[2D] Doom News - Return all Energy Cards attached to Absol G to your hand.  The Defending Pokemon is Knocked Out at the end of your opponent's next turn."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 27.95,
+            "mid_price": 41.99,
+            "high_price": 164.74,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 41.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 41.54,
+            "mid_price": 242.35,
+            "high_price": 403.5,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 54.65,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83457"
+      },
+      "cardmarket": {
+        "product_name": "Absol [G] Lv.59",
+        "prices": [
+          {
+            "avg": 8.8,
+            "low": 3.39,
+            "avg1": 14,
+            "avg7": 7.92,
+            "avg30": 11.08,
+            "trend": 10.8,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.06,
+            "low": 3.39,
+            "avg1": 6.5,
+            "avg7": 7.87,
+            "avg30": 8.08,
+            "trend": 10.72,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Absol-G-Lv59-SV1"
+      }
+    },
+    {
+      "id": "pk_e8cae81f2627a1a31742743a9833075090a711fbba7d68a517a57dcab6e5b88231b1c0b38a1c412542d912f03fb2c0",
+      "card_info": {
+        "name": "Arboliva",
+        "clean_name": "Arboliva",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "021/197",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Healing Fruit\r\n<br> Heal all damage from 1 of your Benched Pokémon.",
+          "[G] Oil Shot (90)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.19,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509762"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 652,
+    "total_pages": 131
+  },
+  "metadata": {
+    "total_count": 652,
+    "tcg": 364,
+    "cardmarket": 352,
+    "tcg_only": 300,
+    "cardmarket_only": 288,
+    "both_sources": 64
+  }
+}

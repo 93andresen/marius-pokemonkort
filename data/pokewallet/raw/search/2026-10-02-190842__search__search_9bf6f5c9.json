@@ -1,0 +1,166 @@
+{
+  "query": "635 61",
+  "results": [
+    {
+      "id": "pk_749abb7d8ac311d2a86f70427a08bf2a28a7c3294fd6afe61fe1f907b0e07d4508d2a9d0e6aee901f89ca4e01e7b33",
+      "card_info": {
+        "name": "Pikipek",
+        "clean_name": "Pikipek",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "061/076",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Peck (10)"
+        ],
+        "weakness": "Lightning x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.24,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571959"
+      },
+      "cardmarket": {
+        "product_name": "Pikipek",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.11,
+            "avg30": 0.07,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Pikipek-s3a61"
+      }
+    },
+    {
+      "id": "pk_2a33203e3fba2955abc3eb875171c776b475cac6e9a9d3820e714f06d66b38f444cd5d635351e2a09e4b28",
+      "card_info": {
+        "name": "Rhyhorn",
+        "clean_name": "Rhyhorn",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "61/64",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Leer\r\n<br>Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. <em>(Benching either Pokémon ends this effect.)</em>",
+          "[2F] Horn Attack (30)"
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.88,
+            "mid_price": 2.76,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.71,
+            "direct_low_price": 4.97,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.09,
+            "mid_price": 0.45,
+            "high_price": 40,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.44,
+            "direct_low_price": 0.47,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45164"
+      },
+      "cardmarket": {
+        "product_name": "Rhyhorn",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.29,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.29,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.8,
+            "low": 0.02,
+            "avg1": 0.23,
+            "avg7": 0.77,
+            "avg30": 0.73,
+            "trend": 2,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Rhyhorn-JU61"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

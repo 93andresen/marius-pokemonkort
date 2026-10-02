@@ -1,0 +1,413 @@
+{
+  "query": "Jungle 4",
+  "results": [
+    {
+      "id": "pk_01b5ae6a033bc598c4da10c5b0812ec8542b8d46badcb27d77d7d0a05921e9d827cc29d4d89affc95911de6f",
+      "card_info": {
+        "name": "Vaporeon (28)",
+        "clean_name": "Vaporeon 28",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "28/64",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.97,
+            "mid_price": 41.49,
+            "high_price": 506.44,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 41.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.96,
+            "mid_price": 14.75,
+            "high_price": 322,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 15.33,
+            "direct_low_price": 13.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106990"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.99,
+            "avg7": 6.56,
+            "avg30": 5.58,
+            "trend": 5.44,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.62,
+            "low": 1,
+            "avg1": 16.88,
+            "avg7": 22.98,
+            "avg30": 12.33,
+            "trend": 19.89,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V2-JU28"
+      }
+    },
+    {
+      "id": "pk_242830e1e9952285cb0c61c6b45bf1b1e29f7250c1a1cada7a756ad7caf864d3225d7201567c01f1c580",
+      "card_info": {
+        "name": "Pinsir (9)",
+        "clean_name": "Pinsir 9",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "09/64",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Irongrip (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2GG] Guillotine (50)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 57.1,
+            "mid_price": 81,
+            "high_price": 1039.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 89.66,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 17,
+            "mid_price": 23.63,
+            "high_price": 280.75,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 41.37,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45135"
+      },
+      "cardmarket": {
+        "product_name": "Pinsir",
+        "prices": [
+          {
+            "avg": 28.82,
+            "low": 2,
+            "avg1": 13.5,
+            "avg7": 14.65,
+            "avg30": 28.69,
+            "trend": 21.26,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.74,
+            "avg7": 11.86,
+            "avg30": 14.3,
+            "trend": 15.99,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pinsir-V1-JU9"
+      }
+    },
+    {
+      "id": "pk_9772f58b5cf40d746432cb17304579612db3a1b67c5f057640b406516cf5e302734d1b1ab8c3deaab599",
+      "card_info": {
+        "name": "Pidgeot (8)",
+        "clean_name": "Pidgeot 8",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "08/64",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Wing Attack (20)",
+          "[3] Hurricane (30)\r\n<br>Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69.98,
+            "mid_price": 165.99,
+            "high_price": 1414.14,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 159.66,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 20,
+            "mid_price": 45.6,
+            "high_price": 266.44,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 51.95,
+            "direct_low_price": 99.99,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45134"
+      },
+      "cardmarket": {
+        "product_name": "Pidgeot",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.66,
+            "avg7": 15.55,
+            "avg30": 15.09,
+            "trend": 22.22,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 27.89,
+            "low": 4.99,
+            "avg1": 32,
+            "avg7": 25.97,
+            "avg30": 30.71,
+            "trend": 33.71,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pidgeot-V1-JU8"
+      }
+    },
+    {
+      "id": "pk_32169f6941cef97f8ffb0d2682daeb634689fba53049714d416aeefbb6dc83b1815744a20793e2721a014a",
+      "card_info": {
+        "name": "Dodrio",
+        "clean_name": "Dodrio",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "34/64",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Retreat Aid</strong> As long as Dodrio is Benched, pay 1 Colorless less to retreat your Active Pokémon.",
+        "attacks": [
+          "[3] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Dodrio."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.42,
+            "mid_price": 0.99,
+            "high_price": 18.96,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.46,
+            "direct_low_price": 1.97,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.16,
+            "mid_price": 3,
+            "high_price": 49,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.95,
+            "direct_low_price": 4,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45137"
+      },
+      "cardmarket": {
+        "product_name": "Dodrio",
+        "prices": [
+          {
+            "avg": 1.53,
+            "low": 0.02,
+            "avg1": 3.03,
+            "avg7": 1.93,
+            "avg30": 1.71,
+            "trend": 1.09,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.8,
+            "avg7": 0.56,
+            "avg30": 0.56,
+            "trend": 0.72,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Dodrio-JU34"
+      }
+    },
+    {
+      "id": "pk_49436cb6e6406d16aee3b020dfbf34dc9a0d065352ca15621dcb91091d44d84e396987539b17bd275f492b",
+      "card_info": {
+        "name": "Exeggutor",
+        "clean_name": "Exeggutor",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "35/64",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Teleport\r\n<br>Switch Exeggutor with 1 of your Benched Pokémon.",
+          "[1] Big Eggsplosion (20x)\r\n<br>Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.91,
+            "mid_price": 3.93,
+            "high_price": 97.8,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.57,
+            "direct_low_price": 5.5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.24,
+            "mid_price": 1.08,
+            "high_price": 70,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.79,
+            "direct_low_price": 2.18,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45138"
+      },
+      "cardmarket": {
+        "product_name": "Exeggutor",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 0.75,
+            "avg30": 0.75,
+            "trend": 1,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.84,
+            "low": 0.02,
+            "avg1": 2.2,
+            "avg7": 1.57,
+            "avg30": 1.65,
+            "trend": 1.89,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Exeggutor-JU35"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 64,
+    "total_pages": 13
+  },
+  "metadata": {
+    "total_count": 64,
+    "tcg": 64,
+    "cardmarket": 64,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 64
+  }
+}

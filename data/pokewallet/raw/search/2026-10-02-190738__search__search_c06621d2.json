@@ -1,0 +1,99 @@
+{
+  "query": "24587 081",
+  "results": [
+    {
+      "id": "pk_931385744e03adf02b53d63b0b5181baad5effbce0bc1fff88795f53899430b69556d2ae8cbf4808da4f4d3251dc66",
+      "card_info": {
+        "name": "Poke Pad - 081/088",
+        "clean_name": "Poke Pad",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "081/088",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.41,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.34,
+            "high_price": 64,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684332"
+      },
+      "cardmarket": {
+        "product_name": "Poké Pad",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 0.59,
+            "avg7": 0.54,
+            "avg30": 0.55,
+            "trend": 0.51,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.67,
+            "low": 0.02,
+            "avg1": 1.08,
+            "avg7": 0.72,
+            "avg30": 0.66,
+            "trend": 0.75,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Poke-Pad-V1-POR081"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

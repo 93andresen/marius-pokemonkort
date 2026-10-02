@@ -1,0 +1,93 @@
+{
+  "query": "24587 095",
+  "results": [
+    {
+      "id": "pk_1721a12a511d93baa9516f9bac24a1f826618b9abb9ca54c213b15d7cab38af7e7933f1be49adc83c52a0c3af2ed63",
+      "card_info": {
+        "name": "Espurr - 095/088",
+        "clean_name": "Espurr",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "095/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Nap<br> Heal 20 damage from this Pokémon.",
+          "[P] Stampede (10)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.4,
+            "mid_price": 4.28,
+            "high_price": 95.2,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 3.27,
+            "direct_low_price": 4.08,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684418"
+      },
+      "cardmarket": {
+        "product_name": "Espurr",
+        "prices": [
+          {
+            "avg": 3.56,
+            "low": 1.63,
+            "avg1": 3.59,
+            "avg7": 3.68,
+            "avg30": 3.62,
+            "trend": 3.43,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Espurr-V2-POR095"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

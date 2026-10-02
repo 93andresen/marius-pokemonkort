@@ -1,0 +1,303 @@
+{
+  "query": "BS 1",
+  "results": [
+    {
+      "id": "pk_33c202e1fbe52a051f684f49dfa7206e8d4d65f68db7b27956fc825fe638cec16796bfd0b991a74dcdac8f55215d5288",
+      "card_info": {
+        "name": "Ryme - 221/197",
+        "clean_name": "Ryme",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "221/197",
+        "rarity": "Ultra Rare",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards. Switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.48,
+            "mid_price": 1.08,
+            "high_price": 30,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 1.02,
+            "direct_low_price": 1.66,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509975"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9298f818e3bcd1fa5a0e32b9a848410d6af7370162ef66d290119ec2cbbfd3c09fbf2faba586dee48701aadceaab282c",
+      "card_info": {
+        "name": "Pawniard",
+        "clean_name": "Pawniard",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "148/197",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Triple Cutter (10x)\r\n<br>Flip 3 coins. This attack does 10 damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": "G-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.07,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.23,
+            "high_price": 40,
+            "updated_at": "2026-10-02T10:48:30.269288",
+            "market_price": 0.22,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509935"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_199f5c330b52fca7375735080bd1bd2a213031cead7ee148ae7e3ff048e538167cd9d6d4b74e46b6df417d3f2228b3",
+      "card_info": {
+        "name": "Zebstrika - 029/086 (Poke Ball Pattern)",
+        "clean_name": "Zebstrika 029 086 Poke Ball Pattern",
+        "set_name": "SV11W: White Flare",
+        "set_code": "SV11W",
+        "set_id": "24350",
+        "card_number": "029/086",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Smash Kick (30)",
+          "[Lightning][Lightning][Colorless] Electrobullet (100)<br> This attack also does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.38,
+            "high_price": 1,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.38,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/637333"
+      },
+      "cardmarket": {
+        "product_name": "Zebstrika",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.22,
+            "avg7": 0.24,
+            "avg30": 0.29,
+            "trend": 0.26,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.25,
+            "avg30": 0.25,
+            "trend": 0.25,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare-JP-Additionals/Zebstrika-V1-xsv11W029"
+      }
+    },
+    {
+      "id": "pk_9feaf6e924050f905e57fd930be04c0713ffed762939debfa86e5c998e7fe5e56ae0e4459f11ac3e83cea3ceff6a19",
+      "card_info": {
+        "name": "Zebstrika",
+        "clean_name": "Zebstrika",
+        "set_name": "SV4M: Future Flash",
+        "set_code": "SV4M",
+        "set_id": "23611",
+        "card_number": "024/066",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Burst of Braying<br> Choose Basic Lightning Energy cards from your discard pile up to the number of Prize cards your opponent has taken and attach them to your Pokémon in any way you like.",
+          "[Lightning][Colorless][Colorless] Thunder (150)<br> This Pokémon also does 50 damage to itself."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.16,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.1,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/565984"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d1ed579f1a6004403a5b8225b2f8c3e29d6f2ee8a7e413d58b7218219f6a8da55e8238499a2b3f66672629dcdb9a7b",
+      "card_info": {
+        "name": "Rabsca",
+        "clean_name": "Rabsca",
+        "set_name": "SV8a: Terastal Fest ex",
+        "set_code": "SV8a",
+        "set_id": "23909",
+        "card_number": "014/187",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Grass] Psychic (10+)<br> This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        ],
+        "weakness": "[Fire] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.11,
+            "high_price": 0.79,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.1,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/602343"
+      },
+      "cardmarket": {
+        "product_name": "Rabsca",
+        "prices": [
+          {
+            "avg": 1.46,
+            "low": 0.5,
+            "avg1": 0.96,
+            "avg7": 1.51,
+            "avg30": 2.14,
+            "trend": 1.39,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Terastal-Festival-ex/Rabsca-sv8a014"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 645,
+    "total_pages": 129
+  },
+  "metadata": {
+    "total_count": 645,
+    "tcg": 392,
+    "cardmarket": 345,
+    "tcg_only": 300,
+    "cardmarket_only": 253,
+    "both_sources": 92
+  }
+}

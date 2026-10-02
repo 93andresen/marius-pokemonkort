@@ -1,0 +1,356 @@
+{
+  "query": "604 1",
+  "results": [
+    {
+      "id": "pk_52e941251b513a9a89ed019dac4ec22a9a2e93285c39ffe2c0d60f2bbd5c1f93beac5af8febf62a5474fba5a",
+      "card_info": {
+        "name": "Maintenance",
+        "clean_name": "Maintenance",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "083/102",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle 2 of the other cards from your hand into your deck in order to draw a card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.51,
+            "mid_price": 2.02,
+            "high_price": 28.51,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.06,
+            "direct_low_price": 1.84,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42429"
+      },
+      "cardmarket": {
+        "product_name": "Maintenance",
+        "prices": [
+          {
+            "avg": 4.26,
+            "low": 0.09,
+            "avg1": 5.75,
+            "avg7": 4.46,
+            "avg30": 4.08,
+            "trend": 4.09,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 1.13,
+            "avg30": 1.13,
+            "trend": 1,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Maintenance-V1-BS83"
+      }
+    },
+    {
+      "id": "pk_979a9c93d6304da63afd8f7192ceb7d9e049ea5e68fbbe56af79adebe08d3b0269192389c5ea1308a333cee36b9644",
+      "card_info": {
+        "name": "Quaxwell",
+        "clean_name": "Quaxwell",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "014/064",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Hydro Splash (120)"
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.15,
+            "high_price": 1.32,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579396"
+      },
+      "cardmarket": {
+        "product_name": "Quaxwell",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Quaxwell-sv7a014"
+      }
+    },
+    {
+      "id": "pk_1dc4b0034c9c2729cf58884f70f81fb390ccfd98a4ea92f274c6a16640a895565ec45014c671d0e972a1bfd0",
+      "card_info": {
+        "name": "Diglett",
+        "clean_name": "Diglett",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "047/102",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Dig (10)",
+          "[FF] Mud Slap (30)"
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.64,
+            "high_price": 18.66,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.77,
+            "direct_low_price": 0.81,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42390"
+      },
+      "cardmarket": {
+        "product_name": "Diglett",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2,
+            "avg7": 1.03,
+            "avg30": 1.03,
+            "trend": 2,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.06,
+            "low": 0.02,
+            "avg1": 0.72,
+            "avg7": 0.75,
+            "avg30": 1.11,
+            "trend": 0.25,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Diglett-V1-BS47"
+      }
+    },
+    {
+      "id": "pk_e722075c2b4f10cf3c094c00aabef3807a905c04380c6c4e22d30080ea75bf2f7fa6bcc4b4b0fe45eddb7d54a3",
+      "card_info": {
+        "name": "Pokemon Flute",
+        "clean_name": "Pokemon Flute",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "086/102",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose 1 Basic Pokémon card from your opponent's discard pile and put it onto his or her Bench. <em>(You can't play Pokémon Flute if your opponent's Bench is full.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.65,
+            "mid_price": 2,
+            "high_price": 37.6,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.81,
+            "direct_low_price": 1.73,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/108647"
+      },
+      "cardmarket": {
+        "product_name": "Pokémon Flute",
+        "prices": [
+          {
+            "avg": 3.57,
+            "low": 0.08,
+            "avg1": 11,
+            "avg7": 4.57,
+            "avg30": 3.55,
+            "trend": 4.22,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pokemon-Flute-V1-BS86"
+      }
+    },
+    {
+      "id": "pk_049642be21ffe7b81e1d985dfdcbcff74f93144b54bd3269f6bdb020137a09088baa1222c0095768e4353d2508",
+      "card_info": {
+        "name": "Pokemon Trader",
+        "clean_name": "Pokemon Trader",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "077/102",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.49,
+            "mid_price": 4.46,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.66,
+            "direct_low_price": 6.86,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/108648"
+      },
+      "cardmarket": {
+        "product_name": "Pokémon Trader",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.99,
+            "avg7": 2.06,
+            "avg30": 2.06,
+            "trend": 1.55,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.8,
+            "low": 1,
+            "avg1": 4.99,
+            "avg7": 6,
+            "avg30": 8.28,
+            "trend": 5.17,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pokemon-Trader-V1-BS77"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 122,
+    "total_pages": 25
+  },
+  "metadata": {
+    "total_count": 122,
+    "tcg": 122,
+    "cardmarket": 122,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 122
+  }
+}

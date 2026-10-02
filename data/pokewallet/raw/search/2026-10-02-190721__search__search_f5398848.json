@@ -1,0 +1,277 @@
+{
+  "query": "N1 8",
+  "results": [
+    {
+      "id": "pk_b9433cc2d572afa29799b27c5ac1394c888c8e9f57f49dc1732585fa4a798ff68fa6e30a8a231367900ace4691",
+      "card_info": {
+        "name": "Seadra",
+        "clean_name": "Seadra",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "048/111",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[WW] Mud Splash (30)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.85,
+            "mid_price": 2.42,
+            "high_price": 37.24,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.23,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 1.2,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.43,
+            "direct_low_price": 1.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89009"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4183f1e392fb776cb463d6ae28d9687a601e9ec032e6818b5512bc72aed25109a65dfed058414eb134d807256e",
+      "card_info": {
+        "name": "Super Energy Retrieval",
+        "clean_name": "Super Energy Retrieval",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "089/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.13,
+            "mid_price": 3.49,
+            "high_price": 35.34,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.4,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 2.16,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.35,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89628"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_33761935794c878c84ff0aa0984ddeba0c40982f428a1b3bf03adb3411c3da486bbe5160452122cbcc173c5ab1",
+      "card_info": {
+        "name": "Ecogym",
+        "clean_name": "Ecogym",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "084/111",
+        "rarity": "Rare",
+        "card_type": "Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n<br>\r\nWhenever an attack, Pokémon Power, or Trainer card discards another player's non-Colorless Energy card from a Pokémon, return that Energy card to its owner's hand. <em>(Energy cards that are discarded when that Pokémon is Knocked Out don't count.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.75,
+            "mid_price": 4,
+            "high_price": 53.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.49,
+            "mid_price": 2.98,
+            "high_price": 27.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.36,
+            "direct_low_price": 1.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85066"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cd08033dbd37eebb6ebf2aab0532ab31df42079998c0653cc183e2a73e678a4edc05dc94c611072ba899f00411",
+      "card_info": {
+        "name": "Energy Charge",
+        "clean_name": "Energy Charge",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "085/111",
+        "rarity": "Rare",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.4,
+            "high_price": 96.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.33,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.89,
+            "mid_price": 2.85,
+            "high_price": 37.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.01,
+            "direct_low_price": 3.1,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85210"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bf7329b6e9ed904af75d8f7799c3c94c7e18db1f8e023e779a99e2afb138525e63ba618157418082c09777737c",
+      "card_info": {
+        "name": "Arcade Game (Goldenrod Game Corner)",
+        "clean_name": "Arcade Game Goldenrod Game Corner",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "083/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle your deck, then reveal the top 3 cards of it. If at least 2 of those cards share the same name, put all of the ones with that name into your hand and shuffle the rest into your deck. If none of them do, shuffle all 3 into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13,
+            "mid_price": 22.85,
+            "high_price": 125,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 9.97,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.88,
+            "mid_price": 6.4,
+            "high_price": 4315.03,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 7.83,
+            "direct_low_price": 6.4,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83573"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 20,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 20,
+    "tcg": 20,
+    "cardmarket": 0,
+    "tcg_only": 20,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

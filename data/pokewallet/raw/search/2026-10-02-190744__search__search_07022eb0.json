@@ -1,0 +1,88 @@
+{
+  "query": "24600 094",
+  "results": [
+    {
+      "id": "pk_4b12268f3d797639ba2b2117cccd74e1ae6d3656dc12d4bafe471d7e3f1562d9a01d801d6f21d179349320243e803b",
+      "card_info": {
+        "name": "Salazzle ex - 094/080",
+        "clean_name": "Salazzle ex",
+        "set_name": "M3: Nihil Zero",
+        "set_code": "M3",
+        "set_id": "24600",
+        "card_number": "094/080",
+        "rarity": "Super Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Fire] Nasty Plot<br> Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+          "[Fire][Fire] Fatal Nail (100)<br> Your opponent's Active Pokémon is now Burned and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.44,
+            "mid_price": 2.8,
+            "high_price": 7.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.5,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/674413"
+      },
+      "cardmarket": {
+        "product_name": "Salazzle ex",
+        "prices": [
+          {
+            "avg": 2.15,
+            "low": 0.4,
+            "avg1": 1.4,
+            "avg7": 2.07,
+            "avg30": 2.28,
+            "trend": 1.94,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Nihil-Zero/Salazzle-ex-V2-m3094"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "query": "635 54",
+  "results": [
+    {
+      "id": "pk_543e0e2a5e672ffa93396dff53b075895f9b22285f6776072bd27d8564294ed071fbb2ae9fcd0bb3b87a98455f6c1c",
+      "card_info": {
+        "name": "Magearna",
+        "clean_name": "Magearna",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "054/076",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Metal] Overhaul<br> Shuffle your hand into your deck. Then, draw 6 cards.",
+          "[Metal][Colorless] Windup Cannon (10+)<br> This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        ],
+        "weakness": "Fire x2",
+        "resistance": "Grass -30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.44,
+            "high_price": 1.78,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.44,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571949"
+      },
+      "cardmarket": {
+        "product_name": "Magearna",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.27,
+            "avg30": 0.27,
+            "trend": 0.24,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.31,
+            "avg30": 0.27,
+            "trend": 0.41,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Magearna-s3a54"
+      }
+    },
+    {
+      "id": "pk_d780213ed78195def48858d2d12e3eb1c489cc01581ff04cc21077dfa3681bdc048cd8b37a94b51452b8c0",
+      "card_info": {
+        "name": "Jigglypuff",
+        "clean_name": "Jigglypuff",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "54/64",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[2] Pound (20)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.96,
+            "mid_price": 6,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 7.17,
+            "direct_low_price": 5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.97,
+            "high_price": 17.56,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.74,
+            "direct_low_price": 1.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45157"
+      },
+      "cardmarket": {
+        "product_name": "Jigglypuff",
+        "prices": [
+          {
+            "avg": 1.08,
+            "low": 0.02,
+            "avg1": 0.26,
+            "avg7": 1.17,
+            "avg30": 1.11,
+            "trend": 1.18,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 0.25,
+            "avg30": 0.25,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jigglypuff-JU54"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

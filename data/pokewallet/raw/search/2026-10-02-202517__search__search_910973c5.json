@@ -1,0 +1,402 @@
+{
+  "query": "635 4",
+  "results": [
+    {
+      "id": "pk_db687684878eab921cb60d0d25879fbc91520919b394ec34543525b6d9ce9021f9f0c3de085be2dad42d44",
+      "card_info": {
+        "name": "Paras",
+        "clean_name": "Paras",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "59/64",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scratch (20)",
+          "[GG] Spore\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.84,
+            "mid_price": 2.03,
+            "high_price": 19.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.03,
+            "direct_low_price": 2.97,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.18,
+            "mid_price": 0.46,
+            "high_price": 48,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45162"
+      },
+      "cardmarket": {
+        "product_name": "Paras",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.29,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.29,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.2,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.37,
+            "avg30": 0.88,
+            "trend": 1.04,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Paras-JU59"
+      }
+    },
+    {
+      "id": "pk_c50e6788fda08a117e89c5dd160355616806a7f34ba21fa9e9ecbb9b1138239a3b648e558937a1de016ab8ea",
+      "card_info": {
+        "name": "Vileplume (31)",
+        "clean_name": "Vileplume 31",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "31/64",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Heal</strong> Once during your turn <em>(before your attack)</em>, you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GGG] Petal Dance (40x)\r\n<br>Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused <em>(after doing damage)</em>."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.01,
+            "mid_price": 17.43,
+            "high_price": 167.47,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 16.12,
+            "direct_low_price": 17,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.05,
+            "mid_price": 6.01,
+            "high_price": 4316.53,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 7.61,
+            "direct_low_price": 45.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106993"
+      },
+      "cardmarket": {
+        "product_name": "Vileplume",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 4.81,
+            "avg30": 13.79,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.02,
+            "low": 0.4,
+            "avg1": 3.82,
+            "avg7": 5.59,
+            "avg30": 5.52,
+            "trend": 6.68,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vileplume-V2-JU31"
+      }
+    },
+    {
+      "id": "pk_f3aa75c7d573cb83cbdd4f3765fedc2b5fec26df1b7e86158b3d1d126789be97772b2958c317e95e4e31e77e",
+      "card_info": {
+        "name": "Wigglytuff (32)",
+        "clean_name": "Wigglytuff 32",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "32/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.89,
+            "mid_price": 16.49,
+            "high_price": 101.74,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 21.65,
+            "direct_low_price": 20,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3,
+            "mid_price": 5.59,
+            "high_price": 164.2,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 8.53,
+            "direct_low_price": 9.74,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106994"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.2,
+            "avg7": 5.69,
+            "avg30": 14.02,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.64,
+            "low": 0.4,
+            "avg1": 4,
+            "avg7": 9.39,
+            "avg30": 8.51,
+            "trend": 7.49,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Wigglytuff-V2-JU32"
+      }
+    },
+    {
+      "id": "pk_079b08f45ee73fc43ad9e27125b4c4dcb49476a45b41c59255e42e2a128d59ce36e4cf955a9e449bd240826e400f47",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "024/076",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Psychic][Colorless][Colorless] Magical Shot (80)"
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.21,
+            "mid_price": 0.34,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.42,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571922"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "trend": 0.06,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.99,
+            "avg7": 1.99,
+            "avg30": 1.99,
+            "trend": 1.99,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Clefable-s3a24"
+      }
+    },
+    {
+      "id": "pk_c1e78e27a6568848eea2d8626b60bf5a68a8a93822a73f9e393f39306aab3fa9b4c0ad209d5f0cf60767b1",
+      "card_info": {
+        "name": "Lickitung",
+        "clean_name": "Lickitung",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "38/64",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tongue Wrap (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2] Supersonic\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.62,
+            "direct_low_price": 0.87,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.79,
+            "mid_price": 7.32,
+            "high_price": 98.89,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 7.33,
+            "direct_low_price": 7,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45141"
+      },
+      "cardmarket": {
+        "product_name": "Lickitung",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.8,
+            "avg7": 0.6,
+            "avg30": 0.6,
+            "trend": 0.8,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.3,
+            "low": 0.02,
+            "avg1": 0.57,
+            "avg7": 2.08,
+            "avg30": 1.59,
+            "trend": 4.23,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Lickitung-JU38"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 83,
+    "total_pages": 17
+  },
+  "metadata": {
+    "total_count": 83,
+    "tcg": 83,
+    "cardmarket": 83,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 83
+  }
+}

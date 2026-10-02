@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=SWSH09%3A+Brilliant+Stars+0&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 17:07:57 GMT
+Content-Type: application/json
+Content-Length: 4289
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 747
+X-RateLimit-Remaining-Hour: 45
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fft53a0SItKswlPbOCDZIh7scgCljWoCjGbX7tXWp%2BGXMRGNsJaHnU%2BFIiswsK69%2FQEIgb0KCnJKyaxiyC3UPsmdc%2BUdOoNFT5E1W63nP4UiBSsBqM5KgGxTP7v2BzAp%2FMqw4vjdRBQFukfdOyapUA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4454e628a9e568b-OSL
+alt-svc: h3=":443"; ma=86400

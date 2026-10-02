@@ -1,0 +1,167 @@
+{
+  "query": "635 48",
+  "results": [
+    {
+      "id": "pk_a2c868b5a8f22ed44082a71d7a1a0e4aedd95762bf4942b85fb6ee48fcaea369caef40cc7d6df5487dd73f00089fe8",
+      "card_info": {
+        "name": "Metang",
+        "clean_name": "Metang",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "048/076",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Metal][Colorless] Metal Claw (30)",
+          "[Metal][Colorless][Colorless] Magnetic Blast (60)"
+        ],
+        "weakness": "Fire x2",
+        "resistance": "Grass -30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.18,
+            "mid_price": 0.25,
+            "high_price": 0.88,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571953"
+      },
+      "cardmarket": {
+        "product_name": "Metang",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.08,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Metang-s3a48"
+      }
+    },
+    {
+      "id": "pk_0e47420544a15eaa773e785d8827938dcdb514cd1937eb0d034abbc2192a86eb990aa794f3d79635bc51ce",
+      "card_info": {
+        "name": "Weepinbell",
+        "clean_name": "Weepinbell",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "48/64",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Poisonpowder (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "[GG] Razor Leaf (30)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 3.5,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.74,
+            "direct_low_price": 3,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.6,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.6,
+            "direct_low_price": 0.78,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45151"
+      },
+      "cardmarket": {
+        "product_name": "Weepinbell",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.43,
+            "avg30": 0.43,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.85,
+            "low": 0.02,
+            "avg1": 0.44,
+            "avg7": 0.53,
+            "avg30": 0.83,
+            "trend": 0.91,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Weepinbell-JU48"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "query": "604 81",
+  "results": [
+    {
+      "id": "pk_00b5dc543b178932c9fa2e714434bfd47060ff72e206017db203799a9b3b44c92858686710e4387c48aefe3d",
+      "card_info": {
+        "name": "Energy Retrieval",
+        "clean_name": "Energy Retrieval",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "081/102",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.5,
+            "high_price": 17.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42427"
+      },
+      "cardmarket": {
+        "product_name": "Energy Retrieval",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.04,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.74,
+            "low": 0.02,
+            "avg1": 2.13,
+            "avg7": 0.78,
+            "avg30": 0.8,
+            "trend": 1.32,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Energy-Retrieval-V1-BS81"
+      }
+    },
+    {
+      "id": "pk_2add87050b67afe6d82d6462b209d0dc1fccd36a33fc45a1c07a651f5e5909dcefa8ba7ac8332aa3b1b296875db79f",
+      "card_info": {
+        "name": "Alolan Exeggutor ex - 081/064",
+        "clean_name": "Alolan Exeggutor ex",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "081/064",
+        "rarity": "Super Rare",
+        "card_type": "Dragon;Dragon",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless][Colorless] Break Through (130)<br> This attack also does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Grass][Fire][Psychic] Zircon Road (180)<br> You may draw 5 cards."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.43,
+            "mid_price": 2.39,
+            "high_price": 5,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 1.97,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579463"
+      },
+      "cardmarket": {
+        "product_name": "Alolan Exeggutor ex",
+        "prices": [
+          {
+            "avg": 2.6,
+            "low": 1.2,
+            "avg1": 1.9,
+            "avg7": 3.93,
+            "avg30": 2.58,
+            "trend": 2.72,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Alolan-Exeggutor-ex-V2-sv7a081"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

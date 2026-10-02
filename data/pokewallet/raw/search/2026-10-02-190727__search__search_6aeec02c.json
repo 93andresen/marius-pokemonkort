@@ -1,0 +1,88 @@
+{
+  "query": "24325 160",
+  "results": [
+    {
+      "id": "pk_0618f0c2d2f265c829e60c6b083d3c13d1d132378f4f0d0dbe3eee1beca9741608752a08a762723acb62e7a4eef0e484",
+      "card_info": {
+        "name": "Excadrill ex - 160/086",
+        "clean_name": "Excadrill ex",
+        "set_name": "SV: Black Bolt",
+        "set_code": "BLK",
+        "set_id": "24325",
+        "card_number": "160/086",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[FF] Piercing Drill (60)<br> This attack also does 60 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[FFF] Rock Tumble (200)<br> This attack's damage isn't affected by Resistance."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 0.99,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.81,
+            "direct_low_price": 0.8,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/642612"
+      },
+      "cardmarket": {
+        "product_name": "Excadrill ex",
+        "prices": [
+          {
+            "avg": 0.97,
+            "low": 0.2,
+            "avg1": 1.25,
+            "avg7": 0.88,
+            "avg30": 0.99,
+            "trend": 0.97,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt/Excadrill-ex-V2-BLK160"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

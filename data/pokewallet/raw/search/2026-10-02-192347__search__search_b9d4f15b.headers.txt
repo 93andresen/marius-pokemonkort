@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Gem+Pack+Vol.4+0702&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 17:23:47 GMT
+Content-Type: application/json
+Content-Length: 206
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 711
+X-RateLimit-Remaining-Hour: 9
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0hcXW1CGONHh%2B6vzN4JIt2hWqkxc0AGl1hq967ZUNM1sz%2Fs2xe0xGOlkHaJkuY92Qkc5zxNg%2BuiEbLkGOSr8CF3aYMwbxFhF0ZWPn52GUTPwU7vj2bPEyjCCjBku0lK0Je3P7WXRwES9QsqJOi2EXw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4456599ad02b521-OSL
+alt-svc: h3=":443"; ma=86400

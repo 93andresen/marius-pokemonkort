@@ -1,0 +1,283 @@
+{
+  "query": "Neo Genesis 8",
+  "results": [
+    {
+      "id": "pk_11ba3d2ab6faa7ce21f0af4a5408d74284aa3081068eeaa30b3b75e13670b9d93ab18cabe14927d0f8e7649fbd",
+      "card_info": {
+        "name": "Focus Band",
+        "clean_name": "Focus Band",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "086/111",
+        "rarity": "Rare",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Focus Band to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n<br>\r\nIf the Pokémon Focus Band is attached to would be Knocked Out by your opponent's attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.4,
+            "mid_price": 49.42,
+            "high_price": 117.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 17.06,
+            "direct_low_price": 38.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.88,
+            "mid_price": 12.24,
+            "high_price": 251,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 11.63,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85536"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cd08033dbd37eebb6ebf2aab0532ab31df42079998c0653cc183e2a73e678a4edc05dc94c611072ba899f00411",
+      "card_info": {
+        "name": "Energy Charge",
+        "clean_name": "Energy Charge",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "085/111",
+        "rarity": "Rare",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.89,
+            "mid_price": 2.85,
+            "high_price": 37.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.01,
+            "direct_low_price": 3.1,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1,
+            "mid_price": 2.4,
+            "high_price": 96.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.33,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85210"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f0bb7daffce1cc1fa06cfb853598f45bc8139cab75b97fcb46c2255c22793ed60187ae9d54d8a21237d1216bd8",
+      "card_info": {
+        "name": "Wooper",
+        "clean_name": "Wooper",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "082/111",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Amnesia\r\n<br>Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "[2] Slam (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.72,
+            "high_price": 23.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.99,
+            "direct_low_price": 1.5,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 9.68,
+            "high_price": 36.86,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 9.64,
+            "direct_low_price": 8.05,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90632"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fa6f1636ccd356a500d6a2af0720eda65816adaebd1fbacefaaa34f8e4f912587436ef87cfa8cf2ecd11ec4af1",
+      "card_info": {
+        "name": "Totodile (80)",
+        "clean_name": "Totodile 80",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "080/111",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[1W] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Totodile."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.5,
+            "high_price": 90,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.92,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 5.17,
+            "mid_price": 11.41,
+            "high_price": 152.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 13.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89991"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b9433cc2d572afa29799b27c5ac1394c888c8e9f57f49dc1732585fa4a798ff68fa6e30a8a231367900ace4691",
+      "card_info": {
+        "name": "Seadra",
+        "clean_name": "Seadra",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "048/111",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[WW] Mud Splash (30)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.85,
+            "mid_price": 2.42,
+            "high_price": 37.24,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.23,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 1.2,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.43,
+            "direct_low_price": 1.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89009"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 20,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 20,
+    "tcg": 20,
+    "cardmarket": 0,
+    "tcg_only": 20,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

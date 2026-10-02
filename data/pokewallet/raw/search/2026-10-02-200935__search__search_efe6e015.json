@@ -1,0 +1,356 @@
+{
+  "query": "Base Set 1",
+  "results": [
+    {
+      "id": "pk_c827cb6cfd7c62066a60cff790c485844553fc9808c3846a219475978df4794a8d3eb3eb6d3c8a49b5805b4450",
+      "card_info": {
+        "name": "Yveltal EX",
+        "clean_name": "Yveltal EX",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "79/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1D] Evil Ball (20+) \r\n<br>This attack does 20 more damage times the amount of Energy attached to both Active Pokemon.",
+          "[2D] Y Cyclone (90) \r\n<br>Move an Energy from this Pokemon to 1 of your Benched Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.55,
+            "mid_price": 13.63,
+            "high_price": 149.49,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 15.81,
+            "direct_low_price": 10.28,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90699"
+      },
+      "cardmarket": {
+        "product_name": "Yveltal EX",
+        "prices": [
+          {
+            "avg": 9.87,
+            "low": 2,
+            "avg1": 15,
+            "avg7": 10.71,
+            "avg30": 8.89,
+            "trend": 13.17,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 4.31,
+            "avg30": 3.99,
+            "trend": 4.46,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Yveltal-EX-V1-XY79"
+      }
+    },
+    {
+      "id": "pk_96d1e5223780042a7e510bbb7f180a0e5b19210454f48f019f57a2c2648c72821d37f7c27e246a767a",
+      "card_info": {
+        "name": "Fairy Energy",
+        "clean_name": "Fairy Energy",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": null,
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "©2020 Unnumbered",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.99,
+            "mid_price": 10.25,
+            "high_price": 79.38,
+            "updated_at": "2026-10-02T10:48:32.798658",
+            "market_price": 4.21,
+            "direct_low_price": 5.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/209565"
+      },
+      "cardmarket": {
+        "product_name": "Fairy Energy",
+        "prices": [
+          {
+            "avg": 0.28,
+            "low": 0.05,
+            "avg1": 0.41,
+            "avg7": 0.31,
+            "avg30": 0.24,
+            "trend": 0.42,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.9,
+            "low": 0.92,
+            "avg1": 4.9,
+            "avg7": 3.35,
+            "avg30": 2.44,
+            "trend": 3.15,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Fairy-Energy-SSH"
+      }
+    },
+    {
+      "id": "pk_29be2e7f4a9f3eee5bcd74686768b0f18820d75c88c939e2872dd6565e8ce13d17d39034ed4c95223255954db96440",
+      "card_info": {
+        "name": "Hop",
+        "clean_name": "Hop",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "165/202",
+        "rarity": "Uncommon",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.37,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:32.798658",
+            "market_price": 0.36,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 17.82,
+            "updated_at": "2026-10-02T10:48:32.798658",
+            "market_price": 0.16,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208491"
+      },
+      "cardmarket": {
+        "product_name": "Hop",
+        "prices": [
+          {
+            "avg": 0.67,
+            "low": 0.02,
+            "avg1": 0.8,
+            "avg7": 0.61,
+            "avg30": 0.46,
+            "trend": 0.74,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.03,
+            "avg30": 0.07,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hop-SSH165"
+      }
+    },
+    {
+      "id": "pk_5e6469657488992d0262e96a7edcd84426e914225369ebd93a1d77c8c9f33ac751471c333fb0ffce16873f47e380b7",
+      "card_info": {
+        "name": "Pawniard",
+        "clean_name": "Pawniard",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "133/202",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Slice (10)",
+          "[1M] Metal Claw (20)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.17,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:32.798658",
+            "market_price": 0.04,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208444"
+      },
+      "cardmarket": {
+        "product_name": "Pawniard",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.36,
+            "low": 0.07,
+            "avg1": 0.2,
+            "avg7": 0.35,
+            "avg30": 0.3,
+            "trend": 0.24,
+            "updated_at": "2026-10-02T10:25:34.268062",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pawniard-SSH133"
+      }
+    },
+    {
+      "id": "pk_08799b782e7c53eb40d88ccdf41e04e8381254b416896d875b21d6fb798359bff5c9312ef973f4fcb4acecd7",
+      "card_info": {
+        "name": "Seel",
+        "clean_name": "Seel",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "061/130",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Headbutt (10)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.23,
+            "mid_price": 0.75,
+            "high_price": 100,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.93,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42524"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 413,
+    "total_pages": 83
+  },
+  "metadata": {
+    "total_count": 413,
+    "tcg": 413,
+    "cardmarket": 185,
+    "tcg_only": 228,
+    "cardmarket_only": 0,
+    "both_sources": 185
+  }
+}

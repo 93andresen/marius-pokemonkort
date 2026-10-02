@@ -1,0 +1,167 @@
+{
+  "query": "635 33",
+  "results": [
+    {
+      "id": "pk_d20ba3c0e7ef70f37ef629bad7bda55c88d1c63aef77eee60edf74d2f9b81feaf30c5be7545278beba4c535735d1fa",
+      "card_info": {
+        "name": "Zacian",
+        "clean_name": "Zacian",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "033/076",
+        "rarity": "Amazing Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Metal Armament (30)<br> Attach a basic Energy card from your discard pile to this Pokémon.",
+          "[Grass][Psychic][Metal] Amazing Sword (150+)<br> If your opponent has any Pokémon VMAX in play, this attack does 150 more damage."
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.99,
+            "mid_price": 13.76,
+            "high_price": 25,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 14.13,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571990"
+      },
+      "cardmarket": {
+        "product_name": "Zacian",
+        "prices": [
+          {
+            "avg": 12.56,
+            "low": 7.5,
+            "avg1": 11.97,
+            "avg7": 13.75,
+            "avg30": 20.22,
+            "trend": 17.38,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.95,
+            "avg7": 13.74,
+            "avg30": 14.27,
+            "trend": 13.48,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Zacian-s3a33"
+      }
+    },
+    {
+      "id": "pk_7d11d50a6d50847c77bd6823d254485585acd8a9c2e40d0cc6148bcd3acd7b480fba6ecd86f5d558759c03",
+      "card_info": {
+        "name": "Butterfree",
+        "clean_name": "Butterfree",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "33/64",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Whirlwind (20)\r\n<br>If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching Pokémon.)</em>",
+          "[GGGG] Mega Drain (40)\r\n<br>Remove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em> (rounded up to the nearest 10)."
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.37,
+            "mid_price": 1.73,
+            "high_price": 30,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.86,
+            "direct_low_price": 2.6,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2.99,
+            "mid_price": 9.96,
+            "high_price": 159.54,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 13.14,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45136"
+      },
+      "cardmarket": {
+        "product_name": "Butterfree",
+        "prices": [
+          {
+            "avg": 2.23,
+            "low": 0.05,
+            "avg1": 1.35,
+            "avg7": 2.11,
+            "avg30": 2.24,
+            "trend": 2.27,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.48,
+            "avg30": 0.48,
+            "trend": 0.41,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Butterfree-JU33"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

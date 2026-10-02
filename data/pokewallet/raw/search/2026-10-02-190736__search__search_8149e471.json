@@ -1,0 +1,93 @@
+{
+  "query": "24587 022",
+  "results": [
+    {
+      "id": "pk_6b6058efd9c802b1e389e3e8417beba544e9241a26832cdb57cb00689cbefae026c62e996e138527db0318cb5e5150",
+      "card_info": {
+        "name": "Lapras ex",
+        "clean_name": "Lapras ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "022/088",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Hydro Turn (30x)<br> This attack does 30 damage for each Water Energy attached to this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon.",
+          "[WWW] Surf (140)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 0.71,
+            "high_price": 48,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.55,
+            "direct_low_price": 0.61,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684329"
+      },
+      "cardmarket": {
+        "product_name": "Lapras ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.55,
+            "low": 0.02,
+            "avg1": 0.63,
+            "avg7": 0.5,
+            "avg30": 0.54,
+            "trend": 0.51,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Lapras-ex-POR022"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "query": "24688 083",
+  "results": [
+    {
+      "id": "pk_ea680540faf273481e5584c300b5f805752b335a1cf1ba19313afb2b6a5cb40f4185a0982d1bdbfc87b3556139f3e5",
+      "card_info": {
+        "name": "Shadowy Darkness Energy",
+        "clean_name": "Shadowy Darkness Energy",
+        "set_name": "Pitch Black",
+        "set_code": "PBL",
+        "set_id": "24688",
+        "card_number": "083/084",
+        "rarity": "Rare",
+        "card_type": "Special Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 2.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.24,
+            "direct_low_price": 0.21,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 44,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.16,
+            "direct_low_price": 0.11,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/704840"
+      },
+      "cardmarket": {
+        "product_name": "Shadowy [D] Energy (PBL 083)",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.07,
+            "avg30": 0.07,
+            "trend": 0.07,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.12,
+            "avg30": 0.13,
+            "trend": 0.13,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Shadowy-D-Energy-PBL083"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

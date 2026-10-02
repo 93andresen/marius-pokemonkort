@@ -1,0 +1,224 @@
+{
+  "query": "SWSH09: Brilliant Stars 0",
+  "results": [
+    {
+      "id": "pk_c39006e1899502137dd1afdbe95f9ad83e3e3bf4006ec6c6c0ef526e8e06d7dd2bb0cf2f09f5cc2521",
+      "card_info": {
+        "name": "Brilliant Stars Booster Box",
+        "clean_name": "Brilliant Stars Booster Box",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Sword & Shield— Brilliants Stars booster box contains 36 booster packs. <em>(Each pack contains 10 random cards)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 524.01,
+            "mid_price": 649.99,
+            "high_price": 5000,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 569.81,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/256141"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_87c706d082948339f78c53c2efc18288618a4205d592b53904d919fd3eca9d8a5f99133bab7f958c58",
+      "card_info": {
+        "name": "Brilliant Stars Build & Battle Box Display",
+        "clean_name": "Brilliant Stars Build and Battle Box Display",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each display contains 10 Brilliant Stars Build & Battle Boxes.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 688,
+            "mid_price": 769.99,
+            "high_price": 998.95,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 629.28,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/256144"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7ef740b6718ea6bdf7c1b1f6b95ec9a5f838145163aa9d45c4a85f4bb735357df7b707379c5f5a4a1b",
+      "card_info": {
+        "name": "Brilliant Stars Fun Pack",
+        "clean_name": "Brilliant Stars Fun Pack",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Brilliant Stars Fun Pack contains 3 random cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.16,
+            "mid_price": 7.16,
+            "high_price": 7.16,
+            "updated_at": "2026-09-30T11:17:19.027764",
+            "market_price": 7.14,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509881"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ba1508105904670e4b23d75557e793f23d1f5cb39ff2cdadbafb7a470b20d719d10c7e81d9980423d0",
+      "card_info": {
+        "name": "Brilliant Stars Booster Pack",
+        "clean_name": "Brilliant Stars Booster Pack",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Brilliant Stars booster pack contains 10 random cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.89,
+            "mid_price": 17,
+            "high_price": 29.99,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 17.03,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/256124"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_284a71d84e7d273e3f3a6583ef2a430400eed125e80bb431b9eb8d32d83258095e7aa3c0c6e64a544f",
+      "card_info": {
+        "name": "Brilliant Stars Sleeved Booster Pack",
+        "clean_name": "Brilliant Stars Sleeved Booster Pack",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Brilliant Stars sleeved booster pack contains 10 random cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 18.5,
+            "mid_price": 21.17,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 19.88,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/256125"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 28,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 28,
+    "tcg": 28,
+    "cardmarket": 0,
+    "tcg_only": 28,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

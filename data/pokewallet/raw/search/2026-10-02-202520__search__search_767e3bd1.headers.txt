@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=JU+4&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 18:25:20 GMT
+Content-Type: application/json
+Content-Length: 5630
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 664
+X-RateLimit-Remaining-Hour: 60
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=91vuPoKqHagHypoHVSkxkYmx1tnrEFxj3ulubHO6%2BxOx2QMDYV%2BXOGIic0InMNz%2FDbOYW7uON3uPfqIos8ciQ5HfeIDWGnnttVQq5JKMuEzGLmAPCvMUbele2YPIri8OuBauKyEJZN0pkrCXjtom9Q%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a445bfb34c2e35a6-OSL
+alt-svc: h3=":443"; ma=86400

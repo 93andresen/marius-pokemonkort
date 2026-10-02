@@ -1,0 +1,92 @@
+{
+  "query": "24655 073",
+  "results": [
+    {
+      "id": "pk_0559fdc21cd36726cfa912643828a288aaecf192123e3ee9a26db6df8264bf79de0593574b41adc20af694df9c71bf",
+      "card_info": {
+        "name": "Cinccino ex - 073/086",
+        "clean_name": "Cinccino ex 073 086",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "073/086",
+        "rarity": "Double Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Energized Slap (40x)<br> This attack does 40 damage for each Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.75,
+            "high_price": 999.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.63,
+            "direct_low_price": 0.88,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693463"
+      },
+      "cardmarket": {
+        "product_name": "Cinccino ex (CRI 073)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.48,
+            "low": 0.02,
+            "avg1": 0.41,
+            "avg7": 0.44,
+            "avg30": 0.46,
+            "trend": 0.46,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Cinccino-ex-V1-CRI073"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

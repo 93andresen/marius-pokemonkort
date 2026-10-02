@@ -1,0 +1,89 @@
+{
+  "query": "24399 029",
+  "results": [
+    {
+      "id": "pk_4c6411ddd156628208cbc5a225cdc3541466822a14214104d8d21db537b477aa45551f7c5b3d6775dffefc59237d31",
+      "card_info": {
+        "name": "Mega Lucario ex - 029/063",
+        "clean_name": "Mega Lucario ex",
+        "set_name": "m1L: Mega Brave",
+        "set_code": "m1L",
+        "set_id": "24399",
+        "card_number": "029/063",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "340.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "2.0",
+          "[Fighting] Aura Jab (130)<br> Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like.",
+          "[Fighting][Fighting] Mega Brave (270)<br> During your next turn, this Pokémon can't use Mega Brave."
+        ],
+        "weakness": "[Psychic]x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.51,
+            "high_price": 7.95,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.47,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/647138"
+      },
+      "cardmarket": {
+        "product_name": "Mega Lucario ex",
+        "prices": [
+          {
+            "avg": 0.26,
+            "low": 0.04,
+            "avg1": 0.33,
+            "avg7": 0.32,
+            "avg30": 0.27,
+            "trend": 0.28,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:50.767486",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Brave/Mega-Lucario-ex-V1-m1L029"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

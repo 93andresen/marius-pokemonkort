@@ -1,0 +1,101 @@
+{
+  "query": "24655 007",
+  "results": [
+    {
+      "id": "pk_57715dc09938ab68315ed4b1f8691cddd1f8707e4235d145a966e7501fc3894c06bbac4fb213eb4358b00d005dc0",
+      "card_info": {
+        "name": "Chesnaught",
+        "clean_name": "Chesnaught",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "007/086",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[GGC] Impound (160)<br> During your opponent's next turn, the Defending Pokémon can't retreat."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 14.2,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.2,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 14.2,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.21,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693460"
+      },
+      "cardmarket": {
+        "product_name": "Chesnaught (CRI 007)",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.06,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Chesnaught-CRI007"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

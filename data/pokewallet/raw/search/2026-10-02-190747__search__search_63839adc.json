@@ -1,0 +1,101 @@
+{
+  "query": "24655 051",
+  "results": [
+    {
+      "id": "pk_9abd30c72116d9b09a1f81ea12d63a4d79189295c65f43f7d6649f7a8a68b65ca91cc8e56044c6d845409c2b8e9a4c",
+      "card_info": {
+        "name": "Crobat - 051/086",
+        "clean_name": "Crobat 051 086",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "051/086",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Poison Sound Wave (80)<br> Your opponent's Active Pokémon is now Confused and Poisoned."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 6.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.23,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 14.14,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.14,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693470"
+      },
+      "cardmarket": {
+        "product_name": "Crobat (CRI 051)",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Crobat-V1-CRI051"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

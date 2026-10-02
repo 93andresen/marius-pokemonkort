@@ -1,0 +1,413 @@
+{
+  "query": "Jungle 4",
+  "results": [
+    {
+      "id": "pk_78bf43ae1242fd561e037e4f8016501fcd3c57d06832f2b469a02e3da63212f3330ed91850c6727cd345e9",
+      "card_info": {
+        "name": "Primeape",
+        "clean_name": "Primeape",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "43/64",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[FF] Fury Swipes (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "[1FF] Tantrum (50)\r\n<br>Flip a coin. If tails, Primeape is now Confused <em>(after doing damage)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 0.99,
+            "high_price": 26.2,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.2,
+            "direct_low_price": 0.76,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.99,
+            "mid_price": 6.2,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45146"
+      },
+      "cardmarket": {
+        "product_name": "Primeape",
+        "prices": [
+          {
+            "avg": 1.63,
+            "low": 0.05,
+            "avg1": 0.57,
+            "avg7": 1.45,
+            "avg30": 1.64,
+            "trend": 1.13,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.4,
+            "avg7": 1.44,
+            "avg30": 1.44,
+            "trend": 2.05,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Primeape-JU43"
+      }
+    },
+    {
+      "id": "pk_9f5c6ecb024f752cd95254607d2c7f45cebb2b528cc85cd53b81318a004ac2a32c5dc78a8c43a19f175c8db5",
+      "card_info": {
+        "name": "Kangaskhan (21)",
+        "clean_name": "Kangaskhan 21",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "21/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fetch\r\n<br>Draw a card.",
+          "[4] Comet Punch (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.49,
+            "mid_price": 18.77,
+            "high_price": 299.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 19.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.69,
+            "mid_price": 4.27,
+            "high_price": 58.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.9,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106983"
+      },
+      "cardmarket": {
+        "product_name": "Kangaskhan",
+        "prices": [
+          {
+            "avg": 7.04,
+            "low": 0.3,
+            "avg1": 4.29,
+            "avg7": 6.12,
+            "avg30": 7.71,
+            "trend": 9.06,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 2.73,
+            "avg30": 3.06,
+            "trend": 2.38,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Kangaskhan-V2-JU21"
+      }
+    },
+    {
+      "id": "pk_d23ec3f6569f334c249ff3ebf4a1d5b40573f80dd466bf95695e3549cd6dd409b043787cf8f81b18122814d9",
+      "card_info": {
+        "name": "Snorlax (27)",
+        "clean_name": "Snorlax 27",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "27/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Thick Skinned</strong>\r\n<br>\r\nSnorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[4] Body Slam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 58.99,
+            "mid_price": 63.01,
+            "high_price": 99.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 78.89,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 11.83,
+            "mid_price": 15.21,
+            "high_price": 96.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 22.97,
+            "direct_low_price": 13.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106989"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 14.56,
+            "avg30": 11.62,
+            "trend": 18.82,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.18,
+            "low": 1,
+            "avg1": 12.5,
+            "avg7": 16.18,
+            "avg30": 15.48,
+            "trend": 12.78,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Snorlax-V2-JU27"
+      }
+    },
+    {
+      "id": "pk_ec44225ae22bf351da0bc0a6e42dc8f90c5fd7c7815f95d97c13f5b129a52639f8a7d0acb15e4218644b4f59",
+      "card_info": {
+        "name": "Nidoqueen (23)",
+        "clean_name": "Nidoqueen 23",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "23/64",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1G] Boyfriends (20+)\r\n<br>Does 20 damage plus 20 more damage for each Nidoking you have in play.",
+          "[2GG] Mega Punch (50)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.99,
+            "mid_price": 25,
+            "high_price": 224.69,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 22.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 7.99,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 9.05,
+            "direct_low_price": 24.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106985"
+      },
+      "cardmarket": {
+        "product_name": "Nidoqueen",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11,
+            "avg7": 13.17,
+            "avg30": 13.27,
+            "trend": 23.13,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.53,
+            "low": 0.9,
+            "avg1": 6.98,
+            "avg7": 8.33,
+            "avg30": 7.2,
+            "trend": 9.77,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Nidoqueen-V2-JU23"
+      }
+    },
+    {
+      "id": "pk_db687684878eab921cb60d0d25879fbc91520919b394ec34543525b6d9ce9021f9f0c3de085be2dad42d44",
+      "card_info": {
+        "name": "Paras",
+        "clean_name": "Paras",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "59/64",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scratch (20)",
+          "[GG] Spore\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.84,
+            "mid_price": 2.03,
+            "high_price": 19.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.03,
+            "direct_low_price": 2.97,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.18,
+            "mid_price": 0.46,
+            "high_price": 48,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45162"
+      },
+      "cardmarket": {
+        "product_name": "Paras",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.29,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.29,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.2,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.37,
+            "avg30": 0.88,
+            "trend": 1.04,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Paras-JU59"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 64,
+    "total_pages": 13
+  },
+  "metadata": {
+    "total_count": 64,
+    "tcg": 64,
+    "cardmarket": 64,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 64
+  }
+}

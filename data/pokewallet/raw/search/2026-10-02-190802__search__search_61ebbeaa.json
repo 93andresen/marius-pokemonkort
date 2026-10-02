@@ -1,0 +1,157 @@
+{
+  "query": "604 14",
+  "results": [
+    {
+      "id": "pk_979a9c93d6304da63afd8f7192ceb7d9e049ea5e68fbbe56af79adebe08d3b0269192389c5ea1308a333cee36b9644",
+      "card_info": {
+        "name": "Quaxwell",
+        "clean_name": "Quaxwell",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "014/064",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Hydro Splash (120)"
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.15,
+            "high_price": 1.32,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579396"
+      },
+      "cardmarket": {
+        "product_name": "Quaxwell",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Quaxwell-sv7a014"
+      }
+    },
+    {
+      "id": "pk_f48f0fa08d7d86139bffba53364d2e8d72d66c897bc1a5ea82879cec61881d77b42530a230a012f0d110d94d",
+      "card_info": {
+        "name": "Raichu",
+        "clean_name": "Raichu",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "014/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2L] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Raichu does 30 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 43.3,
+            "mid_price": 62.45,
+            "high_price": 392.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 67.47,
+            "direct_low_price": 77.34,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42354"
+      },
+      "cardmarket": {
+        "product_name": "Raichu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6,
+            "avg7": 15.3,
+            "avg30": 29.82,
+            "trend": 30.12,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 53.41,
+            "low": 4.9,
+            "avg1": 14,
+            "avg7": 34.51,
+            "avg30": 51.4,
+            "trend": 33.44,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Raichu-V1-BS14"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

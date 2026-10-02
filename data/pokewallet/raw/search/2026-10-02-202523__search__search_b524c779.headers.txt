@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Jungle+4&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 18:25:22 GMT
+Content-Type: application/json
+Content-Length: 7732
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 663
+X-RateLimit-Remaining-Hour: 59
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=x0%2BW10t4rGOxkdFGXAJI4hOIW5LYvTe%2FeyCcZufwJYh%2BVO1IWZSyB1o4W0z9NeDXgQiyXfwq37%2FY9VnGznB8nFZ21LeC3m1YTCpCOnWjsEEd%2FsoivPSWqv5FRq72BQohwXOyNMprNt3DaerDDWsIeA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a445bfc5dcef1ae6-OSL
+alt-svc: h3=":443"; ma=86400

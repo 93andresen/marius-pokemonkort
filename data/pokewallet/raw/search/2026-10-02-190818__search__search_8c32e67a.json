@@ -1,0 +1,352 @@
+{
+  "query": "605 10",
+  "results": [
+    {
+      "id": "pk_fc6b1a9df844b18dc0741384049c26e93035fb0d43a6d38acc1c16cf152388bc26b0378983b17765231d850bd3",
+      "card_info": {
+        "name": "Lass",
+        "clean_name": "Lass",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "104/130",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "You and your opponent show each other your hands, then shuffle all Trainer cards from your hands into your decks.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.92,
+            "high_price": 37.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42554"
+      },
+      "cardmarket": {
+        "product_name": "Lass",
+        "prices": [
+          {
+            "avg": 2.78,
+            "low": 0.75,
+            "avg1": 3,
+            "avg7": 2.78,
+            "avg30": 3.12,
+            "trend": 2.94,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.5,
+            "avg7": 2.73,
+            "avg30": 2.73,
+            "trend": 3.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Lass-B2104"
+      }
+    },
+    {
+      "id": "pk_1b7e570e10be97b3432489762909c6b4fae75deb5d4a62171c9e8f0e53cf5461ca105224c1b670a5d5bad4ca",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "010/130",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 47.99,
+            "mid_price": 75,
+            "high_price": 680.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 103.56,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42445"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15,
+            "avg7": 23,
+            "avg30": 20.59,
+            "trend": 19.77,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 41.63,
+            "low": 13.95,
+            "avg1": 40,
+            "avg7": 41.16,
+            "avg30": 39.77,
+            "trend": 53.7,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Mewtwo-B210"
+      }
+    },
+    {
+      "id": "pk_5245a0c2eae6cbe0446efafbe8ce5b06cb3f22a417cdacfb2c8c977f1be68daf6ac78e3e36771785a2f2d9d274",
+      "card_info": {
+        "name": "Computer Search",
+        "clean_name": "Computer Search",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "101/130",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.43,
+            "high_price": 31.1,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.86,
+            "direct_low_price": 2.19,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42446"
+      },
+      "cardmarket": {
+        "product_name": "Computer Search",
+        "prices": [
+          {
+            "avg": 11.64,
+            "low": 0.5,
+            "avg1": 5.99,
+            "avg7": 12.42,
+            "avg30": 4.81,
+            "trend": 6.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.1,
+            "avg7": 1.1,
+            "avg30": 1.1,
+            "trend": 1.1,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Computer-Search-B2101"
+      }
+    },
+    {
+      "id": "pk_bb48c264a90dfa9754fe6bc77348c8af35c8ffc8981f1b609d2a69151ff518463045dc6c0c1114167245c13ef2",
+      "card_info": {
+        "name": "Defender",
+        "clean_name": "Defender",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "109/130",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.47,
+            "high_price": 15.31,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.52,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42447"
+      },
+      "cardmarket": {
+        "product_name": "Defender",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.15,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.15,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.51,
+            "low": 0.02,
+            "avg1": 0.29,
+            "avg7": 0.54,
+            "avg30": 0.5,
+            "trend": 0.59,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Defender-B2109"
+      }
+    },
+    {
+      "id": "pk_da677aeb48f20f25e93c2722c4a3887fb1edd5d5d0b66e383f6e27631f3258f233ebf77fd51ed2549a80019817",
+      "card_info": {
+        "name": "Pokemon Breeder",
+        "clean_name": "Pokemon Breeder",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "105/130",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 4.19,
+            "high_price": 49.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.78,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42555"
+      },
+      "cardmarket": {
+        "product_name": "Pokémon Breeder",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.5,
+            "avg7": 2.5,
+            "avg30": 2.5,
+            "trend": 2.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.71,
+            "low": 1.1,
+            "avg1": 6.47,
+            "avg7": 4.4,
+            "avg30": 4.25,
+            "trend": 4.42,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Pokemon-Breeder-B2105"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 22,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 22,
+    "tcg": 22,
+    "cardmarket": 22,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 22
+  }
+}

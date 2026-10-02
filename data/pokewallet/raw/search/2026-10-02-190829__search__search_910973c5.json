@@ -1,0 +1,401 @@
+{
+  "query": "635 4",
+  "results": [
+    {
+      "id": "pk_78bf43ae1242fd561e037e4f8016501fcd3c57d06832f2b469a02e3da63212f3330ed91850c6727cd345e9",
+      "card_info": {
+        "name": "Primeape",
+        "clean_name": "Primeape",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "43/64",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[FF] Fury Swipes (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "[1FF] Tantrum (50)\r\n<br>Flip a coin. If tails, Primeape is now Confused <em>(after doing damage)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 0.99,
+            "high_price": 26.2,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.2,
+            "direct_low_price": 0.76,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.99,
+            "mid_price": 6.2,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45146"
+      },
+      "cardmarket": {
+        "product_name": "Primeape",
+        "prices": [
+          {
+            "avg": 1.63,
+            "low": 0.05,
+            "avg1": 0.57,
+            "avg7": 1.45,
+            "avg30": 1.64,
+            "trend": 1.13,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.4,
+            "avg7": 1.44,
+            "avg30": 1.44,
+            "trend": 2.05,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Primeape-JU43"
+      }
+    },
+    {
+      "id": "pk_9f5c6ecb024f752cd95254607d2c7f45cebb2b528cc85cd53b81318a004ac2a32c5dc78a8c43a19f175c8db5",
+      "card_info": {
+        "name": "Kangaskhan (21)",
+        "clean_name": "Kangaskhan 21",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "21/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fetch\r\n<br>Draw a card.",
+          "[4] Comet Punch (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.49,
+            "mid_price": 18.77,
+            "high_price": 299.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 19.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.69,
+            "mid_price": 4.27,
+            "high_price": 58.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.9,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106983"
+      },
+      "cardmarket": {
+        "product_name": "Kangaskhan",
+        "prices": [
+          {
+            "avg": 7.04,
+            "low": 0.3,
+            "avg1": 4.29,
+            "avg7": 6.12,
+            "avg30": 7.71,
+            "trend": 9.06,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 2.73,
+            "avg30": 3.06,
+            "trend": 2.38,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Kangaskhan-V2-JU21"
+      }
+    },
+    {
+      "id": "pk_ceff18fef93ca6377ec94df23381a4349ba3e94cba641a9352cc2f3e9650bc7486ff331058f25c62ceed2679d92a9e",
+      "card_info": {
+        "name": "Cape of Toughness",
+        "clean_name": "Cape of Toughness",
+        "set_name": "S3a: Legendary Heartbeat",
+        "set_code": "S3a",
+        "set_id": "23635",
+        "card_number": "094/076",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.95,
+            "mid_price": 4.15,
+            "high_price": 6.95,
+            "updated_at": "2026-10-02T10:48:40.692284",
+            "market_price": 3.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571919"
+      },
+      "cardmarket": {
+        "product_name": "Cape of Toughness",
+        "prices": [
+          {
+            "avg": 6.99,
+            "low": 6.5,
+            "avg1": 6.99,
+            "avg7": 8.95,
+            "avg30": 16.3,
+            "trend": 11.51,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:36.46428",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Heartbeat/Cape-of-Toughness-s3a94"
+      }
+    },
+    {
+      "id": "pk_18b21a50dc11870f3068ce61ee0fab1903ee3b2d403117da5f22f9dd9af7b07c23f644ba79ac2357e282e6",
+      "card_info": {
+        "name": "Persian",
+        "clean_name": "Persian",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "42/64",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Scratch (20)",
+          "[3] Pounce (30)\r\n<br>If the Defending Pokémon attacks Persian during your opponent's next turn, any damage done by the attack is reduced by 10 <em>(after applying Weakness and Resistance)</em>. <em>(Benching either Pokemon ends this effect.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.63,
+            "mid_price": 11.12,
+            "high_price": 4317.51,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 10.67,
+            "direct_low_price": 5.26,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.72,
+            "high_price": 500,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.81,
+            "direct_low_price": 1.25,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45145"
+      },
+      "cardmarket": {
+        "product_name": "Persian",
+        "prices": [
+          {
+            "avg": 2.04,
+            "low": 0.02,
+            "avg1": 0.91,
+            "avg7": 1.46,
+            "avg30": 1.77,
+            "trend": 1.89,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.8,
+            "avg7": 0.6,
+            "avg30": 0.6,
+            "trend": 0.8,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Persian-JU42"
+      }
+    },
+    {
+      "id": "pk_7e3a78e7e005eddf094729eaa73e441d78cebe7da414613e942119c74e0fd5b01ef817ccd9db0271c91167",
+      "card_info": {
+        "name": "Fearow",
+        "clean_name": "Fearow",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "36/64",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[3] Agility (20)\r\n<br> Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow.",
+          "[4] Drill Peck (40)"
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.79,
+            "high_price": 24.6,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.07,
+            "direct_low_price": 0.47,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.7,
+            "mid_price": 3.86,
+            "high_price": 104.76,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.05,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45139"
+      },
+      "cardmarket": {
+        "product_name": "Fearow",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.5,
+            "avg30": 0.5,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.41,
+            "low": 0.02,
+            "avg1": 0.54,
+            "avg7": 1.92,
+            "avg30": 1.42,
+            "trend": 1.32,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Fearow-JU36"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 83,
+    "total_pages": 17
+  },
+  "metadata": {
+    "total_count": 83,
+    "tcg": 83,
+    "cardmarket": 83,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 83
+  }
+}

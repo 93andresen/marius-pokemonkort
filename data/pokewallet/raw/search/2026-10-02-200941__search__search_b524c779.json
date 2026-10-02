@@ -1,0 +1,413 @@
+{
+  "query": "Jungle 4",
+  "results": [
+    {
+      "id": "pk_0e47420544a15eaa773e785d8827938dcdb514cd1937eb0d034abbc2192a86eb990aa794f3d79635bc51ce",
+      "card_info": {
+        "name": "Weepinbell",
+        "clean_name": "Weepinbell",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "48/64",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Poisonpowder (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "[GG] Razor Leaf (30)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 3.5,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.74,
+            "direct_low_price": 3,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.6,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.6,
+            "direct_low_price": 0.78,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45151"
+      },
+      "cardmarket": {
+        "product_name": "Weepinbell",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.43,
+            "avg30": 0.43,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.85,
+            "low": 0.02,
+            "avg1": 0.44,
+            "avg7": 0.53,
+            "avg30": 0.83,
+            "trend": 0.91,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Weepinbell-JU48"
+      }
+    },
+    {
+      "id": "pk_caf0e35bd7201808b13a1d7728796d62dd6f447a6e81c53902c7d16d59c3de24c5a0b3738519b2330af7518d",
+      "card_info": {
+        "name": "Pidgeot (24)",
+        "clean_name": "Pidgeot 24",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "24/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Wing Attack (20)",
+          "[3] Hurricane (30)\r\n<br>Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.9,
+            "mid_price": 18.7,
+            "high_price": 141.56,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 22.58,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.75,
+            "mid_price": 5.14,
+            "high_price": 9999,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 8.42,
+            "direct_low_price": 11.28,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106986"
+      },
+      "cardmarket": {
+        "product_name": "Pidgeot",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 20,
+            "avg7": 18.4,
+            "avg30": 11.79,
+            "trend": 14.41,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.04,
+            "low": 0.02,
+            "avg1": 15.24,
+            "avg7": 10,
+            "avg30": 9.16,
+            "trend": 11.99,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pidgeot-V2-JU24"
+      }
+    },
+    {
+      "id": "pk_01b5ae6a033bc598c4da10c5b0812ec8542b8d46badcb27d77d7d0a05921e9d827cc29d4d89affc95911de6f",
+      "card_info": {
+        "name": "Vaporeon (28)",
+        "clean_name": "Vaporeon 28",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "28/64",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.97,
+            "mid_price": 41.49,
+            "high_price": 506.44,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 41.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.96,
+            "mid_price": 14.75,
+            "high_price": 322,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 15.33,
+            "direct_low_price": 13.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106990"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.99,
+            "avg7": 6.56,
+            "avg30": 5.58,
+            "trend": 5.44,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.62,
+            "low": 1,
+            "avg1": 16.88,
+            "avg7": 22.98,
+            "avg30": 12.33,
+            "trend": 19.89,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V2-JU28"
+      }
+    },
+    {
+      "id": "pk_bdeb7d0376c166fa71cf220d8b4af06778dfc458dd71a66781d91f07c741c8a44b9979d53ff39460523b1d",
+      "card_info": {
+        "name": "Parasect",
+        "clean_name": "Parasect",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "41/64",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[GG] Spore\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Slash (30)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.54,
+            "mid_price": 3,
+            "high_price": 37.24,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.93,
+            "direct_low_price": 3.06,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.75,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.01,
+            "direct_low_price": 1.26,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45144"
+      },
+      "cardmarket": {
+        "product_name": "Parasect",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.8,
+            "avg7": 0.58,
+            "avg30": 0.58,
+            "trend": 0.8,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.07,
+            "low": 0.02,
+            "avg1": 0.65,
+            "avg7": 0.95,
+            "avg30": 1.17,
+            "trend": 0.63,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Parasect-JU41"
+      }
+    },
+    {
+      "id": "pk_806c748371a08df608e2e5af4de74ae4e835596ec37678dab2b0c582b2b1f0a66471574d1687b6ed8be27e",
+      "card_info": {
+        "name": "Goldeen",
+        "clean_name": "Goldeen",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "53/64",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Horn Attack (10)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.49,
+            "high_price": 15.32,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 0.75,
+            "mid_price": 2.58,
+            "high_price": 29,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.66,
+            "direct_low_price": 2.62,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45156"
+      },
+      "cardmarket": {
+        "product_name": "Goldeen",
+        "prices": [
+          {
+            "avg": 1.04,
+            "low": 0.02,
+            "avg1": 0.23,
+            "avg7": 0.52,
+            "avg30": 1.26,
+            "trend": 0.9,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.3,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.3,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Goldeen-JU53"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 64,
+    "total_pages": 13
+  },
+  "metadata": {
+    "total_count": 64,
+    "tcg": 64,
+    "cardmarket": 64,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 64
+  }
+}

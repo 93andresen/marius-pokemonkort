@@ -1,0 +1,358 @@
+{
+  "query": "604 1",
+  "results": [
+    {
+      "id": "pk_a09bf1af48218cdcdcd74333f12ac7782a66fb5bdf0500306a0a907fc5cfa56cd37a7a1e549acb665335a6065588c3",
+      "card_info": {
+        "name": "Cyclizar ex - 051/064",
+        "clean_name": "Cyclizar ex",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "051/064",
+        "rarity": "Double Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.4,
+            "high_price": 4.99,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.28,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579433"
+      },
+      "cardmarket": {
+        "product_name": "Cyclizar ex",
+        "prices": [
+          {
+            "avg": 0.25,
+            "low": 0.04,
+            "avg1": 0.05,
+            "avg7": 0.25,
+            "avg30": 0.26,
+            "trend": 0.19,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Cyclizar-ex-V1-sv7a051"
+      }
+    },
+    {
+      "id": "pk_61315f995c6de3c0e3f2e3ded0c54dedb8b47529d7037cd3520396497fa4e14fd5eb5ae03afcc1d9cf4c143f",
+      "card_info": {
+        "name": "Switch",
+        "clean_name": "Switch",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "095/102",
+        "rarity": "Common",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch 1 of your Benched Pokémon with your Active Pokémon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 15.27,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.43,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42439"
+      },
+      "cardmarket": {
+        "product_name": "Switch",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.89,
+            "avg7": 0.69,
+            "avg30": 0.69,
+            "trend": 1.01,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.44,
+            "low": 0.02,
+            "avg1": 0.42,
+            "avg7": 0.47,
+            "avg30": 0.41,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Switch-V1-BS95"
+      }
+    },
+    {
+      "id": "pk_cccafe9e0c9ead5ce9ef009560f6f39f6f054d9f79bd88c03547e1ff03974be6187ef737bba42fb6dca3041e",
+      "card_info": {
+        "name": "Raticate",
+        "clean_name": "Raticate",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "040/102",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (20)",
+          "[3] Super Fang (?)\r\n<br>Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.62,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.55,
+            "direct_low_price": 2.29,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42383"
+      },
+      "cardmarket": {
+        "product_name": "Raticate",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.5,
+            "avg7": 0.56,
+            "avg30": 0.56,
+            "trend": 0.5,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.24,
+            "low": 0.05,
+            "avg1": 0.74,
+            "avg7": 3.07,
+            "avg30": 2.99,
+            "trend": 2.18,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Raticate-V1-BS40"
+      }
+    },
+    {
+      "id": "pk_44fdc840221df1ab151fbc32f8fe9f7ce75130d96707eee7e6d5c927777ba76f288fe0fde2fc93727001bbf45c70ae",
+      "card_info": {
+        "name": "Surfer - 061/064",
+        "clean_name": "Surfer",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "061/064",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 0.99,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.03,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579443"
+      },
+      "cardmarket": {
+        "product_name": "Surfer",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Surfer-V1-sv7a061"
+      }
+    },
+    {
+      "id": "pk_2eb7f3419ff56215006dec43a501f2b27dcd66c7b9099e456cca7398c15de122dca3bbf1b4d346660708ef",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "003/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.99,
+            "mid_price": 44.37,
+            "high_price": 258.98,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 57.28,
+            "direct_low_price": 229.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42371"
+      },
+      "cardmarket": {
+        "product_name": "Chansey",
+        "prices": [
+          {
+            "avg": 32.8,
+            "low": 4,
+            "avg1": 7,
+            "avg7": 24.83,
+            "avg30": 40.48,
+            "trend": 41.85,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 17.45,
+            "avg7": 21.22,
+            "avg30": 19.23,
+            "trend": 21.43,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Chansey-V1-BS3"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 122,
+    "total_pages": 25
+  },
+  "metadata": {
+    "total_count": 122,
+    "tcg": 122,
+    "cardmarket": 122,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 122
+  }
+}

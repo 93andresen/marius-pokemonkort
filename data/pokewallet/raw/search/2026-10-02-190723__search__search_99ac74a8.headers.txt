@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pokemon+Jungle+043&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 17:07:24 GMT
+Content-Type: application/json
+Content-Length: 205
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 792
+X-RateLimit-Remaining-Hour: 90
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VYI7eatUAHJkpy6wtlYSUYJsKEow5hTaj7hU8uLRN4daElGRZ%2F%2BoEQe%2F2wWhO%2B4DxvRrM1vQiEmw6NtTHSNWRU6sRrvOjW%2Ba6q09GOYl9LQ4rBwS7RKy9VQlluKYTz6wGGHYXnqxyNkjOAv0utnnug%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4454d94f97e5a0f-OSL
+alt-svc: h3=":443"; ma=86400

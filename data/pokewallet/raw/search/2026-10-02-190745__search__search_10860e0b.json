@@ -1,0 +1,101 @@
+{
+  "query": "24655 029",
+  "results": [
+    {
+      "id": "pk_8912572396bc175b9498b25dcc05ab149d7b85d6e8660f891cb7ae71d985887865c7cb398a2fcae7a4bd554c27d55e",
+      "card_info": {
+        "name": "Ampharos - 029/086",
+        "clean_name": "Ampharos 029 086",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "029/086",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[LC] Flashing Bolt (140)<br> During your next turn, this Pokémon can't use Flashing Bolt."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.25,
+            "high_price": 6.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.24,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 14.19,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.16,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693445"
+      },
+      "cardmarket": {
+        "product_name": "Ampharos (CRI 029)",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Ampharos-V1-CRI029"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "query": "SWSH09 0",
+  "results": [
+    {
+      "id": "pk_d2d60a4129a4dff8806eb994573003829822d4601873b9f8238e4201826533ef8f17d209c2014a7a4dd99fd11a59639e01",
+      "card_info": {
+        "name": "Rapid Strike Urshifu VMAX (Secret)",
+        "clean_name": "Rapid Strike Urshifu VMAX Secret",
+        "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+        "set_code": "SWSH09:TG",
+        "set_id": "3020",
+        "card_number": "TG30/TG30",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "330.0",
+        "stage": "VMAX",
+        "card_text": null,
+        "attacks": [
+          "[F] Gale Thrust (30+)\r\n<br>If this Pokemon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.",
+          "[1FF] G-Max Rapid Flow\r\n<br>Discard all Energy from this Pokemon. This attack does 120 damage to 2 of your opponent's Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.25,
+            "mid_price": 4.57,
+            "high_price": 999.99,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 4.07,
+            "direct_low_price": 4.05,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/264234"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_90538466cc607aa878825209fe13e397ed0e6e31d191de5c7bf0a70edf41a39f9b2df93ecef840dc5b94e77fbc",
+      "card_info": {
+        "name": "Breloom",
+        "clean_name": "Breloom",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "004/172",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Spore Ball (30)\r\n<br>Your opponent’s Active Pokemon is now Asleep.",
+          "[G] Powdery Uppercut (130)\r\n<br>You can’t use this attack unless this Pokemon used Illusion Spore during your previous turn."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 21,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.26,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.22,
+            "high_price": 15.5,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.17,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263583"
+      },
+      "cardmarket": {
+        "product_name": "Breloom",
+        "prices": [
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.23,
+            "avg30": 0.22,
+            "trend": 0.18,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Breloom-BRS004"
+      }
+    },
+    {
+      "id": "pk_cb06a59311ebac749f74158c017c0222a5b495b7c9d0d43904b347932d9f48d6bbe5cb3ea4696da371b70b3d3d",
+      "card_info": {
+        "name": "Turtwig",
+        "clean_name": "Turtwig",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "006/172",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Bite (10)",
+          "[1G] Headbutt Bounce (20)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 14.18,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.27,
+            "high_price": 2.29,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263589"
+      },
+      "cardmarket": {
+        "product_name": "Turtwig",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.03,
+            "avg1": 0.2,
+            "avg7": 0.13,
+            "avg30": 0.17,
+            "trend": 0.14,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Turtwig-BRS006"
+      }
+    },
+    {
+      "id": "pk_fcc7b7a1aaaef763effe3a642e065ed03630aa2a1819718bab8083ab729e8403582b5151dde208a3bc8a810875d2",
+      "card_info": {
+        "name": "Monferno",
+        "clean_name": "Monferno",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "025/172",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Flare (30)",
+          "[1R] Flamethrower (50)\r\n<br>Discard an Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.17,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.09,
+            "mid_price": 0.25,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263724"
+      },
+      "cardmarket": {
+        "product_name": "Monferno",
+        "prices": [
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.22,
+            "avg30": 0.2,
+            "trend": 0.19,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Monferno-BRS025"
+      }
+    },
+    {
+      "id": "pk_b3d7b7b1212ef3ceffe0d74856506dd7d1b315734d76bd9dcf7ac838c18889a23c5637c5573b72c699f5bb154668",
+      "card_info": {
+        "name": "Piplup",
+        "clean_name": "Piplup",
+        "set_name": "SWSH09: Brilliant Stars",
+        "set_code": "SWSH09",
+        "set_id": "2948",
+        "card_number": "035/172",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, your opponent’s Active Pokemon is now Paralyzed."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 20,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.23,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.38,
+            "high_price": 12,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/263734"
+      },
+      "cardmarket": {
+        "product_name": "Piplup",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.04,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.23,
+            "avg30": 0.27,
+            "trend": 0.3,
+            "updated_at": "2026-10-02T10:25:43.020832",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Brilliant-Stars/Piplup-BRS035"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 264,
+    "total_pages": 53
+  },
+  "metadata": {
+    "total_count": 264,
+    "tcg": 264,
+    "cardmarket": 175,
+    "tcg_only": 89,
+    "cardmarket_only": 0,
+    "both_sources": 175
+  }
+}

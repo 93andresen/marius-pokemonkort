@@ -1,0 +1,93 @@
+{
+  "query": "24655 015",
+  "results": [
+    {
+      "id": "pk_224b6293e922be8add72b79b268ddbf6f6fc29379b467a99d31202dcbaebbe3515564f23b11759256771b08b6831a9",
+      "card_info": {
+        "name": "Mega Pyroar ex - 015/086",
+        "clean_name": "Mega Pyroar ex 015 086",
+        "set_name": "Chaos Rising",
+        "set_code": "CRI",
+        "set_id": "24655",
+        "card_number": "015/086",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "340.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[RC] Ferocious Bellow (80)<br> During your opponent's next turn, attacks used by the Defending Pokémon do 50 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[RRC] Fiery Big Bang (290-)<br> This attack does 10 less damage for each damage counter on this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.13,
+            "mid_price": 0.69,
+            "high_price": 125,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 0.48,
+            "direct_low_price": 0.67,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/693519"
+      },
+      "cardmarket": {
+        "product_name": "Mega Pyroar ex (CRI 015)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.04,
+            "avg1": 0.55,
+            "avg7": 0.49,
+            "avg30": 0.45,
+            "trend": 0.44,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Mega-Pyroar-ex-V1-CRI015"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

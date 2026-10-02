@@ -1,0 +1,156 @@
+{
+  "query": "604 48",
+  "results": [
+    {
+      "id": "pk_96d5ae39221c00a7f867f314097d13e27ebdbc8bf95599454ed241e8bde475b661cd3e85e56c64637cb089d2056013",
+      "card_info": {
+        "name": "Swablu",
+        "clean_name": "Swablu",
+        "set_name": "SV7a: Paradise Dragona",
+        "set_code": "SV7a",
+        "set_id": "23604",
+        "card_number": "048/064",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Flap (30)"
+        ],
+        "weakness": "Lightning x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.15,
+            "high_price": 1.33,
+            "updated_at": "2026-10-02T10:48:38.600272",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579430"
+      },
+      "cardmarket": {
+        "product_name": "Swablu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-10-02T10:25:49.239864",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradise-Dragona/Swablu-sv7a048"
+      }
+    },
+    {
+      "id": "pk_aad9c0422a7884cc8bdbbdc68c5b096d0f43e4c6c54de94d4b363444f04a8d43cdb46d014c0c74d6345e3ddf",
+      "card_info": {
+        "name": "Doduo",
+        "clean_name": "Doduo",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "048/102",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fury Attack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.91,
+            "high_price": 44.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.16,
+            "direct_low_price": 0.74,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42391"
+      },
+      "cardmarket": {
+        "product_name": "Doduo",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.02,
+            "avg7": 0.16,
+            "avg30": 0.16,
+            "trend": 0.02,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.46,
+            "low": 0.02,
+            "avg1": 1.47,
+            "avg7": 1.32,
+            "avg30": 3.22,
+            "trend": 0.21,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Doduo-V1-BS48"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

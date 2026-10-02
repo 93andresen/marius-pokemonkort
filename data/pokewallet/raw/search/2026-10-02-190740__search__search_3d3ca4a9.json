@@ -1,0 +1,92 @@
+{
+  "query": "24587 098",
+  "results": [
+    {
+      "id": "pk_65b2536d7639562b8ed8b08bb039fc5a5a4a2d9772d65a5d052364bb0d1aa5ae674a66119c5ddbe6da62810f93b620",
+      "card_info": {
+        "name": "Doublade - 098/088",
+        "clean_name": "Doublade",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "098/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Weaponized Swords (60x)<br> Reveal any number of Honedge, Doublade, and Aegislash from your hand, and this attack does 60 damage for each card you revealed in this way."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.24,
+            "high_price": 52.12,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 1.77,
+            "direct_low_price": 2.08,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684380"
+      },
+      "cardmarket": {
+        "product_name": "Doublade",
+        "prices": [
+          {
+            "avg": 2.69,
+            "low": 1.29,
+            "avg1": 2.73,
+            "avg7": 2.69,
+            "avg30": 2.69,
+            "trend": 2.58,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Doublade-V2-POR098"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

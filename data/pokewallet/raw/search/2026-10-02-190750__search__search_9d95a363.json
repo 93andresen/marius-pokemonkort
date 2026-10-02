@@ -1,0 +1,90 @@
+{
+  "query": "24688 107",
+  "results": [
+    {
+      "id": "pk_174b40e586b34a845403b8a3dc6833d0177b8b2dc45416e41440cb3af89eda8070707e460e930a3cd2ecee2342b7998c",
+      "card_info": {
+        "name": "Energy Switch",
+        "clean_name": "Energy Switch",
+        "set_name": "Pitch Black",
+        "set_code": "PBL",
+        "set_id": "24688",
+        "card_number": "107/084",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.05,
+            "mid_price": 2.19,
+            "high_price": 22.49,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 2.06,
+            "direct_low_price": 2.92,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/704864"
+      },
+      "cardmarket": {
+        "product_name": "Energy Switch (PBL 107)",
+        "prices": [
+          {
+            "avg": 2.1,
+            "low": 1,
+            "avg1": 2.13,
+            "avg7": 2.05,
+            "avg30": 2.08,
+            "trend": 2.08,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:54.636374",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Energy-Switch-PBL107"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

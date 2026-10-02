@@ -1,0 +1,87 @@
+{
+  "query": "2931 76",
+  "results": [
+    {
+      "id": "pk_43f54df40801d2a0f26a58c5b2d812283721022e96a87e8968b763f35ea56d9261d385e23e30f174559ab27b3f7c",
+      "card_info": {
+        "name": "M Rayquaza EX",
+        "clean_name": "M Rayquaza EX",
+        "set_name": "Celebrations: Classic Collection",
+        "set_code": "CCC",
+        "set_id": "2931",
+        "card_number": "76/108",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Mega",
+        "card_text": null,
+        "attacks": [
+          "[3] Emerald Break (30x)\r\n<br>This attack does 30 damage times the number of your Benched Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 33.29,
+            "mid_price": 42.99,
+            "high_price": 5000,
+            "updated_at": "2026-10-02T10:48:31.659925",
+            "market_price": 36.64,
+            "direct_low_price": 38.06,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250341"
+      },
+      "cardmarket": {
+        "product_name": "MRayquaza EX",
+        "prices": [
+          {
+            "avg": 53.6,
+            "low": 34.99,
+            "avg1": 99,
+            "avg7": 51.39,
+            "avg30": 54.33,
+            "trend": 59.48,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:40.719111",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/MRayquaza-EX"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "query": "MEP 009",
+  "results": [
+    {
+      "id": "pk_c9aea0a8a0e8e48ec83de65e6f59edfb17980fca97d64f3296b742d679dba395e20cd7e42d2afea01f99",
+      "card_info": {
+        "name": "Alakazam - 009",
+        "clean_name": "Alakazam",
+        "set_name": "ME: Mega Evolution Promo",
+        "set_code": "MEP",
+        "set_id": "24451",
+        "card_number": "9",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[P] Powerful Hand\r\n<br>Place 2 damage counters on your opponent's Active Pokemon for each card in your hand."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.49,
+            "mid_price": 9.55,
+            "high_price": 197.6,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 7.17,
+            "direct_low_price": 9.26,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/656259"
+      },
+      "cardmarket": {
+        "product_name": "Alakazam",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.55,
+            "low": 4.9,
+            "avg1": 14.42,
+            "avg7": 11.94,
+            "avg30": 12.53,
+            "trend": 11.66,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEP-Black-Star-Promos/Alakazam-V3-MEP009"
+      }
+    },
+    {
+      "id": "pk_9ecf36b76e3e6fb8c2e6af179323c1acb487c9d4ad10e0b8c75cbea38040d9af90976451d34470b9bb55",
+      "card_info": {
+        "name": "Alakazam - 009 (Pokemon Center Exclusive)",
+        "clean_name": "Alakazam 009 Pokemon Center Exclusive",
+        "set_name": "ME: Mega Evolution Promo",
+        "set_code": "MEP",
+        "set_id": "24451",
+        "card_number": "9",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[P] Powerful Hand\r\n<br>Place 2 damage counters on your opponent's Active Pokemon for each card in your hand."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 66.49,
+            "mid_price": 75.81,
+            "high_price": 719.99,
+            "updated_at": "2026-10-02T10:48:26.444195",
+            "market_price": 72.26,
+            "direct_low_price": 74.26,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/656261"
+      },
+      "cardmarket": {
+        "product_name": "Alakazam",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.55,
+            "low": 4.9,
+            "avg1": 14.42,
+            "avg7": 11.94,
+            "avg30": 12.53,
+            "trend": 11.66,
+            "updated_at": "2026-10-02T10:25:53.085374",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEP-Black-Star-Promos/Alakazam-V3-MEP009"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}
