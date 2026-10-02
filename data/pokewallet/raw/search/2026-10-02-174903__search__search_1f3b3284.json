@@ -1,0 +1,101 @@
+{
+  "query": "1413 126",
+  "results": [
+    {
+      "id": "pk_de79b0b95e8292740c0042a5d1a751ba4b4488dd327a543d06b2e9e4e855427d379c79dd1d83ed3284d479d87410",
+      "card_info": {
+        "name": "Virbank City Gym",
+        "clean_name": "Virbank City Gym",
+        "set_name": "Plasma Storm",
+        "set_code": "PLS",
+        "set_id": "1413",
+        "card_number": "126/135",
+        "rarity": "Uncommon",
+        "card_type": "Stadium",
+        "product_type": "card",
+        "hp": "0.0",
+        "stage": "Stadium",
+        "card_text": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+        "attacks": [
+          "Put 2 more damage counters on Poisoned Pokemon (both yours and your opponent's) between turns."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5,
+            "high_price": 47.14,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 5.13,
+            "direct_low_price": 7,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.7,
+            "mid_price": 5.94,
+            "high_price": 69.74,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 5.47,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90385"
+      },
+      "cardmarket": {
+        "product_name": "Virbank City Gym",
+        "prices": [
+          {
+            "avg": 4,
+            "low": 0.3,
+            "avg1": 5,
+            "avg7": 3.82,
+            "avg30": 4.14,
+            "trend": 4.82,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.3,
+            "avg1": 0.5,
+            "avg7": 7.19,
+            "avg30": 5.14,
+            "trend": 5.95,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Virbank-City-Gym-PLS126"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

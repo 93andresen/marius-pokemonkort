@@ -1,0 +1,102 @@
+{
+  "query": "1385 84",
+  "results": [
+    {
+      "id": "pk_33cb896ef57cbbe0d68f0df0b617bba574ae49a5bfbf93d1d417586c12beeb4c46097213d6aee86acd292a0134",
+      "card_info": {
+        "name": "Cobalion",
+        "clean_name": "Cobalion",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "84/101",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1M] Energy Press (20+) Does 20 more damage for each Energy attached to the Defending Pokemon.",
+          "[1MM] Iron Breaker (80) The Defending Pokemon can't attack during your opponent's next turn."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.22,
+            "mid_price": 2.22,
+            "high_price": 28.44,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 1.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 1,
+            "mid_price": 1.62,
+            "high_price": 27.24,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 1.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84378"
+      },
+      "cardmarket": {
+        "product_name": "Cobalion",
+        "prices": [
+          {
+            "avg": 1.33,
+            "low": 0.18,
+            "avg1": 1.99,
+            "avg7": 1.64,
+            "avg30": 1.72,
+            "trend": 1.48,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.4,
+            "avg1": 2,
+            "avg7": 2.86,
+            "avg30": 2.27,
+            "trend": 3.43,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Cobalion-NVI84"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

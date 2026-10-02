@@ -1,0 +1,97 @@
+{
+  "query": "1409 15",
+  "results": [
+    {
+      "id": "pk_b6ec8b056fe45cccee2b5c65490dff417cde2717807cf5a3f2118655482d11fc65ffaced33f37c4a1c70ddf8fb",
+      "card_info": {
+        "name": "Virizion",
+        "clean_name": "Virizion",
+        "set_name": "Legendary Treasures",
+        "set_code": "LTR",
+        "set_id": "1409",
+        "card_number": "15/113",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Double Draw - Draw 2 cards.",
+          "[1G] Leaf Wallop (40) During your next turn, this Pokemon's Leaf Wallop attack does 40 more damage (before applying Weakness and Resistance)."
+        ],
+        "weakness": "Rx2",
+        "resistance": "W-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 1.61,
+            "high_price": 49.99,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 1.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1.5,
+            "mid_price": 2.48,
+            "high_price": 30.24,
+            "updated_at": "2026-10-02T10:48:34.951475",
+            "market_price": 2.48,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90391"
+      },
+      "cardmarket": {
+        "product_name": "Virizion",
+        "prices": [
+          {
+            "avg": 5,
+            "low": 2.79,
+            "avg1": 5,
+            "avg7": 3.76,
+            "avg30": 3.05,
+            "trend": 4.1,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2,
+            "low": 1,
+            "avg1": 1.49,
+            "avg7": 2.28,
+            "avg30": 2.44,
+            "trend": 1.86,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Virizion-LTR15"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

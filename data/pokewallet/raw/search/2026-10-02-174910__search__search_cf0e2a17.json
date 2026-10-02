@@ -1,0 +1,69 @@
+{
+  "query": "1441 106",
+  "results": [
+    {
+      "id": "pk_6b727457ca0fe15c2fc1455db4d1de85bc326f2dede3de89c8e16022f7b6e5d6c5f6651d12bc8ea471b8267db956",
+      "card_info": {
+        "name": "Brock's Training Method",
+        "clean_name": "Brocks Training Method",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "106/132",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for a Basic Pokémon or Evolution card with Brock in its name. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 1,
+            "high_price": 5,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.14,
+            "direct_low_price": 1.65,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.3,
+            "mid_price": 3.79,
+            "high_price": 39.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83985"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

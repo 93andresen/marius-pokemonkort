@@ -1,0 +1,73 @@
+{
+  "query": "N1 74",
+  "results": [
+    {
+      "id": "pk_aa787e8dc3ff3a4203b1e0768eb14cae7e9d09efa6b30aa1221901f2ac59f1ec943c7ebc9cc5ae5b03ba23e0e3",
+      "card_info": {
+        "name": "Snubbull",
+        "clean_name": "Snubbull",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "074/111",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Roar\r\n<br>Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon.)</em>",
+          "[2] Lick (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.27,
+            "high_price": 50,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.27,
+            "direct_low_price": 3.22,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 0.71,
+            "high_price": 12.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.73,
+            "direct_low_price": 0.65,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89412"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

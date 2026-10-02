@@ -1,0 +1,72 @@
+{
+  "query": "1389 17",
+  "results": [
+    {
+      "id": "pk_a2178f6bd72942e0f3deafa700ac9da07409e5cbf5963f2060b67cd7203d72234ad97eec6e40d85b96bb966f",
+      "card_info": {
+        "name": "Entei (17)",
+        "clean_name": "Entei 17",
+        "set_name": "Neo Revelation",
+        "set_code": "N3",
+        "set_id": "1389",
+        "card_number": "17/64",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Legendary Body</strong> As long as Entei is your Active Pokémon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Entei. <em>(This power works even if Entei is Asleep, Confused, or Paralyzed.)</em>",
+        "attacks": [
+          "[RRR] Mega Flame (50)\r\n<br>Flip 2 coins. For each tails, discard 1 Fire Energy card from Entei, if it has any."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35.89,
+            "mid_price": 82.48,
+            "high_price": 848.84,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 82.23,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 13.7,
+            "mid_price": 19.95,
+            "high_price": 183.88,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 21.21,
+            "direct_low_price": 29.94,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85269"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

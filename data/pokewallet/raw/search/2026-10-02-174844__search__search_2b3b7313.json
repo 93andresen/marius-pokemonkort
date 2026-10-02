@@ -1,0 +1,102 @@
+{
+  "query": "1385 73",
+  "results": [
+    {
+      "id": "pk_29af6af6f1579d15f2dc8fbf301d7dcced9a1799b83987267e30342e1bf204df419ec41619e15fae2397df4146",
+      "card_info": {
+        "name": "Terrakion",
+        "clean_name": "Terrakion",
+        "set_name": "Noble Victories",
+        "set_code": "NVI",
+        "set_id": "1385",
+        "card_number": "73/101",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1F] Retaliate (30+) If any of your Pokemon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage.",
+          "[1FF] Land Crush (90)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.9,
+            "mid_price": 2.57,
+            "high_price": 32.84,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 2.43,
+            "direct_low_price": 2.67,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 2.7,
+            "mid_price": 3.84,
+            "high_price": 42.94,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 3.12,
+            "direct_low_price": 4,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89887"
+      },
+      "cardmarket": {
+        "product_name": "Terrakion",
+        "prices": [
+          {
+            "avg": 3.32,
+            "low": 0.2,
+            "avg1": 3.95,
+            "avg7": 1.98,
+            "avg30": 2.23,
+            "trend": 1.75,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.35,
+            "avg1": 2.08,
+            "avg7": 3.38,
+            "avg30": 2.89,
+            "trend": 3.19,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Terrakion-NVI73"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

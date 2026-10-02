@@ -1,0 +1,98 @@
+{
+  "query": "1398 54",
+  "results": [
+    {
+      "id": "pk_00f37841c6bd4ab2ce421090745d1f2d849d935d0039943b7d9e8b3cf7f0d4e20abd27dcf2a93ad167fd7c7444",
+      "card_info": {
+        "name": "Cyndaquil",
+        "clean_name": "Cyndaquil",
+        "set_name": "Unseen Forces",
+        "set_code": "UF",
+        "set_id": "1398",
+        "card_number": "54/115",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Paralyzing Gaze \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[1R] Fireworks (30) \r\n<br>Flip a coin.  If tails, discard a Fire Energy card attached to Cyndaquil."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.99,
+            "high_price": 44.6,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 2.6,
+            "direct_low_price": 2.6,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 59.99,
+            "mid_price": 84.97,
+            "high_price": 249.99,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 40,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84550"
+      },
+      "cardmarket": {
+        "product_name": "Cyndaquil",
+        "prices": [
+          {
+            "avg": 18.26,
+            "low": 3.2,
+            "avg1": 45,
+            "avg7": 14.61,
+            "avg30": 18.33,
+            "trend": 17.86,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.75,
+            "low": 0.02,
+            "avg1": 0.83,
+            "avg7": 0.34,
+            "avg30": 0.71,
+            "trend": 0.53,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Unseen-Forces/Cyndaquil-UF54"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

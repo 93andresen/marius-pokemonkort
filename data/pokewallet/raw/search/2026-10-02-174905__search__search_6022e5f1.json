@@ -1,0 +1,97 @@
+{
+  "query": "1417 52",
+  "results": [
+    {
+      "id": "pk_8a5b982b9d66dfb7a2f80c28eb6f28939fe2bb3d8f9bc9ce315cb685e007f425185a8c93eb6253e66d5521401a",
+      "card_info": {
+        "name": "Dragonair",
+        "clean_name": "Dragonair",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "52/146",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Wrap (20)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[3] Rising Lunge (30+)\r\n<br>\r\nFlip a coin. If heads, this attack does 30 damage plus 20 more damage."
+        ],
+        "weakness": "C+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 28,
+            "mid_price": 156.21,
+            "high_price": 499.99,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 41,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 6.2,
+            "mid_price": 9.71,
+            "high_price": 109.74,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 12.96,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84900"
+      },
+      "cardmarket": {
+        "product_name": "Dragonair Lv.31",
+        "prices": [
+          {
+            "avg": 20.47,
+            "low": 3,
+            "avg1": 15.99,
+            "avg7": 16.28,
+            "avg30": 11.27,
+            "trend": 26.05,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.19,
+            "low": 0.8,
+            "avg1": 5.63,
+            "avg7": 3.13,
+            "avg30": 3.04,
+            "trend": 2.84,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dragonair-Lv31-V2-LA52"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

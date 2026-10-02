@@ -1,0 +1,72 @@
+{
+  "query": "1434 66",
+  "results": [
+    {
+      "id": "pk_cac6e18a7e92b7abc0fad72666632c2ab9ea52faae88fb360ae74fccd6961a2fba8edf81f3deee1731ec78be",
+      "card_info": {
+        "name": "Tyrogue",
+        "clean_name": "Tyrogue",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "66/75",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+        "attacks": [
+          "[1] Smash Punch (30)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.86,
+            "mid_price": 3.77,
+            "high_price": 32.12,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.29,
+            "direct_low_price": 5.24,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.38,
+            "mid_price": 0.81,
+            "high_price": 35,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.16,
+            "direct_low_price": 0.69,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90128"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

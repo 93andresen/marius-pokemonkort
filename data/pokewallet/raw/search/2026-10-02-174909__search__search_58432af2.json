@@ -1,0 +1,73 @@
+{
+  "query": "1434 32",
+  "results": [
+    {
+      "id": "pk_ed3624519e47271257a82a3f6a3f932f50dad08b11a8244c3c2ca9103cd37f6356994c8ee8228cd98a12a01b",
+      "card_info": {
+        "name": "Umbreon (32)",
+        "clean_name": "Umbreon 32",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "32/75",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[2D] Pursuit (30)\r\n<br>During your opponent's next turn, if the Defending Pokémon tries to retreat, do 10 damage to it. <em>(Don't apply Weakness and Resistance.)</em>"
+        ],
+        "weakness": null,
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 300,
+            "mid_price": 448.97,
+            "high_price": 499.98,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 300,
+            "direct_low_price": 499.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 79.99,
+            "mid_price": 449.99,
+            "high_price": 1337.62,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 105.78,
+            "direct_low_price": 479.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90142"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

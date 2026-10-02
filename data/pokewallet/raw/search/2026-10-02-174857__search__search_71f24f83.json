@@ -1,0 +1,273 @@
+{
+  "query": "Neo Genesis 8",
+  "results": [
+    {
+      "id": "pk_f8102526d3c69bcc0d43504f8f50a9877f37937395527850216e862cc51ea013c92997a5f0543239ac5d85c67d8b",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "108/111",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.37,
+            "high_price": 14.8,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": 0.37,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 0.63,
+            "mid_price": 1.14,
+            "high_price": 4.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85870"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fb39b715e719387cc0be0d4fdd4c86fb067b8e78a32faeae89025227ed8f834373a2aac6da12a2d24e8b9d9765",
+      "card_info": {
+        "name": "Mary",
+        "clean_name": "Mary",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "087/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.45,
+            "mid_price": 3.49,
+            "high_price": 26.49,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.64,
+            "direct_low_price": 5.98,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2.5,
+            "mid_price": 4.76,
+            "high_price": 47.46,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.27,
+            "direct_low_price": 47.43,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87241"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_11ba3d2ab6faa7ce21f0af4a5408d74284aa3081068eeaa30b3b75e13670b9d93ab18cabe14927d0f8e7649fbd",
+      "card_info": {
+        "name": "Focus Band",
+        "clean_name": "Focus Band",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "086/111",
+        "rarity": "Rare",
+        "card_type": "Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Focus Band to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n<br>\r\nIf the Pokémon Focus Band is attached to would be Knocked Out by your opponent's attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.4,
+            "mid_price": 49.42,
+            "high_price": 117.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 17.06,
+            "direct_low_price": 38.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.88,
+            "mid_price": 12.24,
+            "high_price": 251,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 11.63,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85536"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1425e34b16e43a98c909e6518656f4a43a3fe2c10f7dc0444057a782f2d65cee25effd138e295ad89fdf60c848",
+      "card_info": {
+        "name": "PokeGear",
+        "clean_name": "PokeGear",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "088/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You can't play any more Trainer cards this turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.05,
+            "high_price": 96.95,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.69,
+            "direct_low_price": 1.24,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 1.3,
+            "mid_price": 2.69,
+            "high_price": 33.34,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.56,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88204"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cd08033dbd37eebb6ebf2aab0532ab31df42079998c0653cc183e2a73e678a4edc05dc94c611072ba899f00411",
+      "card_info": {
+        "name": "Energy Charge",
+        "clean_name": "Energy Charge",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "085/111",
+        "rarity": "Rare",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.89,
+            "mid_price": 2.85,
+            "high_price": 37.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.01,
+            "direct_low_price": 3.1,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1,
+            "mid_price": 2.4,
+            "high_price": 96.94,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.33,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85210"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 20,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 20,
+    "tcg": 20,
+    "cardmarket": 0,
+    "tcg_only": 20,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

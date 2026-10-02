@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=1385+73&limit=5
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:48:44 GMT
+Content-Type: application/json
+Content-Length: 1704
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 939
+X-RateLimit-Remaining-Hour: 39
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pPhj8gGJqoCNExxfI5Iz6NlZz1QdtFq00tihjEDkSuCYxbAL6NkzBv4HCogOtyYGi452qxUbmECBfGFCVy638Mwe7xdT%2BCjtMRLzDBYYXW2kMXondioR0%2BamARYuhTOEWwLY5saGqLqggjMdmT7Cjw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444da5f09f3b4f9-OSL
+alt-svc: h3=":443"; ma=86400

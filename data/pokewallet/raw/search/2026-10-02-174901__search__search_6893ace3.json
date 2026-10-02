@@ -1,0 +1,99 @@
+{
+  "query": "1403 10",
+  "results": [
+    {
+      "id": "pk_a2bba8e9e05f3edc963632ced6b84410adfb96ba54c9d82dc7b6cbbaba99d12fb7ead9923ba1651bd0bbc06b",
+      "card_info": {
+        "name": "Umbreon",
+        "clean_name": "Umbreon",
+        "set_name": "Undaunted",
+        "set_code": "UD",
+        "set_id": "1403",
+        "card_number": "10/90",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Moonlight Fang (30) During your opponent's next turn, prevent all effects, including damage, done to Umbreon by attacks from your opponent's Pokemon that has any Poke-Powers or Poke-Bodies.",
+          "[1D] Quick Blow (30+) Flip a coin.  If heads, this attack does 30 damage plus 30 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 90,
+            "mid_price": 102.48,
+            "high_price": 679.34,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 96.83,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 114.99,
+            "mid_price": 1999.99,
+            "high_price": 2099.99,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90145"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon",
+        "prices": [
+          {
+            "avg": 22.82,
+            "low": 3.5,
+            "avg1": 49.95,
+            "avg7": 20.62,
+            "avg30": 28.13,
+            "trend": 24.87,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 17.55,
+            "low": 0.99,
+            "avg1": 9.5,
+            "avg7": 24.78,
+            "avg30": 19.34,
+            "trend": 33.08,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Umbreon-UD10"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

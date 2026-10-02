@@ -1,0 +1,94 @@
+{
+  "query": "1430 117",
+  "results": [
+    {
+      "id": "pk_627f265dd3440d20a05ef0dcd6bbec10d568ec410646c19b78dbbc823804e63489ab9dfeb34e931ccfe78ad24e16",
+      "card_info": {
+        "name": "Energy Search",
+        "clean_name": "Energy Search",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "117/130",
+        "rarity": "Common",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.22,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.91,
+            "mid_price": 1.25,
+            "high_price": 27.04,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 1.18,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85245"
+      },
+      "cardmarket": {
+        "product_name": "Energy Search",
+        "prices": [
+          {
+            "avg": 1.6,
+            "low": 0.02,
+            "avg1": 2.5,
+            "avg7": 1.77,
+            "avg30": 1.39,
+            "trend": 2.42,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.11,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Energy-Search-DP117"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

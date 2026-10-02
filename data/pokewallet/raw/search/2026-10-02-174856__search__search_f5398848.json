@@ -1,0 +1,277 @@
+{
+  "query": "N1 8",
+  "results": [
+    {
+      "id": "pk_f8102526d3c69bcc0d43504f8f50a9877f37937395527850216e862cc51ea013c92997a5f0543239ac5d85c67d8b",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "108/111",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.37,
+            "high_price": 14.8,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 0.46,
+            "direct_low_price": 0.37,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 0.63,
+            "mid_price": 1.14,
+            "high_price": 4.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 1.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85870"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fb39b715e719387cc0be0d4fdd4c86fb067b8e78a32faeae89025227ed8f834373a2aac6da12a2d24e8b9d9765",
+      "card_info": {
+        "name": "Mary",
+        "clean_name": "Mary",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "087/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.45,
+            "mid_price": 3.49,
+            "high_price": 26.49,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.64,
+            "direct_low_price": 5.98,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2.5,
+            "mid_price": 4.76,
+            "high_price": 47.46,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 5.27,
+            "direct_low_price": 47.43,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87241"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f0bb7daffce1cc1fa06cfb853598f45bc8139cab75b97fcb46c2255c22793ed60187ae9d54d8a21237d1216bd8",
+      "card_info": {
+        "name": "Wooper",
+        "clean_name": "Wooper",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "082/111",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Amnesia\r\n<br>Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "[2] Slam (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.72,
+            "high_price": 23.99,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.99,
+            "direct_low_price": 1.5,
+            "sub_type_name": "Unlimited"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 9.68,
+            "high_price": 36.86,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 9.64,
+            "direct_low_price": 8.05,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90632"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4183f1e392fb776cb463d6ae28d9687a601e9ec032e6818b5512bc72aed25109a65dfed058414eb134d807256e",
+      "card_info": {
+        "name": "Super Energy Retrieval",
+        "clean_name": "Super Energy Retrieval",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "089/111",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.13,
+            "mid_price": 3.49,
+            "high_price": 35.34,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.4,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 2.16,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 2.35,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89628"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_33761935794c878c84ff0aa0984ddeba0c40982f428a1b3bf03adb3411c3da486bbe5160452122cbcc173c5ab1",
+      "card_info": {
+        "name": "Ecogym",
+        "clean_name": "Ecogym",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "084/111",
+        "rarity": "Rare",
+        "card_type": "Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n<br>\r\nWhenever an attack, Pokémon Power, or Trainer card discards another player's non-Colorless Energy card from a Pokémon, return that Energy card to its owner's hand. <em>(Energy cards that are discarded when that Pokémon is Knocked Out don't count.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.75,
+            "mid_price": 4,
+            "high_price": 53.64,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 4.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.49,
+            "mid_price": 2.98,
+            "high_price": 27.82,
+            "updated_at": "2026-10-02T10:48:37.747076",
+            "market_price": 3.36,
+            "direct_low_price": 1.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85066"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 20,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 20,
+    "tcg": 20,
+    "cardmarket": 0,
+    "tcg_only": 20,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

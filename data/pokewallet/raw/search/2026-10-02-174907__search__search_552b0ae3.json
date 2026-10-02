@@ -1,0 +1,62 @@
+{
+  "query": "1429 41",
+  "results": [
+    {
+      "id": "dc964117624a66a340572753e70c3911df2a612d13b00a1a1a81a2b5fe867f45",
+      "card_info": {
+        "name": "Dragonair δ Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "41",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Dragonair δ Delta Species",
+        "prices": [
+          {
+            "avg": 15,
+            "low": 9,
+            "avg1": 15,
+            "avg7": 30.56,
+            "avg30": 23.77,
+            "trend": 84.95,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.02,
+            "low": 0.05,
+            "avg1": 3,
+            "avg7": 3.04,
+            "avg30": 2.91,
+            "trend": 3.87,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Dragonair-Delta-Species-DS41"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 0,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "query": "1419 46",
+  "results": [
+    {
+      "id": "pk_7e69972295f1bdf2aa0b87d8423ec9f4692d6bf91ea90b3fcf9bca02ce73f96421c30587a05530932f6f8bf58d",
+      "card_info": {
+        "name": "Poliwhirl",
+        "clean_name": "Poliwhirl",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "46/112",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Energy Stream (10) \r\n<br>Flip a coin.  Search your discard pile for a basic Energy card and attach it to Poliwhirl.",
+          "[1W] Bubble (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.91,
+            "mid_price": 20,
+            "high_price": 35,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 4.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 44.6,
+            "mid_price": 148.43,
+            "high_price": 497.87,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 51.12,
+            "direct_low_price": 148.43,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88265"
+      },
+      "cardmarket": {
+        "product_name": "Poliwhirl",
+        "prices": [
+          {
+            "avg": 2.91,
+            "low": 0.15,
+            "avg1": 2.48,
+            "avg7": 2.11,
+            "avg30": 2.56,
+            "trend": 2.85,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.75,
+            "low": 4.94,
+            "avg1": 7,
+            "avg7": 9.8,
+            "avg30": 11.18,
+            "trend": 12.4,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Poliwhirl-FL46"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

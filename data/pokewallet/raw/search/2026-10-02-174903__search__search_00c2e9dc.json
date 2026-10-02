@@ -1,0 +1,95 @@
+{
+  "query": "1410 102",
+  "results": [
+    {
+      "id": "pk_2d41fe6f6139544ef4c99bbda7da1321e6c2473445123eba8fb5665a1ac2c34d3c87ba43f30fdc46876ce8b5b577",
+      "card_info": {
+        "name": "Fire Energy",
+        "clean_name": "Fire Energy",
+        "set_name": "Emerald",
+        "set_code": "EM",
+        "set_id": "1410",
+        "card_number": "102/106",
+        "rarity": "Holo Rare",
+        "card_type": "Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.5,
+            "mid_price": 18.7,
+            "high_price": 219.84,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 19.97,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 12.65,
+            "mid_price": 19.21,
+            "high_price": 184.24,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 17.6,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85459"
+      },
+      "cardmarket": {
+        "product_name": "Fire Energy",
+        "prices": [
+          {
+            "avg": 2.95,
+            "low": 2,
+            "avg1": 2.95,
+            "avg7": 6.74,
+            "avg30": 5.84,
+            "trend": 5.24,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.64,
+            "low": 1.9,
+            "avg1": 4.3,
+            "avg7": 4.23,
+            "avg30": 4.9,
+            "trend": 5.08,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Fire-Energy-EM102"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

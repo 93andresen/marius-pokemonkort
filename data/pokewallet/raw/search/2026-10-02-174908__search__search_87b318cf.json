@@ -1,0 +1,96 @@
+{
+  "query": "1430 43",
+  "results": [
+    {
+      "id": "pk_edbbf2c21eaaaefb3f0d1d60c919372329675b3d2bb64627fab910861cdacd46e47871441b8082e8d8dfb3e8c4",
+      "card_info": {
+        "name": "Budew",
+        "clean_name": "Budew",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "43/130",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put Roselia from your hand onto Budew (this counts as evolving Budew) and remove all damage counters from Budew.",
+        "attacks": [
+          "[0] Errand-Running\r\n<br>Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        ],
+        "weakness": "R+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 3,
+            "high_price": 52.94,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 4.57,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.31,
+            "mid_price": 12.36,
+            "high_price": 79.74,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 12.9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84010"
+      },
+      "cardmarket": {
+        "product_name": "Budew Lv.6",
+        "prices": [
+          {
+            "avg": 0.67,
+            "low": 0.05,
+            "avg1": 0.45,
+            "avg7": 0.38,
+            "avg30": 0.85,
+            "trend": 1.49,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.43,
+            "low": 0.09,
+            "avg1": 6.74,
+            "avg7": 3.47,
+            "avg30": 3.63,
+            "trend": 3.82,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Budew-Lv6-DP43"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

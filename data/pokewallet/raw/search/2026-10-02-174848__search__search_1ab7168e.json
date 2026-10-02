@@ -1,0 +1,97 @@
+{
+  "query": "1395 64",
+  "results": [
+    {
+      "id": "pk_5a4bc5089043695ae6d3c18175d66b321dc2d9fdc445cdf61812a7b102de446b767e5d2e6e62f07d30f9e11549",
+      "card_info": {
+        "name": "Squirtle - 064/100",
+        "clean_name": "Squirtle",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "64/100",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "Solid Shell - Any damage done to Squirtle by attacks is reduced by 10 (after applying Weakness and Resistance).  (Poke-BODY)",
+        "attacks": [
+          "[1] Bubblebeam (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 108.24,
+            "mid_price": 115.14,
+            "high_price": 145,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 119.74,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 4.18,
+            "mid_price": 16.77,
+            "high_price": 96.27,
+            "updated_at": "2026-10-02T10:48:36.87607",
+            "market_price": 17.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89492"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 10.39,
+            "low": 0.1,
+            "avg1": 2.58,
+            "avg7": 2.72,
+            "avg30": 9.06,
+            "trend": 9.39,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 27.3,
+            "low": 14.98,
+            "avg1": 75,
+            "avg7": 55.35,
+            "avg30": 61.73,
+            "trend": 202.12,
+            "updated_at": "2026-10-02T10:25:25.392497",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Squirtle-CG64"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

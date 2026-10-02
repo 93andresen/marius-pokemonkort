@@ -1,0 +1,409 @@
+{
+  "query": "1384 8",
+  "results": [
+    {
+      "id": "pk_cdffc1f79baffd4fec42cc1f8ee7607b84f9d257375841254d44bc0d5aba61122abe53dda9cc67ee2b",
+      "card_info": {
+        "name": "Togekiss C",
+        "clean_name": "Togekiss C",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "86",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Collect - Draw a card.",
+          "[2] Reckless Charge (30) Togekiss C does 10 damage to itself."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.7,
+            "mid_price": 34.64,
+            "high_price": 999.74,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 33.78,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 2.93,
+            "high_price": 28.94,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 7.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89926"
+      },
+      "cardmarket": {
+        "product_name": "Togekiss [C] Lv.60",
+        "prices": [
+          {
+            "avg": 0.9,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 0.75,
+            "avg30": 1.09,
+            "trend": 1.03,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.7,
+            "low": 0.75,
+            "avg1": 4,
+            "avg7": 6.05,
+            "avg30": 4.36,
+            "trend": 6.37,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Togekiss-C-Lv60-SV86"
+      }
+    },
+    {
+      "id": "pk_aec5f348c7649e82c472e1de3d5694facef3b3180bb9153fe6837da3f1acd4697bdbff7fec846db718",
+      "card_info": {
+        "name": "Baltoy",
+        "clean_name": "Baltoy",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "89",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Spinning Attack (10)",
+          "[2] Quick Turn (20x) Flip 2 coins.  This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "P+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.9,
+            "mid_price": 7.99,
+            "high_price": 89.64,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 4.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.27,
+            "mid_price": 0.74,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 0.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83717"
+      },
+      "cardmarket": {
+        "product_name": "Baltoy Lv.19",
+        "prices": [
+          {
+            "avg": 2.06,
+            "low": 0.3,
+            "avg1": 3.5,
+            "avg7": 2.95,
+            "avg30": 2.05,
+            "trend": 2.48,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.32,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.26,
+            "avg30": 0.27,
+            "trend": 0.22,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Baltoy-Lv19-SV89"
+      }
+    },
+    {
+      "id": "pk_53542c3fd04fb92cd5a82cfa2eba564153cd487d9c80bcc1b4aca190c302f9b06d3c1c4a6a4411b8",
+      "card_info": {
+        "name": "Rayquaza C",
+        "clean_name": "Rayquaza C",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "8",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Trash Burst (10+) You may discard up to 5 Energy cards from your hand.  If you do, this attack does 10 damage plus 10 more damage for each Energy card you discarded.",
+          "[4] Twister (50) Flip 2 coins.  If both are tails, this attack does nothing.  For each heads, discard an Energy attached to the Defending Pokemon."
+        ],
+        "weakness": "Cx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 399,
+            "mid_price": 400,
+            "high_price": 499.99,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 70.62,
+            "direct_low_price": 425,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 104.52,
+            "mid_price": 134.85,
+            "high_price": 402.44,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 125.61,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88639"
+      },
+      "cardmarket": {
+        "product_name": "Rayquaza [C] Lv.73",
+        "prices": [
+          {
+            "avg": 30.75,
+            "low": 8,
+            "avg1": 10,
+            "avg7": 25.72,
+            "avg30": 29.63,
+            "trend": 119.47,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 44,
+            "low": 9,
+            "avg1": 95,
+            "avg7": 34.99,
+            "avg30": 33.29,
+            "trend": 44.95,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Rayquaza-C-Lv73-SV8"
+      }
+    },
+    {
+      "id": "pk_885f43190c57cef6f204718ceecaf2a22d66e95e2044da78c338f5a2b839db1260833fe3d21ec198a2",
+      "card_info": {
+        "name": "Roserade",
+        "clean_name": "Roserade",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "81",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Cut (20)",
+          "[2G] Poison Seed (30) The Defending Pokemon is now Poisoned."
+        ],
+        "weakness": "R+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.19,
+            "mid_price": 0.63,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.25,
+            "mid_price": 2.63,
+            "high_price": 220.64,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 2.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88829"
+      },
+      "cardmarket": {
+        "product_name": "Roserade Lv.25",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.39,
+            "avg30": 0.35,
+            "trend": 0.43,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2,
+            "low": 0.25,
+            "avg1": 5,
+            "avg7": 2.32,
+            "avg30": 1.32,
+            "trend": 1.95,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Roserade-Lv25-SV81"
+      }
+    },
+    {
+      "id": "pk_dbbf87bcb8a8cb5699268ffe773f6db1aaa377980e3c22ef7ca8bc84ca0923deb924b5dd39e04c56bc",
+      "card_info": {
+        "name": "Rotom",
+        "clean_name": "Rotom",
+        "set_name": "Supreme Victors",
+        "set_code": "SV",
+        "set_id": "1384",
+        "card_number": "82",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Discharge (40x) Discard all L Energy attached to Rotom.  Flip a coin for each Energy card you discarded.  This attack does 40 damage times the number of heads.",
+          "[2] Uproar - This attack does 10 damage to each of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "D+20",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.44,
+            "mid_price": 1,
+            "high_price": 19.82,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 1.54,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.57,
+            "mid_price": 6.59,
+            "high_price": 94.74,
+            "updated_at": "2026-10-02T10:48:35.994816",
+            "market_price": 7.24,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88838"
+      },
+      "cardmarket": {
+        "product_name": "Rotom Lv.40",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.05,
+            "avg1": 0.35,
+            "avg7": 0.31,
+            "avg30": 0.39,
+            "trend": 0.37,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1,
+            "low": 0.5,
+            "avg1": 0.5,
+            "avg7": 0.98,
+            "avg30": 1.47,
+            "trend": 1.06,
+            "updated_at": "2026-10-02T10:25:31.336544",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Rotom-Lv40-SV82"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 5,
+    "total": 11,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}
