@@ -226,7 +226,9 @@ def build_movers(jsonl: Path) -> list[list]:
                 price = fnum(rec.get("cmk_trend"))
             if price is None:
                 continue
-            key = (rec.get("set_id"), rec.get("number_norm"))
+            # Key on the stable pk_id so we never compare a (pre-fix) wrong
+            # match against the card it *should* have matched.
+            key = rec.get("pk_id") or (rec.get("set_id"), rec.get("number_norm"))
             ts = str(rec.get("run_ts_utc") or "")
             if key not in first or ts < first[key][1]:
                 first[key] = (price, ts, rec)
@@ -378,10 +380,12 @@ def main(argv: list[str] | None = None) -> int:
         "Movers": {"header": ["Set", "Product", "Number", "First", "Latest", "Delta",
                               "Delta %", "First seen (UTC)", "Latest (UTC)", "Source"],
                    "rows": build_movers(jsonl)},
-        "Coverage": {"header": ["Metric", "Value"], "rows": coverage_summary},
+        # Coverage/Config rows already begin with their own header row (the
+        # builders emit it), so keep `header` empty to avoid a duplicate row.
+        "Coverage": {"header": [], "rows": coverage_summary},
         "CoverageMissing": {"header": ["Row", "Set", "Product", "Number", "Served From",
                                        "Match Method", "Set ID"], "rows": coverage_missing},
-        "Config": {"header": ["Key", "Value", "Note"], "rows": build_config(sheet_id, apps_script_id)},
+        "Config": {"header": [], "rows": build_config(sheet_id, apps_script_id)},
         "RateLog": {"header": ["timestamp_utc", "endpoint", "path", "query", "status",
                                "remaining_hour", "remaining_day", "ok", "error"], "rows": rate_rows},
         "FINN": {"header": ["FINN-kode", "Title", "Price (NOK)", "Matched card", "Market price",
