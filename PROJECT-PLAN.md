@@ -274,7 +274,9 @@ Never trust a `/search` hit without validation.
 
 1. Live API version is **1.7.1** (docs say 1.1.0).
 2. `product_type` field present in `card_info` (undocumented).
-3. `set_code` live value `BA24` vs. docs example `BA2024` — do not rely on `set_code`; prefer `set_id`.
+3. `set_code` live value `BA24` vs. docs example `BA2024` — `set_code` is unreliable; but `set_id`
+   is **also** unreliable for negative-id sets (see §5.3). Neither key alone is safe — always try
+   both, then the canonical set name, and **validate** the returned card before trusting it.
 
 → Record these in `docs/pokewallet_io_api-VERIFIED-NOTES.md` and reference that file from the docs.
 
@@ -324,13 +326,25 @@ One script that exposes **every** endpoint. Requirements:
   `pk_id`, `matched_name`, `matched_set_id`, `match_method`, `match_confidence`.
 - **Unmatched rows are a visible, listable output** — never silently dropped.
 
-### 7.4 `pokewallet/fetch_prices.py` — resumable snapshot capture
-- Input: resolved portfolio. Output: `data/pokewallet/snapshots/portfolio_<timestamp>.jsonl` (one
-  record per card: id, set_id, number, name, prices{}, source, fetched_at, remaining budget).
-- **Budget-aware:** stop at the safety floor, write `state/price_run_<timestamp>.json` with what's
-  done and what remains → resumable in the next hour.
-- Prefer fetching by `id` (`/cards/:id`, 60-min cache) but fall back to `/search` for lookups.
-- Never lose a completed card: each record is flushed as it is written (append-only JSONL).
+### 7.4 `pokewallet/fetch_prices.py` — resumable snapshot capture *(implemented)*
+- Input: resolved portfolio. Output: `data/pokewallet/snapshots/portfolio_<timestamp>.csv` (flat
+  per-run table) **plus** an append-only `snapshots/portfolio_prices.jsonl` (one JSON record per
+  card per run). Header includes `served_from` to record where each price came from.
+- **Multi-key lookup + validation:** for each card try `set_id` → `set_code` → canonical set name
+  in `/search`, validate every candidate with `validate_match` (name + number + set agreement), and
+  only then accept a price (§5.3). The raw candidate list is captured for audit.
+- **Resume / merge (the fix that stops budget waste):** on startup, `load_latest_snapshots()` reads
+  the JSONL and keeps the newest record per `(set_id, number_norm)`. Cards whose cached price is
+  `found` and younger than `--fresh-hours` (default 20) are emitted straight to the snapshot with
+  `served_from="cache"` and **cost zero API calls**. Only *gaps* are fetched.
+- **Never lose a price:** a failed refetch `carry_forward`s the last cached price with
+  `served_from="cache-fallback"` (or `"miss"` if there never was one). Orphans (cards no longer in
+  the CSV) are still written with `served_from="orphan"`. Nothing is ever overwritten or deleted.
+- **Budget-aware:** stops at `MIN_HOUR_REMAINING_DEFAULT` / `MIN_DAY_REMAINING_DEFAULT` and reports
+  `stopped=True` in the `stats` dict → resumable in the next hour.
+- **Orchestrator `pokewallet/fetch_loop.py`** drives repeated passes across hourly windows until the
+  portfolio is complete (`--max-hours`, `--sleep`, `--stale-limit`); stale-detection stops once the
+  remaining cards are provably absent from the API.
 
 ### 7.5 `sheet/build_sheet.py` — spreadsheet build & publish
 - Uses the Google Sheets MCP (`list_sheets`, `create_sheet`, `update_cells`, `batch_update_cells`,
@@ -408,9 +422,11 @@ during the earlier phase — reuse the good parts, but the pivot to per-card sna
 | D2 | 2026-10-02 | Retire `web_to_md.py --js`; extract **structured JSON** from FINN | User: Markdown conversion throws away data and is brittle. See spec §0.5. |
 | D3 | 2026-10-02 | Build **one generic API client** covering every endpoint | User: "could just make a script that can be used for any of the api's functionalities." |
 | D4 | 2026-10-02 | Create **our own price history** via snapshots | `/prices` and price-history are PRO-blocked; history can't be back-filled → capture now. |
-| D5 | 2026-10-02 | Prefer `set_id`+`card_number` lookups | Far better disambiguation than names. |
+| D5 | 2026-10-02 | ~~Prefer `set_id`+`card_number` lookups~~ **SUPERSEDED by D8** | Original assumption; proven wrong for negative-id sets. |
 | D6 | 2026-10-02 | Commit continuously, including failures | User: "I JUST WANT TO SEE THE PROCESS!" |
 | D7 | 2026-10-02 | Store PriceCharting links as unconfirmed | User: not confirmation unless user confirms. |
+| D8 | 2026-10-02 | Card lookup = **multi-key (`set_id`→`set_code`→set name) + mandatory validation** | Negative set ids (`LOT=-113`, `CS5.1C=-38`, …) return unrelated cards; only name+number validation is safe. See VERIFIED-NOTES §6.1. |
+| D9 | 2026-10-02 | Fetcher **resumes from the JSONL** (`--fresh-hours`, `served_from`) instead of refetching every card | The 100/hr cap makes re-spending budget on resolved cards wasteful; gaps-only fetching is the only way to fill 175 cards. See §7.4. |
 
 ---
 
@@ -420,10 +436,10 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 
 - [x] **M0 — Recon & verify.** Read all docs/docs; verify API key, endpoints, rate limits, response shape.
 - [x] **M1 — Spec pivot.** `scraper-parser-spec.md` updated (Sheet ID ref + structured-scraping pivot). Committed.
-- [-] **M2 — Plan.** This document. + `docs/pokewallet_io_api-VERIFIED-NOTES.md`.
-- [ ] **M3 — API client.** `pokewallet_client.py` (all endpoints, raw-saving, rate-aware, RateLog).
-- [ ] **M4 — Sets + resolution.** `sync_sets.py`, `resolve_portfolio.py`; produce resolved portfolio + unmatched list.
-- [ ] **M5 — Price run.** `fetch_prices.py`; start capturing snapshots for the whole portfolio **immediately**.
+- [x] **M2 — Plan.** This document. + `docs/pokewallet_io_api-VERIFIED-NOTES.md`.
+- [x] **M3 — API client.** `pokewallet_client.py` (all endpoints, raw-saving, rate-aware, RateLog).
+- [x] **M4 — Sets + resolution.** `sync_sets.py`, `resolve_portfolio.py`; resolved portfolio + unmatched list (178/191).
+- [-] **M5 — Price run.** `fetch_prices.py` + `fetch_loop.py` running; snapshots accumulating across hourly windows.
 - [ ] **M6 — Spreadsheet.** Build tabs, seed data, dashboards, sorting.
 - [ ] **M7 — FINN search + ad scrapers** (structured JSON, folder-per-ad, images).
 - [ ] **M8 — FINN matcher** (search/ad → candidates → prices, budget-capped).
@@ -436,7 +452,8 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 
 ## 12. Testing & verification
 
-- `pokewallet/_smoke/` holds the initial smoke captures (health, root, search) — extend, never delete.
+- Every API call is saved under `data/pokewallet/raw/<endpoint>/` (timestamped JSON + `.headers`
+  sidecar) — extend, never delete. (Formerly `pokewallet/_smoke/`; see VERIFIED-NOTES header.)
 - Every script supports `--dry-run` where a call would be made.
 - Verification is explicit: counts (rows resolved, images downloaded, cards priced) are printed and
   compared to expectations; mismatches are surfaced, not hidden.
@@ -454,11 +471,11 @@ When resuming, do this:
 5. Commit before and after each meaningful step.
 
 **Next actions right now (in order):**
-1. Write `docs/pokewallet_io_api-VERIFIED-NOTES.md` and commit (M2).
-2. Build `pokewallet/pokewallet_client.py` (M3) and smoke-test every free endpoint.
-3. Build `sync_sets.py` + `resolve_portfolio.py` (M4), producing the resolved CSV + unmatched list.
-4. Start `fetch_prices.py` and **begin the first portfolio snapshot run** (M5).
-5. Build the sheet (M6).
+1. ✅ `docs/pokewallet_io_api-VERIFIED-NOTES.md` written (M2).
+2. ✅ `pokewallet/pokewallet_client.py` built + smoke-tested (M3).
+3. ✅ `sync_sets.py` + `resolve_portfolio.py` done — 178/191 resolved (M4).
+4. 🔁 `fetch_prices.py` + `fetch_loop.py` running; keep filling the portfolio each hour (M5).
+5. ⏭️ Build the sheet (M6) — **next up**; then FINN tools (M7/M8) and browser augmentation (M9).
 
 ---
 
