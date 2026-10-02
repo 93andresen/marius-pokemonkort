@@ -1,0 +1,35 @@
+[
+  {
+    "parser_version": "finn_matcher/1.0.0",
+    "generated_at": "2026-10-02T16:35:25Z",
+    "finn_kode": null,
+    "url": null,
+    "heading": "Psychic Energy #101 Base Set (1999)",
+    "status": null,
+    "location": null,
+    "finn_price_nok": null,
+    "parsed": {
+      "card_name": "Psychic Energy Base Set",
+      "card_number": "101",
+      "set_hint": null,
+      "variant_hint": null,
+      "year": 1999
+    },
+    "queries": [
+      "Psychic Energy Base Set 101",
+      "Psychic Energy Base Set"
+    ],
+    "calls_spent": 0,
+    "cache_hit": false,
+    "candidates": [],
+    "best": null,
+    "value": null,
+    "pricecharting_url": "https://www.pricecharting.com/search-products?q=Psychic+Energy+Base+Set+101&type=prices",
+    "pricecharting_confirmed": false,
+    "notes": [
+      "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+      "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+      "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+    ]
+  }
+]

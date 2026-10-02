@@ -1,0 +1,11 @@
+{
+  "//": "Static-analysis config so editors (Pylance/Pyright) resolve the runtime sys.path hacks used by the tools. The finn/ scripts add pokewallet/ and finn/ to sys.path at runtime; extraPaths mirrors that for the type checker.",
+  "extraPaths": [
+    "finn",
+    "pokewallet"
+  ],
+  "exclude": [
+    "**/.trash",
+    "**/node_modules"
+  ]
+}

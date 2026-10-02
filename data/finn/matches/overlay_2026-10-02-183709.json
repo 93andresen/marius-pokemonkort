@@ -1,0 +1,98 @@
+[
+  {
+    "parser_version": "finn_matcher/1.0.0",
+    "generated_at": "2026-10-02T16:37:09Z",
+    "finn_kode": null,
+    "url": null,
+    "heading": "Psychic Energy #101 Base Set (1999)",
+    "status": null,
+    "location": null,
+    "finn_price_nok": null,
+    "parsed": {
+      "card_name": "Psychic Energy Base Set",
+      "card_number": "101",
+      "set_hint": null,
+      "variant_hint": null,
+      "year": 1999
+    },
+    "queries": [
+      "Psychic Energy Base Set 101",
+      "Psychic Energy Base Set"
+    ],
+    "calls_spent": 0,
+    "cache_hit": true,
+    "candidates": [
+      {
+        "pk_id": "pk_f6dcf8e6dcbadb2006d9618040fc1f1a62cfe6e9266a5b8b2dbcc379e346cc0d6a39b4f15f183cddb3150aff03",
+        "name": "Psychic Energy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "101/102",
+        "rarity": "Common",
+        "tcgplayer_url": "https://www.tcgplayer.com/product/42349",
+        "price_native": 0.67,
+        "price_currency": "USD",
+        "price_source": "both",
+        "tcg_market": 0.67,
+        "cmk_trend": null,
+        "score": 79,
+        "flags": [
+          "number",
+          "name_substr",
+          "has_price"
+        ]
+      },
+      {
+        "pk_id": "pk_0f8b5de25c363da929fdfb9a83e8333e1fb62388a600944fc7adfcf339c8a925b65393cf76ef4c5253a49b5b6c5ffe",
+        "name": "Psychic Energy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "101/102",
+        "rarity": "Common",
+        "tcgplayer_url": "https://www.tcgplayer.com/product/107096",
+        "price_native": 9.16,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "tcg_market": 9.16,
+        "cmk_trend": null,
+        "score": 79,
+        "flags": [
+          "number",
+          "name_substr",
+          "has_price"
+        ]
+      }
+    ],
+    "best": {
+      "pk_id": "pk_f6dcf8e6dcbadb2006d9618040fc1f1a62cfe6e9266a5b8b2dbcc379e346cc0d6a39b4f15f183cddb3150aff03",
+      "name": "Psychic Energy",
+      "set_name": "Base Set",
+      "card_number": "101/102",
+      "score": 79,
+      "flags": [
+        "number",
+        "name_substr",
+        "has_price"
+      ]
+    },
+    "value": {
+      "source": "both",
+      "native": 0.67,
+      "currency": "USD",
+      "est_nok": 7,
+      "fx_rate": 10.7,
+      "estimated": true,
+      "finn_nok": null,
+      "delta_nok": null
+    },
+    "pricecharting_url": "https://www.pricecharting.com/search-products?q=Psychic+Energy+Base+Set+101&type=prices",
+    "pricecharting_confirmed": false,
+    "notes": [
+      "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+      "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+      "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+    ]
+  }
+]

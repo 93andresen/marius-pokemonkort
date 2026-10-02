@@ -194,3 +194,5 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T16:07:00Z,search,/search,q=24269+031&limit=5,200,6,808,True,
 2026-10-02T16:07:01Z,search,/search,q=24310+068&limit=5,200,5,807,True,
 2026-10-02T16:22:04Z,search,/search,q=-240+0702&limit=5,200,4,806,True,
+2026-10-02T16:35:18Z,search,/search,q=Psychic+Energy+Base+Set+101&limit=20,200,3,805,True,
+2026-10-02T16:37:07Z,search,/search,q=-240+0702&limit=5,200,2,804,True,
