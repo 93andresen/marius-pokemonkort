@@ -4,3 +4,4 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T15:35:02Z,search,/search,q=pikachu&limit=2,200,98,998,True,
 2026-10-02T15:35:03Z,card,/cards/pk_4c87dcac6b799948e67647780ac444d88e323e31e0b4fefa55dce4be7a587ca712c9310e891e1ce44827,,200,97,997,True,
 2026-10-02T15:35:04Z,prices,/prices/base1,,403,96,996,False,HTTP 403
+2026-10-02T15:35:24Z,sets,/sets,,200,95,995,True,
