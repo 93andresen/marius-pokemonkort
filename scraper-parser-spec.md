@@ -3,10 +3,13 @@
 > **Origin:** grew out of the original human-written brief [`prompts-notes/scraper-parser-spec-prompt.md`](prompts-notes/scraper-parser-spec-prompt.md). That brief is superseded by this spec — kept only as history (nothing is ever deleted). We are starting from scratch here: nothing is based on the older spreadsheet/tracker docs, though links to relevant repo context are kept below.
 >
 > **Relevant context already in the repo:**
-> - Google Sheet: `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` (see [`prompts-notes/notes.md`](prompts-notes/notes.md))
+> - Google Sheet ID `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` — **the canonical home for this ID is now [`AGENTS.md`](AGENTS.md)** (top of file), *not* `prompts-notes/notes.md`.
+> - Master plan for the current work (portfolio pricing + FINN tooling): [`PROJECT-PLAN.md`](PROJECT-PLAN.md)
+> - PokeWallet API reference (everything we call): [`docs/pokewallet_io_api-docs.md`](docs/pokewallet_io_api-docs.md)
+> - Marius' collection export being priced: [`getcollectr/marius_pokemon_cards_collectr_export_2026-10-02-052742.csv`](getcollectr/marius_pokemon_cards_collectr_export_2026-10-02-052742.csv)
 > - Older spreadsheet tab architecture (pre-pivot, reference only): [`pokewallet-api-ideas/pokemon-card-collection-tracker-plan.md`](pokewallet-api-ideas/pokemon-card-collection-tracker-plan.md)
 > - Sample scraped ads (pre-pivot captures, now archived): [`.trash/finn/annonser/Pokemon_kort/Pokemon_kort.md`](.trash/finn/annonser/Pokemon_kort/Pokemon_kort.md)
-> - Scraper tool: `C:\data\code\93andresen_Scripts\web_to_md.py` (run with `uv run`, use `--js`)
+> - ~~Scraper tool: `C:\data\code\93andresen_Scripts\web_to_md.py` (run with `uv run`, use `--js`)~~ → **RETIRED 2026-10-02**, see the pivot note in §0.5. We no longer convert pages to Markdown.
 
 ---
 
@@ -19,6 +22,28 @@
 3. **Version the producer, version the output.** The parser is versioned, and every output row records the `parser_version` that produced it. When the parser is updated we may re-run it on sources, but we do not silently rewrite old values — a human may be referencing the data, and if a value changes, that change must be visible as history, not a silent mutation.
 4. **"Save everything" means there is no progress point to lose.** Every completed capture is durable the moment it is written. A crash mid-batch leaves a partial but valid archive — nothing is lost. What people usually call "checkpoints" (§4.4) exist only to avoid *re-requesting* the same URLs (politeness/efficiency), never to protect data.
 5. **Machine-read stays machine-read, humans stay in their own columns** — the two-kinds-of-data rule (§2.0). Writers never touch columns owned by other writers.
+
+---
+
+## 0.5 PIVOT (2026-10-02): structured extraction replaces markdown scraping
+
+> **Status:** active, decided. Supersedes every instruction further down that assumes a *Markdown capture* is the scrape format.
+
+**What changed, and why.** The earlier pipeline scraped FINN with `web_to_md.py --js` — rendering the page to *Markdown* and then regex-parsing the Markdown. We are abandoning that.
+
+- A FINN page is a React app; the data it shows (price, title, gallery UUIDs, description, map coords, favourites, breadcrumbs) is present in **structured form** — embedded JSON payloads, `data-*` attributes and stable DOM nodes.
+- Round-tripping through Markdown **throws information away** and inserts a lossy intermediate that then has to be re-parsed with brittle text anchors. Direct structured extraction is *cleaner, more complete and more robust in every dimension*.
+
+**New rules.**
+
+1. We extract **structured data directly** from the source page (DOM attributes / embedded JSON), and the scraper emits **JSON** as the machine format.
+2. Markdown is, at most, a **human-readable debug sidecar** — never the machine format, never the parse input.
+3. The `--js` / `web_to_md.py` scraping rule (§1.3) is **retired as a mandate**. The old Markdown captures stay in [`.trash/`](.trash) as history only.
+4. Machine-read *field definitions* and the **data-ownership model** (§2) are unchanged — only the **extraction mechanism** changes (DOM/JSON selectors instead of Markdown anchors).
+5. Structured captures are still **immutable sources** (§0.2): we store the raw JSON we received and parse downstream from that.
+6. Everything else in §0 (append-only, never delete, no silent success, versioned producers) and all of §2 stand.
+
+Implementation lives in [`finn/`](finn/); the whole-project map and resume instructions are in [`PROJECT-PLAN.md`](PROJECT-PLAN.md).
 
 ---
 
@@ -39,8 +64,8 @@
 - [ ] Keep the image **UUID in a manifest file** (or spreadsheet column) so re-scrapes can skip already-downloaded images (idempotent, resumable).
 
 ### 1.3 Raw capture policy
-- [ ] Always scrape with `--js` (Block B is a strict superset of Block A and adds: favorite count, "Send melding", expand button, breadcrumbs, high-res gallery). Block A is never enough.
-- [ ] Raw `.md` captures are **immutable archives** — never edit them after scraping. All cleaning/parsing happens downstream. If a parse bug is found later, re-parse the same raw file.
+- [ ] ~~Always scrape with `--js`~~ → **SUPERSEDED by §0.5.** We no longer scrape to Markdown at all. The equivalent guarantee is kept by extracting structured fields directly: favourite count, description, breadcrumbs, high-res gallery UUIDs and map coordinates all come from the structured payload, which is a superset of what any Markdown capture contained.
+- [ ] Raw captures (now **JSON**, formerly `.md`) are **immutable archives** — never edit them after scraping. All cleaning/parsing happens downstream. If a parse bug is found later, re-parse the same raw file.
 - [ ] Capture and store **scrape timestamp** separately from the ad's own "Sist endret" timestamp. Both go into the spreadsheet.
 - [ ] Detect and record ad **status** at scrape time: `Aktiv` / `Inaktiv` / `Solgt` — status is as valuable as price (see §3.4 comps).
 
