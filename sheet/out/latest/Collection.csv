@@ -1,0 +1,192 @@
+Row,Set,Product Name,Number,Rarity,Variance,Grade,Condition,Qty,Avg Cost (NOK),Collectr Market (NOK),Collectr Value (NOK),TCG Market (USD),CMK Trend (EUR),API Value (NOK),Price Source,Found,Served From,Match Method,PK Name,PK Set,Watchlist,Date Added
+111,Lost Thunder,Slowpoke,54,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,226.61,226.61,,,,cardmarket,True,cache,set:name_exact+card:name_number,Slowpoke,,false,2026-09-09
+85,Gem Pack,Captain Pikachu (Poke Ball Pattern) (CN),0702/09,Common,Holofoil,Ungraded,Near Mint,1,0.0,26.16,26.16,,,,,False,,set:name_partial,,,false,2026-09-22
+86,Gem Pack Vol. 5,Captain Pikachu (Star Reverse Holo) (CN),0103/07,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,39.53,39.53,,,,,False,,set:name_exact,,,false,2026-09-22
+1,Ancient Roar,Roaring Moon ex (JP),090/066,Special Art Rare,Holofoil,Ungraded,Near Mint,1,0.0,379.41,379.41,40.63,,438.8,both,True,cache,set:name_exact+card:name_number,Roaring Moon ex - 090/066,SV4K: Ancient Roar,false,2026-09-09
+190,Wild Force,Gastly (JP),080/071,Art Rare,Holofoil,Ungraded,Near Mint,1,0.0,298.27,298.27,37.36,,403.49,both,True,cache,set:name_exact+card:name_number,Gastly - 080/071,SV5K: Wild Force,false,2026-09-22
+168,Team Rocket,Rainbow Energy (17),17,Holo Rare,Unlimited Holofoil,Ungraded,Near Mint,1,0.0,278.69,278.69,40.67,,439.24,both,True,cache,set:name_exact+card:name_number,Rainbow Energy (17),Team Rocket,false,2026-09-09
+107,Legendary Collection,Abra,67,Common,Normal,Ungraded,Near Mint,1,0.0,10.11,10.11,,,,cardmarket,True,cache,set:name_exact+card:name_number,Abra,,false,2026-09-09
+108,Legendary Collection,Caterpie,69,Common,Normal,Ungraded,Near Mint,1,0.0,10.2,10.2,,,,cardmarket,True,cache,set:name_exact+card:name_number,Caterpie,,false,2026-09-09
+161,Supreme Victors,Rayquaza C,8,Holo Rare,Holofoil,Ungraded,Near Mint,2,0.0,679.84,1359.68,70.62,,1525.39,both,True,cache,set:name_exact+card:name_number,Rayquaza C,Supreme Victors,false,2026-09-09
+142,Noble Victories,Terrakion,73,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,23.39,23.39,2.43,,26.24,both,True,cache,set:name_exact+card:name_number,Terrakion,Noble Victories,false,2026-09-09
+141,Noble Victories,Cobalion,84,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,15.6,15.6,1.62,,17.5,both,True,cache,set:name_exact+card:name_number,Cobalion,Noble Victories,false,2026-09-09
+191,XY Base Set,Sableye,68,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,28.69,28.69,0.53,,5.72,both,True,cache,set:name_exact+card:name_number,Sableye,XY Base Set,false,2026-09-09
+132,Neo Revelation,Entei (17),17,Rare,Unlimited,Ungraded,Near Mint,1,0.0,204.18,204.18,82.23,,888.08,tcgplayer,True,cache,set:name_exact+card:name_number,Entei (17),Neo Revelation,false,2026-09-18
+133,Neo Revelation,Ho-oh,18,Rare,Unlimited,Ungraded,Near Mint,1,0.0,288.7,288.7,117.89,,1273.21,tcgplayer,True,cache,set:name_exact+card:name_number,Ho-oh (18),Neo Revelation,false,2026-09-18
+134,Neo Revelation,Lugia,20,Rare,Unlimited,Ungraded,Near Mint,1,0.0,602.34,602.34,62.57,,675.76,tcgplayer,True,cache,set:name_exact+card:name_number,Lugia,Neo Revelation,false,2026-09-09
+72,EX Crystal Guardians,Squirtle (64),64,Common,Normal,Ungraded,Near Mint,1,0.0,165.58,165.58,17.2,,185.76,both,True,cache,set:name_fuzzy+card:name_number,Squirtle - 064/100,Crystal Guardians,false,2026-09-09
+126,Neo Genesis,Cyndaquil (57),57,Common,Unlimited,Ungraded,Near Mint,1,0.0,25.03,25.03,14.09,,152.17,tcgplayer,True,cache,set:name_exact+card:name_number,Cyndaquil (57),Neo Genesis,false,2026-09-09
+128,Neo Genesis,Mareep,65,Common,Unlimited,Ungraded,Near Mint,1,0.0,15.69,15.69,3.65,,39.42,tcgplayer,True,cache,set:name_exact+card:name_number,Mareep,Neo Genesis,false,2026-09-09
+129,Neo Genesis,Snubbull,74,Common,Unlimited,Ungraded,Near Mint,1,0.0,7.03,7.03,2.27,,24.52,tcgplayer,True,cache,set:name_exact+card:name_number,Snubbull,Neo Genesis,false,2026-09-09
+127,Neo Genesis,Kingdra,8,Holo Rare,Unlimited Holofoil,Ungraded,Near Mint,1,0.0,212.08,212.08,,,,,False,,set:name_exact,,,false,2026-09-09
+130,Neo Genesis,Totodile (80),80,Common,Unlimited,Ungraded,Near Mint,1,0.0,18.48,18.48,1.92,,20.74,tcgplayer,True,cache,set:name_exact+card:name_number,Totodile (80),Neo Genesis,false,2026-09-09
+82,EX Unseen Forces,Ho-oh,27/115,Rare,Normal,Ungraded,Near Mint,1,0.0,63.62,63.62,7.81,,84.35,both,True,cache,set:name_fuzzy+card:name_number,Ho-Oh,Unseen Forces,false,2026-09-09
+81,EX Unseen Forces,Cyndaquil,54/115,Common,Normal,Ungraded,Near Mint,1,0.0,25.03,25.03,2.6,,28.08,both,True,cache,set:name_fuzzy+card:name_number,Cyndaquil,Unseen Forces,false,2026-09-09
+185,Undaunted,Umbreon,10,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,932.15,932.15,96.83,,1045.76,both,True,cache,set:name_exact+card:name_number,Umbreon,Undaunted,false,2026-09-09
+109,Legendary Treasures,Virizion,15,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,16.37,16.37,1.7,,18.36,both,True,cache,set:name_exact+card:name_number,Virizion,Legendary Treasures,false,2026-09-09
+74,EX Emerald,Fire Energy,102,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,196.19,196.19,17.6,,190.08,both,True,cache,set:name_fuzzy+card:name_number,Fire Energy,Emerald,false,2026-09-09
+156,Plasma Storm,Virbank City Gym,126,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,52.66,52.66,5.13,,55.4,both,True,cache,set:name_exact+card:name_number,Virbank City Gym,Plasma Storm,false,2026-09-09
+77,EX Hidden Legends,Doduo,60,Common,Normal,Ungraded,Near Mint,1,0.0,3.47,3.47,0.36,,3.89,both,True,cache,set:name_fuzzy+card:name_number,Doduo,Hidden Legends,false,2026-09-09
+110,Legends Awakened,Dragonair,52,Uncommon,Normal,Ungraded,Near Mint,1,0.0,124.76,124.76,12.96,,139.97,both,True,cache,set:name_exact+card:name_number,Dragonair,Legends Awakened,false,2026-09-10
+75,EX FireRed & LeafGreen,Poliwhirl,46,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,492.12,492.12,4.62,,49.9,both,True,cache,set:name_fuzzy+card:name_number,Poliwhirl,FireRed & LeafGreen,false,2026-09-16
+76,EX FireRed & LeafGreen,Seel,78,Common,Normal,Ungraded,Near Mint,1,0.0,4.81,4.81,0.49,,5.29,both,True,cache,set:name_fuzzy+card:name_number,Seel,FireRed & LeafGreen,false,2026-09-09
+73,EX Delta Species,Dragonair,41,Uncommon,Normal,Ungraded,Near Mint,1,0.0,69.99,69.99,,,,cardmarket,True,cache,set:name_fuzzy+card:set_number,Dragonair δ Delta Species,,false,2026-09-09
+54,Diamond and Pearl,Energy Search,117,Common,Normal,Ungraded,Near Mint,1,0.0,1.73,1.73,0.18,,1.94,both,True,cache,set:name_exact+card:name_number,Energy Search,Diamond and Pearl,false,2026-09-09
+55,Diamond and Pearl,Energy Search,117,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,11.36,11.36,0.18,,1.94,both,True,cache,set:name_exact+card:name_number,Energy Search,Diamond and Pearl,false,2026-09-09
+53,Diamond and Pearl,Budew,43,Uncommon,Normal,Ungraded,Near Mint,1,0.0,43.99,43.99,4.57,,49.36,both,True,cache,set:name_exact+card:name_number,Budew,Diamond and Pearl,false,2026-09-10
+125,Neo Discovery,Umbreon (32),32,Rare,Unlimited,Ungraded,Near Mint,1,0.0,1018.31,1018.31,300.0,,3240.0,tcgplayer,True,cache,set:name_exact+card:name_number,Umbreon (32),Neo Discovery,false,2026-09-09
+124,Neo Discovery,Tyrogue,66,Common,Unlimited,Ungraded,Near Mint,1,0.0,11.07,11.07,3.29,,35.53,tcgplayer,True,cache,set:name_exact+card:name_number,Tyrogue,Neo Discovery,false,2026-09-09
+89,Gym Heroes,Brock's Training Method,106,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,10.97,10.97,1.14,,12.31,tcgplayer,True,cache,set:name_exact+card:name_number,Brock's Training Method,Gym Heroes,false,2026-09-09
+92,Gym Heroes,Misty's Duel,123,Common,Unlimited,Ungraded,Near Mint,1,0.0,24.07,24.07,5.42,,58.54,tcgplayer,True,cache,set:name_exact+card:name_number,Misty's Duel,Gym Heroes,false,2026-09-09
+91,Gym Heroes,Lightning Energy,130,Common,Unlimited,Ungraded,Near Mint,1,0.0,3.95,3.95,,,,,False,,set:name_exact,,,false,2026-09-09
+90,Gym Heroes,Erika's Exeggcute (43),43,Uncommon,1st Edition,Ungraded,Near Mint,1,0.0,60.07,60.07,,,,,False,,set:name_exact,,,false,2026-09-09
+88,Gym Heroes,Brock's Onix (69),69,Common,Unlimited,Ungraded,Near Mint,1,0.0,16.75,16.75,,,,,False,,set:name_exact,,,false,2026-09-09
+123,Neo Destiny,Light Ninetales,50,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,273.01,273.01,,,,,False,,set:name_exact,,,false,2026-09-18
+32,BREAKthrough,Kirlia,69,Uncommon,Normal,Ungraded,Near Mint,1,0.0,3.95,3.95,,,,,False,,set:name_suffix,,,false,2026-09-10
+45,Crown Zenith: Galarian Gallery,Cynthia's Ambition,GG60/GG70,Ultra Rare,Holofoil,Ungraded,Near Mint,1,0.0,225.65,225.65,,,,,False,,set:name_exact,,,false,2026-09-09
+48,Deck Exclusives,Delphox - 013/086 (Non-Holo),013/086,Holo Rare,Normal,Ungraded,Near Mint,1,0.0,21.08,21.08,,,,,False,,set:name_exact,,,false,2026-09-09
+47,Deck Exclusives,Ampharos - 029/086 (Non-Holo),029/086,Rare,Normal,Ungraded,Near Mint,1,0.0,14.83,14.83,,,,,False,,set:name_exact,,,false,2026-09-09
+49,Deck Exclusives,Machamp,008/102,Holo Rare,1st Edition Holofoil,Ungraded,Near Mint,1,0.0,238.93,238.93,,,,,False,,set:name_exact,,,false,2026-09-09
+71,Evolutions,Vulpix,14/108,Common,Normal,Ungraded,Near Mint,1,0.0,2.12,2.12,,,,,False,,set:name_suffix,,,false,2026-09-09
+64,Evolutions,Poliwag,23/108,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,5.2,5.2,,,,,False,,set:name_suffix,,,false,2026-09-09
+65,Evolutions,Poliwag,23/108,Common,Normal,Ungraded,Near Mint,2,0.0,2.02,4.04,,,,,False,,set:name_suffix,,,false,2026-09-09
+58,Evolutions,Dewgong,29/108,Rare,Normal,Ungraded,Near Mint,1,0.0,2.12,2.12,,,,,False,,set:name_suffix,,,false,2026-09-09
+70,Evolutions,Voltorb,39/108,Common,Normal,Ungraded,Near Mint,2,0.0,1.64,3.28,,,,,False,,set:name_suffix,,,false,2026-09-09
+63,Evolutions,Metapod,4/108,Uncommon,Normal,Ungraded,Near Mint,1,0.0,2.21,2.21,,,,,False,,set:name_suffix,,,false,2026-09-09
+59,Evolutions,Diglett,55/108,Common,Normal,Ungraded,Near Mint,1,0.0,1.06,1.06,,,,,False,,set:name_suffix,,,false,2026-09-09
+62,Evolutions,Machop,57/108,Common,Normal,Ungraded,Near Mint,1,0.0,1.83,1.83,,,,,False,,set:name_suffix,,,false,2026-09-09
+66,Evolutions,Raticate,67/108,Rare,Normal,Ungraded,Near Mint,2,0.0,1.64,3.28,,,,,False,,set:name_suffix,,,false,2026-09-09
+60,Evolutions,Doduo,69/108,Common,Normal,Ungraded,Near Mint,1,0.0,1.73,1.73,,,,,False,,set:name_suffix,,,false,2026-09-09
+56,Evolutions,Beedrill,7/108,Rare,Normal,Ungraded,Near Mint,1,0.0,2.5,2.5,,,,,False,,set:name_suffix,,,false,2026-09-09
+68,Evolutions,Tangela,8/108,Common,Normal,Ungraded,Near Mint,2,0.0,2.31,4.62,,,,,False,,set:name_suffix,,,false,2026-09-09
+67,Evolutions,Slowbro Spirit Link,86/108,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,9.53,9.53,,,,,False,,set:name_suffix,,,false,2026-09-09
+69,Evolutions,Venusaur Spirit Link,89/108,Uncommon,Normal,Ungraded,Near Mint,1,0.0,2.31,2.31,,,,,False,,set:name_suffix,,,false,2026-09-09
+61,Evolutions,Lightning Energy,94/108,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,21.85,21.85,,,,,False,,set:name_suffix,,,false,2026-09-09
+57,Evolutions,Darkness Energy,97/108,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,96.36,96.36,,,,,False,,set:name_suffix,,,false,2026-09-09
+159,Scarlet & Violet Base Set,Miraidon ex,253/198,Hyper Rare,Holofoil,Ungraded,Near Mint,1,0.0,73.64,73.64,,,,,False,,set:name_suffix,,,false,2026-09-09
+24,Blister Exclusives,Virizion,13/101,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,76.82,76.82,,,,,False,,set:name_exact,,,false,2026-09-09
+23,Blister Exclusives,Baxcalibur (Cosmos Holo),060/193,Promo,Holofoil,Ungraded,Near Mint,1,0.0,4.52,4.52,,,,,False,,set:name_exact,,,false,2026-09-09
+143,Paldea Evolved,Sprigatito,196/193,Illustration Rare,Holofoil,Ungraded,Near Mint,1,0.0,550.55,550.55,,,,,False,,set:name_suffix,,,false,2026-09-09
+166,SV: 151,Basic Darkness Energy (Cosmos Holo),007,Common,Holofoil,Ungraded,Near Mint,1,0.0,13.09,13.09,,,,,False,,set:name_exact,,,false,2026-09-09
+179,Trick or Trade BOOster Bundle 2023,Trevenant,017/196,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.64,1.64,,,,,False,,set:name_exact,,,false,2026-09-09
+177,Trick or Trade BOOster Bundle 2023,Pikachu,062/193,Common,Holofoil,Ungraded,Near Mint,1,0.0,5.01,5.01,,,,,False,,set:name_exact,,,false,2026-09-09
+175,Trick or Trade BOOster Bundle 2023,Dusknoir,071/185,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.35,1.35,,,,,False,,set:name_exact,,,false,2026-09-09
+174,Trick or Trade BOOster Bundle 2023,Banette,073/196,Rare,Normal,Ungraded,Near Mint,1,0.0,1.73,1.73,,,,,False,,set:name_exact,,,false,2026-09-09
+178,Trick or Trade BOOster Bundle 2023,Polteageist,090/202,Rare,Normal,Ungraded,Near Mint,1,0.0,1.25,1.25,,,,,False,,set:name_exact,,,false,2026-09-09
+176,Trick or Trade BOOster Bundle 2023,Lycanroc,095/185,Rare,Normal,Ungraded,Near Mint,1,0.0,1.64,1.64,,,,,False,,set:name_exact,,,false,2026-09-09
+145,Paradox Rift,Yveltal,118/182,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.31,2.31,,,,,False,,set:name_suffix,,,false,2026-09-09
+144,Paradox Rift,Deoxys,074/182,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.7,2.7,,,,,False,,set:name_suffix,,,false,2026-09-09
+173,Trading Card Game Classic,Lt. Surge's Rattata,015/034,Classic Collection,Holofoil,Ungraded,Near Mint,1,0.0,22.53,22.53,,,,,False,,set:name_exact,,,false,2026-09-09
+172,Trading Card Game Classic,Lt. Surge's Raticate,016/034,Classic Collection,Holofoil,Ungraded,Near Mint,1,0.0,14.44,14.44,,,,,False,,set:name_exact,,,false,2026-09-09
+170,Temporal Forces,Gengar ex,104/162,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,63.25,63.25,,,,,False,,set:name_suffix,,,false,2026-09-09
+184,Twilight Masquerade,Teal Mask Ogerpon ex,221/167,Hyper Rare,Holofoil,Ungraded,Near Mint,2,0.0,88.47,176.94,,,,,False,,set:name_suffix,,,false,2026-09-09
+183,Twilight Masquerade,Magcargo ex,029/167,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,6.26,6.26,,,,,False,,set:name_suffix,,,false,2026-09-09
+182,Twilight Masquerade,Iron Thorns ex,077/167,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,6.55,6.55,,,,,False,,set:name_suffix,,,false,2026-09-09
+181,Trick or Trade BOOster Bundle 2024,Umbreon,130/197,Uncommon,Normal,Ungraded,Near Mint,1,0.0,4.52,4.52,,,,,False,,set:name_exact,,,false,2026-09-09
+180,Trick or Trade BOOster Bundle 2024,Fezandipiti (Cosmos Holo),096/167,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,2.31,2.31,,,,,False,,set:name_exact,,,false,2026-09-09
+21,Battle Region,Hisuian Typhlosion VSTAR (JP),029/067,Ultra Rare,Holofoil,Ungraded,Near Mint,1,0.0,23.19,23.19,,,,,False,,set:name_suffix,,,false,2026-09-09
+160,Shiny Star V,Zamazenta V (JP),330/190,Secret Rare,Holofoil,Ungraded,Near Mint,1,0.0,176.65,176.65,,,,,False,,set:name_suffix,,,false,2026-09-09
+188,VSTAR Universe,Radiant Eternatus (JP),115/172,Radiant Rare,Holofoil,Ungraded,Near Mint,1,0.0,19.97,19.97,,,,,False,,set:name_suffix,,,false,2026-09-09
+189,VSTAR Universe,Zeraora VMAX (JP),041/172,Ultra Rare,Holofoil,Ungraded,Near Mint,2,0.0,17.86,35.72,,,,,False,,set:name_suffix,,,false,2026-09-09
+187,VSTAR Universe,Gengar (JP),048/172,Rare,Holofoil,Ungraded,Near Mint,1,0.0,25.69,25.69,,,,,False,,set:name_suffix,,,false,2026-09-09
+162,Surging Sparks,Alolan Exeggutor ex,133/191,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,7.61,7.61,,,,,False,,set:name_suffix,,,false,2026-09-09
+163,Surging Sparks,Eternatus,141/191,Rare,Holofoil,Ungraded,Near Mint,1,0.0,2.12,2.12,,,,,False,,set:name_suffix,,,false,2026-09-09
+164,Surging Sparks,Skeledirge,031/191,Rare,Holofoil,Ungraded,Near Mint,1,0.0,2.12,2.12,,,,,False,,set:name_suffix,,,false,2026-09-09
+165,Surging Sparks,Sylveon ex,086/191,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,24.93,24.93,,,,,False,,set:name_suffix,,,false,2026-09-09
+106,Jungle (Japanese),Oddish (JP),043,Common,Normal,Ungraded,Near Mint,1,0.0,32.66,32.66,,,,,False,,set:name_suffix,,,false,2026-09-09
+83,Fossil (Japanese),Hypno (JP),097,Rare,Holofoil,Ungraded,Near Mint,1,0.0,123.72,123.72,,,,,False,,set:name_suffix,,,false,2026-09-09
+118,Miscellaneous Cards & Products,Ho-Oh (EB Games Exclusive),010/086,Rare,Holofoil,Ungraded,Near Mint,1,0.0,896.53,896.53,,,,,False,,set:name_exact,,,false,2026-09-09
+122,Miscellaneous Cards & Products,Steelix (Cosmos Holo),125/182,Rare,Holofoil,Ungraded,Near Mint,1,0.0,103.78,103.78,,,,,False,,set:name_exact,,,false,2026-09-09
+119,Miscellaneous Cards & Products,Keldeo (Chaos Rising Stamped),019/086,Rare,Holofoil,Ungraded,Near Mint,1,0.0,90.01,90.01,,,,,False,,set:name_exact,,,false,2026-09-09
+120,Miscellaneous Cards & Products,Lapras (Holiday Calendar),048/202,Promo,Holofoil,Ungraded,Near Mint,1,0.0,42.74,42.74,,,,,False,,set:name_exact,,,false,2026-09-09
+121,Miscellaneous Cards & Products,Pikachu (Pokemon Day 2026),051/162,Common,Holofoil,Ungraded,Near Mint,1,0.0,25.9,25.9,,,,,False,,set:name_exact,,,false,2026-09-09
+167,SV: Premium Trainer Box ex,Pokegear 3.0,004/028,,Normal,Ungraded,Near Mint,1,0.0,19.25,19.25,,,,,False,,set:name_exact,,,false,2026-09-09
+158,Prismatic Evolutions,Umbreon (Poke Ball Pattern),059/131,Rare,Holofoil,Ungraded,Near Mint,1,0.0,40.62,40.62,,,,,False,,set:name_suffix,,,false,2026-09-09
+157,Prismatic Evolutions,Umbreon ex,060/131,Double Rare,Holofoil,Ungraded,Near Mint,3,0.0,80.38,241.14,,,,,False,,set:name_suffix,,,false,2026-09-09
+46,Dark Rush,Raikou EX (JP),025/069,Rare,Holofoil,Ungraded,Near Mint,1,0.0,89.91,89.91,,,,,False,,set:name_suffix,,,false,2026-09-09
+171,Terastal Festival ex,Umbreon (JP),092/187,Rare,Normal,Ungraded,Near Mint,1,0.0,16.44,16.44,,,,,False,,set:name_suffix,,,false,2026-09-09
+79,EX Holon Phantoms,Mightyena ex,101,Ultra Rare,Holofoil,Ungraded,Near Mint,1,0.0,962.57,962.57,,,,,False,,set:name_fuzzy,,,false,2026-09-16
+78,EX Holon Phantoms,Corphish (63),63,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,345.6,345.6,,,,,False,,set:name_fuzzy,,,false,2026-09-16
+80,EX Holon Phantoms,Poochyena,80,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,156.24,156.24,,,,,False,,set:name_fuzzy,,,false,2026-09-16
+51,Detective Pikachu,Lickitung (Holo Common),16,Common,Holofoil,Ungraded,Near Mint,1,0.0,4.04,4.04,,,,,False,,set:name_exact,,,false,2026-09-09
+52,Detective Pikachu,Morelull (Holo Common),3,Common,Holofoil,Ungraded,Near Mint,1,0.0,3.56,3.56,,,,,False,,set:name_exact,,,false,2026-09-09
+94,Hanada City Gym Deck,Misty's Cloyster (JP),091,Uncommon,Normal,Ungraded,Near Mint,1,0.0,48.13,48.13,,,,,False,,set:name_fuzzy,,,false,2026-09-09
+50,Destined Rivals,Team Rocket's Moltres ex,031/182,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,7.61,7.61,,,,,False,,set:name_suffix,,,false,2026-09-09
+169,Team Rocket (Japanese),Dark Machamp (JP),068,Rare,Holofoil,Ungraded,Near Mint,1,0.0,250.31,250.31,,,,,False,,set:name_suffix,,,false,2026-09-09
+22,Black Bolt,Excadrill ex,160/086,Ultra Rare,Holofoil,CGC 9.0 Mint,Near Mint,1,0.0,0.0,0.0,,,,,False,,set:name_suffix,,,false,2026-09-09
+113,Mega Brave,Mega Lucario,029/063,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,4.52,4.52,,,,,False,,set:name_suffix,,,false,2026-09-09
+117,Mega Evolution Promos,Totodile,048,Promo,Holofoil,Ungraded,Near Mint,1,0.0,96.56,96.56,,,,,False,,set:name_suffix,,,false,2026-09-09
+116,Mega Evolution Promos,Fennekin (Pokemon Center Exclusive),080,Promo,Holofoil,Ungraded,Near Mint,1,0.0,305.36,305.36,,,,,False,,set:name_suffix,,,false,2026-09-09
+115,Mega Evolution Promos,Alakazam,009,Promo,Holofoil,CGC 9.5 Mint+,Near Mint,1,0.0,327.31,327.31,,,,,False,,set:name_suffix,,,false,2026-09-09
+112,MEE: Mega Evolution Energies,Basic Darkness Energy - 007,7,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,4.24,4.24,,,,,False,,set:name_exact,,,false,2026-09-09
+114,MEGA Dream ex,Rayquaza,127/193,,Holofoil,Ungraded,Near Mint,1,0.0,2.79,2.79,,,,,False,,set:name_exact,,,false,2026-09-09
+2,Ascended Heroes,Lunatone (Energy Symbol Pattern),105/217,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.89,2.89,,,,,False,,set:name_suffix,,,false,2026-09-09
+148,Perfect Order,Lapras ex,022/088,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,5.87,5.87,,,,,False,,set:name_suffix,,,false,2026-09-09
+151,Perfect Order,Tyrantrum,045/088,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.6,2.6,,,,,False,,set:name_suffix,,,false,2026-09-09
+152,Perfect Order,Yveltal ex,053/088,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,6.06,6.06,,,,,False,,set:name_suffix,,,false,2026-09-09
+149,Perfect Order,Poke Pad,081/088,Uncommon,Normal,Ungraded,Near Mint,1,0.0,2.02,2.02,,,,,False,,set:name_suffix,,,false,2026-09-09
+150,Perfect Order,Rosa's Encouragement,084/088,Uncommon,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.02,2.02,,,,,False,,set:name_suffix,,,false,2026-09-09
+147,Perfect Order,Espurr,095/088,Illustration Rare,Holofoil,Ungraded,Near Mint,1,0.0,31.96,31.96,,,,,False,,set:name_suffix,,,false,2026-09-09
+146,Perfect Order,Doublade,098/088,Illustration Rare,Holofoil,Ungraded,Near Mint,1,0.0,17.23,17.23,,,,,False,,set:name_suffix,,,false,2026-09-09
+136,Nihil Zero,Energy Recycler,101/080,Super Rare,Holofoil,Ungraded,Near Mint,1,0.0,4.14,4.14,,,,,False,,set:name_suffix,,,false,2026-09-09
+138,Nihil Zero,Rock F Energy,080/080,Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.83,1.83,,,,,False,,set:name_suffix,,,false,2026-09-09
+139,Nihil Zero,Rowlet,082/080,Art Rare,Holofoil,Ungraded,Near Mint,1,0.0,29.07,29.07,,,,,False,,set:name_suffix,,,false,2026-09-09
+135,Nihil Zero,Clefairy,086/080,Art Rare,Holofoil,Ungraded,Near Mint,1,0.0,95.11,95.11,,,,,False,,set:name_suffix,,,false,2026-09-09
+137,Nihil Zero,Raticate,092/080,Art Rare,Holofoil,Ungraded,Near Mint,1,0.0,15.5,15.5,,,,,False,,set:name_suffix,,,false,2026-09-09
+140,Nihil Zero,Salazzle ex,094/080,Super Rare,Holofoil,Ungraded,Near Mint,1,0.0,24.07,24.07,,,,,False,,set:name_suffix,,,false,2026-09-09
+41,Chaos Rising,Mega Pyroar ex,015/086,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,5.49,5.49,,,,,False,,set:name_exact,,,false,2026-09-09
+35,Chaos Rising,Ampharos,029/086,Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.54,1.54,,,,,False,,set:name_exact,,,false,2026-09-09
+36,Chaos Rising,Ampharos,029/086,Rare,Reverse Holofoil,Ungraded,Near Mint,2,0.0,2.02,4.04,,,,,False,,set:name_exact,,,false,2026-09-09
+42,Chaos Rising,Trevenant,039/086,Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.25,1.25,,,,,False,,set:name_exact,,,false,2026-09-09
+44,Chaos Rising,Xerneas,042/086,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.6,2.6,,,,,False,,set:name_exact,,,false,2026-09-09
+40,Chaos Rising,Crobat,051/086,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.21,2.21,,,,,False,,set:name_exact,,,false,2026-09-09
+38,Chaos Rising,Chesnaught,007/086,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,1.93,1.93,,,,,False,,set:name_exact,,,false,2026-09-09
+39,Chaos Rising,Cinccino ex,073/086,Double Rare,Holofoil,Ungraded,Near Mint,1,0.0,6.74,6.74,,,,,False,,set:name_exact,,,false,2026-09-09
+37,Chaos Rising,Bubbly Water Energy,084/086,Rare,Reverse Holofoil,Ungraded,Near Mint,1,0.0,2.41,2.41,,,,,False,,set:name_exact,,,false,2026-09-09
+43,Chaos Rising,Xerneas,091/086,Illustration Rare,Holofoil,Ungraded,Near Mint,1,0.0,49.29,49.29,,,,,False,,set:name_exact,,,false,2026-09-09
+153,Pitch Black,Energy Switch,107/084,Ultra Rare,Holofoil,Ungraded,Near Mint,1,0.0,17.42,17.42,,,,,False,,set:name_exact,,,false,2026-09-09
+154,Pitch Black,Shadowy Darkness Energy,083/084,Rare,Holofoil,Ungraded,Near Mint,1,0.0,1.44,1.44,,,,,False,,set:name_exact,,,false,2026-09-09
+155,Pitch Black,Slowbro,090/084,Illustration Rare,Holofoil,Ungraded,Near Mint,1,0.0,63.25,63.25,,,,,False,,set:name_exact,,,false,2026-09-22
+84,Fusion Strike,Greedent VMAX,218/264,Ultra Rare,Holofoil,Ungraded,Near Mint,1,0.0,13.96,13.96,,,,,False,,set:name_suffix,,,false,2026-09-09
+34,Celebrations: Classic Collection,M Rayquaza EX,76/108,Classic Collection,Holofoil,Ungraded,Near Mint,1,0.0,351.95,351.95,,,,,False,,set:name_exact,,,false,2026-09-09
+33,Brilliant Stars,Psychic Energy (2022 Unnumbered),,Common,Reverse Holofoil,Ungraded,Near Mint,1,0.0,3.47,3.47,,,,,False,,set:name_suffix,,,false,2026-09-09
+8,Base Set (Unlimited),Alakazam,1,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,668.0,668.0,,,,,False,,set:name_exact,,,false,2026-09-09
+20,Base Set (Unlimited),Raichu,14,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,649.51,649.51,,,,,False,,set:name_exact,,,false,2026-09-09
+11,Base Set (Unlimited),Electabuzz,20,Rare,Normal,Ungraded,Near Mint,1,0.0,96.94,96.94,,,,,False,,set:name_exact,,,false,2026-09-09
+9,Base Set (Unlimited),Charmeleon,24,Uncommon,Normal,Ungraded,Near Mint,1,0.0,32.63,32.63,,,,,False,,set:name_exact,,,false,2026-09-09
+13,Base Set (Unlimited),Farfetch'd,27,Uncommon,Normal,Ungraded,Near Mint,1,0.0,13.67,13.67,,,,,False,,set:name_exact,,,false,2026-09-09
+15,Base Set (Unlimited),Ivysaur,30,Uncommon,Normal,Ungraded,Near Mint,1,0.0,52.75,52.75,,,,,False,,set:name_exact,,,false,2026-09-09
+16,Base Set (Unlimited),Kadabra,32,Uncommon,Normal,Ungraded,Near Mint,2,0.0,24.74,49.48,,,,,False,,set:name_exact,,,false,2026-09-09
+10,Base Set (Unlimited),Doduo,48,Common,Normal,Ungraded,Near Mint,1,0.0,11.46,11.46,,,,,False,,set:name_exact,,,false,2026-09-09
+14,Base Set (Unlimited),Gastly,50,Common,Normal,Ungraded,Near Mint,1,0.0,11.94,11.94,,,,,False,,set:name_exact,,,false,2026-09-09
+17,Base Set (Unlimited),Nidoran M,55,Common,Normal,Ungraded,Near Mint,1,0.0,7.41,7.41,,,,,False,,set:name_exact,,,false,2026-09-09
+18,Base Set (Unlimited),Pikachu,58,Common,Normal,Ungraded,Near Mint,1,0.0,111.28,111.28,,,,,False,,set:name_exact,,,false,2026-09-09
+19,Base Set (Unlimited),Poliwag,59,Common,Normal,Ungraded,Near Mint,1,0.0,8.95,8.95,,,,,False,,set:name_exact,,,false,2026-09-09
+12,Base Set (Unlimited),Energy Retrieval,81,Uncommon,Normal,Ungraded,Near Mint,1,0.0,6.06,6.06,,,,,False,,set:name_exact,,,false,2026-09-09
+4,Base Set 2,Mewtwo,10,Holo Rare,Holofoil,Ungraded,Near Mint,1,0.0,996.94,996.94,,,,,False,,set:name_exact,,,false,2026-09-09
+3,Base Set 2,Charmander,69,Common,Normal,Ungraded,Near Mint,2,0.0,17.33,34.66,,,,,False,,set:name_exact,,,false,2026-09-09
+5,Base Set 2,Venonat,97,Common,Normal,Ungraded,Near Mint,1,0.0,11.26,11.26,,,,,False,,set:name_exact,,,false,2026-09-09
+102,Jungle,Jolteon,20,Rare,Unlimited,Ungraded,Near Mint,1,0.0,244.81,244.81,,,,,False,,set:name_exact,,,false,2026-09-18
+95,Jungle,Butterfree,33,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,21.47,21.47,,,,,False,,set:name_exact,,,false,2026-09-09
+98,Jungle,Fearow,36,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,10.3,10.3,,,,,False,,set:name_exact,,,false,2026-09-09
+101,Jungle,Jolteon,4,Holo Rare,Unlimited Holofoil,Ungraded,Near Mint,1,0.0,966.04,966.04,,,,,False,,set:name_exact,,,false,2026-09-09
+103,Jungle,Rhydon,45,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,13.86,13.86,,,,,False,,set:name_exact,,,false,2026-09-09
+105,Jungle,Weepinbell,48,Uncommon,Unlimited,Ungraded,Near Mint,1,0.0,5.97,5.97,,,,,False,,set:name_exact,,,false,2026-09-09
+96,Jungle,Cubone,50,Common,Unlimited,Ungraded,Near Mint,1,0.0,18.48,18.48,,,,,False,,set:name_exact,,,false,2026-09-09
+97,Jungle,Exeggcute,52,Common,Unlimited,Ungraded,Near Mint,1,0.0,4.24,4.24,,,,,False,,set:name_exact,,,false,2026-09-09
+99,Jungle,Goldeen,53,Common,Unlimited,Ungraded,Near Mint,1,0.0,4.62,4.62,,,,,False,,set:name_exact,,,false,2026-09-09
+100,Jungle,Jigglypuff,54,Common,Unlimited,Ungraded,Near Mint,1,0.0,15.98,15.98,,,,,False,,set:name_exact,,,false,2026-09-09
+104,Jungle,Rhyhorn,61,Common,Unlimited,Ungraded,Near Mint,1,0.0,4.33,4.33,,,,,False,,set:name_exact,,,false,2026-09-09
+6,Base Set (Japanese),Drowzee (JP),096,Common,Normal,Ungraded,Near Mint,1,0.0,23.27,23.27,,,,,False,orphan,set:none,,,false,2026-09-09
+7,Base Set (Japanese),Poliwrath (JP),062,Rare,Holofoil,Ungraded,Near Mint,1,0.0,186.73,186.73,,,,,False,orphan,set:none,,,false,2026-09-09
+25,Brave Stars (Charm),Deoxys VMAX,053/127,RRR,Holofoil,Ungraded,Near Mint,1,0.0,20.17,20.17,,,,,False,orphan,set:none,,,false,2026-09-09
+26,Brave Stars (Charm),Raichu V,019/127,RR,Holofoil,Ungraded,Near Mint,1,0.0,24.93,24.93,,,,,False,orphan,set:none,,,false,2026-09-09
+27,Brave Stars (Charm),Solrock,129/127,AR,Holofoil,Ungraded,Near Mint,1,0.0,25.36,25.36,,,,,False,orphan,set:none,,,false,2026-09-09
+28,Brave Stars (Charm),Zeraora V,027/127,RR,Holofoil,Ungraded,Near Mint,1,0.0,11.94,11.94,,,,,False,orphan,set:none,,,false,2026-09-09
+29,Brave Stars (Courage),Oranguru V,113/128,RR,Holofoil,Ungraded,Near Mint,2,0.0,20.5,41.0,,,,,False,orphan,set:none,,,false,2026-09-09
+30,Brave Stars (Courage),Radiant Venusaur,004/128,K,Holofoil,Ungraded,Near Mint,1,0.0,62.25,62.25,,,,,False,orphan,set:none,,,false,2026-09-09
+31,Brave Stars (Courage),Serperior VSTAR,033/128,RRR,Holofoil,Ungraded,Near Mint,1,0.0,21.76,21.76,,,,,False,orphan,set:none,,,false,2026-09-09
+87,Gym Challenge (Japanese),Blaine's Ninetales (JP),038,Rare,Normal,Ungraded,Near Mint,1,0.0,107.66,107.66,,,,,False,orphan,set:none,,,false,2026-09-09
+93,Gym Heroes (Japanese),Misty's Seadra (JP),117,Rare,Holofoil,Ungraded,Near Mint,1,0.0,145.82,145.82,,,,,False,orphan,set:none,,,false,2026-09-09
+131,Neo Genesis (Japanese),Onix (JP),095,Common,Normal,Ungraded,Near Mint,1,0.0,34.24,34.24,,,,,False,orphan,set:none,,,false,2026-09-09
+186,Vending Series 1 (Blue),Poliwag (JP),060,Common,Normal,Ungraded,Near Mint,1,0.0,314.45,314.45,,,,,False,orphan,set:none,,,false,2026-09-09
