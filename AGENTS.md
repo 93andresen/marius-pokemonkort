@@ -18,3 +18,4 @@ Instructions for any AI agent (Roo, Claude, Codex, ...) working in this reposito
 
 ---
 
+I will maybe copy a couple of things from C:\data\code\marius-pokemonkort\AGENTS-suggestions.md in here but DEFINETLY do not assume that everything there is correct... Whatever, you can just ignore it really...
