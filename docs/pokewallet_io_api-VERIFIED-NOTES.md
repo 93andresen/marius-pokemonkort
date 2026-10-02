@@ -5,7 +5,8 @@
 > wins** (the docs are behind the deployed build).
 >
 > **Verified:** 2026-10-02 · **Environment:** `API_KEY_POKEWALLET` set · **Client:** `curl` / Python.
-> Raw captures backing these notes live in [`../data/pokewallet/_smoke/`](../data/pokewallet/_smoke/).
+> Raw captures backing these notes live in [`../data/pokewallet/raw/`](../data/pokewallet/raw/)
+> (one `.json` + `.headers.txt` pair per call).
 
 ---
 
@@ -141,12 +142,60 @@ assume one exists.
 
 ---
 
-## 6. Lookup guidance
+## 6. Resolving a specific card to its price (verified strategy)
 
-- **Best key:** `set_id` + `card_number` together, e.g. `/search?q=23520 004`.
-- Prefer `set_id` over `set_code` (see §5.1).
-- Name-only search is noisy (e.g. `pikachu` → 821 results) — use it only for fuzzy candidate ranking,
-  never as the sole resolver.
+The docs say "best key: `set_id` + `card_number`". **That is only true for positive `set_id`s.**
+Live-verified 2026-10-02: several sets carry a **negative `set_id`** in the `/sets` index
+(e.g. Lost Thunder `LOT = -113`, Ancient Roar `CS5.1C = -38`, Wild Force `CS6.1C = -42`,
+Gem Pack Vol.4 `CBB4C = -240`, Gem Pack Vol.5 `CBB5C = -242`). Querying those ids returns
+**unrelated cards that merely share the card number**:
+
+| Docs method → what it returns | The key that actually works |
+|---|---|
+| `q="-113 54"` → `Shelgon 054/113 (Delta Species)` ❌ | `q="lot 54"` → `Slowpoke [LOT 54]` ✅ |
+| `q="-38 90"` → `Staryu (SV4a)` ❌ | `q="ancient roar 90"` → `Roaring Moon ex - 090/066 [SV4K] $40.63` ✅ |
+| `q="-42 80"` → `Medicham ex (SV07)` ❌ | `q="wild force 80"` → `Gastly - 080/071 [SV5K] $37.36` ✅ |
+
+Also verified:
+
+- `q="cs5.1c 90"` (using `set_code`) → **0 results** — the Chinese set code is not searchable.
+- The **canonical set name** *is* searchable and selects the right printing.
+- A card's `card_info.name` is often `"<name> - <number> (<set>)"` (e.g. `"Roaring Moon ex - 090/066"`),
+  and `card_info.set_id` may be the *real* upstream id (Ancient Roar JP = `SV4K`/`23610`), **not** the
+  index's `-38` — so the numeric id cannot be trusted for validation either.
+
+### 6.1 The strategy the fetcher uses (`pokewallet/fetch_prices.py`)
+
+For each portfolio card, try up to three query keys, **validating every candidate**:
+
+1. `"{set_id} {number}"` — the docs' method, exact for positive ids;
+2. `"{set_code} {number}"` — rescue for some sets;
+3. `"{canonical set name} {number}"` — the reliable key for negative-id / Chinese / JP sets.
+
+A candidate is accepted **only if the card number agrees** *and* at least one identity signal agrees:
+the normalised card name (parenthetical- and `" - <num>"`-stripped) is identical, **or** the card's
+`set_code`/`set_id` equals the expected one. Requiring the name is what stops the free-text `/search`
+from matching an unrelated card that merely shares a number. **A wrong match silently corrupts the
+portfolio, so an unmatched card is always preferred over a confidently-wrong one** (decision D7).
+Rejected candidates are still recorded (the snapshot `candidate` column), never discarded.
+
+### 6.2 Pricing without a per-card call is impossible on the free plan
+
+- `GET /sets/:code` → cards come back with **empty** `prices[]` arrays (bulk pricing is `/prices/:setCode`, PRO).
+- `GET /cards/:id` → carries prices, but you must already know the id.
+- `GET /search?q="<key> <number>"` → returns the card **with** TCGPlayer/CardMarket prices. ✅
+
+So the fetcher spends **one `/search` call per card** (2–3 when the first key finds nothing) and builds
+history by re-running on a schedule. Rate math: 175 portfolio cards ≈ 175–200 calls, which exceeds the
+100/hour cap → the run is split across hourly windows by `pokewallet/fetch_loop.py`.
+
+### 6.3 Resume & merge (so re-runs don't waste the budget)
+
+`fetch_prices.py` reads its own append-only `snapshots/portfolio_prices.jsonl` on start:
+
+- a card fetched within `--fresh-hours` (default 20) is **served from cache with no API call**;
+- a card whose fresh fetch fails keeps its **last-known price** (never erased);
+- every row is labelled `served_from` ∈ {`fetched`, `cache`, `cache-fallback`, `miss`, `orphan`}.
 
 ---
 
@@ -155,3 +204,4 @@ assume one exists.
 | Date | Change |
 |---|---|
 | 2026-10-02 | Created: version, rate limits, endpoint availability, cache TTLs, response shape, discrepancies. |
+| 2026-10-02 | §6 rewritten: proved `set_id`+number is broken for negative ids; documented the multi-key + per-candidate validation strategy, per-card pricing, and the resume/merge behavior. |

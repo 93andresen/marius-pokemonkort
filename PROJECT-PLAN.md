@@ -261,8 +261,14 @@ X-RateLimit-Limit-Day: 1000        X-RateLimit-Remaining-Day: ...
 - TCGPlayer: `low_price, mid_price, high_price, market_price, direct_low_price, updated_at, sub_type_name`
 - CardMarket: `avg, low, avg1, avg7, avg30, trend, updated_at, variant_type`
 
-**Best lookup key:** `set_id` + `card_number` together (e.g. `q=23520 004`) — disambiguates far
-better than name alone, and `set_id` is preferred over `set_code`.
+**Best lookup key (VERIFIED — see `docs/pokewallet_io_api-VERIFIED-NOTES.md` §6):** the reliable
+key is the **canonical set NAME + card number** (e.g. `q="ancient roar 90"`). The docs' `set_id`
+key is exact **only for positive** ids; several sets have **negative** ids (`LOT=-113`, `CS5.1C=-38`,
+`CS6.1C=-42`, `CBB4C=-240`, `CBB5C=-242`) which return *unrelated* cards sharing the same number.
+`set_code` also sometimes differs (docs `BA2024` vs live `BA24`) and Chinese/JP set ids in the index
+do not match the API card's actual `set_id`. So the fetcher tries **`set_id` → `set_code` →
+canonical set name**, then **validates** every candidate (`validate_match`) before accepting a price.
+Never trust a `/search` hit without validation.
 
 ### 5.4 Discrepancies vs. `docs/pokewallet_io_api-docs.md`
 
