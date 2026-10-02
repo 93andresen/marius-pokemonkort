@@ -319,6 +319,8 @@ And it needs to contain, well, you should think about what it needs to contain a
 
 ---
 
+2026-10-02-17.16.22
+
 @/docs/pokewallet_io_api-docs.md 
 
 Now we have the ACTUAL EXPORT of my friends portfolio!
@@ -330,7 +332,7 @@ Use the docs
 Write a script
 to fetch all the current information about all those cards.
 
-Make the script as useful and flexible as possible.
+Make the script(s) as useful and flexible as possible.
 
 look around in this repo and get familiar so you have a good idea about all the different thigs that might be useful.
 
@@ -565,4 +567,6 @@ but alot of time shold be spent really trying to think about and trying to figur
 EVERYTHING i have talked about should be done with alot of thoughts and take your time with everything!
 
 **ALSO! VERY IMPORTANT! MAKE SURE THAT YOU USE GIT VERY ACTIVLY ALL THE TIME! EVEN WHEN FAILURES HAPPENS! ALL THE TIME! I JUST WANT TO SEE THE PROCESS! SO MAKE SURE TO COMMIT ALL THE TIME!**
+
+---
 
