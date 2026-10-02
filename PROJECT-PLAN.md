@@ -384,15 +384,29 @@ One script that exposes **every** endpoint. Requirements:
     `--offline` / `--dry-run`.
 
 ### 7.7 Browser augmentation (`tools/`)
-- **`finn-enhance.user.js`** — userscript for finn.no: injects price overlays into listing cards,
-  a hotkey to enrich the current ad / clipboard link, and a URL-change observer (SPA nav) that
-  auto-triggers enrichment. Talks to the local agent.
-- **`local_agent.py`** — small local HTTP server: receives ad URLs from the userscript, calls
-  `finn_matcher` + PokeWallet (respecting budget), returns overlay data. Caches results.
+Full operator guide: [`tools/README.md`](tools/README.md).
+- **`finn-enhance.user.js`** — Tampermonkey/Violentmonkey userscript (thin client). Hover
+  badges on search-result cards show the estimated market value (green = under, amber = over
+  the estimate); ad pages auto-enrich into a panel. Hotkeys: `Alt+E` enrich ad/clipboard,
+  `Alt+Shift+E` clipboard, `Alt+A` all visible cards, `Alt+H` history, `Alt+O` toggle hover.
+  A URL-change observer (`pushState`/`replaceState`/`popstate` + safety poll) re-triggers on
+  finn.no's SPA navigation. Settings via Tampermonkey menu (`agentUrl`, `autoEnrichAd`,
+  `autoLog`, `hoverOverlay`, `throttleMs`).
+- **`local_agent.py`** — loopback-only (`127.0.0.1`) HTTP server holding the set index + query
+  cache + API client across requests. Routes: `GET /health`, `GET /match`, `POST /log`,
+  `GET /history`. `/match` is cache-first; on `BudgetExhausted`/`MissingApiKey` it retries
+  cache-only and adds a `budget_note` (so a hover never errors). Binds loopback only; never
+  calls finn.no.
 - **`history_logger.py`** — append-only JSONL of every ad the user viewed (FINN-kode, title,
-  matched card ids, timestamp). Enables queries like *"all Pichu's viewed in the last 4 weeks."*
-- **PriceCharting links** are stored (a `pricecharting_url` field) but marked **unconfirmed**;
-  a value is only treated as confirmed when the user explicitly confirms it.
+  matched card ids, timestamp), flushed per line. Query CLI:
+  `uv run tools/history_logger.py --since-days 28 --match pichu` → answer to *"all Pichu's
+  viewed in the last 4 weeks."*
+- **PriceCharting links** are stored (a `pricecharting_url` field) but marked **unconfirmed**
+  (`pricecharting_confirmed: false`); a value is only treated as confirmed when the user
+  explicitly confirms it.
+- **Verified:** `data/finn/_probe/test_agent.py` boots the real handler on an ephemeral port and
+  exercises every route — **13/13 checks passed** (`/health`, `/`, `/match` offline with 0 calls
+  spent, `POST /log` → `/history` round-trip, 404). Userscript passes `node --check`.
 
 ---
 
@@ -462,7 +476,7 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 - [x] **M6 — Spreadsheet.** Tabs, seed data, dashboards, sorting built + populated.
 - [x] **M7 — FINN search + ad scrapers** (structured JSON, folder-per-ad, images). Verified: offline parse `quality=full`, live max-size `original` images, append-only manifest.
 - [x] **M8 — FINN matcher** (search/ad → candidates → prices, budget-capped). Verified offline + one live call (best score 79); append-only query cache + overlay payload.
-- [ ] **M9 — Browser augmentation** (userscript + local agent + history logger).
+- [x] **M9 — Browser augmentation** (userscript + local agent + history logger). Verified end-to-end 13/13 (ephemeral-port probe); userscript syntax-checked.
 - [ ] **M10 — "Show the friend" demo.** A single, polished command/flow that demonstrates the price overlay on live finn.no + the populated sheet.
 
 *(User wants something cool ready "today" → M5 + M6 are the fastest visible wins; M8/M9 are the mind-blower.)*
@@ -495,8 +509,8 @@ When resuming, do this:
 3. ✅ `sync_sets.py` + `resolve_portfolio.py` done — 178/191 resolved (M4).
 4. 🔁 `fetch_prices.py` + `fetch_loop.py` running; keep filling the portfolio each hour (M5).
 5. ✅ Sheet built + populated (M6). ✅ FINN search + ad scrapers (M7). ✅ FINN matcher (M8).
-6. ⏭️ **Next up: M9 — browser augmentation** (`tools/`: userscript + local agent + history logger),
-   consuming the matcher's overlay payload on live finn.no.
+6. ✅ FINN browser augmentation (M9) — `tools/`: userscript + local agent + history logger, verified 13/13.
+7. ⏭️ **Next up: M10 — "show the friend" demo** (polished overlay-on-live-finn.no + populated-sheet walkthrough).
 
 ---
 

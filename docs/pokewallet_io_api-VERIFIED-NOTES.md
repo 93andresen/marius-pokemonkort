@@ -220,10 +220,39 @@ Turns a FINN heading / search record / parsed ad into ranked PokeWallet candidat
 
 ---
 
-## 8. Change log for this file
+## 8. Browser augmentation (`tools/`)
+
+The matcher is exposed to the browser through a **loopback-only** local agent so finn.no pages can
+request overlays without any server of our own. Nothing is sent anywhere except `127.0.0.1`; the
+agent never talks to finn.no (clipboard/URL fetches are done by the browser itself via
+`GM_xmlhttpRequest`).
+
+- **`tools/local_agent.py`** — `ThreadingHTTPServer` on `127.0.0.1:8765` holding the set index +
+  query cache + `PokeWalletClient` across requests (single `threading.Lock`). Routes:
+  - `GET /health` → `{ok, version, offline, budget}`.
+  - `GET /match?heading=&price=&kode=&url=&status=&location=` → the `build_overlay()` payload.
+  - `POST /log` → body appended to the history log via `history_logger.log_view`.
+  - `GET /history?since_days=&match=&kode=&limit=` → viewed ads, newest first.
+  - **Budget safety:** `/match` is cache-first; on `BudgetExhausted`/`MissingApiKey` it retries
+    cache-only and adds `budget_note` — a hover never errors, it just shows cached data.
+- **`tools/finn-enhance.user.js`** — Tampermonkey/Violentmonkey userscript (thin client; ES2017,
+  `GM_xmlhttpRequest` with a `fetch` fallback). Hover badges on result cards; ad-page auto-enrich;
+  SPA URL-change observer; hotkeys `Alt+E/Shift+E/A/H/O`; enqueue+throttle so bursts can't hammer
+  the budget.
+- **`tools/history_logger.py`** — append-only `data/finn/history/viewed.jsonl` (flushed per line).
+  `read_history()` takes an explicit `path=` (no global mutation). CLI:
+  `uv run tools/history_logger.py --since-days 28 --match pichu`.
+- **Verified:** `data/finn/_probe/test_agent.py` boots the real handler on an ephemeral port and
+  hits every route — **13/13 checks passed** (`/health`, `/`, `/match` offline → `calls_spent=0`,
+  `POST /log` → `/history` round-trip, unknown route → 404). Userscript passes `node --check`.
+
+---
+
+## 9. Change log for this file
 
 | Date | Change |
 |---|---|
 | 2026-10-02 | Created: version, rate limits, endpoint availability, cache TTLs, response shape, discrepancies. |
 | 2026-10-02 | §6 rewritten: proved `set_id`+number is broken for negative ids; documented the multi-key + per-candidate validation strategy, per-card pricing, and the resume/merge behavior. |
 | 2026-10-02 | §7 added: FINN→PokeWallet matcher strategy (heading parse + set-suffix, query plan, scoring, offline-safe query cache, overlay payload). Changelog renumbered to §8. |
+| 2026-10-02 | §8 added: browser augmentation (`tools/` userscript + loopback agent + append-only history logger; hotkeys, budget fallback, 13/13 route probe). Changelog renumbered to §9. |
