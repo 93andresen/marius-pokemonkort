@@ -193,3 +193,4 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T16:06:59Z,search,/search,q=City+Gym+Decks+091&limit=5,200,7,809,True,
 2026-10-02T16:07:00Z,search,/search,q=24269+031&limit=5,200,6,808,True,
 2026-10-02T16:07:01Z,search,/search,q=24310+068&limit=5,200,5,807,True,
+2026-10-02T16:22:04Z,search,/search,q=-240+0702&limit=5,200,4,806,True,
