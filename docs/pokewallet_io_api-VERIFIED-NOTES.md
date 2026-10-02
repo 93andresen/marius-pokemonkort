@@ -199,9 +199,31 @@ history by re-running on a schedule. Rate math: 175 portfolio cards ≈ 175–20
 
 ---
 
-## 7. Change log for this file
+## 7. FINN → PokeWallet matching (`finn/finn_matcher.py`)
+
+Turns a FINN heading / search record / parsed ad into ranked PokeWallet candidates + prices and the
+**overlay payload** the browser tool (M9) consumes. Same caution as §6, but expressed as a *score*:
+
+- **Heading parse** — card number (`#101`, `101/102`, trailing), year, parenthetical set/variant
+  hints, and an inline **set suffix** peeled off via the cached set index
+  (`"Psychic Energy Base Set"` → name `Psychic Energy`, set `Base Set`).
+- **Query plan** — most-precise first: `"<name> <num>"`, `"<set> <num>"`, canonical set name
+  (`pwlib.sets.lookup`) `+ <num>`, then bare name/set. Stops after the first query with hits.
+- **Scoring** — number agreement + name agreement (exact / token-overlap) + set agreement + price
+  presence. `best` only when `score ≥ 60` **and** the number agrees (D7: unmatched ≫ confidently-wrong).
+- **Cache** — append-only `data/finn/_cache/query_cache.jsonl` (newest-wins, normalised-query key,
+  `--cache-hours` TTL). Repeat lookups cost **zero** calls; `--offline` reads the cache only.
+- **Output** — append-only `data/finn/matches/matches.jsonl` + timestamped `overlay_<ts>.json`
+  (`--json` to stdout): `parsed`, `queries`, `candidates[]`, `best`, `value{ … estimated:true }`,
+  and a **stored-but-unconfirmed** `pricecharting_url`.
+- **Budget** — `--max-calls` caps spend; shares the same 100/hr free budget as everything else.
+
+---
+
+## 8. Change log for this file
 
 | Date | Change |
 |---|---|
 | 2026-10-02 | Created: version, rate limits, endpoint availability, cache TTLs, response shape, discrepancies. |
 | 2026-10-02 | §6 rewritten: proved `set_id`+number is broken for negative ids; documented the multi-key + per-candidate validation strategy, per-card pricing, and the resume/merge behavior. |
+| 2026-10-02 | §7 added: FINN→PokeWallet matcher strategy (heading parse + set-suffix, query plan, scoring, offline-safe query cache, overlay payload). Changelog renumbered to §8. |

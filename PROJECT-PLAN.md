@@ -361,8 +361,27 @@ One script that exposes **every** endpoint. Requirements:
   `finn/ads/{kode}_{slug}/` → `{kode}.json` (raw structured capture), `photos/01.jpg…` (transformed
   to max size via the UUID pattern `images.finncdn.no/dynamic/{SIZE}/item/{itemRef}/{uuid}`),
   `manifest.json` (url, timestamps, image list + count, status). Visible image-count check.
-- **`finn_matcher.py`** — takes a search result or ad, produces ranked PokeWallet candidates +
-  prices (budget-capped), outputs the overlay payload JSON the browser tool consumes.
+- **`finn_matcher.py`** — the "goldmine" engine: takes a FINN heading / search record / parsed ad
+  and produces **ranked PokeWallet candidates + prices** and the **overlay payload** the browser
+  tool (M9) consumes.
+  - **Heading parse** (`parse_heading`): card number (`#101`, `101/102`, trailing), year,
+    parenthetical set/variant hints, and an inline **set suffix** peeled off using the cached set
+    index (`"Psychic Energy Base Set"` → name `Psychic Energy`, set `Base Set`).
+  - **Query plan** (`plan_queries`): most-precise first — `"<name> <num>"`, `"<set> <num>"`, the
+    canonical set name (`pwlib.sets.lookup`) `+ <num>`, then bare name/set. Stops after the first
+    query that returns hits (budget discipline, mirrors `validate_match`).
+  - **Scoring** (`score_candidate`): a *score*, never a silent accept — number agreement, name
+    agreement (exact / token-overlap), set agreement, price presence. `best` only when
+    `score ≥ 60` **and** the number agrees (D7: unmatched beats confidently-wrong).
+  - **Cache**: append-only `data/finn/_cache/query_cache.jsonl` (newest-wins, normalised-query key,
+    `--cache-hours` TTL) so repeat lookups cost **zero** calls; `--offline` reads cache only.
+  - **Output**: appends `data/finn/matches/matches.jsonl` + a timestamped `overlay_<ts>.json`
+    (`--json` to stdout): `parsed`, `queries`, `candidates[]`, `best`,
+    `value{FINN NOK vs est-market NOK, fx_rate, estimated:true}`, and a **stored but unconfirmed**
+    `pricecharting_url`.
+  - **CLI**: `--heading` / `--from-jsonl` / `--ad-json`, `--finn-price`, `--limit`, `--max-calls`,
+    `--max-queries`, `--max-candidates`, `--cache-hours`, `--fx-usd` / `--fx-eur`,
+    `--offline` / `--dry-run`.
 
 ### 7.7 Browser augmentation (`tools/`)
 - **`finn-enhance.user.js`** — userscript for finn.no: injects price overlays into listing cards,
@@ -440,9 +459,9 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 - [x] **M3 — API client.** `pokewallet_client.py` (all endpoints, raw-saving, rate-aware, RateLog).
 - [x] **M4 — Sets + resolution.** `sync_sets.py`, `resolve_portfolio.py`; resolved portfolio + unmatched list (178/191).
 - [-] **M5 — Price run.** `fetch_prices.py` + `fetch_loop.py` running; snapshots accumulating across hourly windows.
-- [ ] **M6 — Spreadsheet.** Build tabs, seed data, dashboards, sorting.
-- [ ] **M7 — FINN search + ad scrapers** (structured JSON, folder-per-ad, images).
-- [ ] **M8 — FINN matcher** (search/ad → candidates → prices, budget-capped).
+- [x] **M6 — Spreadsheet.** Tabs, seed data, dashboards, sorting built + populated.
+- [x] **M7 — FINN search + ad scrapers** (structured JSON, folder-per-ad, images). Verified: offline parse `quality=full`, live max-size `original` images, append-only manifest.
+- [x] **M8 — FINN matcher** (search/ad → candidates → prices, budget-capped). Verified offline + one live call (best score 79); append-only query cache + overlay payload.
 - [ ] **M9 — Browser augmentation** (userscript + local agent + history logger).
 - [ ] **M10 — "Show the friend" demo.** A single, polished command/flow that demonstrates the price overlay on live finn.no + the populated sheet.
 
@@ -475,7 +494,9 @@ When resuming, do this:
 2. ✅ `pokewallet/pokewallet_client.py` built + smoke-tested (M3).
 3. ✅ `sync_sets.py` + `resolve_portfolio.py` done — 178/191 resolved (M4).
 4. 🔁 `fetch_prices.py` + `fetch_loop.py` running; keep filling the portfolio each hour (M5).
-5. ⏭️ Build the sheet (M6) — **next up**; then FINN tools (M7/M8) and browser augmentation (M9).
+5. ✅ Sheet built + populated (M6). ✅ FINN search + ad scrapers (M7). ✅ FINN matcher (M8).
+6. ⏭️ **Next up: M9 — browser augmentation** (`tools/`: userscript + local agent + history logger),
+   consuming the matcher's overlay payload on live finn.no.
 
 ---
 
