@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/cards/pk_89947884922d00d77043316ac1ed44ea9ab9ef119f59663b91b2ebb1a622b39e9dea8ee401bb5fa5fd2cfd13ce19f6
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:40:54 GMT
+Content-Type: application/json
+Content-Length: 1372
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 993
+X-RateLimit-Remaining-Hour: 93
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TMuAfkQs5asBQ6QoPa6BW89mUkvIAOesA3wy%2FGDVVS44xS33Dlg6POwubIwE4KNSULLE9GR6k%2BGdZ4q%2BasLCz7Gr27empT1WOBAUoVpAqs8XdHoZqZLCjlUh3P9KdhBS%2B4gHiWZUrhBo9gZiOQXkIg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444cee6ff0256a9-OSL
+alt-svc: h3=":443"; ma=86400

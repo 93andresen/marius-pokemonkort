@@ -1,0 +1,2290 @@
+{
+  "success": true,
+  "set": {
+    "name": "SV08: Surging Sparks",
+    "set_code": "SSP",
+    "set_id": "23651",
+    "total_cards": 279,
+    "language": "eng",
+    "release_date": "8th November, 2024"
+  },
+  "cards": [
+    {
+      "id": "pk_ac7bd6bd166a5889e7512ae52ac98617641134824a792474a0ae080ae202c5c32b69d8aecd014661491ea59e0157",
+      "card_info": {
+        "name": "Exeggcute - 001/191",
+        "clean_name": "Exeggcute",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "001/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Precocious Evolution<br> If you go first, you can use this attack during your first turn. Search your deck for a card that evolves from this Pokemon and put it onto this Pokemon to evolve it. Then, shuffle your deck."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589939"
+      },
+      "cardmarket": {
+        "product_name": "Exeggcute",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Exeggcute-V1-SSP001"
+      }
+    },
+    {
+      "id": "pk_8d55d9f41880919b67a31d2d04ba86f800932e1ca347649db1d63977ada8d2ebd24e256cfa27f162a3bed8e1ef0a",
+      "card_info": {
+        "name": "Exeggcute - 002/191",
+        "clean_name": "Exeggcute",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "002/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Absorb (10)<br> Heal 10 damage from this Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589940"
+      },
+      "cardmarket": {
+        "product_name": "Exeggcute",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Exeggcute-SSP002"
+      }
+    },
+    {
+      "id": "pk_e802534342d239d6e9906d7d479d986b544deb648441c94dd5960775610d2a1bce953d0ad9801feea09fc87c370c",
+      "card_info": {
+        "name": "Exeggutor",
+        "clean_name": "Exeggutor",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "003/191",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Barrage O'Clock (60x)<br> Flip a coin for each Energy attached to both Active Pokemon. This attack does 60 damage for each heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589942"
+      },
+      "cardmarket": {
+        "product_name": "Exeggutor",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Exeggutor-SSP003"
+      }
+    },
+    {
+      "id": "pk_9c9c598ffdafc55b054df766577c5c1d13d4ff189e6fb3edf6d43be128c0129168e0cc6131858c394d0166227df8",
+      "card_info": {
+        "name": "Durant ex - 004/191",
+        "clean_name": "Durant ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "004/191",
+        "rarity": "Double Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Holofoil"
+        ],
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Sudden Shearing</strong> When you play this Pokémon from your hand onto your Bench during your turn, you may discard the top card of your opponent's deck.",
+        "attacks": [
+          "[GCC] Vengeful Crush (120+)<br> This attack does 30 more damage for each Prize card your opponent has taken."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589928"
+      },
+      "cardmarket": {
+        "product_name": "Durant ex",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Durant-ex-V1-SSP004"
+      }
+    },
+    {
+      "id": "pk_0d6d8a229c132f9b12c5a9d977b70bae5421a5e9d35f67a7eb4a2a633a1d4e6af9cc3c6fe417601cd2b5b7e3279d",
+      "card_info": {
+        "name": "Scatterbug",
+        "clean_name": "Scatterbug",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "005/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Call for Family<br> Search your deck for a Basic Pokemon and put it onto your Bench. Then, shuffle your deck."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590039"
+      },
+      "cardmarket": {
+        "product_name": "Scatterbug",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Scatterbug-SSP005"
+      }
+    },
+    {
+      "id": "pk_9e75f2aa045c79899b21c0fb081fed5e49730bda057a89f88de438cb248fdf3d11619c0d2ea52b4e279b26d78edf",
+      "card_info": {
+        "name": "Spewpa",
+        "clean_name": "Spewpa",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "006/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Wander About<br> Switch this Pokemon with 1 of your Benched Pokemon.",
+          "[G] Tackle (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590061"
+      },
+      "cardmarket": {
+        "product_name": "Spewpa",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Spewpa-SSP006"
+      }
+    },
+    {
+      "id": "pk_d9e4f85cf6e90fb8e6e553663b6f8e646041d460315dbee54966cd8f93c90117d0faedb8938094659e0233adf28d",
+      "card_info": {
+        "name": "Vivillon - 007/191",
+        "clean_name": "Vivillon",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "007/191",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[C] Evo-Powder<br> For each of your Benched Pokemon, search your deck for a card that evolves from that Pokemon and put it onto that Pokemon to evolve it. Then, shuffle your deck.",
+          "[G] Cutting Wind (90)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590089"
+      },
+      "cardmarket": {
+        "product_name": "Vivillon",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Vivillon-V1-SSP007"
+      }
+    },
+    {
+      "id": "pk_ee5c74e890cae19df31b3189b23f70c745203ff14d74bd73342f9e41f505f77b7eb930d5c0337fe06b758f8f1be8",
+      "card_info": {
+        "name": "Morelull",
+        "clean_name": "Morelull",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "008/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Attach (10)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590009"
+      },
+      "cardmarket": {
+        "product_name": "Morelull",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Morelull-SSP008"
+      }
+    },
+    {
+      "id": "pk_5793849a14801096fcdd98e05962a689820107db5bc13087b6f687c09dcd4c3e16608937826eeb3e5cb6d296e3f5",
+      "card_info": {
+        "name": "Shiinotic - 009/191",
+        "clean_name": "Shiinotic",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "009/191",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Calming Light</strong> Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Asleep.",
+        "attacks": [
+          "[GC] Spiral Rush (60+)<br> Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590045"
+      },
+      "cardmarket": {
+        "product_name": "Shiinotic",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Shiinotic-V1-SSP009"
+      }
+    },
+    {
+      "id": "pk_de436239eb5f4f893ceb9816b3a06fc3e6dc67da6b7b9bd8a37f3bd39b1928daeb0a21b2779dadc770b989498c071d",
+      "card_info": {
+        "name": "Dhelmise",
+        "clean_name": "Dhelmise",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "010/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Rescue Kedge<br> Put up to 2 Pokemon from your discard pile into your hand.",
+          "[GCC] Annihilating Anchor (80)<br> Before doing damage, discard all Pokemon Tools from your opponent's Active Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589917"
+      },
+      "cardmarket": {
+        "product_name": "Dhelmise",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Dhelmise-SSP010"
+      }
+    },
+    {
+      "id": "pk_56a45419581b3834bb8d61e5705bf53cb423aa90194a29fa9c43ae124a982694c28083187ee5837c51ced6aee9db3a",
+      "card_info": {
+        "name": "Zarude",
+        "clean_name": "Zarude",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "011/191",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Holofoil",
+          "Reverse Holofoil"
+        ],
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Leaf Drain (20)<br> Heal 20 damage from this Pokemon.",
+          "[GGC] Jungle Whip (80+)<br> You may put all Energy attached to this Pokemon into your hand to have this attack do 80 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590099"
+      },
+      "cardmarket": {
+        "product_name": "Zarude",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Zarude-SSP011"
+      }
+    },
+    {
+      "id": "pk_e526ed73b61fafbbfba537d3869eb88766a9d2398f39e1ea89521d70f55e3a5e56478c462f07c5187ac5a7e494fe24",
+      "card_info": {
+        "name": "Capsakid",
+        "clean_name": "Capsakid",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "012/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Headbutt Bounce (20)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589886"
+      },
+      "cardmarket": {
+        "product_name": "Capsakid",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Capsakid-SSP012"
+      }
+    },
+    {
+      "id": "pk_94b46515dcc0e3cbe84b62dea60672aabc099fa047170a60bb200c14655d353d9ba9675003b28d8021413b3c2ebef0",
+      "card_info": {
+        "name": "Rellor",
+        "clean_name": "Rellor",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "013/191",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Collect<br> Draw a card.",
+          "[G] Rollout (10)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590035"
+      },
+      "cardmarket": {
+        "product_name": "Rellor",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Rellor-SSP013"
+      }
+    },
+    {
+      "id": "pk_9462d4ea03c077bfcb834d9cbaec6abc6677cd51c908f691db54c1d62d8b4e9b4f1bf0389f4b56728cad5b4da8f8cb",
+      "card_info": {
+        "name": "Rabsca",
+        "clean_name": "Rabsca",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "014/191",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Holofoil",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Triple Draw<br> Draw 3 cards.",
+          "[G] Counterturn (40+)<br> If there are 3 or fewer cards in your deck, this attack does 200 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590033"
+      },
+      "cardmarket": {
+        "product_name": "Rabsca",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Rabsca-V1-SSP014"
+      }
+    },
+    {
+      "id": "pk_506f1fdf73b37eee30198429d094a67943f9ccb807a0c476a34b0fc3f8e3c05d0dc8cf461713739b43bd797c318bd3",
+      "card_info": {
+        "name": "Wo-Chien",
+        "clean_name": "Wo Chien",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "015/191",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GC] Hazardous Greed (20)<br> If there are 3 or fewer cards in your deck, this attack also does 120 damage to 2 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+          "[GGC] Entangling Whip (130)<br> Discard the top 3 cards of your deck."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590095"
+      },
+      "cardmarket": {
+        "product_name": "Wo-Chien",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Wo-Chien-SSP015"
+      }
+    },
+    {
+      "id": "pk_a1e39617513f90bca576c4e8da9b0e627455c7478bba51c49a05505120e5fb14c79ec749460a261944a4167ab5da2d",
+      "card_info": {
+        "name": "Vulpix",
+        "clean_name": "Vulpix",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "016/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Take Down (30)<br> This Pokemon also does 10 damage to itself."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590092"
+      },
+      "cardmarket": {
+        "product_name": "Vulpix",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Vulpix-SSP016"
+      }
+    },
+    {
+      "id": "pk_53435339ea33a553bc89f1710e27d9033711477de71ba0d3a78396aa5ee10f1e5d9a73c4064ad43050ef8104b84ff7",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "017/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Fire Soul (50)<br> This attack also does 30 damage to 1 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590010"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Ninetales-SSP017"
+      }
+    },
+    {
+      "id": "pk_e9577037e6f6a0b51e48019f20c5c40adf40046f06ad99bd6d0aa9cac5ec2181f20e3068b5208eea9fb3f21e4bcbd7",
+      "card_info": {
+        "name": "Paldean Tauros - 018/191",
+        "clean_name": "Paldean Tauros",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "018/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Rear Kick (30)",
+          "[RCC] Spirited Tackle (90+)<br> If your opponent's Active Pokemon is a Stage 1 Pokemon, this attack does 90 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590014"
+      },
+      "cardmarket": {
+        "product_name": "Paldean Tauros",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Paldean-Tauros-SSP018"
+      }
+    },
+    {
+      "id": "pk_ec947e6cb5cf1fff43b43d7b4327a381fa104763f66dc50da467d3de234bba860448b607ffe43129eeffd3196f5cd3",
+      "card_info": {
+        "name": "Ho-Oh",
+        "clean_name": "Ho Oh",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "019/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RC] Flap (50)",
+          "[RRC] Shining Blaze (100+)<br> If you have any Tera Pokemon on your Bench, this attack does 100 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589964"
+      },
+      "cardmarket": {
+        "product_name": "Ho-Oh",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Ho-Oh-SSP019"
+      }
+    },
+    {
+      "id": "pk_329cde565837cc6ddb3e89b78ea139c1f5fc88d1c0737882408971a25a4ad5b0fb000d7dbb3b7860ca1943b75b45d4",
+      "card_info": {
+        "name": "Castform Sunny Form - 020/191",
+        "clean_name": "Castform Sunny Form",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "020/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Singe<br> Your opponent's Active Pokemon is now Burned.",
+          "[RC] Sunny Assist (50)<br> Move all Energy from this Pokemon to 1 of your Benched Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589887"
+      },
+      "cardmarket": {
+        "product_name": "Castform Sunny Form",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Castform-Sunny-Form-V1-SSP020"
+      }
+    },
+    {
+      "id": "pk_5ef37b0313bbe823a042ac1120d8a225186681adc18712003181bbb18a1d255bfc14f32ad59abccc9a45fcfb55b048",
+      "card_info": {
+        "name": "Victini",
+        "clean_name": "Victini",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "021/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Victory Cheer</strong> Attacks used by your Evolution Fire Pokémon do 10 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[RC] Flare (30)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590087"
+      },
+      "cardmarket": {
+        "product_name": "Victini",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Victini-SSP021"
+      }
+    },
+    {
+      "id": "pk_b1aaa735631c9f3811c939bc6a677268630a7ade21ee3a5e8249e037e7b09a1eb77945bd2fa49dbd1dc83ac67febdf",
+      "card_info": {
+        "name": "Pansear",
+        "clean_name": "Pansear",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "022/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Combustion (20)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590020"
+      },
+      "cardmarket": {
+        "product_name": "Pansear",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Pansear-SSP022"
+      }
+    },
+    {
+      "id": "pk_8a7aecd625fe0cfb48db875d8d54573c4ec20a64ee4c383caf9bb682490d35a59e2b007c55b81e74c61e4904d462f4",
+      "card_info": {
+        "name": "Simisear",
+        "clean_name": "Simisear",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "023/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Double Smash (70x)<br> Flip 2 coins. This attack does 70 damage for each heads."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590049"
+      },
+      "cardmarket": {
+        "product_name": "Simisear",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Simisear-SSP023"
+      }
+    },
+    {
+      "id": "pk_3f799926545f7d4f8a02167a9ee06496dea182bc4315e93d40a86f8e639600f10d7ab16d3773a5e0549f7be4485932",
+      "card_info": {
+        "name": "Larvesta - 024/191",
+        "clean_name": "Larvesta",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "024/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Ram (10)",
+          "[RC] Steady Firebreathing (20)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589981"
+      },
+      "cardmarket": {
+        "product_name": "Larvesta",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Larvesta-V1-SSP024"
+      }
+    },
+    {
+      "id": "pk_b91470578fa79e4204dfb1d930bfcdd83241986dc12b8e621622da92bab34e662030f9a8ed623a5483c4084891b7da",
+      "card_info": {
+        "name": "Volcarona",
+        "clean_name": "Volcarona",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "025/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Leech Life (30)<br> Heal from this Pokemon the same amount of damage you did to your opponent's Active Pokemon.",
+          "[RCC] Turbulent Wings (150)<br> This Pokemon also does 50 damage to itself."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590091"
+      },
+      "cardmarket": {
+        "product_name": "Volcarona",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Volcarona-SSP025"
+      }
+    },
+    {
+      "id": "pk_eaf4acb62c521d87c17f92d98aee82395b695a653a55ecfc5f16a35f26e656b64ead316fb2c1a4ff43d941cc2f9016",
+      "card_info": {
+        "name": "Oricorio - 026/191",
+        "clean_name": "Oricorio",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "026/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Energy Assist<br> Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokemon.",
+          "[R] Fireworks (30)<br> Discard an Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590012"
+      },
+      "cardmarket": {
+        "product_name": "Oricorio",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Oricorio-SSP026"
+      }
+    },
+    {
+      "id": "pk_43d06efb02a733a5f9b15c120f437a8c74428f09a44d216d43b2018d5d103b1801235e81298d24267831bfe9f70e6a",
+      "card_info": {
+        "name": "Sizzlipede",
+        "clean_name": "Sizzlipede",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "027/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Live Coal (10)",
+          "[CCC] Hook (30)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590050"
+      },
+      "cardmarket": {
+        "product_name": "Sizzlipede",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Sizzlipede-SSP027"
+      }
+    },
+    {
+      "id": "pk_6ac3aaac0a3e824762c4539c09da79e0cbaeb5743cf8bec4236a36a0e9d70aa7a0ad0f9949f540ebeddf588f059372",
+      "card_info": {
+        "name": "Centiskorch",
+        "clean_name": "Centiskorch",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "028/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Billowing Heat Wave (130)<br> This attack also does 30 damage to each of your Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+          "[CCC] Heat Blast (80)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589889"
+      },
+      "cardmarket": {
+        "product_name": "Centiskorch",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Centiskorch-SSP028"
+      }
+    },
+    {
+      "id": "pk_46373d09c742dec4215ab791f2a71e8b3377989f302c8503b05261e78fa30607621c323007ecbf9c3dd4f5a5692461",
+      "card_info": {
+        "name": "Fuecoco",
+        "clean_name": "Fuecoco",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "029/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RC] Heat Burn (20)<br> Your opponent's Active Pokemon is now Burned."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589952"
+      },
+      "cardmarket": {
+        "product_name": "Fuecoco",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Fuecoco-V1-SSP029"
+      }
+    },
+    {
+      "id": "pk_3dc24098790ffee96d2c69cf54cefc83b33b1a37aed35d9b4b46b6709f8b0e22a48b62e81bf8d573b31a834c648d6d",
+      "card_info": {
+        "name": "Crocalor",
+        "clean_name": "Crocalor",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "030/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[RC] Heat Breath (30+)<br> Flip a coin. If heads, this attack does 50 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589908"
+      },
+      "cardmarket": {
+        "product_name": "Crocalor",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Crocalor-SSP030"
+      }
+    },
+    {
+      "id": "pk_f16db9de182cfb6083d218af939edc8c02171b79655d8a575dd3dbbae900d6c4259218acd7978b20bc90fdc5bd8c70",
+      "card_info": {
+        "name": "Skeledirge",
+        "clean_name": "Skeledirge",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "031/191",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Holofoil",
+          "Reverse Holofoil"
+        ],
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Unaware</strong> Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. <em>(Damage is not an effect.)</em>",
+        "attacks": [
+          "[RC] Torcherto (60+)<br> This attack does 20 more damage for each Benched Pokemon <em>(both yours and your opponent's)</em>."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590053"
+      },
+      "cardmarket": {
+        "product_name": "Skeledirge",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Skeledirge-V1-SSP031"
+      }
+    },
+    {
+      "id": "pk_26a1e7d759a9a5a928c23ad491d9af6baa561e65bcc02c2f7efe2b6cd1e1984202921319736ab19aed05ba270791d7",
+      "card_info": {
+        "name": "Charcadet - 032/191",
+        "clean_name": "Charcadet",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "032/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Will-O-Wisp (20)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589896"
+      },
+      "cardmarket": {
+        "product_name": "Charcadet",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Charcadet-SSP032"
+      }
+    },
+    {
+      "id": "pk_a1bf074ddc74a077979cb652f3bc3beeb64bb10f3a574de9805d2fd22d05e76b5f75c450caf4982a0630d8e6bc097f",
+      "card_info": {
+        "name": "Charcadet - 033/191",
+        "clean_name": "Charcadet",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "033/191",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Light Punch (10)",
+          "[RRC] Flamethrower (70)<br> Discard an Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589897"
+      },
+      "cardmarket": {
+        "product_name": "Charcadet",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Charcadet-SSP033"
+      }
+    },
+    {
+      "id": "pk_816a782b9ca32cebe25290dbb99913bf4ce50b67bd3df8dc8bc675edbad093ae3c19ddaba41279a4842a9e7a9a03b9",
+      "card_info": {
+        "name": "Armarouge",
+        "clean_name": "Armarouge",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "034/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Combustion (50)",
+          "[RRC] Crimson Blaster<br> Discard all Fire Energy from this Pokemon, and this attack does 180 damage to 1 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589870"
+      },
+      "cardmarket": {
+        "product_name": "Armarouge",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Armarouge-SSP034"
+      }
+    },
+    {
+      "id": "pk_3060c7aaec45e86f0c08b462e0b488719b8a898099ce22340ea729088fa60ffc2c7d0dcb9be79d08d4597e629801bd",
+      "card_info": {
+        "name": "Ceruledge - 035/191",
+        "clean_name": "Ceruledge",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "035/191",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Cursed Edge<br> Discard all Special Energy from all of your opponent's Pokemon.",
+          "[RRC] Black Blaze Slash (160)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589890"
+      },
+      "cardmarket": {
+        "product_name": "Ceruledge",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Ceruledge-V1-SSP035"
+      }
+    },
+    {
+      "id": "pk_acfc5d26b8c17cd5e9b37144b0df6ef3f8b8865235d826c1ae4b89ac64a79bdfc3bf6ab8c3caef6914919b2b979073",
+      "card_info": {
+        "name": "Ceruledge ex",
+        "clean_name": "Ceruledge ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "036/191",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Holofoil"
+        ],
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Abyssal Flames (30+)<br> This attack does 20 more damage for each Energy card in your discard pile.",
+          "[RPM] Raging Amethyst (280)<br> Discard all Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589892"
+      },
+      "cardmarket": {
+        "product_name": "Ceruledge ex",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Ceruledge-ex-SSP036"
+      }
+    },
+    {
+      "id": "pk_5ff557768122557bc5f5bdfdb274e6183bd92a99046d8d72ab0d19c68021b0437ea4ee278343ab5768e6d790135e2c",
+      "card_info": {
+        "name": "Scovillain ex - 037/191",
+        "clean_name": "Scovillain ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "037/191",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Holofoil"
+        ],
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Double Type</strong> As long as this Pokémon is in play, it is Grass and Fire type.",
+        "attacks": [
+          "[RR] Spicy Rage (10+)<br> This attack does 70 more damage for each damage counter on this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590040"
+      },
+      "cardmarket": {
+        "product_name": "Scovillain ex",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Scovillain-ex-V1-SSP037"
+      }
+    },
+    {
+      "id": "pk_deb6efd115dccacbe3ef8430d2db44468bc30409aa8abf4146efbd8f1cd7b8741191c621c0343148828724c3ffe742",
+      "card_info": {
+        "name": "Gouging Fire",
+        "clean_name": "Gouging Fire",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "038/191",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "variants": [
+          "Holofoil",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Lunge Out (30)",
+          "[RRC] Blazing Charge (100+)<br> If your opponent has 4 or fewer Prize cards remaining, this attack does 70 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589958"
+      },
+      "cardmarket": {
+        "product_name": "Gouging Fire",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Gouging-Fire-V1-SSP038"
+      }
+    },
+    {
+      "id": "pk_2dd20c86dc968b5411e48c873653dca70eb1ae5f2a8a839e9f580a4dfb2165abb475781403b87be9ca514f5725be77",
+      "card_info": {
+        "name": "Paldean Tauros - 039/191",
+        "clean_name": "Paldean Tauros",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "039/191",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Upthrusting Horns (30)<br> You may put 2 Energy attached to your opponent's Active Stage 2 Pokemon into their hand.",
+          "[WWC] Jet Headbutt (100)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590015"
+      },
+      "cardmarket": {
+        "product_name": "Paldean Tauros",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Paldean-Tauros-SSP039"
+      }
+    },
+    {
+      "id": "pk_d0df5e8b2464573d6be47597d52cd9167494db75cdc118ab9323adeeb5e3377dcc17ce359044163a64bbdbf95d0178",
+      "card_info": {
+        "name": "Mantine",
+        "clean_name": "Mantine",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "040/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Wave Splash (30)",
+          "[WC] Aqua Dive<br> This attack does 50 damage to 1 of your opponent's Pokemon. <em>(Don't apply Weakness or Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589996"
+      },
+      "cardmarket": {
+        "product_name": "Mantine",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Mantine-SSP040"
+      }
+    },
+    {
+      "id": "pk_f612a1a9487dc479b060fb2669b4c92a65ed344ea661eb77f617b37ed2f41a67ef3d11a2b288431447549bf486854d",
+      "card_info": {
+        "name": "Feebas - 041/191",
+        "clean_name": "Feebas",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "041/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Leap Out<br> Switch this Pokemon with 1 of your Benched Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589943"
+      },
+      "cardmarket": {
+        "product_name": "Feebas",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Feebas-V1-SSP041"
+      }
+    },
+    {
+      "id": "pk_386ab7f4692868356dbf59618dd2a876da4ae513d3dab3058907c0f4355d824571cd02f3c5dd74b431767e0dde4e79",
+      "card_info": {
+        "name": "Milotic ex - 042/191",
+        "clean_name": "Milotic ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "042/191",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Holofoil"
+        ],
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Sparkling Scales</strong> Prevent all damage from and effects of attacks from your opponent's Tera Pokémon done to this Pokémon.",
+        "attacks": [
+          "[WCC] Hypno Splash (160)<br> Your opponent's Active Pokemon is now Asleep."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590004"
+      },
+      "cardmarket": {
+        "product_name": "Milotic ex",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Milotic-ex-V1-SSP042"
+      }
+    },
+    {
+      "id": "pk_e9c2b47aeefee73cccc5326c5b16e4b4a6ed51de4acf69f4efdc1c641b1d9eae2ad2c981aabba2fbc3a418def03e32",
+      "card_info": {
+        "name": "Spheal - 043/191",
+        "clean_name": "Spheal",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "043/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Powder Snow (10)<br> Your opponent's Active Pokemon is now Asleep."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590062"
+      },
+      "cardmarket": {
+        "product_name": "Spheal",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Spheal-V1-SSP043"
+      }
+    },
+    {
+      "id": "pk_49d08568064cd3b6f98671f9d27743f7ca978a2ca755cf1280638a0ae85acfec309314c39325e992762e18bc9e6e4f",
+      "card_info": {
+        "name": "Sealeo",
+        "clean_name": "Sealeo",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "044/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Lunge Out (30)",
+          "[WW] Ice Ball (60)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590043"
+      },
+      "cardmarket": {
+        "product_name": "Sealeo",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Sealeo-SSP044"
+      }
+    },
+    {
+      "id": "pk_3de46076017a878132ddd7b131c46cb525ce63d7438cb12db1439fcee171d99875c628af2ba4bd8436e72be280dd52",
+      "card_info": {
+        "name": "Walrein",
+        "clean_name": "Walrein",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "045/191",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Frigid Fangs (60)<br> During your opponent's next turn, Pokemon that have 2 or fewer Energy attached can't attack. <em>(This includes new Pokemon that come into play.)</em>",
+          "[WW] Megaton Fall (170)<br> This Pokemon also does 50 damage to itself."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590093"
+      },
+      "cardmarket": {
+        "product_name": "Walrein",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Walrein-SSP045"
+      }
+    },
+    {
+      "id": "pk_b5cac23136f4f24606126b919a0c60cdd629ffba3dd853f2e943d3fece46fd82e04edd11eb5c76d0398e479929c992",
+      "card_info": {
+        "name": "Shellos",
+        "clean_name": "Shellos",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "046/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Sprinkle Water (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590044"
+      },
+      "cardmarket": {
+        "product_name": "Shellos",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Shellos-SSP046"
+      }
+    },
+    {
+      "id": "pk_192bdccdc7f690f2fb580d04ee99aa99c1844ebd331ae54b884b0c1e9f1ccbcbd7eaa9fe8e3ada0787f0d220fe15c7",
+      "card_info": {
+        "name": "Cryogonal",
+        "clean_name": "Cryogonal",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "047/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Call Sign<br> Search your deck for a Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[W] Ice Beam (30)<br> Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589909"
+      },
+      "cardmarket": {
+        "product_name": "Cryogonal",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Cryogonal-V1-SSP047"
+      }
+    },
+    {
+      "id": "pk_89947884922d00d77043316ac1ed44ea9ab9ef119f59663b91b2ebb1a622b39e9dea8ee401bb5fa5fd2cfd13ce19f6",
+      "card_info": {
+        "name": "Black Kyurem ex - 048/191",
+        "clean_name": "Black Kyurem ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "048/191",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Holofoil"
+        ],
+        "hp": "230.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CCC] Ice Age (90)<br> If your opponent's Active Pokemon is a Dragon Pokemon, it is now Paralyzed.",
+          "[WWCC] Black Frost (250)<br> This Pokemon also does 30 damage to itself."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589874"
+      },
+      "cardmarket": {
+        "product_name": "Black Kyurem ex",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Black-Kyurem-ex-V1-SSP048"
+      }
+    },
+    {
+      "id": "pk_f13340eac16d3dfef2aecb9ab8cf2285631346280adb3a7a3dba64d73e8de4ab004bb87736bd996c5b0de06af83ae1",
+      "card_info": {
+        "name": "Bruxish - 049/191",
+        "clean_name": "Bruxish",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "049/191",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Counterattack</strong> If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon <em>(even if this Pokémon is Knocked Out)</em>, put 3 damage counters on the Attacking Pokémon.",
+        "attacks": [
+          "[WC] Big Bite (50)<br> During your opponent's next turn, the Defending Pokemon can't retreat."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/589883"
+      },
+      "cardmarket": {
+        "product_name": "Bruxish",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Bruxish-V1-SSP049"
+      }
+    },
+    {
+      "id": "pk_cd5585ae27a3e58b2184de80cf35445766dadaad3c2b8dea2d1d00c6d4ab8437cf7e589a10dbfa270d6ba545af2430",
+      "card_info": {
+        "name": "Quaxly",
+        "clean_name": "Quaxly",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "23651",
+        "card_number": "050/191",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "variants": [
+          "Normal",
+          "Reverse Holofoil"
+        ],
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Aerial Ace (10+)<br> Flip a coin. If heads, this attack does 20 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/590031"
+      },
+      "cardmarket": {
+        "product_name": "Quaxly",
+        "prices": [],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Quaxly-V1-SSP050"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 50,
+    "total": 279,
+    "total_pages": 6
+  }
+}

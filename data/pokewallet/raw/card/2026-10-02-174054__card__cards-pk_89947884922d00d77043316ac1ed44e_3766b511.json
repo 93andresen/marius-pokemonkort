@@ -1,0 +1,74 @@
+{
+  "id": "pk_89947884922d00d77043316ac1ed44ea9ab9ef119f59663b91b2ebb1a622b39e9dea8ee401bb5fa5fd2cfd13ce19f6",
+  "card_info": {
+    "name": "Black Kyurem ex - 048/191",
+    "clean_name": "Black Kyurem ex",
+    "set_name": "SV08: Surging Sparks",
+    "set_code": "SSP",
+    "set_id": "23651",
+    "card_number": "048/191",
+    "rarity": "Double Rare",
+    "card_type": "Water",
+    "product_type": "card",
+    "hp": "230.0",
+    "stage": "Basic",
+    "card_text": null,
+    "attacks": [
+      "[CCC] Ice Age (90)<br> If your opponent's Active Pokemon is a Dragon Pokemon, it is now Paralyzed.",
+      "[WWCC] Black Frost (250)<br> This Pokemon also does 30 damage to itself."
+    ],
+    "weakness": "Mx2",
+    "resistance": null,
+    "retreat_cost": "3.0"
+  },
+  "images": {
+    "languages": [
+      "en",
+      "it",
+      "fr",
+      "de",
+      "es",
+      "pt"
+    ]
+  },
+  "tcgplayer": {
+    "prices": [
+      {
+        "low_price": 0.46,
+        "mid_price": 0.85,
+        "high_price": 50,
+        "updated_at": "2026-10-02T10:48:26.444195",
+        "market_price": 0.7,
+        "direct_low_price": 0.81,
+        "sub_type_name": "Holofoil"
+      }
+    ],
+    "url": "https://www.tcgplayer.com/product/589874"
+  },
+  "cardmarket": {
+    "product_name": "Black Kyurem ex",
+    "prices": [
+      {
+        "avg": null,
+        "low": null,
+        "avg1": null,
+        "avg7": null,
+        "avg30": null,
+        "trend": 0,
+        "updated_at": "2026-10-02T10:25:49.239864",
+        "variant_type": "holo"
+      },
+      {
+        "avg": 0.73,
+        "low": 0.09,
+        "avg1": 0.67,
+        "avg7": 0.76,
+        "avg30": 0.72,
+        "trend": 0.66,
+        "updated_at": "2026-10-02T10:25:49.239864",
+        "variant_type": "normal"
+      }
+    ],
+    "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Black-Kyurem-ex-V1-SSP048"
+  }
+}

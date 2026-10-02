@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/sets/SSP
+STATUS: 200
+
+--- response headers ---
+Date: Fri, 02 Oct 2026 15:40:46 GMT
+Content-Type: application/json
+Content-Length: 44777
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 994
+X-RateLimit-Remaining-Hour: 94
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UgxGSGfDNIh9mAe5KHBJSTdxv00vaIU%2BjumcE8wQfgzkpFLdGielk1fZrdJoaFvTIocW0w33foQjUcqXGlplXHrBsHsaesDPuTd4C9iDKTn4JPxDmLK0RcnFLAtHvKOxxr9aurcw7FHPcnUcsmko3Q%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a444ceb18e5756bf-OSL
+alt-svc: h3=":443"; ma=86400

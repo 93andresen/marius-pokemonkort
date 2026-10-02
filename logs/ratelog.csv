@@ -5,3 +5,6 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T15:35:03Z,card,/cards/pk_4c87dcac6b799948e67647780ac444d88e323e31e0b4fefa55dce4be7a587ca712c9310e891e1ce44827,,200,97,997,True,
 2026-10-02T15:35:04Z,prices,/prices/base1,,403,96,996,False,HTTP 403
 2026-10-02T15:35:24Z,sets,/sets,,200,95,995,True,
+2026-10-02T15:40:46Z,set,/sets/SSP,,200,94,994,True,
+2026-10-02T15:40:54Z,card,/cards/pk_89947884922d00d77043316ac1ed44ea9ab9ef119f59663b91b2ebb1a622b39e9dea8ee401bb5fa5fd2cfd13ce19f6,,200,93,993,True,
+2026-10-02T15:41:21Z,search,/search,q=23651+048&limit=3,200,92,992,True,
