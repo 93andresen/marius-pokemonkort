@@ -570,3 +570,29 @@ EVERYTHING i have talked about should be done with alot of thoughts and take you
 
 ---
 
+Well... So, Alot of good work has been done here.
+
+Now. Focus FULLY on scraping from finn.no!
+
+And getting it into the spreadsheet.
+
+Work on that independently. Everything you need is here.
+
+Except Maybe you have to manually populate the spreadsheet.
+
+MAYBE.
+
+You will figure it out. And you will scrape alot of all the most intresting searches (find the file where I explain what searcher and sets he wants)
+
+Basicly convert finn.no into a spreadsheet and work through how we can actually determine how we can determine how to know what we need to know about an ad bin order to know what card it is AND what to do when we canæt know that doesent mean we canæt do alot!
+
+I have to leave now!
+
+Work deep on this.
+
+This is the core of the entire project.
+
+Take your time.
+
+---
+
