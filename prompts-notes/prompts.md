@@ -600,7 +600,7 @@ ACTUALLY WHAT YOU NEED TO DO FIRST IS TO CREATE A WAY YOU CAN GET YOURSELF UP TO
 
 ---
 
-Don't make change outside of C:\data\code\marius-pokemonkort_hermes
+Don't make change outside of the current repo
 
 ### PLANNING/WRITING SPEC/WRITING INSTRUCTIONS/WORKFLOW/MANAGING CONTEXT/etc.
 
