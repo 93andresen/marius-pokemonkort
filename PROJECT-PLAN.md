@@ -84,7 +84,7 @@ goldmine."* and this is what will *"blow his mind."*
 | **Timestamps** | `%Y-%m-%d-%H%M%S` (24h, leading zeros, filename-safe, lexically sortable). |
 | **Machine vs. human data** | Two kinds of data, separate columns, distinct owners (see `scraper-parser-spec.md` §2.0). Automation never writes human-owned columns. |
 | **Immutable sources** | Raw API responses and raw scrapes are append-only archives. Parsing happens downstream and can always be re-run. |
-| **Do not read** | `prompts-notes/prompts.md` is off-limits. |
+| **prompts-notes/** | Readable, including `prompts.md` (the human source of the FINN search catalog in `finn/finn_searches.py`). `notes.md` is user-owned — read it, never write to it. |
 | **Config** | Prefer storing settings in the user's configs folder (`c:\data\configs`, mirrored to Google Drive). |
 
 ---
