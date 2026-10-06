@@ -10,6 +10,7 @@ work/
   README.md        ← this file
   TEMPLATE.md      ← copy to <NNNN-slug>/TASK.md and fill in
   _index.md        ← registry of all items + status
+  HANDOFF.md       ← the current program brief handed to the next agent
   NNNN-slug/
     TASK.md        ← goal + success criteria + test plan (written BEFORE coding)
     RESULT.md      ← evidence + status (written AFTER)
