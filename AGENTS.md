@@ -61,7 +61,7 @@ the failure this file exists to prevent.
 | `data/` | append-only local data: raw API responses, raw scrapes, snapshots — never delete |
 | `docs/` | PokeWallet API docs; `*-VERIFIED-NOTES.md` = live-verified facts (trust over the API docs) |
 | `logs/` | append-only run logs (`ratelog.csv`) |
-| `PROJECT-PLAN.md`, `scraper-parser-spec.md` | deep archival docs — on demand only (§1.3) |
+| `PROJECT-PLAN.md`, `scraper-parser-spec.md` | deep archival docs — on demand only (see §1, rule 3) |
 
 ## 4. Hard rules (condensed — these override convenience)
 
@@ -100,3 +100,4 @@ Rate limits           : 100/hour, 1000/day  (cached responses still count)
 
 **Never commit the API key.** Scripts must read it from the `API_KEY_POKEWALLET` env var.
 Do not hard-code the Sheet/Apps Script IDs either — read them from config/env with these as defaults.
+
