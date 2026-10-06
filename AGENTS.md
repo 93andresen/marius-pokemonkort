@@ -40,7 +40,8 @@ the failure this file exists to prevent.
 
 ## 2. Never read / never touch
 
-- `prompts-notes/prompts.md` — off-limits unless the user explicitly asks.
+- `prompts-notes/` is readable — `prompts.md` is the human source of the FINN search catalog
+  (`finn/finn_searches.py`); `notes.md` is user-owned (read it, never write to it).
 - Bulk/raw data is **not context**: `data/**`, `llm-history/**`, `.history/**`, `getcollectr/scraped/**`,
    `s21-silver-downloads/**`. Read a *sample* only if the task requires it.
 - `.trash/**` — archive of removed files; ignore unless hunting history on purpose.
@@ -100,3 +101,4 @@ Rate limits           : 100/hour, 1000/day  (cached responses still count)
 
 **Never commit the API key.** Scripts must read it from the `API_KEY_POKEWALLET` env var.
 Do not hard-code the Sheet/Apps Script IDs either — read them from config/env with these as defaults.
+

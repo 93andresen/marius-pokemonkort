@@ -10,8 +10,8 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 
 ## Starting point (read before scoping the first item)
 
-> **The active program brief is [`HANDOFF.md`](HANDOFF.md)** — scrape all finn.no Pokémon listings, price
-> them via the PokeWallet API, and build the table. Start there; it defines the work to be done below.
+> **The active program brief is [`../SCRAPING_PROMPT.md`](../SCRAPING_PROMPT.md)** — scrape all finn.no
+> Pokémon listings, price them via the PokeWallet API, and build the table. Start there; it defines the work.
 
 The pipeline already runs: `finn/finn_ad.py` and `finn/finn_search.py` parse pages both live and offline.
 There is **no committed test suite yet** (`tests/` is empty; `data/finn/_probe/test_agent.py` is a
