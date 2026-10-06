@@ -10,20 +10,27 @@
 
 ---
 
-## 0. How to resume (read this first, in this order)
+## 0. How to use this file
 
-1. [`AGENTS.md`](AGENTS.md) — workspace conventions, hard rules, and the canonical Google resource IDs.
-2. **This file** — project map, architecture, decisions, roadmap.
-3. [`scraper-parser-spec.md`](scraper-parser-spec.md) — the FINN scraping pipeline constitution.
-   Note **§0.5 PIVOT**: we extract structured data (JSON), we do **not** convert pages to Markdown
-   (`web_to_md.py --js` is retired).
-4. [`docs/pokewallet_io_api-docs.md`](docs/pokewallet_io_api-docs.md) — the PokeWallet API reference.
-5. [`docs/pokewallet_io_api-VERIFIED-NOTES.md`](docs/pokewallet_io_api-VERIFIED-NOTES.md) — **live**-verified
-   facts that differ from or extend the API docs (created during this project; see §5.3).
-6. `CHANGELOG.md` (runtime log) and the `logs/` + `state/` folders — running status and history.
+> **Archival master record — NOT a per-task read.** This document is the full project map, architecture,
+> decisions and roadmap. Per-task agents must **not** read it end-to-end: doing so is the #1 cause of the
+> context bloat the workspace protocol exists to prevent. Start from [`AGENTS.md`](AGENTS.md) + your task
+> brief (`work/<id>/TASK.md`) and open only the specific section a task needs (`search_files`/grep).
+> The working method is in [`WORKFLOW.md`](WORKFLOW.md).
 
-**Golden rule:** if the build was interrupted, do not start over. Check the `state/` folder and the
-"Resume checklist" in §13 to find the last completed step, then continue from there.
+**When you genuinely need the whole picture**, read in this order:
+
+1. [`AGENTS.md`](AGENTS.md) — the always-on bootstrap (context protocol, repo map, hard rules, canonical IDs).
+2. **This file** — project map, architecture, decisions, roadmap (read the sections you need, not all of it).
+3. [`scraper-parser-spec.md`](scraper-parser-spec.md) — the FINN pipeline constitution. Note **§0.5 PIVOT**:
+   we extract structured data (JSON); we do **not** convert pages to Markdown (`web_to_md.py --js` retired).
+4. [`docs/pokewallet_io_api-VERIFIED-NOTES.md`](docs/pokewallet_io_api-VERIFIED-NOTES.md) — **live**-verified
+   API facts; trust these over the API docs when they disagree (see §5.3).
+5. [`docs/pokewallet_io_api-docs.md`](docs/pokewallet_io_api-docs.md) — the PokeWallet API reference.
+6. `logs/` — append-only run logs / run history.
+
+**Golden rule:** if the build was interrupted, do not start over. Find the last committed step
+(`git log --oneline`) and the highest completed milestone in §11, then continue from there.
 
 ---
 
