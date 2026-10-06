@@ -567,7 +567,8 @@ Status legend: `[x]` done · `[-]` in progress · `[ ]` todo.
 When resuming, do this:
 
 1. `git log --oneline -20` and `git status` — see the last committed step (the commit log *is* the process).
-2. Read `state/` for any checkpoint (e.g. an unfinished `price_run_*.json`).
+2. Read [`work/_index.md`](work/_index.md) and any `work/<id>/TASK.md` + `RESULT.md` for an item that is
+   `in-progress` — that is the operational "where was I?" now (there is no `state/` folder).
 3. Read the last entries in `logs/` and `logs/ratelog.csv` for the last run's outcome.
 4. Find the highest **completed** milestone in §11, then continue from the next `[ ]` item.
 5. Commit before and after each meaningful step.

@@ -100,4 +100,3 @@ Rate limits           : 100/hour, 1000/day  (cached responses still count)
 
 **Never commit the API key.** Scripts must read it from the `API_KEY_POKEWALLET` env var.
 Do not hard-code the Sheet/Apps Script IDs either — read them from config/env with these as defaults.
-
