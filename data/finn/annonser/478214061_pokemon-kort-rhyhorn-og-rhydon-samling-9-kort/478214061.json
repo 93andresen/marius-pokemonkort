@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:27:23Z",
+  "contact_button": {
+    "adId": "478214061",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478214061",
+  "kode_candidates": {
+    "canonical": "478214061",
+    "object_info": "478214061",
+    "maplink": "478214061",
+    "contact_button": "478214061",
+    "hint": "478214061"
+  },
+  "title": "Pokemon kort Rhyhorn og Rhydon samling - 9 kort!",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5223 Nesttun",
+  "lat": 60.313369652838276,
+  "lon": 5.367633587040764,
+  "postal_code": "5223",
+  "last_modified_raw": "8.10.2026 kl. 00:01",
+  "last_modified": "2026-10-08T00:01:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "87492d25-5067-4996-9230-a28f218e4d1f",
+    "d89ce4b8-7412-434c-b031-19843f329bc6"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Samling med flere Pokemon-kort av Rhyhorn og Rhydon. Fint for deg som samler eller vil fylle på samlingen med disse kortene.\n\n \n\nSelges samlet for 100kr!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "476396381",
+      "heading": "Pokemon kort samling – Houndour og Houndoom 10 kort",
+      "price_label": "100 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476396381"
+    },
+    {
+      "item_id": "476291807",
+      "heading": "Rhyhorn - sm10 - 047/095 C - Japansk Pokemon Kort",
+      "price_label": "50 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476291807"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "476227304",
+      "heading": "Rhyhorn 1st Edition - Pt3 - 056/100 - Japansk Pokemon Kort",
+      "price_label": "50 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476227304"
+    },
+    {
+      "item_id": "471961866",
+      "heading": "Pokemon kort – liten samling med ulike figurer",
+      "price_label": "100 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471961866"
+    },
+    {
+      "item_id": "478192435",
+      "heading": "Pokemon kort samling Ponyta og Rapidash - 24 kort!",
+      "price_label": "190 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478192435"
+    },
+    {
+      "item_id": "465488891",
+      "heading": "Pokémon kort – Stamped samling",
+      "price_label": "100 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465488891"
+    },
+    {
+      "item_id": "471322684",
+      "heading": "Pokemon kort samling – diverse kort",
+      "price_label": "100 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471322684"
+    },
+    {
+      "item_id": "469002832",
+      "heading": "Selger pokemon kort",
+      "price_label": "50 kr",
+      "location": "Kalandseidet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469002832"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "87492d25-5067-4996-9230-a28f218e4d1f",
+      "item_ref": "478214061",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478214061/87492d25-5067-4996-9230-a28f218e4d1f"
+    },
+    {
+      "uuid": "d89ce4b8-7412-434c-b031-19843f329bc6",
+      "item_ref": "478214061",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478214061/d89ce4b8-7412-434c-b031-19843f329bc6"
+    }
+  ],
+  "raw_capture": "478214061_pokemon-kort-rhyhorn-og-rhydon-samling-9-kort/raw/478214061_2026-10-08-042723.html"
+}
