@@ -42,7 +42,7 @@ import sys
 import time
 import urllib.parse
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import finnlib as fl  # noqa: E402  (local sibling module)
@@ -120,6 +120,66 @@ def load_registry(path: Path) -> dict[str, dict[str, Any]]:
         return {}
 
 
+def load_search_set(kind: str | None = None, tier: int | None = None,
+                    ids: Iterable[str] | None = None) -> list[dict[str, Any]]:
+    """Load search definitions from the canonical catalog ``finn_searches.py``.
+
+    This is the §3 of the program brief: the catalog *is* the search set. We import
+    it lazily so plain ``-q`` runs never pay for it.
+    """
+    import finn_searches  # local sibling module (finn/ is on sys.path)
+    return finn_searches.search_defs(kind, tier, ids)
+
+
+def jobs_from_defs(
+    defs: Iterable[dict[str, Any]],
+    *,
+    cli_sorts: list[str] | None,
+    cli_max_pages: int | None,
+    cli_extra: list[tuple[str, str]] | None,
+) -> list[dict[str, Any]]:
+    """Expand catalog search-defs into concrete fetch jobs.
+
+    A job is one query with its own sorts, page budget and parameter list.  A def's
+    own ``sorts``/``max_pages`` win; ``cli_sorts``/``cli_max_pages`` are only the
+    fallback for ad-hoc ``-q`` defs (which carry ``None``).  ``cli_extra`` params are
+    appended to every job.
+    """
+    extra = list(cli_extra or [])
+    jobs: list[dict[str, Any]] = []
+    for d in defs:
+        sorts = list(d.get("sorts") or cli_sorts or ["PUBLISHED_DESC"])
+        max_pages = int(d.get("max_pages") or cli_max_pages or 1)
+        params = list(dict(d.get("params") or {}).items()) + extra
+        jobs.append({
+            "id": d.get("id"),
+            "kind": d.get("kind"),
+            "label": d.get("label"),
+            "query": d["query"],
+            "tier": d.get("tier"),
+            "sorts": sorts,
+            "max_pages": max_pages,
+            "params": params,
+        })
+    return jobs
+
+
+def compute_delta(known_before: Iterable[str], seen_now: Iterable[str]) -> dict[str, list[str]]:
+    """Partition the registry change into ``new`` / ``still_active`` / ``gone``.
+
+    ``known_before`` is the kode set recorded *before* this run's update; ``seen_now``
+    is what this run observed.  The three groups are disjoint and their union is
+    ``known_before | seen_now``.
+    """
+    before = set(known_before)
+    now = set(seen_now)
+    return {
+        "new": sorted(now - before),
+        "still_active": sorted(now & before),
+        "gone": sorted(before - now),
+    }
+
+
 def run_parse_only(path: Path) -> int:
     """Parse an already-saved search HTML offline and dump its docs."""
     html = path.read_text(encoding="utf-8")
@@ -150,10 +210,21 @@ def main(argv: list[str] | None = None) -> int:
     )
     parser.add_argument("-q", "--query", action="append", dest="queries", metavar="TEXT",
                         help="search term (repeatable). Default: a built-in query list.")
+    parser.add_argument("--search-set", action="store_true",
+                        help="run the canonical catalog in finn_searches.py (the recommended mode). "
+                             "Each definition supplies its own query, params, sorts and page budget.")
+    parser.add_argument("--kind", choices=["broad", "set", "card", "all"], default=None,
+                        help="with --search-set: only this kind of search")
+    parser.add_argument("--tier", type=int, choices=[1, 2], default=None,
+                        help="with --search-set: only set-searches of this tier")
+    parser.add_argument("--id", action="append", dest="ids", default=None, metavar="SEARCH_ID",
+                        help="with --search-set: only these catalog ids (repeatable)")
     parser.add_argument("--sort", default="PUBLISHED_DESC",
-                        help=f"comma-separated sorts from {SORT_VALUES} (default PUBLISHED_DESC)")
+                        help=f"comma-separated sorts from {SORT_VALUES} (default PUBLISHED_DESC). "
+                             f"Applies only to ad-hoc -q queries; catalog defs keep their own sorts.")
     parser.add_argument("--max-pages", type=int, default=1,
-                        help="max pages per (query,sort) (default 1)")
+                        help="max pages per (query,sort) for ad-hoc -q queries (default 1). "
+                             "Catalog defs keep their own page budget.")
     parser.add_argument("--all-pages", action="store_true",
                         help="fetch every page FINN reports (up to paging.last)")
     parser.add_argument("--param", action="append", default=[], metavar="KEY=VALUE",
@@ -174,19 +245,48 @@ def main(argv: list[str] | None = None) -> int:
     if args.parse:
         return run_parse_only(Path(args.parse))
 
-    queries = args.queries or DEFAULT_QUERIES
-    sorts = [s.strip().upper() for s in args.sort.split(",") if s.strip()]
-    for s in sorts:
-        if s not in SORT_VALUES:
-            print(f"WARNING: sort {s!r} is not in the known set {SORT_VALUES} — sending anyway.")
+    # ---- resolve the search set: canonical catalog and/or ad-hoc -q queries ----
+    defs: list[dict[str, Any]] = []
+    if args.search_set:
+        defs += load_search_set(kind=args.kind, tier=args.tier, ids=args.ids)
+        if not defs:
+            print("ERROR: --search-set selected 0 searches (check --kind/--tier/--id)")
+            return 2
+    for q in (args.queries or ([] if args.search_set else DEFAULT_QUERIES)):
+        defs.append({"id": f"query-{fl.slugify(q)}", "kind": "query", "label": q,
+                     "query": q, "tier": None, "params": {}, "sorts": None, "max_pages": None})
 
-    extra: list[tuple[str, str]] = []
+    cli_extra: list[tuple[str, str]] = []
     for p in args.param:
         if "=" not in p:
             print(f"ERROR: --param needs KEY=VALUE, got {p!r}")
             return 2
         k, v = p.split("=", 1)
-        extra.append((k, v))
+        cli_extra.append((k, v))
+
+    cli_sorts = [s.strip().upper() for s in args.sort.split(",") if s.strip()]
+    for s in cli_sorts:
+        if s not in SORT_VALUES:
+            print(f"WARNING: sort {s!r} is not in the known set {SORT_VALUES} — sending anyway.")
+
+    jobs = jobs_from_defs(defs, cli_sorts=cli_sorts, cli_max_pages=args.max_pages,
+                          cli_extra=cli_extra)
+
+    # ---- dry run: plan + print only; no network, no writes ----
+    if args.dry_run:
+        total_pages = 0
+        print("=" * 88)
+        print(f"FINN search DRY RUN  jobs={len(jobs)}  (no network, no files written)")
+        print("=" * 88)
+        for job in jobs:
+            for sort in job["sorts"]:
+                for page in range(1, job["max_pages"] + 1):
+                    print(f"[{job['id']} | {job['query']} | {sort} | page {page}] "
+                          f"{build_url(job['query'], sort, page, job['params'])}")
+                    total_pages += 1
+        print("=" * 88)
+        print(f"DRY RUN: jobs={len(jobs)}  planned_pages={total_pages}  files_written=0")
+        return 0
 
     run_id = fl.ts_now()
     run_dir = fl.ensure_dir(Path(args.outdir) / run_id)
@@ -194,23 +294,27 @@ def main(argv: list[str] | None = None) -> int:
     reg_dir = fl.ensure_dir(fl.DATA_FINN / "registry")
 
     print("=" * 88)
-    print(f"FINN search run {run_id}")
-    print(f"  queries : {queries}")
-    print(f"  sorts   : {sorts}")
-    print(f"  extra   : {extra}")
-    print(f"  max_pages={args.max_pages}  all_pages={args.all_pages}  dry_run={args.dry_run}")
+    print(f"FINN search run {run_id}  jobs={len(jobs)}")
+    print(f"  queries : {[j['query'] for j in jobs]}")
+    print(f"  searches: {[j['id'] for j in jobs]}")
+    print(f"  extra   : {cli_extra}   all_pages={args.all_pages}")
     print(f"  outdir  : {run_dir}")
     print("=" * 88)
 
     run_manifest: dict[str, Any] = {
         "run_id": run_id,
         "started_at": fl.iso_now(),
-        "queries": queries,
-        "sorts": sorts,
-        "extra_params": extra,
-        "max_pages": args.max_pages,
+        "search_set": bool(args.search_set),
+        "queries": [j["query"] for j in jobs],
+        "searches": [
+            {"id": j["id"], "kind": j["kind"], "label": j["label"], "query": j["query"],
+             "tier": j["tier"], "sorts": j["sorts"], "max_pages": j["max_pages"],
+             "params": j["params"]}
+            for j in jobs
+        ],
+        "extra_params": cli_extra,
         "all_pages": args.all_pages,
-        "dry_run": args.dry_run,
+        "dry_run": False,
         "pages": [],
         "totals": {"pages": 0, "docs": 0},
     }
