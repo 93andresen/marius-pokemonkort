@@ -1,0 +1,40 @@
+{
+  "report_version": "finn_report/1.0.0",
+  "generated_at": "2026-10-08T04:59:22Z",
+  "discovery": {
+    "koder": 106,
+    "first_seen": "2026-10-02T16:25:30Z",
+    "last_seen": "2026-10-08T02:57:43Z",
+    "runs": 3,
+    "pages": 4,
+    "docs": 212
+  },
+  "archive": {
+    "ads_archived": 107,
+    "koder_discovered": 106
+  },
+  "identify": {
+    "tier1-set": 7,
+    "none": 26,
+    "named-card": 17,
+    "tier2-set": 3,
+    "total": 53
+  },
+  "match": {
+    "records": 19,
+    "matched": 3
+  },
+  "pricing": {
+    "records": 115,
+    "with_value": 2,
+    "with_ratio": 2,
+    "basis": {
+      "none": 113,
+      "listing_best": 1,
+      "card_list_sum": 1
+    },
+    "cards_total": 177,
+    "cards_priced": 50
+  },
+  "notes": []
+}
