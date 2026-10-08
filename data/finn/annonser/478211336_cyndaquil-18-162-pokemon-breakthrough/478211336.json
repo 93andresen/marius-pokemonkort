@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:24:44Z",
+  "contact_button": {
+    "adId": "478211336",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478211336",
+  "kode_candidates": {
+    "canonical": "478211336",
+    "object_info": "478211336",
+    "maplink": "478211336",
+    "contact_button": "478211336",
+    "hint": "478211336"
+  },
+  "title": "Cyndaquil 18/162 - Pokemon BREAKthrough",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:09",
+  "last_modified": "2026-10-08T00:09:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "deedeced-4131-4f52-b440-3055cc79a5da",
+    "b18d81c4-dce5-40d2-90fb-1a1ff18652e3"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Cyndaquil 18/162 fra Pokemon BREAKthrough selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477254265",
+      "heading": "Cyndaquil",
+      "price_label": "49 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477254265"
+    },
+    {
+      "item_id": "477309356",
+      "heading": "Cyndaquil 18/162 – BREAKthrough (2015)",
+      "price_label": "25 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477309356"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477254276",
+      "heading": "Cyndaquil",
+      "price_label": "149 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477254276"
+    },
+    {
+      "item_id": "474373984",
+      "heading": "Cyndaquil 59/101 – EX Hidden Legends – 2004",
+      "price_label": "35 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474373984"
+    },
+    {
+      "item_id": "477540060",
+      "heading": "Cyndaquil 023/189 – Astral Radiance – Reverse Holo – 2022 – sui",
+      "price_label": "30 kr",
+      "location": "Årdalstangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477540060"
+    },
+    {
+      "item_id": "477671901",
+      "heading": "Growlithe 4/15 Holo",
+      "price_label": "29 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477671901"
+    },
+    {
+      "item_id": "473874904",
+      "heading": "Cyndaquil 024/189 – Astral Radiance Reverse Holo",
+      "price_label": "35 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473874904"
+    },
+    {
+      "item_id": "475875266",
+      "heading": "Cyndaquil 18/162 – BREAKthrough – Tomokazu Komiya",
+      "price_label": "45 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475875266"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "deedeced-4131-4f52-b440-3055cc79a5da",
+      "item_ref": "478211336",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478211336/deedeced-4131-4f52-b440-3055cc79a5da"
+    },
+    {
+      "uuid": "b18d81c4-dce5-40d2-90fb-1a1ff18652e3",
+      "item_ref": "478211336",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478211336/b18d81c4-dce5-40d2-90fb-1a1ff18652e3"
+    }
+  ],
+  "raw_capture": "478211336_cyndaquil-18-162-pokemon-breakthrough/raw/478211336_2026-10-08-042444.html"
+}

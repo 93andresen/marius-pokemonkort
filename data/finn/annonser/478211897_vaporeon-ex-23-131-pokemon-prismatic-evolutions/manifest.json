@@ -1,0 +1,211 @@
+{
+  "finn_kode": "478211897",
+  "url": "https://www.finn.no/recommerce/forsale/item/478211897",
+  "slug": "478211897_vaporeon-ex-23-131-pokemon-prismatic-evolutions",
+  "first_seen": "2026-10-08T04:24:53Z",
+  "last_seen": "2026-10-08T04:24:53Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Vaporeon EX 23/131 - Pokemon Prismatic Evolutions",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:12:00",
+    "gallery_count": 3,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:24:53Z",
+      "raw": "478211897_vaporeon-ex-23-131-pokemon-prismatic-evolutions/raw/478211897_2026-10-08-042453.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "48b6a5b2-a3f6-4177-bb9b-df00b7938d54",
+      "item_ref": "478211897",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478211897/48b6a5b2-a3f6-4177-bb9b-df00b7938d54",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478211897/48b6a5b2-a3f6-4177-bb9b-df00b7938d54",
+      "bytes": 4311970,
+      "content_type": "image/jpeg",
+      "sha1": "26e0c4e602054e3933348dce4afdd46b6c07dbb3",
+      "file": "photos/01_48b6a5b2-a3f6-4177-bb9b-df00b7938d54.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "71367aa6-01eb-4a79-acf5-ceaef49ad021",
+      "item_ref": "478211897",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478211897/71367aa6-01eb-4a79-acf5-ceaef49ad021",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478211897/71367aa6-01eb-4a79-acf5-ceaef49ad021",
+      "bytes": 3556323,
+      "content_type": "image/jpeg",
+      "sha1": "626af031ee670fd678ed135aad0d160dc462ca49",
+      "file": "photos/02_71367aa6-01eb-4a79-acf5-ceaef49ad021.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "c6d25e2c-beb8-4bfc-ad03-054dfe66d891",
+      "item_ref": "478211897",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478211897/c6d25e2c-beb8-4bfc-ad03-054dfe66d891",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478211897/c6d25e2c-beb8-4bfc-ad03-054dfe66d891",
+      "bytes": 4952196,
+      "content_type": "image/jpeg",
+      "sha1": "7d9f2f39f8c7526bfda2a2d33f8c08799bd2d45d",
+      "file": "photos/03_c6d25e2c-beb8-4bfc-ad03-054dfe66d891.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "477018181",
+      "heading": "Vaporeon 18/68 Reverse Holo – Hidden Fates 2019",
+      "price_label": "50 kr",
+      "location": "Norddyrøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477018181"
+    },
+    {
+      "item_id": "477017219",
+      "heading": "Vaporeon VMAX 027/132 RRR – Nine Colors Gathering – Simplified Chinese 💙",
+      "price_label": "70 kr",
+      "location": "Norddyrøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477017219"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477109958",
+      "heading": "Pokémon Primarina holografisk kort",
+      "price_label": "79 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477109958"
+    },
+    {
+      "item_id": "465194402",
+      "heading": "Pokémon Lapras EX kort",
+      "price_label": "90 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465194402"
+    },
+    {
+      "item_id": "470745588",
+      "heading": "Pokemon kort Pumpkaboo EX",
+      "price_label": "70 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470745588"
+    },
+    {
+      "item_id": "477383005",
+      "heading": "Vaporeon 022/131 – Prismatic Evolutions – Rare Holo – 2025",
+      "price_label": "25 kr",
+      "location": "Årdalstangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477383005"
+    },
+    {
+      "item_id": "463269531",
+      "heading": "Pokémon kort Empoleon V Rapid Strike, Promo kort",
+      "price_label": "100 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463269531"
+    },
+    {
+      "item_id": "477056469",
+      "heading": "Vaporeon 33/144 Skyridge",
+      "price_label": "465 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477056469"
+    }
+  ]
+}

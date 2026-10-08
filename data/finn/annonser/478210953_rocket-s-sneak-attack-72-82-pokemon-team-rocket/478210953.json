@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:24:33Z",
+  "contact_button": {
+    "adId": "478210953",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478210953",
+  "kode_candidates": {
+    "canonical": "478210953",
+    "object_info": "478210953",
+    "maplink": "478210953",
+    "contact_button": "478210953",
+    "hint": "478210953"
+  },
+  "title": "Rocket’s Sneak Attack 72/82 - Pokemon Team Rocket",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:11",
+  "last_modified": "2026-10-08T00:11:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "fd8e41f2-33ae-44a0-836e-2fec3f599ad5",
+    "e7359e5a-c4b9-4ceb-90c7-e60f79edeac5"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Trainer Rocket’s Sneak Attack 72/82 fra Pokemon Team Rocket selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478146579",
+      "heading": "Pokémon Rocket's Sneak Attack 72/82 Team Rocket",
+      "price_label": "70 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146579"
+    },
+    {
+      "item_id": "478036109",
+      "heading": "Rocket's Sneak Attack #72 Pokemon Team Rocket",
+      "price_label": "275 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478036109"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "476061078",
+      "heading": "Spinarak 78/109 – EX Team Rocket Returns – Yuka Morii – 2004",
+      "price_label": "50 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476061078"
+    },
+    {
+      "item_id": "475823088",
+      "heading": "Rocket's Admin #86",
+      "price_label": "149 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475823088"
+    },
+    {
+      "item_id": "476033974",
+      "heading": "Dark Hypno #6 Pokemon Team Rocket Returns",
+      "price_label": "199 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476033974"
+    },
+    {
+      "item_id": "476780563",
+      "heading": "Rocket’s Sneak Attack 72/82 – Team Rocket – WOTC 2000",
+      "price_label": "120 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476780563"
+    },
+    {
+      "item_id": "474214883",
+      "heading": "Magnemite 66/109 Reverse Holo - Team Rocket Returns",
+      "price_label": "200 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474214883"
+    },
+    {
+      "item_id": "475399773",
+      "heading": "Pokémon kort Dark Hypno Team Rocket",
+      "price_label": "100 kr",
+      "location": "Ranheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475399773"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "fd8e41f2-33ae-44a0-836e-2fec3f599ad5",
+      "item_ref": "478210953",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478210953/fd8e41f2-33ae-44a0-836e-2fec3f599ad5"
+    },
+    {
+      "uuid": "e7359e5a-c4b9-4ceb-90c7-e60f79edeac5",
+      "item_ref": "478210953",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478210953/e7359e5a-c4b9-4ceb-90c7-e60f79edeac5"
+    }
+  ],
+  "raw_capture": "478210953_rocket-s-sneak-attack-72-82-pokemon-team-rocket/raw/478210953_2026-10-08-042433.html"
+}
