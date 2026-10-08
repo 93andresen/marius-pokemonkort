@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:15:38Z",
+  "contact_button": {
+    "adId": "477804502",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804502",
+  "kode_candidates": {
+    "canonical": "477804502",
+    "object_info": "477804502",
+    "maplink": "477804502",
+    "contact_button": "477804502",
+    "hint": "477804502"
+  },
+  "title": "Greninja ex 21/128",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "1617 Fredrikstad",
+  "lat": 59.23462650222362,
+  "lon": 10.970285853931053,
+  "postal_code": "1617",
+  "last_modified_raw": "2.10.2026 kl. 18:07",
+  "last_modified": "2026-10-02T18:07:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "365fb080-a7c8-4c39-bbeb-b3676ce9ad98",
+    "13e4ec0a-5182-4797-8355-2e26a50a366b"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Greninja ex 021/128\n\n30th celebration \n\n \n\nTilstand: NM\n\n \n\nBetaling: \n\nVipps eller fiks ferdig\n\nTa kontakt om du ønsker å kjøpe flere kort, se min profil.\n\n \n\nFrakt:\n\nKjøper betaler frakt\n\nKan hentes i Fredrikstad\n\n \n\n# pokemon tcg pokemonkort anniversary",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477634943",
+      "heading": "Greninja EX 21/128 selges",
+      "price_label": "40 kr",
+      "location": "Borgenhaugen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477634943"
+    },
+    {
+      "item_id": "477692635",
+      "heading": "Greninja EX - 099 - MEP - 30th - Jumbo",
+      "price_label": "75 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477692635"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "477411013",
+      "heading": "Greninja EX 99 Promo Pokemon 30th Celebration kort selges",
+      "price_label": "50 kr",
+      "location": "Borgenhaugen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477411013"
+    },
+    {
+      "item_id": "477244861",
+      "heading": "Greninja ex 015 (30thC )",
+      "price_label": "5 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477244861"
+    },
+    {
+      "item_id": "478056218",
+      "heading": "Greninja ex #21 Pokemon 30th Celebration",
+      "price_label": "35 kr",
+      "location": "Langhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478056218"
+    },
+    {
+      "item_id": "478015162",
+      "heading": "30th celebration ex",
+      "price_label": "20 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478015162"
+    },
+    {
+      "item_id": "477898807",
+      "heading": "Greninja ex 021/128 – Pokémon 30th Celebration 2026",
+      "price_label": "79 kr",
+      "location": "Råde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477898807"
+    },
+    {
+      "item_id": "476249958",
+      "heading": "🌺 Aggron V 🌺",
+      "price_label": "25 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476249958"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "365fb080-a7c8-4c39-bbeb-b3676ce9ad98",
+      "item_ref": "477804502",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804502/365fb080-a7c8-4c39-bbeb-b3676ce9ad98"
+    },
+    {
+      "uuid": "13e4ec0a-5182-4797-8355-2e26a50a366b",
+      "item_ref": "477804502",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804502/13e4ec0a-5182-4797-8355-2e26a50a366b"
+    }
+  ],
+  "raw_capture": "477804502_greninja-ex-21-128/raw/477804502_2026-10-08-041538.html"
+}

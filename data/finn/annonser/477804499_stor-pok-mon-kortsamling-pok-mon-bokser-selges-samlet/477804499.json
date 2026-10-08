@@ -1,0 +1,233 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:15:15Z",
+  "contact_button": {
+    "adId": "477804499",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804499",
+  "kode_candidates": {
+    "canonical": "477804499",
+    "object_info": "477804499",
+    "maplink": "477804499",
+    "contact_button": "477804499",
+    "hint": "477804499"
+  },
+  "title": "Stor Pokémon-kortsamling + Pokémon bokser | Selges samlet",
+  "status": "Solgt",
+  "trade_type": "Til salgs",
+  "price_label": "600 kr",
+  "price_nok": 600,
+  "location_text": "1470 Lørenskog",
+  "lat": 59.93785997887313,
+  "lon": 10.95416021630344,
+  "postal_code": "1470",
+  "last_modified_raw": "6.10.2026 kl. 09:47",
+  "last_modified": "2026-10-06T09:47:00",
+  "gallery_count": 8,
+  "image_uuids": [
+    "6685148d-fab9-410b-ac87-7339f8eeeeca",
+    "47ba3e68-e54d-4b92-937d-6179b987afd1",
+    "34b54dfc-019e-4101-bcf9-d37aa433dd4b",
+    "5bf10166-f9fd-48cf-90b2-192ec181bfcd",
+    "224fc22d-c69c-4c53-a211-15867a2f5161",
+    "ad4ef064-a557-4b6b-b876-f739a5f11c6e",
+    "f94d390a-93a9-44db-983c-fdf91e2c8675",
+    "df54cf5f-ce8f-4dd8-8ad2-5cde7b7c747d"
+  ],
+  "image_count_from_html": 8,
+  "description_raw": "Stor samling Pokémon-kort selges samlet! ⚡️\n\n \n\nSelger en stor Pokémon TCG-samling bestående av flere hundre kort fra forskjellige sett og årganger.\n\n \n\nSamlingen inneholder blant annet vanlige Pokémon-kort, Trainer- og Energy-kort, holo/reverse holo-kort og diverse andre kort. Det følger også med flere originale Pokémon TCG-metallbokser/tins samt større Pokémon-kort.\n\n \n\nKortene er samlet over flere år og tilstanden varierer. Noen kort har tydelige bruksmerker, mens andre er i penere stand. Se bilder for et inntrykk av samlingen og tilstanden.\n\n \n\nJeg har ikke gått gjennom og prisvurdert hvert enkelt kort, så samlingen selges samlet som vist på bildene. Det kan derfor være interessante kort å finne for noen som ønsker å gå gjennom samlingen selv.\n\n \n\nInkludert:\n\n \n\n* Flere hundre Pokémon-kort\n\n* Holo/reverse holo og diverse spesialkort\n\n* Trainer- og Energy-kort\n\n* Jumbo Pokémon-kort\n\n* Flere Pokémon TCG-metallbokser\n\n* Hele samlingen på bildene",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "470899925",
+      "heading": "Pokemon kortsamling i metallboks",
+      "price_label": "600 kr",
+      "location": "Dal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470899925"
+    },
+    {
+      "item_id": "476677072",
+      "heading": "Selger en stor samling Pokémon-kort samlet.",
+      "price_label": "500 kr",
+      "location": "Rælingen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476677072"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "474307198",
+      "heading": "Pokemon kort samling – blanding av holo og vanlige kort",
+      "price_label": "1 000 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474307198"
+    },
+    {
+      "item_id": "477565645",
+      "heading": "Masse pokemonkort og tins",
+      "price_label": "550 kr",
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477565645"
+    },
+    {
+      "item_id": "478211933",
+      "heading": "Pokemon samling med kort, bokser og tins",
+      "price_label": "600 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478211933"
+    },
+    {
+      "item_id": "472043135",
+      "heading": "Pokemon kort",
+      "price_label": "900 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472043135"
+    },
+    {
+      "item_id": "475142085",
+      "heading": "Pokemon kort samling – blandet lot",
+      "price_label": "300 kr",
+      "location": "Auli",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475142085"
+    },
+    {
+      "item_id": "477887804",
+      "heading": "Pokemon kort samling med uautentiske kort",
+      "price_label": "350 kr",
+      "location": "Fetsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477887804"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "6685148d-fab9-410b-ac87-7339f8eeeeca",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804499/6685148d-fab9-410b-ac87-7339f8eeeeca"
+    },
+    {
+      "uuid": "47ba3e68-e54d-4b92-937d-6179b987afd1",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804499/47ba3e68-e54d-4b92-937d-6179b987afd1"
+    },
+    {
+      "uuid": "34b54dfc-019e-4101-bcf9-d37aa433dd4b",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/34b54dfc-019e-4101-bcf9-d37aa433dd4b"
+    },
+    {
+      "uuid": "5bf10166-f9fd-48cf-90b2-192ec181bfcd",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/5bf10166-f9fd-48cf-90b2-192ec181bfcd"
+    },
+    {
+      "uuid": "224fc22d-c69c-4c53-a211-15867a2f5161",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/224fc22d-c69c-4c53-a211-15867a2f5161"
+    },
+    {
+      "uuid": "ad4ef064-a557-4b6b-b876-f739a5f11c6e",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/ad4ef064-a557-4b6b-b876-f739a5f11c6e"
+    },
+    {
+      "uuid": "f94d390a-93a9-44db-983c-fdf91e2c8675",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/f94d390a-93a9-44db-983c-fdf91e2c8675"
+    },
+    {
+      "uuid": "df54cf5f-ce8f-4dd8-8ad2-5cde7b7c747d",
+      "item_ref": "477804499",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804499/df54cf5f-ce8f-4dd8-8ad2-5cde7b7c747d"
+    }
+  ],
+  "raw_capture": "477804499_stor-pok-mon-kortsamling-pok-mon-bokser-selges-samlet/raw/477804499_2026-10-08-041515.html"
+}
