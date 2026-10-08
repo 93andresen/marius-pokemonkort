@@ -1,0 +1,524 @@
+{
+  "query": "Arcanine Base Set",
+  "results": [
+    {
+      "id": "pk_a2942ce092d7111c44d2a15817cbabc080d0f3f8e4f586d2babf0ebe6150c05a75ecc139a747b6dcc035386c",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "033/130",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.65,
+            "high_price": 37.22,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.89,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42472"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.69,
+            "avg7": 1.69,
+            "avg30": 1.69,
+            "trend": 1.69,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.71,
+            "low": 0.3,
+            "avg1": 0.6,
+            "avg7": 3.4,
+            "avg30": 3.64,
+            "trend": 3.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Arcanine-B233"
+      }
+    },
+    {
+      "id": "pk_3dbcc6dbe5fbfe82614e5222b80bfa46855b15545139ea137792e0d9c304a814aa1faefb34f685392b20582dc1fc",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "023/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 90.48,
+            "mid_price": 182.99,
+            "high_price": 691.11,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 91.24,
+            "direct_low_price": 595.95,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 12.99,
+            "mid_price": 40,
+            "high_price": 96.17,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 42.77,
+            "direct_low_price": 93.64,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107018"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d5944fe88865457383685d754243fce7a738882b12e80882cb0aa1378ece6bf21469a638e8e2c2d4b6a15e98",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "023/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 2.99,
+            "high_price": 94.96,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.46,
+            "direct_low_price": 18.94,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42364"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 6.37,
+            "low": 0.05,
+            "avg1": 2.16,
+            "avg7": 6.32,
+            "avg30": 6.31,
+            "trend": 6.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 2.81,
+            "avg30": 2.81,
+            "trend": 1.48,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Arcanine-V1-BS23"
+      }
+    },
+    {
+      "id": "pk_0db68d5390896346d93e450e05858b62f7355882145d5b0bd4b6a5e8c59b84188d763b0222ef9f616a9a86a40e46",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "22/149",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2R] Searing Flame (60)\r\n<br>Your opponent's Active Pokemon is now Burned.",
+          "[1RRR] Firestorm (190)\r\n<br>Discard 3 Fire Energy attached to this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.49,
+            "mid_price": 3.03,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 3.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1.92,
+            "mid_price": 3.15,
+            "high_price": 25.12,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 3.22,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126893"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 2.62,
+            "low": 0.8,
+            "avg1": 4.25,
+            "avg7": 2.66,
+            "avg30": 2.47,
+            "trend": 2.72,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.46,
+            "low": 0.9,
+            "avg1": 3.38,
+            "avg7": 3.97,
+            "avg30": 3.29,
+            "trend": 4.31,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Arcanine-SUM22"
+      }
+    },
+    {
+      "id": "pk_d2a650c5e20fe8ad1f80239246ff9c2a42f6afdcfe18369202d6acf7288273973ec3d7aafcdbeee940143cbd2880ce",
+      "card_info": {
+        "name": "Arcanine ex - 032/198",
+        "clean_name": "Arcanine ex",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "032/198",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Stage 1",
+        "card_text": "Terastal: This Pokemon doesn’t take any damage from attacks while on the Bench.",
+        "attacks": [
+          "[RR] Raging Claws (30+)\r\n<br>This attack does 10 more damage for each damage counter on this Pokemon.",
+          "[RRR] Bright Flame (250)\r\n<br>Discard 2 Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.3,
+            "high_price": 29.99,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 1.23,
+            "direct_low_price": 2.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/487872"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine ex",
+        "prices": [
+          {
+            "avg": 1.17,
+            "low": 0.15,
+            "avg1": 1.13,
+            "avg7": 1.22,
+            "avg30": 1.19,
+            "trend": 1.19,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Arcanine-ex-V1-SVI032"
+      }
+    },
+    {
+      "id": "pk_c7819e7496f86b5fa965da2ab2033f586578f4f32d9185287c409b72a44735f1557d1065bb8f7321cc731f165ef36b84",
+      "card_info": {
+        "name": "Arcanine ex - 224/198",
+        "clean_name": "Arcanine ex",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "224/198",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Raging Claws (30+)\r\n<br>This attack does 10 more damage for each damage counter on this Pokémon.",
+          "[RRR] Bright Flame (250)\r\n<br>Discard 2 Fire Energy from this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 15.2,
+            "high_price": 109,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 15.02,
+            "direct_low_price": 18.24,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490082"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine ex",
+        "prices": [
+          {
+            "avg": 8.04,
+            "low": 2.49,
+            "avg1": 5.42,
+            "avg7": 7.42,
+            "avg30": 7.78,
+            "trend": 7.26,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Arcanine-ex-V2-SVI224"
+      }
+    },
+    {
+      "id": "pk_43456d00dde8c4085bfdfbbf3e201fc9b88d67552fe76101e42dc687ebc8562e9f424f49b0f34e7b0bdf",
+      "card_info": {
+        "name": "Scarlet & Violet 3 Pack Blister [Arcanine]",
+        "clean_name": "Scarlet and Violet 3 Pack Blister Arcanine",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Begin a New Adventure with Pokémon ex!Set out for a journey in the Paldea region! Meet first partners Sprigatito, Fuecoco, and Quaxly, and explore the power of the Legendary Pokémon Koraidon and Miraidon as Pokémon ex. Other Pokémon ex evolve their way into battle—including Arcanine and Gyarados with a dazzling new look. Even more Pokémon appear as illustration rare cards with amazing artwork—discover them all in the Pokémon TCG: Scarlet & Violet expansion!\r\n<br>\r\nEach 3 Pack blister comes with 3 Scarlet & Violet booster packs, 1 coin, and a promotional card of Arcanine.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25,
+            "mid_price": 39.98,
+            "high_price": 339.72,
+            "updated_at": "2026-10-07T11:54:56.040749",
+            "market_price": 35.56,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478761"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_16bb5786ce991c0f0d47a581140c64803c5863db466d6741e51c9f620bb0c45c046e26ed25cd30ff480a",
+      "card_info": {
+        "name": "Scarlet & Violet Premium Checklane Blister [Hisuian Arcanine]",
+        "clean_name": "Scarlet and Violet Premium Checklane Blister Hisuian Arcanine",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Begin a New Adventure with Pokémon ex!\r\n<br>\r\nSet out for a journey in the Paldea region! Meet first partners Sprigatito, Fuecoco, and Quaxly, and explore the power of the Legendary Pokémon Koraidon and Miraidon as Pokémon ex. Other Pokémon ex evolve their way into battle—including Arcanine and Gyarados with a dazzling new look. Even more Pokémon appear as illustration rare cards with amazing artwork—discover them all in the Pokémon TCG: Scarlet & Violet expansion!<br><br>\r\n\r\nContains 1 Scarlet & Violet booster pack, a TCGO Code, Coin and 2 cards with an evolution line.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 15.5,
+            "high_price": 23,
+            "updated_at": "2026-10-07T11:26:16.745279",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/497166"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 8,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 8,
+    "tcg": 8,
+    "cardmarket": 5,
+    "tcg_only": 3,
+    "cardmarket_only": 0,
+    "both_sources": 5
+  }
+}

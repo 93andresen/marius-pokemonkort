@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Darkness+Energy+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:15 GMT
+Content-Type: application/json
+Content-Length: 3632
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 879
+X-RateLimit-Remaining-Hour: 57
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y1yLyECXARbPDNl3tOvEbu8UkfyT%2B66BD5VlxoiAShc2HR9SzTtlimZCCJ%2BtYDkU1oM2M9LVPXqyJYAWk0xZQKziRpqYs%2B8F5SdkbbftrgmlPI5XUj8CkOb2H4qn8Nnyrb%2BZW2QNQ7JxrqGLSUnC3w%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278d73941568d-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Misdreavus&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:18 GMT
+Content-Type: application/json
+Content-Length: 28917
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 877
+X-RateLimit-Remaining-Hour: 55
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ajm3xKA9EN2rSBLBvV2PpgF2aN7QZ1HDy4%2B7okfD8GJGQW2bwK5uwngnb2BfRb0EI3QqUramFNssfgeA3i4h6Z8P7%2Fsb%2BmNQE4LcWVrARvYNvnRIJBmROkgcF3kqHUuSHexT8BMjDZ6g0UPBHFxu%2BQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278e5f8d856bd-OSL
+alt-svc: h3=":443"; ma=86400

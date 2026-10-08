@@ -1,0 +1,1389 @@
+{
+  "query": "Jolteon",
+  "results": [
+    {
+      "id": "pk_2c714ea53c558734c7bfde6946c4ebb34b024582907574e32f921ce7122c6f4b7e258c15f0624ea5908f4e20072209",
+      "card_info": {
+        "name": "Jolteon EX - 28a/83",
+        "clean_name": "Jolteon EX 28a 83",
+        "set_name": "Alternate Art Promos",
+        "set_code": "PR",
+        "set_id": "1938",
+        "card_number": "028a/083",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+          "[2L] Flash Ray (70)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 24.71,
+            "high_price": 200,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 23.76,
+            "direct_low_price": 30.8,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131697"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_84ae1f561836ee91ae76e6da9f2222cfa069540e906dc5b75cb6a899b1db55a0de506b663efa07ab120751",
+      "card_info": {
+        "name": "Jolteon - BW91",
+        "clean_name": "Jolteon BW91",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW91",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Electrigun (20+) \r\n<br>You may discard a L Energy attached to this Pokémon. If you do, this attack does 40 more damage.",
+          "[2L] Pin Missile (40x) \r\n<br>Flip 4 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 47.94,
+            "mid_price": 72.7,
+            "high_price": 508.76,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 69.89,
+            "direct_low_price": 56.67,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86348"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.99,
+            "avg7": 6.13,
+            "avg30": 5.04,
+            "trend": 5.73,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.35,
+            "low": 6.89,
+            "avg1": 3.95,
+            "avg7": 10.42,
+            "avg30": 16.23,
+            "trend": 4.6,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Jolteon-BWBW91"
+      }
+    },
+    {
+      "id": "pk_d1da49ab8dbc118ee5696872a45135f03c095c22c213a5c010d3c4e55e570534c0a0df3f12976f2cd8b851cd",
+      "card_info": {
+        "name": "Jolteon",
+        "clean_name": "Jolteon",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "45/95",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Agility (20) Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Jolteon  during your opponent's next turn.",
+          "[1LL] Mach Bolt (70)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 4.99,
+            "high_price": 27.79,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 5.88,
+            "direct_low_price": 5.99,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 20,
+            "high_price": 369.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 28.83,
+            "direct_low_price": 19.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86346"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 4.44,
+            "low": 0.09,
+            "avg1": 0.25,
+            "avg7": 3.73,
+            "avg30": 3.91,
+            "trend": 3.57,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3,
+            "low": 0.15,
+            "avg1": 3,
+            "avg7": 13.85,
+            "avg30": 14.42,
+            "trend": 14.19,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Jolteon-CL45"
+      }
+    },
+    {
+      "id": "pk_3e031325b98ee22cba2b1b58afd3baba62be6100369123ad8734b439d9d454e5863291d289c8854a468bdd0093",
+      "card_info": {
+        "name": "Jolteon",
+        "clean_name": "Jolteon",
+        "set_name": "Dark Explorers",
+        "set_code": "DEX",
+        "set_id": "1386",
+        "card_number": "37/108",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Electrigun (20+) You may discard a L Energy attached to this Pokemon.  If you do, this attack does 40 more damage.",
+          "[2L] Pin Missile (40x) Flip 4 coins.  This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.8,
+            "mid_price": 8.49,
+            "high_price": 146.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 8.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 50,
+            "mid_price": 129.99,
+            "high_price": 499.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 31.03,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86347"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 6.08,
+            "low": 0.35,
+            "avg1": 15,
+            "avg7": 5.84,
+            "avg30": 5.52,
+            "trend": 7.26,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 16,
+            "low": 1.5,
+            "avg1": 17,
+            "avg7": 12.59,
+            "avg30": 10.66,
+            "trend": 11.86,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Jolteon-V1-DEX37"
+      }
+    },
+    {
+      "id": "pk_32db99df1fb319854e6b5100e0343722d0dc4b22b4fa0c532ef0b2dc46b9cd6ced5673a6e50c1ae2476e38c4",
+      "card_info": {
+        "name": "Jolteon (Delta Species)",
+        "clean_name": "Jolteon Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "7/113",
+        "rarity": "Holo Rare",
+        "card_type": "Metal Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Jolteon.  Shuffle your deck afterward.",
+          "[1LM] Return Spark (50) \r\n<br>You may return an Energy card attached to Jolteon to your hand.  If you do, this attack does 20 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 140,
+            "mid_price": 230,
+            "high_price": 1762.92,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 186.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 279.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 372.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86349"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon δ Delta Species",
+        "prices": [
+          {
+            "avg": 179.98,
+            "low": 10,
+            "avg1": 1199,
+            "avg7": 276.28,
+            "avg30": 155.07,
+            "trend": 205.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 266.67,
+            "low": 10,
+            "avg1": 79.5,
+            "avg7": 53.21,
+            "avg30": 101.59,
+            "trend": 154.48,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Jolteon-Delta-Species-DS7"
+      }
+    },
+    {
+      "id": "pk_a0e38190b3a40bf1602782dab2bbd1956fc6f085873c4456655d887ae05d9bad4f1f58c798bedabdd15b3e238872",
+      "card_info": {
+        "name": "Jolteon ex",
+        "clean_name": "Jolteon ex",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "109/113",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Evolutionary Thunder \r\n<br>Once during your turn, when you play Jolteon ex from your hand to evolve 1 of your Pokemon, you may put 1 damage counter on each of your opponent's Pokemon.",
+        "attacks": [
+          "[1L] Second Bite (20+) \r\n<br>Does 20 damage plus 10 more damage for each damage counter on the Defending Pokemon.",
+          "[2L] Thunder Blast (70)\r\n<br>Discard a Lightning Energy card attached to Jolteon ex."
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 200,
+            "mid_price": 285.11,
+            "high_price": 368.88,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 292.49,
+            "direct_low_price": 360.4,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86352"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 57.95,
+            "avg7": 42.78,
+            "avg30": 40.75,
+            "trend": 64.28,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 58.33,
+            "low": 19.98,
+            "avg1": 419.98,
+            "avg7": 239.99,
+            "avg30": 112.91,
+            "trend": 252.44,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Jolteon-ex-DS109"
+      }
+    },
+    {
+      "id": "pk_487f5f7b9d4ea5259a6400e96aaaa22e9cdfe2fb837c76149981c5b2c426c32da18fd215da8a24185814df4b8f",
+      "card_info": {
+        "name": "Jolteon EX",
+        "clean_name": "Jolteon EX",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "28/83",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+          "[2L] Flash Ray (70)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16.5,
+            "mid_price": 31.1,
+            "high_price": 427.1,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 33.28,
+            "direct_low_price": 39.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113686"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.99,
+            "avg7": 8.92,
+            "avg30": 10.11,
+            "trend": 9.7,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 19.07,
+            "low": 6.98,
+            "avg1": 25,
+            "avg7": 20.21,
+            "avg30": 21.33,
+            "trend": 22.74,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Jolteon-EX-V1-GEN28"
+      }
+    },
+    {
+      "id": "pk_6855628db1157eb31b766aa0a82458cb288d1db1aedd1fbea66ee332c1c0467861816e53fd1c426059844d21ea",
+      "card_info": {
+        "name": "Lt. Surge's Jolteon",
+        "clean_name": "Lt Surges Jolteon",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "028/132",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] High Voltage (20)\r\n<br>Flip a coin. If heads, your opponent can't play Trainer cards during his or her next turn.",
+          "[LLL] Thunder Flare (30+)\r\n<br>Does 30 damage plus 10 damage times the number of damage counters on Lt. Surge's Jolteon, then flip a coin. If tails, Lt. Surge's Jolteon does 30 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35,
+            "mid_price": 57.99,
+            "high_price": 148.85,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 47.67,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 17,
+            "mid_price": 22.76,
+            "high_price": 176.02,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 24.05,
+            "direct_low_price": 34.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86855"
+      },
+      "cardmarket": {
+        "product_name": "Lt. Surge's Jolteon",
+        "prices": [
+          {
+            "avg": 17.99,
+            "low": 4.85,
+            "avg1": 28.5,
+            "avg7": 21.73,
+            "avg30": 22.43,
+            "trend": 20.32,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 1.5,
+            "avg30": 1.5,
+            "trend": 1.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Lt-Surges-Jolteon-GC28"
+      }
+    },
+    {
+      "id": "pk_0b83a55c84bcb9c50bdbc1cd92b2b769746692d3c032991a7b19dff0b0b7bd512e4ea1e16d23cee302949283e9",
+      "card_info": {
+        "name": "Jolteon",
+        "clean_name": "Jolteon",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "23/68",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Electromagnetic Wall</strong>\r\n<br>As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+        "attacks": [
+          "[1L] Thunderbolt (90)\r\n<br>Discard all Energy from this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.65,
+            "high_price": 7.9,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 0.68,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.69,
+            "mid_price": 1.1,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 1.1,
+            "direct_low_price": 1.17,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197667"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 1.52,
+            "low": 0.2,
+            "avg1": 1.4,
+            "avg7": 1.38,
+            "avg30": 1.48,
+            "trend": 1.49,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.4,
+            "low": 0.07,
+            "avg1": 1.4,
+            "avg7": 0.4,
+            "avg30": 0.48,
+            "trend": 0.48,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jolteon-HIF23"
+      }
+    },
+    {
+      "id": "pk_7f33a5e2d6dd49ebe86842c6ccdda4ccd6ca751eccbb7fabd027d8959d3d390f09936ba703a9dab214b5491033",
+      "card_info": {
+        "name": "Jolteon GX - SM173 (SM Black Star Promo)",
+        "clean_name": "Jolteon GX SM173 SM Black Star Promo",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM173",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Stage 1",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Electrobullet (30)\r\n<br>This attack does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[1L] Head Bolt (110)",
+          "<span style=\"color:Teal\"><strong>[1L] Swift Run GX (110)</strong>\r\n<br>Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.95,
+            "mid_price": 17.99,
+            "high_price": 210.12,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 15.6,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183565"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.95,
+            "avg7": 4.95,
+            "avg30": 4.95,
+            "trend": 4.95,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 19.95,
+            "low": 19.95,
+            "avg1": 19.95,
+            "avg7": 10.48,
+            "avg30": 10.48,
+            "trend": 13.73,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos/Jolteon-GX-V2-SM173"
+      }
+    },
+    {
+      "id": "pk_e645ef98ceaac365d2516bc22b97e76d53e5ca3b58415b8f8534d7f2dfd0c080cb71fc36a888a62e07763edf7cd893",
+      "card_info": {
+        "name": "Jolteon VMAX - SWSH184",
+        "clean_name": "Jolteon VMAX SWSH184",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH184",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[1L] Max Thunder Rumble (100)\r\n<br>This attack also does 100 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16.28,
+            "mid_price": 24.99,
+            "high_price": 232.32,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 16.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/257710"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon VMAX",
+        "prices": [
+          {
+            "avg": 12.2,
+            "low": 8.49,
+            "avg1": 8.89,
+            "avg7": 11.54,
+            "avg30": 10.37,
+            "trend": 12.1,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Jolteon-VMAX-V2-SWSH184"
+      }
+    },
+    {
+      "id": "pk_2cc7ea9396e5b6b473ecc7c3fb95563b789ab96cee9ea1b71af83a1028cf2cf1bbe1baeeb979e51adc88",
+      "card_info": {
+        "name": "Jolteon (4)",
+        "clean_name": "Jolteon 4",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "04/64",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1LL] Pin Missile (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 152.99,
+            "mid_price": 225,
+            "high_price": 1909.62,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 272.28,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 53,
+            "mid_price": 92.95,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 103.64,
+            "direct_low_price": 199.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45130"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 61.68,
+            "low": 4,
+            "avg1": 160.27,
+            "avg7": 77.12,
+            "avg30": 66.82,
+            "trend": 71.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.83,
+            "avg7": 18.81,
+            "avg30": 19.33,
+            "trend": 18.72,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jolteon-V1-JU4"
+      }
+    },
+    {
+      "id": "pk_461527c83f7a290bee7155a0b343b55dfcab32d41b02bb6d40ee319eec4064ef8669f2086fb6d78b045d234f",
+      "card_info": {
+        "name": "Jolteon (20)",
+        "clean_name": "Jolteon 20",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "20/64",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1LL] Pin Missile (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 31,
+            "mid_price": 50,
+            "high_price": 899.98,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 58.76,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.99,
+            "mid_price": 24.34,
+            "high_price": 110,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 25.23,
+            "direct_low_price": 29.95,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106982"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6,
+            "avg7": 11.06,
+            "avg30": 22.86,
+            "trend": 5.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 16.64,
+            "low": 1,
+            "avg1": 10,
+            "avg7": 10.96,
+            "avg30": 14.96,
+            "trend": 14.27,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jolteon-V2-JU20"
+      }
+    },
+    {
+      "id": "pk_bf3d0e07f066940a621748c452e7e94edb4ad4c02ce768e39ed07ad64ffe6cadafe746314c30242e9baa0f34410d",
+      "card_info": {
+        "name": "Jolteon - 37/108 (Regional Championships) [Staff]",
+        "clean_name": "Jolteon 37 108 Regional Championships Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "037/108",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Electrigun (20+)\r\n<br>\r\nYou may discard a Lightning Energy attached to this Pokémon. If you do, this attack does 40 more damage.",
+          "[2L] Pin Missile (40x)\r\n<br>\r\nFlip 4 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 700,
+            "mid_price": 700,
+            "high_price": 700,
+            "updated_at": "2026-06-02T09:01:36.722859",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211978"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1be1bb7e182b6b23bd95ad221bacd4b302f18862ba2220d926364be22ce3cd15d07d78163cc3f317324ab5577e11",
+      "card_info": {
+        "name": "Jolteon - 37/108 (Regional Championships)",
+        "clean_name": "Jolteon 37 108 Regional Championships",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "037/108",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Electrigun (20+)\r\n<br>\r\nYou may discard a Lightning Energy attached to this Pokémon. If you do, this attack does 40 more damage.",
+          "[2L] Pin Missile (40x)\r\n<br>\r\nFlip 4 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 127.66,
+            "mid_price": 128.65,
+            "high_price": 500,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 95.26,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/232885"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 70,
+            "low": 79.99,
+            "avg1": 80,
+            "avg7": 72.13,
+            "avg30": 65.47,
+            "trend": 82.59,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 49.99,
+            "avg7": 34.54,
+            "avg30": 34.54,
+            "trend": 171.59,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Jolteon-V2-DEX37"
+      }
+    },
+    {
+      "id": "pk_beb04c31bd23b77172aa7bd52219dfb9c85ce6424b794fe349d251b84b7d6286429328318eba80b15b7eedb499",
+      "card_info": {
+        "name": "Jolteon",
+        "clean_name": "Jolteon",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "014/110",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1LL] Pin Missile (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 47.96,
+            "mid_price": 314.98,
+            "high_price": 2999.82,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 74.68,
+            "direct_low_price": 542.56,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 455,
+            "mid_price": 799.95,
+            "high_price": 4999.25,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 228.77,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86339"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon",
+        "prices": [
+          {
+            "avg": 35.19,
+            "low": 8.99,
+            "avg1": 12,
+            "avg7": 34.11,
+            "avg30": 28.67,
+            "trend": 33.68,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 292.49,
+            "low": 100,
+            "avg1": 500,
+            "avg7": 273.33,
+            "avg30": 232.51,
+            "trend": 310.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Jolteon-LC14"
+      }
+    },
+    {
+      "id": "pk_b3899a8a2b03ed22fad320e4b9dadc2fae953ed91d779d5eb69a4345d46916f36ab3c6fcc92a5d686510e0deba",
+      "card_info": {
+        "name": "Jolteon",
+        "clean_name": "Jolteon",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "23/100",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Fang (20)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1LL] Lightning Strike (50)\r\n<br>\r\nYou may discard 2 Energy attached to Jolteon. If you do, this attack's base damage is 90 instead of 50."
+        ],
+        "weakness": "F+20",
+        "resistance": "M-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 4.66,
+            "high_price": 62.52,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 5.64,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 15,
+            "mid_price": 32.49,
+            "high_price": 299.72,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 37,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86343"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon Lv.39",
+        "prices": [
+          {
+            "avg": 1.04,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.89,
+            "avg30": 1.74,
+            "trend": 0.48,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.45,
+            "low": 1.49,
+            "avg1": 3.8,
+            "avg7": 7.23,
+            "avg30": 7.11,
+            "trend": 5.86,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Jolteon-Lv39-MD23"
+      }
+    },
+    {
+      "id": "pk_80c751a0ed16b18178feedddfe8b3515311168a866e301bc2e102713013387eef898fe97f33a63a5c7e1ae456518",
+      "card_info": {
+        "name": "Jolteon - 26/98 (Cosmos Holo)",
+        "clean_name": "Jolteon 26 98 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "026/098",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Electric Effect</strong>\r\n<br>Each of your Stage 1 Pokémon in play is now a Lightning Pokémon in addition to its existing types.",
+        "attacks": [
+          "[2L] Thunder Blast (80)\r\n<br>Discard an Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.25,
+            "mid_price": 11.91,
+            "high_price": 52.92,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 11.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186908"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3c9e3c96254fde422f97f02dec52bbff454afea8695d1ffda68efe40441b076149bc9ab8e271c293fb9d96b73435",
+      "card_info": {
+        "name": "Jolteon - 047/185 (Cosmos Holo)",
+        "clean_name": "Jolteon 047 185 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "047/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Thunderous Awakening</strong>\r\n<br>If this Pokémon has a Memory Capsule attached, Water Pokémon in play <em>(both yours and your opponent's)</em> have no Abilities.",
+        "attacks": [
+          "[2L] Electric Ball (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.24,
+            "mid_price": 3.58,
+            "high_price": 65,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 3.34,
+            "direct_low_price": 4.2,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250291"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a72b11b99042dd71f6cb8fa1dbbc391045c2df4014874e89495a21d72486977e02f77733975f8de29d75c797ec40",
+      "card_info": {
+        "name": "Jolteon ex - 030/131 (Prismatic Evolutions Stamp)",
+        "clean_name": "Jolteon ex 030 131 Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "030/131",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[LC] Flashing Spear (60+)<br> You may discard up to 2 Basic Energy from your Benched Pokemon. This attack does 90 more damage for each card you discarded in this way.",
+          "[RWL] Dravite (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.8,
+            "mid_price": 7.43,
+            "high_price": 1000,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 6.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/618095"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.63,
+            "low": 6.99,
+            "avg1": 9.49,
+            "avg7": 10.12,
+            "avg30": 10.71,
+            "trend": 9.92,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions-Additionals/Jolteon-ex-xPRE030"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 238,
+    "total_pages": 12
+  },
+  "metadata": {
+    "total_count": 238,
+    "tcg": 197,
+    "cardmarket": 201,
+    "tcg_only": 37,
+    "cardmarket_only": 41,
+    "both_sources": 160
+  }
+}

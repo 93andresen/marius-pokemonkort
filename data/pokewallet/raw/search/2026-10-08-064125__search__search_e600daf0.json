@@ -1,0 +1,1317 @@
+{
+  "query": "Flareon",
+  "results": [
+    {
+      "id": "pk_5ed25939ab808acbe5e161f94ebb00e29418feedcd2c2d2e39b508bb80eb138f347787810ce974d6f5bdcfdbf3",
+      "card_info": {
+        "name": "Flareon - SM186 (#27 Charizard Stamped)",
+        "clean_name": "Flareon SM186 27 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "SM186",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (20)",
+          "[1RR] Fire Spin (130)\r\n<br>Discard 2 R Energy from this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.73,
+            "mid_price": 1.03,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.06,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219066"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2e896434bff876e37d2bc26efe7db648b9c5ebe42bc7d3cdbd962d6544856331b2a246f3e09c12825ea7ebc634",
+      "card_info": {
+        "name": "Flareon - SM186 (#44 Charizard Stamped)",
+        "clean_name": "Flareon SM186 44 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "SM186",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (20)",
+          "[1RR] Fire Spin (130)\r\n<br>Discard 2 R Energy from this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.72,
+            "mid_price": 1.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219067"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3cb4e01b718a89f25ef7621418a3ca076014909bf6f61894f4c7adc6a180e9db6b420b8131f351803c5cf8",
+      "card_info": {
+        "name": "Flareon - BW88",
+        "clean_name": "Flareon BW88",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW88",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Sand-Attack (20) \r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "[2R] Fire Slash (60+)\r\n<br>You may discard a Fire energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 41.44,
+            "mid_price": 61.59,
+            "high_price": 360,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 63.55,
+            "direct_low_price": 60.35,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/91599"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.99,
+            "avg7": 6.58,
+            "avg30": 6.51,
+            "trend": 8.35,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 17.33,
+            "low": 4.2,
+            "avg1": 7.98,
+            "avg7": 18.21,
+            "avg30": 14.12,
+            "trend": 16.2,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Flareon-BWBW88"
+      }
+    },
+    {
+      "id": "pk_ea114c5dac213fbca0c67d95ca7853883a65ebd9d2e54c0d71ab916b4d2dd6a874222ddc8d488e85bec59076",
+      "card_info": {
+        "name": "Flareon",
+        "clean_name": "Flareon",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "44/95",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Flame Tail (30)",
+          "[1RR] Flamethrower (90) Discard an Energy attached to Flareon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 7.59,
+            "high_price": 39.95,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 7.8,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 28,
+            "mid_price": 95,
+            "high_price": 999.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 37.8,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85499"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": 4.52,
+            "low": 0.02,
+            "avg1": 3.53,
+            "avg7": 4.8,
+            "avg30": 3.97,
+            "trend": 4.67,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 9.86,
+            "low": 0.49,
+            "avg1": 5.49,
+            "avg7": 12.63,
+            "avg30": 17.1,
+            "trend": 5.56,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Flareon-CL44"
+      }
+    },
+    {
+      "id": "pk_38c1785d1817f8317f397bf38236b5b678a3f21c668e21f67ecaac7358529951cfec79456e60d60b4e628d4d6c",
+      "card_info": {
+        "name": "Flareon",
+        "clean_name": "Flareon",
+        "set_name": "Dark Explorers",
+        "set_code": "DEX",
+        "set_id": "1386",
+        "card_number": "12/108",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Sand-Attack (20) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+          "[2R] Fire Slash (60+) You may discard a R Energy attached to this Pokemon.  If you do, this attack does 30 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.99,
+            "mid_price": 7.65,
+            "high_price": 49.32,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 4.79,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 15.03,
+            "mid_price": 20.52,
+            "high_price": 3999.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 18.22,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85500"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": 19,
+            "low": 1.5,
+            "avg1": 19,
+            "avg7": 8.88,
+            "avg30": 74.47,
+            "trend": 15.6,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.62,
+            "low": 0.3,
+            "avg1": 2.99,
+            "avg7": 3.69,
+            "avg30": 5.25,
+            "trend": 3.54,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Flareon-V1-DEX12"
+      }
+    },
+    {
+      "id": "pk_47b429c3613fe109e703cc47fd02ada60556cb87689420ce2a636fc4bfd56b976d5cc096307d387e6c8f7bbe",
+      "card_info": {
+        "name": "Flareon (Delta Species)",
+        "clean_name": "Flareon Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "5/113",
+        "rarity": "Holo Rare",
+        "card_type": "Metal Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Flareon.  Shuffle your deck afterward.",
+          "[1MR] Return Burn (50) \r\n<br>You may return an Energy card to your hand.  If you do, the Defending Pokemon is now Burned."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 201.48,
+            "mid_price": 246.39,
+            "high_price": 1213.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 168.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 699.99,
+            "mid_price": 749.99,
+            "high_price": 799.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 116.66,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85501"
+      },
+      "cardmarket": {
+        "product_name": "Flareon δ Delta Species",
+        "prices": [
+          {
+            "avg": 85.71,
+            "low": 12,
+            "avg1": 26.95,
+            "avg7": 50.68,
+            "avg30": 76.28,
+            "trend": 73.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 367.42,
+            "low": 12,
+            "avg1": 1299,
+            "avg7": 898.62,
+            "avg30": 303.22,
+            "trend": 773.21,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Flareon-Delta-Species-DS5"
+      }
+    },
+    {
+      "id": "pk_dff1a6aa36a4a976ab69170ed2af4f92d423e8df81ef5e0e832faaad3b6afa78840524985005fae4bc3a57d6e169",
+      "card_info": {
+        "name": "Flareon ex",
+        "clean_name": "Flareon ex",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "108/113",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Evolutionary Flame \r\n<br>Once during your turn, when you play Flareon ex from your hand to evolve 1 of your Pokemon, you may choose 1 of the Defending Pokemon.  That Pokemon is now Burned and Confused.",
+        "attacks": [
+          "[1R] Flame Screen (30) \r\n<br>During your opponent's next turn, any damage done to Flareon ex by attacks is reduced by 20 <i>(after applying Weakness and Resistance).</i>",
+          "[2R] Heat Tackle (70) \r\n<br>Flareon ex does 10 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 299.99,
+            "mid_price": 540,
+            "high_price": 4009.62,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 329.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85505"
+      },
+      "cardmarket": {
+        "product_name": "Flareon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 25,
+            "avg7": 56.99,
+            "avg30": 28.25,
+            "trend": 45.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 81.21,
+            "low": 17,
+            "avg1": 57.49,
+            "avg7": 75.85,
+            "avg30": 80.51,
+            "trend": 80.06,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Flareon-ex-DS108"
+      }
+    },
+    {
+      "id": "pk_3575f22b039fe39ae74b1aa336e634cfac266fb211b8e4d29aceb209c30a21985aa1b39ee942e9bbad55a96460fbdc14",
+      "card_info": {
+        "name": "Flareon EX",
+        "clean_name": "Flareon EX",
+        "set_name": "Generations: Radiant Collection",
+        "set_code": "GEN",
+        "set_id": "1729",
+        "card_number": "RC6/RC32",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<b>Ability — Flash Fire</b>\r\n<br>Once during your turn (before your attack), you may move a Fire Energy from 1 of your Pokémon to this Pokémon.",
+        "attacks": [
+          "[3] Blaze Ball (50+)\r\n<br>This attack does 20 more damage for each Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 56.09,
+            "mid_price": 87.96,
+            "high_price": 150,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 86.85,
+            "direct_low_price": 79.2,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113747"
+      },
+      "cardmarket": {
+        "product_name": "Flareon EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 9.44,
+            "avg30": 9.35,
+            "trend": 9.12,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 50.69,
+            "low": 12,
+            "avg1": 29.89,
+            "avg7": 57.19,
+            "avg30": 44.74,
+            "trend": 47.34,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Flareon-EX-GENRC6"
+      }
+    },
+    {
+      "id": "pk_99947b44ab62f2b4dcfc96874cf80841bcb7785a9d3dc0a06e9879178db3baafc680fe5304610b48cf3d0080167f908a87",
+      "card_info": {
+        "name": "Flareon EX (Full Art)",
+        "clean_name": "Flareon EX Full Art",
+        "set_name": "Generations: Radiant Collection",
+        "set_code": "GEN",
+        "set_id": "1729",
+        "card_number": "RC28/RC32",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<b>Ability — Flash Fire</b>\r\n<br>Once during your turn (before your attack), you may move a Fire Energy from 1 of your Pokémon to this Pokémon.",
+        "attacks": [
+          "[3] Blaze Ball (50+)\r\n<br>This attack does 20 more damage for each Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 127.98,
+            "mid_price": 202.95,
+            "high_price": 1269.9,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 192.56,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113748"
+      },
+      "cardmarket": {
+        "product_name": "Flareon EX",
+        "prices": [
+          {
+            "avg": 131.73,
+            "low": 18,
+            "avg1": 96.66,
+            "avg7": 84.99,
+            "avg30": 116.93,
+            "trend": 109.8,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12,
+            "avg7": 21.87,
+            "avg30": 22.67,
+            "trend": 21.1,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Flareon-EX-GENRC28"
+      }
+    },
+    {
+      "id": "pk_69d772ab03eaef0a3331248433295aee5f21ada12329bf4f6f2839427b7fbc234d5c736dc79d7d365105008fe6",
+      "card_info": {
+        "name": "Flareon GX - SM171 (SM Black Star Promo)",
+        "clean_name": "Flareon GX SM171 SM Black Star Promo",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM171",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Stage 1",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[R] Heat Stage (30)\r\n<br>You may attach up to 3 Fire Energy cards from your hand to your Pokémon in any way you like.",
+          "[1RR] Bright Flame (190)\r\n<br>Discard 2 Fire Energy from this Pokémon.",
+          "<span style=\"color:Teal\"><strong>[R] Power Burner GX (20x)</strong>\r\n<br>This attack does 20 damage for each Fire Energy card in your discard pile. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.99,
+            "mid_price": 40.73,
+            "high_price": 299.32,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 24.68,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183564"
+      },
+      "cardmarket": {
+        "product_name": "Flareon GX",
+        "prices": [
+          {
+            "avg": 13,
+            "low": 50,
+            "avg1": 13,
+            "avg7": 21.55,
+            "avg30": 17.13,
+            "trend": 30.61,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 10,
+            "avg30": 10,
+            "trend": 10,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos/Flareon-GX-V2-SM171"
+      }
+    },
+    {
+      "id": "pk_37c01b6223b6bdaa6465ec577ad00749409ea82431d6a5ca39087673c544cef0af0138320eaa60ecc06ebf9a995217",
+      "card_info": {
+        "name": "Flareon VMAX - SWSH180",
+        "clean_name": "Flareon VMAX SWSH180",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH180",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[2R] Max Detonate (100x)\r\n<br>Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.15,
+            "mid_price": 19.49,
+            "high_price": 182.32,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 15.8,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/257709"
+      },
+      "cardmarket": {
+        "product_name": "Flareon VMAX",
+        "prices": [
+          {
+            "avg": 9.37,
+            "low": 5,
+            "avg1": 10,
+            "avg7": 9.65,
+            "avg30": 8.3,
+            "trend": 9.07,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Flareon-VMAX-V2-SWSH180"
+      }
+    },
+    {
+      "id": "pk_87b41fa41068e1ed719bef348e15c2f3d026a49acb157d0fb43a5f05eaef971ef87e9aba46ede5d60d8c",
+      "card_info": {
+        "name": "Flareon (3)",
+        "clean_name": "Flareon 3",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "03/64",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[2RR] Flamethrower (60)\r\n<br>Discard 1 Fire Energy card attached to Flareon in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 159.99,
+            "mid_price": 239.99,
+            "high_price": 949.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 337.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 51.5,
+            "mid_price": 69.99,
+            "high_price": 324.24,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 93.81,
+            "direct_low_price": 249.94,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45129"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.99,
+            "avg7": 31.33,
+            "avg30": 26.41,
+            "trend": 24.68,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 49.79,
+            "low": 6,
+            "avg1": 204.66,
+            "avg7": 94.96,
+            "avg30": 64.39,
+            "trend": 80.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Flareon-V1-JU3"
+      }
+    },
+    {
+      "id": "pk_053812399742d1ebbdf8352ab5c6261a551590f3725ed2fadd4cc36d28fcc73ab66dffb8d26dcb3d867a3586",
+      "card_info": {
+        "name": "Flareon (19)",
+        "clean_name": "Flareon 19",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "19/64",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[2RR] Flamethrower (60)\r\n<br>Discard 1 Fire Energy card attached to Flareon in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 47.99,
+            "high_price": 299.62,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 49.13,
+            "direct_low_price": 47.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9,
+            "mid_price": 14.4,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 14.87,
+            "direct_low_price": 10.21,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106981"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19,
+            "avg7": 21.75,
+            "avg30": 15.42,
+            "trend": 21.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.8,
+            "low": 1.97,
+            "avg1": 13.84,
+            "avg7": 12.09,
+            "avg30": 12.33,
+            "trend": 15.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Flareon-V2-JU19"
+      }
+    },
+    {
+      "id": "pk_9dd9800209f099af65ca3a942fe8376504c3561d591e40819b3d29378dd5db901b5d9e8f570b282c3af9cd1780b5",
+      "card_info": {
+        "name": "Flareon - 12/108 (Regional Championships)",
+        "clean_name": "Flareon 12 108 Regional Championships",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "012/108",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Sand-Attack (20)\r\n<br>\r\nIf the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "[2R] Fire Slash (60+)\r\n<br>\r\nYou may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 97,
+            "mid_price": 198.44,
+            "high_price": 1998,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 98.98,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211979"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 25,
+            "avg7": 14.78,
+            "avg30": 13.74,
+            "trend": 19.2,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 190,
+            "low": 80,
+            "avg1": 190,
+            "avg7": 88.57,
+            "avg30": 67.74,
+            "trend": 73.82,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Flareon-DEX12"
+      }
+    },
+    {
+      "id": "pk_2c55e9a69897f692075f2ea825473adb770b7c74e0b888bc35a9efecf042cd4a32a22d5703a72172e3fcc49fb60c",
+      "card_info": {
+        "name": "Flareon - 12/108 (Regional Championships) [Staff]",
+        "clean_name": "Flareon 12 108 Regional Championships Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "012/108",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Sand-Attack (20)\r\n<br>\r\nIf the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "[2R] Fire Slash (60+)\r\n<br>\r\nYou may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 900,
+            "mid_price": 900,
+            "high_price": 900,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 500,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211992"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ff2dd9cf766a7d8b03c96a1d10c8e5f0db2554098846364db17fa6d810c00c394dd35803439cbf93aa6fc3cac3",
+      "card_info": {
+        "name": "Flareon",
+        "clean_name": "Flareon",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "010/110",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[2RR] Flamethrower (60)\r\n<br>Discard 1 Fire Energy card attached to Flareon or this attack does nothing."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 54.99,
+            "mid_price": 92,
+            "high_price": 799.12,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 88.74,
+            "direct_low_price": 798.27,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 203.18,
+            "mid_price": 211.59,
+            "high_price": 219.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 439.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85492"
+      },
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": 900,
+            "low": 180,
+            "avg1": 139.9,
+            "avg7": 424.84,
+            "avg30": 226.55,
+            "trend": 356.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 78.4,
+            "low": 7.5,
+            "avg1": 299.99,
+            "avg7": 54.22,
+            "avg30": 38.11,
+            "trend": 61.79,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Flareon-LC10"
+      }
+    },
+    {
+      "id": "pk_57169fc1e85ab8b9b955b5a572ab28e8f0c20577b437a635541d6f23a2d10c6504b05585777a19d5dbd81952fb",
+      "card_info": {
+        "name": "Flareon",
+        "clean_name": "Flareon",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "19/100",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Fire Fang (30)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Burned.",
+          "[2R] Kindle (70)\r\n<br>\r\nDiscard an Energy card attached to Flareon and then discard an Energy card attached to the Defending Pokémon."
+        ],
+        "weakness": "W+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.9,
+            "mid_price": 13.05,
+            "high_price": 309.72,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 14.36,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 27.99,
+            "mid_price": 49.49,
+            "high_price": 649.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 44.97,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85496"
+      },
+      "cardmarket": {
+        "product_name": "Flareon Lv.43",
+        "prices": [
+          {
+            "avg": 3.64,
+            "low": 1,
+            "avg1": 3,
+            "avg7": 3.3,
+            "avg30": 4.83,
+            "trend": 3.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 9.98,
+            "low": 1.5,
+            "avg1": 25,
+            "avg7": 12.12,
+            "avg30": 8.27,
+            "trend": 10.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Flareon-Lv43-MD19"
+      }
+    },
+    {
+      "id": "pk_e01b02766212f644f1e1363e64e81a6818cba2bad0200d7ab5b626f8d81964566da0e155a8323132172b9e93f839",
+      "card_info": {
+        "name": "Flareon - 13/98 (Cosmos Holo)",
+        "clean_name": "Flareon 13 98 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "013/098",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Flare Effect</strong>\r\n<br>\r\nEach of your Stage 1 Pokémon in play is now a Fire Pokémon in addition to its existing types.",
+        "attacks": [
+          "[2R] Heat Breath (60+)\r\n<br>Flip a coin. If heads, this attack does 20 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.48,
+            "mid_price": 23.27,
+            "high_price": 279.62,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 18.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/220117"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_eb95032a0f6567f3e37b13fefdfe827050de59a1bdf5e2d312d0a6e4bec606dabbb689e9f22c87d5c6426afaec65",
+      "card_info": {
+        "name": "Flareon - 026/185 (Cosmos Holo)",
+        "clean_name": "Flareon 026 185 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "026/185",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Incandescent Awakening</strong>\r\n<br>If this Pokémon has a Memory Capsule attached, Grass Pokémon in play <em>(both yours and your opponent's)</em> have no Abilities.",
+        "attacks": [
+          "[1RR] Fire Mane (100)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 4,
+            "high_price": 36.64,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 3.88,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250289"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3e9bfb4ae54ebafbaa40efe9a86ad4dfd5ee2158e560dc29754631d9472113724306ba7dca8906e2404e7408812f",
+      "card_info": {
+        "name": "Flareon E4 - 60/111 (Cracked Ice)",
+        "clean_name": "Flareon E4 60 111 Cracked Ice",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "060/111",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<em>(This item is a Reverse Holo Cracked Ice 2009 Value Box Exclusive Promo.)</em>",
+        "attacks": [
+          "[1] Tackle (10)",
+          "[1R] Fire Tail Slap (40) \r\n<br>Flip a coin. If tails, discard a Fire Energy attached to Flareon E4."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 50,
+            "mid_price": 115,
+            "high_price": 1149.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 114.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/272511"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 234,
+    "total_pages": 12
+  },
+  "metadata": {
+    "total_count": 234,
+    "tcg": 195,
+    "cardmarket": 203,
+    "tcg_only": 31,
+    "cardmarket_only": 39,
+    "both_sources": 164
+  }
+}

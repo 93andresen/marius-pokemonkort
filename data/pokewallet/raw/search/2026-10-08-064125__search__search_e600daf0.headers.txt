@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Flareon&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:26 GMT
+Content-Type: application/json
+Content-Length: 27292
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 871
+X-RateLimit-Remaining-Hour: 49
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=I36rc5sHYsMe2YdXfOoq8UYGqyYe7n%2FtEx4%2BNXv8zK695OlgVL3h0otpSU%2BWmAcaNvUF9FsV7%2BEmDMrW6KKSUAqI7fWZHGAmY6TnLHMh0cZpX3g6hpfCgLEVCnw%2Bwb702WBz8QCktqxUaNYmaH7AzA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472791d1d5bdfec-OSL
+alt-svc: h3=":443"; ma=86400

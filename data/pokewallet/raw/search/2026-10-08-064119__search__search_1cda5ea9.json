@@ -1,0 +1,294 @@
+{
+  "query": "Poliwrath Base Set",
+  "results": [
+    {
+      "id": "pk_cc030d0fc88ca7e5bfff1af3fc58abc0c5232590b0991e0ea50214d26f6b5e610fcf047637eb39625ff3cff5",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "015/130",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.45,
+            "mid_price": 16.2,
+            "high_price": 126.03,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 21.37,
+            "direct_low_price": 126.02,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42459"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 8.8,
+            "avg30": 8.75,
+            "trend": 8.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 16.58,
+            "low": 3.97,
+            "avg1": 5,
+            "avg7": 28.95,
+            "avg30": 16.72,
+            "trend": 16.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Poliwrath-B215"
+      }
+    },
+    {
+      "id": "pk_67984ae39e60ac126fc0f25b2d39eb74390b09d91fd14135e2b47580f83496f1e9a2d8bafc15fe2d0bb2e45aa79b",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "013/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2W] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2298.82,
+            "mid_price": 2399.33,
+            "high_price": 2399.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 249.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 110,
+            "mid_price": 164.12,
+            "high_price": 598.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 158.64,
+            "direct_low_price": 598.82,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107007"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f5e943f5de99eb6a4bc26d08115b0bd7e3645389cc82ca2b0862827e5058fe2270a16fd8d8b7c16a63aa8279",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "013/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17,
+            "mid_price": 32.48,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 35.84,
+            "direct_low_price": 89.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42353"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 22.14,
+            "low": 3.49,
+            "avg1": 12.49,
+            "avg7": 22.45,
+            "avg30": 21.16,
+            "trend": 25.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.96,
+            "avg7": 22.07,
+            "avg30": 19.08,
+            "trend": 19.78,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Poliwrath-V1-BS13"
+      }
+    },
+    {
+      "id": "pk_d5856780ea8f4cbd108ff5eb5580096fb1eb066c480b3a338e16d56e53d31e4d05c9c4c726c15c0305cf38e422e5",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "32/149",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Split Spiral Punch (30)\r\n<br>Your opponent's Active Pokemon is now Confused.",
+          "[2W] Wake-Up Slap (80+)\r\n<br>If your opponent's Active Pokemon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from that Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.71,
+            "high_price": 9.7,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.71,
+            "direct_low_price": 0.98,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.33,
+            "mid_price": 0.85,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.85,
+            "direct_low_price": 1.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126903"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 1.35,
+            "low": 0.1,
+            "avg1": 0.99,
+            "avg7": 1.41,
+            "avg30": 1.26,
+            "trend": 1.1,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.82,
+            "low": 0.1,
+            "avg1": 0.6,
+            "avg7": 0.86,
+            "avg30": 0.92,
+            "trend": 0.96,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poliwrath-SUM32"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

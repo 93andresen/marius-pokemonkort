@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Misdreavus+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:16 GMT
+Content-Type: application/json
+Content-Length: 207
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 878
+X-RateLimit-Remaining-Hour: 56
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=o0cNGP6cMTtx06Dfmw5GxFAzR7rse1fNFxIQeJYzTPv5N6kNsB%2FERdiaRFjeQeHQQpSSTAamWAolv8EJjW18K443F9jFt2cEzIjIN5Wj99zaof60TrbaN1RBY%2FUZzTc99kH5J8hDZmVt0r1AkDaNbQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278df59695699-OSL
+alt-svc: h3=":443"; ma=86400

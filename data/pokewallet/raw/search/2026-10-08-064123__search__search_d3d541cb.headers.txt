@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Flareon+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:25 GMT
+Content-Type: application/json
+Content-Length: 204
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 872
+X-RateLimit-Remaining-Hour: 50
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MzekBe0lt8ENH%2BY7HzYzerAE%2B39dL1J5JwLAokQJ7kVPvG0EasAVr%2BtC4knBfnphWiEOyUtpGUuGk1RJeck57dzIGhspmbb97C4h5pL0HINIvtiFiRlOX6Qx7hyaLkAu62WB%2BAyS%2FcPYOdKGan%2FliQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47279142981dfec-OSL
+alt-svc: h3=":443"; ma=86400
