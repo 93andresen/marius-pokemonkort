@@ -1,0 +1,49 @@
+{
+  "run_id": "2026-10-08-025742",
+  "started_at": "2026-10-08T02:57:42Z",
+  "search_set": false,
+  "queries": [
+    "pokemon kort"
+  ],
+  "searches": [
+    {
+      "id": "query-pokemon-kort",
+      "kind": "query",
+      "label": "pokemon kort",
+      "query": "pokemon kort",
+      "tier": null,
+      "sorts": [
+        "PUBLISHED_DESC"
+      ],
+      "max_pages": 1,
+      "params": []
+    }
+  ],
+  "extra_params": [],
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "pokemon kort",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+kort&sort=PUBLISHED_DESC",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 34509,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 50
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-10-08-025742\\pokemon-kort\\page_001.html"
+    }
+  ],
+  "totals": {
+    "pages": 1,
+    "docs": 53
+  },
+  "finished_at": "2026-10-08T02:57:46Z",
+  "total_new_koder": 53
+}

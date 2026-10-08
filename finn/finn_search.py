@@ -323,126 +323,130 @@ def main(argv: list[str] | None = None) -> int:
     filters_written = False
     grand_new: set[str] = set()
 
-    for query in queries:
+    # group jobs by query so defs that share a query share one registry + delta
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for job in jobs:
+        groups.setdefault(job["query"], []).append(job)
+
+    for query, qjobs in groups.items():
         q_slug = fl.slugify(query)
         q_dir = fl.ensure_dir(run_dir / q_slug)
         registry_path = reg_dir / f"{q_slug}.json"
-        registry = {} if args.no_registry else load_registry(registry_path)
+        loaded = {} if args.no_registry else load_registry(registry_path)
+        known_before = set(loaded)
+        registry: dict[str, dict[str, Any]] = {k: dict(v) for k, v in loaded.items()}
         seen_this_query: set[str] = set()
 
-        for sort in sorts:
-            page = 1
-            last_page = args.max_pages
-            while page <= last_page:
-                url = build_url(query, sort, page, extra)
-                print(f"\n[{query} | {sort} | page {page}] {url}")
+        for job in qjobs:
+            params = job["params"]
+            for sort in job["sorts"]:
+                page = 1
+                last_page = job["max_pages"]
+                while page <= last_page:
+                    url = build_url(query, sort, page, params)
+                    print(f"\n[{job['id']} | {query} | {sort} | page {page}] {url}")
 
-                if args.dry_run:
-                    run_manifest["pages"].append({"query": query, "sort": sort, "page": page,
-                                                  "url": url, "status": "dry-run"})
-                    page += 1
-                    continue
+                    status, body, _hdrs = fl.http_get(
+                        url, retries=3, base_delay=args.delay, jitter=args.jitter
+                    )
+                    html = body.decode("utf-8", errors="replace")
+                    raw_path = fl.unique_path(q_dir / f"page_{page:03d}.html")
+                    raw_path.write_text(html, encoding="utf-8")
+                    print(f"    raw -> {raw_path} ({len(html)} chars)")
 
-                status, body, _hdrs = fl.http_get(
-                    url, retries=3, base_delay=args.delay, jitter=args.jitter
-                )
-                html = body.decode("utf-8", errors="replace")
-                raw_path = fl.unique_path(q_dir / f"page_{page:03d}.html")
-                raw_path.write_text(html, encoding="utf-8")
-                print(f"    raw -> {raw_path} ({len(html)} chars)")
-
-                try:
-                    state = fl.parse_search_state(html)
-                except ValueError as exc:
-                    print(f"    PARSE FAILED: {exc}")
-                    fl.append_jsonl(log_dir / "search_pages.jsonl", {
-                        "run_id": run_id, "scraped_at": fl.iso_now(), "query": query,
-                        "sort": sort, "page": page, "status": str(status),
-                        "error": str(exc), "raw_path": str(raw_path),
-                    })
-                    break
-
-                docs = state["docs"]
-                meta = state["metadata"]
-                paging = meta.get("paging") or {}
-                match_count = (meta.get("result_size") or {}).get("match_count")
-
-                # verify docs vs advertised num_results (no silent truncation)
-                num_results = meta.get("num_results")
-                if num_results is not None and len(docs) != num_results and page < (paging.get("last") or 1):
-                    print(f"    NOTE: docs={len(docs)} != num_results={num_results}")
-
-                # write parsed docs
-                docs_path = q_dir / f"page_{page:03d}.docs.jsonl"
-                for d in docs:
-                    rec = doc_record(d, query, sort, page, run_id)
-                    fl.append_jsonl(docs_path, rec)
-                    fl.append_jsonl(combined_path, rec)
-                    fl.append_jsonl(log_dir / "ads_seen.jsonl", rec)
-                    kode = rec["finn_kode"]
-                    seen_this_query.add(kode)
-                    if not args.no_registry and kode not in registry:
-                        grand_new.add(kode)
-                    if not args.no_registry:
-                        entry = registry.get(kode, {"first_seen": rec["scraped_at"]})
-                        entry["last_seen"] = rec["scraped_at"]
-                        entry["last_price"] = rec["price_amount"]
-                        entry["heading"] = rec["heading"]
-                        registry[kode] = entry
-
-                # the complete filter/parameter map (write once per run)
-                if state["filters"] and not filters_written:
-                    fl.write_json(run_dir / "filters.json", state["filters"])
-                    fl.write_json(fl.unique_path(fl.DATA_FINN / "filters" / f"filters_{run_id}.json"),
-                                  state["filters"])
-                    filters_written = True
-                    if args.print_filters:
-                        print("\n--- FINN filter / parameter map ---")
-                        for f in state["filters"]:
-                            name = f.get("name")
-                            items = f.get("filter_items") or []
-                            print(f"  {name:16s} type={f.get('type')} items={len(items)}")
-                            for it in items[:6]:
-                                print(f"      {it.get('value')!s:22s} hits={it.get('hits')}  {it.get('display_name')}")
-                        print("--- end filter map ---\n")
-                        fl.write_json(run_dir / "run.json", run_manifest)
-                        return 0
-
-                print(f"    docs={len(docs)}  num_results={num_results}  "
-                      f"match_count={match_count}  paging={paging}")
-                fl.append_jsonl(log_dir / "search_pages.jsonl", {
-                    "run_id": run_id, "scraped_at": fl.iso_now(), "query": query, "sort": sort,
-                    "page": page, "status": status, "docs": len(docs), "num_results": num_results,
-                    "match_count": match_count, "paging": paging, "raw_path": str(raw_path),
-                })
-                run_manifest["pages"].append({
-                    "query": query, "sort": sort, "page": page, "url": url,
-                    "status": status, "docs": len(docs), "num_results": num_results,
-                    "match_count": match_count, "paging": paging, "raw": str(raw_path),
-                })
-                run_manifest["totals"]["pages"] += 1
-                run_manifest["totals"]["docs"] += len(docs)
-
-                # decide whether to continue
-                if args.all_pages:
-                    last_page = min(paging.get("last") or page, args.max_pages if not args.all_pages else 10_000)
-                    if meta.get("is_end_of_paging") or page >= last_page:
-                        if page < (paging.get("last") or page):
-                            print(f"    stopping: reached paging.last={paging.get('last')}")
+                    try:
+                        state = fl.parse_search_state(html)
+                    except ValueError as exc:
+                        print(f"    PARSE FAILED: {exc}")
+                        fl.append_jsonl(log_dir / "search_pages.jsonl", {
+                            "run_id": run_id, "scraped_at": fl.iso_now(), "query": query,
+                            "sort": sort, "page": page, "status": str(status),
+                            "error": str(exc), "raw_path": str(raw_path),
+                        })
                         break
-                page += 1
-                time.sleep(args.delay + random.uniform(0, args.jitter))
+
+                    docs = state["docs"]
+                    meta = state["metadata"]
+                    paging = meta.get("paging") or {}
+                    match_count = (meta.get("result_size") or {}).get("match_count")
+
+                    # verify docs vs advertised num_results (no silent truncation)
+                    num_results = meta.get("num_results")
+                    if num_results is not None and len(docs) != num_results and page < (paging.get("last") or 1):
+                        print(f"    NOTE: docs={len(docs)} != num_results={num_results}")
+
+                    # write parsed docs
+                    docs_path = q_dir / f"page_{page:03d}.docs.jsonl"
+                    for d in docs:
+                        rec = doc_record(d, query, sort, page, run_id)
+                        fl.append_jsonl(docs_path, rec)
+                        fl.append_jsonl(combined_path, rec)
+                        fl.append_jsonl(log_dir / "ads_seen.jsonl", rec)
+                        kode = rec["finn_kode"]
+                        seen_this_query.add(kode)
+                        if not args.no_registry:
+                            entry = registry.get(kode, {"first_seen": rec["scraped_at"]})
+                            entry["last_seen"] = rec["scraped_at"]
+                            entry["last_price"] = rec["price_amount"]
+                            entry["heading"] = rec["heading"]
+                            registry[kode] = entry
+
+                    # the complete filter/parameter map (write once per run)
+                    if state["filters"] and not filters_written:
+                        fl.write_json(run_dir / "filters.json", state["filters"])
+                        fl.write_json(fl.unique_path(fl.DATA_FINN / "filters" / f"filters_{run_id}.json"),
+                                      state["filters"])
+                        filters_written = True
+                        if args.print_filters:
+                            print("\n--- FINN filter / parameter map ---")
+                            for f in state["filters"]:
+                                name = f.get("name")
+                                items = f.get("filter_items") or []
+                                print(f"  {name:16s} type={f.get('type')} items={len(items)}")
+                                for it in items[:6]:
+                                    print(f"      {it.get('value')!s:22s} hits={it.get('hits')}  {it.get('display_name')}")
+                            print("--- end filter map ---\n")
+                            fl.write_json(run_dir / "run.json", run_manifest)
+                            return 0
+
+                    print(f"    docs={len(docs)}  num_results={num_results}  "
+                          f"match_count={match_count}  paging={paging}")
+                    fl.append_jsonl(log_dir / "search_pages.jsonl", {
+                        "run_id": run_id, "scraped_at": fl.iso_now(), "query": query, "sort": sort,
+                        "page": page, "status": status, "docs": len(docs), "num_results": num_results,
+                        "match_count": match_count, "paging": paging, "raw_path": str(raw_path),
+                    })
+                    run_manifest["pages"].append({
+                        "query": query, "sort": sort, "page": page, "url": url,
+                        "status": status, "docs": len(docs), "num_results": num_results,
+                        "match_count": match_count, "paging": paging, "raw": str(raw_path),
+                    })
+                    run_manifest["totals"]["pages"] += 1
+                    run_manifest["totals"]["docs"] += len(docs)
+
+                    # decide whether to continue
+                    if args.all_pages:
+                        last_page = min(paging.get("last") or page, 10_000)
+                        if meta.get("is_end_of_paging") or page >= last_page:
+                            if page < (paging.get("last") or page):
+                                print(f"    stopping: reached paging.last={paging.get('last')}")
+                            break
+                    page += 1
+                    time.sleep(args.delay + random.uniform(0, args.jitter))
 
         # ---- delta report + registry persist ----
         if not args.no_registry:
-            gone = sorted(set(registry) - seen_this_query)
-            new_here = sorted(seen_this_query - set(registry))  # only meaningful pre-update
+            delta = compute_delta(known_before, seen_this_query)
+            grand_new |= set(delta["new"])
             fl.write_json(registry_path, dict(sorted(registry.items())))
-            print(f"\n[{query}] delta: seen={len(seen_this_query)}  known_total={len(registry)}  "
-                  f"new_in_this_run={len(grand_new & seen_this_query)}")
+            print(f"\n[{query}] delta: new={len(delta['new'])}  "
+                  f"still_active={len(delta['still_active'])}  gone={len(delta['gone'])}  "
+                  f"seen={len(seen_this_query)}  known_before={len(known_before)}")
             fl.append_jsonl(log_dir / "delta.jsonl", {
                 "run_id": run_id, "scraped_at": fl.iso_now(), "query": query,
-                "seen": len(seen_this_query), "known_total": len(registry), "gone": gone,
+                "new": delta["new"], "still_active": delta["still_active"], "gone": delta["gone"],
+                "seen": len(seen_this_query), "known_before": len(known_before),
+                "known_after": len(registry),
             })
 
     run_manifest["finished_at"] = fl.iso_now()

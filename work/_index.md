@@ -5,6 +5,9 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 | ID | Title | Status | Notes |
 |---|---|---|---|
 | 0001 | Offline parse regression net for `finn/finn_ad.py` | done | 14 stdlib tests on a real capture; `tests/test_finn_ad_parse.py` |
+| 0002 | Wire the search catalog into discovery + fix registry delta | done | `--search-set` runs catalog (40 defs/78 pages); live run delta new=53/seen=53; `tests/test_finn_search_catalog.py` |
+| 0003 | Build `finn/finn_identify.py` (rank ad by intent) | done | reuses `SETS`/`CARDS`, word-boundary matching; real distribution tier1=7/card=17/tier2=3/none=26 of 53 |
+| 0004 | Structure enumerated card lists (`finn/finn_cards.py`) | done | 57 cards from real capture w/ provenance; fixed U+2028 drift (canonical `logical_lines`); `tests/test_finn_cards.py` 12 OK |
 
 ---
 
