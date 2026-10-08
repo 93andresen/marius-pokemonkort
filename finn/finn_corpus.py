@@ -102,7 +102,7 @@ def main(argv: list[str] | None = None) -> int:
 
     summary = build(Path(args.root), Path(args.outdir), ts=args.ts)
 
-    if summary["json"] if False else args.json:  # keep --json deterministic
+    if args.json:
         print(json.dumps(summary, ensure_ascii=False, indent=2))
     else:
         print(f"records = {summary['records']}  problems = {len(summary['problems'])}")
