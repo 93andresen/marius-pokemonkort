@@ -1,0 +1,294 @@
+{
+  "query": "Magnemite Base Set",
+  "results": [
+    {
+      "id": "pk_44e746da1e364bf3bbc526fb5e6f6aed23ac73127c699903a2b9fc316f6d433c2dc30e5bca98489f7bb6a6f0",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "079/130",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 9.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.52,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42531"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.55,
+            "avg30": 0.56,
+            "trend": 0.57,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Magnemite-B279"
+      }
+    },
+    {
+      "id": "pk_a0fbdc1a247efb36e90fe1118a6ef38d09f877831ee7b9885664475e176efc338d55e80a2b5e41bbb3a42e45c37d",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "053/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 18.2,
+            "high_price": 272.12,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 22.12,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.74,
+            "mid_price": 2.64,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.96,
+            "direct_low_price": 2.79,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107050"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a80df4880e68df809278a53ad0fd36b13e148727387a4382cbc13412abdc2b222e85d71a78e2ca4310b58d9f",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "053/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.6,
+            "high_price": 18.6,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.94,
+            "direct_low_price": 1.21,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42397"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.05,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.5,
+            "low": 0.02,
+            "avg1": 0.69,
+            "avg7": 0.89,
+            "avg30": 0.98,
+            "trend": 1.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magnemite-V1-BS53"
+      }
+    },
+    {
+      "id": "pk_c2e8c5782216610e8156bb9c0245ce55c940825d5efab8353bfdb8f4f5bb11c93ca9425065577a180a832a639cb501",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "063/198",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Recoil\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+          "[L] Electro Ball (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/487916"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.12,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Magnemite-SVI063"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

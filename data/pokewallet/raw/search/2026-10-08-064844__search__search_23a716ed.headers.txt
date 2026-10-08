@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Machamp+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:46 GMT
+Content-Type: application/json
+Content-Length: 2629
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 834
+X-RateLimit-Remaining-Hour: 12
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wCIpBm%2BD9EkSTCfKDqhD7mjud1gbgmvlDZYH4EUISnEE7kvWs5X2mtBbSEL%2FGDOnx7RpqXwAyGkikLkPwurKbrWdf%2BsTq4%2FO7AkEdC7YeeHKoHW0I5O%2BmiorbqlRPGlTbuQLuHl0k7QNZ8Dw%2FMHrsA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47283da3a1856ab-OSL
+alt-svc: h3=":443"; ma=86400

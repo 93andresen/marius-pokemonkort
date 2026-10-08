@@ -1,0 +1,1905 @@
+[
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-08T04:47:43Z",
+    "finn_kode": "458560266",
+    "url": null,
+    "heading": "Pokémon GX/EX samlekort japansk holografisk lot",
+    "finn_price_nok": 150,
+    "identify": {
+      "intent_rank": 0,
+      "intent": "none",
+      "matched_set_names": [],
+      "matched_card_names": []
+    },
+    "set_hints": [],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-08T04:47:43Z",
+      "finn_kode": "458560266",
+      "url": null,
+      "heading": "Pokémon GX/EX samlekort japansk holografisk lot",
+      "status": "Aktiv",
+      "location": "1666 Rolvsøy",
+      "finn_price_nok": 150,
+      "parsed": {
+        "card_name": "GX EX samlekort holografisk lot",
+        "card_number": null,
+        "set_hint": null,
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "GX EX samlekort holografisk lot"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=GX+EX+samlekort+holografisk+lot&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": 150,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 0,
+    "cache_hit": true,
+    "flags": [],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  },
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-08T04:47:44Z",
+    "finn_kode": "458643794",
+    "url": null,
+    "heading": "Pokémon Kingdra EX samlekort",
+    "finn_price_nok": null,
+    "identify": {
+      "intent_rank": 0,
+      "intent": "none",
+      "matched_set_names": [],
+      "matched_card_names": []
+    },
+    "set_hints": [],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-08T04:47:44Z",
+      "finn_kode": "458643794",
+      "url": null,
+      "heading": "Pokémon Kingdra EX samlekort",
+      "status": "Aktiv",
+      "location": "1410 Kolbotn",
+      "finn_price_nok": null,
+      "parsed": {
+        "card_name": "Kingdra EX samlekort",
+        "card_number": null,
+        "set_hint": null,
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "Kingdra EX samlekort"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Kingdra+EX+samlekort&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": null,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 0,
+    "cache_hit": true,
+    "flags": [
+      "no asking price on the ad"
+    ],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  },
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-08T04:48:54Z",
+    "finn_kode": "475878513",
+    "url": null,
+    "heading": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+    "finn_price_nok": 100,
+    "identify": {
+      "intent_rank": 1,
+      "intent": "tier1-set",
+      "matched_set_names": [
+        "Base Set",
+        "Gym Challenge",
+        "Gym Heroes",
+        "Neo Revelation",
+        "Neo Destiny"
+      ],
+      "matched_card_names": [
+        "Gengar",
+        "Jolteon",
+        "Mew",
+        "Mewtwo"
+      ]
+    },
+    "set_hints": [
+      "Base Set",
+      "Gym Challenge",
+      "Gym Heroes",
+      "Neo Revelation",
+      "Neo Destiny"
+    ],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-08T04:47:45Z",
+      "finn_kode": "475878513",
+      "url": null,
+      "heading": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+      "status": "Inaktiv",
+      "location": "1366 Lysaker",
+      "finn_price_nok": 100,
+      "parsed": {
+        "card_name": "Stort vintage salg av Rare",
+        "card_number": null,
+        "set_hint": "Fastpris",
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "Stort vintage salg av Rare",
+        "Fastpris"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Stort+vintage+salg+av+Rare&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [
+      {
+        "name": "Venusaur",
+        "count": 1,
+        "variants": [],
+        "line_index": 41,
+        "query": "Venusaur Base Set",
+        "queries": [
+          "Venusaur Base Set",
+          "Venusaur"
+        ],
+        "pk_id": "pk_eca357c108892d463afc353ddf38efed49459a1848247625f0ae54e557ea823532aa42a6a55b6669eb17399c",
+        "pk_name": "Venusaur",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "018/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 114.79,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1228,
+        "market_value_nok": 1228,
+        "priced": true
+      },
+      {
+        "name": "Steelix",
+        "count": 1,
+        "variants": [],
+        "line_index": 43,
+        "query": "Steelix Base Set",
+        "queries": [
+          "Steelix Base Set",
+          "Steelix"
+        ],
+        "pk_id": "pk_751158ab2c453b6ec0ce02032de365e355e27a4579a0617f0942248604fa60288977cbf23a1dc159ee7d89241bb6",
+        "pk_name": "Shining Steelix",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "112/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 562.5,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 6019,
+        "market_value_nok": 6019,
+        "priced": true
+      },
+      {
+        "name": "Dragonite",
+        "count": 1,
+        "variants": [],
+        "line_index": 45,
+        "query": "Dragonite Base Set",
+        "queries": [
+          "Dragonite Base Set",
+          "Dragonite"
+        ],
+        "pk_id": "pk_9a59e31180f1f335361e2a786a5bdf3e33ae1c37f096a0ec7891d9128bc8024476495026a2440c19eba2b545b529",
+        "pk_name": "Dragonite",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": "96/149",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 3.83,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 41,
+        "market_value_nok": 41,
+        "priced": true
+      },
+      {
+        "name": "Charmander",
+        "count": 1,
+        "variants": [],
+        "line_index": 47,
+        "query": "Charmander Base Set",
+        "queries": [
+          "Charmander Base Set",
+          "Charmander"
+        ],
+        "pk_id": "pk_3bf1618e2dd102f9bed90065dec525c07e0b93d05c36dbe30b110bcab2eb3d7c997bbe84b3c01e806229dd9c",
+        "pk_name": "Charmander",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "069/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1.71,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 18,
+        "market_value_nok": 18,
+        "priced": true
+      },
+      {
+        "name": "Squirtle",
+        "count": 1,
+        "variants": [],
+        "line_index": 49,
+        "query": "Squirtle Base Set",
+        "queries": [
+          "Squirtle Base Set",
+          "Squirtle"
+        ],
+        "pk_id": "pk_7157188f4236d3146ec50ed507c6ef4f90e1ce253cd50f0eb350410fb657968180d98aedc2a135f62b53de87",
+        "pk_name": "Squirtle",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "093/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1.96,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 21,
+        "market_value_nok": 21,
+        "priced": true
+      },
+      {
+        "name": "Minum",
+        "count": 1,
+        "variants": [],
+        "line_index": 51,
+        "query": "Minum Base Set",
+        "queries": [
+          "Minum Base Set",
+          "Minum"
+        ],
+        "pk_id": null,
+        "pk_name": null,
+        "pk_set_name": null,
+        "pk_card_number": null,
+        "score": null,
+        "confidence": "none",
+        "flags": [],
+        "price_native": null,
+        "price_currency": null,
+        "price_source": null,
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Bulbasaur",
+        "count": 1,
+        "variants": [],
+        "line_index": 53,
+        "query": "Bulbasaur Base Set",
+        "queries": [
+          "Bulbasaur Base Set",
+          "Bulbasaur"
+        ],
+        "pk_id": "pk_605f8db96c1fda719dceaf902b2f0812aa2dc3ddfe436791ac31321f2fc568faf42836c4a09627bca48346b1",
+        "pk_name": "Bulbasaur",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "067/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 4.67,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 50,
+        "market_value_nok": 50,
+        "priced": true
+      },
+      {
+        "name": "Venusaur",
+        "count": 1,
+        "variants": [],
+        "line_index": 55,
+        "query": "Venusaur Base Set",
+        "queries": [
+          "Venusaur Base Set",
+          "Venusaur"
+        ],
+        "pk_id": "pk_eca357c108892d463afc353ddf38efed49459a1848247625f0ae54e557ea823532aa42a6a55b6669eb17399c",
+        "pk_name": "Venusaur",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "018/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 114.79,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1228,
+        "market_value_nok": 1228,
+        "priced": true
+      },
+      {
+        "name": "Charizard",
+        "count": 1,
+        "variants": [],
+        "line_index": 57,
+        "query": "Charizard Base Set",
+        "queries": [
+          "Charizard Base Set",
+          "Charizard"
+        ],
+        "pk_id": "pk_dee28b8828ecc4a21d61450954f9efd46b544eae6bd0e53e80eb6de41a3c60e26837316d59c4c27b180741",
+        "pk_name": "Charizard",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "004/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 460.39,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 4926,
+        "market_value_nok": 4926,
+        "priced": true
+      },
+      {
+        "name": "Blastoise",
+        "count": 1,
+        "variants": [],
+        "line_index": 59,
+        "query": "Blastoise Base Set",
+        "queries": [
+          "Blastoise Base Set",
+          "Blastoise"
+        ],
+        "pk_id": "pk_a8236aa31dcb82ad6adb1a42c67e8ccb6a10a545185fffd2f51735f18dab5b9ebb1ecfce116e83345536f6",
+        "pk_name": "Blastoise",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "002/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 154.64,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1655,
+        "market_value_nok": 1655,
+        "priced": true
+      },
+      {
+        "name": "Hitmonchan",
+        "count": 1,
+        "variants": [],
+        "line_index": 61,
+        "query": "Hitmonchan Base Set",
+        "queries": [
+          "Hitmonchan Base Set",
+          "Hitmonchan"
+        ],
+        "pk_id": "pk_84554bab5ec00ca5accb68494d04def6a6789963346c27835e1c6036d9d5c1951459766bbd9bd038862b00",
+        "pk_name": "Hitmonchan",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "008/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 25.47,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 273,
+        "market_value_nok": 273,
+        "priced": true
+      },
+      {
+        "name": "Gyarados",
+        "count": 1,
+        "variants": [],
+        "line_index": 63,
+        "query": "Gyarados Base Set",
+        "queries": [
+          "Gyarados Base Set",
+          "Gyarados"
+        ],
+        "pk_id": "pk_d3c7ab1c30c82ede1d783197a32a47cd1ee4e62a4492447e36f1bbe57c760879c04baa66e610ec119b66bf",
+        "pk_name": "Gyarados",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "007/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 45.93,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 491,
+        "market_value_nok": 491,
+        "priced": true
+      },
+      {
+        "name": "Vaporeon",
+        "count": 1,
+        "variants": [],
+        "line_index": 65,
+        "query": "Vaporeon Base Set",
+        "queries": [
+          "Vaporeon Base Set",
+          "Vaporeon"
+        ],
+        "pk_id": "pk_bb25847a106107f1347bab111cc1f7495396e3ce1d727bd7984c230207c1f4daf79e946ee2c9f374c8ed9e31be",
+        "pk_name": "Light Vaporeon",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "052/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 84.87,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 908,
+        "market_value_nok": 908,
+        "priced": true
+      },
+      {
+        "name": "Mew",
+        "count": 1,
+        "variants": [],
+        "line_index": 67,
+        "query": "Mew Base Set",
+        "queries": [
+          "Mew Base Set",
+          "Mew"
+        ],
+        "pk_id": "pk_1b7e570e10be97b3432489762909c6b4fae75deb5d4a62171c9e8f0e53cf5461ca105224c1b670a5d5bad4ca",
+        "pk_name": "Mewtwo",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "010/130",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 109.16,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1168,
+        "market_value_nok": 1168,
+        "priced": true
+      },
+      {
+        "name": "MewTwo",
+        "count": 1,
+        "variants": [],
+        "line_index": 69,
+        "query": "MewTwo Base Set",
+        "queries": [
+          "MewTwo Base Set",
+          "MewTwo"
+        ],
+        "pk_id": "pk_1b7e570e10be97b3432489762909c6b4fae75deb5d4a62171c9e8f0e53cf5461ca105224c1b670a5d5bad4ca",
+        "pk_name": "Mewtwo",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "010/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 109.16,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1168,
+        "market_value_nok": 1168,
+        "priced": true
+      },
+      {
+        "name": "Growlithe",
+        "count": 1,
+        "variants": [],
+        "line_index": 71,
+        "query": "Growlithe Base Set",
+        "queries": [
+          "Growlithe Base Set",
+          "Growlithe"
+        ],
+        "pk_id": "pk_e19acb9b653c648a150b41ffa8b5bc5fd1ea6fb60b5d283c19507835a4ac85f63d724d624a3b32654df2ec78",
+        "pk_name": "Growlithe",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "042/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1.62,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 17,
+        "market_value_nok": 17,
+        "priced": true
+      },
+      {
+        "name": "Electrode",
+        "count": 1,
+        "variants": [],
+        "line_index": 73,
+        "query": "Electrode Base Set",
+        "queries": [
+          "Electrode Base Set",
+          "Electrode"
+        ],
+        "pk_id": "pk_e0dda9c7b8f4d7841d1f57dd69fb5cbb220d0a694a0bf07df348b762216f41bc60eda5e8399d733c98fe7657",
+        "pk_name": "Electrode",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "025/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 8.76,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 94,
+        "market_value_nok": 94,
+        "priced": true
+      },
+      {
+        "name": "Haunter",
+        "count": 1,
+        "variants": [],
+        "line_index": 75,
+        "query": "Haunter Base Set",
+        "queries": [
+          "Haunter Base Set",
+          "Haunter"
+        ],
+        "pk_id": "pk_a737311d1814505da68220aa4e1a52ef0e45e7ed2b362d182332de978a9954f04f53ba903f79f259bb727ced",
+        "pk_name": "Haunter",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "043/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1.44,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 15,
+        "market_value_nok": 15,
+        "priced": true
+      },
+      {
+        "name": "Gastly",
+        "count": 1,
+        "variants": [],
+        "line_index": 77,
+        "query": "Gastly Base Set",
+        "queries": [
+          "Gastly Base Set",
+          "Gastly"
+        ],
+        "pk_id": "pk_6a04e8a6993bd32bb5cf996401b493fc91b60458b15e39c000d7abe3f573da6d7b1bf412ec6c1e4699bbd85d",
+        "pk_name": "Gastly",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "075/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.82,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 9,
+        "market_value_nok": 9,
+        "priced": true
+      },
+      {
+        "name": "Gengar",
+        "count": 1,
+        "variants": [],
+        "line_index": 79,
+        "query": "Gengar Base Set",
+        "queries": [
+          "Gengar Base Set",
+          "Gengar"
+        ],
+        "pk_id": "pk_401583fee61edc39b2998fa538649d142c6e0cf2b66ce3fef345a7af1e7a49682f1e8be7b9ac8e2e8158667d2674",
+        "pk_name": "Gengar",
+        "pk_set_name": "SWSH01: Sword & Shield Base Set",
+        "pk_card_number": "085/202",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 7.48,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 80,
+        "market_value_nok": 80,
+        "priced": true
+      },
+      {
+        "name": "Misty",
+        "count": 1,
+        "variants": [],
+        "line_index": 81,
+        "query": "Misty Base Set",
+        "queries": [
+          "Misty Base Set",
+          "Misty"
+        ],
+        "pk_id": "pk_6fcfcb9e5dbbd44f841d3a7db8157c04223427c213a54b68fa9791721b3cf4bad5123c4bf569ba9e5ba2f0b43c",
+        "pk_name": "Misty (18)",
+        "pk_set_name": "Gym Heroes",
+        "pk_card_number": "018/132",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 178.11,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1906,
+        "market_value_nok": 1906,
+        "priced": true
+      },
+      {
+        "name": "Brock",
+        "count": 1,
+        "variants": [],
+        "line_index": 83,
+        "query": "Brock Base Set",
+        "queries": [
+          "Brock Base Set",
+          "Brock"
+        ],
+        "pk_id": "pk_995c29c416c61a9c0755bc1471208cab84404420323736078469ffda261b62cf0bc223cffe56b4338361c5f811",
+        "pk_name": "Brock (15)",
+        "pk_set_name": "Gym Heroes",
+        "pk_card_number": "015/132",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 95.65,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1023,
+        "market_value_nok": 1023,
+        "priced": true
+      },
+      {
+        "name": "Cloyster",
+        "count": 1,
+        "variants": [],
+        "line_index": 85,
+        "query": "Cloyster Base Set",
+        "queries": [
+          "Cloyster Base Set",
+          "Cloyster"
+        ],
+        "pk_id": "pk_db050340556df8030a57e85c019184374fc13ca31ea79dfe172f85afe5b5c80aca55d98bb241ca4e9f0e80850cde",
+        "pk_name": "Cloyster",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": "34/149",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.11,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1,
+        "market_value_nok": 1,
+        "priced": true
+      },
+      {
+        "name": "Igglybuff",
+        "count": 1,
+        "variants": [],
+        "line_index": 87,
+        "query": "Igglybuff Base Set",
+        "queries": [
+          "Igglybuff Base Set",
+          "Igglybuff"
+        ],
+        "pk_id": "pk_00e5c18060d5d0de26e57b1e3662f2566bf72d6193c96b655cd69b033cc21d404fd07291b8d2594733019e4685",
+        "pk_name": "Igglybuff",
+        "pk_set_name": "Crystal Guardians",
+        "pk_card_number": "21/100",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 7.19,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Cleffa",
+        "count": 1,
+        "variants": [],
+        "line_index": 89,
+        "query": "Cleffa Base Set",
+        "queries": [
+          "Cleffa Base Set",
+          "Cleffa"
+        ],
+        "pk_id": "pk_51bcdd8945c3a1791738089426ad0cb118c4ac43e9be58ce6b372a25c50e33d96d3afe9f3ee0d20bfd60ee38",
+        "pk_name": "Cleffa",
+        "pk_set_name": "Call of Legends",
+        "pk_card_number": "24/95",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 7.92,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Meowth",
+        "count": 1,
+        "variants": [],
+        "line_index": 91,
+        "query": "Meowth Base Set",
+        "queries": [
+          "Meowth Base Set",
+          "Meowth"
+        ],
+        "pk_id": "pk_058219429b3b4a75aff027ab21ff91488e48ee3cb51596b72021ca16d73ce60435e0b870ef9f45c573fb223f",
+        "pk_name": "Meowth",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "080/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.98,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 10,
+        "market_value_nok": 10,
+        "priced": true
+      },
+      {
+        "name": "Marill",
+        "count": 1,
+        "variants": [],
+        "line_index": 93,
+        "query": "Marill Base Set",
+        "queries": [
+          "Marill Base Set",
+          "Marill"
+        ],
+        "pk_id": "pk_dd5ba6abd6964ddd9f50ba72a01f397a99f6f7c5d7d0138fef32c118c4d24d7a4daccdf597661582f2634e05b9",
+        "pk_name": "Light Azumarill",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "013/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 62.49,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 669,
+        "market_value_nok": 669,
+        "priced": true
+      },
+      {
+        "name": "Kabutops",
+        "count": 1,
+        "variants": [],
+        "line_index": 95,
+        "query": "Kabutops Base Set",
+        "queries": [
+          "Kabutops Base Set",
+          "Kabutops"
+        ],
+        "pk_id": "pk_7e98788f1118e2b4d1d54a4d643dda0da3082c8446b5dbc4cbf4da3109b61ae565004d225f70d4f7e31e44120fab",
+        "pk_name": "Shining Kabutops",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "108/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1399.95,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 14979,
+        "market_value_nok": 14979,
+        "priced": true
+      },
+      {
+        "name": "Psyduck",
+        "count": 1,
+        "variants": [],
+        "line_index": 97,
+        "query": "Psyduck Base Set",
+        "queries": [
+          "Psyduck Base Set",
+          "Psyduck"
+        ],
+        "pk_id": "pk_820905f6cb2c5771f3e5189a19e5993c26bb5faf8b8deb5eefa454b505840613280d2d5dbaf0705f2fd1c64f4f2d",
+        "pk_name": "Psyduck",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": "28/149",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.87,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 9,
+        "market_value_nok": 9,
+        "priced": true
+      },
+      {
+        "name": "Electrode",
+        "count": 1,
+        "variants": [],
+        "line_index": 99,
+        "query": "Electrode Base Set",
+        "queries": [
+          "Electrode Base Set",
+          "Electrode"
+        ],
+        "pk_id": "pk_e0dda9c7b8f4d7841d1f57dd69fb5cbb220d0a694a0bf07df348b762216f41bc60eda5e8399d733c98fe7657",
+        "pk_name": "Electrode",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "025/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 8.76,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 94,
+        "market_value_nok": 94,
+        "priced": true
+      },
+      {
+        "name": "Darkness Energy",
+        "count": 1,
+        "variants": [],
+        "line_index": 101,
+        "query": "Darkness Energy Base Set",
+        "queries": [
+          "Darkness Energy Base Set",
+          "Darkness Energy"
+        ],
+        "pk_id": "pk_79c318b77380e74bb46987e7c8f360bcb9fc2eee4f7d7741c14e2a828f59c7fe2cbaa7a3910fcc98e2",
+        "pk_name": "Darkness Energy (2017 Unnumbered)",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": null,
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.16,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "unit_market_value_nok": 2,
+        "market_value_nok": 2,
+        "priced": true
+      },
+      {
+        "name": "Misdreavus",
+        "count": 1,
+        "variants": [],
+        "line_index": 103,
+        "query": "Misdreavus Base Set",
+        "queries": [
+          "Misdreavus Base Set",
+          "Misdreavus"
+        ],
+        "pk_id": "pk_cac45041f41b21766a7e2639f2cc74ca7d52f03342631515d0bbe7cc3ba31c6527060fbfc06d149b2eb47ff2",
+        "pk_name": "Misdreavus",
+        "pk_set_name": "Neo Revelation",
+        "pk_card_number": "11/64",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 229.99,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 2461,
+        "market_value_nok": 2461,
+        "priced": true
+      },
+      {
+        "name": "Arcanine",
+        "count": 1,
+        "variants": [],
+        "line_index": 105,
+        "query": "Arcanine Base Set",
+        "queries": [
+          "Arcanine Base Set",
+          "Arcanine"
+        ],
+        "pk_id": "pk_a2942ce092d7111c44d2a15817cbabc080d0f3f8e4f586d2babf0ebe6150c05a75ecc139a747b6dcc035386c",
+        "pk_name": "Arcanine",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "033/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 1.89,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 20,
+        "market_value_nok": 20,
+        "priced": true
+      },
+      {
+        "name": "Poliwrath",
+        "count": 1,
+        "variants": [],
+        "line_index": 107,
+        "query": "Poliwrath Base Set",
+        "queries": [
+          "Poliwrath Base Set",
+          "Poliwrath"
+        ],
+        "pk_id": "pk_cc030d0fc88ca7e5bfff1af3fc58abc0c5232590b0991e0ea50214d26f6b5e610fcf047637eb39625ff3cff5",
+        "pk_name": "Poliwrath",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "015/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 21.37,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 229,
+        "market_value_nok": 229,
+        "priced": true
+      },
+      {
+        "name": "Jolteon",
+        "count": 1,
+        "variants": [],
+        "line_index": 109,
+        "query": "Jolteon Base Set",
+        "queries": [
+          "Jolteon Base Set",
+          "Jolteon"
+        ],
+        "pk_id": "pk_6855628db1157eb31b766aa0a82458cb288d1db1aedd1fbea66ee332c1c0467861816e53fd1c426059844d21ea",
+        "pk_name": "Lt. Surge's Jolteon",
+        "pk_set_name": "Gym Challenge",
+        "pk_card_number": "028/132",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 47.67,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 510,
+        "market_value_nok": 510,
+        "priced": true
+      },
+      {
+        "name": "Flareon",
+        "count": 1,
+        "variants": [],
+        "line_index": 111,
+        "query": "Flareon Base Set",
+        "queries": [
+          "Flareon Base Set",
+          "Flareon"
+        ],
+        "pk_id": "pk_5ed25939ab808acbe5e161f94ebb00e29418feedcd2c2d2e39b508bb80eb138f347787810ce974d6f5bdcfdbf3",
+        "pk_name": "Flareon - SM186 (#27 Charizard Stamped)",
+        "pk_set_name": "Battle Academy",
+        "pk_card_number": "SM186",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 1.06,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Vaporeon",
+        "count": 1,
+        "variants": [],
+        "line_index": 113,
+        "query": "Vaporeon Base Set",
+        "queries": [
+          "Vaporeon Base Set",
+          "Vaporeon"
+        ],
+        "pk_id": "pk_bb25847a106107f1347bab111cc1f7495396e3ce1d727bd7984c230207c1f4daf79e946ee2c9f374c8ed9e31be",
+        "pk_name": "Light Vaporeon",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "052/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 84.87,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 908,
+        "market_value_nok": 908,
+        "priced": true
+      },
+      {
+        "name": "Clefairy",
+        "count": 1,
+        "variants": [],
+        "line_index": 115,
+        "query": "Clefairy Base Set",
+        "queries": [
+          "Clefairy Base Set",
+          "Clefairy"
+        ],
+        "pk_id": "pk_89b492f7ec670e3f049b574378cf0c52c12131af1182f7fc358ad667f56c3cafd55bd8b58c1919d59efaf4",
+        "pk_name": "Clefairy",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "006/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 26.62,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 285,
+        "market_value_nok": 285,
+        "priced": true
+      },
+      {
+        "name": "Chansey",
+        "count": 1,
+        "variants": [],
+        "line_index": 117,
+        "query": "Chansey Base Set",
+        "queries": [
+          "Chansey Base Set",
+          "Chansey"
+        ],
+        "pk_id": "pk_b815a613948e0ffd0d53b098c9524c604528db1d60eb05218cfb2058312b8daf023d1831c7cb8979bf33e3",
+        "pk_name": "Chansey",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "003/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 29.84,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 319,
+        "market_value_nok": 319,
+        "priced": true
+      },
+      {
+        "name": "Scyther",
+        "count": 1,
+        "variants": [],
+        "line_index": 119,
+        "query": "Scyther Base Set",
+        "queries": [
+          "Scyther Base Set",
+          "Scyther"
+        ],
+        "pk_id": "pk_2363192e3f5c6e09ce911e34e584743089330f7bd77aa6db078c7708928c2f8b03f4637844269cc38704ee05",
+        "pk_name": "Scyther",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "017/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 32.48,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 348,
+        "market_value_nok": 348,
+        "priced": true
+      },
+      {
+        "name": "Lapras",
+        "count": 1,
+        "variants": [],
+        "line_index": 121,
+        "query": "Lapras Base Set",
+        "queries": [
+          "Lapras Base Set",
+          "Lapras"
+        ],
+        "pk_id": "pk_8e8b4702f8629fe36db1aa55ad362dfc2be66b3a7d0b0e6467aa2c75359422961b4796f6c342394c96b296810016",
+        "pk_name": "Lapras",
+        "pk_set_name": "SWSH01: Sword & Shield Base Set",
+        "pk_card_number": "048/202",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.35,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 4,
+        "market_value_nok": 4,
+        "priced": true
+      },
+      {
+        "name": "Snorlax",
+        "count": 1,
+        "variants": [],
+        "line_index": 123,
+        "query": "Snorlax Base Set",
+        "queries": [
+          "Snorlax Base Set",
+          "Snorlax"
+        ],
+        "pk_id": "pk_bba56ad89c070b4153d00a4249144a9184f42410442ab13e96e28b7a4cdb6a81cc430f6efb9debbbefa28e79",
+        "pk_name": "Snorlax",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "030/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 30.94,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 331,
+        "market_value_nok": 331,
+        "priced": true
+      },
+      {
+        "name": "Clefable",
+        "count": 1,
+        "variants": [],
+        "line_index": 125,
+        "query": "Clefable Base Set",
+        "queries": [
+          "Clefable Base Set",
+          "Clefable"
+        ],
+        "pk_id": "pk_e277fafaeb21bd5f36546380cbf7958e7c9e848d3c6e7ce58ff7d5b00cf1c780c3ed9845b92425e1991fc1",
+        "pk_name": "Clefable",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "005/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 35.42,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 379,
+        "market_value_nok": 379,
+        "priced": true
+      },
+      {
+        "name": "Wigglytuff",
+        "count": 1,
+        "variants": [],
+        "line_index": 127,
+        "query": "Wigglytuff Base Set",
+        "queries": [
+          "Wigglytuff Base Set",
+          "Wigglytuff"
+        ],
+        "pk_id": "pk_82a1e04c0b96f7fcdd4cb165b0cf4050eedf83a73ca36b284f0288cd461636b69a221086aeab2281f5aadc26",
+        "pk_name": "Wigglytuff",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "019/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 24.4,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 261,
+        "market_value_nok": 261,
+        "priced": true
+      },
+      {
+        "name": "Politoed",
+        "count": 1,
+        "variants": [],
+        "line_index": 129,
+        "query": "Politoed Base Set",
+        "queries": [
+          "Politoed Base Set",
+          "Politoed"
+        ],
+        "pk_id": "pk_fe56f3b6bea8a68d6430f08a093ff178f0ad86d492816fc8cbf424ba0fe8cf0d8b0989521d5f7ce6d79714f8e8",
+        "pk_name": "Politoed - 7/95 (League Promo)",
+        "pk_set_name": "League & Championship Cards",
+        "pk_card_number": "007/095",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 36.67,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Kingdra",
+        "count": 1,
+        "variants": [],
+        "line_index": 131,
+        "query": "Kingdra Base Set",
+        "queries": [
+          "Kingdra Base Set",
+          "Kingdra"
+        ],
+        "pk_id": "pk_79acbe3761d5924d3559bc5d61d14d58ed664961d9109efd4031dfd7a657cd2e44e67b8e6c1c1b1df9",
+        "pk_name": "Kingdra EX Box",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": null,
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 199.99,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "unit_market_value_nok": 2140,
+        "market_value_nok": 2140,
+        "priced": true
+      },
+      {
+        "name": "Ditto",
+        "count": 1,
+        "variants": [],
+        "line_index": 133,
+        "query": "Ditto Base Set",
+        "queries": [
+          "Ditto Base Set",
+          "Ditto"
+        ],
+        "pk_id": "pk_11812b58129cdbfd64a07bac8605e9ba56d8504b70774a42456b4f311c2f58f51af83cc5c886cc5e6c822d8997",
+        "pk_name": "Koga's Ditto",
+        "pk_set_name": "Gym Challenge",
+        "pk_card_number": "010/132",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 100.0,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1070,
+        "market_value_nok": 1070,
+        "priced": true
+      },
+      {
+        "name": "Tyranitar",
+        "count": 1,
+        "variants": [],
+        "line_index": 135,
+        "query": "Tyranitar Base Set",
+        "queries": [
+          "Tyranitar Base Set",
+          "Tyranitar"
+        ],
+        "pk_id": "pk_b84a38af20728e25eba8bddc657aa0aa0544f153c80539b25f3d29fb73ac5f5fb9b3b42b262433cea8d72e5bfb5f",
+        "pk_name": "Tyranitar (H28)",
+        "pk_set_name": "Aquapolis",
+        "pk_card_number": "H28/H32",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 198.86,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Skarmory",
+        "count": 1,
+        "variants": [],
+        "line_index": 137,
+        "query": "Skarmory Base Set",
+        "queries": [
+          "Skarmory Base Set",
+          "Skarmory"
+        ],
+        "pk_id": "pk_b22f0995bda607ac24496849d203cf7910405e17bde00951e5d83d7ecb9809c15670c01350827cf1e7f037836e72",
+        "pk_name": "Skarmory",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": "88/149",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.17,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 2,
+        "market_value_nok": 2,
+        "priced": true
+      },
+      {
+        "name": "Magneton",
+        "count": 1,
+        "variants": [],
+        "line_index": 139,
+        "query": "Magneton Base Set",
+        "queries": [
+          "Magneton Base Set",
+          "Magneton"
+        ],
+        "pk_id": "pk_ad5aa181d1ee0159ff3adbcf6dc9e4d0cc9a86e0ac3687d1a60d34bb20b2c395fce9188325dea569523518",
+        "pk_name": "Magneton",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "009/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 26.89,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 288,
+        "market_value_nok": 288,
+        "priced": true
+      },
+      {
+        "name": "Machamp",
+        "count": 1,
+        "variants": [],
+        "line_index": 141,
+        "query": "Machamp Base Set",
+        "queries": [
+          "Machamp Base Set",
+          "Machamp"
+        ],
+        "pk_id": "pk_f5a1325378bf7376c2a83b5b243e0bb78de9de79bcb72f3e0862f95e65973502d5e685fa8d4c02a7fefb",
+        "pk_name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
+        "pk_set_name": "SV01: Scarlet & Violet Base Set",
+        "pk_card_number": null,
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 30.0,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "unit_market_value_nok": 321,
+        "market_value_nok": 321,
+        "priced": true
+      },
+      {
+        "name": "Ninetales",
+        "count": 1,
+        "variants": [],
+        "line_index": 143,
+        "query": "Ninetales Base Set",
+        "queries": [
+          "Ninetales Base Set",
+          "Ninetales"
+        ],
+        "pk_id": "pk_689903a0afb1198b22f1c65b8d751b9ea9a9eabf58ba1bac1959d68a865731dbca20071cf2664053c364cbd1",
+        "pk_name": "Ninetales",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "013/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 34.2,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 366,
+        "market_value_nok": 366,
+        "priced": true
+      },
+      {
+        "name": "Hitmonchan",
+        "count": 1,
+        "variants": [],
+        "line_index": 145,
+        "query": "Hitmonchan Base Set",
+        "queries": [
+          "Hitmonchan Base Set",
+          "Hitmonchan"
+        ],
+        "pk_id": "pk_84554bab5ec00ca5accb68494d04def6a6789963346c27835e1c6036d9d5c1951459766bbd9bd038862b00",
+        "pk_name": "Hitmonchan",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "008/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 25.47,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 273,
+        "market_value_nok": 273,
+        "priced": true
+      },
+      {
+        "name": "Zapdos",
+        "count": 1,
+        "variants": [],
+        "line_index": 147,
+        "query": "Zapdos Base Set",
+        "queries": [
+          "Zapdos Base Set",
+          "Zapdos"
+        ],
+        "pk_id": "pk_85cbd73a7f335eb0045ba0ca84161c7c31c40f53a2d8142a922f701659db75489352263018dc23d678654ae6",
+        "pk_name": "Zapdos",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "020/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 40.44,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 433,
+        "market_value_nok": 433,
+        "priced": true
+      },
+      {
+        "name": "Articuno",
+        "count": 1,
+        "variants": [],
+        "line_index": 149,
+        "query": "Articuno Base Set",
+        "queries": [
+          "Articuno Base Set",
+          "Articuno"
+        ],
+        "pk_id": "pk_a3554ae11df0ae6e8313770bfc9d55d36e2f6cd0d7c8e24fbbde6eb88f2105a304db2a409b9e0b1a48ebfda666e4",
+        "pk_name": "Articuno - 27/99 (Next Destinies)",
+        "pk_set_name": "Blister Exclusives",
+        "pk_card_number": "027/099",
+        "score": 45,
+        "confidence": "low",
+        "flags": [
+          "name_exact",
+          "has_price"
+        ],
+        "price_native": 10.43,
+        "price_currency": "USD",
+        "price_source": "tcgplayer",
+        "unit_market_value_nok": null,
+        "market_value_nok": null,
+        "priced": false
+      },
+      {
+        "name": "Nidoking",
+        "count": 1,
+        "variants": [],
+        "line_index": 151,
+        "query": "Nidoking Base Set",
+        "queries": [
+          "Nidoking Base Set",
+          "Nidoking"
+        ],
+        "pk_id": "pk_ecab40d9e7022853fa8739f4275cf62b3ae74be24709053bff9aa48b6b92c8c74643c050188e3b063b15cc9a",
+        "pk_name": "Nidoking",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "011/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 39.86,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 427,
+        "market_value_nok": 427,
+        "priced": true
+      },
+      {
+        "name": "Magnemite",
+        "count": 1,
+        "variants": [],
+        "line_index": 153,
+        "query": "Magnemite Base Set",
+        "queries": [
+          "Magnemite Base Set",
+          "Magnemite"
+        ],
+        "pk_id": "pk_44e746da1e364bf3bbc526fb5e6f6aed23ac73127c699903a2b9fc316f6d433c2dc30e5bca98489f7bb6a6f0",
+        "pk_name": "Magnemite",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "079/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 0.52,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 6,
+        "market_value_nok": 6,
+        "priced": true
+      }
+    ],
+    "card_coverage": {
+      "total": 57,
+      "considered": 57,
+      "priced": 50,
+      "unpriced": 7
+    },
+    "partial_card_coverage": true,
+    "deal": {
+      "market_value_nok": 49483,
+      "asking_price_nok": 100,
+      "delta_nok": -49383,
+      "ratio": 494.83,
+      "basis": "card_list_sum"
+    },
+    "calls_spent": 43,
+    "cache_hit": true,
+    "flags": [
+      "card list only partially priced (50/57)"
+    ],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  },
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-08T04:48:56Z",
+    "finn_kode": "477798898",
+    "url": null,
+    "heading": "Pokemon Gold Star Entei BGS 8.5",
+    "finn_price_nok": 40000,
+    "identify": {
+      "intent_rank": 2,
+      "intent": "named-card",
+      "matched_set_names": [],
+      "matched_card_names": [
+        "Gengar",
+        "Lugia",
+        "Mew",
+        "Mewtwo",
+        "Pikachu"
+      ]
+    },
+    "set_hints": [],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-08T04:48:56Z",
+      "finn_kode": "477798898",
+      "url": null,
+      "heading": "Pokemon Gold Star Entei BGS 8.5",
+      "status": "Solgt",
+      "location": "0650 Oslo",
+      "finn_price_nok": 40000,
+      "parsed": {
+        "card_name": "Gold Star Entei BGS 8.5",
+        "card_number": null,
+        "set_hint": null,
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "Gold Star Entei BGS 8.5"
+      ],
+      "calls_spent": 1,
+      "cache_hit": false,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Gold+Star+Entei+BGS+8.5&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": 40000,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 1,
+    "cache_hit": false,
+    "flags": [],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  }
+]

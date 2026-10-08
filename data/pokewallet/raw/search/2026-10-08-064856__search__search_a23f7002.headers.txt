@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Gold+Star+Entei+BGS+8.5&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:57 GMT
+Content-Type: application/json
+Content-Length: 211
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 827
+X-RateLimit-Remaining-Hour: 5
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bFRIKopxn5Z2dbSkjm8s5CMgUAot9hGzMOFRgHs7AFPVB29TbM0mq%2BHaVYn3Q3lj3b1jea3MkRp44SoQJa7Ziire6YbiscYHliMCpCSWjiXYJ6%2BNBmE0yF8j%2Bp%2FgIOqTrtT6IuN%2BL1bMIlsgJaB8Wg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47284222a5ab4fa-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,211 @@
+{
+  "query": "Zapdos Base Set",
+  "results": [
+    {
+      "id": "pk_85cbd73a7f335eb0045ba0ca84161c7c31c40f53a2d8142a922f701659db75489352263018dc23d678654ae6",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "020/130",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.32,
+            "mid_price": 41.2,
+            "high_price": 298.9,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 40.44,
+            "direct_low_price": 279.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42465"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": 38.3,
+            "low": 7,
+            "avg1": 17.45,
+            "avg7": 30.14,
+            "avg30": 29.61,
+            "trend": 36.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 24.99,
+            "avg7": 33.06,
+            "avg30": 21.51,
+            "trend": 37.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Zapdos-B220"
+      }
+    },
+    {
+      "id": "pk_25462c64c5dc2f50b22988cdf873b1cfe85cfc0ecc2119f0c73eb9eb341281c459f21bd38b16d19bad1f7bf3a644",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "016/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 359.99,
+            "mid_price": 502.5,
+            "high_price": 645,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 304.85,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 299.99,
+            "mid_price": 300,
+            "high_price": 1516.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 136.74,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107011"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_81fe1f2e7ff04ab4a55829ad185761e2ea916ff56194530973988e9a47a2512b6aa903f1a8be08f4c1d5ad6d",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "016/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.99,
+            "mid_price": 38,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 45.35,
+            "direct_low_price": 99.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42356"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.17,
+            "avg7": 21.35,
+            "avg30": 21.65,
+            "trend": 16.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 41.37,
+            "low": 4,
+            "avg1": 21.37,
+            "avg7": 34.38,
+            "avg30": 40.93,
+            "trend": 32.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Zapdos-V1-BS16"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 2,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "query": "Machamp Base Set",
+  "results": [
+    {
+      "id": "pk_221f8f359985291e1467ced22aa1869f90bdaeb532c49d5d87cccea6997f58c51a2987e5b5b3dc4065c076050c",
+      "card_info": {
+        "name": "Machamp - 8/102 (Base Set Shadowless)",
+        "clean_name": "Machamp 8 102 Base Set Shadowless",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "008/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Strikes Back</strong> Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+        "attacks": [
+          "[1FFF] Seismic Toss (60)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 66,
+            "mid_price": 200,
+            "high_price": 798.3,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 92.51,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107004"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f5a1325378bf7376c2a83b5b243e0bb78de9de79bcb72f3e0862f95e65973502d5e685fa8d4c02a7fefb",
+      "card_info": {
+        "name": "Scarlet & Violet Premium Checklane Blister [Machamp]",
+        "clean_name": "Scarlet and Violet Premium Checklane Blister Machamp",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Begin a New Adventure with Pokémon ex!\r\n<br>\r\nSet out for a journey in the Paldea region! Meet first partners Sprigatito, Fuecoco, and Quaxly, and explore the power of the Legendary Pokémon Koraidon and Miraidon as Pokémon ex. Other Pokémon ex evolve their way into battle—including Arcanine and Gyarados with a dazzling new look. Even more Pokémon appear as illustration rare cards with amazing artwork—discover them all in the Pokémon TCG: Scarlet & Violet expansion!<br><br>\r\n\r\nContains 1 Scarlet & Violet booster pack, a TCGO Code, Coin and 3 cards with an evolution line.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 30,
+            "high_price": 30,
+            "updated_at": "2026-10-07T11:54:56.040749",
+            "market_price": 30,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479330"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 0,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "query": "Nidoking Base Set",
+  "results": [
+    {
+      "id": "pk_ecab40d9e7022853fa8739f4275cf62b3ae74be24709053bff9aa48b6b92c8c74643c050188e3b063b15cc9a",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "011/130",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.4,
+            "mid_price": 39.93,
+            "high_price": 151.3,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 39.86,
+            "direct_low_price": 39.86,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42448"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 28.52,
+            "low": 6.98,
+            "avg1": 21.89,
+            "avg7": 31.39,
+            "avg30": 24.7,
+            "trend": 29.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.65,
+            "avg7": 14.63,
+            "avg30": 16.93,
+            "trend": 15.06,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Nidoking-B211"
+      }
+    },
+    {
+      "id": "pk_e1894856c036efb023442775109cb661b39ece781da14b87e1683fc00aadef9ebd7fe7b46570410a4cbef58fa4e6",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "011/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.97,
+            "mid_price": 3299,
+            "high_price": 3599.78,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 349.98,
+            "direct_low_price": 3599.78,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 180,
+            "high_price": 1504.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 168.49,
+            "direct_low_price": 119.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107006"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c1094145b4b59695b48150215fe3b8bf7aa1323f7f0fe22969546e322ed31fe73ba17c5060b314b4ce519f58",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "011/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.07,
+            "mid_price": 34.5,
+            "high_price": 388.88,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 38.56,
+            "direct_low_price": 90,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42351"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.06,
+            "avg7": 13.59,
+            "avg30": 20.54,
+            "trend": 26.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 38.12,
+            "low": 4,
+            "avg1": 65.15,
+            "avg7": 55.22,
+            "avg30": 41.69,
+            "trend": 48.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidoking-V1-BS11"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 2,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

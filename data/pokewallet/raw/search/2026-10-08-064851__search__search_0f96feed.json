@@ -1,0 +1,1310 @@
+{
+  "query": "Articuno",
+  "results": [
+    {
+      "id": "pk_a3554ae11df0ae6e8313770bfc9d55d36e2f6cd0d7c8e24fbbde6eb88f2105a304db2a409b9e0b1a48ebfda666e4",
+      "card_info": {
+        "name": "Articuno - 27/99 (Next Destinies)",
+        "clean_name": "Articuno 27 99 Next Destinies",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "027/099",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2W] Ice Beam (50)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[3W] Ice Wing (80)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.75,
+            "mid_price": 12.06,
+            "high_price": 1859.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 10.43,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/147237"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_aafb0476b1efa0847f8e57fadfb3af1ea37e78fbc1803163c909fec64ffb587910fa9abc3c1f9c4cce0b8c76e26e",
+      "card_info": {
+        "name": "Articuno - 16/108 (XY Roaring Skies)",
+        "clean_name": "Articuno 16 108 XY Roaring Skies",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "016/108",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Find Ice\r\n<br>\r\nSearch your deck for up to 3 Water Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "[2WW] Freezing Wind (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.18,
+            "mid_price": 3.34,
+            "high_price": 50,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 7.52,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131315"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_91da0b18dc1a0c4fa72565695720f3d89ac9a7a845a4ac9addd8f90d2b7cb33f90fcc60cc5799a0bcba2204d7b18",
+      "card_info": {
+        "name": "Galarian Articuno - 063/203",
+        "clean_name": "Galarian Articuno",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "063/203",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Cruel Charge</strong>\r\n<br>When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Psychic Energy cards from your hand to this Pokémon.",
+        "attacks": [
+          "[1PP] Psylaser\r\n<br>Discard all Psychic Energy from this Pokemon. This attack does 120 damage to 1 of your opponent's Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.44,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.44,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/281096"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3e0b5fae313daac8bc0b393875341198854bf0184f2be88ec8f7baf9a90da440721be777ae0fe445f5579a3d437f",
+      "card_info": {
+        "name": "Articuno ex",
+        "clean_name": "Articuno ex",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "114/112",
+        "rarity": "Secret Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Legendary Ascent \r<br>\n<br>Once during your turn, when you put Articuno ex from your hand onto your Bench, you may switch 1 of your Active Pokemon with Articuno ex.  If you do, you may also move any number of basic Water Energy cards attached to your Pokemon to Articuno ex.",
+        "attacks": [
+          "[1WW] Cold Crush (50) \r\n<br>You may discard an Energy card attached to Articuno ex.  If you do, your opponent discards an Energy card attached to the Defending Pokemon."
+        ],
+        "weakness": "M",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 171.94,
+            "mid_price": 224.99,
+            "high_price": 399.97,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 199.06,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83654"
+      },
+      "cardmarket": {
+        "product_name": "Articuno ex",
+        "prices": [
+          {
+            "avg": 153.17,
+            "low": 28.95,
+            "avg1": 60,
+            "avg7": 157.81,
+            "avg30": 103.41,
+            "trend": 164.05,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12.99,
+            "avg7": 28.28,
+            "avg30": 28.33,
+            "trend": 35.05,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Articuno-ex-FL114"
+      }
+    },
+    {
+      "id": "pk_e21d92c6d1f20faacb496a681c6734a1c8271091ffd89c0f44ea8f037214257bec5894811249efab588623",
+      "card_info": {
+        "name": "Articuno (17)",
+        "clean_name": "Articuno 17",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "17/62",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Freeze Dry (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[WWWW] Blizzard (50)\r\n<br>Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19,
+            "mid_price": 24.99,
+            "high_price": 203.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 34.71,
+            "direct_low_price": 99.97,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.79,
+            "mid_price": 8.29,
+            "high_price": 79.49,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 9.78,
+            "direct_low_price": 19.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44425"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": 14.19,
+            "low": 2,
+            "avg1": 9.73,
+            "avg7": 16.62,
+            "avg30": 13.41,
+            "trend": 14.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 24.28,
+            "avg30": 27.05,
+            "trend": 30.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Articuno-V2-FO17"
+      }
+    },
+    {
+      "id": "pk_645d4efa4ffbf0b7818938a246770bfba893635aafec0231fd87994b0b3b40b2de8902e6b86a9270e95915",
+      "card_info": {
+        "name": "Articuno (2)",
+        "clean_name": "Articuno 2",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "02/62",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Freeze Dry (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[WWWW] Blizzard (50)\r\n<br>Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 142.25,
+            "mid_price": 193.7,
+            "high_price": 1949.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 202.32,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 36,
+            "mid_price": 56.02,
+            "high_price": 305.73,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 81.41,
+            "direct_low_price": 298.18,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106518"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 20,
+            "avg7": 28.45,
+            "avg30": 25.68,
+            "trend": 24.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 64.51,
+            "low": 8,
+            "avg1": 26.26,
+            "avg7": 60.36,
+            "avg30": 65.53,
+            "trend": 52.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Articuno-V1-FO2"
+      }
+    },
+    {
+      "id": "pk_a9691f64ad21d163dfa6286a70bb6f502f430151f1d62cd232a9147e2b8c0202730b52b699943d71b650f8a35f",
+      "card_info": {
+        "name": "Articuno",
+        "clean_name": "Articuno",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "25/83",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Find Ice\r\n<br>Search your deck for up to 3 Water Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "[2WW] Freezing Wind (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.99,
+            "mid_price": 39.68,
+            "high_price": 432.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 40.17,
+            "direct_low_price": 21,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113683"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": null,
+            "low": 20,
+            "avg1": 13,
+            "avg7": 17.11,
+            "avg30": 13.19,
+            "trend": 15.14,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 34.16,
+            "low": 9.9,
+            "avg1": 34.99,
+            "avg7": 34.24,
+            "avg30": 31.4,
+            "trend": 33.51,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Articuno-GEN25"
+      }
+    },
+    {
+      "id": "pk_ef57c2c6599e3f7039fa5c47fda9a4b63053272bc0d00a499cc83a2a212a294c1743a4657e8ab859bd5c685627",
+      "card_info": {
+        "name": "Moltres & Zapdos & Articuno GX",
+        "clean_name": "Moltres and Zapdos and Articuno GX",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "44/68",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1RWL] Trinity Burn (210)",
+          "<span style=\"color:Teal\"><strong>[1+] Sky Legends GX</strong>\r\n<br>Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it <em>(in addition to this attack's cost)</em>, this attack does 110 damage to 3 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.) </em> <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.7,
+            "mid_price": 57.78,
+            "high_price": 317.81,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 49.28,
+            "direct_low_price": 52.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197688"
+      },
+      "cardmarket": {
+        "product_name": "Moltres & Zapdos & Articuno GX",
+        "prices": [
+          {
+            "avg": 50.9,
+            "low": 20,
+            "avg1": 77.24,
+            "avg7": 53.56,
+            "avg30": 53.63,
+            "trend": 47.52,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.75,
+            "avg7": 5.93,
+            "avg30": 6.28,
+            "trend": 6.03,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V1-HIF44"
+      }
+    },
+    {
+      "id": "pk_9743f52a212d524e46a1f2baf9dc0816c2a342d529b4e2897236ed012ebcc49de8c06b357f9d111310b1ebc489",
+      "card_info": {
+        "name": "Moltres & Zapdos & Articuno GX (Full Art)",
+        "clean_name": "Moltres and Zapdos and Articuno GX Full Art",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "66/68",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1RWL] Trinity Burn (210)",
+          "<span style=\"color:Teal\"><strong>[1+] Sky Legends GX</strong>\r\n<br>Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it <em>(in addition to this attack's cost)</em>, this attack does 110 damage to 3 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.) </em> <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.96,
+            "mid_price": 49.99,
+            "high_price": 680.2,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 46.61,
+            "direct_low_price": 49.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197726"
+      },
+      "cardmarket": {
+        "product_name": "Moltres & Zapdos & Articuno GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.29,
+            "avg7": 7.41,
+            "avg30": 8,
+            "trend": 7.4,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 31.77,
+            "low": 13.99,
+            "avg1": 26.25,
+            "avg7": 34.71,
+            "avg30": 30.8,
+            "trend": 34.63,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V2-HIF66"
+      }
+    },
+    {
+      "id": "pk_ac4454a41c635d5078661c580f26661fdc2a685671040c65679b4a171734058c93dbda12fe5f57a0698f71fce7",
+      "card_info": {
+        "name": "Moltres & Zapdos & Articuno GX (Secret)",
+        "clean_name": "Moltres and Zapdos and Articuno GX Secret",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "69/68",
+        "rarity": "Secret Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1RWL] Trinity Burn (210)",
+          "<span style=\"color:Teal\"><strong>[1+] Sky Legends GX</strong>\r\n<br>Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it <em>(in addition to this attack's cost)</em>, this attack does 110 damage to 3 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.) </em> <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 42,
+            "mid_price": 49.36,
+            "high_price": 682.5,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 47.01,
+            "direct_low_price": 46.07,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197728"
+      },
+      "cardmarket": {
+        "product_name": "Moltres & Zapdos & Articuno GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.94,
+            "avg7": 14.53,
+            "avg30": 14.69,
+            "trend": 13.2,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 31,
+            "low": 9.98,
+            "avg1": 86.5,
+            "avg7": 52.6,
+            "avg30": 32,
+            "trend": 42.54,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V3-HIF69"
+      }
+    },
+    {
+      "id": "pk_9d0f8c5fbbbcbb679b09f366823cf0b95548cb146f4e4461711c7888b7894a5347b806e883590b41f44a2318a2d0f72cdd",
+      "card_info": {
+        "name": "Articuno GX",
+        "clean_name": "Articuno GX",
+        "set_name": "Hidden Fates: Shiny Vault",
+        "set_code": "HIF:SV",
+        "set_id": "2594",
+        "card_number": "SV54/SV94",
+        "rarity": "Shiny Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Legendary Ascent</strong>\r\n<br>When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, move any number of Water Energy from your other Pokémon to this Pokémon.",
+        "attacks": [
+          "[1WW] Ice Wing (130)",
+          "<span style=\"color:Teal\"><strong>[W] Cold Crush GX</strong>\r\n<br>Discard all Energy from both Active Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 43.16,
+            "mid_price": 50.17,
+            "high_price": 680.1,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 46.77,
+            "direct_low_price": 43.16,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197791"
+      },
+      "cardmarket": {
+        "product_name": "Articuno GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 31.84,
+            "avg7": 33.01,
+            "avg30": 34.58,
+            "trend": 32.17,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 49.21,
+            "low": 10,
+            "avg1": 39.98,
+            "avg7": 43.39,
+            "avg30": 44.26,
+            "trend": 47.09,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Articuno-GX-HIFSV54"
+      }
+    },
+    {
+      "id": "pk_d3cbc89d7897461502ddb15e20566959717fd32549c1592f6a1dd9d2447a57a895f12a6e09323216df",
+      "card_info": {
+        "name": "Articuno, Moltres, and Zapdos (Warner Bros. Promo)",
+        "clean_name": "Articuno Moltres and Zapdos Warner Bros Promo",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RLW] Big Bang (200)\r\n<br>\r\nShuffle Articuno, Moltres, and Zapdos into your deck."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 104.99,
+            "mid_price": 110.25,
+            "high_price": 149.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 104.75,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211417"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_048f93261ebf2e4c84382d3625057f99e63fddbd5375e38d793ac21d35ec8f534c13275f26796030f2f13143",
+      "card_info": {
+        "name": "Articuno",
+        "clean_name": "Articuno",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "002/110",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Freeze Dry (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[WWWW] Blizzard (50)\r\n<br>Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 61.95,
+            "mid_price": 102.18,
+            "high_price": 765.34,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 71.42,
+            "direct_low_price": 498.98,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 179.99,
+            "mid_price": 180.49,
+            "high_price": 180.98,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 749.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83643"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": 77.4,
+            "low": 5.5,
+            "avg1": 300,
+            "avg7": 58.99,
+            "avg30": 32.22,
+            "trend": 59.16,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 636.83,
+            "low": 33,
+            "avg1": 749,
+            "avg7": 488.71,
+            "avg30": 350.22,
+            "trend": 544.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Articuno-LC2"
+      }
+    },
+    {
+      "id": "pk_35dfaf40cda7e472f1cfda640180614f36839fb5923ba7944dbf6e69295555eeadc5199958b409cecba1f46cf3",
+      "card_info": {
+        "name": "Articuno",
+        "clean_name": "Articuno",
+        "set_name": "Legendary Treasures",
+        "set_code": "LTR",
+        "set_id": "1409",
+        "card_number": "32/113",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2W] Ice Beam (50) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[3W] Ice Wing (80)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.11,
+            "mid_price": 4.99,
+            "high_price": 39,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 7.09,
+            "direct_low_price": 5.97,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 6,
+            "mid_price": 10.43,
+            "high_price": 99.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 9.93,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83653"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": null,
+            "low": 4,
+            "avg1": 19.99,
+            "avg7": 16.4,
+            "avg30": 11.8,
+            "trend": 12.32,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.85,
+            "low": 4,
+            "avg1": 8.99,
+            "avg7": 6.15,
+            "avg30": 5.93,
+            "trend": 6.49,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Articuno-LTR32"
+      }
+    },
+    {
+      "id": "pk_f64bcbd2c8bf653c4655d8056911a636eb3223d73b171c340be84aaed1f3195d44c99406b3e6f020420f00f3",
+      "card_info": {
+        "name": "Articuno",
+        "clean_name": "Articuno",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "1/100",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Freezing Screech</strong>\r\n<br>\r\nOnce during your turn, when you put Articuno from your hand onto your Bench, you may flip a coin. If heads, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed.",
+        "attacks": [
+          "[1WW] Blizzard (60)\r\n<br>\r\nFlip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35.15,
+            "mid_price": 80,
+            "high_price": 3490.66,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 36.11,
+            "direct_low_price": 46.63,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 24,
+            "mid_price": 49.96,
+            "high_price": 202.72,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 61.78,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83649"
+      },
+      "cardmarket": {
+        "product_name": "Articuno Lv.46",
+        "prices": [
+          {
+            "avg": 12.99,
+            "low": 2,
+            "avg1": 4,
+            "avg7": 13.61,
+            "avg30": 9.26,
+            "trend": 12.01,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 15.49,
+            "low": 2,
+            "avg1": 15,
+            "avg7": 23.44,
+            "avg30": 11.95,
+            "trend": 18.88,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Articuno-Lv46-MD1"
+      }
+    },
+    {
+      "id": "pk_289a6ef9fb187af002c1612f1c8fedddfade4f419008ce06603754ebd78074b32bd5fe5e791106f1a6bf5d1f0a0b",
+      "card_info": {
+        "name": "Articuno (Cosmos Holo)",
+        "clean_name": "Articuno Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "036/195",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Ice Wing (20)",
+          "[WW] Wild Freeze (70)\r\n<br>\r\nThis Pokémon also does 50 damage to itself. Your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 1.81,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.82,
+            "direct_low_price": 5.74,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/489359"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d4f24568d941a202fe8cbf136314d74c09ec8f45505cdeea665fa228eb9621dba15018f4618a1d7d86f0aca64826",
+      "card_info": {
+        "name": "Team Rocket's Articuno (Destined Rivals Stamp)",
+        "clean_name": "Team Rockets Articuno Destined Rivals Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/182",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Repelling Veil</strong> Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon in play. <em>(Existing effects are not removed. Damage is not an effect.)</em>",
+        "attacks": [
+          "[WCC] Dark Frost (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 27,
+            "mid_price": 32.99,
+            "high_price": 694.71,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 30.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635484"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Articuno",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 30.78,
+            "low": 33.85,
+            "avg1": 34,
+            "avg7": 31.12,
+            "avg30": 32.02,
+            "trend": 32.12,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals-Additionals/Team-Rockets-Articuno-xDRI051"
+      }
+    },
+    {
+      "id": "pk_253de94b14a2831c5bbc25e6c23e85c0d890c4681f92c76ceaa95d25e2575722eb0e5a51c8bab89bd8c1f6e8d462",
+      "card_info": {
+        "name": "Articuno - 032/159 (Holiday Calendar)",
+        "clean_name": "Articuno 032 159 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "032/159",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Frigid Fluttering\r\n<br>Search your deck for up to 2 Basic Water Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "[1WW] Ice Blast (110)"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.78,
+            "high_price": 65,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.67,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/650961"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": 1.22,
+            "low": 0.1,
+            "avg1": 0.47,
+            "avg7": 0.78,
+            "avg30": 1.19,
+            "trend": 0.8,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together-Additionals/Articuno-xJTG032"
+      }
+    },
+    {
+      "id": "pk_c08caf970c49bc7819eb1af8735a4b89b00bcb20edf6d44b5cd8aa1953c346c5b8184932180e732550ea4cfdded2",
+      "card_info": {
+        "name": "Team Rocket's Articuno - 051-182 (Cosmos Holo)",
+        "clean_name": "Team Rockets Articuno 051 182 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/182",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Repelling Veil</strong> Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon in play. <em>(Existing effects are not removed. Damage is not an effect.)</em>",
+        "attacks": [
+          "[WCC] Dark Frost (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 3.3,
+            "high_price": 45,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 3.22,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/658500"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a3aec5c5fc06357f58e6679d751ae2e823202e08d104094aa6d3ae0e43d6806a5573a0dd1f1dd4f7acf69ff0",
+      "card_info": {
+        "name": "Articuno",
+        "clean_name": "Articuno",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "27/99",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2W] Ice Beam (50) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[3W] Ice Wing (80)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.66,
+            "mid_price": 11.23,
+            "high_price": 108.98,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 12.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 4.49,
+            "mid_price": 16.91,
+            "high_price": 95.62,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 10.81,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83652"
+      },
+      "cardmarket": {
+        "product_name": "Articuno",
+        "prices": [
+          {
+            "avg": 3.38,
+            "low": 0.3,
+            "avg1": 4,
+            "avg7": 5.6,
+            "avg30": 5.86,
+            "trend": 6.53,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.51,
+            "low": 0.9,
+            "avg1": 4,
+            "avg7": 7.95,
+            "avg30": 6.29,
+            "trend": 7.73,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Articuno-NXD27"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 166,
+    "total_pages": 9
+  },
+  "metadata": {
+    "total_count": 166,
+    "tcg": 133,
+    "cardmarket": 128,
+    "tcg_only": 38,
+    "cardmarket_only": 33,
+    "both_sources": 95
+  }
+}
