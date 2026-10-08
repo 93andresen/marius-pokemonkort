@@ -421,8 +421,7 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     offline = args.offline or args.dry_run
-    fx = {"USD": args.fx_usd, "EUR": args.fx_euro} if False else {
-        "USD": args.fx_usd, "EUR": args.fx_eur}
+    fx = {"USD": args.fx_usd, "EUR": args.fx_eur}
     outdir = ensure_dir(args.outdir)
     ensure_dir(fm.CACHE_DIR)
 
