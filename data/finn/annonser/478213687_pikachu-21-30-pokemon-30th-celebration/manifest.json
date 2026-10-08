@@ -1,0 +1,198 @@
+{
+  "finn_kode": "478213687",
+  "url": "https://www.finn.no/recommerce/forsale/item/478213687",
+  "slug": "478213687_pikachu-21-30-pokemon-30th-celebration",
+  "first_seen": "2026-10-08T04:26:10Z",
+  "last_seen": "2026-10-08T04:26:10Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pikachu 21/30 - Pokemon 30th Celebration",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:18:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:26:10Z",
+      "raw": "478213687_pikachu-21-30-pokemon-30th-celebration/raw/478213687_2026-10-08-042610.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "6297b2fb-e471-4b81-9620-fa7db816a119",
+      "item_ref": "478213687",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478213687/6297b2fb-e471-4b81-9620-fa7db816a119",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478213687/6297b2fb-e471-4b81-9620-fa7db816a119",
+      "bytes": 4008533,
+      "content_type": "image/jpeg",
+      "sha1": "88f4817290e4cb4ad7c28bc759303974c3234536",
+      "file": "photos/01_6297b2fb-e471-4b81-9620-fa7db816a119.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "d14d0a99-7890-4c92-bef4-17e6d74cb941",
+      "item_ref": "478213687",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478213687/d14d0a99-7890-4c92-bef4-17e6d74cb941",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478213687/d14d0a99-7890-4c92-bef4-17e6d74cb941",
+      "bytes": 3758889,
+      "content_type": "image/jpeg",
+      "sha1": "5293483b11093ff66a5cbd11d6e222e912b1d882",
+      "file": "photos/02_d14d0a99-7890-4c92-bef4-17e6d74cb941.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "478213717",
+      "heading": "Pikachu 21/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213717"
+    },
+    {
+      "item_id": "478213443",
+      "heading": "Pikachu 24/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213443"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478213654",
+      "heading": "Pikachu 24/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213654"
+    },
+    {
+      "item_id": "478213744",
+      "heading": "Pikachu 19/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213744"
+    },
+    {
+      "item_id": "478213631",
+      "heading": "Pikachu 24/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213631"
+    },
+    {
+      "item_id": "478213794",
+      "heading": "Pikachu 12/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213794"
+    },
+    {
+      "item_id": "478213814",
+      "heading": "Pikachu 05/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213814"
+    },
+    {
+      "item_id": "478213842",
+      "heading": "Pikachu 05/30 - Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213842"
+    }
+  ]
+}
