@@ -1,0 +1,193 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:16:27Z",
+  "contact_button": {
+    "adId": "477804668",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804668",
+  "kode_candidates": {
+    "canonical": "477804668",
+    "object_info": "477804668",
+    "maplink": "477804668",
+    "contact_button": "477804668",
+    "hint": "477804668"
+  },
+  "title": "Pokémon Mew ex 066/128 30th Celebration",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5101 Eidsvågneset",
+  "lat": 60.4437168610443,
+  "lon": 5.287405602494658,
+  "postal_code": "5101",
+  "last_modified_raw": "7.10.2026 kl. 21:09",
+  "last_modified": "2026-10-07T21:09:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "481f5a15-f802-461b-a84e-6f35584161a2"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger Mew ex 066/128.\n\n \n\nKortene er tatt ut av sleeve og toploader for å ta bilde, også er de satt rett inn igjen.\n\n \n\n💸 Kan ta betaling i Vipps om ønsket\n\n📦 Sendes godt pakket inn eller hentes i Bergen\n\n❗ Jeg har flere kort på finn, du kan velge flere og betale som en pakke med samme fiks ferdig. Sjekk dem ut!\n\n \n\nTar i mot bud :)\n\n \n\nSøkeord: Mew ex, 30th Celebration, 30th Anniversary, 30-årsjubileum, Pokémon, Pokemon, TCG, Pokemonkort, Pokémon kort, samlekort, trading cards, kort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477656927",
+      "heading": "Mew ex 076/190 – Shiny Treasure ex – Japansk – 2023",
+      "price_label": "65 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477656927"
+    },
+    {
+      "item_id": "478203707",
+      "heading": "Mewtwo EX 157/128 & 151/128",
+      "price_label": "123 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478203707"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477899047",
+      "heading": "Mew ex 066/128 – Pokémon 30th Celebration 2026",
+      "price_label": "129 kr",
+      "location": "Råde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477899047"
+    },
+    {
+      "item_id": "477950443",
+      "heading": "Pokémon: Mew ex 66/128 30-årsjubileum",
+      "price_label": "100 kr",
+      "location": "Verdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477950443"
+    },
+    {
+      "item_id": "478215308",
+      "heading": "🃏 Mew ex 158/128 – Pokémon 30th Celebration",
+      "price_label": "529 kr",
+      "location": "Os",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215308"
+    },
+    {
+      "item_id": "472052438",
+      "heading": "Pokémon kort Medicham EX 103/108 holo",
+      "price_label": "100 kr",
+      "location": "Fyllingsdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472052438"
+    },
+    {
+      "item_id": "390872696",
+      "heading": "Pokemon kort vmax Mew hp310 114/264 - redusert fra 400",
+      "price_label": "250 kr",
+      "location": "Laksevåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/390872696"
+    },
+    {
+      "item_id": "477369280",
+      "heading": "Mew ex 66/128",
+      "price_label": "200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477369280"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "481f5a15-f802-461b-a84e-6f35584161a2",
+      "item_ref": "477804668",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804668/481f5a15-f802-461b-a84e-6f35584161a2"
+    }
+  ],
+  "raw_capture": "477804668_pok-mon-mew-ex-066-128-30th-celebration/raw/477804668_2026-10-08-041627.html"
+}

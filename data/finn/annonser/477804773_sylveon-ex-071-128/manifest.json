@@ -1,0 +1,185 @@
+{
+  "finn_kode": "477804773",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804773",
+  "slug": "477804773_sylveon-ex-071-128",
+  "first_seen": "2026-10-08T04:16:43Z",
+  "last_seen": "2026-10-08T04:16:43Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Sylveon ex 071/128",
+    "status": "Inaktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "5101 Eidsvågneset",
+    "postal_code": "5101",
+    "last_modified": "2026-10-02T18:08:00",
+    "gallery_count": 1,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:16:43Z",
+      "raw": "477804773_sylveon-ex-071-128/raw/477804773_2026-10-08-041643.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Inaktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "bd808259-aa00-41ab-806c-65c94fbda360",
+      "item_ref": "477804773",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804773/bd808259-aa00-41ab-806c-65c94fbda360",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804773/bd808259-aa00-41ab-806c-65c94fbda360",
+      "bytes": 3933299,
+      "content_type": "image/jpeg",
+      "sha1": "ac88d9f84d05b43cc6d3b1fc039cb6e069247080",
+      "file": "photos/01_bd808259-aa00-41ab-806c-65c94fbda360.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "477758258",
+      "heading": "Pokemon Sylveon EX 30th",
+      "price_label": "50 kr",
+      "location": "Hundvin",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477758258"
+    },
+    {
+      "item_id": "477477697",
+      "heading": "Sylveon 040/131 – Prismatic Evolutions – Holo",
+      "price_label": "30 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477477697"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "478118993",
+      "heading": "Sylveon ex RR 059/103 – 30th Celebration (kinesisk) – 5ban Graphics",
+      "price_label": "20 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478118993"
+    },
+    {
+      "item_id": "477469423",
+      "heading": "Pokemon Sylveon Ex + Sylveon Jumbo Ex",
+      "price_label": "75 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477469423"
+    },
+    {
+      "item_id": "478110985",
+      "heading": "Pokemon Sylveon EX kort",
+      "price_label": "20 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478110985"
+    },
+    {
+      "item_id": "477432195",
+      "heading": "Sylveon 040/131 – Prismatic Evolutions – Holo",
+      "price_label": "25 kr",
+      "location": "Årdalstangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477432195"
+    },
+    {
+      "item_id": "477635120",
+      "heading": "Sylveon EX 71/128 selges",
+      "price_label": "45 kr",
+      "location": "Borgenhaugen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477635120"
+    },
+    {
+      "item_id": "477143750",
+      "heading": "Sylveon 035/078 – Pokémon GO – Holo Rare – 2022",
+      "price_label": "35 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477143750"
+    }
+  ]
+}

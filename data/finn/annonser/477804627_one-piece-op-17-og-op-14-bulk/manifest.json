@@ -1,0 +1,198 @@
+{
+  "finn_kode": "477804627",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804627",
+  "slug": "477804627_one-piece-op-17-og-op-14-bulk",
+  "first_seen": "2026-10-08T04:16:14Z",
+  "last_seen": "2026-10-08T04:16:14Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "One Piece OP- 17 og OP- 14 Bulk",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "0356 Oslo",
+    "postal_code": "0356",
+    "last_modified": "2026-10-08T00:41:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:16:14Z",
+      "raw": "477804627_one-piece-op-17-og-op-14-bulk/raw/477804627_2026-10-08-041614.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "78e73336-6047-49bc-8f6f-4d462bc74904",
+      "item_ref": "477804627",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804627/78e73336-6047-49bc-8f6f-4d462bc74904",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804627/78e73336-6047-49bc-8f6f-4d462bc74904",
+      "bytes": 6469020,
+      "content_type": "image/jpeg",
+      "sha1": "47cb50dfe8de41c4694a97349ca9f42bb0df913e",
+      "file": "photos/01_78e73336-6047-49bc-8f6f-4d462bc74904.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "8d5d0e3d-9013-4a66-81d3-20e6364dc5cb",
+      "item_ref": "477804627",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804627/8d5d0e3d-9013-4a66-81d3-20e6364dc5cb",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804627/8d5d0e3d-9013-4a66-81d3-20e6364dc5cb",
+      "bytes": 6624196,
+      "content_type": "image/jpeg",
+      "sha1": "7360a8dd8c85dfcae70d60ac54a723d299e66779",
+      "file": "photos/02_8d5d0e3d-9013-4a66-81d3-20e6364dc5cb.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "474385982",
+      "heading": "50-100kr samlekort fra Pokémon + one piece",
+      "price_label": null,
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474385982"
+    },
+    {
+      "item_id": "473707961",
+      "heading": "TCG samling pokemon og one piece",
+      "price_label": "1 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473707961"
+    },
+    {
+      "item_id": "466332827",
+      "heading": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "price_label": "100 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/466332827"
+    },
+    {
+      "item_id": "474642707",
+      "heading": "Samling japanske Pokémon- og One Piece-kort (Må selges kjapt)",
+      "price_label": "39 990 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474642707"
+    },
+    {
+      "item_id": "468971592",
+      "heading": "One piece kort",
+      "price_label": "300 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468971592"
+    },
+    {
+      "item_id": "472757773",
+      "heading": "Pokémon og One piece samlekort",
+      "price_label": "500 kr",
+      "location": "Kråkstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472757773"
+    },
+    {
+      "item_id": "477961506",
+      "heading": "One piece kort til salg",
+      "price_label": "185 kr",
+      "location": "Tolvsrød",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477961506"
+    },
+    {
+      "item_id": "453035525",
+      "heading": "One Piece og Pokémon til salg!",
+      "price_label": "1 000 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/453035525"
+    },
+    {
+      "item_id": "474668878",
+      "heading": "bytte/salg",
+      "price_label": "1 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474668878"
+    }
+  ]
+}
