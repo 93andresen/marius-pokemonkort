@@ -1,0 +1,79 @@
+[
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-08T03:09:32Z",
+    "finn_kode": null,
+    "url": null,
+    "heading": "Psychic Energy #101 Base Set (1999)",
+    "finn_price_nok": 9.0,
+    "identify": {
+      "intent_rank": 1,
+      "intent": "tier1-set",
+      "matched_set_names": [
+        "Base Set"
+      ],
+      "matched_card_names": []
+    },
+    "set_hints": [
+      "Base Set"
+    ],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-08T03:09:32Z",
+      "finn_kode": null,
+      "url": null,
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "status": null,
+      "location": null,
+      "finn_price_nok": 9.0,
+      "parsed": {
+        "card_name": "Psychic Energy",
+        "card_number": "101",
+        "set_hint": "Base Set",
+        "variant_hint": null,
+        "year": 1999
+      },
+      "queries": [
+        "Psychic Energy 101",
+        "Base Set 101"
+      ],
+      "calls_spent": 0,
+      "cache_hit": false,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Psychic+Energy+101&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": 9.0,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 0,
+    "cache_hit": false,
+    "flags": [],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  }
+]
