@@ -1,0 +1,198 @@
+{
+  "finn_kode": "478141623",
+  "url": "https://www.finn.no/recommerce/forsale/item/478141623",
+  "slug": "478141623_flareon-60-111-pokemon-rising-rivals",
+  "first_seen": "2026-10-08T04:22:01Z",
+  "last_seen": "2026-10-08T04:22:01Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Flareon 60/111 - Pokemon Rising Rivals",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:04:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:22:01Z",
+      "raw": "478141623_flareon-60-111-pokemon-rising-rivals/raw/478141623_2026-10-08-042201.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "4d3b637b-c658-4a3d-a0a5-9e3f2bdc38b4",
+      "item_ref": "478141623",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478141623/4d3b637b-c658-4a3d-a0a5-9e3f2bdc38b4",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478141623/4d3b637b-c658-4a3d-a0a5-9e3f2bdc38b4",
+      "bytes": 3656129,
+      "content_type": "image/jpeg",
+      "sha1": "5a3e250a6d7b111463ce02c98614f2132049d318",
+      "file": "photos/02_4d3b637b-c658-4a3d-a0a5-9e3f2bdc38b4.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "e3cfcf85-fb47-491c-8634-a8fd71387587",
+      "item_ref": "478141623",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478141623/e3cfcf85-fb47-491c-8634-a8fd71387587",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478141623/e3cfcf85-fb47-491c-8634-a8fd71387587",
+      "bytes": 3935679,
+      "content_type": "image/jpeg",
+      "sha1": "9232c0790a87aba7aa5b739513b5b1cfe81e9321",
+      "file": "photos/01_e3cfcf85-fb47-491c-8634-a8fd71387587.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "462724842",
+      "heading": "🔥 Pokémon Flareon GL 60/111 — Rising Rivals (2009) — MP/HP",
+      "price_label": "119 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462724842"
+    },
+    {
+      "item_id": "477653265",
+      "heading": "Flareon #13 Holofoil",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477653265"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477254240",
+      "heading": "Floatzel",
+      "price_label": "10 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477254240"
+    },
+    {
+      "item_id": "476156209",
+      "heading": "Flareon 19/111 Rare (R) Rising Rivals LP",
+      "price_label": "90 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476156209"
+    },
+    {
+      "item_id": "477671901",
+      "heading": "Growlithe 4/15 Holo",
+      "price_label": "29 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477671901"
+    },
+    {
+      "item_id": "476080552",
+      "heading": "Flareon H7 Skyridge Holo Pokemonkort",
+      "price_label": null,
+      "location": "Bolsøya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476080552"
+    },
+    {
+      "item_id": "478009627",
+      "heading": "Primeape 50/110 - Pokemon Holon Phantoms",
+      "price_label": "25 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478009627"
+    },
+    {
+      "item_id": "473730630",
+      "heading": "Eevee 80 Furious Fists",
+      "price_label": "30 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473730630"
+    }
+  ]
+}

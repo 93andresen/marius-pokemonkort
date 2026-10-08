@@ -1,0 +1,205 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:21:38Z",
+  "contact_button": {
+    "adId": "478083065",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478083065",
+  "kode_candidates": {
+    "canonical": "478083065",
+    "object_info": "478083065",
+    "maplink": "478083065",
+    "contact_button": "478083065",
+    "hint": "478083065"
+  },
+  "title": "Moonlight Stadium reverse holo 100/106 - Pokemon Great Encounters",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:05",
+  "last_modified": "2026-10-08T00:05:00",
+  "gallery_count": 3,
+  "image_uuids": [
+    "23ac4762-d2ab-4adb-bbe0-0edd17604e00",
+    "1da28e14-e6d8-4e61-9c51-6253828886f6",
+    "397d530b-da91-46d3-bb36-94753b9ddcd9"
+  ],
+  "image_count_from_html": 3,
+  "description_raw": "Moonlight Stadium reverse holo 100/106 fra Pokemon Diamond & Pearl Great Encounters selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477977571",
+      "heading": "💥 Pokémon Torchic 💥 #ReverseHolo ✨ #CrystalGuardians #66/100",
+      "price_label": "899 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477977571"
+    },
+    {
+      "item_id": "443668092",
+      "heading": "💥 Houndour 💥 #ReverseHolo ✨ #Aquapolis #86/147 ⭐️",
+      "price_label": "399 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/443668092"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "475141649",
+      "heading": "Milotic 8/106 Reverse Holo - Emerald",
+      "price_label": "1 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475141649"
+    },
+    {
+      "item_id": "473726930",
+      "heading": "Chikorita 99/165 Reverse Holo Pokemon Expedition",
+      "price_label": "600 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473726930"
+    },
+    {
+      "item_id": "474889336",
+      "heading": "Sandshrew 91/110",
+      "price_label": "899 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474889336"
+    },
+    {
+      "item_id": "469439246",
+      "heading": "Pokemon Meowth samlekort holo",
+      "price_label": "800 kr",
+      "location": "Tiller",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469439246"
+    },
+    {
+      "item_id": "476039649",
+      "heading": "Houndoom [Reverse Holo] stamped #7 Unseen Forces",
+      "price_label": "799 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476039649"
+    },
+    {
+      "item_id": "472360382",
+      "heading": "Vaporeon 19/115 Reverse Holo - Unseen Forces",
+      "price_label": "1 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472360382"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "23ac4762-d2ab-4adb-bbe0-0edd17604e00",
+      "item_ref": "478083065",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478083065/23ac4762-d2ab-4adb-bbe0-0edd17604e00"
+    },
+    {
+      "uuid": "1da28e14-e6d8-4e61-9c51-6253828886f6",
+      "item_ref": "478083065",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478083065/1da28e14-e6d8-4e61-9c51-6253828886f6"
+    },
+    {
+      "uuid": "397d530b-da91-46d3-bb36-94753b9ddcd9",
+      "item_ref": "478083065",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478083065/397d530b-da91-46d3-bb36-94753b9ddcd9"
+    }
+  ],
+  "raw_capture": "478083065_moonlight-stadium-reverse-holo-100-106-pokemon-great-encount/raw/478083065_2026-10-08-042138.html"
+}

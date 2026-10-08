@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:21:52Z",
+  "contact_button": {
+    "adId": "478083510",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478083510",
+  "kode_candidates": {
+    "canonical": "478083510",
+    "object_info": "478083510",
+    "maplink": "478083510",
+    "contact_button": "478083510",
+    "hint": "478083510"
+  },
+  "title": "Piloswine 43/144 - Pokemon Skyridge",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:10",
+  "last_modified": "2026-10-08T00:10:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "b01574ff-d581-41af-94ad-c854778e392b",
+    "132baaeb-7a94-4a6d-a7be-d5911daab0f6"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Piloswine 43/144 fra Pokemon Skyridge selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "476078207",
+      "heading": "Piloswine 43/144",
+      "price_label": "150 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476078207"
+    },
+    {
+      "item_id": "476460618",
+      "heading": "Mantine #77 Pokemon Skyridge",
+      "price_label": "169 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476460618"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "476260557",
+      "heading": "Pokémon kort – Piloswine – Skyridge – 43/144",
+      "price_label": "165 kr",
+      "location": "Fagerstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476260557"
+    },
+    {
+      "item_id": "476072794",
+      "heading": "Rhydon 29/144 - Skyridge",
+      "price_label": "189 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476072794"
+    },
+    {
+      "item_id": "467575513",
+      "heading": "Pilowswine 43/144 - Skyridge",
+      "price_label": "35 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467575513"
+    },
+    {
+      "item_id": "474697480",
+      "heading": "Swinub 108/144",
+      "price_label": "129 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474697480"
+    },
+    {
+      "item_id": "476461219",
+      "heading": "Starmie 44/144 Skyridge",
+      "price_label": "169 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476461219"
+    },
+    {
+      "item_id": "469450236",
+      "heading": "Forretress #56 Pokemon Skyridge GRATIS FRAKT",
+      "price_label": "64 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469450236"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b01574ff-d581-41af-94ad-c854778e392b",
+      "item_ref": "478083510",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478083510/b01574ff-d581-41af-94ad-c854778e392b"
+    },
+    {
+      "uuid": "132baaeb-7a94-4a6d-a7be-d5911daab0f6",
+      "item_ref": "478083510",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478083510/132baaeb-7a94-4a6d-a7be-d5911daab0f6"
+    }
+  ],
+  "raw_capture": "478083510_piloswine-43-144-pokemon-skyridge/raw/478083510_2026-10-08-042152.html"
+}
