@@ -1,0 +1,211 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:30:04Z",
+  "contact_button": {
+    "adId": "478215308",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215308",
+  "kode_candidates": {
+    "canonical": "478215308",
+    "object_info": "478215308",
+    "maplink": "478215308",
+    "contact_button": "478215308",
+    "hint": "478215308"
+  },
+  "title": "🃏 Mew ex 158/128 – Pokémon 30th Celebration",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5210 Os",
+  "lat": 60.20220237374533,
+  "lon": 5.453121792022663,
+  "postal_code": "5210",
+  "last_modified_raw": "8.10.2026 kl. 01:46",
+  "last_modified": "2026-10-08T01:46:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "14e641ef-8c63-4509-98bf-25a717392f62",
+    "3f40f11f-5fb1-4338-8edb-88fd1b4112d3",
+    "8b3782d8-869f-4519-8e49-22ff1a1dbc4a",
+    "453af485-955d-4f79-ab90-83ae1fadd938"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger flott Mew ex 158/128 fra Pokémon 30th Anniversary (30C EN), 2026.\n\n \n\nKortet er trukket rett fra pakke, men har dessverre en liten fabrikkskade i hjørnet på baksiden. Skaden var der allerede da pakken ble åpnet.\n\n \n\nSe nærbilder for dokumentasjon av skaden. Ellers fremstår kortet pent.\n\n \n\nSelges derfor rimeligere enn andre kort.\n\n \n\nSendes godt beskyttet i sleeve og toploader.\n\n \n\nSøkeord: Pokémon, Mew ex, 158/128, 30th Anniversary, 30C EN, Pokémonkort, Mew, Pikachu, SAR, samlekort.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477796266",
+      "heading": "🃏 Mew ex 158/128 – Pokémon 30th Celebration",
+      "price_label": "849 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477796266"
+    },
+    {
+      "item_id": "477258990",
+      "heading": "Futuristic Mew ex 30th ANNIVERSARY CELEBRATIONS",
+      "price_label": "899 kr",
+      "location": "Kragerø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477258990"
+    },
+    {
+      "item_id": "476723405",
+      "heading": "Pakkepris - Pokemon 30th anniversary jubileum",
+      "price_label": "400 kr",
+      "location": "Tananger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476723405"
+    },
+    {
+      "item_id": "477320676",
+      "heading": "Mew EX #158 Pokemon 30th Celebration",
+      "price_label": "1 500 kr",
+      "location": "Fitjar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477320676"
+    },
+    {
+      "item_id": "477847148",
+      "heading": "Mew ex 158/128 - pokemon 30th celebration",
+      "price_label": "900 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477847148"
+    },
+    {
+      "item_id": "477036714",
+      "heading": "Mew ex 158/128",
+      "price_label": "1 100 kr",
+      "location": "Jondal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477036714"
+    },
+    {
+      "item_id": "477391632",
+      "heading": "Pokémon Mew Ex 30th celebrations",
+      "price_label": "1 000 kr",
+      "location": "Bodø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477391632"
+    },
+    {
+      "item_id": "477018902",
+      "heading": "Mew ex 158/128, Futuristic Rare, Pokèmon 30th Anniversary",
+      "price_label": "1 300 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477018902"
+    },
+    {
+      "item_id": "477283734",
+      "heading": "Pokémon 30th Mew EX kort – holo",
+      "price_label": "1 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477283734"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "14e641ef-8c63-4509-98bf-25a717392f62",
+      "item_ref": "478215308",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215308/14e641ef-8c63-4509-98bf-25a717392f62"
+    },
+    {
+      "uuid": "3f40f11f-5fb1-4338-8edb-88fd1b4112d3",
+      "item_ref": "478215308",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215308/3f40f11f-5fb1-4338-8edb-88fd1b4112d3"
+    },
+    {
+      "uuid": "8b3782d8-869f-4519-8e49-22ff1a1dbc4a",
+      "item_ref": "478215308",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215308/8b3782d8-869f-4519-8e49-22ff1a1dbc4a"
+    },
+    {
+      "uuid": "453af485-955d-4f79-ab90-83ae1fadd938",
+      "item_ref": "478215308",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215308/453af485-955d-4f79-ab90-83ae1fadd938"
+    }
+  ],
+  "raw_capture": "478215308_mew-ex-158-128-pok-mon-30th-celebration/raw/478215308_2026-10-08-043004.html"
+}

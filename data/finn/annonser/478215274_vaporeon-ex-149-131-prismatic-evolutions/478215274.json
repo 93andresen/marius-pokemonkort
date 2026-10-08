@@ -1,0 +1,223 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:29:43Z",
+  "contact_button": {
+    "adId": "478215274",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215274",
+  "kode_candidates": {
+    "canonical": "478215274",
+    "object_info": "478215274",
+    "maplink": "478215274",
+    "contact_button": "478215274",
+    "hint": "478215274"
+  },
+  "title": "Vaporeon ex 149/131 - Prismatic Evolutions",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "2312 Ottestad",
+  "lat": 60.784392703225436,
+  "lon": 11.108845551519723,
+  "postal_code": "2312",
+  "last_modified_raw": "8.10.2026 kl. 01:52",
+  "last_modified": "2026-10-08T01:52:00",
+  "gallery_count": 6,
+  "image_uuids": [
+    "b3972731-0ce4-4cb9-ba8e-b6aaaa43537d",
+    "5ec435bd-8d44-45c1-aebd-66bce4f3270b",
+    "b10c61ee-c8ba-4c6f-982c-6029cb76010f",
+    "3536bf1d-3e37-4b17-9092-25384e18dfec",
+    "45bef430-6f84-404e-a03b-83278d809a4e",
+    "41e8cb3d-7924-46a6-b02f-a56e4980a518"
+  ],
+  "image_count_from_html": 6,
+  "description_raw": "Selger et Vaporeon ex Pokémon-kort fra Prismatic Evolutions serien, kort 149/131.\n\n \n\nSelges da jeg har duplikat og kun trenger ett.\n\n \n\nSelges for prisestimat for ugradert kort hos PriceCharting, $230 som tilsvarer rundt kr 2.200,-\n\n \n\nKanskje ikke så lett å se på bildene, men det er noen små hvite prikker på den blå kanten rundt baksiden av kortet, på midten oppe og venstre side. Ingen synlige merker ellers på kortet som jeg kan se.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477501729",
+      "heading": "Vaporeon EX (Gratis Frakt)",
+      "price_label": "2 699 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477501729"
+    },
+    {
+      "item_id": "476361284",
+      "heading": "Vaporeon EX Prismatic Evolutions SIR CGC GEM MINT 10",
+      "price_label": "3 300 kr",
+      "location": "Kongsvinger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476361284"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "471769354",
+      "heading": "Pokemon kort – Flareon EX og Sylveon EX",
+      "price_label": "2 300 kr",
+      "location": "Skreia",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471769354"
+    },
+    {
+      "item_id": "472143091",
+      "heading": "Vaporeon-samling –  Poké Ball, Master Ball, EX, V & Holo",
+      "price_label": "1 500 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472143091"
+    },
+    {
+      "item_id": "470426312",
+      "heading": "Eevee ex 167/131 Pokémon Prismatic Evolutions",
+      "price_label": "1 800 kr",
+      "location": "Hamar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470426312"
+    },
+    {
+      "item_id": "476733169",
+      "heading": "Blastoise EX XY122",
+      "price_label": "2 100 kr",
+      "location": "Kongsvinger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476733169"
+    },
+    {
+      "item_id": "477673612",
+      "heading": "Vaporeon V 075/069 SR",
+      "price_label": "949 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477673612"
+    },
+    {
+      "item_id": "476395368",
+      "heading": "Pokémon Vaporeon samlekort – Muddy Water / Spiral Drain",
+      "price_label": "4 000 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476395368"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b3972731-0ce4-4cb9-ba8e-b6aaaa43537d",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215274/b3972731-0ce4-4cb9-ba8e-b6aaaa43537d"
+    },
+    {
+      "uuid": "5ec435bd-8d44-45c1-aebd-66bce4f3270b",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215274/5ec435bd-8d44-45c1-aebd-66bce4f3270b"
+    },
+    {
+      "uuid": "b10c61ee-c8ba-4c6f-982c-6029cb76010f",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215274/b10c61ee-c8ba-4c6f-982c-6029cb76010f"
+    },
+    {
+      "uuid": "3536bf1d-3e37-4b17-9092-25384e18dfec",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215274/3536bf1d-3e37-4b17-9092-25384e18dfec"
+    },
+    {
+      "uuid": "45bef430-6f84-404e-a03b-83278d809a4e",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215274/45bef430-6f84-404e-a03b-83278d809a4e"
+    },
+    {
+      "uuid": "41e8cb3d-7924-46a6-b02f-a56e4980a518",
+      "item_ref": "478215274",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215274/41e8cb3d-7924-46a6-b02f-a56e4980a518"
+    }
+  ],
+  "raw_capture": "478215274_vaporeon-ex-149-131-prismatic-evolutions/raw/478215274_2026-10-08-042943.html"
+}
