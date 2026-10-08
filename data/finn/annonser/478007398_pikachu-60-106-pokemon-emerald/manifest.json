@@ -1,0 +1,224 @@
+{
+  "finn_kode": "478007398",
+  "url": "https://www.finn.no/recommerce/forsale/item/478007398",
+  "slug": "478007398_pikachu-60-106-pokemon-emerald",
+  "first_seen": "2026-10-08T04:19:49Z",
+  "last_seen": "2026-10-08T04:19:49Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pikachu 60/106 - Pokemon Emerald",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:15:00",
+    "gallery_count": 4,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:19:49Z",
+      "raw": "478007398_pikachu-60-106-pokemon-emerald/raw/478007398_2026-10-08-041949.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "7fd36798-a915-4157-b81f-99d6aa3ed4dd",
+      "item_ref": "478007398",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478007398/7fd36798-a915-4157-b81f-99d6aa3ed4dd",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478007398/7fd36798-a915-4157-b81f-99d6aa3ed4dd",
+      "bytes": 4352807,
+      "content_type": "image/jpeg",
+      "sha1": "7161e09fb675a12326ca30051127ee54c2a6df25",
+      "file": "photos/02_7fd36798-a915-4157-b81f-99d6aa3ed4dd.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "cb533ea2-48af-49dd-b62e-ea3d53c3a79e",
+      "item_ref": "478007398",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478007398/cb533ea2-48af-49dd-b62e-ea3d53c3a79e",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478007398/cb533ea2-48af-49dd-b62e-ea3d53c3a79e",
+      "bytes": 1347581,
+      "content_type": "image/jpeg",
+      "sha1": "a1a439f471fc0d0ae5b6de96e6b20e2ab3db13dd",
+      "file": "photos/03_cb533ea2-48af-49dd-b62e-ea3d53c3a79e.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "d8c8cbe4-45a4-4d9c-a950-175501d2758a",
+      "item_ref": "478007398",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478007398/d8c8cbe4-45a4-4d9c-a950-175501d2758a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478007398/d8c8cbe4-45a4-4d9c-a950-175501d2758a",
+      "bytes": 3077961,
+      "content_type": "image/jpeg",
+      "sha1": "57f3b54fa75447f6d35944dcb33e55db930920c2",
+      "file": "photos/01_d8c8cbe4-45a4-4d9c-a950-175501d2758a.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "f18e88e9-c490-4f3b-940a-0d1ca43e3297",
+      "item_ref": "478007398",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478007398/f18e88e9-c490-4f3b-940a-0d1ca43e3297",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478007398/f18e88e9-c490-4f3b-940a-0d1ca43e3297",
+      "bytes": 1271727,
+      "content_type": "image/jpeg",
+      "sha1": "93b29b97979584a6ecbd3330a59a9fe508f7e2f4",
+      "file": "photos/04_f18e88e9-c490-4f3b-940a-0d1ca43e3297.jpg"
+    }
+  ],
+  "image_count_on_disk": 4,
+  "similar_ads": [
+    {
+      "item_id": "478132985",
+      "heading": "Pokémon Pikachu 60/106 Emerald",
+      "price_label": "120 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478132985"
+    },
+    {
+      "item_id": "478147962",
+      "heading": "Pokémon Pikachu 60/106 Emerald",
+      "price_label": "120 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478147962"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477254315",
+      "heading": "Pikachu",
+      "price_label": "49 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477254315"
+    },
+    {
+      "item_id": "478213128",
+      "heading": "Pikachu 28/73 - Pokemon Shining Legends",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478213128"
+    },
+    {
+      "item_id": "477406490",
+      "heading": "Pikachu 74/112 – EX FireRed & LeafGreen 2004 – vintage Pokémonkort",
+      "price_label": "139 kr",
+      "location": "Kongsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477406490"
+    },
+    {
+      "item_id": "478010260",
+      "heading": "Pokemon - div kort fra Ruby and Sapphire",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478010260"
+    },
+    {
+      "item_id": "472429975",
+      "heading": "Unike pokemon kort!",
+      "price_label": null,
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472429975"
+    },
+    {
+      "item_id": "473580437",
+      "heading": "Pokemon kort Pikachu holo",
+      "price_label": "250 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473580437"
+    }
+  ]
+}

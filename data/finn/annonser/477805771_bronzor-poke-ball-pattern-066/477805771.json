@@ -1,0 +1,193 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:19:42Z",
+  "contact_button": {
+    "adId": "477805771",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477805771",
+  "kode_candidates": {
+    "canonical": "477805771",
+    "object_info": "477805771",
+    "maplink": "477805771",
+    "contact_button": "477805771",
+    "hint": "477805771"
+  },
+  "title": "Bronzor (Poke Ball Pattern) #066",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "6411 Molde",
+  "lat": 62.73579793401497,
+  "lon": 7.085609453502759,
+  "postal_code": "6411",
+  "last_modified_raw": "2.10.2026 kl. 18:23",
+  "last_modified": "2026-10-02T18:23:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "913d8448-61e2-4732-b1af-c30d3c1393fe"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Kort fra Prismatic Evolution \n\n \n\nDu kan lage en pakke med inntil 10kort med \"fiks ferdig\" om du vil ha flere kort.\n\n \n\n \n\nSøkeord;\n\nPokemon \n\nPokemonkort \n\nSamlekort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "473391379",
+      "heading": "Bronzong holofoil #067",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473391379"
+    },
+    {
+      "item_id": "475993788",
+      "heading": "Bronzong reverse holofoil #067",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475993788"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "475992537",
+      "heading": "Bronzor reverse holofoil #126",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475992537"
+    },
+    {
+      "item_id": "475992611",
+      "heading": "Bronzor holofoil #063",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475992611"
+    },
+    {
+      "item_id": "475993949",
+      "heading": "Bronzong reverse holofoil #127",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475993949"
+    },
+    {
+      "item_id": "477413737",
+      "heading": "Bronzor #63 Reverse Holofoil",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477413737"
+    },
+    {
+      "item_id": "475695759",
+      "heading": "Bronzor #111 Reverse Holofoil",
+      "price_label": "6 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475695759"
+    },
+    {
+      "item_id": "475993857",
+      "heading": "Bronzong holofoil #064",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475993857"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "913d8448-61e2-4732-b1af-c30d3c1393fe",
+      "item_ref": "477805771",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805771/913d8448-61e2-4732-b1af-c30d3c1393fe"
+    }
+  ],
+  "raw_capture": "477805771_bronzor-poke-ball-pattern-066/raw/477805771_2026-10-08-041942.html"
+}
