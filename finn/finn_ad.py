@@ -54,6 +54,9 @@ Examples
 
   # Scrape every kode found in a search run's combined JSONL:
   uv run finn/finn_ad.py --from-jsonl data/finn/searches/<run>/all_ads.jsonl
+
+  # Scrape every kode in the discovery registry (a JSON object keyed by kode):
+  uv run finn/finn_ad.py --from-registry data/finn/registry/pokemon-kort.json
 """
 from __future__ import annotations
 
@@ -576,6 +579,26 @@ def _load_kodes_from(jsonl_path: Path) -> list[str]:
     return kodes
 
 
+def load_registry_kodes(path: Path) -> list[str]:
+    """Return the FINN-koder from a discovery registry JSON object (keys).
+
+    ``data/finn/registry/pokemon-kort.json`` is a JSON *object* keyed by kode, so
+    it cannot be read by :func:`_load_kodes_from` (which expects JSONL rows). Keys
+    that are not a valid kode are ignored; the result is de-duplicated and sorted
+    so the scrape order is deterministic. A missing file yields ``[]`` (the caller
+    turns that into a loud error).
+    """
+    if not path.exists():
+        return []
+    data = json.loads(path.read_text(encoding="utf-8"))
+    kodes: list[str] = []
+    for key in data:
+        kk = fl.canonical_kode(str(key))
+        if kk and kk not in kodes:
+            kodes.append(kk)
+    return sorted(kodes)
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
@@ -584,6 +607,8 @@ def main(argv: list[str] | None = None) -> int:
                         help="one or more FINN-koder and/or links")
     parser.add_argument("--from-jsonl", metavar="FILE",
                         help="also read koder from a JSONL file (e.g. a search run's all_ads.jsonl)")
+    parser.add_argument("--from-registry", metavar="FILE",
+                        help="also read koder from a registry JSON object (keys are FINN-koder)")
     parser.add_argument("--outdir", default=str(fl.DATA_FINN / "annonser"),
                         help="archive root (default data/finn/annonser)")
     parser.add_argument("--parse", metavar="HTML",
@@ -626,6 +651,14 @@ def main(argv: list[str] | None = None) -> int:
             kodes.append(kk)
     if args.from_jsonl:
         for kk in _load_kodes_from(Path(args.from_jsonl)):
+            if kk not in kodes:
+                kodes.append(kk)
+    if args.from_registry:
+        reg_path = Path(args.from_registry)
+        if not reg_path.exists():
+            print(f"ERROR: registry not found: {reg_path}")
+            return 2
+        for kk in load_registry_kodes(reg_path):
             if kk not in kodes:
                 kodes.append(kk)
     if not kodes:

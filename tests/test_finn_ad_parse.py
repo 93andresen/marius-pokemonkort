@@ -11,7 +11,11 @@ No network, stdlib only.  Run with:
 """
 from __future__ import annotations
 
+import contextlib
+import io
+import json
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -172,6 +176,40 @@ class FailureModes(unittest.TestCase):
             any("disagreement" in w for w in rec["warnings"]),
             f"expected a kode-disagreement warning, got {rec['warnings']!r}",
         )
+
+
+class RegistryInput(unittest.TestCase):
+    """The discovery registry must be scrapable directly (its keys are FINN-koder)."""
+
+    def test_load_registry_kodes(self) -> None:
+        with tempfile.TemporaryDirectory() as td:
+            reg = Path(td) / "pokemon-kort.json"
+            reg.write_text(
+                json.dumps({
+                    "478215833": {"heading": "b"},
+                    "458560266": {"heading": "a"},
+                    "477798898": {"heading": "c"},
+                    "/recommerce/forsale/item/458560266": {"heading": "dup-kode"},
+                    "not-a-kode": {"heading": "noise"},
+                }),
+                encoding="utf-8",
+            )
+            self.assertEqual(
+                finn_ad.load_registry_kodes(reg),
+                ["458560266", "477798898", "478215833"],
+            )
+
+    def test_load_registry_kodes_missing_file(self) -> None:
+        self.assertEqual(
+            finn_ad.load_registry_kodes(Path("definitely/not/here.json")), []
+        )
+
+    def test_cli_from_registry_missing_is_error(self) -> None:
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            rc = finn_ad.main(["--from-registry", "definitely/not/here.json"])
+        self.assertEqual(rc, 2)
+        self.assertIn("registry not found", buf.getvalue())  # loud, not a silent no-op
 
 
 if __name__ == "__main__":
