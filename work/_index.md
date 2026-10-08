@@ -9,6 +9,7 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 | 0003 | Build `finn/finn_identify.py` (rank ad by intent) | done | reuses `SETS`/`CARDS`, word-boundary matching; real distribution tier1=7/card=17/tier2=3/none=26 of 53 |
 | 0004 | Structure enumerated card lists (`finn/finn_cards.py`) | done | 57 cards from real capture w/ provenance; fixed U+2028 drift (canonical `logical_lines`); `tests/test_finn_cards.py` 12 OK |
 | 0005 | Price an ad + each enumerated card (`finn/finn_price.py`) | done | cache-first, budget-aware; `confidence_of`/`deal_math`/`price_ad` + `deal.ratio`; real cached value 0 calls; `tests/test_finn_price.py` 11 OK; suite 57 OK |
+| 0006 | Sortable listings + cards tables (`finn/finn_tables.py`) | done | pure formatting of `pricing.jsonl`; best-deal-first; CSV + self-contained sortable HTML under `data/finn/tables/`; `tests/test_finn_tables.py` 11 OK; suite 68 OK |
 
 ---
 

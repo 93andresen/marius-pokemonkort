@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FINN Pokemon listings — 2026-10-08-031255</title>
+<style>
+  body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+         margin: 1.5rem; color: #17202a; }
+  h1 { font-size: 1.25rem; }
+  table { border-collapse: collapse; font-size: 0.86rem; }
+  th, td { border: 1px solid #d5d8dc; padding: 4px 8px; text-align: left;
+           white-space: nowrap; }
+  th { position: sticky; top: 0; background: #eef2f6; cursor: pointer;
+       user-select: none; }
+  th[data-dir="asc"]::after { content: " \25B2"; color: #566573; }
+  th[data-dir="desc"]::after { content: " \25BC"; color: #566573; }
+  tr:nth-child(even) td { background: #fafbfc; }
+</style>
+</head>
+<body>
+<h1>FINN Pokemon listings — 2026-10-08-031255</h1>
+<p>4 row(s) &middot; click a header to sort</p>
+<table>
+<thead><tr>
+<th data-col="0" data-type="text" onclick="sortTable(this)">finn_kode</th>
+<th data-col="1" data-type="text" onclick="sortTable(this)">heading</th>
+<th data-col="2" data-type="text" onclick="sortTable(this)">url</th>
+<th data-col="3" data-type="number" onclick="sortTable(this)">intent_rank</th>
+<th data-col="4" data-type="text" onclick="sortTable(this)">intent</th>
+<th data-col="5" data-type="number" onclick="sortTable(this)">asking_price_nok</th>
+<th data-col="6" data-type="number" onclick="sortTable(this)">market_value_nok</th>
+<th data-col="7" data-type="number" onclick="sortTable(this)">delta_nok</th>
+<th data-col="8" data-type="number" onclick="sortTable(this)">ratio</th>
+<th data-col="9" data-type="text" onclick="sortTable(this)">basis</th>
+<th data-col="10" data-type="number" onclick="sortTable(this)">cards_total</th>
+<th data-col="11" data-type="number" onclick="sortTable(this)">cards_priced</th>
+<th data-col="12" data-type="text" onclick="sortTable(this)">partial_coverage</th>
+<th data-col="13" data-type="text" onclick="sortTable(this)">listing_confidence</th>
+<th data-col="14" data-type="text" onclick="sortTable(this)">cache_hit</th>
+<th data-col="15" data-type="text" onclick="sortTable(this)">flags</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>—</td>
+<td>Psychic Energy Base Set 101</td>
+<td>—</td>
+<td>1</td>
+<td>tier1-set</td>
+<td>9.0</td>
+<td>7</td>
+<td>2</td>
+<td>0.7778</td>
+<td>listing_best</td>
+<td>0</td>
+<td>0</td>
+<td>false</td>
+<td>high</td>
+<td>true</td>
+<td>—</td>
+</tr>
+<tr>
+<td>—</td>
+<td>Psychic Energy #101 Base Set (1999)</td>
+<td>—</td>
+<td>1</td>
+<td>tier1-set</td>
+<td>9.0</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>none</td>
+<td>0</td>
+<td>0</td>
+<td>false</td>
+<td>none</td>
+<td>false</td>
+<td>—</td>
+</tr>
+<tr>
+<td>—</td>
+<td>Psychic Energy Base Set 101</td>
+<td>—</td>
+<td>1</td>
+<td>tier1-set</td>
+<td>9.0</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>none</td>
+<td>0</td>
+<td>0</td>
+<td>false</td>
+<td>none</td>
+<td>false</td>
+<td>—</td>
+</tr>
+<tr>
+<td>475878513</td>
+<td>Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)</td>
+<td>—</td>
+<td>1</td>
+<td>tier1-set</td>
+<td>100</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>none</td>
+<td>57</td>
+<td>0</td>
+<td>true</td>
+<td>none</td>
+<td>false</td>
+<td>card list only partially priced (0/57)</td>
+</tr>
+</tbody>
+</table>
+<script>
+function sortTable(th) {
+  var table = th.closest('table');
+  var head = th.parentNode;
+  var idx = Array.prototype.indexOf.call(head.children, th);
+  var type = th.getAttribute('data-type');
+  var tbody = table.tBodies[0];
+  var rows = Array.prototype.slice.call(tbody.rows);
+  var dir = th.getAttribute('data-dir') === 'asc' ? 'desc' : 'asc';
+  Array.prototype.forEach.call(head.children, function (h) {
+    h.removeAttribute('data-dir');
+  });
+  th.setAttribute('data-dir', dir);
+  rows.sort(function (a, b) {
+    var x = cellValue(a.cells[idx], type);
+    var y = cellValue(b.cells[idx], type);
+    if (x === null && y === null) { return 0; }
+    if (x === null) { return 1; }
+    if (y === null) { return -1; }
+    if (x < y) { return dir === 'asc' ? -1 : 1; }
+    if (x > y) { return dir === 'asc' ? 1 : -1; }
+    return 0;
+  });
+  rows.forEach(function (r) { tbody.appendChild(r); });
+}
+function cellValue(td, type) {
+  var text = td.textContent.trim();
+  if (text === '' || text === '\u2014') { return null; }
+  if (type === 'number') {
+    var n = parseFloat(text);
+    return isNaN(n) ? null : n;
+  }
+  return text.toLowerCase();
+}
+</script>
+</body></html>

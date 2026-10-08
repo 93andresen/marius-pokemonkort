@@ -1,6 +1,6 @@
 # TASK 0006 — Build the sortable listings + cards tables
 
-- **Status:** in-progress
+- **Status:** done
 - **Owner:** Zoo (code mode)
 - **Output artifact(s):** `finn/finn_tables.py`, `tests/test_finn_tables.py`
 - **Depends on:** 0005 (`finn/finn_price.py` → `data/finn/matches/pricing.jsonl`), `finnlib`
