@@ -13,6 +13,7 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 | 0007 | Program coverage report (`finn/finn_report.py`) | done | pure accounting of all artifacts; discovers 106 koder/1 archived/1 deal ratio & flags the gaps; `reports/coverage_*.json\|md`; `tests/test_finn_report.py` 10 OK; suite 78 OK |
 | 0008 | Bulk-scrape the discovered FINN ads | done | `--from-registry` loader (loud rc=2 on missing); real run `DONE archived=106/106`, 107 folders, 109 log rows, 0 failed; resumable/idempotent; `tests/test_finn_ad_parse.py` 17 OK |
 | 0009 | Archive→records join + fix two integration bugs | done | `finn/finn_corpus.py` (107 recs, 0 problems); fixed `splitlines()`→`split("\n")` on U+2028 (identify/report/ad); matcher adapter reads both record shapes; identify 107 rows OK; live price 50/57 cards, ratio 494.83; `tests/test_finn_corpus.py`+`test_jsonl_lines.py`+`test_finn_matcher_adapters.py` |
+| 0010 | Populate the Google Sheet FINN tab | done | FINN was a stub (`rows: []`); added `build_finn()` + Ratio column; pushed 108 rows×10 cols (`FINN!A1:J108`, 1080 cells); `tests/test_build_sheet_finn.py` 6 OK |
 
 ---
 
