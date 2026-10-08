@@ -1,0 +1,197 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:11:41Z",
+  "contact_button": {
+    "adId": "477798898",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477798898",
+  "kode_candidates": {
+    "canonical": "477798898",
+    "object_info": "477798898",
+    "maplink": "477798898",
+    "contact_button": "477798898",
+    "hint": "477798898"
+  },
+  "title": "Pokemon Gold Star Entei BGS 8.5",
+  "status": "Solgt",
+  "trade_type": "Til salgs",
+  "price_label": "40 000 kr",
+  "price_nok": 40000,
+  "location_text": "0650 Oslo",
+  "lat": 59.91108015192567,
+  "lon": 10.772301163608134,
+  "postal_code": "0650",
+  "last_modified_raw": "2.10.2026 kl. 23:25",
+  "last_modified": "2026-10-02T23:25:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "ff64839a-d316-4dab-b564-82c161ae0648",
+    "18ca9e2a-e293-4eca-91bf-93c173e70fac"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger min Gold Star Entei gradert BGS 8.5. Denne legges høyt da Gold Stars flyr oppover i pris om dagen og tilgjengeligheten i Norge er lav. Sist solgte PSA 8 er 32 000kr og sist solgte PSA 9 er 51000kr. Trolig kan denne graderes om til enten PSA 8 eller 9 med PSAs tjeneste for dette, da kortet er i svært fin tilstand og flere subgrades er over 9.\n\n \n\nKan hentes på Tøyen i Oslo eller sendes på kjøpers regning med ønsket frakt - pakkes trygt og godt. \n\n \n\nOppgjør ved vipps/bank.\n\n \n\nTags:\n\n \n\nPokemon TCG\n\n \n\nPokemon vintage\n\n \n\nCharizard\n\n \n\nPikachu\n\n \n\nGengar\n\n \n\nDragonite\n\n \n\nBlastoise\n\n \n\nVenusaur\n\n \n\nLugia\n\n \n\nMewtwo\n\n \n\nMew\n\n \n\nScarlet and Violet SV\n\n \n\nSword and Shield SWSH\n\n \n\nAscended Heroes\n\n \n\nPhantasmal Flames\n\n \n\nPrismatic Evolutions\n\n \n\n151\n\n \n\nDestined rivals\n\n \n\nSealed\n\n \n\nBooster bundle\n\n \n\nDisplay\n\n \n\nBooster boks\n\n \n\nBooster boks\n\n \n\nPokemon sealed\n\n \n\nElite Trainer box\n\n \n\nETB",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477971880",
+      "heading": "Pokemon kort Entei gold star",
+      "price_label": "13 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477971880"
+    },
+    {
+      "item_id": "478017149",
+      "heading": "Vaporeon Gold Star PSA 1",
+      "price_label": "24 990 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478017149"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "478199983",
+      "heading": "Pokemon Gold Star Raikou, Suicune og Entei PSA 1",
+      "price_label": "45 000 kr",
+      "location": "Grimstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478199983"
+    },
+    {
+      "item_id": "477339358",
+      "heading": "Pokemon kort PSA 10 Lugia V 186/195 Silver Tempest",
+      "price_label": "14 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477339358"
+    },
+    {
+      "item_id": "476134876",
+      "heading": "Pokemon Flareon Gold star Power keepers PSA 7",
+      "price_label": "35 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476134876"
+    },
+    {
+      "item_id": "477339661",
+      "heading": "Pokemon PSA 10 Charizard Wild Blaze JP",
+      "price_label": "23 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477339661"
+    },
+    {
+      "item_id": "475191105",
+      "heading": "Pokemon Charizard Gold Star EX Dragon Frontiers PSA-1",
+      "price_label": "55 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475191105"
+    },
+    {
+      "item_id": "462399088",
+      "heading": "Rocket's Mewtwo #150 PSA 10",
+      "price_label": "30 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462399088"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ff64839a-d316-4dab-b564-82c161ae0648",
+      "item_ref": "477798898",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477798898/ff64839a-d316-4dab-b564-82c161ae0648"
+    },
+    {
+      "uuid": "18ca9e2a-e293-4eca-91bf-93c173e70fac",
+      "item_ref": "477798898",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477798898/18ca9e2a-e293-4eca-91bf-93c173e70fac"
+    }
+  ],
+  "raw_capture": "477798898_pokemon-gold-star-entei-bgs-8-5/raw/477798898_2026-10-08-041141.html"
+}

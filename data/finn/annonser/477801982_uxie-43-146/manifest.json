@@ -1,0 +1,183 @@
+{
+  "finn_kode": "477801982",
+  "url": "https://www.finn.no/recommerce/forsale/item/477801982",
+  "slug": "477801982_uxie-43-146",
+  "first_seen": "2026-10-08T04:12:09Z",
+  "last_seen": "2026-10-08T04:12:09Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Uxie 43/146",
+    "status": "Solgt",
+    "price_nok": 229,
+    "trade_type": "Til salgs",
+    "location_text": "5101 Eidsvågneset",
+    "postal_code": "5101",
+    "last_modified": "2026-10-02T17:49:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:12:09Z",
+      "raw": "477801982_uxie-43-146/raw/477801982_2026-10-08-041209.html",
+      "parse_quality": "full",
+      "price_nok": 229,
+      "status": "Solgt",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "adfc6cc3-e2bf-40f9-bede-e58be3f9c071",
+      "item_ref": "477801982",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477801982/adfc6cc3-e2bf-40f9-bede-e58be3f9c071",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477801982/adfc6cc3-e2bf-40f9-bede-e58be3f9c071",
+      "bytes": 4054997,
+      "content_type": "image/jpeg",
+      "sha1": "376894aafa65919fb6c80d17651dc00716edde26",
+      "file": "photos/01_adfc6cc3-e2bf-40f9-bede-e58be3f9c071.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "477133465",
+      "heading": "Uxie 43/146 - Classic Collection - 30th Celebration - Pokémon",
+      "price_label": "249 kr",
+      "location": "Skjetten",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477133465"
+    },
+    {
+      "item_id": "477693383",
+      "heading": "Uxie 43/146 Holo 30th",
+      "price_label": "245 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477693383"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477865581",
+      "heading": "Pokémon 30th Celebration Uxie Lv.55 43/146",
+      "price_label": "95 kr",
+      "location": "Vennesla",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477865581"
+    },
+    {
+      "item_id": "475088961",
+      "heading": "Pokémon: Lugia (EX Unseen Forces, 2005) - Non-Holo Rare #29/115 🌪️🐾",
+      "price_label": "249 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475088961"
+    },
+    {
+      "item_id": "478165145",
+      "heading": "Pokémon - 30th",
+      "price_label": "1 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478165145"
+    },
+    {
+      "item_id": "477155597",
+      "heading": "Uxie, gold-border Classic Collection — 43/146 fra 30th celebration",
+      "price_label": "250 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477155597"
+    },
+    {
+      "item_id": "254500602",
+      "heading": "Persian [44/112]",
+      "price_label": "200 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/254500602"
+    },
+    {
+      "item_id": "471405910",
+      "heading": "Vaporeon 25/100 – EX Sandstorm",
+      "price_label": "220 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471405910"
+    }
+  ]
+}

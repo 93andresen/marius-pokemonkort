@@ -1,0 +1,183 @@
+{
+  "finn_kode": "477801872",
+  "url": "https://www.finn.no/recommerce/forsale/item/477801872",
+  "slug": "477801872_crobat-g-47-127",
+  "first_seen": "2026-10-08T04:12:03Z",
+  "last_seen": "2026-10-08T04:12:03Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Crobat G 47/127",
+    "status": "Solgt",
+    "price_nok": 70,
+    "trade_type": "Til salgs",
+    "location_text": "5101 Eidsvågneset",
+    "postal_code": "5101",
+    "last_modified": "2026-10-02T18:03:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:12:03Z",
+      "raw": "477801872_crobat-g-47-127/raw/477801872_2026-10-08-041203.html",
+      "parse_quality": "full",
+      "price_nok": 70,
+      "status": "Solgt",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "a7f5c04a-2d2c-4640-b5ce-8dd4d514ccc9",
+      "item_ref": "477801872",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477801872/a7f5c04a-2d2c-4640-b5ce-8dd4d514ccc9",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477801872/a7f5c04a-2d2c-4640-b5ce-8dd4d514ccc9",
+      "bytes": 4006119,
+      "content_type": "image/jpeg",
+      "sha1": "f6ae12ff737d3fc170d38025e1dd8d44e8f7139f",
+      "file": "photos/01_a7f5c04a-2d2c-4640-b5ce-8dd4d514ccc9.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "470926314",
+      "heading": "Crobat 2/113 - Delta Species",
+      "price_label": "190 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470926314"
+    },
+    {
+      "item_id": "474898198",
+      "heading": "Golbat 36/101 – EX Hidden Legends – 2004",
+      "price_label": "25 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474898198"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "472537874",
+      "heading": "Vintage Crobat #14 Holo Glins Pokemon EX Unleashed 2010 Kort",
+      "price_label": "75 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472537874"
+    },
+    {
+      "item_id": "477820339",
+      "heading": "Golbat 50/123 – Mysterious Treasures – Reverse Holo – 2007",
+      "price_label": "45 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477820339"
+    },
+    {
+      "item_id": "450565041",
+      "heading": "Pokémon Crobat samlekort holografisk",
+      "price_label": "70 kr",
+      "location": "Inderøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/450565041"
+    },
+    {
+      "item_id": "474131827",
+      "heading": "Pokémon Golbat – EX Hidden Legends 36/101 – Reverse Holo – Vintage 2004",
+      "price_label": "125 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474131827"
+    },
+    {
+      "item_id": "457862162",
+      "heading": "Crobat 2/113 Holo - EX Delta Species",
+      "price_label": "110 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457862162"
+    },
+    {
+      "item_id": "462772930",
+      "heading": "Pokemon TCG: Dark Crobat #3 Reverse Holo Stamped - Team Rocket Returns",
+      "price_label": "500 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462772930"
+    }
+  ]
+}

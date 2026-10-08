@@ -1,0 +1,191 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:11:57Z",
+  "contact_button": {
+    "adId": "477801723",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477801723",
+  "kode_candidates": {
+    "canonical": "477801723",
+    "object_info": "477801723",
+    "maplink": "477801723",
+    "contact_button": "477801723",
+    "hint": "477801723"
+  },
+  "title": "Pokémon Morpeko 135/128 30th Celebration",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "85 kr",
+  "price_nok": 85,
+  "location_text": "5101 Eidsvågneset",
+  "lat": 60.4437168610443,
+  "lon": 5.287405602494658,
+  "postal_code": "5101",
+  "last_modified_raw": "7.10.2026 kl. 21:09",
+  "last_modified": "2026-10-07T21:09:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "c6a8d12f-afae-4614-88ce-8bc4082e1f13"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger Morpeko 135/128.\n\n \n\nKortene er tatt ut av sleeve og toploader for å ta bilde, også er de satt rett inn igjen.\n\n \n\n💸 Kan ta betaling i Vipps om ønsket\n\n📦 Sendes godt pakket inn eller hentes i Bergen\n\n❗ Jeg har flere kort på finn, du kan velge flere og betale som en pakke med samme fiks ferdig. Sjekk dem ut!\n\n \n\nTar i mot bud :)\n\n \n\nSøkeord: Morpeko, 30th Celebration, 30th Anniversary, 30-årsjubileum, Pokémon, Pokemon, TCG, Pokemonkort, Pokémon kort, samlekort, trading cards, kort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478203487",
+      "heading": "Pokémon Morpeko 135/128 Illustration Rare – 30th Celebration (engelsk)",
+      "price_label": "100 kr",
+      "location": "Lillestrøm",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478203487"
+    },
+    {
+      "item_id": "472051875",
+      "heading": "Pokémon kort Morpeko holo 121/182",
+      "price_label": "100 kr",
+      "location": "Fyllingsdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472051875"
+    },
+    {
+      "item_id": "476723405",
+      "heading": "Pakkepris - Pokemon 30th anniversary jubileum",
+      "price_label": "400 kr",
+      "location": "Tananger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476723405"
+    },
+    {
+      "item_id": "478208618",
+      "heading": "Pokémon kort fra 30th Celebration - Morpeko",
+      "price_label": "100 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478208618"
+    },
+    {
+      "item_id": "477801593",
+      "heading": "Pokémon Moltres 130/128 30th Celebration",
+      "price_label": "130 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801593"
+    },
+    {
+      "item_id": "476385010",
+      "heading": "Pokémon Morepeko kort lot – 5 kort",
+      "price_label": "70 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476385010"
+    },
+    {
+      "item_id": "477619968",
+      "heading": "Pokémon - 30th celebration morpeko 135/128",
+      "price_label": "110 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477619968"
+    },
+    {
+      "item_id": "477932087",
+      "heading": "Pokemon 30th celebration Morpeko 110/103 japansk",
+      "price_label": "140 kr",
+      "location": "Moltustranda",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477932087"
+    },
+    {
+      "item_id": "478040651",
+      "heading": "Morpeko 135/128 fra 30 celebrations",
+      "price_label": "100 kr",
+      "location": "Haslum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478040651"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "c6a8d12f-afae-4614-88ce-8bc4082e1f13",
+      "item_ref": "477801723",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477801723/c6a8d12f-afae-4614-88ce-8bc4082e1f13"
+    }
+  ],
+  "raw_capture": "477801723_pok-mon-morpeko-135-128-30th-celebration/raw/477801723_2026-10-08-041157.html"
+}

@@ -1,0 +1,196 @@
+{
+  "finn_kode": "477798898",
+  "url": "https://www.finn.no/recommerce/forsale/item/477798898",
+  "slug": "477798898_pokemon-gold-star-entei-bgs-8-5",
+  "first_seen": "2026-10-08T04:11:41Z",
+  "last_seen": "2026-10-08T04:11:41Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon Gold Star Entei BGS 8.5",
+    "status": "Solgt",
+    "price_nok": 40000,
+    "trade_type": "Til salgs",
+    "location_text": "0650 Oslo",
+    "postal_code": "0650",
+    "last_modified": "2026-10-02T23:25:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:11:41Z",
+      "raw": "477798898_pokemon-gold-star-entei-bgs-8-5/raw/477798898_2026-10-08-041141.html",
+      "parse_quality": "full",
+      "price_nok": 40000,
+      "status": "Solgt",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "18ca9e2a-e293-4eca-91bf-93c173e70fac",
+      "item_ref": "477798898",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477798898/18ca9e2a-e293-4eca-91bf-93c173e70fac",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477798898/18ca9e2a-e293-4eca-91bf-93c173e70fac",
+      "bytes": 11341044,
+      "content_type": "image/jpeg",
+      "sha1": "ba14b80d730ccb112f5dcf142ea8bf5019aa90e5",
+      "file": "photos/02_18ca9e2a-e293-4eca-91bf-93c173e70fac.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "ff64839a-d316-4dab-b564-82c161ae0648",
+      "item_ref": "477798898",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477798898/ff64839a-d316-4dab-b564-82c161ae0648",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477798898/ff64839a-d316-4dab-b564-82c161ae0648",
+      "bytes": 11653191,
+      "content_type": "image/jpeg",
+      "sha1": "0f9b51be4ec464986ca54be1c0325fcd62893b71",
+      "file": "photos/01_ff64839a-d316-4dab-b564-82c161ae0648.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477971880",
+      "heading": "Pokemon kort Entei gold star",
+      "price_label": "13 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477971880"
+    },
+    {
+      "item_id": "478017149",
+      "heading": "Vaporeon Gold Star PSA 1",
+      "price_label": "24 990 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478017149"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "478199983",
+      "heading": "Pokemon Gold Star Raikou, Suicune og Entei PSA 1",
+      "price_label": "45 000 kr",
+      "location": "Grimstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478199983"
+    },
+    {
+      "item_id": "477339358",
+      "heading": "Pokemon kort PSA 10 Lugia V 186/195 Silver Tempest",
+      "price_label": "14 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477339358"
+    },
+    {
+      "item_id": "476134876",
+      "heading": "Pokemon Flareon Gold star Power keepers PSA 7",
+      "price_label": "35 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476134876"
+    },
+    {
+      "item_id": "477339661",
+      "heading": "Pokemon PSA 10 Charizard Wild Blaze JP",
+      "price_label": "23 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477339661"
+    },
+    {
+      "item_id": "475191105",
+      "heading": "Pokemon Charizard Gold Star EX Dragon Frontiers PSA-1",
+      "price_label": "55 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475191105"
+    },
+    {
+      "item_id": "462399088",
+      "heading": "Rocket's Mewtwo #150 PSA 10",
+      "price_label": "30 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462399088"
+    }
+  ]
+}

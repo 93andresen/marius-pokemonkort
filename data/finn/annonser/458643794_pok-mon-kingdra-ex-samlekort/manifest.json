@@ -1,0 +1,237 @@
+{
+  "finn_kode": "458643794",
+  "url": "https://www.finn.no/recommerce/forsale/item/458643794",
+  "slug": "458643794_pok-mon-kingdra-ex-samlekort",
+  "first_seen": "2026-10-08T04:11:18Z",
+  "last_seen": "2026-10-08T04:11:18Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon Kingdra EX samlekort",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "1410 Kolbotn",
+    "postal_code": "1410",
+    "last_modified": "2026-10-02T17:48:00",
+    "gallery_count": 5,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:11:18Z",
+      "raw": "458643794_pok-mon-kingdra-ex-samlekort/raw/458643794_2026-10-08-041118.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 3,
+      "uuid": "07bd078e-85f5-428b-8e9b-0cc63279aaf4",
+      "item_ref": "458643794",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458643794/07bd078e-85f5-428b-8e9b-0cc63279aaf4",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458643794/07bd078e-85f5-428b-8e9b-0cc63279aaf4",
+      "bytes": 4823901,
+      "content_type": "image/jpeg",
+      "sha1": "dd3e0ae2988aea2e577e070df21e04dc975f1c3f",
+      "file": "photos/03_07bd078e-85f5-428b-8e9b-0cc63279aaf4.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "1f79063f-41a2-4fd8-9985-c7e8d913cbb1",
+      "item_ref": "458643794",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/458643794/1f79063f-41a2-4fd8-9985-c7e8d913cbb1",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458643794/1f79063f-41a2-4fd8-9985-c7e8d913cbb1",
+      "bytes": 5531262,
+      "content_type": "image/jpeg",
+      "sha1": "4541307c0ee3023e9923edab3ac885b23b38ce2b",
+      "file": "photos/01_1f79063f-41a2-4fd8-9985-c7e8d913cbb1.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "c37e9d65-a881-4af7-b164-5ef9d9e652c1",
+      "item_ref": "458643794",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458643794/c37e9d65-a881-4af7-b164-5ef9d9e652c1",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458643794/c37e9d65-a881-4af7-b164-5ef9d9e652c1",
+      "bytes": 7046517,
+      "content_type": "image/jpeg",
+      "sha1": "7d0bc905437b13f55bda4625148d8c8c22181604",
+      "file": "photos/04_c37e9d65-a881-4af7-b164-5ef9d9e652c1.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "cc8e60f5-d243-40f3-bb16-9b32a5caf143",
+      "item_ref": "458643794",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/458643794/cc8e60f5-d243-40f3-bb16-9b32a5caf143",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458643794/cc8e60f5-d243-40f3-bb16-9b32a5caf143",
+      "bytes": 6930822,
+      "content_type": "image/jpeg",
+      "sha1": "6f000d70ca3ce2bf21068396190865bed24ffb2b",
+      "file": "photos/02_cc8e60f5-d243-40f3-bb16-9b32a5caf143.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "e9de5661-0aa4-40fd-9c0f-f3063831c8df",
+      "item_ref": "458643794",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458643794/e9de5661-0aa4-40fd-9c0f-f3063831c8df",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458643794/e9de5661-0aa4-40fd-9c0f-f3063831c8df",
+      "bytes": 4782891,
+      "content_type": "image/jpeg",
+      "sha1": "021e7edba24b01ef090bd15600caf71016ad37a8",
+      "file": "photos/05_e9de5661-0aa4-40fd-9c0f-f3063831c8df.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "460910816",
+      "heading": "Pokémon Kingdra EX samlekort Ultra Rare holofoil",
+      "price_label": "55 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460910816"
+    },
+    {
+      "item_id": "461335308",
+      "heading": "Pokemon kingdra EX",
+      "price_label": "120 kr",
+      "location": "Langhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Leker"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/461335308"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477442288",
+      "heading": "Kingdra ex 94/101 Dragon frontiers LP/NM",
+      "price_label": "1 100 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477442288"
+    },
+    {
+      "item_id": "476100226",
+      "heading": "Kingdra EX",
+      "price_label": "400 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476100226"
+    },
+    {
+      "item_id": "477330874",
+      "heading": "Pokémon Kingdra EX 73/124 samlekort",
+      "price_label": "23 kr",
+      "location": "Arendal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477330874"
+    },
+    {
+      "item_id": "477260225",
+      "heading": "Kingdra EX 92/97 - Dragon",
+      "price_label": "450 kr",
+      "location": "Sandvika",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477260225"
+    },
+    {
+      "item_id": "478036139",
+      "heading": "Pokémon kort Kingdra Crystal holo",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478036139"
+    },
+    {
+      "item_id": "477802337",
+      "heading": "Kingdra Prime 85/95  2010 – Pokemon",
+      "price_label": "850 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477802337"
+    }
+  ]
+}
