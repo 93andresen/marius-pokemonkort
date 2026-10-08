@@ -1,0 +1,183 @@
+{
+  "finn_kode": "477805283",
+  "url": "https://www.finn.no/recommerce/forsale/item/477805283",
+  "slug": "477805283_pok-mon-pikachu-023-128-30th-celebration",
+  "first_seen": "2026-10-08T04:18:37Z",
+  "last_seen": "2026-10-08T04:18:37Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon Pikachu 023/128 30th Celebration",
+    "status": "Solgt",
+    "price_nok": 20,
+    "trade_type": "Til salgs",
+    "location_text": "5101 Eidsvågneset",
+    "postal_code": "5101",
+    "last_modified": "2026-10-07T21:13:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:18:37Z",
+      "raw": "477805283_pok-mon-pikachu-023-128-30th-celebration/raw/477805283_2026-10-08-041837.html",
+      "parse_quality": "full",
+      "price_nok": 20,
+      "status": "Solgt",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "5ea4741f-d2b8-4e9f-b19f-bf906a4253eb",
+      "item_ref": "477805283",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805283/5ea4741f-d2b8-4e9f-b19f-bf906a4253eb",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805283/5ea4741f-d2b8-4e9f-b19f-bf906a4253eb",
+      "bytes": 4470014,
+      "content_type": "image/jpeg",
+      "sha1": "4a719026b0da5b47ca7b7a809c63753372aa25fd",
+      "file": "photos/01_5ea4741f-d2b8-4e9f-b19f-bf906a4253eb.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "477806509",
+      "heading": "Pokémon Pikachu 034/128 30th Celebration",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477806509"
+    },
+    {
+      "item_id": "477807317",
+      "heading": "Pokémon Pikachu 048/128 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477807317"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477722954",
+      "heading": "Pikachu #25 (03/30) Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477722954"
+    },
+    {
+      "item_id": "478116059",
+      "heading": "Pikachu #25 (03/30) Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478116059"
+    },
+    {
+      "item_id": "478115951",
+      "heading": "Pikachu #24 (02/30) Pokemon 30th Celebration",
+      "price_label": "20 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478115951"
+    },
+    {
+      "item_id": "478116259",
+      "heading": "Pikachu #29 (07/30) Pokemon 30th Celebration",
+      "price_label": "30 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478116259"
+    },
+    {
+      "item_id": "477722514",
+      "heading": "Pikachu #26 (04/30) Pokemon 30th Celebration",
+      "price_label": "25 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477722514"
+    },
+    {
+      "item_id": "478116438",
+      "heading": "Pikachu #34 (12/30) Pokemon 30th Celebration",
+      "price_label": "30 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478116438"
+    }
+  ]
+}

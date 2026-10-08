@@ -1,0 +1,198 @@
+{
+  "finn_kode": "477805405",
+  "url": "https://www.finn.no/recommerce/forsale/item/477805405",
+  "slug": "477805405_water-energy-102-base-set-1999",
+  "first_seen": "2026-10-08T04:18:44Z",
+  "last_seen": "2026-10-08T04:18:44Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Water Energy #102 Base Set (1999)",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "6514 Kristiansund N",
+    "postal_code": "6514",
+    "last_modified": "2026-10-02T18:18:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:18:44Z",
+      "raw": "477805405_water-energy-102-base-set-1999/raw/477805405_2026-10-08-041844.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "41d2496d-f838-4b99-a648-d6462a5fb568",
+      "item_ref": "477805405",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805405/41d2496d-f838-4b99-a648-d6462a5fb568",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805405/41d2496d-f838-4b99-a648-d6462a5fb568",
+      "bytes": 4348693,
+      "content_type": "image/jpeg",
+      "sha1": "5978414b40c197da41d1ec476ae1abbf8283b9ad",
+      "file": "photos/01_41d2496d-f838-4b99-a648-d6462a5fb568.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "6bb5b3ba-aef0-4c82-b782-4c5eac54275b",
+      "item_ref": "477805405",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477805405/6bb5b3ba-aef0-4c82-b782-4c5eac54275b",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805405/6bb5b3ba-aef0-4c82-b782-4c5eac54275b",
+      "bytes": 4705471,
+      "content_type": "image/jpeg",
+      "sha1": "cd6a963de293fd8a3b016fa17f5d5437c51706ab",
+      "file": "photos/02_6bb5b3ba-aef0-4c82-b782-4c5eac54275b.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477804672",
+      "heading": "Water Energy #102 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804672"
+    },
+    {
+      "item_id": "477801855",
+      "heading": "Water Energy #102 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801855"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "476638050",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638050"
+    },
+    {
+      "item_id": "476638990",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638990"
+    },
+    {
+      "item_id": "476638680",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638680"
+    },
+    {
+      "item_id": "476638573",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638573"
+    },
+    {
+      "item_id": "476638848",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638848"
+    },
+    {
+      "item_id": "476638423",
+      "heading": "Water Energy #130 Base Set 2",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476638423"
+    }
+  ]
+}
