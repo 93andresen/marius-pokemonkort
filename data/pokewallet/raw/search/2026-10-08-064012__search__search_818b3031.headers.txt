@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Steelix+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:14 GMT
+Content-Type: application/json
+Content-Length: 204
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 917
+X-RateLimit-Remaining-Hour: 95
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8hlyVRRJnrBLEHrlji7KmIyNmspyv2i%2FoXKHtwtLf%2BhPe4Emf7t4pWAoMZ2wE9Xge6%2Fvhmoq5Uh8S96YQe5ZX54lWHg4F0KB1oU3zX%2BsaUmj%2BPwSt2fapfwoOZqmqn8Q4nJnwYFQivDiIRvsajOJSA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4727757489f0b51-OSL
+alt-svc: h3=":443"; ma=86400

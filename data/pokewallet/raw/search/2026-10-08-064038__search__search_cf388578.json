@@ -1,0 +1,1366 @@
+{
+  "query": "Vaporeon",
+  "results": [
+    {
+      "id": "pk_08635883284fa9f8f820e0e7586e2681c38b141f402ac0a1c5ba3997f594478250757cb38ac383f6e6e2d8",
+      "card_info": {
+        "name": "Vaporeon - BW89",
+        "clean_name": "Vaporeon BW89",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW89",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Muddy Water (20) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2W] Spiral Drain (60) \r\n<br>Heal 20 damage from this Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 53.99,
+            "mid_price": 86,
+            "high_price": 849.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 89.27,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90289"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.75,
+            "avg7": 3.95,
+            "avg30": 4.57,
+            "trend": 4.9,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.85,
+            "low": 1,
+            "avg1": 12,
+            "avg7": 11.43,
+            "avg30": 19.11,
+            "trend": 13.09,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Vaporeon-BWBW89"
+      }
+    },
+    {
+      "id": "pk_23c37c6281cb57493b1c17276888de7e915c6ba3f2fc49fd8804a88e21d210da5396341c454db1b0828e778f",
+      "card_info": {
+        "name": "Vaporeon",
+        "clean_name": "Vaporeon",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "52/95",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Spiral Drain (20) Remove 2 damage counters from Vaporeon.",
+          "[1WW] Dual Splash - Choose 2 of your opponent's Pokemon.  This attack does 30 damage to each of them.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 5.07,
+            "high_price": 37.92,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 7.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 23.6,
+            "mid_price": 35,
+            "high_price": 183.54,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 37.58,
+            "direct_low_price": 179.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90287"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": 5.64,
+            "low": 0.25,
+            "avg1": 5,
+            "avg7": 5.63,
+            "avg30": 4.22,
+            "trend": 5.52,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.75,
+            "low": 0.99,
+            "avg1": 14,
+            "avg7": 13.5,
+            "avg30": 12.13,
+            "trend": 9.81,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Vaporeon-CL52"
+      }
+    },
+    {
+      "id": "pk_47d91c82f9da4c9b7e01b6378dd4ce7ec90f4ef454d854aae6e435d71f2472f58850ee845027940f47cd025013",
+      "card_info": {
+        "name": "Vaporeon",
+        "clean_name": "Vaporeon",
+        "set_name": "Dark Explorers",
+        "set_code": "DEX",
+        "set_id": "1386",
+        "card_number": "25/108",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Muddy Water (20) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[2W] Spiral Drain (60 Heal 20 damage from this Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.92,
+            "mid_price": 8.41,
+            "high_price": 79.52,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 8.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 33.74,
+            "mid_price": 149.45,
+            "high_price": 620.05,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 29.46,
+            "direct_low_price": 398.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90288"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": 10.98,
+            "low": 1.5,
+            "avg1": 5,
+            "avg7": 13.77,
+            "avg30": 11.47,
+            "trend": 11.79,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.6,
+            "low": 0.49,
+            "avg1": 6.99,
+            "avg7": 4.73,
+            "avg30": 6.29,
+            "trend": 5.75,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Vaporeon-V1-DEX25"
+      }
+    },
+    {
+      "id": "pk_3668624a092807554222512e3c9fd2f304a9df84defb998d2d08f7adc60cba477379fec8f1ab8e1c7b366acc70",
+      "card_info": {
+        "name": "Vaporeon (Delta Species)",
+        "clean_name": "Vaporeon Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "18/113",
+        "rarity": "Holo Rare",
+        "card_type": "Metal Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Vaporeon.  Shuffle your deck afterward.",
+          "[1MW] Return Wave (50) \r\n<br>You may return an Energy card attached to Vaporeon to your hand.  If you do, choose an Energy card attached to the Defending Pokemon and return it to your opponent's hand."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 189.01,
+            "mid_price": 839.72,
+            "high_price": 1399.58,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 155.07,
+            "direct_low_price": 1398.73,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 188.99,
+            "mid_price": 189.5,
+            "high_price": 190,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90290"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon δ Delta Species",
+        "prices": [
+          {
+            "avg": 351.63,
+            "low": 19,
+            "avg1": 1199,
+            "avg7": 475.5,
+            "avg30": 173.13,
+            "trend": 330.56,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 82.79,
+            "low": 12.5,
+            "avg1": 20,
+            "avg7": 35.66,
+            "avg30": 65.82,
+            "trend": 72.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Vaporeon-Delta-Species-DS18"
+      }
+    },
+    {
+      "id": "pk_bd69f704ae907b59a79f9ad81db05c8545990ac2f063057a8f4f001c43cf7416860e2b349a2ddc2151b0796cb1eb",
+      "card_info": {
+        "name": "Vaporeon ex",
+        "clean_name": "Vaporeon ex",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "110/113",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Evolutionary Swirl \r\n<br>Once during your turn, when you play Vaporeon ex from your hand to evolve 1 of your Pokemon, you may have your opponent shuffle his or her hand into his or her deck.  Then, your opponent draws up to 4 cards.",
+        "attacks": [
+          "[1W] Fastwave (40) \r\n<br>This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+          "[2W] Hydrosplash (60)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 184.56,
+            "mid_price": 270,
+            "high_price": 359.4,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 315.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90293"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon ex",
+        "prices": [
+          {
+            "avg": 123.78,
+            "low": 23.9,
+            "avg1": 425,
+            "avg7": 173,
+            "avg30": 128.39,
+            "trend": 122.38,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 66.9,
+            "avg7": 58.34,
+            "avg30": 24.08,
+            "trend": 43.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Vaporeon-ex-DS110"
+      }
+    },
+    {
+      "id": "pk_f766eee71a82c97acb5833599b0e948e5c6d3e3e2668951adf400b3b58969eeeff112cfdeb2f5d24b04b3c1e7c",
+      "card_info": {
+        "name": "Vaporeon EX",
+        "clean_name": "Vaporeon EX",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "24/83",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1W] Bubble Drain (30)\r\n<br>Heal 30 damage from this Pokemon.",
+          "[1WW] Deep Squall (130-)\r\n<br>This attack does 130 damage minus 10 damage for each damage counter on this Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 27.03,
+            "high_price": 138.54,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 27.73,
+            "direct_low_price": 35.59,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113682"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.99,
+            "avg7": 12.45,
+            "avg30": 11.88,
+            "trend": 13.82,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 21.76,
+            "low": 5.45,
+            "avg1": 34,
+            "avg7": 22.77,
+            "avg30": 20.5,
+            "trend": 22.49,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Vaporeon-EX-GEN24"
+      }
+    },
+    {
+      "id": "pk_01cece1173c20ceb58dff89880a11f3afd05ec8e7f07f4f539ac15bbaa08d461c914c30ac7a2e2fa0e4c248914",
+      "card_info": {
+        "name": "Vaporeon",
+        "clean_name": "Vaporeon",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "18/68",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1W] Water Gun (30)",
+          "[1WW] Bubble Drain (80)\r\n<br>Heal 30 damage from this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 1.66,
+            "high_price": 32.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.59,
+            "direct_low_price": 2.27,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1.52,
+            "mid_price": 2.5,
+            "high_price": 14.64,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.44,
+            "direct_low_price": 3,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197662"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": 0.98,
+            "low": 0.1,
+            "avg1": 1.9,
+            "avg7": 0.95,
+            "avg30": 1,
+            "trend": 1,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.18,
+            "low": 1.5,
+            "avg1": 2,
+            "avg7": 2.71,
+            "avg30": 2.63,
+            "trend": 2.76,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Vaporeon-HIF18"
+      }
+    },
+    {
+      "id": "pk_7ab472691ac6e54d91ad7ed57f7a34b3c2d45561d12cec941b6e82ad9340c3c69584c37e945a2e424eb3fd14b4",
+      "card_info": {
+        "name": "Vaporeon GX - SM172",
+        "clean_name": "Vaporeon GX SM172",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM172",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Hydrating Drops</strong>\r\n<br>\r\nOnce durning your turn <em>(before your attack)</em>, you may heal 30 damage from your Active Water Pokémon.",
+        "attacks": [
+          "[3] Hydro Pump (40+)\r\n<br>\r\nThis attack does 30 more damage times the amount of Water Energy attached to this Pokémon.",
+          "<span style=\"color:Teal\"><strong>[W] Cure Shower GX</strong>\r\n<br>Heal all damage from all of your Water Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 19.63,
+            "high_price": 89.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 18.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183568"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_83d0f1c8c4eccc8d23677c006814a98b43e0fed33f1e1174caadbd127f1ef9e2c890e82a5013e3bcd8c254b6f146ef",
+      "card_info": {
+        "name": "Vaporeon VMAX - SWSH182",
+        "clean_name": "Vaporeon VMAX SWSH182",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH182",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[1] Bubble Pod\r\n<br>Put a Water Pokémon from your discard pile onto your Bench. If you do, attach up to 3 Water Energy cards from your discard pile to that Pokémon.",
+          "[2W] Max Torrent (100+)\r\n<br>If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16.51,
+            "mid_price": 25.5,
+            "high_price": 199.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 18.8,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/257708"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon VMAX",
+        "prices": [
+          {
+            "avg": 11.63,
+            "low": 9,
+            "avg1": 9,
+            "avg7": 11.32,
+            "avg30": 12.25,
+            "trend": 11.53,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Vaporeon-VMAX-V2-SWSH182"
+      }
+    },
+    {
+      "id": "pk_227ef32bf983a7067139330e457afd4e9c7e49931c0d808f993b44d07104744565b6f061dba2743e37a195",
+      "card_info": {
+        "name": "Vaporeon (12)",
+        "clean_name": "Vaporeon 12",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "12/64",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 119.5,
+            "mid_price": 239.98,
+            "high_price": 1530.22,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 170.33,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 19.99,
+            "mid_price": 35.49,
+            "high_price": 194.08,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 49.31,
+            "direct_low_price": 57.99,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45123"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.25,
+            "avg7": 7.47,
+            "avg30": 7.66,
+            "trend": 8.72,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 21.06,
+            "low": 1,
+            "avg1": 137.86,
+            "avg7": 50.03,
+            "avg30": 29.08,
+            "trend": 37.49,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V1-JU12"
+      }
+    },
+    {
+      "id": "pk_01b5ae6a033bc598c4da10c5b0812ec8542b8d46badcb27d77d7d0a05921e9d827cc29d4d89affc95911de6f",
+      "card_info": {
+        "name": "Vaporeon (28)",
+        "clean_name": "Vaporeon 28",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "28/64",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.99,
+            "mid_price": 44.74,
+            "high_price": 506.42,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 41.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.96,
+            "mid_price": 13.47,
+            "high_price": 104.13,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 14.88,
+            "direct_low_price": 11.58,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106990"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.99,
+            "avg7": 6.56,
+            "avg30": 5.58,
+            "trend": 5.44,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.62,
+            "low": 1,
+            "avg1": 8.49,
+            "avg7": 8.39,
+            "avg30": 14.66,
+            "trend": 14.6,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V2-JU28"
+      }
+    },
+    {
+      "id": "pk_1498f4d78667b38872b89160ecd004860fcb600fbd8d8096832c2dec5932520e182a60e5b79190e433791988fc86",
+      "card_info": {
+        "name": "Vaporeon - 25/108 (State Championships) [Staff]",
+        "clean_name": "Vaporeon 25 108 State Championships Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "025/108",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "1",
+        "card_text": null,
+        "attacks": [
+          "[1] Muddy Water (20)\r\n<br>\r\nDoes 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2W] Spiral Drain (60)\r\n<br>\r\nHeal 20 damage from this Pokémon."
+        ],
+        "weakness": "L x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 480,
+            "mid_price": 480,
+            "high_price": 480,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 449.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211976"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6af241359b4834bbd8ac7d61b51379139b423d54df21552e74d70ca5a3d9f45192d2ccbca67e55991d344845d6ca",
+      "card_info": {
+        "name": "Vaporeon - 25/108 (State Championships)",
+        "clean_name": "Vaporeon 25 108 State Championships",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "025/108",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "1",
+        "card_text": null,
+        "attacks": [
+          "[1] Muddy Water (20)\r\n<br>\r\nDoes 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2W] Spiral Drain (60)\r\n<br>\r\nHeal 20 damage from this Pokémon."
+        ],
+        "weakness": "L x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45,
+            "mid_price": 59.8,
+            "high_price": 508,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 54.45,
+            "direct_low_price": 68.05,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211977"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 23,
+            "avg7": 26.15,
+            "avg30": 22.08,
+            "trend": 49.71,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 35,
+            "low": 50,
+            "avg1": 90,
+            "avg7": 120,
+            "avg30": 79.05,
+            "trend": 109.56,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Vaporeon-V2-DEX25"
+      }
+    },
+    {
+      "id": "pk_2a0cc5c10c58e95d1789a4c777244155d3643c5aae3a76c747af0bd6933b3ed7401962696addc7268e649525",
+      "card_info": {
+        "name": "Dark Vaporeon",
+        "clean_name": "Dark Vaporeon",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "009/110",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[3] Bite (30)",
+          "[1WW] Whirlpool (20)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 94.76,
+            "mid_price": 181.82,
+            "high_price": 1873.62,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 136.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 250,
+            "high_price": 250,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 387,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84664"
+      },
+      "cardmarket": {
+        "product_name": "Dark Vaporeon",
+        "prices": [
+          {
+            "avg": 630,
+            "low": 200,
+            "avg1": 329.9,
+            "avg7": 489.56,
+            "avg30": 216.87,
+            "trend": 356.68,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 84.02,
+            "low": 9.98,
+            "avg1": 325,
+            "avg7": 175.56,
+            "avg30": 72.27,
+            "trend": 131.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Vaporeon-LC9"
+      }
+    },
+    {
+      "id": "pk_27549233209e1e2a8345a5970cf4fc91e3a796554363d9ad3335a39330a15d9fa6c3d2e50b2ee2b19b05a68097",
+      "card_info": {
+        "name": "Vaporeon",
+        "clean_name": "Vaporeon",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "34/100",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Cleanse Away (30)\r\n<br>\r\nRemove 2 damage counters from each of your Benched Pokémon.",
+          "[2W] Hyper Whirlpool (60)\r\n<br>\r\nFlip a coin until you get tails. For each heads, discard an Energy card attached to the Defending Pokémon."
+        ],
+        "weakness": "L+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 17.89,
+            "high_price": 184.62,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 15.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 34,
+            "mid_price": 57,
+            "high_price": 80,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 37.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90284"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon Lv.45",
+        "prices": [
+          {
+            "avg": 4.43,
+            "low": 2,
+            "avg1": 4.4,
+            "avg7": 3.59,
+            "avg30": 4.27,
+            "trend": 3.39,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 3.99,
+            "avg1": 4.39,
+            "avg7": 13.85,
+            "avg30": 9.52,
+            "trend": 12.72,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Vaporeon-Lv45-MD34"
+      }
+    },
+    {
+      "id": "pk_768e78454bac09f421ae61d9ed9be9978428c40eeeea3bf4de8e968f4cd0046ffeb648ca76306e0b090cd226ef85",
+      "card_info": {
+        "name": "Vaporeon - 22/98 (Cosmos Holo)",
+        "clean_name": "Vaporeon 22 98 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "022/098",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Aqua Effect </strong>\r\n<br>Each of your Stage 1 Pokémon in play is now a Water Pokémon in addition to its existing types.",
+        "attacks": [
+          "[2W] Hydro Splash (70)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.4,
+            "mid_price": 24.72,
+            "high_price": 198.86,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 23.96,
+            "direct_low_price": 24.72,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/246484"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f0ae5f16b8e45eee7c9675734861829c8274df10bfedf8b91b576037a706463a69d734d568fc00ced8739462d9ba",
+      "card_info": {
+        "name": "Vaporeon - 030/185 (Cosmos Holo)",
+        "clean_name": "Vaporeon 030 185 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "030/185",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Torrential Awakening</strong>\r\n<br>If this Pokémon has a Memory Capsule card attached to it, each player's Fire Pokémon has no Abilities.",
+        "attacks": [
+          "[1W] Aurora Beam (70)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.9,
+            "high_price": 65,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 3.87,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250290"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8251995eb10d7884653bcbe6d9da14fedf6429b4eaedfe385f5f67d28d3649efe5307fb6126a75cc3423f7306840",
+      "card_info": {
+        "name": "Vaporeon ex - 023/131 (Prismatic Evolutions Stamp)",
+        "clean_name": "Vaporeon ex 023 131 Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "023/131",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WC] Severe Squall<br> This attack does 60 damage to each of your opponent's Pokemon ex. This attack's damage isn't affected by Weakness or Resistance.",
+          "[RWL] Aquamarine (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.95,
+            "mid_price": 7.66,
+            "high_price": 150.94,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 6.74,
+            "direct_low_price": 8.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/618093"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon ex",
+        "prices": [
+          {
+            "avg": 11.01,
+            "low": 7,
+            "avg1": 10.3,
+            "avg7": 10.82,
+            "avg30": 10.74,
+            "trend": 10.28,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions-Additionals/Vaporeon-ex-xPRE023"
+      }
+    },
+    {
+      "id": "pk_2aff1d9fdc7591c5e0f86409d23aa058ee0d9d7cb063ea4b6bca643bd7f1cbaf1b0acb13b018ed3e7b32ae19bf78",
+      "card_info": {
+        "name": "Vaporeon - 022/131 (Cosmos Holo)",
+        "clean_name": "Vaporeon 022 131 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "022/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Spiral Drain (30)<br> Heal 30 damage from this Pokemon.",
+          "[WCC] Fighting Whirlpool (90+)<br> If your opponent's Active Pokemon is a Pokemon ex or Pokemon V, this attack does 90 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.13,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.97,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654776"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bb25847a106107f1347bab111cc1f7495396e3ce1d727bd7984c230207c1f4daf79e946ee2c9f374c8ed9e31be",
+      "card_info": {
+        "name": "Light Vaporeon",
+        "clean_name": "Light Vaporeon",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "052/105",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Wash Away\r\n<br>If you have any Benched Pokémon, flip a coin. If heads, remove all damage counters from 1 of your Benched Pokémon and discard all Energy cards attached to it.",
+          "[1WW] Hypno Shower (30)\r\n<br>The Defending Pokémon is now Asleep. Remove 1 damage counter from each Benched Pokémon <em>(yours and your opponent's)</em> with any damage counter on it."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 82,
+            "mid_price": 98.75,
+            "high_price": 899.72,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 84.87,
+            "direct_low_price": 104.13,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 18.59,
+            "mid_price": 31.86,
+            "high_price": 248.13,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 32.91,
+            "direct_low_price": 44.7,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86751"
+      },
+      "cardmarket": {
+        "product_name": "Light Vaporeon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.9,
+            "avg7": 2.47,
+            "avg30": 2.47,
+            "trend": 3.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 27.57,
+            "low": 3,
+            "avg1": 10,
+            "avg7": 19.91,
+            "avg30": 22.71,
+            "trend": 35.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Light-Vaporeon-NDE52"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 225,
+    "total_pages": 12
+  },
+  "metadata": {
+    "total_count": 225,
+    "tcg": 189,
+    "cardmarket": 197,
+    "tcg_only": 28,
+    "cardmarket_only": 36,
+    "both_sources": 161
+  }
+}

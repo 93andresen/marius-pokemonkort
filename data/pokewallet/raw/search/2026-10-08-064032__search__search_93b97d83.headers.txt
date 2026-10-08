@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Hitmonchan+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:34 GMT
+Content-Type: application/json
+Content-Length: 4944
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 906
+X-RateLimit-Remaining-Hour: 84
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gMqNNUPYxjk5KP%2F2L2fjo0Yb09NKm6b4ANWvQs%2Br8bLGL2WTBf3N3XFzvV2qGOvDc8iV%2FSrP0hhU0cGvyJAFh4Cb0wa4DUtVBO2SDctbeO%2FxB8fG81EiN9Wp5pHUMpzKG5F7f1bQayRLxU2Yz6Xc9g%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47277d5686e56cb-OSL
+alt-svc: h3=":443"; ma=86400

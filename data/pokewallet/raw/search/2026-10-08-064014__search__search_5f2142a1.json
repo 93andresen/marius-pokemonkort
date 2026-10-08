@@ -1,0 +1,1408 @@
+{
+  "query": "Steelix",
+  "results": [
+    {
+      "id": "pk_9157558ada2ad452938fb1430791c80c81db11d4b4245a04d97fe7c0b769014fb365cf57ab2412d855c822b9b86f",
+      "card_info": {
+        "name": "Steelix (H23)",
+        "clean_name": "Steelix H23",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H23/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Earth Rift (10)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness or Resistance for Benched Pokémon.)</em> Then, flip a coin. If tails, this attack can't be used during your next turn.",
+          "[2MM] Iron Smash (50+)\r\n<br>Flip 2 coins. If both are heads, this attack does 50 damage plus 20 more damage. If both are tails, this attack does nothing. If 1 is heads and 1 is tails, this attack just does 50 damage."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 120,
+            "mid_price": 124.99,
+            "high_price": 200,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 339.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89557"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.98,
+            "avg7": 27.67,
+            "avg30": 24.85,
+            "trend": 28.68,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 847.59,
+            "low": 40,
+            "avg1": 124.99,
+            "avg7": 910.45,
+            "avg30": 318.51,
+            "trend": 974.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Steelix-V1-AQH23"
+      }
+    },
+    {
+      "id": "pk_952df479cb16448dfd399358f4db5cccf584935b4d07ccefccac4c545098e2cfe75d99338b1f919dc52dcdda24",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "035/147",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Earth Rift (10)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness or Resistance for Benched Pokémon.)</em> Then, flip a coin. If tails, this attack can't be used during your next turn.",
+          "[2MM] Iron Smash (50+)\r\n<br>Flip 2 coins. If both are heads, this attack does 50 damage plus 20 more damage. If both are tails, this attack does nothing. If 1 is heads and 1 is tails, this attack just does 50 damage."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 49.96,
+            "mid_price": 73.44,
+            "high_price": 249.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 68.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 52,
+            "mid_price": 101.74,
+            "high_price": 151.48,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 93.64,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89560"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 75,
+            "low": 14.9,
+            "avg1": 19.99,
+            "avg7": 32.58,
+            "avg30": 20.18,
+            "trend": 35.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.54,
+            "low": 2.97,
+            "avg1": 19.94,
+            "avg7": 12.83,
+            "avg30": 9.59,
+            "trend": 13.04,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Steelix-V2-AQ35"
+      }
+    },
+    {
+      "id": "pk_42031c524ce9fc2d658410c92d144bc6c01246b8a0c01359cae9cf1c79ba075cdf5c461f8191aa679d6ce32e233726",
+      "card_info": {
+        "name": "Steelix - 125/214 (Cosmos Holo)",
+        "clean_name": "Steelix 125 214 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "125/214",
+        "rarity": "Promo",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "180",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2M] Hammer In (90)",
+          "[3M] Iron Tackle (170)\r\n<br>This Pokémon does 50 damage to itself."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.89,
+            "mid_price": 68.37,
+            "high_price": 116.49,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 30.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/245918"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4d5dd8e03382a457a4fcf45fdeae6633cae8fc6407b5b025d63440947a3d6ed3bd3b386632d8ae5b7239701d2d41",
+      "card_info": {
+        "name": "Steelix - 24/95 (HGSS Unleashed)",
+        "clean_name": "Steelix 24 95 HGSS Unleashed",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "024/095",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2M] Guard Press (40)\r\n<br>During your opponent's next turn, any damage done to Steelix by attacks is reduced by 20 <em>(after applying Weakness and Resistance.)</em>.",
+          "[2MM] Steel Swing (80x)\r\n<br>Flip 2 coins. This attack does 80 damage times the number of heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.04,
+            "mid_price": 24.99,
+            "high_price": 96.51,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 11.89,
+            "direct_low_price": 95.66,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125050"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6877baf882137b9ba855f4059e712be6e5b9550402ef268be315909ad8b1216b4139bbabc11cca4b01e8212f0322bc",
+      "card_info": {
+        "name": "Steelix - 139/264",
+        "clean_name": "Steelix",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "139/264",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Powerful Rage (20x)\r\n<br>This attack does 20 damage for each damage counter on this Pokémon.",
+          "[1FF] Earthquake (180)\r\n<br>This attack also does 30 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/270098"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cfe56ff3732dfe3d0f21982a056ae7d915babf44245c2ee24ca6a5561ebe61f4972b433a75ff0c5d9b8a16ad7e",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "38/130",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[M] Slam (30x)\r\n<br>\r\nFlip 2 coins. This attack does 30 damage times the number of heads.",
+          "[2MM] Metal Slash (100)\r\n<br>\r\nSteelix can't attack during your next turn."
+        ],
+        "weakness": "R+20",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.5,
+            "high_price": 35.02,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 4.47,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.55,
+            "mid_price": 14.77,
+            "high_price": 289.99,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 14.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89561"
+      },
+      "cardmarket": {
+        "product_name": "Steelix Lv.50",
+        "prices": [
+          {
+            "avg": 2.15,
+            "low": 0.09,
+            "avg1": 1,
+            "avg7": 1.47,
+            "avg30": 2.95,
+            "trend": 1.16,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.24,
+            "low": 0.08,
+            "avg1": 2.99,
+            "avg7": 1.35,
+            "avg30": 0.92,
+            "trend": 1.25,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Steelix-Lv50-DP38"
+      }
+    },
+    {
+      "id": "pk_4a054e3405d7796974b3467efa362956ba8ab732ec97e4354cc3760b9786435b8f0761b789cfd3088c666a5d7299",
+      "card_info": {
+        "name": "Steelix - 24/95 (League Promo)",
+        "clean_name": "Steelix 24 95 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "024/095",
+        "rarity": "Promo",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2M] Guard Press (40)\r\n<br>During your opponent's next turn, any damage done to Steelix by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+          "[2MM] Steel Swing (80x)\r\n<br>Flip 2 coins. This attack does 80 damage times the number of heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.69,
+            "mid_price": 12.66,
+            "high_price": 107.16,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 10.48,
+            "direct_low_price": 10.66,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/164283"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1be582f97d54b84b849439c9310ca999bc39a2a7c9486c0203fbc922aee473d77319ad0434185a3a5b27e107f3ab36",
+      "card_info": {
+        "name": "Steelix - 093/132",
+        "clean_name": "Steelix",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "093/132",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Welcoming Tail (40+)<br> If you have exactly 6 Prize cards remaining, this attack does 200 more damage.",
+          "[MMCC] Skull Bash (140)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.19,
+            "direct_low_price": 0.12,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.29,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.31,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654432"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.14,
+            "avg30": 0.12,
+            "trend": 0.13,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Steelix-V1-MEG093"
+      }
+    },
+    {
+      "id": "pk_705585c45b47d21886dda233bcb2e2b270ec1ba6d3ac85bac8e02f151400644dbe0f9c00a9d75e353b9ab7f36038baa1",
+      "card_info": {
+        "name": "Steelix - 150/132",
+        "clean_name": "Steelix",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "150/132",
+        "rarity": "Illustration Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Welcoming Tail (40+)<br> If you have exactly 6 Prize cards remaining, this attack does 200 more damage.",
+          "[MMCC] Skull Bash (140)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.95,
+            "mid_price": 7,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 5.25,
+            "direct_low_price": 5.96,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654489"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 7.84,
+            "low": 2.9,
+            "avg1": 6.85,
+            "avg7": 7.56,
+            "avg30": 7.54,
+            "trend": 7.53,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Steelix-V2-MEG150"
+      }
+    },
+    {
+      "id": "pk_63187dec1b2cdb10faaf06e599df131598cb86715c672e91d9afd386c81753b03107f2a4e9ab8b832461002b6fb2a2",
+      "card_info": {
+        "name": "Steelix - 125/182 (Cosmos Holo)",
+        "clean_name": "Steelix 125 182 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "125/182",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[M] Earthquake (130)\r\n<br>This attack also does 30 damage to each of your Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon)</em>.",
+          "[3MM] Heavy Impact (180)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.6,
+            "mid_price": 11.22,
+            "high_price": 94.42,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 10.79,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/557370"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_751158ab2c453b6ec0ce02032de365e355e27a4579a0617f0942248604fa60288977cbf23a1dc159ee7d89241bb6",
+      "card_info": {
+        "name": "Shining Steelix",
+        "clean_name": "Shining Steelix",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "112/105",
+        "rarity": "Secret Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[MMFF] Crushing Earth (80) \r\n<br>\r\nFlip a coin. If heads, this attack does 10 damage to each Benched Pokémon <em>(yours and your opponent's)</em>. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> If tails, this attack does nothing. Either way, Shining Steelix can't attack during your next turn."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 450,
+            "mid_price": 850,
+            "high_price": 925,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 562.5,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89170"
+      },
+      "cardmarket": {
+        "product_name": "Shining Steelix",
+        "prices": [
+          {
+            "avg": 236.66,
+            "low": 99.99,
+            "avg1": 277.5,
+            "avg7": 235,
+            "avg30": 326.38,
+            "trend": 139.42,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 67.95,
+            "avg7": 174.74,
+            "avg30": 138.97,
+            "trend": 184.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Shining-Steelix-NDE112"
+      }
+    },
+    {
+      "id": "pk_5c7173811dc167ec50431f843511410646af1c792808afca1503bdf4d214a13f1c1e98f4fa5e746d350db10a13",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "015/111",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tackle (20)",
+          "[2M] Tail Crush (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 20 more damage; if tails, this attack does 30 damage."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139.95,
+            "mid_price": 215,
+            "high_price": 905.86,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 133.84,
+            "direct_low_price": 249.97,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 28.49,
+            "mid_price": 48.01,
+            "high_price": 311.27,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 52.61,
+            "direct_low_price": 246.88,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89555"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 127.97,
+            "low": 2.49,
+            "avg1": 23.3,
+            "avg7": 249.9,
+            "avg30": 82.84,
+            "trend": 78.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.74,
+            "avg7": 9.28,
+            "avg30": 11.45,
+            "trend": 10.11,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Steelix-NG15"
+      }
+    },
+    {
+      "id": "pk_0e65e1b0a57b3c6a3b784372d95ff6bfa57c1c512c785ce00a11b7aadb8492be374576ebc0ea5b511dd02b43bd",
+      "card_info": {
+        "name": "Steelix (Team Plasma)",
+        "clean_name": "Steelix Team Plasma",
+        "set_name": "Plasma Freeze",
+        "set_code": "PLF",
+        "set_id": "1382",
+        "card_number": "79/116",
+        "rarity": "Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2M] Metal Defender (50) During your opponent's next turn, this Pokemon has no Weakness.",
+          "[4M] Heavy Impact (100)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.3,
+            "mid_price": 3.59,
+            "high_price": 37.92,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 3.94,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 11,
+            "mid_price": 14.5,
+            "high_price": 170.62,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 13.84,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89565"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 10.77,
+            "low": 0.15,
+            "avg1": 14.89,
+            "avg7": 10.08,
+            "avg30": 4.92,
+            "trend": 8.13,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.6,
+            "low": 0.14,
+            "avg1": 0.5,
+            "avg7": 1.45,
+            "avg30": 1.73,
+            "trend": 1.4,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Steelix-PLF79"
+      }
+    },
+    {
+      "id": "pk_66585c8154d426a29ebe6167d6f24683cc4a05fd804e870719a12197762489e33904b51db35980cc4075cfbd3e82",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "Pokemon GO",
+        "set_code": "PGO",
+        "set_id": "3064",
+        "card_number": "044/078",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[3] Body Slam (70)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[3M] Iron Buster (170)\r\n<br>During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/277012"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.03,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.32,
+            "avg30": 0.29,
+            "trend": 0.37,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Steelix-PGO044"
+      }
+    },
+    {
+      "id": "pk_674ea9895ac130f8264e661dca450e31c8f4cb0f300551ce288aca64f5536facad02029715265cfc86b8171ed7cd2645",
+      "card_info": {
+        "name": "Radiant Steelix",
+        "clean_name": "Radiant Steelix",
+        "set_name": "Prize Pack Series Cards",
+        "set_code": "22880",
+        "set_id": "22880",
+        "card_number": "124/196",
+        "rarity": "Radiant Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<em>Radiant Pokémon Rule</em>\r\n<br>\r\nYou can't have more than 1 Radiant Pokémon in your deck.",
+        "attacks": [
+          "[1] Energy Stream (20)\r\n<br>\r\nAttach up to 2 Metal Energy cards from your discard pile to this Pokémon.",
+          "[1MM] Destructive Finish (60+)\r\n<br>\r\nDiscard cards from the top of your deck until only 1 card remains. This attack does 30 more damage for each Energy card you discarded in this way."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 50,
+            "mid_price": 70,
+            "high_price": 89.99,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 45.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/513810"
+      },
+      "cardmarket": {
+        "product_name": "Radiant Steelix",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 40.52,
+            "low": 10,
+            "avg1": 12.5,
+            "avg7": 42.08,
+            "avg30": 24.84,
+            "trend": 41.35,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Play-Pokemon-Prize-Pack-Series-Three/Radiant-Steelix-PPS3LOR-124"
+      }
+    },
+    {
+      "id": "pk_29c3e43ae9b435c6e2c463e33d17a45511a16c6d89c9de57503038aa48aa051826d9908505b3d482841b7e177d",
+      "card_info": {
+        "name": "Steelix GL",
+        "clean_name": "Steelix GL",
+        "set_name": "Rising Rivals",
+        "set_code": "RR",
+        "set_id": "1367",
+        "card_number": "51/111",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Mend - Search your discard pile for a M Energy card and attach it to Steelix GL.  If you do, remove 1 damage counter from Steelix GL.",
+          "[2MM] Squeeze (30+) Flip a coin.  If heads, this attack does 30 damage plus 50 more damage and the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 0.93,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 0.88,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 9.52,
+            "mid_price": 11.99,
+            "high_price": 232.92,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 14.94,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89567"
+      },
+      "cardmarket": {
+        "product_name": "Steelix [GL] Lv.38",
+        "prices": [
+          {
+            "avg": 1.96,
+            "low": 0.3,
+            "avg1": 14.74,
+            "avg7": 3.55,
+            "avg30": 3.07,
+            "trend": 3.84,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.58,
+            "low": 0.05,
+            "avg1": 0.75,
+            "avg7": 0.58,
+            "avg30": 0.53,
+            "trend": 0.58,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Steelix-GL-Lv38-RR51"
+      }
+    },
+    {
+      "id": "pk_280c021f7435c9f1860ceb6c153036c431e3682fe3e8bdec44c8c35b407a0b48760892cf4553d561c85feb35a97b",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "SM - Celestial Storm",
+        "set_code": "CES",
+        "set_id": "2278",
+        "card_number": "89/168",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tackle (30)",
+          "[2M] Tail Crush (80+)\r\n<br>Flip a coin. If heads, this attack does 40 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.9,
+            "mid_price": 3.04,
+            "high_price": 25.62,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 3.07,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 2.8,
+            "mid_price": 4,
+            "high_price": 30.9,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 3.07,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/170911"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 2.78,
+            "low": 0.9,
+            "avg1": 3.25,
+            "avg7": 2.59,
+            "avg30": 2.57,
+            "trend": 3.21,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.87,
+            "low": 0.9,
+            "avg1": 2.99,
+            "avg7": 2.99,
+            "avg30": 2.55,
+            "trend": 2.87,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Steelix-CES89"
+      }
+    },
+    {
+      "id": "pk_adc4e704e74ae222ac90b37327f63f0ed4081e8e54cef1be653ac3137cdbb37e46684b4db1ac54d9ef7b9b4b4d2a5b",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "139/236",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Thwomp Fall (50x)\r\n<br>You may discard any number of Pokemon from your hand that have a Retreat Cost of 4. This attack does 50 damage for each card you discarded in this way.",
+          "[3M] Iron Tail (100x)\r\n<br>Flip a coin until you get tails. This attack does 100 damage for each heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.19,
+            "high_price": 21,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 1.19,
+            "direct_low_price": 1.2,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.82,
+            "high_price": 15,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 0.77,
+            "direct_low_price": 1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/201184"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 1.14,
+            "low": 0.2,
+            "avg1": 1.23,
+            "avg7": 1.05,
+            "avg30": 1.2,
+            "trend": 1.04,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2,
+            "low": 0.39,
+            "avg1": 4.49,
+            "avg7": 1.9,
+            "avg30": 1.36,
+            "trend": 1.7,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Steelix-V1-CEC139"
+      }
+    },
+    {
+      "id": "pk_6ff385b0a1c4bfdce2ac5369e0271f340bf343c8b11334069e4098ed716a1de34e7657cfe5b7741a5bd4eb1e0f398b",
+      "card_info": {
+        "name": "Steelix (Secret)",
+        "clean_name": "Steelix Secret",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "247/236",
+        "rarity": "Secret Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Thumping Fall (50x)\r\n<br>You may discard any number of Pokemon from your hand that have a Retreat Cost of 4. This attack does 50 damage for each card you discarded in this way.",
+          "[3M] Iron Tail (100x)\r\n<br>Flip a coin until you get tails. This attack does 100 damage for each heads."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.64,
+            "mid_price": 20,
+            "high_price": 279.5,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 19.01,
+            "direct_low_price": 22.47,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/201358"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 6.85,
+            "avg30": 7.07,
+            "trend": 6.68,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 15.07,
+            "low": 3.95,
+            "avg1": 16,
+            "avg7": 17.67,
+            "avg30": 15.41,
+            "trend": 15.03,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Steelix-V2-CEC247"
+      }
+    },
+    {
+      "id": "pk_902127eca148c798a71af25a14013f85559e4c2163b8f2bd55036507f145617b4d2ad9ecd12434d5f8a4949aef7bb0",
+      "card_info": {
+        "name": "Steelix",
+        "clean_name": "Steelix",
+        "set_name": "SM - Lost Thunder",
+        "set_code": "SM8",
+        "set_id": "2328",
+        "card_number": "125/214",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2M] Hammer In (90)",
+          "[3M] Iron Tackle (170)\r\n<br>This Pokemon does 50 damage to itself.."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.49,
+            "high_price": 17.7,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.48,
+            "direct_low_price": 0.49,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.4,
+            "mid_price": 2,
+            "high_price": 18.18,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 2.25,
+            "direct_low_price": 2.47,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/178940"
+      },
+      "cardmarket": {
+        "product_name": "Steelix",
+        "prices": [
+          {
+            "avg": 1.75,
+            "low": 0.7,
+            "avg1": 1.99,
+            "avg7": 1.82,
+            "avg30": 1.71,
+            "trend": 2.11,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.51,
+            "low": 0.12,
+            "avg1": 0.3,
+            "avg7": 0.53,
+            "avg30": 0.52,
+            "trend": 0.54,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Steelix-LOT125"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 119,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 119,
+    "tcg": 106,
+    "cardmarket": 82,
+    "tcg_only": 37,
+    "cardmarket_only": 13,
+    "both_sources": 69
+  }
+}

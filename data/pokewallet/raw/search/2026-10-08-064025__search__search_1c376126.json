@@ -1,0 +1,208 @@
+{
+  "query": "Bulbasaur Base Set",
+  "results": [
+    {
+      "id": "pk_605f8db96c1fda719dceaf902b2f0812aa2dc3ddfe436791ac31321f2fc568faf42836c4a09627bca48346b1",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "067/130",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 2.18,
+            "high_price": 96.5,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.67,
+            "direct_low_price": 95.65,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42486"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 2.22,
+            "low": 0.3,
+            "avg1": 0.55,
+            "avg7": 1.96,
+            "avg30": 2.57,
+            "trend": 2.01,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.95,
+            "avg7": 8.95,
+            "avg30": 8.95,
+            "trend": 8.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Bulbasaur-B267"
+      }
+    },
+    {
+      "id": "pk_694a18a476e4c8a7323e8f6ee4a43dc63843abc2949a9a9f946ec53ac321f664e5a1934c6e7d4e8384a737c6c6da",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "044/102",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 194,
+            "mid_price": 332.09,
+            "high_price": 549.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 313.19,
+            "direct_low_price": 389.86,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8.5,
+            "mid_price": 19.58,
+            "high_price": 184.61,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 22.48,
+            "direct_low_price": 74.51,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107041"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_235e495b9b4509de3fa997969af105cc4988834bb33a08dcba157d69ba3b1c906f65bf73efbec53988d20a8f",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "044/102",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.27,
+            "high_price": 74.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 3.51,
+            "direct_low_price": 18.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42387"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.8,
+            "avg7": 13.07,
+            "avg30": 12.91,
+            "trend": 15.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.92,
+            "low": 0.02,
+            "avg1": 5.07,
+            "avg7": 5.73,
+            "avg30": 5.25,
+            "trend": 9.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Bulbasaur-V1-BS44"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 2,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

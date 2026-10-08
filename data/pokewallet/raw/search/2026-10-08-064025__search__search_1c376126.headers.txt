@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Bulbasaur+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:27 GMT
+Content-Type: application/json
+Content-Length: 3697
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 910
+X-RateLimit-Remaining-Hour: 88
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IVqUFJdsoWC6YEZwKGkS4YcP86udvD9kNC2m%2BWrdJQwUoMuMmd9STJUE4%2Fnt7v1Pc5GDAvjLotT1fFrsWozu9hHpXlpK%2FZf87fzeEAQK8g8BdRJU%2BjnHvwr91skOMxRpz0qRoApgrKjIzw0PokNLRw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47277a5bfa1b28a-OSL
+alt-svc: h3=":443"; ma=86400

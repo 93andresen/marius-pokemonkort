@@ -1,0 +1,429 @@
+{
+  "query": "Venusaur Base Set",
+  "results": [
+    {
+      "id": "pk_eca357c108892d463afc353ddf38efed49459a1848247625f0ae54e557ea823532aa42a6a55b6669eb17399c",
+      "card_info": {
+        "name": "Venusaur",
+        "clean_name": "Venusaur",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "018/130",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GGGG] Solarbeam (60)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 62.2,
+            "mid_price": 79.9,
+            "high_price": 734.74,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 114.79,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42462"
+      },
+      "cardmarket": {
+        "product_name": "Venusaur",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 71.99,
+            "avg30": 78.99,
+            "trend": 99.2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 55.84,
+            "low": 22,
+            "avg1": 129.94,
+            "avg7": 66.28,
+            "avg30": 58.23,
+            "trend": 62.3,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Venusaur-B218"
+      }
+    },
+    {
+      "id": "pk_f69b20a763666ae195cc7483ba6b979eb777af894c307c15d64fd16f11c6f093dbfc08d753bd8077cca6af3d5fff",
+      "card_info": {
+        "name": "Venusaur",
+        "clean_name": "Venusaur",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "015/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GGGG] Solarbeam (60)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 899.95,
+            "mid_price": 1099.99,
+            "high_price": 2999.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 945.83,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 444.8,
+            "mid_price": 499.99,
+            "high_price": 519.95,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 494.19,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107010"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_47f19a5ebbfc00c55acdf54aebc402250950e5872d10d3017335415e8dcfa25ab4db3b6fc6d9079efcaba377",
+      "card_info": {
+        "name": "Venusaur",
+        "clean_name": "Venusaur",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "015/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GGGG] Solarbeam (60)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 94.99,
+            "mid_price": 129.99,
+            "high_price": 1199,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 168.98,
+            "direct_low_price": 131.24,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42355"
+      },
+      "cardmarket": {
+        "product_name": "Venusaur",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 82.5,
+            "avg7": 39.74,
+            "avg30": 61.22,
+            "trend": 29.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 105.97,
+            "low": 20,
+            "avg1": 56.07,
+            "avg7": 89.47,
+            "avg30": 105.72,
+            "trend": 87.79,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Venusaur-V1-BS15"
+      }
+    },
+    {
+      "id": "pk_c26f168ae84b9de91362591ee3feeea5f6bf1fd8fa41cb507e69297e82256b57ff7a0a957a9d035e57589394",
+      "card_info": {
+        "name": "M Venusaur EX",
+        "clean_name": "M Venusaur EX",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "2/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Mega",
+        "card_text": null,
+        "attacks": [
+          "[1GGG] Crisis Vine (120) \r\n<br>Your opponent's Active Pokemon is now Paralyzed and Poisoned."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 22,
+            "high_price": 292.8,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 24.08,
+            "direct_low_price": 49.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86955"
+      },
+      "cardmarket": {
+        "product_name": "MVenusaur EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15.2,
+            "avg7": 10.45,
+            "avg30": 11.12,
+            "trend": 11.68,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 28.18,
+            "low": 2.75,
+            "avg1": 8,
+            "avg7": 21.88,
+            "avg30": 18.72,
+            "trend": 22.05,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/MVenusaur-EX-XY2"
+      }
+    },
+    {
+      "id": "pk_0db8912b4ce877670d6649b0e03fde7e73a10359b0979c1cfbf6900df24676dc89e326f4f890edb855fc16ef",
+      "card_info": {
+        "name": "Venusaur EX",
+        "clean_name": "Venusaur EX",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "1/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2G] Poison Powder (60) \r\n<br>Your opponent's Active Pokemon is now Poisoned.",
+          "[2GG] Jungle Hammer (90)\r\n<br>Heal 30 damage from this Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.44,
+            "mid_price": 6.03,
+            "high_price": 96.7,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 6.89,
+            "direct_low_price": 12.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90324"
+      },
+      "cardmarket": {
+        "product_name": "Venusaur EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.99,
+            "avg7": 4.56,
+            "avg30": 4.47,
+            "trend": 4.37,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.14,
+            "low": 1.89,
+            "avg1": 7.9,
+            "avg7": 7.25,
+            "avg30": 6.65,
+            "trend": 9.13,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Venusaur-EX-XY1"
+      }
+    },
+    {
+      "id": "pk_c228b640f24d475c289714d51c26e7d7ea22121c64129197b09bc41a76ea5b16019c34b631e6b349c05c1e25d074",
+      "card_info": {
+        "name": "Venusaur EX (141 Full Art)",
+        "clean_name": "Venusaur EX 141 Full Art",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "141/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2G] Poison Powder (60) \r\n<br>Your opponent's Active Pokemon is now Poisoned.",
+          "[2GG] Jungle Hammer (90) \r\n<br>Heal 30 damage from this Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 67.7,
+            "mid_price": 90.99,
+            "high_price": 1349.82,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 102.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90325"
+      },
+      "cardmarket": {
+        "product_name": "Venusaur EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 40,
+            "avg7": 39.9,
+            "avg30": 33.59,
+            "trend": 49.12,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 127.48,
+            "low": 14,
+            "avg1": 64.98,
+            "avg7": 109.98,
+            "avg30": 75.78,
+            "trend": 75.21,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Venusaur-EX-XY141"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 6,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 6,
+    "tcg": 6,
+    "cardmarket": 5,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 5
+  }
+}

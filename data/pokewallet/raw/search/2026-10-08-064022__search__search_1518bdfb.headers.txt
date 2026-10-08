@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Minum+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:23 GMT
+Content-Type: application/json
+Content-Length: 202
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 912
+X-RateLimit-Remaining-Hour: 90
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XWQo2rPhwhH%2Bnk4uKf1uDvWXS0mCaoiFvzg5Kh13UVRUYzAq3ruFNrshpqlF%2BzOQ76Lni1R112tF6cobRUIxn5vbroR3peCbv1m2QuizVpSOLP2RHQIwf6DwE6AB62C22qH%2FV5ntsZs4qQHbxCTo6Q%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472778f6b457130-OSL
+alt-svc: h3=":443"; ma=86400

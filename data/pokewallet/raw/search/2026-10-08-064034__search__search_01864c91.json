@@ -1,0 +1,390 @@
+{
+  "query": "Gyarados Base Set",
+  "results": [
+    {
+      "id": "pk_d3c7ab1c30c82ede1d783197a32a47cd1ee4e62a4492447e36f1bbe57c760879c04baa66e610ec119b66bf",
+      "card_info": {
+        "name": "Gyarados",
+        "clean_name": "Gyarados",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "007/130",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Dragon Rage (50)",
+          "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 33.33,
+            "high_price": 620.76,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 45.93,
+            "direct_low_price": 32.31,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42489"
+      },
+      "cardmarket": {
+        "product_name": "Gyarados",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 17.5,
+            "avg7": 13.34,
+            "avg30": 18.77,
+            "trend": 17.9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 34.04,
+            "low": 6,
+            "avg1": 15,
+            "avg7": 24.49,
+            "avg30": 33.27,
+            "trend": 33.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Gyarados-B27"
+      }
+    },
+    {
+      "id": "pk_1d5c2f742cbc7edb68fbb5dc376b22d63bd61337410db5477bbdf6833bf6e2a91719f0b075cd97c653a85b86cf",
+      "card_info": {
+        "name": "Gyarados",
+        "clean_name": "Gyarados",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "006/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Dragon Rage (50)",
+          "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2380,
+            "mid_price": 8330,
+            "high_price": 14280,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 111.61,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 87.99,
+            "mid_price": 122.5,
+            "high_price": 1186.77,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 123.95,
+            "direct_low_price": 1185.92,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107000"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8e85fc6086675e0b4d96e1f7693b7cdf1730bbe8be36bde2f1e4ad649b2049cbbd6ebcd43c86eb9d26f394",
+      "card_info": {
+        "name": "Gyarados",
+        "clean_name": "Gyarados",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "006/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Dragon Rage (50)",
+          "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.8,
+            "mid_price": 47.2,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 46.81,
+            "direct_low_price": 98.26,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42404"
+      },
+      "cardmarket": {
+        "product_name": "Gyarados",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12.94,
+            "avg7": 13.88,
+            "avg30": 12.87,
+            "trend": 14.3,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 25.4,
+            "low": 1.5,
+            "avg1": 10.09,
+            "avg7": 15.43,
+            "avg30": 24.44,
+            "trend": 20.21,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Gyarados-V1-BS6"
+      }
+    },
+    {
+      "id": "pk_6bcacad199c775557aca3f7a0ab71ddd6d8dc1284da0782832c208798b063c258f5484cfc9fb2129af06094e2071ce",
+      "card_info": {
+        "name": "Gyarados ex - 045/198",
+        "clean_name": "Gyarados ex",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "045/198",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Stage 1",
+        "card_text": "Terastal: This Pokemon doesn’t take any damage from attacks while on the Bench.",
+        "attacks": [
+          "[WWW] Waterfall (100)",
+          "[2WWW] Tyrannical Tail: (180+)\r\n<br>If your opponent’s Active Pokémon already has any damage counters on it, this attack does 180 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 1.97,
+            "direct_low_price": 0.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/487889"
+      },
+      "cardmarket": {
+        "product_name": "Gyarados ex",
+        "prices": [
+          {
+            "avg": 1.45,
+            "low": 0.25,
+            "avg1": 1.67,
+            "avg7": 1.45,
+            "avg30": 1.44,
+            "trend": 1.33,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Gyarados-ex-V1-SVI045"
+      }
+    },
+    {
+      "id": "pk_25c030effb48965a9564aa21f56e06528e910b89e3e8c5c0c1ec6185096b8261a6c82bb952fecee753cc9e04462ac50d",
+      "card_info": {
+        "name": "Gyarados ex - 225/198",
+        "clean_name": "Gyarados ex",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "225/198",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Waterfall (100)",
+          "[2WWW] Tyrannical Tail (180+)\r\n<br>If your opponent's Active Pokémon already has any damage counters on it, this attack does 180 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 10.84,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 9.62,
+            "direct_low_price": 8.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490083"
+      },
+      "cardmarket": {
+        "product_name": "Gyarados ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.8,
+            "low": 2.99,
+            "avg1": 5.8,
+            "avg7": 6.35,
+            "avg30": 6.66,
+            "trend": 6.17,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Gyarados-ex-V2-SVI225"
+      }
+    },
+    {
+      "id": "pk_cfe201b8f962c30f3a328f8cb504e7de770a5ef80d0ec13a6b73c27b63bbe1bca46f2470e5aca429",
+      "card_info": {
+        "name": "XY Three Pack Blister [Gyarados]",
+        "clean_name": "XY Three Pack Blister Gyarados",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "This three pack Blister features 3 booster packs and an Cosmos Holofoil print of Dragons Exalted Gyarados.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/97735"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 6,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 6,
+    "tcg": 6,
+    "cardmarket": 4,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 4
+  }
+}

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Steelix&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:16 GMT
+Content-Type: application/json
+Content-Length: 27793
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 916
+X-RateLimit-Remaining-Hour: 94
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D2w9kzN%2Fpkky5%2BW13gVxB3RjpLg0XvG2n9%2FrPgdcTxD7xszRiuqk8y8LiKLpWWQZL9wPtRzQZt%2BBe8kyf5bYkWQ5EPJCyd3O%2Btph%2FZu6Aw8LOcEBYRO2ZtLtDej4OYDi7GpF%2BefK4i6wCSvPwGLhXA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472776349a656ae-OSL
+alt-svc: h3=":443"; ma=86400

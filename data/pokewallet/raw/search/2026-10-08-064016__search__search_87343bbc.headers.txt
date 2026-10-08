@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Dragonite+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:18 GMT
+Content-Type: application/json
+Content-Length: 2371
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 915
+X-RateLimit-Remaining-Hour: 93
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5oVoco9oiVgdlwzvoMZpQRD%2FKt3Hkay0CF807fi0fto8qYIyWFgeoJZtTV%2B0Y6CV7rgor2wBUaNuEbvp3bhM0YjAsu6bDfY1GG56c7kk5ytMCePH1Vz3JMOHdS%2BWUjYltf4OM%2BHQx6lQVIjDWI7ajw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472776ef90a712a-OSL
+alt-svc: h3=":443"; ma=86400

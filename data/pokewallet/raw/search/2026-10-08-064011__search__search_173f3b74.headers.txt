@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Venusaur+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:12 GMT
+Content-Type: application/json
+Content-Length: 8154
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 918
+X-RateLimit-Remaining-Hour: 96
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1mPMbpd36zMF5efMT8skhjAfcMCy%2FpNr%2FKeWsUZzrqg6Z7tSp%2FeMEOGdUpW3aURIbuiWyaA1PGdCH5IzipQI1MLgZJBmN1SWeUPAA9juRttuhITJ8uqyqaXYtIro1RFjq0Mi6sennlJR9aBMOjzN0A%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472774beeb056ca-OSL
+alt-svc: h3=":443"; ma=86400

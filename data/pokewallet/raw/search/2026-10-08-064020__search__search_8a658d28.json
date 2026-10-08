@@ -1,0 +1,211 @@
+{
+  "query": "Squirtle Base Set",
+  "results": [
+    {
+      "id": "pk_7157188f4236d3146ec50ed507c6ef4f90e1ce253cd50f0eb350410fb657968180d98aedc2a135f62b53de87",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "093/130",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.33,
+            "mid_price": 1.3,
+            "high_price": 150,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.96,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42544"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 1.98,
+            "avg30": 1.98,
+            "trend": 1.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.28,
+            "low": 0.15,
+            "avg1": 1.84,
+            "avg7": 1.25,
+            "avg30": 2.14,
+            "trend": 2.56,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Squirtle-B293"
+      }
+    },
+    {
+      "id": "pk_68619252de9c9b75664a78488c5c1c87b47ee95703e3f5db0d5f94c180fad80cf4f39a44960923c6ef0b77129760",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "063/102",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 96.99,
+            "mid_price": 279.99,
+            "high_price": 844.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 135.29,
+            "direct_low_price": 499.77,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 13,
+            "mid_price": 22.5,
+            "high_price": 145.49,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 33.96,
+            "direct_low_price": 49.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107060"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7304fcda23924edff32b7b92b7cf2468d5ee91367e2ee075efc9941d3ba7d5777bf1acafa5350132650488d1",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "063/102",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 4.65,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 5.47,
+            "direct_low_price": 13.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42408"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 87.31,
+            "avg30": 61.41,
+            "trend": 92.04,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.33,
+            "low": 0.02,
+            "avg1": 2.14,
+            "avg7": 10.21,
+            "avg30": 7,
+            "trend": 6.62,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Squirtle-V1-BS63"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 2,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

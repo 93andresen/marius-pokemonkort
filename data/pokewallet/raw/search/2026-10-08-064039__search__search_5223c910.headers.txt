@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Mew+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:40 GMT
+Content-Type: application/json
+Content-Length: 4262
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 902
+X-RateLimit-Remaining-Hour: 80
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NTd2FS3j1bhBQEF3zxB1Tic5IWD2VbF3QTQkqWvboIHd9xOVaG94QW2YGsY%2B38O2bqCmUToFqLDwaJIzbQsN82giuHtS0%2BP0dM%2BL%2FxdJ9Mu9dQzYh%2BCe5o%2BajiSOe1b30iAWX8Vi1Rw8B8ejq9lW5g%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278007a885ebd-OSL
+alt-svc: h3=":443"; ma=86400

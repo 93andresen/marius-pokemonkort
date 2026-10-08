@@ -1,0 +1,211 @@
+{
+  "query": "Charmander Base Set",
+  "results": [
+    {
+      "id": "pk_3bf1618e2dd102f9bed90065dec525c07e0b93d05c36dbe30b110bcab2eb3d7c997bbe84b3c01e806229dd9c",
+      "card_info": {
+        "name": "Charmander",
+        "clean_name": "Charmander",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "069/130",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[1R] Ember (30)\r\n<br>Discard 1 Fire Energy card attached to Charmander in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 1.05,
+            "high_price": 7.87,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.71,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42488"
+      },
+      "cardmarket": {
+        "product_name": "Charmander",
+        "prices": [
+          {
+            "avg": 1.72,
+            "low": 0.15,
+            "avg1": 0.65,
+            "avg7": 1.46,
+            "avg30": 1.6,
+            "trend": 1.66,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.95,
+            "avg7": 3.95,
+            "avg30": 3.95,
+            "trend": 3.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Charmander-B269"
+      }
+    },
+    {
+      "id": "pk_1a1202f16975307974413f8acce3de75c02ec9c5cfe69b39d90218a80b4d19d23194d50f796f873f90ac772eca3e",
+      "card_info": {
+        "name": "Charmander",
+        "clean_name": "Charmander",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "046/102",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[1R] Ember (30)\r\n<br>Discard 1 Fire Energy card attached to Charmander in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 125,
+            "mid_price": 232,
+            "high_price": 4413.93,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 187.06,
+            "direct_low_price": 2910.39,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 9.49,
+            "high_price": 124.98,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 10.62,
+            "direct_low_price": 11.4,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107043"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f1dc17c4dd39a4f9cd4d2e6fbf6715bf2e0861e844d9d41ac781a3cc25358136543c2b480df50dc9ffb93de8",
+      "card_info": {
+        "name": "Charmander",
+        "clean_name": "Charmander",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "046/102",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[1R] Ember (30)\r\n<br>Discard 1 Fire Energy card attached to Charmander in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 1.44,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 3.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42389"
+      },
+      "cardmarket": {
+        "product_name": "Charmander",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 20,
+            "avg7": 6.42,
+            "avg30": 12.47,
+            "trend": 7.04,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.6,
+            "low": 0.02,
+            "avg1": 10.51,
+            "avg7": 4.79,
+            "avg30": 2.92,
+            "trend": 3.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charmander-V1-BS46"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 2,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

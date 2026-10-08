@@ -1,0 +1,276 @@
+{
+  "query": "Charizard Base Set",
+  "results": [
+    {
+      "id": "pk_dee28b8828ecc4a21d61450954f9efd46b544eae6bd0e53e80eb6de41a3c60e26837316d59c4c27b180741",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "004/130",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 275,
+            "mid_price": 330,
+            "high_price": 990.98,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 460.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42479"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": 347.38,
+            "low": 115,
+            "avg1": 749.99,
+            "avg7": 314.83,
+            "avg30": 299.67,
+            "trend": 310.4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 120,
+            "avg7": 233.67,
+            "avg30": 223.79,
+            "trend": 190.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Charizard-B24"
+      }
+    },
+    {
+      "id": "pk_45c1a24a969b0b3d66ca6e4aea705aef873bf7e07d43e3cf6a391e1c9e9b01d38a9a23b3953ff6fbcd17fffa77",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3187,
+            "mid_price": 3500,
+            "high_price": 10000,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2257.87,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          },
+          {
+            "low_price": 100000,
+            "mid_price": 100000,
+            "high_price": 100000,
+            "updated_at": "2026-10-07T11:26:24.819806",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106999"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f45432e30a85f19b1c403c7ed9115a50d82d4b69d29af9e2abbb35e67ca26f7571072aa111240bece9df81",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.98,
+            "mid_price": 651.41,
+            "high_price": 3499.1,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 928.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42382"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 207.4,
+            "avg7": 129.55,
+            "avg30": 202.71,
+            "trend": 123.63,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 741.93,
+            "low": 100,
+            "avg1": 291.3,
+            "avg7": 469.22,
+            "avg30": 709.55,
+            "trend": 504.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V1-BS4"
+      }
+    },
+    {
+      "id": "pk_2dd3602c9047d2472e284675b17e7efcbf22ee4ec64b0c78fb83fc6140f1a795d2c4f5583b945ff2e9111981",
+      "card_info": {
+        "name": "Charizard (Black Dot Error)",
+        "clean_name": "Charizard Black Dot Error",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 799.95,
+            "mid_price": 899.99,
+            "high_price": 998,
+            "updated_at": "2026-10-07T11:26:24.819806",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/657516"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 207.4,
+            "avg7": 129.55,
+            "avg30": 202.71,
+            "trend": 123.63,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 741.93,
+            "low": 100,
+            "avg1": 291.3,
+            "avg7": 469.22,
+            "avg30": 709.55,
+            "trend": 504.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V1-BS4"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}
