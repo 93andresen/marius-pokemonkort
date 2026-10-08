@@ -4,7 +4,7 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 
 | ID | Title | Status | Notes |
 |---|---|---|---|
-| — | *(no items yet — create the first by copying `TEMPLATE.md`)* | — | — |
+| 0001 | Offline parse regression net for `finn/finn_ad.py` | done | 14 stdlib tests on a real capture; `tests/test_finn_ad_parse.py` |
 
 ---
 
