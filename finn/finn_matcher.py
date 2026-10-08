@@ -529,13 +529,29 @@ def build_overlay(
 
 # --- listing normalisers ----------------------------------------------------
 def listing_from_search(rec: dict) -> dict[str, Any]:
+    """Adapt a JSONL record to a matcher listing.
+
+    Accepts **both** record shapes used in this repo:
+
+    * search records (``data/finn/searches/*/all_ads.jsonl``) — ``heading`` /
+      ``price_amount`` / ``canonical_url`` / ``location``;
+    * archive ad-view records (``annonser/<kode>_<slug>/<kode>.json``) —
+      ``title`` / ``price_nok`` / ``url`` / ``location_text``.
+
+    Search keys take precedence when both are present.  Reading only the search
+    keys used to yield a **silent** ``heading=None`` for every archived ad, so a
+    ``--from-jsonl`` run over an archive corpus matched nothing without erroring.
+    """
+    price = rec.get("price_amount")
+    if price is None:
+        price = rec.get("price_nok")
     return {
         "finn_kode": rec.get("finn_kode"),
-        "url": rec.get("canonical_url"),
-        "heading": rec.get("heading"),
-        "finn_price_nok": rec.get("price_amount"),
+        "url": rec.get("canonical_url") or rec.get("url"),
+        "heading": rec.get("heading") or rec.get("title"),
+        "finn_price_nok": price,
         "status": None,
-        "location": rec.get("location"),
+        "location": rec.get("location") or rec.get("location_text"),
     }
 
 
