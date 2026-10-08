@@ -1,0 +1,198 @@
+{
+  "finn_kode": "477804238",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804238",
+  "slug": "477804238_grass-energy-99-base-set-1999",
+  "first_seen": "2026-10-08T04:15:03Z",
+  "last_seen": "2026-10-08T04:15:03Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Grass Energy #99 Base Set (1999)",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "6514 Kristiansund N",
+    "postal_code": "6514",
+    "last_modified": "2026-10-02T18:04:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:15:03Z",
+      "raw": "477804238_grass-energy-99-base-set-1999/raw/477804238_2026-10-08-041503.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "0b86f802-7126-4ffa-9ee9-096bf2e8aa27",
+      "item_ref": "477804238",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804238/0b86f802-7126-4ffa-9ee9-096bf2e8aa27",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804238/0b86f802-7126-4ffa-9ee9-096bf2e8aa27",
+      "bytes": 4381875,
+      "content_type": "image/jpeg",
+      "sha1": "f90747833166a433d76aa7821b840c1a4a58883e",
+      "file": "photos/02_0b86f802-7126-4ffa-9ee9-096bf2e8aa27.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "e4a4394a-4cca-4363-8664-f0ceef57d184",
+      "item_ref": "477804238",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804238/e4a4394a-4cca-4363-8664-f0ceef57d184",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804238/e4a4394a-4cca-4363-8664-f0ceef57d184",
+      "bytes": 4153567,
+      "content_type": "image/jpeg",
+      "sha1": "4b6b0c70a6da4624f8f1f93f7f732a839ed10e29",
+      "file": "photos/01_e4a4394a-4cca-4363-8664-f0ceef57d184.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477804896",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804896"
+    },
+    {
+      "item_id": "477805583",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805583"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477802264",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477802264"
+    },
+    {
+      "item_id": "476577110",
+      "heading": "Grass Energy #99 Base Set 1999-2000",
+      "price_label": "20 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476577110"
+    },
+    {
+      "item_id": "478073694",
+      "heading": "Grass Energy #99 Base Set Shadowless",
+      "price_label": "18 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478073694"
+    },
+    {
+      "item_id": "477801514",
+      "heading": "Fire Energy #98 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801514"
+    },
+    {
+      "item_id": "477803808",
+      "heading": "Fire Energy #98 Base Set (1999)",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477803808"
+    },
+    {
+      "item_id": "475672904",
+      "heading": "Energy Removal #119 Base Set 2",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475672904"
+    }
+  ]
+}

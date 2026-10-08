@@ -1,0 +1,211 @@
+{
+  "finn_kode": "477804216",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804216",
+  "slug": "477804216_pok-mon-poliwrath-h24-skyridge",
+  "first_seen": "2026-10-08T04:14:50Z",
+  "last_seen": "2026-10-08T04:14:50Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon: Poliwrath #H24 – Skyridge",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "1776 Halden",
+    "postal_code": "1776",
+    "last_modified": "2026-10-03T05:11:00",
+    "gallery_count": 3,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:14:50Z",
+      "raw": "477804216_pok-mon-poliwrath-h24-skyridge/raw/477804216_2026-10-08-041450.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "ca39eb08-9cfe-4fcc-a63b-541bfbd973f9",
+      "item_ref": "477804216",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804216/ca39eb08-9cfe-4fcc-a63b-541bfbd973f9",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804216/ca39eb08-9cfe-4fcc-a63b-541bfbd973f9",
+      "bytes": 4709802,
+      "content_type": "image/jpeg",
+      "sha1": "43b7198198d8a6c70a855fccb03657bc011a78d2",
+      "file": "photos/02_ca39eb08-9cfe-4fcc-a63b-541bfbd973f9.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "cd95ef0d-abd5-4b5e-9225-ec55463a3810",
+      "item_ref": "477804216",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804216/cd95ef0d-abd5-4b5e-9225-ec55463a3810",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804216/cd95ef0d-abd5-4b5e-9225-ec55463a3810",
+      "bytes": 4320411,
+      "content_type": "image/jpeg",
+      "sha1": "a1b8aaff64cce1ad9dc0cd808c4dff2aecb86b72",
+      "file": "photos/03_cd95ef0d-abd5-4b5e-9225-ec55463a3810.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "f98086dd-7125-48c7-8ec9-8222b984d80c",
+      "item_ref": "477804216",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804216/f98086dd-7125-48c7-8ec9-8222b984d80c",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804216/f98086dd-7125-48c7-8ec9-8222b984d80c",
+      "bytes": 1020798,
+      "content_type": "image/jpeg",
+      "sha1": "5d49d698382114d9efae82fc487a4f1a1a2d7048",
+      "file": "photos/01_f98086dd-7125-48c7-8ec9-8222b984d80c.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "475551369",
+      "heading": "Pokémon: Poliwrath holo",
+      "price_label": "6 500 kr",
+      "location": "Salhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475551369"
+    },
+    {
+      "item_id": "476016093",
+      "heading": "Poliwrath Holo 2003 Skyridge ACE 8",
+      "price_label": "7 500 kr",
+      "location": "Søfteland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476016093"
+    },
+    {
+      "item_id": "478071866",
+      "heading": "Pokemon 30th Anniversary, japanske kort og 4 30th fabrikkforseglet boosterpakker",
+      "price_label": "7 999 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478071866"
+    },
+    {
+      "item_id": "475778840",
+      "heading": "Umbreon H29/H32 – Aquapolis – Holo – Med brett",
+      "price_label": "9 058 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475778840"
+    },
+    {
+      "item_id": "477305012",
+      "heading": "Poliwrath Skyridge Reverse Holo PSA 8 – Vintage Pokémon",
+      "price_label": "5 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477305012"
+    },
+    {
+      "item_id": "478068522",
+      "heading": "Vaporeon Delta Species 18/113 – Stamped Reverse Holo – 2005",
+      "price_label": "2 700 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478068522"
+    },
+    {
+      "item_id": "475581693",
+      "heading": "Pokémon: Weakness Guard #141 [Reverse Holo] – Aquapolis",
+      "price_label": "1 400 kr",
+      "location": "Halden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475581693"
+    },
+    {
+      "item_id": "474189041",
+      "heading": "Umbreon (H30/H32) -  Holo Skyridge, 2003",
+      "price_label": "12 500 kr",
+      "location": "Hokksund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474189041"
+    },
+    {
+      "item_id": "476050203",
+      "heading": "Umbreon H29 – Aquapolis – PSA 4",
+      "price_label": "15 000 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476050203"
+    }
+  ]
+}

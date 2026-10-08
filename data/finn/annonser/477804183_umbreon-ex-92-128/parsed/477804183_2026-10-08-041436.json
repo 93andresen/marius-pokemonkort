@@ -1,0 +1,197 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:14:36Z",
+  "contact_button": {
+    "adId": "477804183",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804183",
+  "kode_candidates": {
+    "canonical": "477804183",
+    "object_info": "477804183",
+    "maplink": "477804183",
+    "contact_button": "477804183",
+    "hint": "477804183"
+  },
+  "title": "Umbreon ex 92/128",
+  "status": "Solgt",
+  "trade_type": "Til salgs",
+  "price_label": "20 kr",
+  "price_nok": 20,
+  "location_text": "1617 Fredrikstad",
+  "lat": 59.23462650222362,
+  "lon": 10.970285853931053,
+  "postal_code": "1617",
+  "last_modified_raw": "5.10.2026 kl. 12:17",
+  "last_modified": "2026-10-05T12:17:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "b824c405-e6cc-4d3e-83c3-3f894d160a8e",
+    "9ebf3fd3-2827-41f0-91b7-042544d0a09a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pikachu 092/128\n\n30th celebration \n\n \n\nTilstand: NM\n\n \n\nBetaling: \n\nVipps eller fiks ferdig\n\nTa kontakt om du ønsker å kjøpe flere kort, se min profil.\n\n \n\nFrakt:\n\nKjøper betaler frakt\n\nKan hentes i Fredrikstad\n\n \n\n# pokemon tcg pokemonkort anniversary",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477980532",
+      "heading": "kort Umbreon - 30th anneversary",
+      "price_label": "15 kr",
+      "location": "Gressvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477980532"
+    },
+    {
+      "item_id": "477753830",
+      "heading": "Umbreon 0602/15⚫️",
+      "price_label": "20 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753830"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "477753339",
+      "heading": "Umbreon er 0603/15⚫️",
+      "price_label": "20 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753339"
+    },
+    {
+      "item_id": "477753496",
+      "heading": "Umbreon 0604/15⚫️",
+      "price_label": "20 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753496"
+    },
+    {
+      "item_id": "477582395",
+      "heading": "Umbreon",
+      "price_label": "20 kr",
+      "location": "Spydeberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477582395"
+    },
+    {
+      "item_id": "477804502",
+      "heading": "Greninja ex 21/128",
+      "price_label": "20 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804502"
+    },
+    {
+      "item_id": "477113515",
+      "heading": "🌺 Zamazenta V 🌺",
+      "price_label": "25 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477113515"
+    },
+    {
+      "item_id": "478135393",
+      "heading": "Zacian 107/128, 30th Celebration⚪️",
+      "price_label": "10 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478135393"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b824c405-e6cc-4d3e-83c3-3f894d160a8e",
+      "item_ref": "477804183",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804183/b824c405-e6cc-4d3e-83c3-3f894d160a8e"
+    },
+    {
+      "uuid": "9ebf3fd3-2827-41f0-91b7-042544d0a09a",
+      "item_ref": "477804183",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804183/9ebf3fd3-2827-41f0-91b7-042544d0a09a"
+    }
+  ],
+  "raw_capture": "477804183_umbreon-ex-92-128/raw/477804183_2026-10-08-041436.html"
+}
