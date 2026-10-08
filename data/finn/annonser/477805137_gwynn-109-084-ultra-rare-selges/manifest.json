@@ -1,0 +1,198 @@
+{
+  "finn_kode": "477805137",
+  "url": "https://www.finn.no/recommerce/forsale/item/477805137",
+  "slug": "477805137_gwynn-109-084-ultra-rare-selges",
+  "first_seen": "2026-10-08T04:18:11Z",
+  "last_seen": "2026-10-08T04:18:11Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Gwynn 109/084 Ultra Rare Selges",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "4365 Nærbø",
+    "postal_code": "4365",
+    "last_modified": "2026-10-02T18:15:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:18:11Z",
+      "raw": "477805137_gwynn-109-084-ultra-rare-selges/raw/477805137_2026-10-08-041811.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "31ad9e33-37c3-4089-a694-364f4da0564f",
+      "item_ref": "477805137",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477805137/31ad9e33-37c3-4089-a694-364f4da0564f",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805137/31ad9e33-37c3-4089-a694-364f4da0564f",
+      "bytes": 2841152,
+      "content_type": "image/jpeg",
+      "sha1": "ca8094a4e0f583d8fd7f1a97045de16662a0a3cb",
+      "file": "photos/02_31ad9e33-37c3-4089-a694-364f4da0564f.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "d5524c1d-70c3-4a66-9184-b5761f0b0f25",
+      "item_ref": "477805137",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805137/d5524c1d-70c3-4a66-9184-b5761f0b0f25",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805137/d5524c1d-70c3-4a66-9184-b5761f0b0f25",
+      "bytes": 2898757,
+      "content_type": "image/jpeg",
+      "sha1": "27462b569d4074261b0a838fcc4b992321efcdf9",
+      "file": "photos/01_d5524c1d-70c3-4a66-9184-b5761f0b0f25.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "469202465",
+      "heading": "Gwynn 111/081 SR M/NM Japansk Pokemon Kort",
+      "price_label": "250 kr",
+      "location": "Kleppe",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469202465"
+    },
+    {
+      "item_id": "476171309",
+      "heading": "Gwynn #111 Pokemon Japanese Abyss Eye",
+      "price_label": "155 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476171309"
+    },
+    {
+      "item_id": "471818235",
+      "heading": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "price_label": "63 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471818235"
+    },
+    {
+      "item_id": "477610505",
+      "heading": "Pokémon kort Gwynn Trainer Full Art",
+      "price_label": "400 kr",
+      "location": "Kleppe",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477610505"
+    },
+    {
+      "item_id": "471298806",
+      "heading": "Pokémon kort Gwynn Trainer full art",
+      "price_label": "600 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471298806"
+    },
+    {
+      "item_id": "476512488",
+      "heading": "Gwynn holofoil #078",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476512488"
+    },
+    {
+      "item_id": "477544313",
+      "heading": "Gwynn 078/084 Reverse Holo",
+      "price_label": null,
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477544313"
+    },
+    {
+      "item_id": "473278059",
+      "heading": "Gwynn #078",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473278059"
+    },
+    {
+      "item_id": "471054723",
+      "heading": "Pokémon kort Silvally GX holografisk",
+      "price_label": "89 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471054723"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:18:05Z",
+  "contact_button": {
+    "adId": "477805064",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477805064",
+  "kode_candidates": {
+    "canonical": "477805064",
+    "object_info": "477805064",
+    "maplink": "477805064",
+    "contact_button": "477805064",
+    "hint": "477805064"
+  },
+  "title": "Pokemon kort, 30th celebration",
+  "status": "Solgt",
+  "trade_type": "Til salgs",
+  "price_label": "150 kr",
+  "price_nok": 150,
+  "location_text": "1659 Torp",
+  "lat": 59.2557979794181,
+  "lon": 11.095995221130087,
+  "postal_code": "1659",
+  "last_modified_raw": "2.10.2026 kl. 18:13",
+  "last_modified": "2026-10-02T18:13:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "37625717-63b7-4c6a-94fc-6ca339b5a9e7"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger tre Pokemon-kort: Umbreon EX, Sylveon EX og Jirachi. \n\n \n\n50 kr pr kort eller alle for 150 kr \n\n \n\nSender gjerne",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477894032",
+      "heading": "Pokémon 30th celebration kort",
+      "price_label": "123 kr",
+      "location": "Sellebakk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477894032"
+    },
+    {
+      "item_id": "478015162",
+      "heading": "30th celebration ex",
+      "price_label": "20 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478015162"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "476742643",
+      "heading": "Kort fra Pokemon 30th Celebration (Gi bud)",
+      "price_label": "150 kr",
+      "location": "Halden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476742643"
+    },
+    {
+      "item_id": "477180616",
+      "heading": "30th celebration enkeltkort",
+      "price_label": "4 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477180616"
+    },
+    {
+      "item_id": "477439207",
+      "heading": "Ulike pokemon 30th Kort",
+      "price_label": "123 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477439207"
+    },
+    {
+      "item_id": "470655674",
+      "heading": "Pokemon Kort selges",
+      "price_label": "50 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470655674"
+    },
+    {
+      "item_id": "476712224",
+      "heading": "Pokémon kort",
+      "price_label": null,
+      "location": "Rakkestad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476712224"
+    },
+    {
+      "item_id": "477883989",
+      "heading": "Pokemon 30th celebration singles",
+      "price_label": "10 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477883989"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "37625717-63b7-4c6a-94fc-6ca339b5a9e7",
+      "item_ref": "477805064",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805064/37625717-63b7-4c6a-94fc-6ca339b5a9e7"
+    }
+  ],
+  "raw_capture": "477805064_pokemon-kort-30th-celebration/raw/477805064_2026-10-08-041805.html"
+}

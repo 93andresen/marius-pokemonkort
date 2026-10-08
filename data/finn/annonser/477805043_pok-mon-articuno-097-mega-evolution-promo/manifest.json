@@ -1,0 +1,185 @@
+{
+  "finn_kode": "477805043",
+  "url": "https://www.finn.no/recommerce/forsale/item/477805043",
+  "slug": "477805043_pok-mon-articuno-097-mega-evolution-promo",
+  "first_seen": "2026-10-08T04:18:00Z",
+  "last_seen": "2026-10-08T04:18:00Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon Articuno 097 Mega Evolution Promo",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "5101 Eidsvågneset",
+    "postal_code": "5101",
+    "last_modified": "2026-10-07T21:11:00",
+    "gallery_count": 1,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:18:00Z",
+      "raw": "477805043_pok-mon-articuno-097-mega-evolution-promo/raw/477805043_2026-10-08-041800.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "3b8d1c6a-6c93-48d0-b5b5-fc818f21a8e3",
+      "item_ref": "477805043",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805043/3b8d1c6a-6c93-48d0-b5b5-fc818f21a8e3",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805043/3b8d1c6a-6c93-48d0-b5b5-fc818f21a8e3",
+      "bytes": 4060539,
+      "content_type": "image/jpeg",
+      "sha1": "9a728a3555f68fdd8cd97a973d0f7679d6220aff",
+      "file": "photos/01_3b8d1c6a-6c93-48d0-b5b5-fc818f21a8e3.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "477031793",
+      "heading": "Articuno 16/108 – Roaring Skies – Reverse Holo",
+      "price_label": "20 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477031793"
+    },
+    {
+      "item_id": "477805178",
+      "heading": "Pokémon Zapdos 098 Mega Evolution Promo",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805178"
+    },
+    {
+      "item_id": "471818235",
+      "heading": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "price_label": "63 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471818235"
+    },
+    {
+      "item_id": "474640691",
+      "heading": "Galarian Articuno 063/203 – Evolving Skies Holo",
+      "price_label": "45 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474640691"
+    },
+    {
+      "item_id": "476585697",
+      "heading": "Latios - SSPen 077/191 - Pokemon Kort",
+      "price_label": "30 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476585697"
+    },
+    {
+      "item_id": "473338228",
+      "heading": "Articuno 024/078 – Pokémon GO Holo",
+      "price_label": "40 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473338228"
+    },
+    {
+      "item_id": "477199830",
+      "heading": "Articuno 024/078 – Pokémon GO – Reverse Holo – 2022",
+      "price_label": "40 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477199830"
+    },
+    {
+      "item_id": "477753885",
+      "heading": "Articuno 018/128 30th celebration",
+      "price_label": "4 kr",
+      "location": "Nesbru",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753885"
+    },
+    {
+      "item_id": "475896757",
+      "heading": "Zapdos ex SVP 049 – Black Star Promo – 2023",
+      "price_label": "50 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475896757"
+    }
+  ]
+}

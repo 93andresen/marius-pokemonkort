@@ -1,0 +1,185 @@
+{
+  "finn_kode": "477805241",
+  "url": "https://www.finn.no/recommerce/forsale/item/477805241",
+  "slug": "477805241_slowking-019",
+  "first_seen": "2026-10-08T04:18:30Z",
+  "last_seen": "2026-10-08T04:18:30Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Slowking #019",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "6411 Molde",
+    "postal_code": "6411",
+    "last_modified": "2026-10-02T18:15:00",
+    "gallery_count": 1,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:18:30Z",
+      "raw": "477805241_slowking-019/raw/477805241_2026-10-08-041830.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "61a45af3-005d-4843-8c90-596c2338af6f",
+      "item_ref": "477805241",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477805241/61a45af3-005d-4843-8c90-596c2338af6f",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477805241/61a45af3-005d-4843-8c90-596c2338af6f",
+      "bytes": 4927712,
+      "content_type": "image/jpeg",
+      "sha1": "b03916877368b6251366d3558978f3a118fd1f7f",
+      "file": "photos/01_61a45af3-005d-4843-8c90-596c2338af6f.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "477031982",
+      "heading": "Slowking reverse holofoil #019",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477031982"
+    },
+    {
+      "item_id": "477805162",
+      "heading": "Slowpoke #018",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805162"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "474627088",
+      "heading": "Slowbro #030",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474627088"
+    },
+    {
+      "item_id": "477032228",
+      "heading": "Slowpoke reverse holofoil #018",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477032228"
+    },
+    {
+      "item_id": "476503346",
+      "heading": "Slowpoke #029",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476503346"
+    },
+    {
+      "item_id": "477808376",
+      "heading": "Slakoth #145",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477808376"
+    },
+    {
+      "item_id": "474996523",
+      "heading": "Sandshrew #068",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474996523"
+    },
+    {
+      "item_id": "477813958",
+      "heading": "Fan Rotom reverse holofoil #085",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477813958"
+    }
+  ]
+}
