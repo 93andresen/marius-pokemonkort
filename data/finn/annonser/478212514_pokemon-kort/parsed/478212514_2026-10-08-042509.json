@@ -1,0 +1,197 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:25:09Z",
+  "contact_button": {
+    "adId": "478212514",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478212514",
+  "kode_candidates": {
+    "canonical": "478212514",
+    "object_info": "478212514",
+    "maplink": "478212514",
+    "contact_button": "478212514",
+    "hint": "478212514"
+  },
+  "title": "Pokemon kort",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "750 kr",
+  "price_nok": 750,
+  "location_text": "5713 Vossestrand",
+  "lat": 60.791903108443,
+  "lon": 6.5083915212379315,
+  "postal_code": "5713",
+  "last_modified_raw": "8.10.2026 kl. 01:13",
+  "last_modified": "2026-10-08T01:13:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "3565fd41-e53e-46b6-acee-84df900a070a",
+    "6234bb7e-09c4-4f99-ba8b-69e93fafd272"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger en liten samling Pokémon-kort med flere holo og EX/GX-kort i plastlommer. Fint for deg som vil utvide samlingen med noen kule motiv og fargerike kort.\n\nBulk\n\nSelgast sammla\n\nAlakazam\n\nFullart\n\nUmbreon",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478210533",
+      "heading": "Pokemon kort samling GX / EX / holo",
+      "price_label": "700 kr",
+      "location": "Vossestrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478210533"
+    },
+    {
+      "item_id": "478140840",
+      "heading": "Pokemon kort samling  Vintage og nytt",
+      "price_label": "900 kr",
+      "location": "Kaupanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478140840"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477356065",
+      "heading": "Pokemon kort",
+      "price_label": "800 kr",
+      "location": "Fitjar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477356065"
+    },
+    {
+      "item_id": "473036309",
+      "heading": "Pokémon kort EX / GX samlekort",
+      "price_label": "600 kr",
+      "location": "Alversund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473036309"
+    },
+    {
+      "item_id": "465869374",
+      "heading": "Pokemon kort – samling med V, EX og holo og boss’s order",
+      "price_label": "1 350 kr",
+      "location": "Urangsvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465869374"
+    },
+    {
+      "item_id": "471676742",
+      "heading": "Pokemon GX/EX/EX-kort – samling med Gyarados og Iron Hands",
+      "price_label": "1 500 kr",
+      "location": "Kleppestø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471676742"
+    },
+    {
+      "item_id": "477804022",
+      "heading": "Pokemon kort samling EX GX V holo",
+      "price_label": null,
+      "location": "Blomsterdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804022"
+    },
+    {
+      "item_id": "476977360",
+      "heading": "Pokemon kort samling – holo kort i plastlommer",
+      "price_label": "800 kr",
+      "location": "Tertnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476977360"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "3565fd41-e53e-46b6-acee-84df900a070a",
+      "item_ref": "478212514",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478212514/3565fd41-e53e-46b6-acee-84df900a070a"
+    },
+    {
+      "uuid": "6234bb7e-09c4-4f99-ba8b-69e93fafd272",
+      "item_ref": "478212514",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478212514/6234bb7e-09c4-4f99-ba8b-69e93fafd272"
+    }
+  ],
+  "raw_capture": "478212514_pokemon-kort/raw/478212514_2026-10-08-042509.html"
+}
