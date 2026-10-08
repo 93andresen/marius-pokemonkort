@@ -1,0 +1,193 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:17:44Z",
+  "contact_button": {
+    "adId": "477804899",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804899",
+  "kode_candidates": {
+    "canonical": "477804899",
+    "object_info": "477804899",
+    "maplink": "477804899",
+    "contact_button": "477804899",
+    "hint": "477804899"
+  },
+  "title": "Pokémon Moltres 096 Mega Evolution Promo",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5101 Eidsvågneset",
+  "lat": 60.4437168610443,
+  "lon": 5.287405602494658,
+  "postal_code": "5101",
+  "last_modified_raw": "7.10.2026 kl. 21:10",
+  "last_modified": "2026-10-07T21:10:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "a248c2ad-2455-41f1-a90d-2f6600c785b2"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger Moltres 096.\n\n \n\nKortene er tatt ut av sleeve og toploader for å ta bilde, også er de satt rett inn igjen.\n\n \n\n💸 Kan ta betaling i Vipps om ønsket\n\n📦 Sendes godt pakket inn eller hentes i Bergen\n\n❗ Jeg har flere kort på finn, du kan velge flere og betale som en pakke med samme fiks ferdig. Sjekk dem ut!\n\n \n\nTar i mot bud :)\n\n \n\nSøkeord: Moltres, Mega Evolution Promo, Black Star Promo, MEP, promo, Pokémon, Pokemon, TCG, Pokemonkort, Pokémon kort, samlekort, trading cards, kort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477801593",
+      "heading": "Pokémon Moltres 130/128 30th Celebration",
+      "price_label": "130 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801593"
+    },
+    {
+      "item_id": "477805178",
+      "heading": "Pokémon Zapdos 098 Mega Evolution Promo",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805178"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "478147298",
+      "heading": "Zweilous 098/128",
+      "price_label": "10 kr",
+      "location": "Straumsgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478147298"
+    },
+    {
+      "item_id": "477111773",
+      "heading": "Murkrow 093/128",
+      "price_label": "10 kr",
+      "location": "Straumsgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477111773"
+    },
+    {
+      "item_id": "473234425",
+      "heading": "Moltres 22/113 – Legendary Treasures – Holo Rare",
+      "price_label": "95 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473234425"
+    },
+    {
+      "item_id": "477620865",
+      "heading": "Team rocket's Zapdos 070/182",
+      "price_label": "10 kr",
+      "location": "Indre Arna",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477620865"
+    },
+    {
+      "item_id": "477072758",
+      "heading": "Palkia 020/128",
+      "price_label": "10 kr",
+      "location": "Straumsgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477072758"
+    },
+    {
+      "item_id": "477178988",
+      "heading": "Jangmo-o 110/128",
+      "price_label": "10 kr",
+      "location": "Straumsgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477178988"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "a248c2ad-2455-41f1-a90d-2f6600c785b2",
+      "item_ref": "477804899",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804899/a248c2ad-2455-41f1-a90d-2f6600c785b2"
+    }
+  ],
+  "raw_capture": "477804899_pok-mon-moltres-096-mega-evolution-promo/raw/477804899_2026-10-08-041744.html"
+}

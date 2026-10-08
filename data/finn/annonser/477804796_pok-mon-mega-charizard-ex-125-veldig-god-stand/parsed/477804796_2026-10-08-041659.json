@@ -1,0 +1,245 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:16:59Z",
+  "contact_button": {
+    "adId": "477804796",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804796",
+  "kode_candidates": {
+    "canonical": "477804796",
+    "object_info": "477804796",
+    "maplink": "477804796",
+    "contact_button": "477804796",
+    "hint": "477804796"
+  },
+  "title": "Pokémon Mega Charizard EX 125 – Veldig god stand",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "7 500 kr",
+  "price_nok": 7500,
+  "location_text": "1634 Gamle Fredrikstad",
+  "lat": 59.17456771478389,
+  "lon": 11.040996447590862,
+  "postal_code": "1634",
+  "last_modified_raw": "5.10.2026 kl. 15:48",
+  "last_modified": "2026-10-05T15:48:00",
+  "gallery_count": 10,
+  "image_uuids": [
+    "2c1a0d6e-7eff-4b33-a353-0fe233be3286",
+    "adf9a19f-bb12-4cf2-8b2c-ee669f8a6425",
+    "0df873e8-ba78-4a73-b481-5c588d63456c",
+    "83e41857-fd49-49c0-859a-9a4db2030826",
+    "18ebfa46-1e85-409d-9edb-5bfcd3ff476e",
+    "6a7a98fd-06a0-4025-8d2f-b021f50f1a7a",
+    "4a4d7097-5f77-41a2-bc8e-a1326782177c",
+    "e85a3053-26a9-4f6c-9a87-00c0de783b91",
+    "40cac901-83d9-45bf-a1d2-e7697d6a2afc",
+    "edc285ba-4e3e-453d-a0c3-ab2f211de3b5"
+  ],
+  "image_count_from_html": 10,
+  "description_raw": "Selger Mega Charizard EX #125 i veldig god stand.\n\n \n\nKortet har blitt pent oppbevart og fremstår svært fint.\n\n \n\nKortinformasjon:\n\n \n\n🔥 Mega Charizard EX\n\n#️⃣ 125\n\n✨ Pokémon TCG\n\n📦 Veldig god tilstand\n\n🛡️ Har vært pent oppbevart\n\n \n\n📸 Se bilder for kortets faktiske tilstand.\n\n \n\nKjøper betaler frakt på eget ansvar.\n\n \n\n📮 Kan sendes godt beskyttet, eller hentes etter avtale.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "460119319",
+      "heading": "Mega Charizard EX",
+      "price_label": "6 500 kr",
+      "location": "Straume",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460119319"
+    },
+    {
+      "item_id": "476233980",
+      "heading": "Mega Charizard X EX 125/094",
+      "price_label": "9 800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476233980"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "475707738",
+      "heading": "Pokémon-kort Mega Charizard EX 69/106",
+      "price_label": "4 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475707738"
+    },
+    {
+      "item_id": "477342950",
+      "heading": "Pokémon Mega Charizard X EX 125/094",
+      "price_label": "9 500 kr",
+      "location": "Ski",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477342950"
+    },
+    {
+      "item_id": "474383652",
+      "heading": "Pokémon Charizard ex samlekort",
+      "price_label": "3 999 kr",
+      "location": "Skjærhalden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474383652"
+    },
+    {
+      "item_id": "386459829",
+      "heading": "Mega Charizard Ex Secret rare 108/106 | XY flashfire",
+      "price_label": "5 000 kr",
+      "location": "Lillestrøm",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/386459829"
+    },
+    {
+      "item_id": "469452335",
+      "heading": "Pokémon kort Mega Charizard EX #220",
+      "price_label": "20 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469452335"
+    },
+    {
+      "item_id": "476570118",
+      "heading": "Pokemon Charizard EX kort Beckett 9.5 , Phantasmal Flames",
+      "price_label": "12 000 kr",
+      "location": "Halden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476570118"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "2c1a0d6e-7eff-4b33-a353-0fe233be3286",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804796/2c1a0d6e-7eff-4b33-a353-0fe233be3286"
+    },
+    {
+      "uuid": "adf9a19f-bb12-4cf2-8b2c-ee669f8a6425",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804796/adf9a19f-bb12-4cf2-8b2c-ee669f8a6425"
+    },
+    {
+      "uuid": "0df873e8-ba78-4a73-b481-5c588d63456c",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/0df873e8-ba78-4a73-b481-5c588d63456c"
+    },
+    {
+      "uuid": "83e41857-fd49-49c0-859a-9a4db2030826",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/83e41857-fd49-49c0-859a-9a4db2030826"
+    },
+    {
+      "uuid": "18ebfa46-1e85-409d-9edb-5bfcd3ff476e",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/18ebfa46-1e85-409d-9edb-5bfcd3ff476e"
+    },
+    {
+      "uuid": "6a7a98fd-06a0-4025-8d2f-b021f50f1a7a",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/6a7a98fd-06a0-4025-8d2f-b021f50f1a7a"
+    },
+    {
+      "uuid": "4a4d7097-5f77-41a2-bc8e-a1326782177c",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/4a4d7097-5f77-41a2-bc8e-a1326782177c"
+    },
+    {
+      "uuid": "e85a3053-26a9-4f6c-9a87-00c0de783b91",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/e85a3053-26a9-4f6c-9a87-00c0de783b91"
+    },
+    {
+      "uuid": "40cac901-83d9-45bf-a1d2-e7697d6a2afc",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/40cac901-83d9-45bf-a1d2-e7697d6a2afc"
+    },
+    {
+      "uuid": "edc285ba-4e3e-453d-a0c3-ab2f211de3b5",
+      "item_ref": "477804796",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804796/edc285ba-4e3e-453d-a0c3-ab2f211de3b5"
+    }
+  ],
+  "raw_capture": "477804796_pok-mon-mega-charizard-ex-125-veldig-god-stand/raw/477804796_2026-10-08-041659.html"
+}

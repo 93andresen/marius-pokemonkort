@@ -1,0 +1,383 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:17:14Z",
+  "contact_button": {
+    "adId": "477804824",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804824",
+  "kode_candidates": {
+    "canonical": "477804824",
+    "object_info": "477804824",
+    "maplink": "477804824",
+    "contact_button": "477804824",
+    "hint": "477804824"
+  },
+  "title": "Pokemonkort fra mange sett",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "50 kr",
+  "price_nok": 50,
+  "location_text": "2080 Eidsvoll",
+  "lat": 60.331106653338914,
+  "lon": 11.262677262234174,
+  "postal_code": "2080",
+  "last_modified_raw": "2.10.2026 kl. 18:17",
+  "last_modified": "2026-10-02T18:17:00",
+  "gallery_count": 33,
+  "image_uuids": [
+    "4adbb3f1-958c-46bd-84c1-2e4689575ab5",
+    "83880c9f-eba1-409c-a06d-03270f36ad9d",
+    "a3c91424-4b7c-47f1-bbb5-7138f44a8e8e",
+    "b7d6d0ba-b849-4462-bce8-15290647ae9e",
+    "e3234a62-ba9b-47e3-9e6e-aa20d710af49",
+    "d7f76554-10e7-4b79-923b-da3c816e9fc2",
+    "ab64d6f9-e250-4a80-9bbe-1f6595a42bff",
+    "b48b60f8-ad14-4846-8357-3efabd7eb34a",
+    "7cb61a25-aa44-4e61-995a-f72e7c1802d1",
+    "83b2e9b6-82e2-4ff6-ba60-650eeb7289da",
+    "d2c49b9e-0258-4811-8d68-324931bd4c84",
+    "2f1c727c-d46e-4836-b1a2-9c01f6c4c0cc",
+    "6f383451-f93f-4fcf-8587-b8b107285915",
+    "9f5366b7-76e1-44df-8c8d-0d03e68c74f4",
+    "d44b7d39-957f-486d-b610-d79df8d57665",
+    "3008eba0-b645-4f91-a091-9779a14d782d",
+    "b35e7afd-24ae-48e1-aaaa-a6d32f6b34ee",
+    "171c054f-6ebd-4113-8172-73f1674921dd",
+    "bb96a2d9-b682-48fa-af63-318c09c078a7",
+    "77bb28fa-72b4-4020-8e4b-a53f56963e61",
+    "91963708-4653-44fd-87d1-bf4abf038142",
+    "a5bf77f8-4165-4b99-bd62-68f57a18575e",
+    "a40cc361-ef72-40da-b56f-e3d49b588ef6",
+    "15db4897-3de3-461e-b6a0-b1e59bfb2502",
+    "7d4c97e9-1441-47e6-a038-c713894e5923",
+    "a6c900d6-f354-4d96-a3e3-095d6892755a",
+    "37efbac7-da64-406c-a0e0-2d4300378e31",
+    "1040579a-adff-452e-a37f-a40f418caf6c",
+    "5cec6d04-7aa4-4424-818d-32fac5544060",
+    "1ba8c4c5-75bc-4c3d-a04d-1bd9ff19f4f1",
+    "672a7350-fcd4-4b06-a2be-a94ee3b5c398",
+    "8ba5df8b-404b-40bc-aaab-d3fc1cd350b1",
+    "3420cd02-2dc8-409b-9323-85960808f0f7"
+  ],
+  "image_count_from_html": 33,
+  "description_raw": "Pokemon samlekort, blant annet Lugia og mange andre populære kort.\n\n \n\nAlle kort er tatt ut av meg og satt rett topploader.\n\n \n\nDet er kun støv og litt riper på topploadere, ikke selve kortene da de har stått til utstilling.  \n\n \n\nIngen kort har skader eller noe som helst da de har vært i beskyttelse umiddelbart etter å ha pulla de.\n\n \n\nKun refleksjoner å gjennskinn som vises på kortene, ikke det beste «fotostudiet» viste det seg. Så jeg etterpå. 😅\n\n \n\nSer du et eller flere kort du liker? Send melding så sender jeg flere bilder, tar de ikke ut av toploader mer en jeg må derfor gjør jeg det på denne måten. 😊\n\n \n\n \n\nPris blir vi enige om.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "438839039",
+      "heading": "Selger pokemon kort",
+      "price_label": "50 kr",
+      "location": "Kjeller",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/438839039"
+    },
+    {
+      "item_id": "471268056",
+      "heading": "Pokemon kort samlekort",
+      "price_label": "100 kr",
+      "location": "Ås",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471268056"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "471554691",
+      "heading": "Pokemon kort",
+      "price_label": "20 kr",
+      "location": "Aurskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471554691"
+    },
+    {
+      "item_id": "408211553",
+      "heading": "Pokemonkort selges.",
+      "price_label": "150 kr",
+      "location": "Kjeller",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/408211553"
+    },
+    {
+      "item_id": "472378437",
+      "heading": "Pokemon kort",
+      "price_label": null,
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472378437"
+    },
+    {
+      "item_id": "477327952",
+      "heading": "Pokemon kort samling med energikort og figurer",
+      "price_label": "40 kr",
+      "location": "Kløfta",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477327952"
+    },
+    {
+      "item_id": "477620228",
+      "heading": "Pokemon kort samling",
+      "price_label": "50 kr",
+      "location": "Fetsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477620228"
+    },
+    {
+      "item_id": "464763095",
+      "heading": "Diverse Pokemon kort",
+      "price_label": "200 kr",
+      "location": "Fetsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464763095"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "4adbb3f1-958c-46bd-84c1-2e4689575ab5",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804824/4adbb3f1-958c-46bd-84c1-2e4689575ab5"
+    },
+    {
+      "uuid": "83880c9f-eba1-409c-a06d-03270f36ad9d",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/83880c9f-eba1-409c-a06d-03270f36ad9d"
+    },
+    {
+      "uuid": "a3c91424-4b7c-47f1-bbb5-7138f44a8e8e",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/a3c91424-4b7c-47f1-bbb5-7138f44a8e8e"
+    },
+    {
+      "uuid": "b7d6d0ba-b849-4462-bce8-15290647ae9e",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/b7d6d0ba-b849-4462-bce8-15290647ae9e"
+    },
+    {
+      "uuid": "e3234a62-ba9b-47e3-9e6e-aa20d710af49",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/e3234a62-ba9b-47e3-9e6e-aa20d710af49"
+    },
+    {
+      "uuid": "d7f76554-10e7-4b79-923b-da3c816e9fc2",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/d7f76554-10e7-4b79-923b-da3c816e9fc2"
+    },
+    {
+      "uuid": "ab64d6f9-e250-4a80-9bbe-1f6595a42bff",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/ab64d6f9-e250-4a80-9bbe-1f6595a42bff"
+    },
+    {
+      "uuid": "b48b60f8-ad14-4846-8357-3efabd7eb34a",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/b48b60f8-ad14-4846-8357-3efabd7eb34a"
+    },
+    {
+      "uuid": "7cb61a25-aa44-4e61-995a-f72e7c1802d1",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/7cb61a25-aa44-4e61-995a-f72e7c1802d1"
+    },
+    {
+      "uuid": "83b2e9b6-82e2-4ff6-ba60-650eeb7289da",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/83b2e9b6-82e2-4ff6-ba60-650eeb7289da"
+    },
+    {
+      "uuid": "d2c49b9e-0258-4811-8d68-324931bd4c84",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804824/d2c49b9e-0258-4811-8d68-324931bd4c84"
+    },
+    {
+      "uuid": "2f1c727c-d46e-4836-b1a2-9c01f6c4c0cc",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/2f1c727c-d46e-4836-b1a2-9c01f6c4c0cc"
+    },
+    {
+      "uuid": "6f383451-f93f-4fcf-8587-b8b107285915",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/6f383451-f93f-4fcf-8587-b8b107285915"
+    },
+    {
+      "uuid": "9f5366b7-76e1-44df-8c8d-0d03e68c74f4",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/9f5366b7-76e1-44df-8c8d-0d03e68c74f4"
+    },
+    {
+      "uuid": "d44b7d39-957f-486d-b610-d79df8d57665",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/d44b7d39-957f-486d-b610-d79df8d57665"
+    },
+    {
+      "uuid": "3008eba0-b645-4f91-a091-9779a14d782d",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/3008eba0-b645-4f91-a091-9779a14d782d"
+    },
+    {
+      "uuid": "b35e7afd-24ae-48e1-aaaa-a6d32f6b34ee",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/b35e7afd-24ae-48e1-aaaa-a6d32f6b34ee"
+    },
+    {
+      "uuid": "171c054f-6ebd-4113-8172-73f1674921dd",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/171c054f-6ebd-4113-8172-73f1674921dd"
+    },
+    {
+      "uuid": "bb96a2d9-b682-48fa-af63-318c09c078a7",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/bb96a2d9-b682-48fa-af63-318c09c078a7"
+    },
+    {
+      "uuid": "77bb28fa-72b4-4020-8e4b-a53f56963e61",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/77bb28fa-72b4-4020-8e4b-a53f56963e61"
+    },
+    {
+      "uuid": "91963708-4653-44fd-87d1-bf4abf038142",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/91963708-4653-44fd-87d1-bf4abf038142"
+    },
+    {
+      "uuid": "a5bf77f8-4165-4b99-bd62-68f57a18575e",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/a5bf77f8-4165-4b99-bd62-68f57a18575e"
+    },
+    {
+      "uuid": "a40cc361-ef72-40da-b56f-e3d49b588ef6",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/a40cc361-ef72-40da-b56f-e3d49b588ef6"
+    },
+    {
+      "uuid": "15db4897-3de3-461e-b6a0-b1e59bfb2502",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/15db4897-3de3-461e-b6a0-b1e59bfb2502"
+    },
+    {
+      "uuid": "7d4c97e9-1441-47e6-a038-c713894e5923",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/7d4c97e9-1441-47e6-a038-c713894e5923"
+    },
+    {
+      "uuid": "a6c900d6-f354-4d96-a3e3-095d6892755a",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/a6c900d6-f354-4d96-a3e3-095d6892755a"
+    },
+    {
+      "uuid": "37efbac7-da64-406c-a0e0-2d4300378e31",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/37efbac7-da64-406c-a0e0-2d4300378e31"
+    },
+    {
+      "uuid": "1040579a-adff-452e-a37f-a40f418caf6c",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/1040579a-adff-452e-a37f-a40f418caf6c"
+    },
+    {
+      "uuid": "5cec6d04-7aa4-4424-818d-32fac5544060",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/5cec6d04-7aa4-4424-818d-32fac5544060"
+    },
+    {
+      "uuid": "1ba8c4c5-75bc-4c3d-a04d-1bd9ff19f4f1",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/1ba8c4c5-75bc-4c3d-a04d-1bd9ff19f4f1"
+    },
+    {
+      "uuid": "672a7350-fcd4-4b06-a2be-a94ee3b5c398",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/672a7350-fcd4-4b06-a2be-a94ee3b5c398"
+    },
+    {
+      "uuid": "8ba5df8b-404b-40bc-aaab-d3fc1cd350b1",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/8ba5df8b-404b-40bc-aaab-d3fc1cd350b1"
+    },
+    {
+      "uuid": "3420cd02-2dc8-409b-9323-85960808f0f7",
+      "item_ref": "477804824",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804824/3420cd02-2dc8-409b-9323-85960808f0f7"
+    }
+  ],
+  "raw_capture": "477804824_pokemonkort-fra-mange-sett/raw/477804824_2026-10-08-041714.html"
+}
