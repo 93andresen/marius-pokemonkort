@@ -59,7 +59,8 @@ def _read_jsonl(path: Path | str) -> list[dict[str, Any]]:
     if not p.exists():
         return []
     rows: list[dict[str, Any]] = []
-    for line in p.read_text(encoding="utf-8").splitlines():
+    # JSONL is "\n"-delimited: splitlines() breaks on U+2028/U+2029 too.
+    for line in p.read_text(encoding="utf-8").split("\n"):
         line = line.strip()
         if line:
             rows.append(json.loads(line))

@@ -564,7 +564,9 @@ def scrape_ad(
 
 def _load_kodes_from(jsonl_path: Path) -> list[str]:
     kodes: list[str] = []
-    for line in jsonl_path.read_text(encoding="utf-8").splitlines():
+    # JSONL is "\n"-delimited: splitlines() breaks on U+2028/U+2029 too, which
+    # would split a row and silently drop its kode.
+    for line in jsonl_path.read_text(encoding="utf-8").split("\n"):
         line = line.strip()
         if not line:
             continue

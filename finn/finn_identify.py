@@ -173,7 +173,9 @@ def annotate(row: dict[str, Any]) -> dict[str, Any]:
 
 def _load_rows(path: Path) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
+    # JSONL is "\n"-delimited: splitlines() would also break on U+2028/U+2029
+    # (which real FINN descriptions contain), tearing one object into two.
+    for line in path.read_text(encoding="utf-8").split("\n"):
         line = line.strip()
         if not line:
             continue
