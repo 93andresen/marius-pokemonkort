@@ -1,0 +1,1578 @@
+{
+  "query": "Haunter",
+  "results": [
+    {
+      "id": "pk_c204e74129ba179a07aa79bdc7941e8ab6f2a10ca07b7238ad3fa61d464bf8fdebacc73e470417c28464bb89",
+      "card_info": {
+        "name": "Haunter (41)",
+        "clean_name": "Haunter 41",
+        "set_name": "Arceus",
+        "set_code": "AR",
+        "set_id": "1391",
+        "card_number": "41/99",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "Hidden Poison - If Haunter is your Active Pokemon and is damaged by an opponent's attack (even if Haunter is Knocked Out), the Attacking Pokemon is now Poisoned.  (Poke-BODY)",
+        "attacks": [
+          "[1P] Tongue Spring - Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "D+20",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 7,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 13.36,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 38,
+            "mid_price": 42.47,
+            "high_price": 449.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 32.32,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86029"
+      },
+      "cardmarket": {
+        "product_name": "Haunter Lv.31",
+        "prices": [
+          {
+            "avg": 27.62,
+            "low": 2.8,
+            "avg1": 19.99,
+            "avg7": 25.73,
+            "avg30": 11.98,
+            "trend": 21.87,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.16,
+            "low": 0.4,
+            "avg1": 3.25,
+            "avg7": 2.34,
+            "avg30": 2.5,
+            "trend": 1.66,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Haunter-Lv31-AR41"
+      }
+    },
+    {
+      "id": "pk_b44e8794ba114452415237fdacf9229b31f2d6955b0f5831a36f71630e1e710dff80ed50b29dcb1ab8e8a85f",
+      "card_info": {
+        "name": "Haunter (42)",
+        "clean_name": "Haunter 42",
+        "set_name": "Arceus",
+        "set_code": "AR",
+        "set_id": "1391",
+        "card_number": "42/99",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Psyshot (20)",
+          "[2] Shadow Bind (30) The Defending Pokemon can't retreat during your opponent's next turn."
+        ],
+        "weakness": "D+20",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.78,
+            "high_price": 18.52,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.98,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 18.23,
+            "mid_price": 99.04,
+            "high_price": 299.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 18.23,
+            "direct_low_price": 99.04,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86030"
+      },
+      "cardmarket": {
+        "product_name": "Haunter Lv.37",
+        "prices": [
+          {
+            "avg": 0.41,
+            "low": 0.02,
+            "avg1": 1.37,
+            "avg7": 0.66,
+            "avg30": 0.48,
+            "trend": 0.46,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 15.11,
+            "low": 0.4,
+            "avg1": 3.84,
+            "avg7": 15.68,
+            "avg30": 7.65,
+            "trend": 14.55,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Haunter-Lv37-AR42"
+      }
+    },
+    {
+      "id": "pk_a737311d1814505da68220aa4e1a52ef0e45e7ed2b362d182332de978a9954f04f53ba903f79f259bb727ced",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "043/130",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.42,
+            "mid_price": 1,
+            "high_price": 175,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.44,
+            "direct_low_price": 95.41,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42506"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 1.59,
+            "low": 0.05,
+            "avg1": 1.03,
+            "avg7": 0.98,
+            "avg30": 1.37,
+            "trend": 1.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.3,
+            "avg7": 0.65,
+            "avg30": 0.65,
+            "trend": 0.3,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Haunter-B243"
+      }
+    },
+    {
+      "id": "pk_2c4edc8cfe63b898bdf986eac5bb189576b2cd9b754afd0696d6daf8cd9ef8d85cf192db15da2a948015c253a929",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "029/102",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 70,
+            "mid_price": 74.99,
+            "high_price": 698.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 67.85,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 6.04,
+            "mid_price": 12.99,
+            "high_price": 129.31,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 23.13,
+            "direct_low_price": 128.46,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107026"
+      },
+      "cardmarket": {
+        "product_name": "Haunter (Shadowless)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 53.99,
+            "low": 7.99,
+            "avg1": 87.48,
+            "avg7": 36.37,
+            "avg30": 30.16,
+            "trend": 31.16,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Haunter-V2-BS29"
+      }
+    },
+    {
+      "id": "pk_ec7addcb4fb6c3ad120b3bf370c932b5f0b08eb6561f5663920a844a0ccd8715621c110b987abb85777ebd41",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "029/102",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 1.37,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42370"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.35,
+            "avg7": 1.23,
+            "avg30": 1.1,
+            "trend": 1.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.81,
+            "low": 0.03,
+            "avg1": 1.59,
+            "avg7": 3.04,
+            "avg30": 2.8,
+            "trend": 4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Haunter-V1-BS29"
+      }
+    },
+    {
+      "id": "pk_f095073b0495c5f5a72970a31e2857288fbeb6a50b7382ae76f89500eee29e127ced33ee06b70e3d5e3b0f8d8e",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "50/130",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>\r\nThe Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (60)\r\n<br>\r\nIf the Defending Pokémon is not Asleep, this attack does nothing."
+        ],
+        "weakness": "D+20",
+        "resistance": "C-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.81,
+            "mid_price": 5.63,
+            "high_price": 55.09,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 5.76,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 41.57,
+            "mid_price": 100,
+            "high_price": 993.57,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 100,
+            "direct_low_price": 498.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86027"
+      },
+      "cardmarket": {
+        "product_name": "Haunter Lv.32",
+        "prices": [
+          {
+            "avg": 0.74,
+            "low": 0.05,
+            "avg1": 0.05,
+            "avg7": 0.4,
+            "avg30": 0.77,
+            "trend": 0.56,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.65,
+            "low": 0.15,
+            "avg1": 2.29,
+            "avg7": 7.88,
+            "avg30": 5.97,
+            "trend": 6.62,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Haunter-Lv32-DP50"
+      }
+    },
+    {
+      "id": "pk_98d2d4e630fcd9c9ec54071e3ee3140fa51ada8c45d1eef9cb7f7682f13abe625a765400fcebf9985390b7ddc2",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "080/165",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1P] Nightmare (20)\r\n<br>The Defending Pokémon is now Asleep.",
+          "[1P] Dream Eater (50)\r\n<br>If the Defending Pokémon isn't Asleep, this attack does nothing."
+        ],
+        "weakness": "D",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.99,
+            "mid_price": 17.96,
+            "high_price": 1069,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 16.92,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 280,
+            "mid_price": 285.49,
+            "high_price": 549.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 149.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86024"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 249.32,
+            "low": 20,
+            "avg1": 599,
+            "avg7": 154.8,
+            "avg30": 56.38,
+            "trend": 169.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.03,
+            "low": 1,
+            "avg1": 7.12,
+            "avg7": 7.33,
+            "avg30": 7.62,
+            "trend": 7.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Haunter-EX80"
+      }
+    },
+    {
+      "id": "pk_5d1adcfc7985d0be7900d7196acb23bf18ea9abc5c28e5703dc86cb58959a2f923065c196032b1719f67342602",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "34/112",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Head Trip\r<br>\n<br>Once during your turn <em>(before your attack)</em>, if Haunter is on your Bench, you may use this power.  One of your Active Pokemon is now Confused.",
+        "attacks": [
+          "[1P] Confuse Ray (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused."
+        ],
+        "weakness": "D",
+        "resistance": "F",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 8.8,
+            "high_price": 99.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 8.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 139.99,
+            "mid_price": 159.99,
+            "high_price": 1999.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 79.77,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86025"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 3.34,
+            "low": 1,
+            "avg1": 4.49,
+            "avg7": 2.84,
+            "avg30": 3.03,
+            "trend": 2.77,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 53,
+            "low": 8,
+            "avg1": 50,
+            "avg7": 33.93,
+            "avg30": 31.54,
+            "trend": 45.51,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Haunter-FL34"
+      }
+    },
+    {
+      "id": "pk_5036a38cfb44db3585a37d1db84bf4683461bc23f0d7ac44b9be9a4ba1ee17fce143ae782e6ea39de1dd28",
+      "card_info": {
+        "name": "Haunter (21)",
+        "clean_name": "Haunter 21",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "21/62",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Transparency</strong> Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[1P] Nightmare (10)\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16.86,
+            "mid_price": 25.98,
+            "high_price": 218.06,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 25.9,
+            "direct_low_price": 217.21,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 7.92,
+            "high_price": 107.04,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 11.41,
+            "direct_low_price": 11,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44429"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 11.34,
+            "low": 0.6,
+            "avg1": 12.88,
+            "avg7": 8.37,
+            "avg30": 10.76,
+            "trend": 10.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12,
+            "avg7": 16.48,
+            "avg30": 10.45,
+            "trend": 13.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Haunter-V2-FO21"
+      }
+    },
+    {
+      "id": "pk_55b903467841af1a0ce5e9ea7e53e153229c73bc526a2cd57c5156b9fbcfdb1d494e4fc95193a0dc87769f",
+      "card_info": {
+        "name": "Haunter (6)",
+        "clean_name": "Haunter 6",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "06/62",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Transparency</strong> Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[1P] Nightmare (10)\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 145,
+            "mid_price": 198.48,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 169.82,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 27,
+            "mid_price": 37.75,
+            "high_price": 1499.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 51.84,
+            "direct_low_price": 29.15,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106522"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.5,
+            "avg7": 17.69,
+            "avg30": 14.34,
+            "trend": 12.76,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 34.99,
+            "low": 6.41,
+            "avg1": 54.5,
+            "avg7": 49.92,
+            "avg30": 38.69,
+            "trend": 38.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Haunter-V1-FO6"
+      }
+    },
+    {
+      "id": "pk_274e98e240ab8b43e3790eaf6ef490dfc6b6f48c209325cb1097edebef88909803a3ab612c30b994088c508355",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "34/83",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Ability — Gothic Fear</b>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may leave both Active Pokémon Confused.",
+        "attacks": [
+          "[1P] Poison Ring\r\n<br>Your opponent's Active Pokémon is now Poisoned. That Pokémon can't retreat during your opponent's next turn."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.71,
+            "high_price": 33.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.79,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.8,
+            "mid_price": 5.12,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 6.57,
+            "direct_low_price": 8.48,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113692"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.34,
+            "low": 0.04,
+            "avg1": 0.5,
+            "avg7": 0.35,
+            "avg30": 0.35,
+            "trend": 0.37,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.43,
+            "low": 0.15,
+            "avg1": 4.99,
+            "avg7": 3.91,
+            "avg30": 3.23,
+            "trend": 3.91,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Haunter-GEN34"
+      }
+    },
+    {
+      "id": "pk_0a1f852d0d1b6126f4596dd3101b9779ccadbae6e2d1d7412b5093a1a24e4b28fc2a05605df7644b75f8e56e01",
+      "card_info": {
+        "name": "Sabrina's Haunter",
+        "clean_name": "Sabrinas Haunter",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "055/132",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PP] Nightmare (20)\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PPP] Shadow Attack\r\n<br>Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them and this attack does 30 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 36.9,
+            "mid_price": 48.66,
+            "high_price": 912.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 45.91,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5.98,
+            "mid_price": 10.49,
+            "high_price": 4314.37,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 11.86,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88877"
+      },
+      "cardmarket": {
+        "product_name": "Sabrina's Haunter",
+        "prices": [
+          {
+            "avg": 7.7,
+            "low": 0.4,
+            "avg1": 5.99,
+            "avg7": 7.41,
+            "avg30": 7.73,
+            "trend": 5.71,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Sabrinas-Haunter-GC55"
+      }
+    },
+    {
+      "id": "pk_b48542a4110ba1f94d49a3747c39789736ba5dbae39c3f281a134557b2355d77652b8bcadd0c461b93ad0b1cf6",
+      "card_info": {
+        "name": "Sabrina's Haunter",
+        "clean_name": "Sabrinas Haunter",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "058/132",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PP] Night Spirits (30x)\r\n<br>Flip a number of coins equal to the total number of Sabrina's Gastlys, Sabrina's Haunters, and Sabrina's Gengars you have in play. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 36,
+            "mid_price": 63.4,
+            "high_price": 196.64,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 63.84,
+            "direct_low_price": 139.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.19,
+            "mid_price": 19.99,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 26.67,
+            "direct_low_price": 66.96,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88878"
+      },
+      "cardmarket": {
+        "product_name": "Sabrina's Haunter",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.5,
+            "avg7": 1.39,
+            "avg30": 1.39,
+            "trend": 1.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.85,
+            "low": 1.5,
+            "avg1": 9.98,
+            "avg7": 14.13,
+            "avg30": 11.92,
+            "trend": 11.53,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Haunter-GH58"
+      }
+    },
+    {
+      "id": "pk_90060de1e99d4eba4931c633c44b62342a73fa1c03582ee599f0a476e986d565179b2a8a072d96253bc8fcb6",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "35/92",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Time Spiral \r\n<br>If your opponent has any Evolved Pokemon in play, choose 1 of them and flip a coin.  If heads, remove the highest Stage Evolution card on the Pokemon and have your opponent shuffle it into his or her deck.",
+          "[1P] Haunt \r\n<br>Put 2 damage counters on the Defending Pokemon."
+        ],
+        "weakness": "D",
+        "resistance": "F",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.99,
+            "mid_price": 12.19,
+            "high_price": 45,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 16.09,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 599.99,
+            "mid_price": 650,
+            "high_price": 799.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 208.1,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86026"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 330.8,
+            "low": 8,
+            "avg1": 550,
+            "avg7": 166.29,
+            "avg30": 133,
+            "trend": 206.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.71,
+            "low": 0.05,
+            "avg1": 2.75,
+            "avg7": 2.58,
+            "avg30": 2.53,
+            "trend": 2.64,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Haunter-LM35"
+      }
+    },
+    {
+      "id": "pk_5e1243c50a59bda52d88490644f6f82cdb99d7d69517babfc03b5f141bbd5aa93fff8d852e5447e5ae6301219f",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "046/110",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Transparency</strong> Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is affected by a Special Condition.",
+        "attacks": [
+          "[1P] Nightmare (10)\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.87,
+            "mid_price": 5.45,
+            "high_price": 42.82,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 5.68,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 599.99,
+            "mid_price": 599.99,
+            "high_price": 599.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 249.17,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86022"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 1.79,
+            "low": 0.3,
+            "avg1": 6.99,
+            "avg7": 2.31,
+            "avg30": 2.93,
+            "trend": 2.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 695.99,
+            "low": 138.9,
+            "avg1": 1599.95,
+            "avg7": 598.08,
+            "avg30": 260.63,
+            "trend": 754.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Haunter-LC46"
+      }
+    },
+    {
+      "id": "pk_a156cd9d0fba0b9856ba38ccfa51e42753cf41334bb30b72474f03733baf4c3c50a815f1db6d5210b4f0f175b34fb0",
+      "card_info": {
+        "name": "Haunter - 055/094",
+        "clean_name": "Haunter",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "055/094",
+        "rarity": "Uncommon",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Spooky Shot (40)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.16,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.26,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.32,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660408"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.1,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Haunter-PFL055"
+      }
+    },
+    {
+      "id": "pk_349a8bf7d7a3311cda80708490555ab4097f54e1b228c8ac513d7efc2e05734c31e126f0a4c836e91ee49aa996",
+      "card_info": {
+        "name": "Dark Haunter",
+        "clean_name": "Dark Haunter",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "036/105",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Call Back\r\n<br>\r\nPut a Baby Pokémon or Basic Pokémon card from your opponent's discard pile onto his or her Bench. Put 1 damage counter on that Pokémon. <em>(You can't use this attack if your Bench is full.)</em>",
+          "[PP] Surround (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon can't retreat during your opponent's next turn."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69,
+            "mid_price": 87.33,
+            "high_price": 782.92,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 74.36,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 17,
+            "high_price": 265.14,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 19.63,
+            "direct_low_price": 38.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84609"
+      },
+      "cardmarket": {
+        "product_name": "Dark Haunter",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.73,
+            "avg7": 0.73,
+            "avg30": 0.73,
+            "trend": 0.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.21,
+            "low": 0.8,
+            "avg1": 6.83,
+            "avg7": 7.03,
+            "avg30": 7.95,
+            "trend": 7.26,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Dark-Haunter-NDE36"
+      }
+    },
+    {
+      "id": "pk_26dd20a1c7ad69eb36e7e1e29037d1526e788a925cdafdd3224ce1481898ce00b52eb0656ea74265d20ea129fa42",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "SM - Crimson Invasion",
+        "set_code": "SM04",
+        "set_id": "2071",
+        "card_number": "37/111",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Pain Amplifier\r\n<br>Put 2 damage counters on each of your opponent's Pokemon that has any damage counters on it."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.4,
+            "high_price": 18.74,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 0.42,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 3.56,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 3.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/149060"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.14,
+            "avg30": 0.16,
+            "trend": 0.16,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.11,
+            "low": 0.1,
+            "avg1": 4.99,
+            "avg7": 3.22,
+            "avg30": 1.97,
+            "trend": 3.31,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Haunter-CIN37"
+      }
+    },
+    {
+      "id": "pk_0cc7135568645c292583acbcf811a1ca44968882899715bc79b9ed949268c581247b8b00e120d3b95324654c133a",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "69/214",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Sinister Fog\r\n<br>Your opponent's Active Pokémon is now Poisoned. Put 1 damage counter on each of your opponent's Benched Pokémon."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.2,
+            "mid_price": 5.96,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 5.75,
+            "direct_low_price": 9.96,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.18,
+            "mid_price": 0.4,
+            "high_price": 10,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.4,
+            "direct_low_price": 0.49,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189169"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.34,
+            "low": 0.02,
+            "avg1": 1.44,
+            "avg7": 0.42,
+            "avg30": 0.31,
+            "trend": 0.47,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.79,
+            "low": 1.9,
+            "avg1": 5.5,
+            "avg7": 7.06,
+            "avg30": 4.12,
+            "trend": 6.94,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Haunter-UNB69"
+      }
+    },
+    {
+      "id": "pk_2bc6d3158ca9ed69d64de8324683ec90652a75f80979ec510c30f5e78d5d682821c386225366fea0fe7972f6cf7c4ca4",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "SV05: Temporal Forces",
+        "set_code": "TEF",
+        "set_id": "23381",
+        "card_number": "103/162",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D][D] Super Poison Breath (30) \r\nYour opponent’s Active Pokémon is now Poisoned."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:46.32428",
+            "market_price": 0.3,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:46.32428",
+            "market_price": 0.25,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/542847"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.18,
+            "avg30": 0.18,
+            "trend": 0.18,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Haunter-TEF103"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 91,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 91,
+    "tcg": 77,
+    "cardmarket": 81,
+    "tcg_only": 10,
+    "cardmarket_only": 14,
+    "both_sources": 67
+  }
+}

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Dragonite&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:47:49 GMT
+Content-Type: application/json
+Content-Length: 28294
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 870
+X-RateLimit-Remaining-Hour: 48
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tbS2i6qpH5a%2B2uIFHB7NV%2FJ9MLJq8dw%2FzyhcgJkyWaJ42%2BJEHcyzA2vIcQ6GtQ0czOTueqoJjKdv%2F6bAWIbw3TmaNX0pJrxjMGXiMmOBgI0lE5AYjpWnQpiRFhWC7ZXrFimiKNhHKMsbnTrERijAYQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472826fe84db4f3-OSL
+alt-svc: h3=":443"; ma=86400

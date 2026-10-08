@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Charmander&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:47:51 GMT
+Content-Type: application/json
+Content-Length: 27087
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 869
+X-RateLimit-Remaining-Hour: 47
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UJKrK%2FJR5VGJkP3JCMw5uyzAYrTZPdvAasHtvGKq8w27IibjmdlQs6d0FdXIpWDegG0MlNRLV%2BFNo%2BEklR4r%2BYlpzWEQaUAMxiag9C521ls2HuOW9a1bcqMMo%2FXP%2Fz6MGv%2F9hwXSDBhpBKqp2lYA7A%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472827eeb5db500-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,1487 @@
+{
+  "query": "Growlithe",
+  "results": [
+    {
+      "id": "pk_eb24dfa783d9d91551bb786baa2ed410bef2a3ec04d49299c335aa28abb24d006b7cf6c4f9be122fcbee594c54",
+      "card_info": {
+        "name": "Growlithe (51)",
+        "clean_name": "Growlithe 51",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "051/147",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1R] Ember (30)\r\n<br>Discard a Fire Energy card attached to Growlithe."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 55,
+            "mid_price": 77.5,
+            "high_price": 499.64,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 57.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 300,
+            "mid_price": 659.86,
+            "high_price": 1022.21,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 96,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85949"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 18,
+            "low": 2.7,
+            "avg1": 26,
+            "avg7": 14.7,
+            "avg30": 21.02,
+            "trend": 27.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.51,
+            "low": 1.9,
+            "avg1": 7.65,
+            "avg7": 9.31,
+            "avg30": 9.08,
+            "trend": 10.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Growlithe-AQ51"
+      }
+    },
+    {
+      "id": "pk_3de15883e0cdf887d911def3c81d0557ec699abfe7628ef8ae54397decbb87c2869c94118255103c2a58215f70",
+      "card_info": {
+        "name": "Growlithe (80)",
+        "clean_name": "Growlithe 80",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "080/147",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Roar\r\n<br>\r\nIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches the Defending Pokémon with it.",
+          "[R] Firebreathing (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.35,
+            "mid_price": 34.99,
+            "high_price": 189.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 31.92,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 250,
+            "mid_price": 250,
+            "high_price": 250,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 45.39,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85953"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 4.83,
+            "low": 1,
+            "avg1": 2,
+            "avg7": 6.88,
+            "avg30": 4.68,
+            "trend": 5.8,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 44.16,
+            "low": 4.5,
+            "avg1": 16,
+            "avg7": 40.4,
+            "avg30": 21.66,
+            "trend": 37.28,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Growlithe-AQ80"
+      }
+    },
+    {
+      "id": "pk_e19acb9b653c648a150b41ffa8b5bc5fd1ea6fb60b5d283c19507835a4ac85f63d724d624a3b32654df2ec78",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "042/130",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1R] Flare (20)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1.42,
+            "high_price": 14.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.62,
+            "direct_low_price": 13.97,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42505"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 1.61,
+            "low": 0.17,
+            "avg1": 1.07,
+            "avg7": 1,
+            "avg30": 1.52,
+            "trend": 1.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.65,
+            "avg7": 0.65,
+            "avg30": 0.65,
+            "trend": 0.65,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Growlithe-B242"
+      }
+    },
+    {
+      "id": "pk_34cd4ff172eabf9a3f6db245811e4ca72623a952083e0e235506977fb7032b901b94c2a46cb5e48d760bbe18f40b",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "028/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1R] Flare (20)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 55,
+            "mid_price": 79.99,
+            "high_price": 697.52,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 66.71,
+            "direct_low_price": 448.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.99,
+            "mid_price": 11.9,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 13.02,
+            "direct_low_price": 73.51,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107025"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe (Shadowless)",
+        "prices": [
+          {
+            "avg": 16.16,
+            "low": 2.9,
+            "avg1": 15,
+            "avg7": 12.77,
+            "avg30": 11.26,
+            "trend": 15.78,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Growlithe-V2-BS28"
+      }
+    },
+    {
+      "id": "pk_03d73839c65741a5f2e3b29e9b7010ed62c3f89c4c70d73c0115a256326fdb920d75f5cd266e4aa217827e72",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "028/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1R] Flare (20)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.89,
+            "high_price": 19.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.41,
+            "direct_low_price": 5.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42369"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6,
+            "avg7": 2.15,
+            "avg30": 2.15,
+            "trend": 3.27,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.32,
+            "low": 0.02,
+            "avg1": 1.58,
+            "avg7": 2.95,
+            "avg30": 2.47,
+            "trend": 2.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Growlithe-V1-BS28"
+      }
+    },
+    {
+      "id": "pk_7a1c1b375410d75f9ba69dedf880d697bf7a3e0fca64c252ae20e63b83e18a6b10ce03017932b08ed2c11100ba1a",
+      "card_info": {
+        "name": "Hisuian Growlithe - 070/189 (Cosmos Holo)",
+        "clean_name": "Hisuian Growlithe 070 189 Cosmos Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "070/189",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Defensive Posture\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+          "[1F] Bite (30)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.8,
+            "high_price": 6.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 1.02,
+            "direct_low_price": 1.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/284947"
+      },
+      "cardmarket": {
+        "product_name": "Hisuian Growlithe",
+        "prices": [
+          {
+            "avg": 2.34,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 2.69,
+            "avg30": 2.74,
+            "trend": 3.04,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Hisuian-Growlithe-V2-ASR070"
+      }
+    },
+    {
+      "id": "pk_dc87088cf97e7cef610661d7e40cd78ebc1f8be31f4e93d6458b6cec4dc2af65841d65e9d04aac06210cb2",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "EX Trainer Kit 2: Plusle & Minun",
+        "set_code": "PR",
+        "set_id": "1542",
+        "card_number": "4/12",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[2R] Flame Tail (40)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.67,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 0.81,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85956"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.65,
+            "low": 0.02,
+            "avg1": 1.99,
+            "avg7": 1.09,
+            "avg30": 0.57,
+            "trend": 1.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Trainer-Kit-2/Growlithe-TK2M4"
+      }
+    },
+    {
+      "id": "pk_6d871c9db952d570c51bb0a1d3ddc22a52a0354324b3d313148721c19e32e10c29bc67d789b55933ffe6cc573c",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "64/112",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[2R] Flame Tail (40)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.75,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.75,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 60,
+            "mid_price": 110,
+            "high_price": 128.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 47.83,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85954"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.64,
+            "avg30": 0.64,
+            "trend": 0.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 144.25,
+            "low": 4.74,
+            "avg1": 150,
+            "avg7": 32.07,
+            "avg30": 15.95,
+            "trend": 34.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Growlithe-FL64"
+      }
+    },
+    {
+      "id": "pk_bcc4934013ad88c4269c5c518b4c96bd3cb44c622307eea247924ba09e4d7748622a8970297087d3379a34ff98",
+      "card_info": {
+        "name": "Blaine's Growlithe",
+        "clean_name": "Blaines Growlithe",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "062/132",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Stoke\r\n<br>Search your deck for a Fire Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward.",
+          "[2R] Body Slam (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.12,
+            "mid_price": 11.82,
+            "high_price": 94.19,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 11.75,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 2.35,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.37,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83870"
+      },
+      "cardmarket": {
+        "product_name": "Blaine's Growlithe",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.38,
+            "low": 0.15,
+            "avg1": 0.94,
+            "avg7": 1.58,
+            "avg30": 2.18,
+            "trend": 1.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Blaines-Growlithe-GC62"
+      }
+    },
+    {
+      "id": "pk_85c8e66eaef462764f41182037b1d62da46335f6434628eb7e08ded3235a4f83328021c2c67d5c64b9185eb9a9",
+      "card_info": {
+        "name": "Blaine's Growlithe (35)",
+        "clean_name": "Blaines Growlithe 35",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "035/132",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Shake (10)\r\n<br>If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon.)</em>",
+          "[1R] Fire Tackle (30)\r\n<br>Blaine's Growlithe does 10 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.28,
+            "mid_price": 21.6,
+            "high_price": 218.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 18.84,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.25,
+            "mid_price": 6.64,
+            "high_price": 94.1,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 7.49,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83868"
+      },
+      "cardmarket": {
+        "product_name": "Blaine's Growlithe",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 3,
+            "avg30": 3,
+            "trend": 3,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.56,
+            "low": 0.5,
+            "avg1": 3.5,
+            "avg7": 6.21,
+            "avg30": 5.7,
+            "trend": 3.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Growlithe-GH35"
+      }
+    },
+    {
+      "id": "pk_b69c9026e1e25536b0dfbc836caf2f957e1c6e21bc16afebaa2904aa8b586c14bbd1882f0392d32fa59b1ef024",
+      "card_info": {
+        "name": "Blaine's Growlithe (62)",
+        "clean_name": "Blaines Growlithe 62",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "062/132",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Blaze (20)\r\n<br>Does 10 damage to each Grass Pokémon on your opponent's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.82,
+            "mid_price": 10,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 9.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.55,
+            "mid_price": 1.83,
+            "high_price": 4317.03,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.91,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83869"
+      },
+      "cardmarket": {
+        "product_name": "Blaine's Growlithe",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.83,
+            "low": 0.3,
+            "avg1": 0.3,
+            "avg7": 1.57,
+            "avg30": 2.62,
+            "trend": 0.55,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Growlithe-GH62"
+      }
+    },
+    {
+      "id": "pk_80fa2c23f186411af67f37b740a9b550446e8c478fbd0b543f6deadd0392ae0b247577ac9667570754907dc1f2",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "65/123",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[2R] Combustion (40)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.59,
+            "mid_price": 5.88,
+            "high_price": 22.96,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 6.17,
+            "direct_low_price": 8.24,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 31.2,
+            "mid_price": 54.99,
+            "high_price": 260.22,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 41.3,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85960"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.38,
+            "low": 0.02,
+            "avg1": 0.8,
+            "avg7": 0.42,
+            "avg30": 0.36,
+            "trend": 0.5,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 14.33,
+            "low": 1.3,
+            "avg1": 8,
+            "avg7": 8.58,
+            "avg30": 8.22,
+            "trend": 9.42,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Growlithe-HS65"
+      }
+    },
+    {
+      "id": "pk_8b288084decc3937b13699c29622d361536131496239bfda00b66326751631e1f2230dde755bf6913203e054",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "55/92",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Body Slam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[1R] Firebreathing (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.2,
+            "mid_price": 6.48,
+            "high_price": 97.97,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 6.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.34,
+            "mid_price": 179.99,
+            "high_price": 499.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 145.1,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85955"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 1.95,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 1.49,
+            "avg30": 1.78,
+            "trend": 1.25,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 38.28,
+            "low": 4.29,
+            "avg1": 9.89,
+            "avg7": 30.49,
+            "avg30": 25.72,
+            "trend": 34.91,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Growlithe-LM55"
+      }
+    },
+    {
+      "id": "pk_2ffecb990db25a90e2ad0899c9d33c9ebf914cf38e85f0f82159d1cc556c7758f1dcfe7bc5def415fb7077c07b",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "045/110",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1R] Flare (20)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.06,
+            "mid_price": 7.68,
+            "high_price": 30.92,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 8.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 349.99,
+            "mid_price": 699.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 200,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85948"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 2.11,
+            "low": 0.1,
+            "avg1": 1.39,
+            "avg7": 1.84,
+            "avg30": 4.84,
+            "trend": 1.46,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 189.5,
+            "low": 99.99,
+            "avg1": 130,
+            "avg7": 81.25,
+            "avg30": 67.63,
+            "trend": 100.96,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Growlithe-LC45"
+      }
+    },
+    {
+      "id": "pk_c03a4cf2383c2deef397538d84c7a05eaefa3b7d9a5a10bbff58c40bb89c3d2060a347bb73f554da5a01b97d550ed2",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Legendary Treasures: Radiant Collection",
+        "set_code": "LTR",
+        "set_id": "1465",
+        "card_number": "RC4/RC25",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "80",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Rest - Heal all damage from this Pokemon.  This Pokemon is now Asleep.",
+          "[2R] Lunge (40) Flip a coin.  If tails, this attack does nothing."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.5,
+            "mid_price": 25.91,
+            "high_price": 121.1,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 26.14,
+            "direct_low_price": 26.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85963"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 22.9,
+            "low": 19.97,
+            "avg1": 24.99,
+            "avg7": 23.56,
+            "avg30": 21.85,
+            "trend": 23.33,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 17.87,
+            "low": 11.75,
+            "avg1": 16,
+            "avg7": 18.46,
+            "avg30": 17.19,
+            "trend": 18.96,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Growlithe-LTRRC4"
+      }
+    },
+    {
+      "id": "pk_0b0eee0d2900e4269f2dde2a49c56ccf9b6d2fe0060661edf1f2866c3fa34dc7cbe33aea81b3676932b9c65fa8",
+      "card_info": {
+        "name": "Growlithe - 1/12",
+        "clean_name": "Growlithe",
+        "set_name": "McDonald's Promos 2018",
+        "set_code": "MCD18",
+        "set_id": "2364",
+        "card_number": "001/012",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2R] Take Down (60)\r\n<br>This Pokémon does 20 damage to itself."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.99,
+            "mid_price": 23.86,
+            "high_price": 219.62,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 22.94,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/180450"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b9d819f6efe6603755dd72fa63181133d1fcedc2a4fe00dd4f765153eed2bb733e3e99ce14ce9f035b127d8aaf",
+      "card_info": {
+        "name": "Growlithe - 4/15",
+        "clean_name": "Growlithe",
+        "set_name": "McDonald's Promos 2022",
+        "set_code": "MCD22",
+        "set_id": "3150",
+        "card_number": "004/015",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Warm Up\r\n<br>Search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+          "[2R] Combustion (30)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.59,
+            "mid_price": 1.49,
+            "high_price": 96.79,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.51,
+            "direct_low_price": 95.83,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/281503"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.45,
+            "low": 0.02,
+            "avg1": 0.74,
+            "avg7": 0.47,
+            "avg30": 0.44,
+            "trend": 0.57,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2022/Growlithe-MCD224"
+      }
+    },
+    {
+      "id": "pk_11f5c9a3196467ce7d2223cc42d16a4608694f305bc707a82274bbcdcfb08c5f00ee376134719ef22822",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "My First Battle",
+        "set_code": "MFB",
+        "set_id": "23330",
+        "card_number": null,
+        "rarity": "Unconfirmed",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Gnaw (30)",
+          "[RRR] Take Down (50)"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.91,
+            "mid_price": 5.13,
+            "high_price": 65.42,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 4.94,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/524092"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.42,
+            "low": 0.1,
+            "avg1": 0.28,
+            "avg7": 0.33,
+            "avg30": 0.48,
+            "trend": 0.45,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/My-First-Battle/Growlithe-MFB"
+      }
+    },
+    {
+      "id": "pk_87b8635084f8d877b296da333ac4cb0a9cb042d14a7dff4955b2f233373ef5994dd45b92e127ff775f7d55d874",
+      "card_info": {
+        "name": "Growlithe",
+        "clean_name": "Growlithe",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "068/105",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Bite (20)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 20.78,
+            "high_price": 280.37,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 20.52,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.4,
+            "mid_price": 4.35,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 5.74,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85952"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 2,
+            "low": 0.09,
+            "avg1": 0.1,
+            "avg7": 1.06,
+            "avg30": 1.91,
+            "trend": 1.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Growlithe-NDE68"
+      }
+    },
+    {
+      "id": "pk_9746a3922d8fb9da58c50b335d69fd69ed42264bfa7d14d59cc03a5e174fa6637f3bdd46ebb347ea971419d8",
+      "card_info": {
+        "name": "Growlithe (10)",
+        "clean_name": "Growlithe 10",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "10/99",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Stoke - Flip a coin.  If heads, search your deck for a R Energy card and attach it to this Pokemon.  Shuffle your deck afterward.",
+          "[1R] Firebreathing (10+) Flip a coin.  If heads, this attack does 20 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.6,
+            "high_price": 18.98,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 0.69,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 21.02,
+            "mid_price": 28.25,
+            "high_price": 499.72,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 23.26,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85961"
+      },
+      "cardmarket": {
+        "product_name": "Growlithe",
+        "prices": [
+          {
+            "avg": 0.55,
+            "low": 0.02,
+            "avg1": 0.38,
+            "avg7": 0.43,
+            "avg30": 0.4,
+            "trend": 0.58,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.99,
+            "low": 0.3,
+            "avg1": 0.99,
+            "avg7": 1.67,
+            "avg30": 2.3,
+            "trend": 1.42,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Growlithe-NXD10"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 130,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 130,
+    "tcg": 99,
+    "cardmarket": 115,
+    "tcg_only": 15,
+    "cardmarket_only": 31,
+    "both_sources": 84
+  }
+}

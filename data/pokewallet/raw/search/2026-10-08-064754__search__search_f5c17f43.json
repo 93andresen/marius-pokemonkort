@@ -1,0 +1,978 @@
+{
+  "query": "Charizard",
+  "results": [
+    {
+      "id": "pk_c5f39ad6d3d26b027c9ab95c280d871af3ed5f6c8d7654df36c5b264f691a25de62c2a01189979ddfa3a74",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Arceus",
+        "set_code": "AR",
+        "set_id": "1391",
+        "card_number": "1/99",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "Fire Formation - Each of Charizard's attacks does 10 more damage for each R Pokemon on your Bench to your opponent's Active Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+        "attacks": [
+          "[R] Fire Wing (30)",
+          "[1RR] Burning Tail (80) Discard a R Energy attached to Charizard."
+        ],
+        "weakness": "W+30",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 94.52,
+            "mid_price": 125.88,
+            "high_price": 1999.78,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 109.28,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 38,
+            "mid_price": 66.68,
+            "high_price": 443.12,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 72.31,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84191"
+      },
+      "cardmarket": {
+        "product_name": "Charizard Lv.60",
+        "prices": [
+          {
+            "avg": 46.8,
+            "low": 7,
+            "avg1": 70.99,
+            "avg7": 43.46,
+            "avg30": 31.79,
+            "trend": 41.79,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 44.43,
+            "low": 4.3,
+            "avg1": 98.33,
+            "avg7": 51.3,
+            "avg30": 30.49,
+            "trend": 46.92,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Charizard-Lv60-AR1"
+      }
+    },
+    {
+      "id": "pk_dee28b8828ecc4a21d61450954f9efd46b544eae6bd0e53e80eb6de41a3c60e26837316d59c4c27b180741",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "004/130",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 275,
+            "mid_price": 330,
+            "high_price": 990.98,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 460.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42479"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": 347.38,
+            "low": 115,
+            "avg1": 749.99,
+            "avg7": 314.83,
+            "avg30": 299.67,
+            "trend": 310.4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 120,
+            "avg7": 233.67,
+            "avg30": 223.79,
+            "trend": 190.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Charizard-B24"
+      }
+    },
+    {
+      "id": "pk_45c1a24a969b0b3d66ca6e4aea705aef873bf7e07d43e3cf6a391e1c9e9b01d38a9a23b3953ff6fbcd17fffa77",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3187,
+            "mid_price": 3500,
+            "high_price": 10000,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2257.87,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106999"
+      },
+      "cardmarket": {
+        "product_name": "Charizard (Shadowless)",
+        "prices": [
+          {
+            "avg": 4625,
+            "low": 980,
+            "avg1": 950,
+            "avg7": 1821.3,
+            "avg30": 2478.82,
+            "trend": 3330.71,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V2-BS4"
+      }
+    },
+    {
+      "id": "pk_f45432e30a85f19b1c403c7ed9115a50d82d4b69d29af9e2abbb35e67ca26f7571072aa111240bece9df81",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.98,
+            "mid_price": 651.41,
+            "high_price": 3499.1,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 928.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42382"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 207.4,
+            "avg7": 129.55,
+            "avg30": 202.71,
+            "trend": 123.63,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 741.93,
+            "low": 100,
+            "avg1": 291.3,
+            "avg7": 469.22,
+            "avg30": 709.55,
+            "trend": 504.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V1-BS4"
+      }
+    },
+    {
+      "id": "pk_2dd3602c9047d2472e284675b17e7efcbf22ee4ec64b0c78fb83fc6140f1a795d2c4f5583b945ff2e9111981",
+      "card_info": {
+        "name": "Charizard (Black Dot Error)",
+        "clean_name": "Charizard Black Dot Error",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/657516"
+      },
+      "cardmarket": {
+        "product_name": "Charizard",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 207.4,
+            "avg7": 129.55,
+            "avg30": 202.71,
+            "trend": 123.63,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 741.93,
+            "low": 100,
+            "avg1": 291.3,
+            "avg7": 469.22,
+            "avg30": 709.55,
+            "trend": 504.73,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V1-BS4"
+      }
+    },
+    {
+      "id": "pk_9d9bfd5de7bef7ccdd5427dff1cde54ced5a93f3070ad06eef60d0a57df3c718776893ac1b54706cbb1268c9a301",
+      "card_info": {
+        "name": "Charmander - 18/147 (#1 Charizard Stamped)",
+        "clean_name": "Charmander 18 147 1 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "018/147",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[1R] Flame Tail (20)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.55,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.67,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219029"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3a64803607ff64368b7016cadd2e2940c93ffade1161d548999d9483a4726a5c30e8a9e7968974b4ce",
+      "card_info": {
+        "name": "Fire Energy (#2 Charizard Stamped)",
+        "clean_name": "Fire Energy 2 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219030"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_af41f881d7e53bd9255efc8cceca976312f2c1250f20e1ff0a37513a743646bb68480718b50fac408b",
+      "card_info": {
+        "name": "Fire Energy (#3 Charizard Stamped)",
+        "clean_name": "Fire Energy 3 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219031"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_68b45d0dca669219bfb07d092af7e0be5df63f818b20721ad038e9f5516c306968e60f25a0255c1e89",
+      "card_info": {
+        "name": "Fire Energy (#5 Charizard Stamped)",
+        "clean_name": "Fire Energy 5 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219032"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_45daf07c1bc1a43bd6043895de2557dbfd81c3e310713c702af8245324f55dbe3c52e07c3cb1f59b56",
+      "card_info": {
+        "name": "Fire Energy (#6 Charizard Stamped)",
+        "clean_name": "Fire Energy 6 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219033"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_38b1e83dd14ee2198d9f9fb5c52d38ad4bb33eca4bcbd2545b5afa3e3b42f9e93bac13c56b0da59de4",
+      "card_info": {
+        "name": "Fire Energy (#8 Charizard Stamped)",
+        "clean_name": "Fire Energy 8 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219034"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fd697d39153baf7b10f146f4374ca505f0295320671f028a347c47cbe109feab08e49b2fcaf2ebc7cf",
+      "card_info": {
+        "name": "Fire Energy (#9 Charizard Stamped)",
+        "clean_name": "Fire Energy 9 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219035"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9f2bdc89a6333aadb49553d3db8a0c7c648feebf452bdc26d99d85ffef2db8518cb6669d7e78ff71cb",
+      "card_info": {
+        "name": "Fire Energy (#10 Charizard Stamped)",
+        "clean_name": "Fire Energy 10 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219036"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a82a683bbed37865f50ce2ec6c22611042a2b305504cb288b74a38ba8e40bde3a4f22cbe34ea149d0b",
+      "card_info": {
+        "name": "Fire Energy (#11 Charizard Stamped)",
+        "clean_name": "Fire Energy 11 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219037"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a17b3e6e0ce38adc0828067a1a6e656d7bdbf5d69686229e0173ad6ac5387f638fd4788fd5be6c8427",
+      "card_info": {
+        "name": "Fire Energy (#12 Charizard Stamped)",
+        "clean_name": "Fire Energy 12 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219038"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f7ffea8e384be7ede2008018dda084397086b0aedcad3aa6406c488f1ff7d6b81978c5a025820f44f0",
+      "card_info": {
+        "name": "Fire Energy (#17 Charizard Stamped)",
+        "clean_name": "Fire Energy 17 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219039"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b47ab2faaa6befb1c7a0a0178f265eb8c9401a20c025b7b86b15b4557ec6bd04e69b4afb1ae1172130",
+      "card_info": {
+        "name": "Fire Energy (#19 Charizard Stamped)",
+        "clean_name": "Fire Energy 19 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219040"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ef74b924e7e58fa3d51e866f08543e55e11cd7f6c9256c0c44aec9842bf488ba0e95cbc30c483c84e9",
+      "card_info": {
+        "name": "Fire Energy (#20 Charizard Stamped)",
+        "clean_name": "Fire Energy 20 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic FIre Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219041"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_de479fbeadb9001f380edf893ea5f44689e1dae39a685d187080f0cc2f3d685c1caab3c6596f4b1499",
+      "card_info": {
+        "name": "Fire Energy (#22 Charizard Stamped)",
+        "clean_name": "Fire Energy 22 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219042"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3b644e61da795d8e94c1f2fb7d159861d8455128d093e26a0f62fd5e6e50a27060bfd665237e60398e",
+      "card_info": {
+        "name": "Fire Energy (#24 Charizard Stamped)",
+        "clean_name": "Fire Energy 24 Charizard Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Fire Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219043"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 552,
+    "total_pages": 28
+  },
+  "metadata": {
+    "total_count": 552,
+    "tcg": 471,
+    "cardmarket": 398,
+    "tcg_only": 154,
+    "cardmarket_only": 81,
+    "both_sources": 317
+  }
+}

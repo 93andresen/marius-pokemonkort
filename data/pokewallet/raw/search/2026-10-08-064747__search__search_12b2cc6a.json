@@ -1,0 +1,1311 @@
+{
+  "query": "Dragonite",
+  "results": [
+    {
+      "id": "pk_747491e9467835b3688fc8e0f40f610a7f178e9a44d9527be5c019b2ac7d63c5a973bc014f37f0a1a784e0e999e9",
+      "card_info": {
+        "name": "Dragonite - 83/116 (Cosmos Holo)",
+        "clean_name": "Dragonite 83 116 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "083/116",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "150",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[3] Deafen (60)\r\n<br>Your opponent can't play any Item cards from his or her hand during his or her next turn.",
+          "[2GL] Healwing (90)\r\n<br>Heal 30 damage from this Pokémon."
+        ],
+        "weakness": "Ox2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.5,
+            "mid_price": 31.6,
+            "high_price": 67.11,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 50.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/153312"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8af2c95f38dcf998dfce6f7487c07a7263125dd1e700398dd11a1268d1b4dbd296d756aa209bca1675c62d9247",
+      "card_info": {
+        "name": "Dragonite - 5/20 (Dragon Vault)",
+        "clean_name": "Dragonite 5 20 Dragon Vault",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "005/020",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "150",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2L] Hyper Beam (50)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+          "[3G] Hurricane Tail (60x)\r\n<br>\r\nFlip 4 coins. This attack does 60 damage times the number of heads."
+        ],
+        "weakness": "Ox2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.65,
+            "mid_price": 48.23,
+            "high_price": 623.76,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 35.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/233835"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c3a67afabf161a57f380ed2f02266ef49c15120996a7d725d14b26c27f0291dcd0b30945d38e19bddb148a706f",
+      "card_info": {
+        "name": "Dark Dragonite - 15/109 (EX Team Rocket Returns)",
+        "clean_name": "Dark Dragonite 15 109 EX Team Rocket Returns",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "015/109",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Dark Trance</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Darkness Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Dark Dragonite is affected by a Special Condition.",
+        "attacks": [
+          "[WL] Double Wing Attack\r\n<br>Does 30 damage to each Defending Pokémon.",
+          "[3] Claw Swipe (50)"
+        ],
+        "weakness": "C",
+        "resistance": "GF-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 187,
+            "mid_price": 324.99,
+            "high_price": 606,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 199.66,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/97956"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7f151bef171482bd5e2c37147bb8f53abbbc32952c559af5da8f0ef2d1b4d798e25b341353235ab9e998d1df8e25",
+      "card_info": {
+        "name": "Dragonite - 52/108 (XY Roaring Skies)",
+        "clean_name": "Dragonite 52 108 XY Roaring Skies",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "052/108",
+        "rarity": "Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Delta Plus</strong> <em>If your opponent's Pokémon is Knocked Out by damage from an attack by this Pokémon, take 1 more Prize card.</em>",
+        "attacks": [
+          "[L] Wrapped in Wind\r\n<br>Attach up to 2 basic Energy cards from your hand to this Pokémon.",
+          "[1GGGL] Heavy Impact (150)"
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 10.08,
+            "high_price": 52.24,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 14.44,
+            "direct_low_price": 51.39,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131319"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_76cf73ce52c5ef85c40eb82632ea95c626e486f010dbce603e8f8a02aae0ae38df0ff8f0dd01856f356116621edb2e",
+      "card_info": {
+        "name": "Dragonite - 151/236 (Cracked Ice Holo)",
+        "clean_name": "Dragonite 151 236 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "151/236",
+        "rarity": "Holo Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Hurricane Charge</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Water Energy card, a Lightning Energy card, or 1 of each from your hand to your Pokémon in any way you like.",
+        "attacks": [
+          "[2WL] Dragon Impact (170)\r\n<br>Discard 3 Energy from this Pokémon."
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.07,
+            "mid_price": 33.5,
+            "high_price": 299.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 33.27,
+            "direct_low_price": 20.44,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/196721"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_227091f62d90b8e8a5369559ac4fe55f079b73cddec5e74a766e6bbf7c3807331b652d55ed13e25111e36e0a",
+      "card_info": {
+        "name": "Dragonite (Delta Species)",
+        "clean_name": "Dragonite Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "3/113",
+        "rarity": "Holo Rare",
+        "card_type": "Metal Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-POWER</b> Delta Charge  \r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokemon.  This power can't be used if Dragonite is affected by a Special Condition.",
+        "attacks": [
+          "[1L] Agility (30) \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Dragonite during your opponent's next turn.",
+          "[2LM] Heavy Impact (70)"
+        ],
+        "weakness": "C",
+        "resistance": "FG",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 390,
+            "mid_price": 445,
+            "high_price": 591.5,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 377.19,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 524.99,
+            "mid_price": 839.47,
+            "high_price": 1750,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 399.95,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84917"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite δ Delta Species",
+        "prices": [
+          {
+            "avg": 112.7,
+            "low": 10,
+            "avg1": 1499,
+            "avg7": 267.13,
+            "avg30": 131.22,
+            "trend": 276.09,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 92.7,
+            "low": 25,
+            "avg1": 400,
+            "avg7": 136.43,
+            "avg30": 132.36,
+            "trend": 119.39,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Dragonite-Delta-Species-DS3"
+      }
+    },
+    {
+      "id": "pk_a2dec251c85158f0e37b8c2d34dd2d9041dc7324778880edf2b0de508e3237c7d6783125f8febc2986d7abd525",
+      "card_info": {
+        "name": "Dragonite ex (Delta Species)",
+        "clean_name": "Dragonite ex Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "91/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Deafen (40) Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn.",
+          "[2GG] Dragon Roar - Put 8 damage counters on the Defending Pokemon.  If that Pokemon would be Knocked Out by this attack, put any damage counters not necessary to Knock Out the Defending Pokemon on your opponent's Benched Pokemon in any way you like."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.99,
+            "mid_price": 749.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 471.92,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84919"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite ex δ Delta Species",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.99,
+            "avg7": 27.25,
+            "avg30": 22.23,
+            "trend": 31.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 83.33,
+            "low": 54.5,
+            "avg1": 360,
+            "avg7": 171.5,
+            "avg30": 132.09,
+            "trend": 227.93,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Dragonite-ex-Delta-Species-DF91"
+      }
+    },
+    {
+      "id": "pk_9f4ed7731fccc3b1e20e2fff1c937ca6629a98944e94995d619253e97442ce4b89870a26faa0101a261329fb3f",
+      "card_info": {
+        "name": "Dragonite GX",
+        "clean_name": "Dragonite GX",
+        "set_name": "Dragon Majesty",
+        "set_code": "DRM",
+        "set_id": "2295",
+        "card_number": "37/70",
+        "rarity": "Ultra Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[L] Dragon Claw (70)",
+          "[2WL] Giga Impact (200)\r\n<br>This Pokemon can’t attack during your next turn.",
+          "<span style=\"color:Teal\"><strong>[3] Dragonporter GX</strong>\r\n<br>Put 3 Dragon Pokémon from your discard pile onto your Bench. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.26,
+            "mid_price": 28.49,
+            "high_price": 192.26,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 26.42,
+            "direct_low_price": 28.66,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/175450"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite GX",
+        "prices": [
+          {
+            "avg": 19.89,
+            "low": 3.75,
+            "avg1": 19,
+            "avg7": 20.43,
+            "avg30": 17.47,
+            "trend": 23.99,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.99,
+            "avg7": 7.11,
+            "avg30": 7.59,
+            "trend": 7.82,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-V1-DRM37"
+      }
+    },
+    {
+      "id": "pk_bed84192ebd72e678161e29f3da6e46b45bab09315f563268dcb5a56177714bf39303bf8401b06b032c11b1f68",
+      "card_info": {
+        "name": "Dragonite GX (Full Art)",
+        "clean_name": "Dragonite GX Full Art",
+        "set_name": "Dragon Majesty",
+        "set_code": "DRM",
+        "set_id": "2295",
+        "card_number": "67/70",
+        "rarity": "Ultra Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[L] Dragon Claw (70)",
+          "[2WL] Giga Impact (200)\r\n<br>This Pokemon can’t attack during your next turn.",
+          "<span style=\"color:Teal\"><strong>[3] Dragonporter GX</strong>\r\n<br>Put 3 Dragon Pokémon from your discard pile onto your Bench. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 65.8,
+            "mid_price": 99,
+            "high_price": 791.6,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 71.08,
+            "direct_low_price": 67.01,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/175497"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39.98,
+            "avg7": 22.2,
+            "avg30": 15.01,
+            "trend": 26.75,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 36.65,
+            "low": 8.9,
+            "avg1": 28.49,
+            "avg7": 35.98,
+            "avg30": 32.43,
+            "trend": 33.73,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-V2-DRM67"
+      }
+    },
+    {
+      "id": "pk_d98bac2f467a24bffb06b21c17f4a9a2937a68576ea600b0b2fccdd21a754c818c38453820772c3f3c49b0",
+      "card_info": {
+        "name": "Dragonite",
+        "clean_name": "Dragonite",
+        "set_name": "Dragon Vault",
+        "set_code": "DRV",
+        "set_id": "1426",
+        "card_number": "5/20",
+        "rarity": "Holo Rare",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2L] Hyper Beam (50) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+          "[3G] Hurricane Tail (60x) Flip 4 coins.  This attack does 60 damage times the number of heads."
+        ],
+        "weakness": "Ox2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16.75,
+            "mid_price": 23.25,
+            "high_price": 293.26,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 34.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84915"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite",
+        "prices": [
+          {
+            "avg": 11.44,
+            "low": 0.5,
+            "avg1": 30.24,
+            "avg7": 20.37,
+            "avg30": 27.36,
+            "trend": 5.01,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.7,
+            "low": 2.79,
+            "avg1": 0.4,
+            "avg7": 5.42,
+            "avg30": 4.08,
+            "trend": 3.94,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Vault/Dragonite-DRV5"
+      }
+    },
+    {
+      "id": "pk_0f7475846ae4966a27b3e3aa0747b0e2ac2e0e34adc5d36b48315fdbd029eae9c48cd7b4900d453835282231",
+      "card_info": {
+        "name": "Dragonite ex",
+        "clean_name": "Dragonite ex",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "90/97",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[LW] Dragon Wave (70) \r\n<br>Discard a Water Energy card and a Lightning Energy card attached to Dragonite ex.",
+          "[4] Giant Tail (120) \r\n<br>Flip a coin.  If tails, this attack does nothing."
+        ],
+        "weakness": "C",
+        "resistance": "FG",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 174.25,
+            "mid_price": 201.66,
+            "high_price": 329,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 524.89,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84918"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite ex",
+        "prices": [
+          {
+            "avg": 292.63,
+            "low": 24.99,
+            "avg1": 392.5,
+            "avg7": 333.99,
+            "avg30": 322.5,
+            "trend": 383.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 90,
+            "avg7": 28.41,
+            "avg30": 31.97,
+            "trend": 31.45,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dragonite-ex-DR90"
+      }
+    },
+    {
+      "id": "pk_0ae9f3d5f29067ebc0b5a70d84cbbff2974a1aba18f9b2b2e79196a109edc6b65750cde05f2c76e6d1fac1d4",
+      "card_info": {
+        "name": "Dragonite (9)",
+        "clean_name": "Dragonite 9",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "009/165",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Tailwind</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Dragonite is on your Bench, you may reduce your Active Pokémon's Retreat Cost to 0.",
+        "attacks": [
+          "[LWF] Dragon Tail (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 500,
+            "mid_price": 799.99,
+            "high_price": 1250,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 799.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 650,
+            "mid_price": 1275.99,
+            "high_price": 3009.42,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 599.75,
+            "direct_low_price": 2999.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84910"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite",
+        "prices": [
+          {
+            "avg": 1379.91,
+            "low": 37.99,
+            "avg1": 1499.99,
+            "avg7": 1858.14,
+            "avg30": 534.24,
+            "trend": 1413.74,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 137.5,
+            "low": 40,
+            "avg1": 100,
+            "avg7": 113.41,
+            "avg30": 110.69,
+            "trend": 111.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Dragonite-EX9"
+      }
+    },
+    {
+      "id": "pk_ba9a47591bb57fb7e8996dcac5f5b18a376253981c19c8b1d2600bef86c43291a307d4b2c2587895b1bdb76f00",
+      "card_info": {
+        "name": "Dragonite (43)",
+        "clean_name": "Dragonite 43",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "043/165",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Tailwind</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Dragonite is on your Bench, you may reduce your Active Pokémon's Retreat Cost to 0.",
+        "attacks": [
+          "[LWF] Dragon Tail (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 125,
+            "mid_price": 219.75,
+            "high_price": 614.88,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 110.51,
+            "direct_low_price": 239.55,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 250,
+            "mid_price": 350,
+            "high_price": 450,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 210,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84912"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite",
+        "prices": [
+          {
+            "avg": 32.09,
+            "low": 4.15,
+            "avg1": 17.99,
+            "avg7": 43.97,
+            "avg30": 32.74,
+            "trend": 32.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 539.75,
+            "low": 25,
+            "avg1": 1350,
+            "avg7": 138.79,
+            "avg30": 92.03,
+            "trend": 346.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Dragonite-EX43"
+      }
+    },
+    {
+      "id": "pk_2e58e0cc73cd49a5809cca4485b7522f223dac8fe1d8652f2d35828d0ed73a4cee3892269cb8e4c90f1293",
+      "card_info": {
+        "name": "Dragonite (19)",
+        "clean_name": "Dragonite 19",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "19/62",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Step In</strong> Once during your turn <em>(before your attack)</em>, if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+        "attacks": [
+          "[4] Slam (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 64.99,
+            "mid_price": 102.79,
+            "high_price": 510.1,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 98.66,
+            "direct_low_price": 189.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 17,
+            "mid_price": 34.49,
+            "high_price": 151.86,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 41.35,
+            "direct_low_price": 19.2,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44427"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite",
+        "prices": [
+          {
+            "avg": 26.81,
+            "low": 3.5,
+            "avg1": 33.45,
+            "avg7": 23.89,
+            "avg30": 25.95,
+            "trend": 17.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 29,
+            "avg7": 20.85,
+            "avg30": 37.66,
+            "trend": 27.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Dragonite-V2-FO19"
+      }
+    },
+    {
+      "id": "pk_ae46090d3b81adca1cd1bf0e918e36afe39ccf83ad12e2ef13021651ea30b0bd2075b248a729c5f2f503e0",
+      "card_info": {
+        "name": "Dragonite (4)",
+        "clean_name": "Dragonite 4",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "04/62",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Step In</strong> Once during your turn <em>(before your attack)</em>, if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+        "attacks": [
+          "[4] Slam (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 292.83,
+            "mid_price": 574.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 470.17,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 107.23,
+            "mid_price": 149.99,
+            "high_price": 973.22,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 191.21,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106520"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite",
+        "prices": [
+          {
+            "avg": 183.11,
+            "low": 20,
+            "avg1": 51,
+            "avg7": 147.32,
+            "avg30": 182.13,
+            "trend": 265.51,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 81.66,
+            "avg7": 48.96,
+            "avg30": 48.56,
+            "trend": 40.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Dragonite-V1-FO4"
+      }
+    },
+    {
+      "id": "pk_0da1b195d26aef82b3bc8a05b135570cc73e9fc15940e38821964e9a9bb85b34a1f9765b34572cd5f11d04e4cf56",
+      "card_info": {
+        "name": "Dragonite EX - 74/111",
+        "clean_name": "Dragonite EX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "074/111",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Bust In</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand onto your Bench, you may move any number of basic Energy attached to your Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.\r\n<br><br><em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[GGL] Jet Sonic (80+)\r\n<br>You may discard an Energy attached to this Pokémon. If you do, this attack does 40 more damage."
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 14.63,
+            "high_price": 119.62,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 15.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131863"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.49,
+            "avg7": 2.81,
+            "avg30": 2.61,
+            "trend": 2.15,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.99,
+            "low": 1.23,
+            "avg1": 2.99,
+            "avg7": 4.58,
+            "avg30": 3.86,
+            "trend": 5.12,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Dragonite-EX-V2-FFI74"
+      }
+    },
+    {
+      "id": "pk_6ac02afe84f85e84c45f3e82d5ca9686cd9523f28d4ea478c6070848839a2d05b9e7bb8550c2aba5dc7750770376",
+      "card_info": {
+        "name": "Dragonite EX - 72/108",
+        "clean_name": "Dragonite EX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "072/108",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Pull Up</strong>\r\n<br>When you play this Pokémon from your hand onto your Bench, you may put 2 Basic Pokémon (except for Dragonite-EX) from your discard pile into your hand.",
+        "attacks": [
+          "[4] Hyper Beam (130)\r\n<br>Discard an Energy attached to your opponent's Active Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 67.26,
+            "high_price": 74.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 7.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/227624"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.99,
+            "avg7": 12.48,
+            "avg30": 12.48,
+            "trend": 16,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6,
+            "low": 1,
+            "avg1": 1.5,
+            "avg7": 3.09,
+            "avg30": 2.45,
+            "trend": 3.09,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V2-EVO72"
+      }
+    },
+    {
+      "id": "pk_4ec0137f32d6c483ebad2e4e8e49375511b45df72e02c92b41c74f540013afc49a7b60ad293cd19577e8311436b5f1",
+      "card_info": {
+        "name": "Dragonite V - SWSH154",
+        "clean_name": "Dragonite V SWSH154",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH154",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[2] Shred (50)\r\n<br>This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "[WWL] Dragon Gale (250)\r\n<br>This attack also does 20 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.42,
+            "mid_price": 6.24,
+            "high_price": 78.52,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 6.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/253421"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite V",
+        "prices": [
+          {
+            "avg": 2.57,
+            "low": 0.99,
+            "avg1": 3.98,
+            "avg7": 2.53,
+            "avg30": 2.34,
+            "trend": 2.76,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Dragonite-V-V2"
+      }
+    },
+    {
+      "id": "pk_3302f1f5c664860c1fa1066013ad22092ac897855e6b74b5bd9fe269ccda9d3cd7d065801210b6824dd1f2d311",
+      "card_info": {
+        "name": "Dragonite GX - SM156",
+        "clean_name": "Dragonite GX SM156",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM156",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Stage 2",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Dragon Claw (70)",
+          "[2WL] Giga Impact (200)\r\n<br>This Pokémon can't attack during your next turn.",
+          "<span style=\"color:Teal\"><strong>[3] Dragonporter GX</strong>\r\n<br>Put 3 Dragon Pokémon from your discard pile onto your Bench. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/277679"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite GX",
+        "prices": [
+          {
+            "avg": 9.99,
+            "low": 5,
+            "avg1": 11.99,
+            "avg7": 10.56,
+            "avg30": 10.35,
+            "trend": 11.18,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.99,
+            "avg7": 9.13,
+            "avg30": 6.45,
+            "trend": 8.41,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos/Dragonite-GX-V2-SM156"
+      }
+    },
+    {
+      "id": "pk_0e6a269dde79c82c389e1be7005fedb65a04c0780486fce7115fc2b0b100e95eee59192e91ba62b513b7cefc1a5d",
+      "card_info": {
+        "name": "Dragonite FB - 56/147 (League Promo)",
+        "clean_name": "Dragonite FB 56 147 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "056/147",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Mach Blow (20) \r\n<br>If the Defending Pokémon is a Pokémon <em>SP</em>, this attack's base damage is 80 instead of 20.",
+          "[4] Giant Tail (100) \r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "Cx2",
+        "resistance": "F-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59.99,
+            "mid_price": 94.99,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 80.32,
+            "direct_low_price": 199.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/164072"
+      },
+      "cardmarket": {
+        "product_name": "Dragonite [FB] Lv.50",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.99,
+            "avg7": 12.85,
+            "avg30": 4.6,
+            "trend": 16.46,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 33.23,
+            "low": 15,
+            "avg1": 27.9,
+            "avg7": 30.01,
+            "avg30": 32.85,
+            "trend": 59.07,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Dragonite-FB-Lv50-V2-SV56"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 171,
+    "total_pages": 9
+  },
+  "metadata": {
+    "total_count": 171,
+    "tcg": 144,
+    "cardmarket": 130,
+    "tcg_only": 41,
+    "cardmarket_only": 27,
+    "both_sources": 103
+  }
+}

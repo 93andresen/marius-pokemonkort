@@ -1,0 +1,1438 @@
+{
+  "query": "Squirtle",
+  "results": [
+    {
+      "id": "pk_7157188f4236d3146ec50ed507c6ef4f90e1ce253cd50f0eb350410fb657968180d98aedc2a135f62b53de87",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "093/130",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.33,
+            "mid_price": 1.3,
+            "high_price": 150,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.96,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42544"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 1.98,
+            "avg30": 1.98,
+            "trend": 1.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.28,
+            "low": 0.15,
+            "avg1": 1.84,
+            "avg7": 1.25,
+            "avg30": 2.14,
+            "trend": 2.56,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Squirtle-B293"
+      }
+    },
+    {
+      "id": "pk_68619252de9c9b75664a78488c5c1c87b47ee95703e3f5db0d5f94c180fad80cf4f39a44960923c6ef0b77129760",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "063/102",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 96.99,
+            "mid_price": 279.99,
+            "high_price": 844.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 135.29,
+            "direct_low_price": 499.77,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 13,
+            "mid_price": 22.5,
+            "high_price": 145.49,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 33.96,
+            "direct_low_price": 49.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107060"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle (Shadowless)",
+        "prices": [
+          {
+            "avg": 22.86,
+            "low": 9,
+            "avg1": 25,
+            "avg7": 22.46,
+            "avg30": 42.19,
+            "trend": 21.08,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Squirtle-V2-BS63"
+      }
+    },
+    {
+      "id": "pk_7304fcda23924edff32b7b92b7cf2468d5ee91367e2ee075efc9941d3ba7d5777bf1acafa5350132650488d1",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "063/102",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 4.65,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 5.47,
+            "direct_low_price": 13.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42408"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 87.31,
+            "avg30": 61.41,
+            "trend": 92.04,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.33,
+            "low": 0.02,
+            "avg1": 2.14,
+            "avg7": 10.21,
+            "avg30": 7,
+            "trend": 6.62,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Squirtle-V1-BS63"
+      }
+    },
+    {
+      "id": "pk_1581b59ed91cd6470b739f9bdd82522f71fede04e0650f2909a421b534fa8f1527c84a579c9e65d654ddb12dba4c",
+      "card_info": {
+        "name": "Squirtle - 33/214 (Premium Collection Promo)",
+        "clean_name": "Squirtle 33 214 Premium Collection Promo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "033/214",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 11.46,
+            "high_price": 41.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 9.55,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/193275"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_78b2bd75ff49d169172c8c97cdd4b047f7471ad7c548d68528ec20791909525af0746c177c916b7f90c79e08bc",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "29/149",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "Shell Shield - As long as this Pokemon is on your Bench, prevent all damage done to this Pokemon by attacks (both yours and your opponent's).  (Ability)",
+        "attacks": [
+          "[1W] Water Splash (10+) Flip a coin.  If heads, this attack does 20 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.35,
+            "mid_price": 3,
+            "high_price": 59.03,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 3.59,
+            "direct_low_price": 3.26,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 34.99,
+            "mid_price": 67.49,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 42.83,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89497"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 2.47,
+            "low": 0.03,
+            "avg1": 1.02,
+            "avg7": 2.65,
+            "avg30": 2.43,
+            "trend": 2.41,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 15,
+            "low": 2.9,
+            "avg1": 15,
+            "avg7": 42.78,
+            "avg30": 22.26,
+            "trend": 58.6,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Squirtle-BCR29"
+      }
+    },
+    {
+      "id": "pk_4815251fe83fe037b606585f97fd2f30dbdc423c15df5cf994314a9ed8d121ffc2d700a2c337baa2c238ad2a9e",
+      "card_info": {
+        "name": "Squirtle - 063/100",
+        "clean_name": "Squirtle",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "63/100",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[2W] Skull Bash (30)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 3.28,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 3.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 86,
+            "mid_price": 137.49,
+            "high_price": 792.83,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 106.56,
+            "direct_low_price": 399.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89491"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 2.98,
+            "low": 0.02,
+            "avg1": 1.22,
+            "avg7": 4.13,
+            "avg30": 2.26,
+            "trend": 4.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 135.13,
+            "low": 4,
+            "avg1": 675,
+            "avg7": 100.78,
+            "avg30": 44.72,
+            "trend": 110.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Squirtle-V1-CG63"
+      }
+    },
+    {
+      "id": "pk_5a4bc5089043695ae6d3c18175d66b321dc2d9fdc445cdf61812a7b102de446b767e5d2e6e62f07d30f9e11549",
+      "card_info": {
+        "name": "Squirtle - 064/100",
+        "clean_name": "Squirtle",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "64/100",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "Solid Shell - Any damage done to Squirtle by attacks is reduced by 10 (after applying Weakness and Resistance).  (Poke-BODY)",
+        "attacks": [
+          "[1] Bubblebeam (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.98,
+            "mid_price": 15.84,
+            "high_price": 96.27,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 17.22,
+            "direct_low_price": 20.24,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 108.24,
+            "mid_price": 115,
+            "high_price": 140,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 122.9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89492"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 3.25,
+            "low": 0.1,
+            "avg1": 2.83,
+            "avg7": 3.42,
+            "avg30": 7.6,
+            "trend": 7.91,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 345.17,
+            "low": 14.98,
+            "avg1": 70,
+            "avg7": 312.65,
+            "avg30": 141.44,
+            "trend": 392.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Squirtle-CG64"
+      }
+    },
+    {
+      "id": "pk_ed4c0a617800db0ac30de79dc98737acadc17b8bf4227a938eeff8e165f393baaa8d50ac4881673cdd67d46f25",
+      "card_info": {
+        "name": "Ditto - 040/113 (Squirtle)",
+        "clean_name": "Ditto 040 113 Squirtle",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "40/113",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1W] Smash Turn (20) \r\n<br>After your attack, you may switch Ditto with 1 of your Benched Pokemon."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 75.95,
+            "mid_price": 126.45,
+            "high_price": 1697.24,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 77.42,
+            "direct_low_price": 95.4,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.99,
+            "mid_price": 309.95,
+            "high_price": 2007.62,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 399.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84837"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": null,
+            "low": 19,
+            "avg1": 219.95,
+            "avg7": 77.49,
+            "avg30": 79.3,
+            "trend": 116.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 31.85,
+            "low": 4.3,
+            "avg1": 10,
+            "avg7": 29.12,
+            "avg30": 20.03,
+            "trend": 28.49,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS40"
+      }
+    },
+    {
+      "id": "pk_d18a8cafa2793c001631f7677eac47e8298b85cb814180adbb13b4800e859c712235fa01792eedba0fcf9e0928",
+      "card_info": {
+        "name": "Ditto - 64/113 (Squirtle)",
+        "clean_name": "Ditto 64 113 Squirtle",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "064/113",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate\r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1W] Spiral Drain (20) \r\n<br>Remove 3 damage counters from Ditto <i>(all if there are less than 3).</i>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.95,
+            "mid_price": 65,
+            "high_price": 485.84,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 64.44,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 253.99,
+            "mid_price": 500,
+            "high_price": 1495.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 279.99,
+            "direct_low_price": 999.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84841"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 566.5,
+            "low": 14.99,
+            "avg1": 29.5,
+            "avg7": 114.38,
+            "avg30": 63.41,
+            "trend": 131.19,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.77,
+            "low": 4,
+            "avg1": 10.99,
+            "avg7": 14.78,
+            "avg30": 14.41,
+            "trend": 15.52,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS64"
+      }
+    },
+    {
+      "id": "pk_15a42cda17e6d2579ec92c2bd72d6c593b2309a95183b46e21612736752901f6445fd177ee2c45196df7068990b1",
+      "card_info": {
+        "name": "Squirtle (131)",
+        "clean_name": "Squirtle 131",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "131/165",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Wave Splash (10)",
+          "[1W] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 55.15,
+            "mid_price": 98.99,
+            "high_price": 250.01,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 64.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 299.99,
+            "high_price": 400,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 90,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89486"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 21.31,
+            "low": 0.99,
+            "avg1": 5.25,
+            "avg7": 14.37,
+            "avg30": 17.38,
+            "trend": 17.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 63.5,
+            "low": 21.99,
+            "avg1": 50,
+            "avg7": 47.13,
+            "avg30": 45.26,
+            "trend": 73.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Squirtle-EX131"
+      }
+    },
+    {
+      "id": "pk_4f33ba41c854483b7d7c0840f3a80ae04aee5f8197f7405e01f94a4731ff047175333497258ea8ab07eb8e44cb6f",
+      "card_info": {
+        "name": "Squirtle (132)",
+        "clean_name": "Squirtle 132",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "132/165",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Headbutt (10)",
+          "[WW] Bubblebeam (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.69,
+            "mid_price": 49.87,
+            "high_price": 343.23,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 47.06,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 599,
+            "mid_price": 749.5,
+            "high_price": 899.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 458.24,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89487"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 23.82,
+            "low": 0.5,
+            "avg1": 13.99,
+            "avg7": 18.64,
+            "avg30": 23.7,
+            "trend": 23.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 95,
+            "low": 40,
+            "avg1": 99,
+            "avg7": 109.85,
+            "avg30": 65.5,
+            "trend": 92.64,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Squirtle-EX132"
+      }
+    },
+    {
+      "id": "pk_8b670be1987b930ebc7c8ab599d1485ce313b888e5cf668ad764ac751cafb8c2d17e83fa13be9761d81a761031",
+      "card_info": {
+        "name": "Squirtle - 082/112",
+        "clean_name": "Squirtle",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "82/112",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Sleepy Ball (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Asleep."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.32,
+            "mid_price": 13.75,
+            "high_price": 188.45,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 12.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 400,
+            "mid_price": 953.16,
+            "high_price": 1809.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89489"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 5.29,
+            "low": 0.6,
+            "avg1": 3,
+            "avg7": 6.2,
+            "avg30": 5.5,
+            "trend": 6.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 30.59,
+            "low": 5.17,
+            "avg1": 26,
+            "avg7": 46.11,
+            "avg30": 44.69,
+            "trend": 59.53,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Squirtle-FL82"
+      }
+    },
+    {
+      "id": "pk_ffd9f5db840488634009ec1fded2287d9cae59ddaacfd885c0e281728167d0b6e5dd465dece53be4f682699a37",
+      "card_info": {
+        "name": "Squirtle - 083/112",
+        "clean_name": "Squirtle",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "83/112",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bubble \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[1W] Smash Turn (20) \r\n<br>After your attack, you may switch Squirtle with 1 of your Benched Pokemon."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.65,
+            "mid_price": 39.99,
+            "high_price": 319.44,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 34.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 449.98,
+            "mid_price": 639.99,
+            "high_price": 3803.62,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 274.31,
+            "direct_low_price": 449.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89490"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": 60,
+            "avg1": 24.9,
+            "avg7": 271.82,
+            "avg30": 103.95,
+            "trend": 206.44,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.12,
+            "low": 1.95,
+            "avg1": 18,
+            "avg7": 14.87,
+            "avg30": 16.44,
+            "trend": 12.52,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Squirtle-FL83"
+      }
+    },
+    {
+      "id": "pk_bbb79a829d988cf0c97dc56d92037fe6a17b531eeb693ec2a2eaaf833ea70b9aba9f831bca0a51900ad584d5bc2a",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "First Partner Pack",
+        "set_code": "FPP",
+        "set_id": "2776",
+        "card_number": "063/102",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 4.24,
+            "high_price": 60.52,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/231469"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 5.63,
+            "low": 2,
+            "avg1": 8.99,
+            "avg7": 6.44,
+            "avg30": 5.4,
+            "trend": 5.96,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Squirtle-V3-BS63"
+      }
+    },
+    {
+      "id": "pk_17f142a29c67d131704f20132370c56f2c6952c87512ce0a4921d19c8d60581787cae52c3a75e0c24775347cc9ea",
+      "card_info": {
+        "name": "Squirtle - 63/100 (City Championships)",
+        "clean_name": "Squirtle 63 100 City Championships",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "063/100",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Bite (10)",
+          "[2W] Skull Bash (30)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 58.9,
+            "mid_price": 101,
+            "high_price": 359.32,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 58.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/209567"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.5,
+            "avg7": 2.25,
+            "avg30": 2.25,
+            "trend": 3.5,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 15.99,
+            "low": 10,
+            "avg1": 140,
+            "avg7": 48.85,
+            "avg30": 22.24,
+            "trend": 51.95,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Squirtle-V2-CG63"
+      }
+    },
+    {
+      "id": "pk_f795f692cc478e1288bcea5ac345784fadf202b0862214fa7da3647e60456d9a1113aa8f6853d097b5c4076909",
+      "card_info": {
+        "name": "Squirtle",
+        "clean_name": "Squirtle",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "095/110",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.03,
+            "mid_price": 2,
+            "high_price": 95.16,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 4.78,
+            "direct_low_price": 94.31,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 333.89,
+            "mid_price": 333.89,
+            "high_price": 333.89,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 550,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89485"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 2.64,
+            "low": 0.15,
+            "avg1": 1.04,
+            "avg7": 2.23,
+            "avg30": 2.24,
+            "trend": 2.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 641.67,
+            "low": 250,
+            "avg1": 200,
+            "avg7": 544.44,
+            "avg30": 317.76,
+            "trend": 484.62,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Squirtle-LC95"
+      }
+    },
+    {
+      "id": "pk_e628164381c6614b40443c82cbc373f988e36af6a2282a5888a48157913a27893ac2babc023c92a4d8478249188f",
+      "card_info": {
+        "name": "Squirtle - 17/25",
+        "clean_name": "Squirtle",
+        "set_name": "McDonald's 25th Anniversary Promos",
+        "set_code": "MCD21",
+        "set_id": "2782",
+        "card_number": "017/025",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.11,
+            "mid_price": 10.19,
+            "high_price": 79.99,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 9.52,
+            "direct_low_price": 12.39,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.65,
+            "mid_price": 1.7,
+            "high_price": 96.83,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/232331"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 9.92,
+            "avg30": 9.68,
+            "trend": 7.5,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.47,
+            "low": 0.02,
+            "avg1": 0.4,
+            "avg7": 0.38,
+            "avg30": 0.43,
+            "trend": 0.57,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-25th-Anniversary/Squirtle-V1"
+      }
+    },
+    {
+      "id": "pk_b59cb9ea53d23b017a0bfc7bf21620b33916b679fcb268f9875beafa988131ab2f270e8c81a41aaae822e7359457",
+      "card_info": {
+        "name": "Squirtle - 14/101 (Build-A-Bear Workshop Exclusive)",
+        "clean_name": "Squirtle 14 101 Build A Bear Workshop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "014/101",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1W] Water Gun (20)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.11,
+            "mid_price": 63.03,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 50.51,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/155087"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_130358d6de06b049ad2a7f0c7651e350d25a72e9ab315e500d6d29acdcf5f67dd344c85da3c009d12fde1cdb4e78",
+      "card_info": {
+        "name": "Ditto (Squirtle) - 64/113 (Games Expo 2007)",
+        "clean_name": "Ditto Squirtle 64 113 Games Expo 2007",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "064/113",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Duplicate</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.",
+        "attacks": [
+          "[1W] Spiral Drain (20) \r\n<br>Remove 3 damage counters from Ditto (all if there are less than 3)."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 374.95,
+            "mid_price": 412.49,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 425.9,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/232887"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_11c2a294dcd79a962c169d532832882ce007c3b42fc949298d6b368d518b0217c7726b3bf7bcc344ce601b701f",
+      "card_info": {
+        "name": "Squirtle - 007/165 (Pokemon Center Exclusive)",
+        "clean_name": "Squirtle 007 165 Pokemon Center Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "007/165",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Withdraw\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokemon by attacks.",
+          "[WW] Skull Bash (20)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 97.26,
+            "mid_price": 129.99,
+            "high_price": 399.99,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 99.35,
+            "direct_low_price": 103.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/520796"
+      },
+      "cardmarket": {
+        "product_name": "Squirtle",
+        "prices": [
+          {
+            "avg": 120.55,
+            "low": 0.13,
+            "avg1": 0.29,
+            "avg7": 43.26,
+            "avg30": 122.73,
+            "trend": 78.66,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Squirtle-V3-MEW007"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 153,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 153,
+    "tcg": 123,
+    "cardmarket": 93,
+    "tcg_only": 60,
+    "cardmarket_only": 30,
+    "both_sources": 63
+  }
+}

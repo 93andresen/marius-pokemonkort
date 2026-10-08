@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Mew&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:02 GMT
+Content-Type: application/json
+Content-Length: 20210
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: HIT
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 862
+X-RateLimit-Remaining-Hour: 40
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t28k9DwlcSyrJf3VmePolggpXOw7ajkmMwtoXrztpfQ8mmd%2FIaQf1w9uOyROd5ivBOQNC0rQQhsgNhESNXSbzAjUU3i3tSvR25WjsnSIE1vos%2F3ag1aeErGn7dCWCq1CFnUrO7biQBNDjZ%2Fs%2Br62vg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47282cafaa70731-OSL
+alt-svc: h3=":443"; ma=86400

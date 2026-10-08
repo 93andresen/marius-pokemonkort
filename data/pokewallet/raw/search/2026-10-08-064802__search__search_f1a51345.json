@@ -1,0 +1,981 @@
+{
+  "query": "MewTwo",
+  "results": [
+    {
+      "id": "pk_1b7e570e10be97b3432489762909c6b4fae75deb5d4a62171c9e8f0e53cf5461ca105224c1b670a5d5bad4ca",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "010/130",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45.43,
+            "mid_price": 77.5,
+            "high_price": 680.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 109.16,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42445"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15,
+            "avg7": 23,
+            "avg30": 20.59,
+            "trend": 19.77,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 41.63,
+            "low": 13.95,
+            "avg1": 14.95,
+            "avg7": 39.2,
+            "avg30": 41.17,
+            "trend": 53.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Mewtwo-B210"
+      }
+    },
+    {
+      "id": "pk_702061ebf1fe29ec06d352b16e2c664f58bd5bf0524978f778bf02d0800975dcb5731574a4b011254376db2d9581",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "010/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 142.5,
+            "mid_price": 220.77,
+            "high_price": 1109.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 302.92,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          },
+          {
+            "low_price": 345,
+            "mid_price": 345,
+            "high_price": 345,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 351.51,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107005"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo (Shadowless)",
+        "prices": [
+          {
+            "avg": 545,
+            "low": 49.99,
+            "avg1": 470,
+            "avg7": 366.5,
+            "avg30": 428.39,
+            "trend": 615.06,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Mewtwo-V2-BS10"
+      }
+    },
+    {
+      "id": "pk_c4dc542346e1be850520f52001d686ab38296dd18c1a714a34b4b5c335296a3d900a3216b55998343e758876",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "010/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 36.99,
+            "mid_price": 75,
+            "high_price": 500,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 91.6,
+            "direct_low_price": 78.72,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42347"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo",
+        "prices": [
+          {
+            "avg": 37.73,
+            "low": 3,
+            "avg1": 49.5,
+            "avg7": 33.33,
+            "avg30": 36.98,
+            "trend": 16.92,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.87,
+            "avg7": 10.59,
+            "avg30": 14.57,
+            "trend": 16.9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Mewtwo-V1-BS10"
+      }
+    },
+    {
+      "id": "pk_c620ac7ddf265a0fe514fe19c8603acd4bd7843edeb4c670b1f6328c3a8fa2aff6a91e28c30db5a40bfc349b44ba",
+      "card_info": {
+        "name": "Mewtwo GX - 31/68 (Mewtwo Stamped)",
+        "clean_name": "Mewtwo GX 31 68 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "031/068",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1PP] Super Psy Bolt (110)",
+          "<span style=\"color:Teal\"><strong>[1PP] Psycrush GX (120)</strong>\r\n<br>Discard all Energy from your opponent's Active Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.76,
+            "mid_price": 10.62,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 10.38,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219171"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.25,
+            "low": 2.99,
+            "avg1": 8,
+            "avg7": 6.24,
+            "avg30": 8.5,
+            "trend": 6.96,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2020/Mewtwo-GX-HIF31"
+      }
+    },
+    {
+      "id": "pk_7fd3e9f092b5f27444f56becc7e35e95e05d707b9279f18036aaee52132d8700d32dd228d881ea4e202d87ca253e",
+      "card_info": {
+        "name": "Espeon - 89/214 (Mewtwo Stamped)",
+        "clean_name": "Espeon 89 214 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "089/214",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Allure\r\n<br>Draw 3 cards.",
+          "[P] Energy Crush (20+)\r\n<br>This attack does 20 more damage times the amount of Energy attached to all of your opponent’s Pokémon."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 1.33,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219172"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cd6a2f85c98bf5475af2fea70d526282fac169d16835f6f6a2443025c226285f94f185a3b04272750c1c7e4a614f",
+      "card_info": {
+        "name": "Eevee - 49/68 (Mewtwo Stamped)",
+        "clean_name": "Eevee 49 68 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "049/068",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.73,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.68,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219174"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_542219ade6d01c6fd2c42e8ff5930cf8164d6006a0a6b856713e8462c5950bca855bdce669c0dc241e73999b4648",
+      "card_info": {
+        "name": "Toxapex - 97/236 (Mewtwo Stamped)",
+        "clean_name": "Toxapex 97 236 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "097/236",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PP] Spike Shot (70)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.29,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219175"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c9f58566f4b4540c1e69cd06be86c9000db89aba2592f99ce62ddc921258ce6a5d6c7e282a52bf28f3eea54b6089e1",
+      "card_info": {
+        "name": "Mareanie - 105/214 (Mewtwo Stamped)",
+        "clean_name": "Mareanie 105 214 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "105/214",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Peck (10)",
+          "[1P] Pin Missile (10x)\r\n<br>Flip 4 coins. This attack does 10 damage for each heads."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219176"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ac6885152dadbcd2a4ca53679a8e147459dfcaed29419cd9951c42a4c82d791c0a0dc7c7491f8169b0dd203964eb",
+      "card_info": {
+        "name": "Mew - 32/68 (Mewtwo Stamped)",
+        "clean_name": "Mew 32 68 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "032/068",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[PP] Psyshot (50)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.18,
+            "mid_price": 3.22,
+            "high_price": 32.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.86,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219177"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_199b78a48670fb85c3ac4333585764c79c3aba03203fa2c44bcd1e06ea700323dee497f20b51cdff306018faa3a6",
+      "card_info": {
+        "name": "Mesprit - 84/236 (Mewtwo Stamped)",
+        "clean_name": "Mesprit 84 236 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "084/236",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] First Contact\r\n<br>Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+          "[P] Mumble (20)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.38,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219179"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9f2751a59f0c7514ec07a2ebf70dd90110dec46017c9a4e2200dcd05357d0613531d26d480dc65f959afbdfaddb3",
+      "card_info": {
+        "name": "Cresselia - 87/236 (Mewtwo Stamped)",
+        "clean_name": "Cresselia 87 236 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "087/236",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2P] Aurora Gain (60)\r\n<br>Heal 30 damage from this Pokémon.",
+          "[2PP] Luminous Blade (130)\r\n<br>Discard a Psychic Energy from this Pokémon."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.27,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219180"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_79310201379de2bc7d870aaaa7480ff7568a8d4477490041cb09a2071743574b74cb2def95a3feb44bbc814cacd3",
+      "card_info": {
+        "name": "Snorlax - 50/68 (Mewtwo Stamped)",
+        "clean_name": "Snorlax 50 68 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "050/068",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[4] Incredible Snore (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.89,
+            "mid_price": 3.12,
+            "high_price": 50.42,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.95,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219182"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b581582b7321309448befa029a8fe32feda2fa16a4f1cce59c72a9dc3b5ad50514b2f5c190610b616cc210f2e6e940",
+      "card_info": {
+        "name": "Bug Catcher - 189/236 (Mewtwo Stamped)",
+        "clean_name": "Bug Catcher 189 236 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "189/236",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219183"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f2100e713b2c8a045f66712e2596719c6aba8ab04fe2507f75d32920d1bd85f2e2b350f5ba804e2a8baab123cb30a3",
+      "card_info": {
+        "name": "Cynthia - 119/156 (Mewtwo Stamped)",
+        "clean_name": "Cynthia 119 156 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "119/156",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle your hand into your deck. Then, draw 6 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.37,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219184"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f89a1b4d6583fa7c6da1145cbf8ba14ac48abbe45988775a5c2db6d7548997680e5a87715f3135f26c34606c55c377",
+      "card_info": {
+        "name": "Great Ball - 119/149 (Mewtwo Stamped)",
+        "clean_name": "Great Ball 119 149 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "119/149",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219185"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ddaaf4a74c5bd42c3b7ab9827e13341da0e42952306f616a2129d14f94b9d7e87152e01d55cb6ffdfde2df563c8695",
+      "card_info": {
+        "name": "Hau - 120/149 (Mewtwo Stamped)",
+        "clean_name": "Hau 120 149 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "120/149",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219186"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_57ac19de6267e304d1f6936b614d82be1c6264f021c8f6cf1b2468efeac87d81899fadeae5e44793f4dd5121078134",
+      "card_info": {
+        "name": "Pokemon Catcher - 126/149 (Mewtwo Stamped)",
+        "clean_name": "Pokemon Catcher 126 149 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "126/149",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219187"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5b09976a8365021ccc3c2644f6319c8cffacd7a183e9a5ccab2d67916200b95415a3f8a01178db0a52f8fc543168d3",
+      "card_info": {
+        "name": "Potion - 127/149 (Mewtwo Stamped)",
+        "clean_name": "Potion 127 149 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "127/149",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219188"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_93ee65e45edfe67956fa545729693b42efa2fb74db4970dbd2dff9dff5581e272a21b744a0c7d09700ab1acace7262",
+      "card_info": {
+        "name": "Switch - 132/149 (Mewtwo Stamped)",
+        "clean_name": "Switch 132 149 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "132/149",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219189"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9d129106e564840edb5a171abf1a5811459eafb79b2eb97fe43e0916fe84f281c5b0312f060e2ffda2",
+      "card_info": {
+        "name": "Psychic Energy (Mewtwo Stamped)",
+        "clean_name": "Psychic Energy Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Psychic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219192"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 416,
+    "total_pages": 21
+  },
+  "metadata": {
+    "total_count": 416,
+    "tcg": 359,
+    "cardmarket": 248,
+    "tcg_only": 168,
+    "cardmarket_only": 57,
+    "both_sources": 191
+  }
+}

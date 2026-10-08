@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Bulbasaur&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:47:54 GMT
+Content-Type: application/json
+Content-Length: 27124
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 867
+X-RateLimit-Remaining-Hour: 45
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SV6a9RtruAbsHb%2BCz61ZRtp2laYMUleSl2Sr%2FIjlxBH%2Fcz4Jh%2BarGCmtMRehf8rUWd%2BfLXfJJrTKFG4hITxnDmczLn41cF2pSBpFvLEXLufBQeC%2FAC7SYyq8EvYKyT5F8%2BxleXE%2FYpLzIEUnn0FnWg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4728293acafb51e-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,1295 @@
+{
+  "query": "Blastoise",
+  "results": [
+    {
+      "id": "pk_a8236aa31dcb82ad6adb1a42c67e8ccb6a10a545185fffd2f51735f18dab5b9ebb1ecfce116e83345536f6",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "002/130",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pokémon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 88,
+            "mid_price": 121.22,
+            "high_price": 1279.1,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 154.64,
+            "direct_low_price": 599.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42464"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 20,
+            "avg7": 132.22,
+            "avg30": 93.91,
+            "trend": 119.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 119.32,
+            "low": 25,
+            "avg1": 49.99,
+            "avg7": 78.78,
+            "avg30": 118.53,
+            "trend": 134.31,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Blastoise-B22"
+      }
+    },
+    {
+      "id": "pk_3e162e125a7f67225183a6be0880822e93c69e3fb1c80fa37d5896787b6d44ac2eaf18ea4e5e83e68b3f272dad",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "002/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pokémon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 999.08,
+            "mid_price": 1199.99,
+            "high_price": 1599.99,
+            "updated_at": "2026-10-07T11:26:24.819806",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 500,
+            "mid_price": 828.25,
+            "high_price": 2420,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 896.06,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106997"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise (Shadowless)",
+        "prices": [
+          {
+            "avg": 349.5,
+            "low": 135.95,
+            "avg1": 399,
+            "avg7": 701.07,
+            "avg30": 620.35,
+            "trend": 830.75,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Blastoise-V2-BS2"
+      }
+    },
+    {
+      "id": "pk_f25aa6df9caed80b6e9f087d178c942e40b22e25e9daeff77029545044e654d7c3afa9bb3e1a7887779ca4",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "002/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pokémon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 134.01,
+            "mid_price": 181.99,
+            "high_price": 1580.88,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 222.49,
+            "direct_low_price": 369.59,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42360"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 232.4,
+            "low": 20.9,
+            "avg1": 120.49,
+            "avg7": 136.22,
+            "avg30": 159.51,
+            "trend": 119.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 100,
+            "avg7": 50.43,
+            "avg30": 64.46,
+            "trend": 73.51,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Blastoise-V1-BS2"
+      }
+    },
+    {
+      "id": "pk_49cd1d49d27ee3879aec11582e7ed3e306600ba0ddf6f17802025f47ee764c39e78f34edfd94bc707e0ca35d7e10",
+      "card_info": {
+        "name": "Blastoise - 16/101 (Cosmos Holo)",
+        "clean_name": "Blastoise 16 101 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "016/101",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Deluge</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokémon.",
+        "attacks": [
+          "[4] Hydro Pump (60+)\r\n<br>Does 10 more damage for each Water Energy attached to this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.99,
+            "mid_price": 101.25,
+            "high_price": 733.49,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 30.79,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165634"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2236d16395e1ba5ae5981e56a00b6a1213bb7f818605539d201b5c3ac2ff402dda1efbe957a349bf859f71e8f6",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "31/149",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "Deluge - As often as you like during your turn (before your attack), you may attach a W Energy card from your hand to 1 of your Pokemon.  (Ability)",
+        "attacks": [
+          "[4] Hydro Pump (60+) Does 10 more damage for each W Energy attached to this Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.85,
+            "mid_price": 8.62,
+            "high_price": 83,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 8.62,
+            "direct_low_price": 37.65,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 9.08,
+            "mid_price": 15.74,
+            "high_price": 131.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 24.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 16.85,
+            "mid_price": 41.6,
+            "high_price": 233.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 42.66,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83896"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": null,
+            "low": 3,
+            "avg1": 5,
+            "avg7": 6.88,
+            "avg30": 8.56,
+            "trend": 7.5,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.47,
+            "low": 0.5,
+            "avg1": 3.74,
+            "avg7": 6.14,
+            "avg30": 8,
+            "trend": 15.13,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Blastoise-BCR31"
+      }
+    },
+    {
+      "id": "pk_2b2309f653c31d0198df4bcd590dc85c0861ca3af7fa1d57a0055d8ca03321ed21936c56bc8b64358809e12862",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Celebrations: Classic Collection",
+        "set_code": "CCC",
+        "set_id": "2931",
+        "card_number": "2/102",
+        "rarity": "Classic Collection",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 W Energy card to 1 of your W Pokémon. <em>(This doesn’t use up your 1 Energy card attachment for the turn.)</em> This power can’t be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[WWW] <strong>Hydro Pump</strong> (40+)\r\n<br>Does 40 damage plus 10 more damage for each W Energy attached to Blastoise but not used to pay for this attack’s Energy cost. Extra W Energy after the 2nd doesn’t count."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 18,
+            "high_price": 1000,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 15.46,
+            "direct_low_price": 17.96,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250319"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 22.09,
+            "low": 9.9,
+            "avg1": 22.08,
+            "avg7": 23.6,
+            "avg30": 21.49,
+            "trend": 22.59,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Blastoise"
+      }
+    },
+    {
+      "id": "pk_7a186c5151538cb410d4c2df21254cb6c816a54e381fa67358b6ab24c6542bf99bdf73300f9952eaf7103fae33",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "14/100",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "Water Pressure - As long as Blastoise's remaining HP is 40 or less, Blastoise does 40 more damage to the Defending Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+        "attacks": [
+          "[2W] Hydro Pump (50+) Does 50 damage plus 20 more damage for each W Energy attached to Blastoise but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 25.19,
+            "high_price": 173.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 19.41,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.8,
+            "mid_price": 296.66,
+            "high_price": 300,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 130,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83892"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 9.18,
+            "low": 0.99,
+            "avg1": 30.87,
+            "avg7": 11.93,
+            "avg30": 9.3,
+            "trend": 11.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 102.5,
+            "low": 4,
+            "avg1": 80,
+            "avg7": 99.29,
+            "avg30": 49.15,
+            "trend": 96.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Blastoise-CG14"
+      }
+    },
+    {
+      "id": "pk_f6463088aef3bd07476fb8c57a8ed1a48630589682dd8a2274bbcfa39c48289cc89f0889437a8b5d1c9781b5",
+      "card_info": {
+        "name": "Blastoise (Delta Species)",
+        "clean_name": "Blastoise Delta Species",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "2/100",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-BODY</b>Shield Veil \r\n<br>Each of your Active Pokemon has no Weakness.",
+        "attacks": [
+          "[1F] Enraged Linear Attack - Choose 1 of your opponent's Pokemon.  This attack does 10 damage for each damage counter on Blastoise to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[2M] Skull Bash (60)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 290,
+            "mid_price": 299.9,
+            "high_price": 750,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 260.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 549.99,
+            "mid_price": 899.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 257.4,
+            "direct_low_price": 999.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83899"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise δ Delta Species",
+        "prices": [
+          {
+            "avg": 76.29,
+            "low": 7.99,
+            "avg1": 90,
+            "avg7": 84.58,
+            "avg30": 54.99,
+            "trend": 60.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 85,
+            "low": 11.9,
+            "avg1": 199.99,
+            "avg7": 135.71,
+            "avg30": 103.47,
+            "trend": 160.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Blastoise-Delta-Species-CG2"
+      }
+    },
+    {
+      "id": "pk_bd420ab353994443e40b9b96a630cb59d1e8b6cdc423fdae05ebb41eccd89553c52ede4ca31f31ad036792feaf03",
+      "card_info": {
+        "name": "Blastoise - 31/149 (BW Boundaries Crossed)",
+        "clean_name": "Blastoise 31 149 BW Boundaries Crossed",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "031/149",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Deluge</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokémon.",
+        "attacks": [
+          "[4] Hydro Pump (60+)\r\n<br>\r\nDoes 10 more damage for each Water Energy attached to this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 3.51,
+            "high_price": 19.95,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 5.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/123456"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_728a937687eefae1724dcf3f175445fa094c9c571bf79bc7c5ae8e16a2094783b616142eba51b7745e6eacd060",
+      "card_info": {
+        "name": "Dark Blastoise - 4/110 (WotC Legendary Collection)",
+        "clean_name": "Dark Blastoise 4 110 WotC Legendary Collection",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "004/110",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[WW] Hydrocannon (30+)\r\n<br>Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way.",
+          "[2W] Rocket Tackle (40)\r\n<br>Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 23.69,
+            "mid_price": 86.69,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 41.87,
+            "direct_low_price": 298.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125088"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0b85918ab7fcc9611cc50c90b5449a067ca0f8f1614e423790e0bcba81a2975cf4f495a709926e5fb5de1105377e",
+      "card_info": {
+        "name": "Blastoise - 16/101 (BW Plasma Blast)",
+        "clean_name": "Blastoise 16 101 BW Plasma Blast",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "016/101",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Deluge</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokémon.",
+        "attacks": [
+          "[4] Hydro Pump (60+)\r\n<br>Does 10 more damage for each Water Energy attached to this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 4.92,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 18.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131329"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_870ba829b36fb050b1f01ac49769cf38d4e953ea3773936f699ead89db13a3292818ec6311537eb164d9af4f985d",
+      "card_info": {
+        "name": "Blastoise - 14/100 (EX Crystal Guardians)",
+        "clean_name": "Blastoise 14 100 EX Crystal Guardians",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "014/100",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<Strong>Poké-BODY — Water Pressure</strong>\r\n<br>As long as Blastoise's remaining HP is 40 or less, Blastoise does 40 more damage to the Defending Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[2W] Hydro Pump (50+)\r\n<br>Does 50 damage plus 20 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 26.97,
+            "mid_price": 61.49,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 52.71,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/174489"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3a0d77fbf09fa2810d1b065e27228c002cf979652185b3ccc9f00e19ae37b9ab4ea364e424f514ba5b4110d026b7",
+      "card_info": {
+        "name": "Blastoise - 25/181 (Cracked Ice Holo)",
+        "clean_name": "Blastoise 25 181 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "025/181",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Powerful Squall</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may look at the top 6 cards of your deck and attach any number of Water Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
+        "attacks": [
+          "[WWW] Hydro Tackle (150)\r\n<br>This Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 26.99,
+            "mid_price": 36.55,
+            "high_price": 200.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 26.31,
+            "direct_low_price": 31.48,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/184218"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_22fa2156d3fde9c8b48fa5e48f381ddd13cceac75bfe32135a6598b4f47520ff4b8245f898a31e529df6dbd3",
+      "card_info": {
+        "name": "Blastoise (4)",
+        "clean_name": "Blastoise 4",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "004/165",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Jet Stream</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Blastoise is your Active Pokémon, you may flip a coin. If heads, discard an Energy card attached to Blastoise, if any. Then, if there are any Energy cards attached to the Defending Pokémon, choose 1 of them and discard it. This power can't be used if Blastoise is affected by a Special Condition.",
+        "attacks": [
+          "[1WW] Energy Cannon (40+)\r\n<br>Does 40 damage plus 10 more damage for each Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 250,
+            "mid_price": 647,
+            "high_price": 899.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 287,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 180,
+            "mid_price": 375,
+            "high_price": 499.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 499.95,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83888"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 219.98,
+            "low": 10,
+            "avg1": 1500,
+            "avg7": 485.57,
+            "avg30": 229.6,
+            "trend": 391.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 119,
+            "low": 10,
+            "avg1": 169.95,
+            "avg7": 82.27,
+            "avg30": 86.27,
+            "trend": 116.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Blastoise-EX4"
+      }
+    },
+    {
+      "id": "pk_f3b23aac9c28c92f45ebc665277f456234e01376bddaac126c806a6030370c9a0a99dd1e42c295d59ffd58f54e",
+      "card_info": {
+        "name": "Blastoise (36)",
+        "clean_name": "Blastoise 36",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "036/165",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[3] Double Cannon (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 47.42,
+            "mid_price": 88.49,
+            "high_price": 995.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 82.11,
+            "direct_low_price": 398.98,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1509.62,
+            "mid_price": 1649.82,
+            "high_price": 1652.3,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 163.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83889"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 24.75,
+            "low": 3.5,
+            "avg1": 11,
+            "avg7": 26.87,
+            "avg30": 19.77,
+            "trend": 20.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 75.57,
+            "low": 12,
+            "avg1": 25,
+            "avg7": 61.23,
+            "avg30": 47.63,
+            "trend": 54.58,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Blastoise-EX36"
+      }
+    },
+    {
+      "id": "pk_93716c01cc9748434d01418f91a6e1c266f573e84edf09c9a6813f2df19eaa9bd79d1f363a7e4f2d13df51d7a1",
+      "card_info": {
+        "name": "Blastoise (37)",
+        "clean_name": "Blastoise 37",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "037/165",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Jet Stream</strong\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Blastoise is your Active Pokémon, you may flip a coin. If heads, discard an Energy card attached to Blastoise, if any. Then, if there are any Energy cards attached to the Defending Pokémon, choose 1 of them and discard it. This power can't be used if Blastoise is affected by a Special Condition.",
+        "attacks": [
+          "[1WW] Energy Cannon (40+)\r\n<br>Does 40 damage plus 10 more damage for each Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 89.99,
+            "mid_price": 191,
+            "high_price": 962.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 90.88,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 59.96,
+            "mid_price": 61.19,
+            "high_price": 8961.86,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 150,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83890"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise",
+        "prices": [
+          {
+            "avg": 40.59,
+            "low": 5,
+            "avg1": 41.67,
+            "avg7": 51.61,
+            "avg30": 30.35,
+            "trend": 52.77,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 40,
+            "low": 13,
+            "avg1": 40,
+            "avg7": 47.23,
+            "avg30": 51.27,
+            "trend": 32.8,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Blastoise-EX37"
+      }
+    },
+    {
+      "id": "pk_f786ac4d9df850006e0a7cd411b7bc51ba80232327c56d0ef040018791c3207c88038cd53196b4e4554c9b8c8fbe",
+      "card_info": {
+        "name": "Blastoise ex",
+        "clean_name": "Blastoise ex",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "104/112",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-POWER</b> Energy Rain \r<br>\n<br>As often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokemon.  Put 1 damage counter on that Pokemon.  This power can't be used if Blastoise ex is affected by a Special Condition.",
+        "attacks": [
+          "[1WWW] Hyper Whirlpool (80) \r\n<br>Flip a coin until you get tails.  For each heads, your opponent discards an Energy card attached to the Defending Pokemon."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 439.99,
+            "mid_price": 450,
+            "high_price": 699.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 650.45,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83900"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise ex",
+        "prices": [
+          {
+            "avg": 418,
+            "low": 39.99,
+            "avg1": 249.5,
+            "avg7": 418,
+            "avg30": 249.93,
+            "trend": 409.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 29.99,
+            "avg7": 62.66,
+            "avg30": 54.43,
+            "trend": 75.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Blastoise-ex-FL104"
+      }
+    },
+    {
+      "id": "pk_7ec9315f2a2891230b864e9f473a87723e6a7f6ddd39914b2fc7c371bd2fb778eb7243ae6cbcbcdf71bc2d0b62",
+      "card_info": {
+        "name": "Blastoise EX",
+        "clean_name": "Blastoise EX",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "17/83",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2W] Hyper Whirlpool (60)\r\n<br>Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokemon.",
+          "[2WW] Hydro Press (100)\r\n<br>This attack does 20 Damage to one of your opponent's Benched Pokémon. <i>(Don't apply Weakness and Resistance to for Benched Pokémon.)</i>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.49,
+            "mid_price": 15.99,
+            "high_price": 159.51,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 15.88,
+            "direct_low_price": 20.65,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113675"
+      },
+      "cardmarket": {
+        "product_name": "Blastoise EX",
+        "prices": [
+          {
+            "avg": 10.26,
+            "low": 3.85,
+            "avg1": 6.98,
+            "avg7": 10.22,
+            "avg30": 10.75,
+            "trend": 9.64,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.75,
+            "avg7": 6.86,
+            "avg30": 5.64,
+            "trend": 6.88,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Blastoise-EX-GEN17"
+      }
+    },
+    {
+      "id": "pk_0526a140a3b0c61d09f6b1b79d63a4ada35059877b6b8b135d86de3aa912debcba574981ce83cf5ae49f1de988",
+      "card_info": {
+        "name": "M Blastoise EX",
+        "clean_name": "M Blastoise EX",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "18/83",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Mega",
+        "card_text": null,
+        "attacks": [
+          "[2WW] Dread Launcher (180)\r\n<br>Flip a coin. If tails, discard 2 Water Energy attached to this Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.49,
+            "mid_price": 28.2,
+            "high_price": 257.4,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 30.84,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113676"
+      },
+      "cardmarket": {
+        "product_name": "MBlastoise EX",
+        "prices": [
+          {
+            "avg": 19.35,
+            "low": 6,
+            "avg1": 20,
+            "avg7": 24.2,
+            "avg30": 23.8,
+            "trend": 17.01,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9,
+            "avg7": 12.18,
+            "avg30": 13.93,
+            "trend": 13.89,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/MBlastoise-EX-GEN18"
+      }
+    },
+    {
+      "id": "pk_bf0c58fe65421caed706a7e0a05077f623274d9fff3a4fb3150082b93c06b5c3f0ccf38ce0ffc79e9a7a84c581",
+      "card_info": {
+        "name": "Blastoise - 13/95 (Prerelease)",
+        "clean_name": "Blastoise 13 95 Prerelease",
+        "set_name": "HGSS Promos",
+        "set_code": "PR",
+        "set_id": "1453",
+        "card_number": "13/95",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Wash Out</strong>\r\n<br>As often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Blastoise is affected by a Special Condition.",
+        "attacks": [
+          "[2WW] Hydro Launcher \r\n<br>Return 2 Water Energy attached to Blastoise to your hand. Choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 86.43,
+            "mid_price": 94,
+            "high_price": 149.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 156.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211517"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 290,
+    "total_pages": 15
+  },
+  "metadata": {
+    "total_count": 290,
+    "tcg": 265,
+    "cardmarket": 164,
+    "tcg_only": 126,
+    "cardmarket_only": 25,
+    "both_sources": 139
+  }
+}

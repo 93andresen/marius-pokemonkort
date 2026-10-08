@@ -1,0 +1,1362 @@
+{
+  "query": "Hitmonchan",
+  "results": [
+    {
+      "id": "pk_46e292cde5222b868cccc039c146aa60075331f02d869f495fc5ab06703e955a887668013fdc3a58e753776701",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "081/147",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1F] Rush (10x)\r\n<br>Flip 5 coins. This attack does 10 damage times the number of heads. Hitmonchan can't attack during your next turn.",
+          "[3] Smash Punch (50)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 27.26,
+            "high_price": 216,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 24.36,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 169.98,
+            "high_price": 169.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86091"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 25,
+            "low": 10,
+            "avg1": 35,
+            "avg7": 27.27,
+            "avg30": 17.8,
+            "trend": 27.66,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.83,
+            "low": 1.5,
+            "avg1": 8.44,
+            "avg7": 6.52,
+            "avg30": 5.73,
+            "trend": 6.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Hitmonchan-AQ81"
+      }
+    },
+    {
+      "id": "pk_84554bab5ec00ca5accb68494d04def6a6789963346c27835e1c6036d9d5c1951459766bbd9bd038862b00",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "008/130",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.45,
+            "mid_price": 18.07,
+            "high_price": 203.22,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 25.47,
+            "direct_low_price": 59.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42496"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 24.09,
+            "low": 6.75,
+            "avg1": 9.61,
+            "avg7": 19.05,
+            "avg30": 19,
+            "trend": 22.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 17.5,
+            "avg7": 14.5,
+            "avg30": 13.08,
+            "trend": 14.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Hitmonchan-B28"
+      }
+    },
+    {
+      "id": "pk_4b5c57f4770c8903b4de0d311d5db1afa17266ebedeebb991460d6fdde44dded40aefed63b92402da948c5a35c",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "007/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 242.99,
+            "mid_price": 428.33,
+            "high_price": 699.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 300,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 31,
+            "mid_price": 73.35,
+            "high_price": 919.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 96.25,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107002"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan (Shadowless)",
+        "prices": [
+          {
+            "avg": 285,
+            "low": 20,
+            "avg1": 550,
+            "avg7": 100.97,
+            "avg30": 68.6,
+            "trend": 129.51,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Hitmonchan-V2-BS7"
+      }
+    },
+    {
+      "id": "pk_752242c837fcb5ea83bff0cfc7bb9164ed6bc6680a28a0c335ab15fd7dc9fa83cab31b615f19e7be78e630",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "007/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 16,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 18.55,
+            "direct_low_price": 98.88,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42415"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.1,
+            "avg7": 6.59,
+            "avg30": 8.13,
+            "trend": 9.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.04,
+            "low": 0.98,
+            "avg1": 4.41,
+            "avg7": 9.29,
+            "avg30": 9.22,
+            "trend": 9.86,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Hitmonchan-V1-BS7"
+      }
+    },
+    {
+      "id": "pk_f5b1be5b38a8df6c4462f35f8e17fafe8a147d6c3bae9f4033451c53521a47ca78b2db614a6a4d3de80c7cc3",
+      "card_info": {
+        "name": "Hitmonchan - 2",
+        "clean_name": "Hitmonchan 2",
+        "set_name": "Best of Promos",
+        "set_code": "PR",
+        "set_id": "1455",
+        "card_number": "002/009",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 29.99,
+            "mid_price": 39.99,
+            "high_price": 341.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 39.85,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86098"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1b2914352a405423ccef7eb768adcad4d6e9812f8d1011439dee5939d2b29c83c4baeddc94479245f0acc0b306",
+      "card_info": {
+        "name": "Hitmonchan - 2 [Winner]",
+        "clean_name": "Hitmonchan 2 Winner",
+        "set_name": "Best of Promos",
+        "set_code": "PR",
+        "set_id": "1455",
+        "card_number": "002/009",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 125,
+            "mid_price": 237.99,
+            "high_price": 1272.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 125.7,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/117599"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_391c795e7e1b93fafd386e104fa3c2c04f24aae9e28a8fcfe6e7fd47f3be95b6c65443df7d1dd3a3cd69e7226a",
+      "card_info": {
+        "name": "Rocket's Hitmonchan - 9 [Winner]",
+        "clean_name": "Rockets Hitmonchan 9 Winner",
+        "set_name": "Best of Promos",
+        "set_code": "PR",
+        "set_id": "1455",
+        "card_number": "009/009",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Crosscounter \r\n<br>\r\nIf an attack does damage to Rocket's Hitmonchan during your opponent's next turn (even if Rocket's Hitmonchan is Knocked Out), flip a coin. If heads, Rocket's Hitmonchan attacks your opponent's Active Pokémon for double that amount of damage. <em>(If Rocket's Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)</em>",
+          "[1FF] Magnum Punch (50)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 375,
+            "mid_price": 950,
+            "high_price": 1849.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 385.67,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/167079"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8e65e8c6d9cd92f0a564aedafec40452883dd9a8b2294301bd2d509405c2dd857a95082c24ceae8ae82c854c",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "57/95",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Detect - Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Hitmonchan during your opponent's next turn.",
+          "[1F] Sky Uppercut (30) This attack's damage isn't affected by Resistance."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.37,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.4,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5.5,
+            "mid_price": 14.74,
+            "high_price": 149.62,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 15.06,
+            "direct_low_price": 18.6,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86096"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 29.9,
+            "low": 0.49,
+            "avg1": 29.9,
+            "avg7": 8.7,
+            "avg30": 5.46,
+            "trend": 7.24,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.4,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.32,
+            "avg30": 0.43,
+            "trend": 0.36,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Hitmonchan-CL57"
+      }
+    },
+    {
+      "id": "pk_58f22ed257b625404a952c09f7f83184e9a32f589cfe8535b7d522162c1416619012127bf32dd44325e9d15584b0",
+      "card_info": {
+        "name": "Hitmonchan - 62/108 (XY Evolutions)",
+        "clean_name": "Hitmonchan 62 108 XY Evolutions",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "062/108",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (30)",
+          "[1FF] Special Punch (90)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 1,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 1.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131307"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fc1c4f0a0508cc44ab98b0ce47b382c90982f7213e789df27f21d986559e8eabd140eaffa28bd17d5d82d4f735",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "48/83",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Bullet Punch (20+)\r\n<br>Flip 2 coins. This attack does 20 more damage for each heads.",
+          "[2F] Mach Cross (60)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.17,
+            "mid_price": 0.35,
+            "high_price": 23.49,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.34,
+            "mid_price": 0.87,
+            "high_price": 39.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.88,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113706"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 0.52,
+            "low": 0.05,
+            "avg1": 0.41,
+            "avg7": 0.46,
+            "avg30": 0.44,
+            "trend": 0.63,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.86,
+            "low": 0.35,
+            "avg1": 1,
+            "avg7": 1.57,
+            "avg30": 1.14,
+            "trend": 1.35,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Hitmonchan-GEN48"
+      }
+    },
+    {
+      "id": "pk_6b71e3874186f51a8e316637a7a90d4dbf3aa6a420de973c41f0971e969e2bbcd662c8217c9aa4b874f6adaf76",
+      "card_info": {
+        "name": "Rocket's Hitmonchan",
+        "clean_name": "Rockets Hitmonchan",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "011/132",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Crosscounter\r\n<br>If an attack does damage to Rocket's Hitmonchan during your opponent's next turn <em>(even if Rocket's Hitmonchan is Knocked Out), flip a coin. If heads, Rocket's Hitmonchan attacks your opponent's Active Pokémon for double that amount of damage. <em>(If Rocket's Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)</em>",
+          "[1FF] Magnum Punch (50)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 121.49,
+            "mid_price": 577.99,
+            "high_price": 1319.29,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 139.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 36.91,
+            "mid_price": 73.5,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 59.59,
+            "direct_low_price": 74.99,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88773"
+      },
+      "cardmarket": {
+        "product_name": "Rocket's Hitmonchan",
+        "prices": [
+          {
+            "avg": 33.42,
+            "low": 12,
+            "avg1": 399,
+            "avg7": 79.21,
+            "avg30": 51.77,
+            "trend": 81.87,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.99,
+            "avg7": 17.49,
+            "avg30": 20.2,
+            "trend": 19.58,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Hitmonchan-G111"
+      }
+    },
+    {
+      "id": "pk_87d5e565ef7e73ea5d9a3afd32d0ffff8fade8772b2f21eef5c6dbf99f6508d62d0e5764d680ac5fa05fbea504",
+      "card_info": {
+        "name": "Hitmonchan - HGSS24",
+        "clean_name": "Hitmonchan HGSS24",
+        "set_name": "HGSS Promos",
+        "set_code": "PR",
+        "set_id": "1453",
+        "card_number": "HGSS24",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Detect \r\n<br>Flip a coin. If heads, prevent all effects of an attack, including damage, done to Hitmonchan during your opponent's next turn.",
+          "[1F] Sky Uppercut (30) \r\n<br>This attack's damage isn't affected by Resistance."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.74,
+            "mid_price": 9.63,
+            "high_price": 207.62,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 20.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86097"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.99,
+            "avg7": 8.55,
+            "avg30": 6.81,
+            "trend": 9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.47,
+            "low": 7.99,
+            "avg1": 15,
+            "avg7": 18.9,
+            "avg30": 13.3,
+            "trend": 16.11,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Hitmonchan-HGSSHGSS24"
+      }
+    },
+    {
+      "id": "pk_d8cf2471d7d260f6975b0d97b9d3acc953e60af1a268cd101ef88b7550ab1b0490a55dde5ee7fee92f",
+      "card_info": {
+        "name": "Hitmonchan - 2 (Best of Game 2 Promo)",
+        "clean_name": "Hitmonchan 2 Best of Game 2 Promo",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "002",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35,
+            "mid_price": 137.5,
+            "high_price": 240,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 40,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/180263"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 35,
+            "low": 300,
+            "avg1": 35,
+            "avg7": 40,
+            "avg30": 40,
+            "trend": 23.69,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Hitmonchan-V3-BEST2"
+      }
+    },
+    {
+      "id": "pk_ec0982f0e678d46aceab2729ee8c97237f83f3aea38c8f4b5c9fdccac86da4029de6348b691d4fb627c613781460",
+      "card_info": {
+        "name": "Rocket's Hitmonchan - 11/132",
+        "clean_name": "Rocket's Hitmonchan",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "011/132",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Crosscounter\r\n<br>\r\nIf an attack does damage to Rocket's Hitmonchan during your opponent's next turn <em>(even if Rocket's Hitmonchan is Knocked Out)</em>, flip a coin. If heads, Rocket's Hitmonchan attacks your opponent's Active Pokémon for double that amount of damage. <em>(If Rocket's Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)</em>",
+          "[1FF] Magnum Punch (50)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/211506"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9181c69295ff3975091def383186dedf7e8a0ff108954d1007b3edb6a0779754514bb6b7462093f0980c9965d0",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "99/146",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Counter Punch\r\n<br>\r\nDuring your opponent's next turn, if Hitmonchan is damaged by an opponent's attack <em>(even if Hitmonchan is Knocked Out)</em>, put 4 damage counters on the Attacking Pokémon.",
+          "[1F] Gut Strike (30)\r\n<br>\r\nIf Tyrogue is anywhere under Hitmonchan, this attack's base damage is 60 instead of 30."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 1.07,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.08,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.45,
+            "mid_price": 7.34,
+            "high_price": 59.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 5.83,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86093"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan Lv.27",
+        "prices": [
+          {
+            "avg": 5.27,
+            "low": 1.5,
+            "avg1": 0.8,
+            "avg7": 3.71,
+            "avg30": 3.24,
+            "trend": 3.44,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.41,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.34,
+            "avg30": 0.38,
+            "trend": 0.42,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Hitmonchan-Lv27-LA99"
+      }
+    },
+    {
+      "id": "pk_49f7799cdfe8af6240f2b772c3551ee6755baf0dc0a81c7668422247fc21549bdef4301a9a1ed7c39606d33250",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "069/105",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Dodge\r\n<br>\r\nIf Hitmonchan would be damaged by an attack during your opponent's next turn, flip a coin. If heads, prevent that attack's damage done to Hitmonchan. <em>(Any other effects of attacks still happen.)</em>",
+          "[FFF] Supersonic Jab (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.55,
+            "mid_price": 5.68,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 7.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 1.52,
+            "high_price": 13.85,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 2.6,
+            "direct_low_price": 4.39,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86090"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 1.37,
+            "low": 0.05,
+            "avg1": 0.5,
+            "avg7": 3.38,
+            "avg30": 2.15,
+            "trend": 1.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Hitmonchan-NDE69"
+      }
+    },
+    {
+      "id": "pk_d6dfd6ae3640c4b0d395dc292747717bb1b1480703a321ff5d23c14182c3c47950ca8c41d8ab7507df460af1ac80",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "129/127",
+        "rarity": "Secret Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.79,
+            "mid_price": 44.91,
+            "high_price": 259.61,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 30.51,
+            "direct_low_price": 49.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86094"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan Lv.33",
+        "prices": [
+          {
+            "avg": 8.2,
+            "low": 3,
+            "avg1": 5,
+            "avg7": 8.2,
+            "avg30": 12.97,
+            "trend": 10.31,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 3,
+            "avg1": 4,
+            "avg7": 14.5,
+            "avg30": 8.9,
+            "trend": 18.25,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Hitmonchan-Lv33-PL129"
+      }
+    },
+    {
+      "id": "pk_2c16ddb5081833ab1e63492a7e9a70539f40a17493340d381f7f03ee7dd35266ccd193af2ff68bd7045d251993",
+      "card_info": {
+        "name": "Hitmonchan ex",
+        "clean_name": "Hitmonchan ex",
+        "set_name": "Ruby and Sapphire",
+        "set_code": "RS",
+        "set_id": "1393",
+        "card_number": "98/109",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Steady Punch (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+          "[2FF] Sky Uppercut (50) \r\n<br>This attack's damage is not affected by Resistance."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 95,
+            "mid_price": 200,
+            "high_price": 984.72,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 114.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86099"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.5,
+            "avg7": 12.75,
+            "avg30": 10.55,
+            "trend": 12.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 39.45,
+            "low": 6,
+            "avg1": 10,
+            "avg7": 46.43,
+            "avg30": 31.15,
+            "trend": 43.2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Hitmonchan-ex-RS98"
+      }
+    },
+    {
+      "id": "pk_6636817760f7a4a49fffc979c270b548613ffad9c3c8cd7e1348d155b2e7ed88a752dedb4f55795304e4cb0b453c",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "SM - Team Up",
+        "set_code": "SM9",
+        "set_id": "2377",
+        "card_number": "74/181",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Hit and Run (30)\r\n<br>You may switch this Pokémon with 1 of your Benched Pokemon.",
+          "[2F] Magnum Punch (70)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 0.72,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.64,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.95,
+            "mid_price": 4.99,
+            "high_price": 32.92,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 4.86,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183852"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 0.92,
+            "avg7": 0.7,
+            "avg30": 0.67,
+            "trend": 0.61,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.31,
+            "low": 0.3,
+            "avg1": 7.5,
+            "avg7": 4.05,
+            "avg30": 3.36,
+            "trend": 4.48,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Up/Hitmonchan-TEU74"
+      }
+    },
+    {
+      "id": "pk_3b6109af5b7974e2f7843948b2fede0b252ac72ed9dfcedf4c7b92e84a08eca6bdec83e063a14cca6a46ae1f4a5538bc",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "107/165",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Counterattack</strong>\r\n<br>If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon (even if this Pokemon is Knocked Out), put 3 damage counters on the Attacking Pokemon.",
+        "attacks": [
+          "[FF] Excited Punch (60)\r\n<br>During your next turn, this Pokemon's Excited Punch attack does 60 more damage (before applying Weakness and Resistance)."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.22,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 1.49,
+            "high_price": 50,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 1.35,
+            "direct_low_price": 1.35,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516676"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.19,
+            "low": 0.45,
+            "avg1": 2.27,
+            "avg7": 2.28,
+            "avg30": 2.25,
+            "trend": 2.1,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Hitmonchan-MEW107"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 68,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 68,
+    "tcg": 54,
+    "cardmarket": 54,
+    "tcg_only": 14,
+    "cardmarket_only": 14,
+    "both_sources": 40
+  }
+}

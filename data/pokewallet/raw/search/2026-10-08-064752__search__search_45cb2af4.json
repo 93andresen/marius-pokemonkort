@@ -1,0 +1,1482 @@
+{
+  "query": "Bulbasaur",
+  "results": [
+    {
+      "id": "pk_605f8db96c1fda719dceaf902b2f0812aa2dc3ddfe436791ac31321f2fc568faf42836c4a09627bca48346b1",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "067/130",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 2.18,
+            "high_price": 96.5,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.67,
+            "direct_low_price": 95.65,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42486"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 2.22,
+            "low": 0.3,
+            "avg1": 0.55,
+            "avg7": 1.96,
+            "avg30": 2.57,
+            "trend": 2.01,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.95,
+            "avg7": 8.95,
+            "avg30": 8.95,
+            "trend": 8.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Bulbasaur-B267"
+      }
+    },
+    {
+      "id": "pk_694a18a476e4c8a7323e8f6ee4a43dc63843abc2949a9a9f946ec53ac321f664e5a1934c6e7d4e8384a737c6c6da",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "044/102",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 194,
+            "mid_price": 332.09,
+            "high_price": 549.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 313.19,
+            "direct_low_price": 389.86,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8.5,
+            "mid_price": 19.58,
+            "high_price": 184.61,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 22.48,
+            "direct_low_price": 74.51,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107041"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur (Shadowless)",
+        "prices": [
+          {
+            "avg": 23.87,
+            "low": 7.79,
+            "avg1": 39.9,
+            "avg7": 31.02,
+            "avg30": 39.05,
+            "trend": 21.88,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Bulbasaur-V2-BS44"
+      }
+    },
+    {
+      "id": "pk_235e495b9b4509de3fa997969af105cc4988834bb33a08dcba157d69ba3b1c906f65bf73efbec53988d20a8f",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "044/102",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.27,
+            "high_price": 74.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 3.51,
+            "direct_low_price": 18.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42387"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.8,
+            "avg7": 13.07,
+            "avg30": 12.91,
+            "trend": 15.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.92,
+            "low": 0.02,
+            "avg1": 5.07,
+            "avg7": 5.73,
+            "avg30": 5.25,
+            "trend": 9.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Bulbasaur-V1-BS44"
+      }
+    },
+    {
+      "id": "pk_c1700fc6e249912a118d7941f6b2bd4d25eb55fcd0b47c052447385d93e2cb4dfa6f8c2d09fa156cf6ae10b05d",
+      "card_info": {
+        "name": "Bulbasaur - 045/100",
+        "clean_name": "Bulbasaur",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "45/100",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tackle (10)",
+          "[G] Poisonpowder - The Defending Pokemon is now Poisoned."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.25,
+            "mid_price": 10.32,
+            "high_price": 92.18,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 11.83,
+            "direct_low_price": 5.5,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 63.99,
+            "mid_price": 274.49,
+            "high_price": 934.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 113.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84032"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 1.89,
+            "low": 0.1,
+            "avg1": 7,
+            "avg7": 2.16,
+            "avg30": 1.94,
+            "trend": 2.79,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 46.48,
+            "low": 9,
+            "avg1": 48.95,
+            "avg7": 53.37,
+            "avg30": 41.08,
+            "trend": 56.16,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Bulbasaur-CG45"
+      }
+    },
+    {
+      "id": "pk_addc15db002cef7738de51695bf0bcd7783b18c3c2ccd26212ea655b74d3ad3ff4691c739ae337c36860ec724b",
+      "card_info": {
+        "name": "Bulbasaur - 046/100",
+        "clean_name": "Bulbasaur",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "46/100",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Growth - Attach a G Energy card from your hand to Bulbasaur.",
+          "[1G] Vine Whip (20)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.4,
+            "mid_price": 4.23,
+            "high_price": 67.5,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 4.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 74.99,
+            "mid_price": 134.97,
+            "high_price": 499.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 61.47,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84033"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 2.25,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1.94,
+            "avg30": 2.41,
+            "trend": 1.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 104.5,
+            "low": 7.88,
+            "avg1": 7.49,
+            "avg7": 83.56,
+            "avg30": 43.03,
+            "trend": 59.65,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Bulbasaur-CG46"
+      }
+    },
+    {
+      "id": "pk_ca905844bf56d8f9978dfc2e18aff9629bd34c4c4f5a2e86cb551a0f9140113859e7565abe059f63be640826",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Dark Explorers",
+        "set_code": "DEX",
+        "set_id": "1386",
+        "card_number": "1/108",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Tackle (10)",
+          "[2G] Razor Leaf (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "W-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 7.38,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 8.69,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 20.74,
+            "mid_price": 50.01,
+            "high_price": 98.98,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 33.15,
+            "direct_low_price": 50,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84036"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 2.4,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 2.01,
+            "avg30": 2.18,
+            "trend": 2.21,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.61,
+            "low": 1,
+            "avg1": 22,
+            "avg7": 16.34,
+            "avg30": 11.45,
+            "trend": 13.35,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Bulbasaur-DEX1"
+      }
+    },
+    {
+      "id": "pk_ea4d43993781ba2ad418e791ddef03f69690d9334d941025e5031ea25c6616ba96978fceb4cf8dd0dc0be73926",
+      "card_info": {
+        "name": "Ditto (Bulbasaur)",
+        "clean_name": "Ditto Bulbasaur",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "36/113",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em> If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1G] Toxic \r\n<br>The Defending Pokemon is now Poisoned.  Put 2 damage counters instead of 1 on the Defending Pokemon between turns."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 175,
+            "mid_price": 203.98,
+            "high_price": 839.07,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 142.82,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 399.73,
+            "mid_price": 431.13,
+            "high_price": 595.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 359.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84833"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 31.41,
+            "low": 20,
+            "avg1": 21,
+            "avg7": 29.58,
+            "avg30": 34.62,
+            "trend": 17.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 148.25,
+            "low": 29.99,
+            "avg1": 249,
+            "avg7": 116.86,
+            "avg30": 96.73,
+            "trend": 119.66,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS36"
+      }
+    },
+    {
+      "id": "pk_2f3d1c34cccc3ab92edb492d791379c6678b911376e4c665b124d601aac114a6b62682c35683406b695db60c",
+      "card_info": {
+        "name": "Bulbasaur (Holo Common)",
+        "clean_name": "Bulbasaur Holo Common",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "1/18",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Find a Friend\r\n<br>Search your deck for a Grass Pokemon, reveal it, and put it into your hand. Then, shuffle your deck."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.12,
+            "high_price": 34.47,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 1.31,
+            "direct_low_price": 1.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186001"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.34,
+            "avg7": 0.35,
+            "avg30": 0.85,
+            "trend": 0.66,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.6,
+            "low": 0.02,
+            "avg1": 0.68,
+            "avg7": 0.61,
+            "avg30": 0.64,
+            "trend": 0.74,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Bulbasaur-DET1"
+      }
+    },
+    {
+      "id": "pk_5a4eac4945b0e7e24bfbc329ccab90d22527f99afafd4e45c024cddac02020b6ef6b629addf5b0380fa646388d",
+      "card_info": {
+        "name": "Bulbasaur (94)",
+        "clean_name": "Bulbasaur 94",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "094/165",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tackle (10)",
+          "[1G] Poison Seed (10)\r\n<br>Flip a coin. If heads, the Pokémon Pokemon is now Poisoned."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 45.38,
+            "high_price": 476.94,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 43.57,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 200,
+            "mid_price": 265,
+            "high_price": 330,
+            "updated_at": "2026-10-07T11:54:54.808606",
+            "market_price": 181.66,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84026"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 9.93,
+            "low": 1.8,
+            "avg1": 9.88,
+            "avg7": 12.6,
+            "avg30": 10.67,
+            "trend": 8.8,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 60,
+            "low": 15.09,
+            "avg1": 60,
+            "avg7": 77.64,
+            "avg30": 55.74,
+            "trend": 72.75,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Bulbasaur-EX94"
+      }
+    },
+    {
+      "id": "pk_53bf90cf04fff3e3ed09a4f15a69a1a954169e98468a1cd3e9ebc4fc1b59cff5410d57124f4acc35f340767be0",
+      "card_info": {
+        "name": "Bulbasaur (95)",
+        "clean_name": "Bulbasaur 95",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "095/165",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sleep Seed\r\n<br>The Defending Pokémon is now Asleep.",
+          "[1G] Vine Whip (20)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 50,
+            "mid_price": 83.18,
+            "high_price": 823.88,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 69.38,
+            "direct_low_price": 299.99,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.99,
+            "mid_price": 314,
+            "high_price": 540.09,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 374.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84027"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 83.5,
+            "low": 24.99,
+            "avg1": 150,
+            "avg7": 82.5,
+            "avg30": 70.89,
+            "trend": 80.2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 16.21,
+            "low": 2.49,
+            "avg1": 12.9,
+            "avg7": 17.94,
+            "avg30": 16.14,
+            "trend": 14.87,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Bulbasaur-EX95"
+      }
+    },
+    {
+      "id": "pk_fae145d9886c677724612bfe13b3061faf84357adb900e4ead9321f7bf63847fa4d282a940a538d32f59c6031d",
+      "card_info": {
+        "name": "Bulbasaur - 054/112",
+        "clean_name": "Bulbasaur",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "54/112",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sleep Poison \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Asleep and Poisoned.",
+          "[2] Razor Leaf (20)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.5,
+            "mid_price": 16.1,
+            "high_price": 215.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 16.14,
+            "direct_low_price": 15.86,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 107,
+            "mid_price": 337.5,
+            "high_price": 827.1,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 138.32,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84029"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 109.93,
+            "low": 19.89,
+            "avg1": 38.99,
+            "avg7": 79.2,
+            "avg30": 58.15,
+            "trend": 47.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.42,
+            "low": 0.6,
+            "avg1": 4.9,
+            "avg7": 4.36,
+            "avg30": 5.42,
+            "trend": 4.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Bulbasaur-FL54"
+      }
+    },
+    {
+      "id": "pk_c6a73de6295551ca71ba0e5c7b18a92c1d5f4cf90b79c5961dd9c67fc6e5d1904f11329d1f13ab5f2242238cee",
+      "card_info": {
+        "name": "Bulbasaur - 055/112",
+        "clean_name": "Bulbasaur",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "55/112",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Ram (10)",
+          "[1G] Gouge (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 5.25,
+            "high_price": 34.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 5.25,
+            "direct_low_price": 7.9,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 129.99,
+            "mid_price": 494.99,
+            "high_price": 859.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 112.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84030"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 3.08,
+            "low": 0.02,
+            "avg1": 0.92,
+            "avg7": 2.88,
+            "avg30": 3.54,
+            "trend": 3.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 57,
+            "low": 8.62,
+            "avg1": 100,
+            "avg7": 58.66,
+            "avg30": 44.06,
+            "trend": 53.92,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Bulbasaur-FL55"
+      }
+    },
+    {
+      "id": "pk_9e639b697d25a61f454b6c56dfe1754cbb9199e26d30b4e64d8c5f754502af4e1c8d28e67d59ce23eb4894891f2e",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "First Partner Pack",
+        "set_code": "FPP",
+        "set_id": "2776",
+        "card_number": "044/102",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.42,
+            "mid_price": 6.45,
+            "high_price": 55.12,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 6.03,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/231307"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 8.52,
+            "low": 2,
+            "avg1": 4.99,
+            "avg7": 8.08,
+            "avg30": 5.77,
+            "trend": 8.87,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Bulbasaur-V3-BS44"
+      }
+    },
+    {
+      "id": "pk_47a264982781f0709c48c1ba1e93008bdb5861db68fe46a97314f8df4c9b8944732d51866a991015c8516426f5",
+      "card_info": {
+        "name": "Erika's Bulbasaur",
+        "clean_name": "Erikas Bulbasaur",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "039/132",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Sleep Seed (10)\r\n<br>The Defending Pokémon is now Asleep.",
+          "[GG] Errand-Running\r\n<br>Flip a coin. If heads, you may search your deck for a Trainer card. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 45.79,
+            "high_price": 362,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 41.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8.85,
+            "mid_price": 13,
+            "high_price": 148.29,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 12.58,
+            "direct_low_price": 12,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85286"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Bulbasaur",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.81,
+            "low": 3.7,
+            "avg1": 14.6,
+            "avg7": 9.73,
+            "avg30": 11.77,
+            "trend": 10.4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Erikas-Bulbasaur-GC39"
+      }
+    },
+    {
+      "id": "pk_4981f289d57d047ef964f26bdc7b5d3f9496c747245f912e5c6b48d94b9379a68a66858dc0d0134a7012e1a387",
+      "card_info": {
+        "name": "Bulbasaur",
+        "clean_name": "Bulbasaur",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "068/110",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.66,
+            "mid_price": 7.76,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 8.39,
+            "direct_low_price": 17.49,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 287.49,
+            "mid_price": 393.74,
+            "high_price": 499.99,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 500,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84025"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 1095.33,
+            "low": 85,
+            "avg1": 385,
+            "avg7": 590.12,
+            "avg30": 250.3,
+            "trend": 503.47,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.4,
+            "low": 0.05,
+            "avg1": 2,
+            "avg7": 2.74,
+            "avg30": 8.86,
+            "trend": 8.33,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Bulbasaur-LC68"
+      }
+    },
+    {
+      "id": "pk_81379d77c6d5ee918d5ebf7363b95542e5ee7ae69be227118e49ae9fefea59edff920809d7c6b281784e859bc374",
+      "card_info": {
+        "name": "Bulbasaur - 001/132",
+        "clean_name": "Bulbasaur",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "001/132",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Bind Down (10)<br> During your opponent's next turn, the Defending Pokemon can't retreat."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.33,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.23,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654340"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.06,
+            "avg30": 0.08,
+            "trend": 0.07,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.22,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.19,
+            "avg30": 0.22,
+            "trend": 0.19,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Bulbasaur-V1-MEG001"
+      }
+    },
+    {
+      "id": "pk_191d2582073ac7578da0a7d9e0ad03daec9a8bed17218e5766ef0ba923053397586a430def846d74b55cb0a0e7cf140f",
+      "card_info": {
+        "name": "Bulbasaur - 133/132",
+        "clean_name": "Bulbasaur",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "133/132",
+        "rarity": "Illustration Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Bind Down (10)<br> During your opponent's next turn, the Defending Pokemon can't retreat."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.51,
+            "mid_price": 18.62,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 14.47,
+            "direct_low_price": 21.75,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654472"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 26.47,
+            "low": 12,
+            "avg1": 36.99,
+            "avg7": 26.84,
+            "avg30": 25.36,
+            "trend": 26.7,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Bulbasaur-V2-MEG133"
+      }
+    },
+    {
+      "id": "pk_427790fc93a0dee65237684558fcb333652d0c5378d09bf3e4570b9287783e085a15f722e58654cf284b79a24d",
+      "card_info": {
+        "name": "Bulbasaur - 1/25",
+        "clean_name": "Bulbasaur",
+        "set_name": "McDonald's 25th Anniversary Promos",
+        "set_code": "MCD21",
+        "set_id": "2782",
+        "card_number": "001/025",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1G] Razor Leaf (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 1.26,
+            "high_price": 28.4,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 3.98,
+            "mid_price": 6.91,
+            "high_price": 89.94,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 6.35,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/232316"
+      },
+      "cardmarket": {
+        "product_name": "Bulbasaur",
+        "prices": [
+          {
+            "avg": 0.53,
+            "low": 0.04,
+            "avg1": 1.16,
+            "avg7": 0.67,
+            "avg30": 0.58,
+            "trend": 0.48,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 9.51,
+            "avg30": 8.89,
+            "trend": 7.4,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-25th-Anniversary/Bulbasaur-V1"
+      }
+    },
+    {
+      "id": "pk_ce8ab2645a9ccc5a3baf86b91a7a06cc8844a0742fc3cf73dc4fbe8a8f1a4b64cca24c3ddcd6fb4a362a973852",
+      "card_info": {
+        "name": "Bulbasaur - 1/108 (Build-A-Bear Workshop Exclusive)",
+        "clean_name": "Bulbasaur 1 108 Build A Bear Workshop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "001/108",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Tackle (10)",
+          "[2G] Razor Leaf (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "W-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 48,
+            "mid_price": 52.74,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 52.82,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/155082"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_50d6a2f03ad5b43d0734acc53d202a85819f06c97700e5b13f6180b47745bdc74277f36ba25ffe690300b5ae7e",
+      "card_info": {
+        "name": "Bulbasaur - 1/73 (General Mills Promo)",
+        "clean_name": "Bulbasaur 1 73 General Mills Promo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "001/073",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1G] Razor Leaf (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.5,
+            "mid_price": 56.4,
+            "high_price": 899.81,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 40.11,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186318"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 158,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 158,
+    "tcg": 129,
+    "cardmarket": 90,
+    "tcg_only": 68,
+    "cardmarket_only": 29,
+    "both_sources": 61
+  }
+}
