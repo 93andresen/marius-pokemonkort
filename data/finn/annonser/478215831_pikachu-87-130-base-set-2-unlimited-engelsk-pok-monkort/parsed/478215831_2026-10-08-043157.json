@@ -1,0 +1,211 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:31:57Z",
+  "contact_button": {
+    "adId": "478215831",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215831",
+  "kode_candidates": {
+    "canonical": "478215831",
+    "object_info": "478215831",
+    "maplink": "478215831",
+    "contact_button": "478215831",
+    "hint": "478215831"
+  },
+  "title": "Pikachu 87/130 – Base Set 2 Unlimited – engelsk Pokémonkort",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5171 Loddefjord",
+  "lat": 60.36309952718377,
+  "lon": 5.235013850706126,
+  "postal_code": "5171",
+  "last_modified_raw": "8.10.2026 kl. 04:36",
+  "last_modified": "2026-10-08T04:36:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "27c4dd5b-3515-4f0d-8f28-87092365d7c9",
+    "06c80e7a-60f1-4acd-adcc-7201a212164d",
+    "9ad1a226-ddee-4938-891a-20c8cc19e6c1",
+    "edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger 1 stk. Pikachu 87/130. Kortet på bildene er det som selges.\n\n \n\nℹ️ Kortinformasjon:\n\nSett: Base Set 2 (2000)\n\nUtgave: Unlimited\n\nSpråk: Engelsk\n\nVariant: Non-holo\n\nSjeldenhet: ● Common\n\nIllustratør: Mitsuhiro Arita\n\nUtgiver: Wizards of the Coast (WotC)\n\n \n\n🔍 Tilstand:\n\n🟡 Kortet er moderat brukt (MP).\n\n \n\nForside: Forholdsvis pen helhetstilstand, men med en del overflateriper og mindre bruksspor. I området under ordet «electricity» nederst på kortet er trykkoverflaten slitt bort på et lite punkt, slik at hvit kartong kommer til syne.\n\n \n\nBakside: Mer slitt enn forsiden, med en del overflateriper og bruksspor, samt hvite slitasjemerker langs kanter og hjørner.\n\n \n\nTilstanden vurderes og beskrives etter beste skjønn. Bildene viser kortets for- og bakside, men enkelte merker og skader kan være vanskelige å få tydelig frem på bilder. Les derfor tilstandsbeskrivelsen og se bildene i sammenheng, og ta gjerne kontakt dersom noe er uklart.\n\n \n\n📦 Frakt og henting:\n\nSendes med Fiks ferdig. Frakt og tillegg for trygg betaling vises ved bestilling. Kortet pakkes i sleeve, top-loader, team-bag og boblekonvolutt.\n\n \n\nKan også hentes i Loddefjord, Bergen, etter avtale. Ved henting betales kun vareprisen.\n\n \n\n🗂️ Flere kort:\n\nSe gjerne mine andre annonser. Bruk «Lag en pakke» for å kjøpe flere kort samlet og spar penger på frakt.\n\n \n\nSend gjerne en melding dersom du har spørsmål :)\n\n \n\nIntern referanse: 86\n\n \n\nSøkeord: Pokemon, Pokemonkort, Pokemon-kort, Pokemon kort, Pokémon, Pokémon-kort, Pokémon kort, vintage, retro, Kanto, generasjon 1, Gen 1, samlekort, enkeltkort, Pokemon TCG, Pokémon TCG, trading card, Base Set 2, Pikachu, yellow cheeks, gule kinn, electric, elektrisk, lightning, lyn, yellow, gul, non-holo, common",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478215770",
+      "heading": "Pikachu 58/102 – Base Set Unlimited – engelsk Pokémonkort",
+      "price_label": "50 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215770"
+    },
+    {
+      "item_id": "478215813",
+      "heading": "Pikachu 60/64 – Jungle Unlimited – engelsk Pokémonkort",
+      "price_label": "150 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215813"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "478215795",
+      "heading": "Pikachu 58/102 – Base Set 1999–2000 (4th print) – engelsk Pokémonkort",
+      "price_label": "250 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215795"
+    },
+    {
+      "item_id": "474395188",
+      "heading": "Pikachu 60/64 – Jungle – WotC 1999",
+      "price_label": "120 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474395188"
+    },
+    {
+      "item_id": "471401220",
+      "heading": "Pikachu 58/102 – Base Set",
+      "price_label": "90 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471401220"
+    },
+    {
+      "item_id": "477670811",
+      "heading": "Pikachu 58/102 – Base Set – WOTC – 1999",
+      "price_label": "75 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477670811"
+    },
+    {
+      "item_id": "474394721",
+      "heading": "Pikachu 60/64 – Jungle – WotC 1999",
+      "price_label": "130 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474394721"
+    },
+    {
+      "item_id": "474395315",
+      "heading": "Pikachu 58/102 – Base Set – WotC 1999",
+      "price_label": "95 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474395315"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "27c4dd5b-3515-4f0d-8f28-87092365d7c9",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215831/27c4dd5b-3515-4f0d-8f28-87092365d7c9"
+    },
+    {
+      "uuid": "06c80e7a-60f1-4acd-adcc-7201a212164d",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215831/06c80e7a-60f1-4acd-adcc-7201a212164d"
+    },
+    {
+      "uuid": "9ad1a226-ddee-4938-891a-20c8cc19e6c1",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215831/9ad1a226-ddee-4938-891a-20c8cc19e6c1"
+    },
+    {
+      "uuid": "edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215831/edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0"
+    }
+  ],
+  "raw_capture": "478215831_pikachu-87-130-base-set-2-unlimited-engelsk-pok-monkort/raw/478215831_2026-10-08-043157.html"
+}

@@ -1,0 +1,193 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:31:26Z",
+  "contact_button": {
+    "adId": "478215811",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215811",
+  "kode_candidates": {
+    "canonical": "478215811",
+    "object_info": "478215811",
+    "maplink": "478215811",
+    "contact_button": "478215811",
+    "hint": "478215811"
+  },
+  "title": "Pokémon Chilling Reign Booster Pack – Galarian Articuno – Uåpnet",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "5183 Olsvik",
+  "lat": 60.380802132343106,
+  "lon": 5.219613096446098,
+  "postal_code": "5183",
+  "last_modified_raw": "8.10.2026 kl. 04:24",
+  "last_modified": "2026-10-08T04:24:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "ae370463-9a60-417b-acd2-a1fa2e07bc74"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger en uåpnet Pokémon Sword & Shield – Chilling Reign booster pack 💜\n\n \n\n🔥 Galarian Articuno artwork\n\n📦 Uåpnet og fabrikkforseglet\n\n🛡️ Oppbevares i protection sleeve for ekstra beskyttelse\n\n✨ Fin til samling eller forseglet Pokémon-investering/samling\n\n \n\nSendes forsvarlig pakket eller kan hentes etter avtale.\n\n \n\n \n\n \n\nSøkeord:\n\nPokémon, Pokemon, Chilling Reign, Sword & Shield, SWSH, SWSH06, booster, booster pack, boosterpakke, sleeved booster, sleeved pack, Galarian Moltres, Moltres, Pokémon TCG, Pokemon TCG, Pokémon kort, Pokemon kort, sealed, uåpnet, fabrikkforseglet, Nintendo, samler, samlerobjekt, Pokémon samling",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "469936822",
+      "heading": "Pokémon Chilling Reign boosterpakker",
+      "price_label": "140 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469936822"
+    },
+    {
+      "item_id": "431187292",
+      "heading": "Pokémon kort TCG: Sword & Shield—Chilling Reign 2021 pack.",
+      "price_label": "650 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/431187292"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "437946339",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437946339"
+    },
+    {
+      "item_id": "478083271",
+      "heading": "Pokémon 30th Celebration booster pakke, 180 kr stk",
+      "price_label": "180 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478083271"
+    },
+    {
+      "item_id": "437946709",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437946709"
+    },
+    {
+      "item_id": "437945715",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437945715"
+    },
+    {
+      "item_id": "452176370",
+      "heading": "NY PRIS! Ascended Heroes Booster Pakker",
+      "price_label": "219 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/452176370"
+    },
+    {
+      "item_id": "469930465",
+      "heading": "Pokemon TCG Sword & Shield Mewtwo V Promo",
+      "price_label": "120 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469930465"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ae370463-9a60-417b-acd2-a1fa2e07bc74",
+      "item_ref": "478215811",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215811/ae370463-9a60-417b-acd2-a1fa2e07bc74"
+    }
+  ],
+  "raw_capture": "478215811_pok-mon-chilling-reign-booster-pack-galarian-articuno-u-pnet/raw/478215811_2026-10-08-043126.html"
+}

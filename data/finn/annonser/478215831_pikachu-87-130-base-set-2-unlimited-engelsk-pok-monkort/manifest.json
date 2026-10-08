@@ -1,0 +1,224 @@
+{
+  "finn_kode": "478215831",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215831",
+  "slug": "478215831_pikachu-87-130-base-set-2-unlimited-engelsk-pok-monkort",
+  "first_seen": "2026-10-08T04:31:57Z",
+  "last_seen": "2026-10-08T04:31:57Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pikachu 87/130 – Base Set 2 Unlimited – engelsk Pokémonkort",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "5171 Loddefjord",
+    "postal_code": "5171",
+    "last_modified": "2026-10-08T04:36:00",
+    "gallery_count": 4,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:31:57Z",
+      "raw": "478215831_pikachu-87-130-base-set-2-unlimited-engelsk-pok-monkort/raw/478215831_2026-10-08-043157.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "06c80e7a-60f1-4acd-adcc-7201a212164d",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215831/06c80e7a-60f1-4acd-adcc-7201a212164d",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215831/06c80e7a-60f1-4acd-adcc-7201a212164d",
+      "bytes": 4289495,
+      "content_type": "image/jpeg",
+      "sha1": "d7786cfef909a04d3d661ab7d8b0c0368a2f67ff",
+      "file": "photos/02_06c80e7a-60f1-4acd-adcc-7201a212164d.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "27c4dd5b-3515-4f0d-8f28-87092365d7c9",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215831/27c4dd5b-3515-4f0d-8f28-87092365d7c9",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215831/27c4dd5b-3515-4f0d-8f28-87092365d7c9",
+      "bytes": 4302351,
+      "content_type": "image/jpeg",
+      "sha1": "0e4a6287a9c8fd6f9027935c9b222b425572b1d8",
+      "file": "photos/01_27c4dd5b-3515-4f0d-8f28-87092365d7c9.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "9ad1a226-ddee-4938-891a-20c8cc19e6c1",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215831/9ad1a226-ddee-4938-891a-20c8cc19e6c1",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215831/9ad1a226-ddee-4938-891a-20c8cc19e6c1",
+      "bytes": 4206889,
+      "content_type": "image/jpeg",
+      "sha1": "d2217e335e0c9c571c7e50ccee07957bfb31443b",
+      "file": "photos/03_9ad1a226-ddee-4938-891a-20c8cc19e6c1.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0",
+      "item_ref": "478215831",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215831/edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215831/edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0",
+      "bytes": 4158425,
+      "content_type": "image/jpeg",
+      "sha1": "a96076643901d6063b4181e184a39786e0d12213",
+      "file": "photos/04_edf29ab3-fd58-4ba6-84cb-a7d9ee43e4e0.jpg"
+    }
+  ],
+  "image_count_on_disk": 4,
+  "similar_ads": [
+    {
+      "item_id": "478215770",
+      "heading": "Pikachu 58/102 – Base Set Unlimited – engelsk Pokémonkort",
+      "price_label": "50 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215770"
+    },
+    {
+      "item_id": "478215813",
+      "heading": "Pikachu 60/64 – Jungle Unlimited – engelsk Pokémonkort",
+      "price_label": "150 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215813"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "478215795",
+      "heading": "Pikachu 58/102 – Base Set 1999–2000 (4th print) – engelsk Pokémonkort",
+      "price_label": "250 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478215795"
+    },
+    {
+      "item_id": "474395188",
+      "heading": "Pikachu 60/64 – Jungle – WotC 1999",
+      "price_label": "120 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474395188"
+    },
+    {
+      "item_id": "471401220",
+      "heading": "Pikachu 58/102 – Base Set",
+      "price_label": "90 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471401220"
+    },
+    {
+      "item_id": "477670811",
+      "heading": "Pikachu 58/102 – Base Set – WOTC – 1999",
+      "price_label": "75 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477670811"
+    },
+    {
+      "item_id": "474394721",
+      "heading": "Pikachu 60/64 – Jungle – WotC 1999",
+      "price_label": "130 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474394721"
+    },
+    {
+      "item_id": "474395315",
+      "heading": "Pikachu 58/102 – Base Set – WotC 1999",
+      "price_label": "95 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474395315"
+    }
+  ]
+}

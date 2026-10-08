@@ -1,0 +1,185 @@
+{
+  "finn_kode": "478215811",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215811",
+  "slug": "478215811_pok-mon-chilling-reign-booster-pack-galarian-articuno-u-pnet",
+  "first_seen": "2026-10-08T04:31:26Z",
+  "last_seen": "2026-10-08T04:31:26Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon Chilling Reign Booster Pack – Galarian Articuno – Uåpnet",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "5183 Olsvik",
+    "postal_code": "5183",
+    "last_modified": "2026-10-08T04:24:00",
+    "gallery_count": 1,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:31:26Z",
+      "raw": "478215811_pok-mon-chilling-reign-booster-pack-galarian-articuno-u-pnet/raw/478215811_2026-10-08-043126.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "ae370463-9a60-417b-acd2-a1fa2e07bc74",
+      "item_ref": "478215811",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215811/ae370463-9a60-417b-acd2-a1fa2e07bc74",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215811/ae370463-9a60-417b-acd2-a1fa2e07bc74",
+      "bytes": 4287502,
+      "content_type": "image/jpeg",
+      "sha1": "ee7c01b0adf1a0248a025c5ca5a61c0dc0173015",
+      "file": "photos/01_ae370463-9a60-417b-acd2-a1fa2e07bc74.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "469936822",
+      "heading": "Pokémon Chilling Reign boosterpakker",
+      "price_label": "140 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469936822"
+    },
+    {
+      "item_id": "431187292",
+      "heading": "Pokémon kort TCG: Sword & Shield—Chilling Reign 2021 pack.",
+      "price_label": "650 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/431187292"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "437946339",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437946339"
+    },
+    {
+      "item_id": "478083271",
+      "heading": "Pokémon 30th Celebration booster pakke, 180 kr stk",
+      "price_label": "180 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478083271"
+    },
+    {
+      "item_id": "437946709",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437946709"
+    },
+    {
+      "item_id": "437945715",
+      "heading": "Error miscut pack | Pokémon Sword & Shield booster pack",
+      "price_label": null,
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/437945715"
+    },
+    {
+      "item_id": "452176370",
+      "heading": "NY PRIS! Ascended Heroes Booster Pakker",
+      "price_label": "219 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/452176370"
+    },
+    {
+      "item_id": "469930465",
+      "heading": "Pokemon TCG Sword & Shield Mewtwo V Promo",
+      "price_label": "120 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469930465"
+    }
+  ]
+}
