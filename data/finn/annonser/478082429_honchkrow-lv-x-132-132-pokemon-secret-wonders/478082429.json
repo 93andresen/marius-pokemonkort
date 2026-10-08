@@ -1,0 +1,241 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:21:18Z",
+  "contact_button": {
+    "adId": "478082429",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478082429",
+  "kode_candidates": {
+    "canonical": "478082429",
+    "object_info": "478082429",
+    "maplink": "478082429",
+    "contact_button": "478082429",
+    "hint": "478082429"
+  },
+  "title": "Honchkrow LV.X 132/132 - Pokemon Secret Wonders",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:08",
+  "last_modified": "2026-10-08T00:08:00",
+  "gallery_count": 9,
+  "image_uuids": [
+    "ee714aec-af68-4754-b7b7-61917fc11a39",
+    "8e7a6fdd-1c73-4662-80c6-7817d03bc074",
+    "580ce4ce-f466-41ca-b4f6-6d08417f8ec4",
+    "7f22bf05-957f-4cc2-ab6e-bb3959e83974",
+    "19f6fd2d-201a-427f-a295-d60c82e8ad9a",
+    "8a968bda-5773-4abc-960a-e9e36d873759",
+    "f6df7aea-cc43-4041-8163-a2fefec84c1a",
+    "b6427742-6bac-4c75-95c9-2b6fe6178360",
+    "05aa70ee-59f8-4f86-a752-f22af9ad0e68"
+  ],
+  "image_count_from_html": 9,
+  "description_raw": "Honchkrow LV.X 132/132 fra Pokemon Diamond & Pearl Secret Wonders selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "473432269",
+      "heading": "Pokémon kort Honchkrow 110 HP",
+      "price_label": "399 kr",
+      "location": "Tiller",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473432269"
+    },
+    {
+      "item_id": "477673463",
+      "heading": "Pokémon kort Honchkrow LV.X holografisk",
+      "price_label": "499 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477673463"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "464883699",
+      "heading": "Pokemon kort Haxorus, Crobat, Arboliva og Decidueye",
+      "price_label": "300 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464883699"
+    },
+    {
+      "item_id": "478087250",
+      "heading": "Honchkrow GX",
+      "price_label": "99 kr",
+      "location": "Tønsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478087250"
+    },
+    {
+      "item_id": "477620760",
+      "heading": "Pidgeot 14/110 Holo - Holon Phantoms",
+      "price_label": "250 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477620760"
+    },
+    {
+      "item_id": "477822105",
+      "heading": "Pokemon tcg houndour #35 og houndoom #34 pokemon team magma & team aqua set",
+      "price_label": "200 kr",
+      "location": "Flatåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477822105"
+    },
+    {
+      "item_id": "464594701",
+      "heading": "Pokemon kort – Unown samling (6 kort)",
+      "price_label": "300 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464594701"
+    },
+    {
+      "item_id": "476578318",
+      "heading": "Honchkrow - PALen 132/193 - Pokemon Kort",
+      "price_label": "40 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476578318"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ee714aec-af68-4754-b7b7-61917fc11a39",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478082429/ee714aec-af68-4754-b7b7-61917fc11a39"
+    },
+    {
+      "uuid": "8e7a6fdd-1c73-4662-80c6-7817d03bc074",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478082429/8e7a6fdd-1c73-4662-80c6-7817d03bc074"
+    },
+    {
+      "uuid": "580ce4ce-f466-41ca-b4f6-6d08417f8ec4",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/580ce4ce-f466-41ca-b4f6-6d08417f8ec4"
+    },
+    {
+      "uuid": "7f22bf05-957f-4cc2-ab6e-bb3959e83974",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/7f22bf05-957f-4cc2-ab6e-bb3959e83974"
+    },
+    {
+      "uuid": "19f6fd2d-201a-427f-a295-d60c82e8ad9a",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/19f6fd2d-201a-427f-a295-d60c82e8ad9a"
+    },
+    {
+      "uuid": "8a968bda-5773-4abc-960a-e9e36d873759",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/8a968bda-5773-4abc-960a-e9e36d873759"
+    },
+    {
+      "uuid": "f6df7aea-cc43-4041-8163-a2fefec84c1a",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/f6df7aea-cc43-4041-8163-a2fefec84c1a"
+    },
+    {
+      "uuid": "b6427742-6bac-4c75-95c9-2b6fe6178360",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/b6427742-6bac-4c75-95c9-2b6fe6178360"
+    },
+    {
+      "uuid": "05aa70ee-59f8-4f86-a752-f22af9ad0e68",
+      "item_ref": "478082429",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478082429/05aa70ee-59f8-4f86-a752-f22af9ad0e68"
+    }
+  ],
+  "raw_capture": "478082429_honchkrow-lv-x-132-132-pokemon-secret-wonders/raw/478082429_2026-10-08-042118.html"
+}

@@ -1,0 +1,237 @@
+{
+  "finn_kode": "478080699",
+  "url": "https://www.finn.no/recommerce/forsale/item/478080699",
+  "slug": "478080699_gengar-holo-5-92-pokemon-ex-legend-maker",
+  "first_seen": "2026-10-08T04:20:41Z",
+  "last_seen": "2026-10-08T04:20:41Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Gengar holo 5/92 - Pokemon EX Legend Maker",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:14:00",
+    "gallery_count": 6,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:20:41Z",
+      "raw": "478080699_gengar-holo-5-92-pokemon-ex-legend-maker/raw/478080699_2026-10-08-042041.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 3,
+      "uuid": "10b70136-78b2-4ed5-a27f-1271e7aa5bbb",
+      "item_ref": "478080699",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478080699/10b70136-78b2-4ed5-a27f-1271e7aa5bbb",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478080699/10b70136-78b2-4ed5-a27f-1271e7aa5bbb",
+      "bytes": 3617458,
+      "content_type": "image/jpeg",
+      "sha1": "0615e535f7994e68f345895a8ffbef3bd5ac8ce5",
+      "file": "photos/03_10b70136-78b2-4ed5-a27f-1271e7aa5bbb.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "7be6900c-1b2d-440f-8e9a-8d52d9584a3f",
+      "item_ref": "478080699",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478080699/7be6900c-1b2d-440f-8e9a-8d52d9584a3f",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478080699/7be6900c-1b2d-440f-8e9a-8d52d9584a3f",
+      "bytes": 3780452,
+      "content_type": "image/jpeg",
+      "sha1": "c01c86de9bb051df07c943353d53cc4fb261bac8",
+      "file": "photos/01_7be6900c-1b2d-440f-8e9a-8d52d9584a3f.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "97c4722d-b95f-421d-8d83-be6a19d038e0",
+      "item_ref": "478080699",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478080699/97c4722d-b95f-421d-8d83-be6a19d038e0",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478080699/97c4722d-b95f-421d-8d83-be6a19d038e0",
+      "bytes": 3087562,
+      "content_type": "image/jpeg",
+      "sha1": "0f77d2a5e06ae11ab36518cc4dd2d066a1460942",
+      "file": "photos/05_97c4722d-b95f-421d-8d83-be6a19d038e0.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "ac77eadf-d35e-4fe9-b1a8-da139dcbbcbf",
+      "item_ref": "478080699",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478080699/ac77eadf-d35e-4fe9-b1a8-da139dcbbcbf",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478080699/ac77eadf-d35e-4fe9-b1a8-da139dcbbcbf",
+      "bytes": 4405399,
+      "content_type": "image/jpeg",
+      "sha1": "a0b444914beae025b05f4cd6bbe00e9409eccee1",
+      "file": "photos/04_ac77eadf-d35e-4fe9-b1a8-da139dcbbcbf.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "f6ef478b-c929-41f0-ba8e-a692a8b7620a",
+      "item_ref": "478080699",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478080699/f6ef478b-c929-41f0-ba8e-a692a8b7620a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478080699/f6ef478b-c929-41f0-ba8e-a692a8b7620a",
+      "bytes": 4446839,
+      "content_type": "image/jpeg",
+      "sha1": "71999e5a90fa5b391f4fa5b61cadd16bc0f130e0",
+      "file": "photos/02_f6ef478b-c929-41f0-ba8e-a692a8b7620a.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "477065274",
+      "heading": "Pokemon Gengar kort EX legend maker 5/92",
+      "price_label": "900 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477065274"
+    },
+    {
+      "item_id": "477706385",
+      "heading": "Pokemon Gengar Legend Maker Holo Vintage",
+      "price_label": "1 500 kr",
+      "location": "Mesnali",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477706385"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "473294509",
+      "heading": "Pokémon Gengar EX samlekort holo",
+      "price_label": "850 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473294509"
+    },
+    {
+      "item_id": "464429501",
+      "heading": "M Gengar EX 121/119",
+      "price_label": "699 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464429501"
+    },
+    {
+      "item_id": "475919261",
+      "heading": "Gengar 5/92 Legend Maker stamp",
+      "price_label": "1 400 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475919261"
+    },
+    {
+      "item_id": "477866479",
+      "heading": "Gengar 5/92 Holo 2006 – Tysk - Pokemon",
+      "price_label": "650 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477866479"
+    },
+    {
+      "item_id": "475834959",
+      "heading": "Gengar legend maker",
+      "price_label": "2 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475834959"
+    },
+    {
+      "item_id": "445029925",
+      "heading": "Pokémon Flygon ex holo (EX Legend maker) Ultra rare 87/92, TCG 2006 kort",
+      "price_label": "700 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/445029925"
+    }
+  ]
+}

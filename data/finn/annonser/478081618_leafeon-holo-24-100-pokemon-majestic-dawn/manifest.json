@@ -1,0 +1,224 @@
+{
+  "finn_kode": "478081618",
+  "url": "https://www.finn.no/recommerce/forsale/item/478081618",
+  "slug": "478081618_leafeon-holo-24-100-pokemon-majestic-dawn",
+  "first_seen": "2026-10-08T04:20:59Z",
+  "last_seen": "2026-10-08T04:20:59Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Leafeon holo 24/100 - Pokemon Majestic Dawn",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:12:00",
+    "gallery_count": 4,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:20:59Z",
+      "raw": "478081618_leafeon-holo-24-100-pokemon-majestic-dawn/raw/478081618_2026-10-08-042059.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "3de607c5-2c32-4f91-9b43-642c23133f00",
+      "item_ref": "478081618",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478081618/3de607c5-2c32-4f91-9b43-642c23133f00",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478081618/3de607c5-2c32-4f91-9b43-642c23133f00",
+      "bytes": 3939344,
+      "content_type": "image/jpeg",
+      "sha1": "9b29f3bd89f3672d813772d93ac75e5900981fc3",
+      "file": "photos/01_3de607c5-2c32-4f91-9b43-642c23133f00.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "52c05fbd-0807-48b2-a045-7484786e05e6",
+      "item_ref": "478081618",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478081618/52c05fbd-0807-48b2-a045-7484786e05e6",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478081618/52c05fbd-0807-48b2-a045-7484786e05e6",
+      "bytes": 3840368,
+      "content_type": "image/jpeg",
+      "sha1": "8320ebc6358fa5200bdb73ba935a99d534cc2e3c",
+      "file": "photos/04_52c05fbd-0807-48b2-a045-7484786e05e6.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "c18a39b7-0f1b-40d9-be2b-6c699072b82e",
+      "item_ref": "478081618",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478081618/c18a39b7-0f1b-40d9-be2b-6c699072b82e",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478081618/c18a39b7-0f1b-40d9-be2b-6c699072b82e",
+      "bytes": 4177330,
+      "content_type": "image/jpeg",
+      "sha1": "8a3f3af928e6e0a91dd2b79d7fac7eff5b1a98e7",
+      "file": "photos/02_c18a39b7-0f1b-40d9-be2b-6c699072b82e.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "d82daf17-7058-4068-a005-99fc50e49304",
+      "item_ref": "478081618",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478081618/d82daf17-7058-4068-a005-99fc50e49304",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478081618/d82daf17-7058-4068-a005-99fc50e49304",
+      "bytes": 3892655,
+      "content_type": "image/jpeg",
+      "sha1": "3d7feb2cfbbe1bc1b4c3e25d685ced40be6e37a5",
+      "file": "photos/03_d82daf17-7058-4068-a005-99fc50e49304.jpg"
+    }
+  ],
+  "image_count_on_disk": 4,
+  "similar_ads": [
+    {
+      "item_id": "473728122",
+      "heading": "Leafeon Reverse Holo",
+      "price_label": "40 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473728122"
+    },
+    {
+      "item_id": "476473314",
+      "heading": "Leafeon [Reverse Holo] #24 Pokemon Majestic Dawn",
+      "price_label": "100 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476473314"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477080674",
+      "heading": "Leafeon 7/100 Holo - Majestic Dawn",
+      "price_label": "550 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477080674"
+    },
+    {
+      "item_id": "478150865",
+      "heading": "Mightyena reverse holo 66/146 - Pokemon Legends Awakened",
+      "price_label": "150 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478150865"
+    },
+    {
+      "item_id": "471020335",
+      "heading": "Pokémon kort Leafeon Spiral Drain / Leaf Blade #24/100",
+      "price_label": "120 kr",
+      "location": "Svelvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471020335"
+    },
+    {
+      "item_id": "474503567",
+      "heading": "Pokémon kort Leafeon Lv.40 holo",
+      "price_label": "75 kr",
+      "location": "Hareid",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474503567"
+    },
+    {
+      "item_id": "478068764",
+      "heading": "Leafeon Promo (Fri frakt)",
+      "price_label": "59 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478068764"
+    },
+    {
+      "item_id": "477428762",
+      "heading": "Pokémon Leafeon holografisk kort",
+      "price_label": "25 kr",
+      "location": "Årdalstangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477428762"
+    }
+  ]
+}
