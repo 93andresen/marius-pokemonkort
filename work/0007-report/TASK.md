@@ -1,6 +1,6 @@
 # TASK 0007 — Program coverage report
 
-- **Status:** in-progress
+- **Status:** done
 - **Owner:** Zoo (code mode)
 - **Output artifact(s):** `finn/finn_report.py`, `tests/test_finn_report.py`
 - **Depends on:** 0002–0006 artifacts (`data/finn/registry`, `searches/`, `matches/`, `annonser/`), `finnlib`,
