@@ -1,0 +1,198 @@
+{
+  "finn_kode": "477804019",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804019",
+  "slug": "477804019_lycanroc-138-128",
+  "first_seen": "2026-10-08T04:13:40Z",
+  "last_seen": "2026-10-08T04:13:40Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Lycanroc 138/128",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "1617 Fredrikstad",
+    "postal_code": "1617",
+    "last_modified": "2026-10-05T12:17:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:13:40Z",
+      "raw": "477804019_lycanroc-138-128/raw/477804019_2026-10-08-041340.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "6ea943f7-0fbf-4fdd-b553-915562e2edb2",
+      "item_ref": "477804019",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804019/6ea943f7-0fbf-4fdd-b553-915562e2edb2",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804019/6ea943f7-0fbf-4fdd-b553-915562e2edb2",
+      "bytes": 6409638,
+      "content_type": "image/jpeg",
+      "sha1": "ee9b52b02ae4305317c199dd880e84b4a0df7209",
+      "file": "photos/02_6ea943f7-0fbf-4fdd-b553-915562e2edb2.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "ad95d529-61ac-4007-a2ea-96aa9f942b5e",
+      "item_ref": "477804019",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804019/ad95d529-61ac-4007-a2ea-96aa9f942b5e",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804019/ad95d529-61ac-4007-a2ea-96aa9f942b5e",
+      "bytes": 6188520,
+      "content_type": "image/jpeg",
+      "sha1": "28cae271d9febc46e0e9fd6513ed4b7c988cafb7",
+      "file": "photos/01_ad95d529-61ac-4007-a2ea-96aa9f942b5e.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477666107",
+      "heading": "Lycanroc 085/128, 30th Celebration🟠",
+      "price_label": "10 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477666107"
+    },
+    {
+      "item_id": "477028836",
+      "heading": "Lycanroc 138/128 - 30th Celebration",
+      "price_label": "105 kr",
+      "location": "Ski",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477028836"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477582052",
+      "heading": "Lycanroc",
+      "price_label": "10 kr",
+      "location": "Spydeberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477582052"
+    },
+    {
+      "item_id": "477891863",
+      "heading": "Lycanroc 30th Celebrations 138/128",
+      "price_label": "155 kr",
+      "location": "Sørumsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477891863"
+    },
+    {
+      "item_id": "477143307",
+      "heading": "Lycanroc #138",
+      "price_label": "100 kr",
+      "location": "Skogsvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477143307"
+    },
+    {
+      "item_id": "477419841",
+      "heading": "Lycanroc",
+      "price_label": "100 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477419841"
+    },
+    {
+      "item_id": "477053298",
+      "heading": "Pokémon Lycanroc 138 30th Celebration",
+      "price_label": "75 kr",
+      "location": "Hamar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477053298"
+    },
+    {
+      "item_id": "477033465",
+      "heading": "Lycanroc #138",
+      "price_label": "80 kr",
+      "location": "Brønnøysund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477033465"
+    }
+  ]
+}

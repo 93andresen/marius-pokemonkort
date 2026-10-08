@@ -1,0 +1,237 @@
+{
+  "finn_kode": "477804022",
+  "url": "https://www.finn.no/recommerce/forsale/item/477804022",
+  "slug": "477804022_pokemon-kort-samling-ex-gx-v-holo",
+  "first_seen": "2026-10-08T04:13:51Z",
+  "last_seen": "2026-10-08T04:13:51Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon kort samling EX GX V holo",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "5258 Blomsterdalen",
+    "postal_code": "5258",
+    "last_modified": "2026-10-02T18:00:00",
+    "gallery_count": 5,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:13:51Z",
+      "raw": "477804022_pokemon-kort-samling-ex-gx-v-holo/raw/477804022_2026-10-08-041351.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "13534d24-dcb5-4976-9562-842f6cbe5b31",
+      "item_ref": "477804022",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804022/13534d24-dcb5-4976-9562-842f6cbe5b31",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804022/13534d24-dcb5-4976-9562-842f6cbe5b31",
+      "bytes": 1423696,
+      "content_type": "image/jpeg",
+      "sha1": "d466e5797c627bb67536df319c98e573626747a8",
+      "file": "photos/01_13534d24-dcb5-4976-9562-842f6cbe5b31.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "bb05d6a3-29cf-4f47-86c7-1a992e753f80",
+      "item_ref": "477804022",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804022/bb05d6a3-29cf-4f47-86c7-1a992e753f80",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804022/bb05d6a3-29cf-4f47-86c7-1a992e753f80",
+      "bytes": 1389904,
+      "content_type": "image/jpeg",
+      "sha1": "3837d6308ddcd43c494011cff96653c75507acb0",
+      "file": "photos/03_bb05d6a3-29cf-4f47-86c7-1a992e753f80.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "de5faf48-ef6c-4124-84dd-64428fd9d924",
+      "item_ref": "477804022",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804022/de5faf48-ef6c-4124-84dd-64428fd9d924",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804022/de5faf48-ef6c-4124-84dd-64428fd9d924",
+      "bytes": 1298168,
+      "content_type": "image/jpeg",
+      "sha1": "26f7405af903b4fc32ecbbeec03e7bf187f07df3",
+      "file": "photos/04_de5faf48-ef6c-4124-84dd-64428fd9d924.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "e317976d-5e78-4410-b714-d646fb498be8",
+      "item_ref": "477804022",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477804022/e317976d-5e78-4410-b714-d646fb498be8",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804022/e317976d-5e78-4410-b714-d646fb498be8",
+      "bytes": 955573,
+      "content_type": "image/jpeg",
+      "sha1": "5b0a920de93454d5c1a3f9d540e51fe13b923d60",
+      "file": "photos/05_e317976d-5e78-4410-b714-d646fb498be8.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "eab7a540-cfe6-40ec-9294-066557860c05",
+      "item_ref": "477804022",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804022/eab7a540-cfe6-40ec-9294-066557860c05",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477804022/eab7a540-cfe6-40ec-9294-066557860c05",
+      "bytes": 1369107,
+      "content_type": "image/jpeg",
+      "sha1": "e8b8f280ec85fd32fd29575f2e60ce833ce315e5",
+      "file": "photos/02_eab7a540-cfe6-40ec-9294-066557860c05.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "469310538",
+      "heading": "Pokemon samling selges",
+      "price_label": "1 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469310538"
+    },
+    {
+      "item_id": "476773878",
+      "heading": "Pokemon kort: gx, ir, full art, trainers, ex osv",
+      "price_label": "1 kr",
+      "location": "Fyllingsdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476773878"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "469999166",
+      "heading": "Pokemon kort samling selges BILLIG",
+      "price_label": "299 kr",
+      "location": "Laksevåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469999166"
+    },
+    {
+      "item_id": "478210533",
+      "heading": "Pokemon kort samling GX / EX / holo",
+      "price_label": "700 kr",
+      "location": "Vossestrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478210533"
+    },
+    {
+      "item_id": "463267761",
+      "heading": "Pokemon kort",
+      "price_label": "1 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463267761"
+    },
+    {
+      "item_id": "473036309",
+      "heading": "Pokémon kort EX / GX samlekort",
+      "price_label": "600 kr",
+      "location": "Alversund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473036309"
+    },
+    {
+      "item_id": "459452257",
+      "heading": "Pokémonkort – 40+ shiny/holo + masse ekstra kort😊",
+      "price_label": "289 kr",
+      "location": "Breistein",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/459452257"
+    },
+    {
+      "item_id": "478140840",
+      "heading": "Pokemon kort samling  Vintage og nytt",
+      "price_label": "900 kr",
+      "location": "Kaupanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478140840"
+    }
+  ]
+}

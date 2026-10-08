@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:13:40Z",
+  "contact_button": {
+    "adId": "477804019",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477804019",
+  "kode_candidates": {
+    "canonical": "477804019",
+    "object_info": "477804019",
+    "maplink": "477804019",
+    "contact_button": "477804019",
+    "hint": "477804019"
+  },
+  "title": "Lycanroc 138/128",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "1617 Fredrikstad",
+  "lat": 59.23462650222362,
+  "lon": 10.970285853931053,
+  "postal_code": "1617",
+  "last_modified_raw": "5.10.2026 kl. 12:17",
+  "last_modified": "2026-10-05T12:17:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "ad95d529-61ac-4007-a2ea-96aa9f942b5e",
+    "6ea943f7-0fbf-4fdd-b553-915562e2edb2"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Lycanroc 138/128\n\n30th celebration \n\n \n\nTilstand: NM\n\n \n\nBetaling: \n\nVipps eller fiks ferdig\n\nTa kontakt om du ønsker å kjøpe flere kort, se min profil.\n\n \n\nFrakt:\n\nKjøper betaler frakt\n\nKan hentes i Fredrikstad\n\n \n\n# pokemon tcg pokemonkort anniversary",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477666107",
+      "heading": "Lycanroc 085/128, 30th Celebration🟠",
+      "price_label": "10 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477666107"
+    },
+    {
+      "item_id": "477028836",
+      "heading": "Lycanroc 138/128 - 30th Celebration",
+      "price_label": "105 kr",
+      "location": "Ski",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477028836"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477582052",
+      "heading": "Lycanroc",
+      "price_label": "10 kr",
+      "location": "Spydeberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477582052"
+    },
+    {
+      "item_id": "477891863",
+      "heading": "Lycanroc 30th Celebrations 138/128",
+      "price_label": "155 kr",
+      "location": "Sørumsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477891863"
+    },
+    {
+      "item_id": "477143307",
+      "heading": "Lycanroc #138",
+      "price_label": "100 kr",
+      "location": "Skogsvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477143307"
+    },
+    {
+      "item_id": "477419841",
+      "heading": "Lycanroc",
+      "price_label": "100 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477419841"
+    },
+    {
+      "item_id": "477053298",
+      "heading": "Pokémon Lycanroc 138 30th Celebration",
+      "price_label": "75 kr",
+      "location": "Hamar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477053298"
+    },
+    {
+      "item_id": "477033465",
+      "heading": "Lycanroc #138",
+      "price_label": "80 kr",
+      "location": "Brønnøysund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477033465"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ad95d529-61ac-4007-a2ea-96aa9f942b5e",
+      "item_ref": "477804019",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477804019/ad95d529-61ac-4007-a2ea-96aa9f942b5e"
+    },
+    {
+      "uuid": "6ea943f7-0fbf-4fdd-b553-915562e2edb2",
+      "item_ref": "477804019",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477804019/6ea943f7-0fbf-4fdd-b553-915562e2edb2"
+    }
+  ],
+  "raw_capture": "477804019_lycanroc-138-128/raw/477804019_2026-10-08-041340.html"
+}
