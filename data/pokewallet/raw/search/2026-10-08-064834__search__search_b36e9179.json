@@ -1,0 +1,60 @@
+{
+  "query": "Kingdra Base Set",
+  "results": [
+    {
+      "id": "pk_79acbe3761d5924d3559bc5d61d14d58ed664961d9109efd4031dfd7a657cd2e44e67b8e6c1c1b1df9",
+      "card_info": {
+        "name": "Kingdra EX Box",
+        "clean_name": "Kingdra EX Box",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199.99,
+            "mid_price": 200,
+            "high_price": 200,
+            "updated_at": "2026-09-21T10:18:50.719267",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131867"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

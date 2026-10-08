@@ -1,0 +1,1497 @@
+{
+  "query": "Cloyster",
+  "results": [
+    {
+      "id": "pk_60ce2d788b9e1b859982c47a91390903af3bea7035319ebe40c08808e363d5623d2855861af270ee1240c7022a",
+      "card_info": {
+        "name": "Cloyster (Delta Species)",
+        "clean_name": "Cloyster Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "14/101",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "Solid Shell - Prevent all effects of attacks, including damage, done by your opponent's Pokemon to each of your Benched Pokemon that has Delta Species on its card.  (Poke-BODY)",
+        "attacks": [
+          "[F] Grind (10+) Does 10 damage plus 10 more damage for each Energy attached to Cloyster."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.62,
+            "mid_price": 1.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 1.43,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 19.26,
+            "mid_price": 27.5,
+            "high_price": 279.22,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 31.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84376"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster δ Delta Species",
+        "prices": [
+          {
+            "avg": 2.06,
+            "low": 0.1,
+            "avg1": 0.7,
+            "avg7": 2.62,
+            "avg30": 1.69,
+            "trend": 2.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.25,
+            "low": 4.9,
+            "avg1": 5,
+            "avg7": 8.04,
+            "avg30": 10.02,
+            "trend": 8.53,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Cloyster-Delta-Species-DF14"
+      }
+    },
+    {
+      "id": "pk_5bbe8fd491dc5150890160c20db148b5e68437059ead6019ed959d869604dfbf780c348dac909be49693f771",
+      "card_info": {
+        "name": "Cloyster (8)",
+        "clean_name": "Cloyster 8",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "008/165",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lick (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2W] Auto Fire (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "M",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 100,
+            "mid_price": 839.99,
+            "high_price": 845.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 93.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 75.85,
+            "mid_price": 99.9,
+            "high_price": 1518.02,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 75.84,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84370"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 109.49,
+            "low": 6,
+            "avg1": 267.48,
+            "avg7": 63.71,
+            "avg30": 46.83,
+            "trend": 47.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 24.16,
+            "low": 6,
+            "avg1": 5,
+            "avg7": 27,
+            "avg30": 19.08,
+            "trend": 23.4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Cloyster-EX8"
+      }
+    },
+    {
+      "id": "pk_6e331b6d3851198afe05f9de4513464da23f80fdc7f5c6f9ee1d32096ea27c9ea5645457efbddb690161d2480f",
+      "card_info": {
+        "name": "Cloyster (42)",
+        "clean_name": "Cloyster 42",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "042/165",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lick (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2W] Auto Fire (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "M",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 26.48,
+            "high_price": 209.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 19.02,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 30.79,
+            "mid_price": 150,
+            "high_price": 362.88,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 40.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84372"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 6.41,
+            "low": 1,
+            "avg1": 4.98,
+            "avg7": 6.5,
+            "avg30": 5.1,
+            "trend": 6.67,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 1.99,
+            "avg1": 2,
+            "avg7": 5.14,
+            "avg30": 5.92,
+            "trend": 5.55,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Cloyster-EX42"
+      }
+    },
+    {
+      "id": "pk_c251820d4842654392c90cc7a7af45743100cb28366faebf4407e5b00a8a48e6f54c3c9818696a0af89f1b98c8",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "20/112",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-BODY</b> Exoskeleton\r<br>\n<br>Any damage done to Cloyster by attacks is reduced by 10 <em>(after applying Weakness and Resistance). </em>",
+        "attacks": [
+          "[2] Double Bubble (10x) \r\n<br>Flip 2 coins.  This attack does 10 damage times the number of heads.  If either of the coins is heads, the Defending Pokemon is now Paralyzed.",
+          "[2W] Shell Attack (50)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.25,
+            "mid_price": 2.82,
+            "high_price": 29.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.84,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 29.89,
+            "mid_price": 35.5,
+            "high_price": 322.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 37.48,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84373"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 3.04,
+            "low": 0.1,
+            "avg1": 9.89,
+            "avg7": 2.98,
+            "avg30": 2.43,
+            "trend": 2.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 23.75,
+            "low": 1.7,
+            "avg1": 34.99,
+            "avg7": 23.14,
+            "avg30": 17.12,
+            "trend": 20.69,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Cloyster-FL20"
+      }
+    },
+    {
+      "id": "pk_d896b27561df81efb682e346c63af25368c0e22a2234480bdfeb6d4daa8d52692bc8e33c7bd9fe9ad4ccbc",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "32/62",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WW] Clamp (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing <em>(not even damage)</em>.",
+          "[WW] Spike Cannon (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.88,
+            "mid_price": 4.81,
+            "high_price": 67.68,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.76,
+            "direct_low_price": 4,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.8,
+            "high_price": 18,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.3,
+            "direct_low_price": 2.64,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44434"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.98,
+            "low": 0.02,
+            "avg1": 1.63,
+            "avg7": 2.5,
+            "avg30": 1.91,
+            "trend": 2.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Cloyster-FO32"
+      }
+    },
+    {
+      "id": "pk_b684eff880a843d4d0996e9da968db3864dc2ed72f6ce932d49599091da327940ac47f26a22e74dadbd5a3dbd7",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "20/83",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1W] Clamp Crush (30)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and discard an Energy attached to that Pokémon.",
+          "[1WW] Spike Cannon (30x)\r\n<br>Flip 5 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.31,
+            "high_price": 14.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.33,
+            "direct_low_price": 0.31,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 0.63,
+            "high_price": 29.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.62,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113678"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.8,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1.15,
+            "avg30": 1.1,
+            "trend": 0.99,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.24,
+            "avg30": 0.29,
+            "trend": 0.31,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Cloyster-GEN20"
+      }
+    },
+    {
+      "id": "pk_0b0c2f86afaab20db52f74a774b0978aea75a15d1e593db3d7a76f8865a94d48ab84a1e5c451954b0fd949860e",
+      "card_info": {
+        "name": "Misty's Cloyster",
+        "clean_name": "Mistys Cloyster",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "029/132",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Shell Armor</strong> You may reduce all damage done by attacks to Misty's Cloyster by 10 <em>(after applying Weakness and Resistance)</em>. <em>(Any other effects of attacks still happen.)</em> This power can't be used if Misty's Cloyster is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[1WW] Triple Cannon (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.15,
+            "mid_price": 30.99,
+            "high_price": 337.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 26.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 11.63,
+            "mid_price": 16.72,
+            "high_price": 182.41,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.7,
+            "direct_low_price": 16.74,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87525"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Cloyster",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.25,
+            "avg7": 1.25,
+            "avg30": 1.25,
+            "trend": 1.25,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 13.65,
+            "low": 4.5,
+            "avg1": 3.95,
+            "avg7": 17.13,
+            "avg30": 13.18,
+            "trend": 16.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Cloyster-GH29"
+      }
+    },
+    {
+      "id": "pk_db050340556df8030a57e85c019184374fc13ca31ea79dfe172f85afe5b5c80aca55d98bb241ca4e9f0e80850cde",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "34/149",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1W] Headlock (30+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage. If tails, your opponent's Active Pokemon is now Paralyzed.",
+          "[1WW] Guard Press (80)\r\n<br>During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 <i>(after applying Weakness and Resistance)</i>."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.22,
+            "high_price": 18.88,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.11,
+            "direct_low_price": 0.08,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.09,
+            "mid_price": 0.35,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126905"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.36,
+            "low": 0.04,
+            "avg1": 1.25,
+            "avg7": 0.53,
+            "avg30": 0.43,
+            "trend": 0.46,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.18,
+            "avg30": 0.2,
+            "trend": 0.19,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Cloyster-SUM34"
+      }
+    },
+    {
+      "id": "pk_249ba0303776bcaf0271b1ccccc3386521c90b0370c24e8d6767b7568e02dffce3a8fe37f0abbfe239f9f307773302",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "091/165",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WW] Protect Charge (80)\r\n<br>During your opponent's next turn, this Pokémon takes 80 less damage from attacks (after applying Weakness and Resistance)."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.3,
+            "high_price": 6.29,
+            "updated_at": "2026-10-07T11:54:46.788193",
+            "market_price": 0.26,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:46.788193",
+            "market_price": 0.2,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516660"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.27,
+            "avg7": 0.23,
+            "avg30": 0.23,
+            "trend": 0.24,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Cloyster-MEW091"
+      }
+    },
+    {
+      "id": "pk_2b47212b466b9b427482239996e04d074ffd9c7e789187a7d2a142f363d525b239af191a8b77fa18c16a4b92d73a",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "041/202",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Shell Grab (30)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[2W] Tidal Wave (100)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.34,
+            "mid_price": 0.5,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208340"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.41,
+            "low": 0.04,
+            "avg1": 0.47,
+            "avg7": 0.51,
+            "avg30": 0.34,
+            "trend": 0.53,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.89,
+            "low": 0.35,
+            "avg1": 0.98,
+            "avg7": 0.87,
+            "avg30": 0.95,
+            "trend": 0.93,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cloyster-SSH41"
+      }
+    },
+    {
+      "id": "pk_1e30cfa3952101c4332ac2abd335a97ad2023c32a64123cdc4b58cfd9937f0d19ac718a38496ffd27cc310361a6c",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "SWSH08: Fusion Strike",
+        "set_code": "SWSH08",
+        "set_id": "2906",
+        "card_number": "051/264",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Shell Armor</strong>\r\n<br>This Pokemon takes 30 less damage from attacks <em>(After applying Weakness and Resistance.)</em>",
+        "attacks": [
+          "[1W] Aqua Split (60)\r\n<br>This attack also does 30 damage to 2 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.946559",
+            "market_price": 0.35,
+            "direct_low_price": 0.31,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 2.99,
+            "updated_at": "2026-10-07T11:54:47.946559",
+            "market_price": 0.23,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/253182"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.33,
+            "low": 0.1,
+            "avg1": 0.18,
+            "avg7": 0.48,
+            "avg30": 0.35,
+            "trend": 0.41,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.26,
+            "avg7": 0.27,
+            "avg30": 0.19,
+            "trend": 0.27,
+            "updated_at": "2026-10-07T10:58:59.129007",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cloyster"
+      }
+    },
+    {
+      "id": "pk_cce4e8d6d5891f424e75a2318edf4cdf33ac9733584be794b50643ec7062fd3f8d28e8f26cbd892764faefd765",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "Secret Wonders",
+        "set_code": "SW",
+        "set_id": "1380",
+        "card_number": "47/132",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[0] Withdraw\r\n<br>\r\nFlip a coin. If heads, prevent all damage done to Cloyster by attacks during your opponent's next turn.",
+          "[1W] Spine Missile\r\n<br>\r\nFlip 4 coins. For each heads, choose an opponent's Pokémon in play and this attack does 20 damage to those Pokémon. (You may choose the same Pokémon more than once.) <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.23,
+            "mid_price": 0.52,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 0.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.49,
+            "mid_price": 5.15,
+            "high_price": 28.92,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 11.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84374"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster Lv.40",
+        "prices": [
+          {
+            "avg": 0.41,
+            "low": 0.05,
+            "avg1": 0.2,
+            "avg7": 0.52,
+            "avg30": 0.39,
+            "trend": 0.45,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1,
+            "low": 0.2,
+            "avg1": 1,
+            "avg7": 1.05,
+            "avg30": 1.2,
+            "trend": 1.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Secret-Wonders/Cloyster-Lv40-SW47"
+      }
+    },
+    {
+      "id": "pk_0d32db278d700ab5329c9e0d821584a8b375fb496cb34548621264906439fe08dde97208c6229b5aa7709d52996b",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "XY - BREAKpoint",
+        "set_code": "BKP",
+        "set_id": "1701",
+        "card_number": "24/122",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Sudden Grip (10)\r\n<br>If this Pokemon evolved from Shellder during this turn, your opponent's Active Pokemon is now Paralyzed.",
+          "[2W] Surf (70)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.27,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:49.973032",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.39,
+            "mid_price": 1.22,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:49.973032",
+            "market_price": 2.01,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/111527"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.15,
+            "avg30": 0.16,
+            "trend": 0.09,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.57,
+            "low": 0.2,
+            "avg1": 1,
+            "avg7": 0.58,
+            "avg30": 0.64,
+            "trend": 0.54,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Cloyster-BKP24"
+      }
+    },
+    {
+      "id": "pk_75f2e4a4214b959401dd0747bba639fa6a402bad77b10e99881680a914a4052f3e85d00a427bba42031db53bdd",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "32/146",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1W] Clamp Crush (30) Flip a coin.  If heads, your opponent's Active Pokemon is now Paralyzed and discard and Energy attached to that Pokemon.",
+          "[1WW] Spike Cannon (30x) Flip 5 coins.  This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.49,
+            "high_price": 19.99,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.45,
+            "mid_price": 0.95,
+            "high_price": 39.99,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 1.02,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84375"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 0.53,
+            "low": 0.1,
+            "avg1": 0.4,
+            "avg7": 0.62,
+            "avg30": 0.66,
+            "trend": 0.56,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.92,
+            "low": 0.3,
+            "avg1": 1,
+            "avg7": 1.28,
+            "avg30": 1.6,
+            "trend": 1.63,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Cloyster-XY32"
+      }
+    },
+    {
+      "id": "pk_212e91f24c2229fe2cd3a6d2be514b7767435ddcc5bef2daba283335e9bd4880769471557fdc102fa2ea984f50f8bd",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "BREAK Starter Pack",
+        "set_code": "20th",
+        "set_id": "23963",
+        "card_number": "076/072",
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Clamp Crush (30)<br> Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and discard an Energy attached to that Pokémon.",
+          "[Water][Water][Colorless] Spike Cannon (30x)<br> Flip 5 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/605202"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 7.99,
+            "low": 15,
+            "avg1": 7.99,
+            "avg7": 7.99,
+            "avg30": 7.99,
+            "trend": 7.99,
+            "updated_at": "2026-10-07T10:58:56.778556",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:56.778556",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAK-Starter-Pack/Cloyster"
+      }
+    },
+    {
+      "id": "pk_a519002ec06eee8352a72e6456944124f950e2ab8f8da9be03ce5b88fb1d16d7eadb945edab0f7a0adc477f8500251",
+      "card_info": {
+        "name": "Cloyster - 078/128",
+        "clean_name": "Cloyster",
+        "set_name": "Base Expansion Pack",
+        "set_code": "23730",
+        "set_id": "23730",
+        "card_number": "078/128",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Lick (10)<br> Flip a coin. If heads, the Defending Pok?mon is now Paralyzed.",
+          "[Water][Colorless][Colorless] Auto Fire (20x)<br> Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.99,
+            "mid_price": 13.5,
+            "high_price": 17,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 13.07,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575965"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 9.99,
+            "low": 6.49,
+            "avg1": 9.99,
+            "avg7": 10.6,
+            "avg30": 11,
+            "trend": 8.58,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Expansion-Pack/Cloyster-V1-EC1078"
+      }
+    },
+    {
+      "id": "pk_fbc57b353c196548077b576aa1cf8c98254696624ad350f6df79aa49c13e8338e076712f5cc39a03a85856e0014d6188",
+      "card_info": {
+        "name": "Cloyster - 110/128",
+        "clean_name": "Cloyster",
+        "set_name": "Base Expansion Pack",
+        "set_code": "23730",
+        "set_id": "23730",
+        "card_number": "110/128",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Lick (10)<br> Flip a coin. If heads, the Defending Pok?mon is now Paralyzed.",
+          "[Water][Colorless][Colorless] Auto Fire (20x)<br> Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "Metal x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59.99,
+            "mid_price": 59.99,
+            "high_price": 59.99,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 81.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575966"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 50,
+            "low": 40,
+            "avg1": 50,
+            "avg7": 131.29,
+            "avg30": 81.96,
+            "trend": 134.96,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Expansion-Pack/Cloyster-V2-EC1110"
+      }
+    },
+    {
+      "id": "pk_8fa29b588375f48dd1bff1062ff53f1f1ef407123d9924d21f375a083e599268be316c6ab462f3d7489f",
+      "card_info": {
+        "name": "Misty's Cloyster",
+        "clean_name": "Mistys Cloyster",
+        "set_name": "City Gym Decks",
+        "set_code": "24175",
+        "set_id": "24175",
+        "card_number": null,
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Water][Colorless] Triple Cannon (20x)<br> Flip 3 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 5,
+            "high_price": 6.08,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 5.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/614804"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_93bbab0576685fb3d388cec38c815a354f6121b237186acab994c2c724931475e11cd22992b8c9da8393",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "DP3: Shining Darkness",
+        "set_code": "DP3",
+        "set_id": "23975",
+        "card_number": null,
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "Withdraw<br> Flip a coin. If heads, prevent all damage done to Cloyster by attacks during your opponent's next turn.",
+          "[Water][Colorless] Spine Missile<br> Flip 4 coins. For each heads, choose an opponent's Pokémon in play and this attack does 20 damage to those Pokémon. (You may choose the same Pokémon more than once.) <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lightning +20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 4.74,
+            "high_price": 4.99,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 6,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605900"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5cc0632e6623cc2386192de0fc33e61c82cdccef351432b8c574627d0edc2dc48f5b326ef69204bc92c47771b23278",
+      "card_info": {
+        "name": "Cloyster",
+        "clean_name": "Cloyster",
+        "set_name": "Flight of Legends",
+        "set_code": "PCG1",
+        "set_id": "24117",
+        "card_number": "031/082",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Double Bubble (10x)<br> Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed.",
+          "[Water][Colorless][Colorless] Shell Attack (50)"
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32.99,
+            "mid_price": 32.99,
+            "high_price": 32.99,
+            "updated_at": "2026-10-07T11:54:55.187295",
+            "market_price": 31.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/612388"
+      },
+      "cardmarket": {
+        "product_name": "Cloyster",
+        "prices": [
+          {
+            "avg": 51.66,
+            "low": 24.95,
+            "avg1": 44.99,
+            "avg7": 32.2,
+            "avg30": 30.65,
+            "trend": 31.8,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flight-of-Legends/Cloyster-PCG1031"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 40,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 40,
+    "tcg": 33,
+    "cardmarket": 34,
+    "tcg_only": 6,
+    "cardmarket_only": 7,
+    "both_sources": 27
+  }
+}

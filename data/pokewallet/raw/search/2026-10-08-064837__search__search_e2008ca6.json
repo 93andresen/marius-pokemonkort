@@ -1,0 +1,1532 @@
+{
+  "query": "Ditto",
+  "results": [
+    {
+      "id": "pk_23fa0b9faf99a5b38920067ae6211f9941f6e88e23094c6a41e5bcb16b3559944e9c6677c879ead304fb852c920a",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "108/149",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "Transform - During your turn (before your attack), you may put a Basic Pokemon from your hand on top of this Pokemon.  (This does not count as playing that Pokemon or evolving.)  This Pokemon is now that Pokemon.  (Any cards attached to this Pokemon, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokemon.)  (Ability)",
+        "attacks": [],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45,
+            "mid_price": 69.99,
+            "high_price": 1608.33,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 60.35,
+            "direct_low_price": 94.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 46.56,
+            "mid_price": 67.19,
+            "high_price": 300,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 85.37,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84845"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 13.17,
+            "low": 2,
+            "avg1": 30,
+            "avg7": 11.79,
+            "avg30": 11.74,
+            "trend": 11.47,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 17.35,
+            "low": 3.5,
+            "avg1": 34.95,
+            "avg7": 14.54,
+            "avg30": 10.99,
+            "trend": 17.67,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Ditto-BCR108"
+      }
+    },
+    {
+      "id": "pk_fec8a661f5c4156b90d69aaf35b52aa7fcc823b69fd2497b9ead9f161b18b4eabe80dd380b82c74fb06e3153b67a1138",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "107/159",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Sudden Transformation</strong>\r\n<br>This Pokémon can use the attacks of any Basic Pokémon in your discard pile, except for Pokémon with a Rule Box <em>(Pokémon V, Pokémon-GX, etc. have Rule Boxes)</em>. <em>(You still need the necessary Energy to each attack.)</em>",
+        "attacks": [],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.4,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 3.14,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 1.25,
+            "mid_price": 2.71,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 2.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478117"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 1.18,
+            "low": 0.28,
+            "avg1": 0.85,
+            "avg7": 0.95,
+            "avg30": 1.19,
+            "trend": 1.14,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.5,
+            "low": 0.3,
+            "avg1": 1.5,
+            "avg7": 1.5,
+            "avg30": 1.51,
+            "trend": 1.5,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Ditto-V1-CRZ107"
+      }
+    },
+    {
+      "id": "pk_0581950e558ae1fe8be1de501ba2d9300aa2a6587a76cd282bc128cf11f39e7b014c2d62ff8bfd00c883f3dfb20c05b7e43b",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Crown Zenith: Galarian Gallery",
+        "set_code": "CRZ:GG",
+        "set_id": "17689",
+        "card_number": "GG22/GG70",
+        "rarity": "Ultra Rare",
+        "card_type": "Normal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Sudden Transformation</strong>\r\n<br>\r\nThis Pokémon can use the attacks of any Basic Pokémon in your discard pile, except for Pokémon with a Rule Box <em>(Pokémon V, Pokémon-GX, etc. have Rule Boxes)</em>. <em>(You still need the necessary Energy to use each attack.)</em>",
+        "attacks": [],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.35,
+            "mid_price": 17.59,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 14.84,
+            "direct_low_price": 17.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/475445"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.61,
+            "low": 4.5,
+            "avg1": 11.11,
+            "avg7": 11.64,
+            "avg30": 11.66,
+            "trend": 11.24,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Ditto-V2-CRZGG22"
+      }
+    },
+    {
+      "id": "pk_45e6671405ea15232b3c37649c1caa73640899b8982029b71599c91d5c1eedcf4b3989e388851aeec134d465af9d8e",
+      "card_info": {
+        "name": "Ditto - 132/165",
+        "clean_name": "Ditto",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "132/165",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Transformative start</strong>\r\n<br>Once during your first turn, if this Pokemon is in the Active Spot, you may search your deck and choose a Basic Pokemon you find there, except any Ditto. If you do, discard this Pokemon and all attached cards, and put the chosen Pokemon in its place. Then, shuffle your deck.",
+        "attacks": [
+          "[1] Splup (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.02,
+            "mid_price": 4.59,
+            "high_price": 23.95,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 4.82,
+            "direct_low_price": 6.19,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/591109"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5b6d1753b07c930f5b6ef0036d3e16e8be8cc50ddcc307dc5e41d5a545594615a9a808336f578d977256388031",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "35/113",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1] Energy Link (10) \r\n<br>Search your discard pile for an Energy card and attach it to Ditto."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 54.62,
+            "mid_price": 56.88,
+            "high_price": 983.44,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 78.85,
+            "direct_low_price": 77.49,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 309.98,
+            "mid_price": 398.5,
+            "high_price": 499.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 149.32,
+            "direct_low_price": 499.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84832"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 19.1,
+            "low": 3.8,
+            "avg1": 6.9,
+            "avg7": 17.37,
+            "avg30": 17.06,
+            "trend": 18.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 153.67,
+            "low": 30,
+            "avg1": 40,
+            "avg7": 117.75,
+            "avg30": 90.51,
+            "trend": 91.25,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS35"
+      }
+    },
+    {
+      "id": "pk_ea4d43993781ba2ad418e791ddef03f69690d9334d941025e5031ea25c6616ba96978fceb4cf8dd0dc0be73926",
+      "card_info": {
+        "name": "Ditto (Bulbasaur)",
+        "clean_name": "Ditto Bulbasaur",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "36/113",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em> If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1G] Toxic \r\n<br>The Defending Pokemon is now Poisoned.  Put 2 damage counters instead of 1 on the Defending Pokemon between turns."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 175,
+            "mid_price": 203.98,
+            "high_price": 839.07,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 142.82,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 399.73,
+            "mid_price": 431.13,
+            "high_price": 595.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 359.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84833"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 31.41,
+            "low": 20,
+            "avg1": 21,
+            "avg7": 29.58,
+            "avg30": 34.62,
+            "trend": 17.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 148.25,
+            "low": 29.99,
+            "avg1": 249,
+            "avg7": 116.86,
+            "avg30": 96.73,
+            "trend": 119.66,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS36"
+      }
+    },
+    {
+      "id": "pk_32ba57bd65dedd0a8f749c3579940f8328fc06e9f392cde7d936aa042ff93d2b4cfdd8c970f38fb2e6d3ee9bea",
+      "card_info": {
+        "name": "Ditto - 037/113 (Charmander)",
+        "clean_name": "Ditto 037 113 Charmander",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "37/113",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate\r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.  (Poke-POWER)",
+        "attacks": [
+          "[2] Rage (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on Ditto."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 56.75,
+            "mid_price": 73.99,
+            "high_price": 662.89,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 72.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 250,
+            "mid_price": 260.99,
+            "high_price": 269.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 399.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84834"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 19.89,
+            "low": 7.99,
+            "avg1": 7.5,
+            "avg7": 22.55,
+            "avg30": 20.7,
+            "trend": 21.05,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 211.63,
+            "low": 30,
+            "avg1": 190,
+            "avg7": 160.56,
+            "avg30": 82.75,
+            "trend": 176.65,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS37"
+      }
+    },
+    {
+      "id": "pk_4ddba36e80960ab92db00b25b35f632b1a9c04d4d47b7981c21673b7b08a7ce6df5909b76432029ea9f5233fce",
+      "card_info": {
+        "name": "Ditto - 038/113 (Mr. Mime)",
+        "clean_name": "Ditto 038 113 Mr Mime",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "38/113",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1] Copy \r\n<br>Choose 1 of the Defending Pokemon's attacks.  Copy copies that attack.  This attack does nothing if Ditto doesn't have the Energy necessary to use that attack. <i> (You must still do anything else required for that attack.) </i>Ditto performs that attack."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 49,
+            "mid_price": 55,
+            "high_price": 559.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 54.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 298.5,
+            "mid_price": 448.79,
+            "high_price": 2255.02,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 97.69,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84835"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 110,
+            "low": 14.99,
+            "avg1": 110,
+            "avg7": 71.41,
+            "avg30": 46.85,
+            "trend": 85.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 26.13,
+            "low": 6.5,
+            "avg1": 39.99,
+            "avg7": 18.09,
+            "avg30": 17.42,
+            "trend": 26.71,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS38"
+      }
+    },
+    {
+      "id": "pk_c7c1987649145f05627bd39faeef9395ed93f4a4a7189b263850e4aa37eab301949f779cbd2f45b93ba7c6b201",
+      "card_info": {
+        "name": "Ditto - 039/113 (Pikachu)",
+        "clean_name": "Ditto 039 113 Pikachu",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "39/113",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.  (Poke-POWER)",
+        "attacks": [
+          "[1L] Thunderbolt (40) Discard all Energy cards attached to Ditto."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 84.99,
+            "mid_price": 124.01,
+            "high_price": 508.62,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 108.69,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 380.17,
+            "mid_price": 489.58,
+            "high_price": 598.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 322.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84836"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 39.45,
+            "low": 10.9,
+            "avg1": 12.5,
+            "avg7": 38,
+            "avg30": 30.85,
+            "trend": 38.17,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 80,
+            "avg1": 159.9,
+            "avg7": 117.06,
+            "avg30": 92.21,
+            "trend": 118.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS39"
+      }
+    },
+    {
+      "id": "pk_ed4c0a617800db0ac30de79dc98737acadc17b8bf4227a938eeff8e165f393baaa8d50ac4881673cdd67d46f25",
+      "card_info": {
+        "name": "Ditto - 040/113 (Squirtle)",
+        "clean_name": "Ditto 040 113 Squirtle",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "40/113",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1W] Smash Turn (20) \r\n<br>After your attack, you may switch Ditto with 1 of your Benched Pokemon."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 75.95,
+            "mid_price": 126.45,
+            "high_price": 1697.24,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 77.42,
+            "direct_low_price": 95.4,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.99,
+            "mid_price": 309.95,
+            "high_price": 2007.62,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 399.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84837"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": null,
+            "low": 19,
+            "avg1": 219.95,
+            "avg7": 77.49,
+            "avg30": 79.3,
+            "trend": 116.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 31.85,
+            "low": 4.3,
+            "avg1": 10,
+            "avg7": 29.12,
+            "avg30": 20.03,
+            "trend": 28.49,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS40"
+      }
+    },
+    {
+      "id": "pk_bf03dae3d03846fe64768de055c8e9e3deb0418db82ff60202421d4f389d2d11cbdad0fb66ed84e6bc22079f10",
+      "card_info": {
+        "name": "Ditto - 61/113 (Charmander)",
+        "clean_name": "Ditto 61 113 Charmander",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "061/113",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1R] Fireworks (30) \r\n<br>Flip a coin.  If tails, discard a R Energy card attached to Ditto."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 37.55,
+            "mid_price": 59.99,
+            "high_price": 450,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 50.78,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 134.99,
+            "mid_price": 140,
+            "high_price": 600,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84838"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 18.48,
+            "low": 2,
+            "avg1": 4,
+            "avg7": 19.6,
+            "avg30": 16.07,
+            "trend": 17.21,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 150,
+            "low": 20,
+            "avg1": 180,
+            "avg7": 73.5,
+            "avg30": 59.29,
+            "trend": 79.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS61"
+      }
+    },
+    {
+      "id": "pk_6286518f3b9482988583f5155fa3420c01a29864dbfca0145b5aaec414530421143e106b9c59f6d2b72eb0421a",
+      "card_info": {
+        "name": "Ditto (Geodude)",
+        "clean_name": "Ditto Geodude",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "62/113",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1L] Linear Attack \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon)."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.3,
+            "mid_price": 27,
+            "high_price": 399.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 25.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 286.72,
+            "high_price": 1819.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 179.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84839"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 8.15,
+            "low": 1,
+            "avg1": 10,
+            "avg7": 8.27,
+            "avg30": 7.85,
+            "trend": 7.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 29.95,
+            "low": 12.99,
+            "avg1": 29.95,
+            "avg7": 42.56,
+            "avg30": 58.07,
+            "trend": 40.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS62"
+      }
+    },
+    {
+      "id": "pk_d238a9fbfadf54efcf0192cdb5071ed400bf43ef14e811cebb8c2713406153908b6b0324ecfb0d452fa380cfea",
+      "card_info": {
+        "name": "Ditto - 63/113 (Pikachu)",
+        "clean_name": "Ditto 63 113 Pikachu",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "063/113",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em>If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 58.23,
+            "mid_price": 77.63,
+            "high_price": 414.52,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 78.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 639.33,
+            "mid_price": 669.66,
+            "high_price": 699.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 195.63,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84840"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 528.33,
+            "low": 31,
+            "avg1": 1050,
+            "avg7": 255.56,
+            "avg30": 295.08,
+            "trend": 465.74,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 24.75,
+            "low": 8,
+            "avg1": 25,
+            "avg7": 24.77,
+            "avg30": 26.92,
+            "trend": 20.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS63"
+      }
+    },
+    {
+      "id": "pk_d18a8cafa2793c001631f7677eac47e8298b85cb814180adbb13b4800e859c712235fa01792eedba0fcf9e0928",
+      "card_info": {
+        "name": "Ditto - 64/113 (Squirtle)",
+        "clean_name": "Ditto 64 113 Squirtle",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "064/113",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Duplicate\r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+        "attacks": [
+          "[1W] Spiral Drain (20) \r\n<br>Remove 3 damage counters from Ditto <i>(all if there are less than 3).</i>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.95,
+            "mid_price": 65,
+            "high_price": 485.84,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 64.44,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 253.99,
+            "mid_price": 500,
+            "high_price": 1495.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 279.99,
+            "direct_low_price": 999.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84841"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 566.5,
+            "low": 14.99,
+            "avg1": 29.5,
+            "avg7": 114.38,
+            "avg30": 63.41,
+            "trend": 131.19,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.77,
+            "low": 4,
+            "avg1": 10.99,
+            "avg7": 14.78,
+            "avg30": 14.41,
+            "trend": 15.52,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Ditto-DS64"
+      }
+    },
+    {
+      "id": "pk_e61c7e29f374fbeba31523edc92dcde516d46b31a09f57f2f4bf4085056ff5761c582ac36758fa2af7767cfc07",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "17/18",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Copy Anything\r\n<br>Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 13.25,
+            "high_price": 141.37,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 13.67,
+            "direct_low_price": 18.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186025"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.73,
+            "avg7": 5.59,
+            "avg30": 6.54,
+            "trend": 6.08,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.77,
+            "low": 2,
+            "avg1": 4.95,
+            "avg7": 6.37,
+            "avg30": 7.02,
+            "trend": 6.54,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ditto-DET17"
+      }
+    },
+    {
+      "id": "pk_cb04abd3e8db543165d89f080f22ca5521f6594e862be5d86c1c1ef680dba74211e12278a3db3f84a8e99f69",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "4/112",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Form Variation \r<br>\n<br>Once during your turn <em>(before you attack)</em>, you may search your discard pile for a Basic Pokemon (excluding Pokemon-ex and Ditto) and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  Place Ditto in the discard pile.",
+        "attacks": [
+          "[1] Energy Ball (10+) \r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Ditto but not used to pay for this attack's Energy cost.  You cannot add more than 20 damage in this way."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45,
+            "mid_price": 110,
+            "high_price": 175,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 64.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 110.56,
+            "mid_price": 169.41,
+            "high_price": 280,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 168.41,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 160,
+            "high_price": 250,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 108.74,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84831"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 75.2,
+            "low": 4.2,
+            "avg1": 55,
+            "avg7": 50.67,
+            "avg30": 50.83,
+            "trend": 55.09,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 63.92,
+            "low": 3,
+            "avg1": 110.5,
+            "avg7": 36.95,
+            "avg30": 23.83,
+            "trend": 47.55,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Ditto-FL4"
+      }
+    },
+    {
+      "id": "pk_b090300d43df213de331cf611eadaef57b3efb2b56c0ca9b1a04e9c76d14e4f871d32c20520d9d47356bff",
+      "card_info": {
+        "name": "Ditto (18)",
+        "clean_name": "Ditto 18",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "18/62",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Transform</strong> If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+        "attacks": [],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.67,
+            "mid_price": 25.07,
+            "high_price": 196.79,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 22.81,
+            "direct_low_price": 50,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5.58,
+            "mid_price": 13.96,
+            "high_price": 129.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.86,
+            "direct_low_price": 15.36,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44426"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 9.6,
+            "low": 1,
+            "avg1": 6.92,
+            "avg7": 8.02,
+            "avg30": 9.28,
+            "trend": 7.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7,
+            "avg7": 8.56,
+            "avg30": 15.43,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Ditto-V2-FO18"
+      }
+    },
+    {
+      "id": "pk_110d59cfd9896afcef9172d7ef3c09b73cc1981c6ec087b611f34297b6b1c95dd5e2c95f4b17a7d5de41fb",
+      "card_info": {
+        "name": "Ditto (3)",
+        "clean_name": "Ditto 3",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "03/62",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Transform</strong> If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+        "attacks": [],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 104.99,
+            "mid_price": 224.99,
+            "high_price": 499.22,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 131.99,
+            "direct_low_price": 498.37,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 26.99,
+            "mid_price": 45,
+            "high_price": 472.37,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 47.25,
+            "direct_low_price": 179.99,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106519"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": 48.31,
+            "low": 7.5,
+            "avg1": 22,
+            "avg7": 34.85,
+            "avg30": 46.47,
+            "trend": 36.82,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 42.5,
+            "avg7": 18.07,
+            "avg30": 17.46,
+            "trend": 17.49,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Ditto-V1-FO3"
+      }
+    },
+    {
+      "id": "pk_11812b58129cdbfd64a07bac8605e9ba56d8504b70774a42456b4f311c2f58f51af83cc5c886cc5e6c822d8997",
+      "card_info": {
+        "name": "Koga's Ditto",
+        "clean_name": "Kogas Ditto",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "010/132",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Giant Growth\r\n<br>Flip a coin. If heads, Koga's Ditto's maximum HP is now 80 and Koga's Ditto's Pound attack's base damage is 30 instead of 10. <em>(Benching Koga's Ditto ends this effect.)</em>",
+          "[1] Pound (10)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 249.95,
+            "mid_price": 299.99,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 100,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 50,
+            "mid_price": 85,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 76.18,
+            "direct_low_price": 69.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86506"
+      },
+      "cardmarket": {
+        "product_name": "Koga's Ditto",
+        "prices": [
+          {
+            "avg": 249.13,
+            "low": 24,
+            "avg1": 371.9,
+            "avg7": 390.88,
+            "avg30": 164.31,
+            "trend": 352.87,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 19.67,
+            "avg30": 20.57,
+            "trend": 23.31,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Kogas-Ditto-GC10"
+      }
+    },
+    {
+      "id": "pk_b607ebe28b6cb1784ae4e39e365b849389c012548727e0ab27ec30630bcbb380e21033381731ee69b343c3d2c6",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "27/146",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Ditto DNA</strong>\r\n<br>\r\nAs long as Ditto is your Active Pokémon, its maximum HP is the same as your opponent's Active Pokémon. Ditto can use the attacks of that Pokémon as its own. (You still need the necessary Energy to use each attack.) If that Pokémon is no longer your opponent's Active Pokémon, choose 1 of your opponent's Active Pokémon for Ditto to copy.",
+        "attacks": [],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.99,
+            "mid_price": 24.73,
+            "high_price": 221.7,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 24.73,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 54.76,
+            "mid_price": 74.5,
+            "high_price": 1199.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 100,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84843"
+      },
+      "cardmarket": {
+        "product_name": "Ditto Lv.33",
+        "prices": [
+          {
+            "avg": 30.63,
+            "low": 2.5,
+            "avg1": 1.5,
+            "avg7": 17.77,
+            "avg30": 10.09,
+            "trend": 12.36,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.66,
+            "low": 1.5,
+            "avg1": 4.71,
+            "avg7": 6.7,
+            "avg30": 6.44,
+            "trend": 7.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Ditto-Lv33-LA27"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 113,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 113,
+    "tcg": 89,
+    "cardmarket": 96,
+    "tcg_only": 17,
+    "cardmarket_only": 24,
+    "both_sources": 72
+  }
+}

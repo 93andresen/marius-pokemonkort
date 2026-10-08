@@ -1,0 +1,1501 @@
+{
+  "query": "Poliwrath",
+  "results": [
+    {
+      "id": "pk_cc030d0fc88ca7e5bfff1af3fc58abc0c5232590b0991e0ea50214d26f6b5e610fcf047637eb39625ff3cff5",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "015/130",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.45,
+            "mid_price": 16.2,
+            "high_price": 126.03,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 21.37,
+            "direct_low_price": 126.02,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42459"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 8.8,
+            "avg30": 8.75,
+            "trend": 8.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 16.58,
+            "low": 3.97,
+            "avg1": 5,
+            "avg7": 28.95,
+            "avg30": 16.72,
+            "trend": 16.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Poliwrath-B215"
+      }
+    },
+    {
+      "id": "pk_67984ae39e60ac126fc0f25b2d39eb74390b09d91fd14135e2b47580f83496f1e9a2d8bafc15fe2d0bb2e45aa79b",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "013/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2W] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2298.82,
+            "mid_price": 2399.33,
+            "high_price": 2399.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 249.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 110,
+            "mid_price": 164.12,
+            "high_price": 598.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 158.64,
+            "direct_low_price": 598.82,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107007"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath (Shadowless)",
+        "prices": [
+          {
+            "avg": 56.66,
+            "low": 29.99,
+            "avg1": 400,
+            "avg7": 98.35,
+            "avg30": 139.98,
+            "trend": 170.52,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Poliwrath-V2-BS13"
+      }
+    },
+    {
+      "id": "pk_f5e943f5de99eb6a4bc26d08115b0bd7e3645389cc82ca2b0862827e5058fe2270a16fd8d8b7c16a63aa8279",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "013/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17,
+            "mid_price": 32.48,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 35.84,
+            "direct_low_price": 89.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42353"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 22.14,
+            "low": 3.49,
+            "avg1": 12.49,
+            "avg7": 22.45,
+            "avg30": 21.16,
+            "trend": 25.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.96,
+            "avg7": 22.07,
+            "avg30": 19.08,
+            "trend": 19.78,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Poliwrath-V1-BS13"
+      }
+    },
+    {
+      "id": "pk_e70673511146b56ade485fb48074186c93c547243a465837472fecf2d8b4a9f26ec8be8640cca44057add654ef6f",
+      "card_info": {
+        "name": "Poliwrath - 25/108 (XY Evolutions)",
+        "clean_name": "Poliwrath 25 108 XY Evolutions",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "025/108",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Dashing Punch (50+)\r\n<br>If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 50 more damage.",
+          "[WWW] Whirlpool (80)\r\n<br>Discard an Energy attached to your opponent's Active Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.19,
+            "mid_price": 3.5,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 3.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/141261"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f7eaba1f38a6ea556da317b1b75cd4105efde7899e16a770b89d5eea47c179dcc59362a9e62af657a9c3efcdc2",
+      "card_info": {
+        "name": "Poliwrath (24)",
+        "clean_name": "Poliwrath 24",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "024/165",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Plunge</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is on your Bench, you may flip a coin. If heads, take all Energy cards attached to your Active Pokémon, if any, and attach them to Poliwrath. Then switch Poliwrath with your Active Pokémon.",
+        "attacks": [
+          "[2WW] Water Punch (40+)\r\n<br>Flip a number of coins equal to the amount of Water Energy cards attached to Poliwrath. This attack does 40 damage plus 10 more damage for each heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 250,
+            "mid_price": 651.25,
+            "high_price": 749.97,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 44.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 249.99,
+            "high_price": 352.83,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 44.5,
+            "direct_low_price": 299.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88271"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 51.55,
+            "low": 5,
+            "avg1": 12.8,
+            "avg7": 43.82,
+            "avg30": 37.89,
+            "trend": 47.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 27.43,
+            "low": 6,
+            "avg1": 54,
+            "avg7": 28.5,
+            "avg30": 27.46,
+            "trend": 31.64,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Poliwrath-EX24"
+      }
+    },
+    {
+      "id": "pk_0194baddd74ec627b68b1449f7dbe00439e3a5139bf584a0615df2199db913b9b55774fbdace21302e43c0231e",
+      "card_info": {
+        "name": "Poliwrath (60)",
+        "clean_name": "Poliwrath 60",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "060/165",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Plunge</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is on your Bench, you may flip a coin. If heads, take all Energy cards attached to your Active Pokémon, if any, and attach them to Poliwrath. Then switch Poliwrath with your Active Pokémon.",
+        "attacks": [
+          "[2WW] Water Punch (40+)\r\n<br>Flip a number of coins equal to the amount of Water Energy cards attached to Poliwrath. This attack does 40 damage plus 10 more damage for each heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 136.76,
+            "high_price": 337,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 38.36,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 64.99,
+            "mid_price": 75.82,
+            "high_price": 542,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 56.3,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88275"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 14.98,
+            "low": 6,
+            "avg1": 25,
+            "avg7": 46.86,
+            "avg30": 20.23,
+            "trend": 40.74,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 18.12,
+            "low": 0.5,
+            "avg1": 4.23,
+            "avg7": 13.49,
+            "avg30": 13.43,
+            "trend": 16.74,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Poliwrath-EX60"
+      }
+    },
+    {
+      "id": "pk_437a3efcf36ab9bd89799127d4a4ea05959bb484253e02936e70e714fd93ae95a5cc37f667c65e296f06a09a1b",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "11/112",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-BODY</b> Spiral\r<br>\n<br>As long as Poliwrath is your Active Pokemon, your opponent's Confused Pokemon can't retreat.",
+        "attacks": [
+          "[2] Split Spiral Punch (20) \r\n<br>The Defending Pokemon is now Confused.",
+          "[2W] Mega Throw (50+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 50 damage plus 30 more damage."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.99,
+            "mid_price": 131.58,
+            "high_price": 199.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 28.13,
+            "direct_low_price": 44.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 34.34,
+            "mid_price": 39.99,
+            "high_price": 294.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 40.03,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88276"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 9.62,
+            "low": 2,
+            "avg1": 4,
+            "avg7": 9.57,
+            "avg30": 9.96,
+            "trend": 8.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.2,
+            "low": 2.8,
+            "avg1": 6.99,
+            "avg7": 7.65,
+            "avg30": 12.19,
+            "trend": 7.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Poliwrath-FL11"
+      }
+    },
+    {
+      "id": "pk_a793ee31751b9fad41b334a7944902838ecec1c32f1896b79cd15306b872a3d00640f1c444aab844b0a17eb98d",
+      "card_info": {
+        "name": "Misty's Poliwrath",
+        "clean_name": "Mistys Poliwrath",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "031/132",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2WW] Water Ring (30)\r\n<br>Does 10 damage to each Pokémon that isn't Water on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 38.41,
+            "high_price": 293.26,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 38.38,
+            "direct_low_price": 149.9,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 10.09,
+            "mid_price": 15.75,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.7,
+            "direct_low_price": 117.84,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87538"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Poliwrath",
+        "prices": [
+          {
+            "avg": 16.13,
+            "low": 5.84,
+            "avg1": 19.99,
+            "avg7": 15.62,
+            "avg30": 15.93,
+            "trend": 15.05,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.5,
+            "avg7": 4.5,
+            "avg30": 4.5,
+            "trend": 4.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Poliwrath-GH31"
+      }
+    },
+    {
+      "id": "pk_51111eb39c4db0f52e13a710d6ad9c203c6b92751d665134bbb4f2be709bcb0d7300ebb4334a4df6436b82c41909",
+      "card_info": {
+        "name": "Poliwrath - 21/95 (League Promo)",
+        "clean_name": "Poliwrath 21 95 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "021/095",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1W] Steamroll (40) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2W] Dynamic Punch (60+) \r\n<br>Flip a coin. If heads, this attack does 60 damage plus 40 more damage and the Defending Pokémon is now Confused."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 196.1,
+            "high_price": 263.02,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 31.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/231418"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2,
+            "avg7": 2.19,
+            "avg30": 2.17,
+            "trend": 2.58,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 175,
+            "low": 18,
+            "avg1": 15,
+            "avg7": 85,
+            "avg30": 48.23,
+            "trend": 72.18,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Poliwrath-V2-UL21"
+      }
+    },
+    {
+      "id": "pk_5b22404ab69ba7207dc47dd23412abda57fe5fe7c48748d407229947d9fd4a1e74ced824f12af39385c411095580",
+      "card_info": {
+        "name": "Poliwrath - 21/95 (League Promo) [Staff]",
+        "clean_name": "Poliwrath 21 95 League Promo Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "021/095",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1W] Steamroll (40) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2W] Dynamic Punch (60+) \r\n<br>Flip a coin. If heads, this attack does 60 damage plus 40 more damage and the Defending Pokémon is now Confused."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 229.99,
+            "mid_price": 229.99,
+            "high_price": 229.99,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 265,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/231419"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4f11240f2d69b1a24d539e4618b19c3c9437f637c5d67c6075dd33eac47947edd366d24ce36f2435b4dc8c4c42",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "35/146",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[F] Focus Punch (60)\r\n<br>\r\nIf Poliwrath was damaged by an attack during your opponent's last turn, this attack does nothing.",
+          "[2F] Submission (90)\r\n<br>\r\nPoliwrath does 20 damage to itself."
+        ],
+        "weakness": "L+30",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.22,
+            "high_price": 30.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 2.57,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.5,
+            "mid_price": 11.33,
+            "high_price": 214.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 12.05,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88278"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath Lv.46",
+        "prices": [
+          {
+            "avg": 2.67,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 2.23,
+            "avg30": 1.92,
+            "trend": 2.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.9,
+            "low": 0.25,
+            "avg1": 4.5,
+            "avg7": 3.96,
+            "avg30": 3.29,
+            "trend": 4.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poliwrath-Lv46-LA35"
+      }
+    },
+    {
+      "id": "pk_1a01a657b23176b7536b6c466f71a14c6f767a0823e83d97865824f8f8be03c3edbc3420705935f3e95ecb",
+      "card_info": {
+        "name": "Poliwrath (9)",
+        "clean_name": "Poliwrath 9",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "09/75",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1F] Corkscrew Punch (30)",
+          "[2FF] Submission (70)\r\n<br>Poliwrath does 20 damage to itself."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40,
+            "mid_price": 97.99,
+            "high_price": 155.97,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 48.35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 27.87,
+            "mid_price": 42.49,
+            "high_price": 384.72,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 35.4,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88269"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 25,
+            "avg7": 8.37,
+            "avg30": 11.08,
+            "trend": 10.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 260,
+            "low": 3.48,
+            "avg1": 16.38,
+            "avg7": 17.67,
+            "avg30": 111.05,
+            "trend": 140.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwrath-NDI9"
+      }
+    },
+    {
+      "id": "pk_cb00f069a1fb332aca390d320ce2593dda617a6239fad521782aed0269b202de07352192dd178db798333ee5",
+      "card_info": {
+        "name": "Poliwrath (28)",
+        "clean_name": "Poliwrath 28",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "28/75",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1F] Corkscrew Punch (30)",
+          "[2FF] Submission (70)\r\n<br>Poliwrath does 20 damage to itself."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.14,
+            "mid_price": 99.32,
+            "high_price": 124,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 17.57,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.99,
+            "mid_price": 6.99,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 8.19,
+            "direct_low_price": 59.58,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88274"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.99,
+            "avg7": 5.81,
+            "avg30": 3.54,
+            "trend": 5.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.2,
+            "low": 0.25,
+            "avg1": 4.89,
+            "avg7": 5.65,
+            "avg30": 5.75,
+            "trend": 6.55,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwrath-NDI28"
+      }
+    },
+    {
+      "id": "pk_a6b57a39759f9469f1d4423ec0fe55a7f63b4d38331d66ca061591328d767bd2ae3badf563f37c0dca82292869e1",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "39/214",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Knuckle Punch (50)",
+          "[2W] Spiral Rush (90+)\r\n<br>If you have Poliwag and Poliwhirl on your Bench, this attack does 90 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.67,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.69,
+            "direct_low_price": 1.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.34,
+            "mid_price": 0.79,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.8,
+            "direct_low_price": 1.59,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189114"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 0.64,
+            "low": 0.15,
+            "avg1": 0.99,
+            "avg7": 0.65,
+            "avg30": 0.72,
+            "trend": 0.86,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.12,
+            "low": 0.5,
+            "avg1": 1.35,
+            "avg7": 1.73,
+            "avg30": 1.74,
+            "trend": 2.19,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Poliwrath-UNB39"
+      }
+    },
+    {
+      "id": "pk_d5856780ea8f4cbd108ff5eb5580096fb1eb066c480b3a338e16d56e53d31e4d05c9c4c726c15c0305cf38e422e5",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "32/149",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Split Spiral Punch (30)\r\n<br>Your opponent's Active Pokemon is now Confused.",
+          "[2W] Wake-Up Slap (80+)\r\n<br>If your opponent's Active Pokemon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from that Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.71,
+            "high_price": 9.7,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.71,
+            "direct_low_price": 0.98,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.33,
+            "mid_price": 0.85,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 0.85,
+            "direct_low_price": 1.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126903"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 1.35,
+            "low": 0.1,
+            "avg1": 0.99,
+            "avg7": 1.41,
+            "avg30": 1.26,
+            "trend": 1.1,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.82,
+            "low": 0.1,
+            "avg1": 0.6,
+            "avg7": 0.86,
+            "avg30": 0.92,
+            "trend": 0.96,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poliwrath-SUM32"
+      }
+    },
+    {
+      "id": "pk_86fdb343670cdeb33c4a039338631505e343cff40b200e861f0afeefe5eabe275d101a341e08d49e7b481309c03051",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "043/167",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Hypnosis\nYour opponent's Active Pokémon is now Asleep.",
+          "[CC] Jumping Uppercut (120+)\nYou may do 120 more damage. If you do, shuffle this Pokémon and all attached cards into your deck."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.18,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:46.32428",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:46.32428",
+            "market_price": 0.23,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550087"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.09,
+            "avg30": 0.07,
+            "trend": 0.08,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.16,
+            "avg30": 0.14,
+            "trend": 0.16,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Poliwrath-TWM043"
+      }
+    },
+    {
+      "id": "pk_d103c2e6e4d57af3a7a18ff54754cb9cdae97f128c9d4c122adddfc75f1f4e88d64680713b042042c32ef527ffc2a7",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "062/165",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble Beam (50)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[2W] Heroic Punch (100+)\r\n<br>Flip a coin. If heads, this attack does 150 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 19.02,
+            "updated_at": "2026-10-07T11:54:46.788193",
+            "market_price": 0.24,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 25,
+            "updated_at": "2026-10-07T11:54:46.788193",
+            "market_price": 0.31,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516251"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.21,
+            "avg7": 0.23,
+            "avg30": 0.22,
+            "trend": 0.23,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.07,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Poliwrath-MEW062"
+      }
+    },
+    {
+      "id": "pk_87e66033b8a8088072cc172f84993b00ca0eb48804025ce3cb841c2185c6f2e8e9012caddc491f3766118a88d71c",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "SWSH11: Lost Origin",
+        "set_code": "SWSH11",
+        "set_id": "3118",
+        "card_number": "085/196",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Split Spiral Punch (60)\r\n<br>\r\nYour opponent's Active Pokémon is now Confused.",
+          "[2W] Splash Loop (160)\r\n<br>\r\nPut 2 Energy attached to this Pokémon into your hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:48.443925",
+            "market_price": 0.16,
+            "direct_low_price": 0.11,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.31,
+            "high_price": 17.7,
+            "updated_at": "2026-10-07T11:54:48.443925",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283970"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "trend": 0.08,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.2,
+            "avg30": 0.19,
+            "trend": 0.24,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Poliwrath-LOR085"
+      }
+    },
+    {
+      "id": "pk_eb69ea4b23eed466bbee874a5b3bd5602549124e95cae8d2b1c1981120ac5c0920f520cd6bfcd5024c0d10f1854a",
+      "card_info": {
+        "name": "Poliwrath (H24)",
+        "clean_name": "Poliwrath H24",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "H24/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Strange Spiral</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+        "attacks": [
+          "[1FF] Spiral Punch (40+)\r\n<br>Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139.99,
+            "mid_price": 139.99,
+            "high_price": 139.99,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 500.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88272"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 38.73,
+            "avg30": 31.07,
+            "trend": 40.82,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 146.25,
+            "low": 69.99,
+            "avg1": 150,
+            "avg7": 123.74,
+            "avg30": 135.6,
+            "trend": 129.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwrath-V1-SKH24"
+      }
+    },
+    {
+      "id": "pk_86279a4e48134f7c9cf1cc83f393017f18314c635e794b680344f1d51b8ffa6c33170e7983a7e65afc2bdaac3d",
+      "card_info": {
+        "name": "Poliwrath (26)",
+        "clean_name": "Poliwrath 26",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "026/144",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Strange Spiral</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+        "attacks": [
+          "[1FF] Spiral Punch (40+)\r\n<br>Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 100,
+            "mid_price": 239.99,
+            "high_price": 567.02,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 60.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 340,
+            "mid_price": 345,
+            "high_price": 349.99,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 102.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88273"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 16.96,
+            "low": 3,
+            "avg1": 14,
+            "avg7": 15.1,
+            "avg30": 17.57,
+            "trend": 9.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 58.95,
+            "low": 3,
+            "avg1": 34,
+            "avg7": 48.7,
+            "avg30": 42.96,
+            "trend": 33.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwrath-V2-SK26"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 56,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 56,
+    "tcg": 48,
+    "cardmarket": 47,
+    "tcg_only": 9,
+    "cardmarket_only": 8,
+    "both_sources": 39
+  }
+}

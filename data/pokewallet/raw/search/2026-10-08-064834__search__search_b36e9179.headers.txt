@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Kingdra+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:36 GMT
+Content-Type: application/json
+Content-Length: 895
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 841
+X-RateLimit-Remaining-Hour: 19
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KYlh%2B%2BmOyOtj4POQ%2Bdjc2YNqrbeudyQqL7Vhlz43vV%2FSbIh407A2tXkKMwZ%2FIVTxpP%2B2J1jCDH%2B9ICQGSW5ZP06pqjzP%2BfQb2ahKpc0Bs5QKfNNETB%2BbtgPKmrlLeQ0qvd%2B%2BBx81rEwPvWEfTJprRw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4728399bd6956b9-OSL
+alt-svc: h3=":443"; ma=86400

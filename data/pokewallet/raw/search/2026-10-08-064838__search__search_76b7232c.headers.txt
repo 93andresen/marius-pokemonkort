@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Tyranitar+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:40 GMT
+Content-Type: application/json
+Content-Length: 206
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 838
+X-RateLimit-Remaining-Hour: 16
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zHLDzxoVDsdAKCqjd1yTLTp68rTfFRxJpn670RIVE0tdmIm8X%2Fq3VAVIEhZeVNxnZRUTt%2FwcsGsbpUUDmnlz8zPe%2FfTCWpJrLw2MZuYNXiF2CYhjA8Zwjb1TQrJJJMmWwxMMqbfReb23qCAM0vP2%2BA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47283b5ae9f56ae-OSL
+alt-svc: h3=":443"; ma=86400

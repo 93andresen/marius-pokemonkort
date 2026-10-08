@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Darkness+Energy&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:18 GMT
+Content-Type: application/json
+Content-Length: 24206
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 853
+X-RateLimit-Remaining-Hour: 31
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8SLd67FZG789bGSO%2B5rDkdf0lwQ39w3YcrMbkoZSrfoIsoe6MLenUFIH9wd7RoQbz2RMfdON1Xwn90n4BY5YDlVsjN00qh6EDYGAGKsJWs1VjqX9%2F47rJQvGW2ay1o9jbaNvkv5%2F5QES3naCsW7VFA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472832aa8820731-OSL
+alt-svc: h3=":443"; ma=86400

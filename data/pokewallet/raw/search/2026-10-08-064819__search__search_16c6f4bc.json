@@ -1,0 +1,1221 @@
+{
+  "query": "Arcanine",
+  "results": [
+    {
+      "id": "pk_5bbd0ce4a3c87887776616c405d663133b68a4f3e23f8063cc0bf2b9a0defac701343827760a8b96f419265a",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "002/147",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Arcanine for each Energy attached to it.",
+        "attacks": [
+          "[3] Fire Blow (30+)\r\n<br>You may discard any number of Fire Energy cards attached to Arcanine. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 120,
+            "mid_price": 160,
+            "high_price": 1369.42,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 142.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 139.98,
+            "mid_price": 179.99,
+            "high_price": 180.98,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 179.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83575"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 15.99,
+            "low": 5.99,
+            "avg1": 130,
+            "avg7": 55.93,
+            "avg30": 38.75,
+            "trend": 67.29,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 39.33,
+            "low": 5.99,
+            "avg1": 30,
+            "avg7": 46.57,
+            "avg30": 26.68,
+            "trend": 46.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Arcanine-V2-AQ2"
+      }
+    },
+    {
+      "id": "pk_79d6bacf6bc4deb894963304d885b4ad599f5e4cea7e01655836d6ab6777d3f67051251438bb9dd895f1a4e5aa9d",
+      "card_info": {
+        "name": "Arcanine (H2)",
+        "clean_name": "Arcanine H2",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H02/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Arcanine for each Energy attached to it.",
+        "attacks": [
+          "[3] Fire Blow (30+)\r\n<br>You may discard any number of Fire Energy cards attached to Arcanine. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 300,
+            "mid_price": 300,
+            "high_price": 300,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 475,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83576"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 56.53,
+            "avg30": 37.03,
+            "trend": 48.34,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 559.49,
+            "low": 29,
+            "avg1": 1999.99,
+            "avg7": 735.35,
+            "avg30": 329.29,
+            "trend": 703.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Arcanine-V1-AQH2"
+      }
+    },
+    {
+      "id": "pk_a2942ce092d7111c44d2a15817cbabc080d0f3f8e4f586d2babf0ebe6150c05a75ecc139a747b6dcc035386c",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "033/130",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.65,
+            "high_price": 37.22,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.89,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42472"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.69,
+            "avg7": 1.69,
+            "avg30": 1.69,
+            "trend": 1.69,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.71,
+            "low": 0.3,
+            "avg1": 0.6,
+            "avg7": 3.4,
+            "avg30": 3.64,
+            "trend": 3.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Arcanine-B233"
+      }
+    },
+    {
+      "id": "pk_3dbcc6dbe5fbfe82614e5222b80bfa46855b15545139ea137792e0d9c304a814aa1faefb34f685392b20582dc1fc",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "023/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 90.48,
+            "mid_price": 182.99,
+            "high_price": 691.11,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 91.24,
+            "direct_low_price": 595.95,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 12.99,
+            "mid_price": 40,
+            "high_price": 96.17,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 42.77,
+            "direct_low_price": 93.64,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107018"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine (Shadowless)",
+        "prices": [
+          {
+            "avg": 39.31,
+            "low": 3.11,
+            "avg1": 24.99,
+            "avg7": 39.26,
+            "avg30": 41.18,
+            "trend": 37.25,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Arcanine-V2-BS23"
+      }
+    },
+    {
+      "id": "pk_d5944fe88865457383685d754243fce7a738882b12e80882cb0aa1378ece6bf21469a638e8e2c2d4b6a15e98",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "023/102",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+          "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 2.99,
+            "high_price": 94.96,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.46,
+            "direct_low_price": 18.94,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42364"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 6.37,
+            "low": 0.05,
+            "avg1": 2.16,
+            "avg7": 6.32,
+            "avg30": 6.31,
+            "trend": 6.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 2.81,
+            "avg30": 2.81,
+            "trend": 1.48,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Arcanine-V1-BS23"
+      }
+    },
+    {
+      "id": "pk_3864b69d92e7e5071006746ec8b182694bb7e145e2240667aa0c339b13848c02135b719e4f35fdbb15692b3adf",
+      "card_info": {
+        "name": "Arcanine - 12/99 (Prerelease)",
+        "clean_name": "Arcanine 12 99 Prerelease",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "12/99",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Blazing Mane</strong>\r\n<br>If this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, the Attacking Pokémon is now Burned.",
+        "attacks": [
+          "[1RR] Fire Spin (100)\r\n<br>\r\nFlip a coin. If tails, discard 2 Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 58.99,
+            "mid_price": 70.47,
+            "high_price": 90,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 80.66,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/230421"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_229c4f3fafb7428394c7fee23b966b51abc432b7a7dcaf55ad740136990fab633d8d76dfa34ba87fe8f7d8b9b1",
+      "card_info": {
+        "name": "Arcanine - 12/99 (Prerelease) [Staff]",
+        "clean_name": "Arcanine 12 99 Prerelease Staff",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "12/99",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Blazing Mane</strong>\r\n<br>\r\nIf this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, the Attacking Pokémon is now Burned.",
+        "attacks": [
+          "[1RR] Fire Spin (100) \r\n<br>\r\nFlip a coin. If tails, discard 2 Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 700,
+            "mid_price": 700,
+            "high_price": 700,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 450,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/230422"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b7fc6c13fcd176736595073bbdbf95521d4b9caa4158a5681e2f881893087c387fafab837dda4bc89f431886dd4e",
+      "card_info": {
+        "name": "Arcanine - 22/214 (Cosmos Holo)",
+        "clean_name": "Arcanine 22 214 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "022/214",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "140",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[FFF] Grand Flame (120)\r\n<br>Attach 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "[FFFF] Heat Tackle (190)\r\n<br>This Pokémon does 50 damage to itself."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32.46,
+            "mid_price": 32.46,
+            "high_price": 32.46,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 25.97,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/243855"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7e4ef9cf81ace81c4a07bb9f59c830c34da0f956cb17f9a1616fd581098275dc5ceef8e9c66e7067366f92629a2217",
+      "card_info": {
+        "name": "Hisuian Arcanine - 100/167 (Cosmos Holo)",
+        "clean_name": "Hisuian Arcanine 100 167 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "100/167",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[0] Proud Fangs (30+)\r\nIf your Benched Pokémon have any damage counters on them, this attack does 90 more damage.",
+          "[FFC] Searing Flame (90)\r\nYour opponent's Active Pokémon is now Burned."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.83,
+            "mid_price": 5.18,
+            "high_price": 32.32,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/616142"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_27d1b7da56087fd6147216fd252aa13cd5895cddce443784fad7faff2dd4961f74eb992c73ea4bebfa2f18ba62",
+      "card_info": {
+        "name": "Arcanine G - 15/147",
+        "clean_name": "Arcanine G",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "015/147",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>\r\nArcanine G's Retreat Cost is 1 Colorless less for each Fire Energy attached to Arcanine G.",
+        "attacks": [
+          "[2R] Overrun (40)\r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.52,
+            "mid_price": 24.99,
+            "high_price": 261.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 24.79,
+            "direct_low_price": 79.61,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/95826"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8565506564163cfa122cda61a2601e0a6e9660ffc6faec80c6d69437f13f897df4281f5d1e95ce4c40e23a63cd",
+      "card_info": {
+        "name": "Arcanine - 1/123 (HeartGold & SoulSilver)",
+        "clean_name": "Arcanine 1 123 HeartGold and SoulSilver",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "001/123",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Sharp Fang (50)",
+          "[3R] Fire Mane (90)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.9,
+            "mid_price": 14.79,
+            "high_price": 289.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 20.43,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125039"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0852a15989726846335fb37359f928957c46651078af76900ce6eb74f71c68d34d6feb80ad3ed055c1c309178ccb",
+      "card_info": {
+        "name": "Hisuian Arcanine - 084/196",
+        "clean_name": "Hisuian Arcanine",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "084/196",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[0] Very Vulnerable (10+)\r\n<br>\r\nIf you have no cards in your hand, this attack does 150 more damage.",
+          "[2F] Sharp Fang (100)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.34,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/449535"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d71d105467554c43e2d2c5a4b6ddfe3c1ee02f1a799b466d74eceee145fdad1b047e30f4e978d69f9fc80543",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "6/18",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Security Guard</strong>\r\n<br>As long as this Pokemon is your Active Pokemon, all of your Pokemon take 30 less damage from your opponent's attacks <em>(after applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[2R] Sharp Fang (90)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 4.47,
+            "high_price": 25.42,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 4.56,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186009"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1,
+            "avg1": 0.9,
+            "avg7": 2.49,
+            "avg30": 4.91,
+            "trend": 2.58,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.26,
+            "low": 0.49,
+            "avg1": 6,
+            "avg7": 3.49,
+            "avg30": 3.45,
+            "trend": 3.64,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Arcanine-DET6"
+      }
+    },
+    {
+      "id": "pk_743f6074270a8a332846b8ce5357c4299cc82e9c9960494bdd20f72dc8b65de09153e4509f112f9abdcd8a",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "EX Trainer Kit 2: Plusle & Minun",
+        "set_code": "PR",
+        "set_id": "1542",
+        "card_number": "1/12",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Flare (20)",
+          "[3R] Heat Tackle (70) \r\n<br>Arcanine does 10 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.73,
+            "mid_price": 4.4,
+            "high_price": 69.82,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 6.76,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83583"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": 3,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.48,
+            "low": 0.05,
+            "avg1": 2.99,
+            "avg7": 1.19,
+            "avg30": 1.68,
+            "trend": 1.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Trainer-Kit-2/Arcanine-TK2M1"
+      }
+    },
+    {
+      "id": "pk_a1020c32e1b27b6f79838f384d58ada8599708c19d1008b3064c7f0556f5b6b6d295bd68da5dc27caabcd4e8ad",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "18/112",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Flare (20)",
+          "[3R] Heat Tackle (70)\r\n<br>Arcanine does 10 damage to itself."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.89,
+            "mid_price": 2.01,
+            "high_price": 28.12,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 59.99,
+            "mid_price": 90,
+            "high_price": 90,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 119.36,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83582"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 21.06,
+            "low": 0.02,
+            "avg1": 80.05,
+            "avg7": 40.35,
+            "avg30": 12.62,
+            "trend": 18.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 129.71,
+            "low": 7,
+            "avg1": 700,
+            "avg7": 113.93,
+            "avg30": 43.67,
+            "trend": 120.38,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Arcanine-FL18"
+      }
+    },
+    {
+      "id": "pk_8cbe54733a1b6f826edb9b752ce0d1543eca7b916277fa09070a24ed5c09fea0874c0b6e8952fe916d9068b9",
+      "card_info": {
+        "name": "Blaine's Arcanine",
+        "clean_name": "Blaines Arcanine",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "001/132",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2R] Heat Tackle (40)\r\n<br>Blaine's Arcanine does 10 damage to itself.",
+          "[RRRR] Firestorm (120)\r\n<br>Discard 3 Fire Energy cards attached to Blaine's Arcanine in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2372.09,
+            "mid_price": 2372.09,
+            "high_price": 2372.09,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 386.48,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 68,
+            "mid_price": 102.51,
+            "high_price": 1044.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 103.07,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83860"
+      },
+      "cardmarket": {
+        "product_name": "Blaine's Arcanine",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 27.5,
+            "avg7": 18.59,
+            "avg30": 33.79,
+            "trend": 20.65,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 105.41,
+            "low": 17.5,
+            "avg1": 800,
+            "avg7": 232.31,
+            "avg30": 113.57,
+            "trend": 240.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Blaines-Arcanine-GC1"
+      }
+    },
+    {
+      "id": "pk_21f0fb9cc33ddb5e8d0305e6c913efc99bc34368ace309b816718689e2f4be5c444ba8743fdccefd6760782c",
+      "card_info": {
+        "name": "Arcanine",
+        "clean_name": "Arcanine",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "1/123",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Sharp Fang (50)",
+          "[3R] Fire Mane (90)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35,
+            "mid_price": 82.2,
+            "high_price": 552,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 84.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 37.4,
+            "mid_price": 80,
+            "high_price": 335.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 33.79,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83586"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine",
+        "prices": [
+          {
+            "avg": 7.68,
+            "low": 1.5,
+            "avg1": 3.15,
+            "avg7": 7.2,
+            "avg30": 8.66,
+            "trend": 5.6,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 23.41,
+            "low": 2,
+            "avg1": 7.99,
+            "avg7": 20.98,
+            "avg30": 15.11,
+            "trend": 17.82,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Arcanine-HS1"
+      }
+    },
+    {
+      "id": "pk_ddd251bbfad49d094ddb9a5e155a7862f90e4c1f17518d4c68c80706b768fc831efea2c58a6c984d4846ef2cda",
+      "card_info": {
+        "name": "Arcanine BREAK - XY180 (XY Black Star Promos)",
+        "clean_name": "Arcanine BREAK XY180 XY Black Star Promos",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY180",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "BREAK Evolution",
+        "card_text": "<strong>BREAK Evolution Rule</strong>\r\n<br>\r\nArcanine BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+        "attacks": [
+          "[1R] Turbo Flame (80)\r\n<br>Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 30,
+            "high_price": 374.02,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 28.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131869"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2b32fc71187a14d2cdb9e1009288b08e9bfa2c87e4636acbc2adceaa1991f3009e33df5f5a8f3c5ecb43840d398b",
+      "card_info": {
+        "name": "Arcanine G - 15/147 (League Promo)",
+        "clean_name": "Arcanine G 15 147 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "015/147",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>Arcanine G's Retreat Cost is 1 less for each Fire Energy attached to Arcanine G.",
+        "attacks": [
+          "[2R] Overrun (40) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.74,
+            "mid_price": 16.59,
+            "high_price": 95.93,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 17.72,
+            "direct_low_price": 16.59,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/153233"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_64f2b49c4db1587ac644f2279804ed33af666743ec2a00f2d5e7c4e21cd028c767d7c05cb6024328e7c2ad42",
+      "card_info": {
+        "name": "Arcanine ex",
+        "clean_name": "Arcanine ex",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "83/92",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-BODY</b> Fire Remedy \r\n<br>Whenever you attach a Fire Energy from your hand to Arcanine ex, remove 1 damage counter and all Special Conditions from Arcanine ex.",
+        "attacks": [
+          "[1R] Overrun (30) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+          "[1RR] Flame Swirl (100) \r\n<br>Discard 2 Fire Energy or 1 React Energy card attached to Arcanine ex."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 450,
+            "mid_price": 477.5,
+            "high_price": 505,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 482.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83590"
+      },
+      "cardmarket": {
+        "product_name": "Arcanine ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 49.99,
+            "avg7": 33.14,
+            "avg30": 32.4,
+            "trend": 48.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 130,
+            "low": 24,
+            "avg1": 70,
+            "avg7": 295,
+            "avg30": 188.77,
+            "trend": 283.27,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Arcanine-ex-LM83"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 138,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 138,
+    "tcg": 113,
+    "cardmarket": 111,
+    "tcg_only": 27,
+    "cardmarket_only": 25,
+    "both_sources": 86
+  }
+}

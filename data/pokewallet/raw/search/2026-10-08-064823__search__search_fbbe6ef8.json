@@ -1,0 +1,294 @@
+{
+  "query": "Chansey Base Set",
+  "results": [
+    {
+      "id": "pk_b815a613948e0ffd0d53b098c9524c604528db1d60eb05218cfb2058312b8daf023d1831c7cb8979bf33e3",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "003/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.65,
+            "mid_price": 15.75,
+            "high_price": 184.14,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 29.84,
+            "direct_low_price": 69.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42471"
+      },
+      "cardmarket": {
+        "product_name": "Chansey",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15,
+            "avg7": 10.73,
+            "avg30": 10.31,
+            "trend": 9.69,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 21.68,
+            "low": 2.8,
+            "avg1": 12.5,
+            "avg7": 34.27,
+            "avg30": 21.49,
+            "trend": 25.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Chansey-B23"
+      }
+    },
+    {
+      "id": "pk_fe2811c381bb94e4a5438c1c1880b475cf625f209051f8574daf9b3af84b2c4f6b41365b870c7661ec57748eb2",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "003/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 289.99,
+            "mid_price": 299.99,
+            "high_price": 399.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 349.97,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 95,
+            "mid_price": 197.49,
+            "high_price": 1499.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 96.25,
+            "direct_low_price": 96.73,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106998"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2eb7f3419ff56215006dec43a501f2b27dcd66c7b9099e456cca7398c15de122dca3bbf1b4d346660708ef",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "003/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.99,
+            "mid_price": 38.72,
+            "high_price": 258.64,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 57.36,
+            "direct_low_price": 25.05,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42371"
+      },
+      "cardmarket": {
+        "product_name": "Chansey",
+        "prices": [
+          {
+            "avg": 32.8,
+            "low": 4,
+            "avg1": 16.93,
+            "avg7": 29.71,
+            "avg30": 33.15,
+            "trend": 29.72,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 17.45,
+            "avg7": 21.22,
+            "avg30": 19.23,
+            "trend": 21.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Chansey-V1-BS3"
+      }
+    },
+    {
+      "id": "pk_45a216900de4b1c012b5f2da49eb47a336f35cd64c423742d49e528757a942fe5e16df62b620f08863075aeb4fbfd136",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "144/198",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Pound (40)",
+          "[3] Egg Roll\r\n<br>Flip a coin until you get tails. This attack does 60 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.18,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.21,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/488031"
+      },
+      "cardmarket": {
+        "product_name": "Chansey",
+        "prices": [
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.15,
+            "avg30": 0.14,
+            "trend": 0.14,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.05,
+            "avg30": 0.06,
+            "trend": 0.04,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Chansey-SVI144"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

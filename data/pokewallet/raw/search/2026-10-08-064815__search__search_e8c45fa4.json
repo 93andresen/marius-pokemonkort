@@ -1,0 +1,1502 @@
+{
+  "query": "Psyduck",
+  "results": [
+    {
+      "id": "pk_ffa59b7347cf38acd7eecca5bff080dec728e853b3df075372e2ab6b59f2e8ee6c353a8d49cb93bfec693ffa6506",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "104/147",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Headbutt (10)",
+          "[2] Scratch (20)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199.99,
+            "mid_price": 250,
+            "high_price": 399.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 209.92,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88435"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 81.25,
+            "low": 35,
+            "avg1": 74.89,
+            "avg7": 89.87,
+            "avg30": 86.67,
+            "trend": 69.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 462.5,
+            "low": 199.94,
+            "avg1": 750,
+            "avg7": 442.71,
+            "avg30": 260.9,
+            "trend": 466.36,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Psyduck-AQ104"
+      }
+    },
+    {
+      "id": "pk_960c28003601cec3dbc3aa9264f202463c65bd324fc58389fa868cb31324724e79f4448575dd2df519a41a1e70",
+      "card_info": {
+        "name": "Psyduck (32)",
+        "clean_name": "Psyduck 32",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "32/149",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Dazzle Dance - Flip a coin.  If heads, the Defending Pokemon is now Confused."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.49,
+            "mid_price": 12.88,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 16.23,
+            "direct_low_price": 10.76,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 118.51,
+            "mid_price": 129.95,
+            "high_price": 175,
+            "updated_at": "2026-10-07T11:54:54.808606",
+            "market_price": 91.18,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88441"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 13.59,
+            "low": 2,
+            "avg1": 19.99,
+            "avg7": 14.57,
+            "avg30": 14.08,
+            "trend": 15.92,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 49.95,
+            "low": 15,
+            "avg1": 49.95,
+            "avg7": 70.55,
+            "avg30": 27.16,
+            "trend": 76.92,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Psyduck-BCR32"
+      }
+    },
+    {
+      "id": "pk_ac18f84db4f0ee89daac200a14465c5c9d49c76c3cba3f8456043ab8d1987519c48a0e7e54a0996e9781d08ee4",
+      "card_info": {
+        "name": "Psyduck (33)",
+        "clean_name": "Psyduck 33",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "33/149",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Firefighting - Discard a W Energy attached to the Defending Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.19,
+            "mid_price": 3.98,
+            "high_price": 96.67,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 6.26,
+            "direct_low_price": 95.82,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 85,
+            "mid_price": 97,
+            "high_price": 299.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 62.04,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88442"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 5.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 4.6,
+            "avg30": 6.04,
+            "trend": 4.73,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 31.2,
+            "low": 15,
+            "avg1": 65,
+            "avg7": 38.88,
+            "avg30": 23.5,
+            "trend": 46.75,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Psyduck-BCR33"
+      }
+    },
+    {
+      "id": "pk_9259df2b4885d6ca7b630c6d74a7a02c3f8834baac093aaf1c789ed2c626466d4acccbddd07f28a1c20149d7",
+      "card_info": {
+        "name": "Psyduck (Holo Common)",
+        "clean_name": "Psyduck Holo Common",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "7/18",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Panic (10)\r\n<br>This Pokemon is now Confused."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1.54,
+            "high_price": 7,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 1.89,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186010"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 0.83,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.81,
+            "avg30": 0.9,
+            "trend": 0.78,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": 0.4,
+            "avg7": 0.95,
+            "avg30": 0.69,
+            "trend": 1.26,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Psyduck-DET7"
+      }
+    },
+    {
+      "id": "pk_399af633628d070ba719addd3888470eaa6aae7104623a82f845d39a1ccfe11938173d2d3a2dbda81ed3bc",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "53/62",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Headache\r\n<br>Your opponent can't play Trainer cards during his or her next turn.",
+          "[W] Fury Swipes (10x)\r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 11.55,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.03,
+            "direct_low_price": 24.5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.13,
+            "mid_price": 1.35,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.85,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44455"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 0.72,
+            "avg30": 0.72,
+            "trend": 1.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.3,
+            "low": 0.02,
+            "avg1": 6.53,
+            "avg7": 4.23,
+            "avg30": 7.39,
+            "trend": 5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Psyduck-FO53"
+      }
+    },
+    {
+      "id": "pk_68a88e861f96155009a74de9cc085974b4b94637679f97b6c10240cf73492795ad13cf7af0d209a6faceee1f03",
+      "card_info": {
+        "name": "Misty's Psyduck",
+        "clean_name": "Mistys Psyduck",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "090/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] ESP\r\n<br>Flip 3 coins. If exactly 1 is heads, draw a card. If exactly 2 are heads, this attack does 20 damage. If all 3 are heads, choose 1 of the Defending Pokémon's attacks. Misty's Psyduck copies that attack except for its Energy costs. <em>(No matter what type the Defending Pokémon is, Misty's Psyduck's type is still Water.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.96,
+            "mid_price": 37.66,
+            "high_price": 206.4,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 32.19,
+            "direct_low_price": 23.45,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.49,
+            "mid_price": 7.58,
+            "high_price": 79.59,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 7.2,
+            "direct_low_price": 38.93,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87540"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Psyduck",
+        "prices": [
+          {
+            "avg": 12.09,
+            "low": 1.2,
+            "avg1": 14.5,
+            "avg7": 15.27,
+            "avg30": 13.14,
+            "trend": 12.9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Psyduck-GC90"
+      }
+    },
+    {
+      "id": "pk_4cddb318fe06bcafd8b2f5cc571ea039e6d354f421979cafed6699e8c7d396568772a499bc6537e298aa3ed67e",
+      "card_info": {
+        "name": "Sabrina's Psyduck",
+        "clean_name": "Sabrinas Psyduck",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "099/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[P] Random ESP (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, this attack does no damage and Sabrina's Psyduck is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.51,
+            "mid_price": 25,
+            "high_price": 179.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 25.21,
+            "direct_low_price": 138.15,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 9,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 8.89,
+            "direct_low_price": 67.95,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88887"
+      },
+      "cardmarket": {
+        "product_name": "Sabrina's Psyduck",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 27.39,
+            "low": 1,
+            "avg1": 3,
+            "avg7": 22.52,
+            "avg30": 24.48,
+            "trend": 22.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Sabrinas-Psyduck-GC99"
+      }
+    },
+    {
+      "id": "pk_1dcf540223b081649547c1132cb60d2ad2ca3ddd7edc24a306e23bbbaac17ba120ad8f2de86345c62b3dd326a4",
+      "card_info": {
+        "name": "Misty's Psyduck",
+        "clean_name": "Mistys Psyduck",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "054/132",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[W] Call for Friend\r\n<br>Flip a coin. If heads, you may search your deck for a Basic Pokémon with Misty in its name and put it onto your Bench. <em>(You can't use this attack if your Bench is full.)</em> Shuffle your deck afterward."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 23.61,
+            "mid_price": 157.91,
+            "high_price": 328.11,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 36.2,
+            "direct_low_price": 298.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5.29,
+            "mid_price": 8.75,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 11.44,
+            "direct_low_price": 39.38,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87539"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Psyduck",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.36,
+            "low": 2,
+            "avg1": 3.75,
+            "avg7": 18.8,
+            "avg30": 15.1,
+            "trend": 21.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Psyduck-GH54"
+      }
+    },
+    {
+      "id": "pk_25667dcb8d26711c1e31c5f6fccbfa8fb8bc3de6e3e88d8501674ca3d39014b682defc9081f570e4a611151b4a",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "11/68",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Headache (20)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.39,
+            "high_price": 14.39,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.99,
+            "mid_price": 4.7,
+            "high_price": 73,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.74,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197653"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.11,
+            "avg30": 0.14,
+            "trend": 0.18,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.62,
+            "low": 0.3,
+            "avg1": 5.2,
+            "avg7": 5.24,
+            "avg30": 5.23,
+            "trend": 5.84,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Psyduck-HIF11"
+      }
+    },
+    {
+      "id": "pk_f08afae7f1b5cc019beaa67a41aa4975b7bcbdb99969601384c181ac0b9d87f264c056a1020ca2e4f5bdb546a7",
+      "card_info": {
+        "name": "Psyduck (Delta Species)",
+        "clean_name": "Psyduck Delta Species",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "81/110",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[L] Disable \r\n<br>Choose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.92,
+            "mid_price": 19.93,
+            "high_price": 157.03,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 21.8,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 450,
+            "mid_price": 574.5,
+            "high_price": 699,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 213.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88443"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck δ Delta Species",
+        "prices": [
+          {
+            "avg": 8.66,
+            "low": 0.5,
+            "avg1": 7.75,
+            "avg7": 10.53,
+            "avg30": 8.33,
+            "trend": 8.75,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 447.5,
+            "low": 139.99,
+            "avg1": 700,
+            "avg7": 386.44,
+            "avg30": 165.51,
+            "trend": 336.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Psyduck-Delta-Species-HP81"
+      }
+    },
+    {
+      "id": "pk_156b540fcbcc16142d4d4f654545ba082e4f52a26e7235bebd2da6917b4df1e44b2f0a1516801c154d207b254b",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "088/110",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Dizziness\r\n<br>Draw a card.",
+          "[1W] Water Gun (20+)\r\n<br>\r\nDoes 20 damage plus 10 more damage for each Water Energy attached to Psyduck but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.68,
+            "mid_price": 7,
+            "high_price": 706.54,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 10.58,
+            "direct_low_price": 198.24,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 860,
+            "mid_price": 860,
+            "high_price": 860,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 775,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88434"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 5.14,
+            "low": 0.2,
+            "avg1": 1.95,
+            "avg7": 3.97,
+            "avg30": 6.35,
+            "trend": 5.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 867,
+            "low": 500,
+            "avg1": 750,
+            "avg7": 725.62,
+            "avg30": 331.83,
+            "trend": 603.21,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Psyduck-LC88"
+      }
+    },
+    {
+      "id": "pk_09c71f38c67ad2fae02194828437bb2ffe19d1484e8b305bc8d9bde9da1110a38131f6e229fdf0b12a8551892f",
+      "card_info": {
+        "name": "Psyduck - 2/12",
+        "clean_name": "Psyduck",
+        "set_name": "McDonald's Promos 2018",
+        "set_code": "MCD18",
+        "set_id": "2364",
+        "card_number": "002/012",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Confusion Wave\r\n<br>Both Active Pokémon are now Confused."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 65,
+            "mid_price": 176.9,
+            "high_price": 699.22,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 93.13,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/180451"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fd7573ab410792ed4946ce2bde477d98c0b26f051677d4b8cd09c4d062640bce597f0426626e90e83ecaf1a67dc2",
+      "card_info": {
+        "name": "Psyduck - 28/149 (Build-A-Bear Workshop Exclusive)",
+        "clean_name": "Psyduck 28 149 Build A Bear Workshop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "028/149",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Confusion Wave\r\n<br>\r\nBoth Active Pokémon are now Confused."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 202.6,
+            "mid_price": 324.83,
+            "high_price": 325.97,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 110.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/230941"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9ac432c41abcecf472b54e18c24343ae2bee7d4ba644c4624928039aff96236794d8ed7620e93a7ab0eb9685fe",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "079/105",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Flipper Splash (10)",
+          "[1P] Migraine (20)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Confused. If tails, Psyduck is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59.01,
+            "mid_price": 139.95,
+            "high_price": 1199.4,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 76.79,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 20.82,
+            "mid_price": 29.82,
+            "high_price": 248.82,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 27.67,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88433"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 13.76,
+            "low": 0.2,
+            "avg1": 5.5,
+            "avg7": 21.71,
+            "avg30": 14.12,
+            "trend": 17.96,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Psyduck-NDE79"
+      }
+    },
+    {
+      "id": "pk_14023666ac957b69ed87f0bb3e240ac81febdb3202e7489dc1f8de67397a8f80aa115109f92ee59dc31183d748",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "87/127",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Headache - Flip a coin.  If heads, your opponent can't play any Trainer, Supporter, or Stadium cards from his or her hand during his or her next turn.",
+          "[W] Latent Power (30) Flip a coin.  If tails, this attack does no damage to the Defending Pokemon.  Instead, Psyduck is now Confused."
+        ],
+        "weakness": "L+10",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.04,
+            "mid_price": 22.9,
+            "high_price": 199.82,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 25.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 97.99,
+            "mid_price": 196.94,
+            "high_price": 1399.72,
+            "updated_at": "2026-10-07T11:54:44.384907",
+            "market_price": 149.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88439"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck Lv.19",
+        "prices": [
+          {
+            "avg": 5.23,
+            "low": 0.3,
+            "avg1": 1,
+            "avg7": 4.55,
+            "avg30": 4.8,
+            "trend": 3.22,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 37.69,
+            "low": 15,
+            "avg1": 32,
+            "avg7": 39,
+            "avg30": 40.03,
+            "trend": 41.84,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Psyduck-Lv19-PL87"
+      }
+    },
+    {
+      "id": "pk_242e14e174d1c3cef1a2516aa180665d89849f06dd01b1ebea2ed1301402910b59b56de178c3a6256ecf5f6265f9",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "40/236",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[1W] Confusion Wave (20)\r\n<br>Both Active Pokémon are now Confused."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.61,
+            "mid_price": 3,
+            "high_price": 39.61,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 2.73,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 20,
+            "mid_price": 25.65,
+            "high_price": 183.13,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 25.05,
+            "direct_low_price": 182.28,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/201216"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 1.14,
+            "low": 0.02,
+            "avg1": 4,
+            "avg7": 1.2,
+            "avg30": 1.72,
+            "trend": 1.62,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 32.59,
+            "low": 15.67,
+            "avg1": 32.99,
+            "avg7": 29.35,
+            "avg30": 18.7,
+            "trend": 29.07,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Psyduck-CEC40"
+      }
+    },
+    {
+      "id": "pk_243f6dc32765c208f6e6f7847128bcd45be2eaea6d71e84da33645cdea8e7c1d2618491e970b431b4a3ae9de9dfa",
+      "card_info": {
+        "name": "Psyduck",
+        "clean_name": "Psyduck",
+        "set_name": "SM - Team Up",
+        "set_code": "SM9",
+        "set_id": "2377",
+        "card_number": "26/181",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Headache (10)\r\n<br>Flip a coin. If heads, your opponent can't play any Trainer cards from their hand during their next turn."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 1.36,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 1.42,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 12.51,
+            "mid_price": 17.9,
+            "high_price": 39.96,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 18.04,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183797"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": 4.92,
+            "low": 1.49,
+            "avg1": 0.75,
+            "avg7": 12.72,
+            "avg30": 7.85,
+            "trend": 13.63,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.59,
+            "low": 0.02,
+            "avg1": 0.97,
+            "avg7": 0.89,
+            "avg30": 0.57,
+            "trend": 0.66,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Up/Psyduck-TEU26"
+      }
+    },
+    {
+      "id": "pk_a092be7360932fbde33d2f8c8ef3e68c5dd7221ac0b93792b37be6d7663ca7c2bbe4df31953b5bdda7c693b325fb",
+      "card_info": {
+        "name": "Slowpoke & Psyduck GX",
+        "clean_name": "Slowpoke and Psyduck GX",
+        "set_name": "SM - Unified Minds",
+        "set_code": "SM11",
+        "set_id": "2464",
+        "card_number": "35/236",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WW] Ditch and Splash (40x)\r\n<br>Discard any number of Supporter cards from your hand. This attack does 40 damage for each card you discarded in this way.",
+          "<span style=\"color:Teal\"><strong>[WW+] Thrilling Times GX (10+)</strong>\r\n<br>Flip a coin. If heads, this attack does 100 more damage. If this Pokémon has at least 6 extra Water Energy attached to it <em>(in addition to this attack's cost)</em>, flip 10 coins instead, and this attack does 100 more damage for each heads. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 104.05,
+            "mid_price": 164.49,
+            "high_price": 749.25,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 142.23,
+            "direct_low_price": 109.19,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/194953"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke & Psyduck GX",
+        "prices": [
+          {
+            "avg": 57.18,
+            "low": 14,
+            "avg1": 72.48,
+            "avg7": 63.14,
+            "avg30": 61.94,
+            "trend": 51.6,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.5,
+            "avg7": 7.17,
+            "avg30": 6.56,
+            "trend": 6.71,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V1-UNM35"
+      }
+    },
+    {
+      "id": "pk_9f0f213481da7768a03ccee61560b3fd841db2bc2f0a1b7712a1b5d195ed641adde367dabe1d62be5918bd93f3112f",
+      "card_info": {
+        "name": "Slowpoke & Psyduck GX (Full Art)",
+        "clean_name": "Slowpoke and Psyduck GX Full Art",
+        "set_name": "SM - Unified Minds",
+        "set_code": "SM11",
+        "set_id": "2464",
+        "card_number": "217/236",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WW] Ditch and Splash (40x)\r\n<br>Discard any number of Supporter cards from your hand. This attack does 40 damage for each card you discarded in this way.",
+          "<span style=\"color:Teal\"><strong>[WW+] Thrilling Times GX (10+)</strong>\r\n<br>Flip a coin. If heads, this attack does 100 more damage. If this Pokémon has at least 6 extra Water Energy attached to it <em>(in addition to this attack's cost)</em>, flip 10 coins instead, and this attack does 100 more damage for each heads. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 141.44,
+            "mid_price": 349.69,
+            "high_price": 870.49,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 156.34,
+            "direct_low_price": 349.68,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/194954"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke & Psyduck GX",
+        "prices": [
+          {
+            "avg": 74.76,
+            "low": 22,
+            "avg1": 50,
+            "avg7": 67.68,
+            "avg30": 92.79,
+            "trend": 98.9,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.95,
+            "avg7": 14.84,
+            "avg30": 10.99,
+            "trend": 14.95,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V2-UNM217"
+      }
+    },
+    {
+      "id": "pk_86dd8cef32409da34bf64b9408293e9f9912cc413e50ab6d4e5d6764566f5182d83586740d0cec3e00bcf5ca638577",
+      "card_info": {
+        "name": "Slowpoke & Psyduck GX (Alternate Full Art)",
+        "clean_name": "Slowpoke and Psyduck GX Alternate Full Art",
+        "set_name": "SM - Unified Minds",
+        "set_code": "SM11",
+        "set_id": "2464",
+        "card_number": "218/236",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "250.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WW] Ditch and Splash (40x)\r\n<br>Discard any number of Supporter cards from your hand. This attack does 40 damage for each card you discarded in this way.",
+          "<span style=\"color:Teal\"><strong>[WW+] Thrilling Times GX (10+)</strong>\r\n<br>Flip a coin. If heads, this attack does 100 more damage. If this Pokémon has at least 6 extra Water Energy attached to it <em>(in addition to this attack's cost)</em>, flip 10 coins instead, and this attack does 100 more damage for each heads. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 345,
+            "mid_price": 345.74,
+            "high_price": 570,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 347.16,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/194955"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke & Psyduck GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15,
+            "avg7": 24.98,
+            "avg30": 14.18,
+            "trend": 24.4,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 189.58,
+            "low": 30,
+            "avg1": 210,
+            "avg7": 203.42,
+            "avg30": 252.5,
+            "trend": 203.99,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V3-UNM218"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 116,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 116,
+    "tcg": 92,
+    "cardmarket": 97,
+    "tcg_only": 19,
+    "cardmarket_only": 24,
+    "both_sources": 73
+  }
+}

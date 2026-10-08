@@ -1,0 +1,1339 @@
+{
+  "query": "Darkness Energy",
+  "results": [
+    {
+      "id": "pk_889165134221b5c3b55505e573a79ed76d9cce167b4481af0a0a25e36011fbfcd729d674b572843cfd014def1193",
+      "card_info": {
+        "name": "Darkness Energy",
+        "clean_name": "Darkness Energy",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "142/147",
+        "rarity": "Rare",
+        "card_type": "Special Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, the attack does 10 more damage to the Defending Pokémon.\r\n<br>\r\nAt the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name.\r\n<br>\r\nDarkness Energy provides Darkness Energy. <em>(Doesn't count as a basic Energy card.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.18,
+            "mid_price": 31.5,
+            "high_price": 89.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 10.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 15,
+            "high_price": 83.72,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 11.24,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84696"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 7.67,
+            "low": 0.7,
+            "avg1": 11.5,
+            "avg7": 4.86,
+            "avg30": 4.29,
+            "trend": 5.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.33,
+            "low": 0.49,
+            "avg1": 0.68,
+            "avg7": 4.25,
+            "avg30": 2.6,
+            "trend": 3.65,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Darkness-Energy-AQ142"
+      }
+    },
+    {
+      "id": "pk_666ddf0519e303615f66576ad843708f8ac40c95583f7a6c86fd433fba27131c625a02948293a445bd7203",
+      "card_info": {
+        "name": "Darkness Energy (#3)",
+        "clean_name": "Darkness Energy 3",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "3/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.42,
+            "mid_price": 0.65,
+            "high_price": 25.42,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98718"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.22,
+            "avg30": 0.27,
+            "trend": 0.25,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK53Z"
+      }
+    },
+    {
+      "id": "pk_ad063860f264c359f085fd8a5f719962f8c82180be349e87deae3675542df5dd709f08196b1604b53fcb2c",
+      "card_info": {
+        "name": "Darkness Energy (#5)",
+        "clean_name": "Darkness Energy 5",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "5/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.79,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.79,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98719"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.11,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK55Z"
+      }
+    },
+    {
+      "id": "pk_097e995240be6905dc6f8bcc8c81451cdcf5229b5f9b6c43813b07d71f7bdcdbdaccd61d610022149c11c1",
+      "card_info": {
+        "name": "Darkness Energy (#6)",
+        "clean_name": "Darkness Energy 6",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "6/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.95,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.51,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98720"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.3,
+            "avg30": 0.3,
+            "trend": 0.19,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK56Z"
+      }
+    },
+    {
+      "id": "pk_7c270fe3ec843ebab025c3a1c1e9af085ec31d70ceed3df4207eef0c8d7bfec72d5f53f4587e8954b12568",
+      "card_info": {
+        "name": "Darkness Energy (#7)",
+        "clean_name": "Darkness Energy 7",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "7/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 0.96,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.84,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98721"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.28,
+            "low": 0.05,
+            "avg1": 0.35,
+            "avg7": 0.19,
+            "avg30": 0.27,
+            "trend": 0.16,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK57Z"
+      }
+    },
+    {
+      "id": "pk_b2734115539213190d81c727b817c94002f25828dfb7f99eb332c7e47f55fc04949a6893c653c18a41b1cc",
+      "card_info": {
+        "name": "Darkness Energy (#8)",
+        "clean_name": "Darkness Energy 8",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "8/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.66,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98722"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.05,
+            "avg1": 0.1,
+            "avg7": 0.28,
+            "avg30": 0.28,
+            "trend": 0.24,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK58Z"
+      }
+    },
+    {
+      "id": "pk_c2490a48d35c88634064b8b4a489c54ba2b4b3172f99e18ee1c410c1856ba66eaec4fca034e6f9eb64c684",
+      "card_info": {
+        "name": "Darkness Energy (#9)",
+        "clean_name": "Darkness Energy 9",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "9/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.63,
+            "high_price": 49.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.75,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98723"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.28,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.22,
+            "avg30": 0.26,
+            "trend": 0.19,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK59Z"
+      }
+    },
+    {
+      "id": "pk_f6c67bf1f5670945ba674b9412be97ca1ae81574f1a1ae5d1511c76c54ace2bbd8d6a0c365057c765296dc64",
+      "card_info": {
+        "name": "Darkness Energy (#10)",
+        "clean_name": "Darkness Energy 10",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "10/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.75,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.75,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98724"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.11,
+            "avg30": 0.28,
+            "trend": 0.16,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK510Z"
+      }
+    },
+    {
+      "id": "pk_ee0434173454e705d713d13ce23919e4c8398ffe09f059afc2c1fe4c371f488ddf654a7863f7ba302fe64925",
+      "card_info": {
+        "name": "Darkness Energy (#20)",
+        "clean_name": "Darkness Energy 20",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "20/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.8,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98725"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.05,
+            "avg1": 0.3,
+            "avg7": 0.2,
+            "avg30": 0.22,
+            "trend": 0.2,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK520E"
+      }
+    },
+    {
+      "id": "pk_9b34a9166acaff62d3b8a9da81660ef905e44168be4ab56a4c708836f0eab0b6b46a5b31bd191389adf99dbe",
+      "card_info": {
+        "name": "Darkness Energy (#22)",
+        "clean_name": "Darkness Energy 22",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "22/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.52,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98726"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.28,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.2,
+            "avg30": 0.21,
+            "trend": 0.13,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK522Z"
+      }
+    },
+    {
+      "id": "pk_a24345b6292dcb040976af3d15fe63e06eb5bc549f8be251d678d833950d93b54ae8abe388d57309df202f0e",
+      "card_info": {
+        "name": "Darkness Energy (#24)",
+        "clean_name": "Darkness Energy 24",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "24/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.9,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98727"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.4,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.3,
+            "avg30": 0.32,
+            "trend": 0.26,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK524Z"
+      }
+    },
+    {
+      "id": "pk_937217daabfeda9e01ad413835cc8bdadc085a2b8a07bf89470365d79f3e680fc7f141847e14f460406c8ee2",
+      "card_info": {
+        "name": "Darkness Energy (#26)",
+        "clean_name": "Darkness Energy 26",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "26/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.79,
+            "high_price": 22.3,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.53,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98728"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.03,
+            "avg1": 0.2,
+            "avg7": 0.19,
+            "avg30": 0.42,
+            "trend": 0.27,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK526Z"
+      }
+    },
+    {
+      "id": "pk_fe6ea8cb413bff1364942897e1ae114df643718b8b73d2bf3f2f5881107cd914476a4d2f42fbd544bcc4657b",
+      "card_info": {
+        "name": "Darkness Energy (#28)",
+        "clean_name": "Darkness Energy 28",
+        "set_name": "BW Trainer Kit: Excadrill & Zoroark",
+        "set_code": "BLW",
+        "set_id": "1538",
+        "card_number": "28/30",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.38,
+            "mid_price": 0.54,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.39,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/98729"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.22,
+            "avg30": 0.26,
+            "trend": 0.16,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Trainer-Kit/Darkness-Energy-TK528Z"
+      }
+    },
+    {
+      "id": "pk_d1d11396aa214dd261eb4fcc43b2e163aabbd9e969558273e6fe67143a6a4bdf02e00d83b65caa0d16",
+      "card_info": {
+        "name": "Darkness Energy (Eevee Stamped)",
+        "clean_name": "Darkness Energy Eevee Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Darkness Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268256"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_436af8c2b769ba5bc820c064585d33a5a33f88613380c4020747dcd9202015e747150f8b436ad22f0f5f",
+      "card_info": {
+        "name": "Basic Darkness Energy - Darkrai Deck",
+        "clean_name": "Basic Darkness Energy Darkrai Deck",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "007",
+        "rarity": "Common",
+        "card_type": "Basic Darkness Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556825"
+      },
+      "cardmarket": {
+        "product_name": "Basic Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.1,
+            "trend": 0.05,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Basic-Darkness-Energy-BA24DAR"
+      }
+    },
+    {
+      "id": "pk_b8552b12b87c26b5d31cb2293417f0d7379b5f37d918d698bed2f45a89fb53208767d40e7e95808d8717577c3712",
+      "card_info": {
+        "name": "Darkness Energy (Basic)",
+        "clean_name": "Darkness Energy Basic",
+        "set_name": "Black and White",
+        "set_code": "BLW",
+        "set_id": "1400",
+        "card_number": "111/114",
+        "rarity": "Common",
+        "card_type": "Energy",
+        "product_type": "card",
+        "hp": "0.0",
+        "stage": "Energy",
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 3.86,
+            "high_price": 60.32,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 4.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84679"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 1.76,
+            "avg30": 1.07,
+            "trend": 2.62,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.58,
+            "low": 0.2,
+            "avg1": 1,
+            "avg7": 1.57,
+            "avg30": 1.57,
+            "trend": 1.4,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darkness-Energy-V1-BLW111"
+      }
+    },
+    {
+      "id": "pk_19a0283040eb826390171c302774a71940156785c68f95f6505c727d588074f5c1f2e62319407cbca8c619f3",
+      "card_info": {
+        "name": "Darkness Energy (Basic)",
+        "clean_name": "Darkness Energy Basic",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "94/95",
+        "rarity": "Common",
+        "card_type": "Energy",
+        "product_type": "card",
+        "hp": "0.0",
+        "stage": "Energy",
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 149.99,
+            "mid_price": 300,
+            "high_price": 1099.99,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 146.74,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 114.49,
+            "mid_price": 143,
+            "high_price": 1119.82,
+            "updated_at": "2026-10-07T11:54:54.808606",
+            "market_price": 110,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84678"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 52.5,
+            "low": 39,
+            "avg1": 55,
+            "avg7": 61.43,
+            "avg30": 57.91,
+            "trend": 64.57,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 34.9,
+            "avg1": 44.99,
+            "avg7": 64.71,
+            "avg30": 31.11,
+            "trend": 63.72,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Darkness-Energy-V1-CL94"
+      }
+    },
+    {
+      "id": "pk_10625d219cc100cef9080ce3225c800ae2e2bcf781c74fc9906590e7d83a0318f6aeac3feaca3e6221b135bd",
+      "card_info": {
+        "name": "Darkness Energy (Special)",
+        "clean_name": "Darkness Energy Special",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "86/95",
+        "rarity": "Uncommon",
+        "card_type": "Energy",
+        "product_type": "card",
+        "hp": "0.0",
+        "stage": "Special Energy",
+        "card_text": null,
+        "attacks": [
+          "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon (before applying Weakness and Resistance).  Ignore this effect if the Pokemon that Darkness Energy is attached to isn't Dark.  Darkness Energy provides D Energy.  (Doesn't count as a basic Energy card.)"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.77,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 1.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.7,
+            "mid_price": 6.92,
+            "high_price": 118.52,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 7.09,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84694"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 0.64,
+            "low": 0.02,
+            "avg1": 0.7,
+            "avg7": 0.69,
+            "avg30": 0.7,
+            "trend": 0.7,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.98,
+            "avg1": 1.13,
+            "avg7": 4.65,
+            "avg30": 3.19,
+            "trend": 4.99,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Darkness-Energy-CL86"
+      }
+    },
+    {
+      "id": "pk_d8cfbc205a99d7ba7dfe13480319c722203f90ee7447df4aa10769d78e7656d1fccf20a020bab1f58ac5d9abe051123d",
+      "card_info": {
+        "name": "Darkness Energy (Texture Full Art)",
+        "clean_name": "Darkness Energy Texture Full Art",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "158/159",
+        "rarity": "Ultra Rare",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.19,
+            "mid_price": 6.15,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 5.01,
+            "direct_low_price": 7,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478108"
+      },
+      "cardmarket": {
+        "product_name": "Darkness Energy",
+        "prices": [
+          {
+            "avg": 3.15,
+            "low": 1.96,
+            "avg1": 3.5,
+            "avg7": 3.31,
+            "avg30": 3.4,
+            "trend": 3.14,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Darkness-Energy-V2-CRZ158"
+      }
+    },
+    {
+      "id": "pk_fe8d1854349b1ac36e5e68dc914a67e16e73783bdb085ae6e2d84e6934582b53f7ffcd41d58f8ab3b7",
+      "card_info": {
+        "name": "Darkness Energy (2013 Unnumbered)",
+        "clean_name": "Darkness Energy 2013 Unnumbered",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Darkness Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "<em>Unnumbered with 2013 copyright date.</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 0.88,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.95,
+            "direct_low_price": 2.98,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/135029"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 229,
+    "total_pages": 12
+  },
+  "metadata": {
+    "total_count": 229,
+    "tcg": 161,
+    "cardmarket": 161,
+    "tcg_only": 68,
+    "cardmarket_only": 68,
+    "both_sources": 93
+  }
+}

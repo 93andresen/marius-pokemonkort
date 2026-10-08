@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Ditto&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:39 GMT
+Content-Type: application/json
+Content-Length: 34597
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 839
+X-RateLimit-Remaining-Hour: 17
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=66ka41G2ZQHgB%2BEo2YHomjWhGALwEOgiK1a8oXBkXb74CG%2FPgTKC6xikvQV2kSXqgqltkK40GhJcF%2FBVB1TVQZMtutX5%2FFAQ3CNSnsEkK7k65gm9mUauRSjzznl3wC%2FP%2Fr7sKCjpn3ZLDHb0QZkWZg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47283aa2c368deb-OSL
+alt-svc: h3=":443"; ma=86400

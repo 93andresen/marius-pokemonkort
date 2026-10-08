@@ -1,0 +1,1220 @@
+{
+  "query": "Tyranitar",
+  "results": [
+    {
+      "id": "pk_b84a38af20728e25eba8bddc657aa0aa0544f153c80539b25f3d29fb73ac5f5fb9b3b42b262433cea8d72e5bfb5f",
+      "card_info": {
+        "name": "Tyranitar (H28)",
+        "clean_name": "Tyranitar H28",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H28/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Destructive Roar\r\n<br>Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pokémon.",
+          "[2D] Tail Slap (30)",
+          "[3DD] Gigacrush (60)\r\n<br>Each player discards the top 3 cards from his or her deck."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 399.99,
+            "mid_price": 700.98,
+            "high_price": 729.89,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 198.86,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90114"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 483.8,
+            "low": 75,
+            "avg1": 150,
+            "avg7": 496.11,
+            "avg30": 478.84,
+            "trend": 502.76,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 119.99,
+            "avg7": 56.39,
+            "avg30": 47.94,
+            "trend": 61.06,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tyranitar-V1-AQH28"
+      }
+    },
+    {
+      "id": "pk_933c889f851db55c46d0645e07f23993920932e35ed3b6ff86508f338b918eac4aa566fe590acd4c2a1939a96c",
+      "card_info": {
+        "name": "Tyranitar",
+        "clean_name": "Tyranitar",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "040/147",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Destructive Roar\r\n<br>Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pokémon.",
+          "[2D] Tail Slap (30)",
+          "[3DD] Gigacrush (60)\r\n<br>Each player discards the top 3 cards from his or her deck."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 149.99,
+            "mid_price": 249.47,
+            "high_price": 399.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 113.3,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 91.99,
+            "mid_price": 196,
+            "high_price": 300,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 109,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90117"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 34.15,
+            "low": 5,
+            "avg1": 41.45,
+            "avg7": 39.2,
+            "avg30": 41.03,
+            "trend": 33.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 90,
+            "low": 12.5,
+            "avg1": 90,
+            "avg7": 134.88,
+            "avg30": 66.22,
+            "trend": 124.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tyranitar-V2-AQ40"
+      }
+    },
+    {
+      "id": "pk_8a26a6a3dc59b91b931f16b462ac4c378a2c91aed3570ee422ce860d3513fde95df930b5f6350312b453e0a161",
+      "card_info": {
+        "name": "Dark Tyranitar - 20/109 (EX Team Rocket Returns)",
+        "clean_name": "Dark Tyranitar 20 109 EX Team Rocket Returns",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "020/109",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting/Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Sand Damage</strong>\r\n<br>\r\nAs long as Dark Tyranitar is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.",
+        "attacks": [
+          "[2F] Second Strike (50+)\r\n<br>If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 63.91,
+            "mid_price": 150,
+            "high_price": 702.96,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 50.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/97957"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ab1646870f1428dbcf7d904b04b992f62e6e869ed29d7cda60b2c44babaa822ebbaebd230d42d4935669ad76cd58",
+      "card_info": {
+        "name": "Tyranitar - 26/95 (HGSS Unleashed)",
+        "clean_name": "Tyranitar 26 95 HGSS Unleashed",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "026/095",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[3] Tail Crush (40+)\r\n<br>Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+          "[2DD] Hyper Beam (80)\r\n<br>Discard an Energy card attached to the Defending Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19,
+            "mid_price": 29.99,
+            "high_price": 327.72,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 68.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125049"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_06302ec2302284a4cdb8773fd8851895f03216d97447121a6592368ce0a6ddf4cb769ab50c6bd36556c5059f6aee",
+      "card_info": {
+        "name": "Tyranitar - 30/100 (DP Stormfront)",
+        "clean_name": "Tyranitar 30 100 DP Stormfront",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "030/100",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Darkness Drive</strong>\r\n<br>\r\nAfter your opponent's Pokémon uses a Poké-Power, you may search your discard pile for a basic Darkness Energy card and attach it to Tyranitar.",
+        "attacks": [
+          "[2] Grind (20x)\r\n<br>Does 20 damage times the amount of Energy attached to Tyranitar.",
+          "[DDDDD] Spinning Tail\r\n<br>This attack does 30 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F+30",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.52,
+            "mid_price": 21.43,
+            "high_price": 186.84,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 25.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125079"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_885292bc6d92186b7a980bd2d0e655e329c68f5544d40b7c50f64c3e0e8723f7a0d6a38bdb4913fdca0b373ea749",
+      "card_info": {
+        "name": "Team Rocket's Tyranitar (Non-holo)",
+        "clean_name": "Team Rockets Tyranitar Non holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "096/182",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Sand Stream</strong> During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon.",
+        "attacks": [
+          "[FCCC] Demolition Tackle (180)<br> Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.28,
+            "mid_price": 0.57,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.58,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/637652"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6ff2d8a6c76cfcc7da4f170c31bfeabbbbcbbc8a57c64bf870f035624462703a5b4e63185160b75ae72f4697ec",
+      "card_info": {
+        "name": "Tyranitar (Delta Species)",
+        "clean_name": "Tyranitar Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "16/113",
+        "rarity": "Holo Rare",
+        "card_type": "Metal Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-POWER</b> Crush Draw \r\n<br>Once during your turn <em>(before you attack)</em>, you may reveal the top card of your deck.  If that card is a basic Energy card, attach it to 1 of your Pokemon.  If not, put the card back on your deck.  This power can't be used if Tyranitar is affected by a Special Condition.",
+        "attacks": [
+          "[1MR] Delta Crush (50+) \r\n<br>You may discard an Energy card attached to Tyranitar.  If you do, this attack does 50 damage plus 20 more damage."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 219,
+            "mid_price": 327.5,
+            "high_price": 1599.62,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 262.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 250.33,
+            "mid_price": 376.05,
+            "high_price": 501.76,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 304.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90123"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar δ Delta Species",
+        "prices": [
+          {
+            "avg": 149.4,
+            "low": 11.99,
+            "avg1": 37,
+            "avg7": 37.86,
+            "avg30": 59.62,
+            "trend": 73.45,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 298.25,
+            "low": 13,
+            "avg1": 1000,
+            "avg7": 208.29,
+            "avg30": 112.06,
+            "trend": 203.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Tyranitar-Delta-Species-DS16"
+      }
+    },
+    {
+      "id": "pk_61b564b5a382b33b88bc47a2772f5915c21355115d880e620a1d6838e7e5e2a0770649ceeaaf961ff4eea4b4db",
+      "card_info": {
+        "name": "Tyranitar ex (Delta Species)",
+        "clean_name": "Tyranitar ex Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "99/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1L] Electromark - Put a Shock-wave marker on 1 of your opponent's Pokemon.",
+          "[2L] Hyper Claws (70+) If the Defending Pokemon is a Stage 2 Evolved Pokemon, this attack does 70 damage plus 20 more damage.",
+          "[1LL] Shock-wave - Choose 1 of your opponent's Pokemon that has any Shock-wave markers on it.  That Pokemon is Knocked Out."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 130.98,
+            "mid_price": 164,
+            "high_price": 1649.72,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 224.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90126"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar ex δ Delta Species",
+        "prices": [
+          {
+            "avg": 100.88,
+            "low": 20,
+            "avg1": 30,
+            "avg7": 45.33,
+            "avg30": 66.04,
+            "trend": 66.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 50,
+            "avg7": 32.02,
+            "avg30": 29.33,
+            "trend": 32.29,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Tyranitar-ex-Delta-Species-DF99"
+      }
+    },
+    {
+      "id": "pk_8bf4f091990b74603868ab06da89da6e270002657b1df1d3628d18e53b1f8f5453d48e9367ac07d701d34f959c",
+      "card_info": {
+        "name": "Tyranitar (29)",
+        "clean_name": "Tyranitar 29",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "029/165",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Dark Aura</strong>\r\n<br>\r\nAll Energy attached to Tyranitar is Darkness Energy instead of its usual type.",
+        "attacks": [
+          "[DDDD] Stamp (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon, if any. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 327.73,
+            "mid_price": 400,
+            "high_price": 898,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 311,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 280,
+            "mid_price": 450,
+            "high_price": 1659.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 300,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90115"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 453,
+            "low": 10,
+            "avg1": 139,
+            "avg7": 290.96,
+            "avg30": 266.83,
+            "trend": 371.83,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 86.25,
+            "low": 10,
+            "avg1": 225,
+            "avg7": 105.96,
+            "avg30": 99.24,
+            "trend": 117.44,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Tyranitar-V1-EX29"
+      }
+    },
+    {
+      "id": "pk_8579fb1184a4fce4ea27783b1f0b2c84a6087bafecda5194cafa93f79b3e4f6637eab5fd7c8478bb45ee22147e",
+      "card_info": {
+        "name": "Tyranitar (66)",
+        "clean_name": "Tyranitar 66",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "066/165",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Dark Aura</strong>\r\n<br>\r\nAll Energy attached to Tyranitar is Darkness Energy instead of its usual type.",
+        "attacks": [
+          "[DDDD] Stamp (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon, if any. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69,
+            "mid_price": 145,
+            "high_price": 1212.88,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 108.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 600,
+            "mid_price": 857.85,
+            "high_price": 857.85,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 78.14,
+            "direct_low_price": 857.85,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90118"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 17.45,
+            "low": 1.5,
+            "avg1": 14.99,
+            "avg7": 14.43,
+            "avg30": 12.03,
+            "trend": 19.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 24.99,
+            "low": 3.99,
+            "avg1": 49.99,
+            "avg7": 32.42,
+            "avg30": 44.1,
+            "trend": 41.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Tyranitar-V2-EX66"
+      }
+    },
+    {
+      "id": "pk_12dc9325e95e3d468c417634e1b6e8fb58e043f6cb5e7d83ca47507f70cf22440170c8c83f51301adc6a3932b049",
+      "card_info": {
+        "name": "M Tyranitar EX - 43/98",
+        "clean_name": "M Tyranitar EX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "043/098",
+        "rarity": "Promo",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": "<em>Theta Double — This Pokémon may have up to 2 Pokémon Tool cards attached to it.\r\n<br><br>\r\n<em>Mega Evolution rule — When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.</em>\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[2DD] Destroyer King (110+)\r\n<br>This attack does 60 more damage for each damage counter on your opponent's Active Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.5,
+            "mid_price": 20,
+            "high_price": 187.12,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 19.66,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/152946"
+      },
+      "cardmarket": {
+        "product_name": "MTyranitar EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 3.71,
+            "avg30": 3.71,
+            "trend": 4.49,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9,
+            "low": 3.49,
+            "avg1": 15,
+            "avg7": 10.07,
+            "avg30": 6.56,
+            "trend": 8.75,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins/MTyranitar-EX-V2-OS"
+      }
+    },
+    {
+      "id": "pk_1b996c1c92304a3062c3f506241c463bf1c13f958d291b473c431418375a9c7b1e004a81a3714ff12ccaed7663",
+      "card_info": {
+        "name": "Tyranitar - 3/12",
+        "clean_name": "Tyranitar",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "003/012",
+        "rarity": "Promo",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "2",
+        "card_text": "<strong>Poké-BODY — Dark Aura</strong>\r\n<br>All Energy attached to Tyranitar is Darkness Energy instead of its usual type.",
+        "attacks": [
+          "[DDDD] Stamp (50+)\r\n<br>\r\nFlip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon, if any. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/210846"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0d2edb26351ecec33ec2b11771fc09368c87345468ae291207884f451ff59f8f9e55d6e60a345a711f8b162b3d5a",
+      "card_info": {
+        "name": "Tyranitar - 56/124 (Cosmos Holo)",
+        "clean_name": "Tyranitar 56 124 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "056/124",
+        "rarity": "Promo",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Raging Road</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand to evolve 1 of your Pokémon, you may attach 1 Darkness Energy from your discard pile to this Pokémon for each Prize card your opponent has taken.",
+        "attacks": [
+          "[DDDDD] Dark Mountain (150+)\r\n<br>Discard the top 2 cards of your deck. This card does 50 more damage for each Supporter card discard in this way."
+        ],
+        "weakness": "Fx2",
+        "resistance": "P-20",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 3.86,
+            "high_price": 44.1,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 3.91,
+            "direct_low_price": 3.81,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186829"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_451b1db5609b892e6bd5ec1f026dc164119e2c2953df9eaec05b30470e6a38125b03ab9934c54959aba5e4405a4801",
+      "card_info": {
+        "name": "Tyranitar - 135/193 (Cosmo Foil)",
+        "clean_name": "Tyranitar 135 193 Cosmo Foil",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "135/193",
+        "rarity": "Promo",
+        "card_type": "Dark",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Rout (30+)\r\n<br>This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+          "[DD] Dread Mountain (230)\r\n<br>Discard the top 4 cards of your deck."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610125"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3fe13dda9ebba8f3c578ad75288d41111cc6b8111d90e788c0453b38b6c7e5ec13555b7ab645aa9d7aefe05f832e",
+      "card_info": {
+        "name": "Team Rocket's Tyranitar (Prerelease)",
+        "clean_name": "Team Rockets Tyranitar Prerelease",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "096/182",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Sand Stream</strong> During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon.",
+        "attacks": [
+          "[FCCC] Demolishing Tackle (180)<br> Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.99,
+            "mid_price": 11.79,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 10.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/633111"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Tyranitar",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 17.53,
+            "low": 6,
+            "avg1": 26,
+            "avg7": 16.93,
+            "avg30": 18.01,
+            "trend": 18.11,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals-Additionals/Team-Rockets-Tyranitar-V1-xDRI096"
+      }
+    },
+    {
+      "id": "pk_0c567f30c42f21346c5433496b820799eb916041c561f9bc66e821519fbd7a7cc23c1f4f770480587c30399caad0",
+      "card_info": {
+        "name": "Team Rocket's Tyranitar (Prerelease) [Staff]",
+        "clean_name": "Team Rockets Tyranitar Prerelease Staff",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "096/182",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Sand Stream</strong> During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon.",
+        "attacks": [
+          "[FCCC] Demolishing Tackle (180)<br> Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 115,
+            "mid_price": 137.88,
+            "high_price": 1152.82,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 137.28,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/634334"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f742d720af03e0ec91d54200e5a60d7ddcf1b3dec9c371679ee90cb2382467eeb552aea183a0053b9c6540cb4f0e",
+      "card_info": {
+        "name": "Team Rocket's Tyranitar (Pokemon Center Exclusive)",
+        "clean_name": "Team Rockets Tyranitar Pokemon Center Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "096/182",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Sand Stream</strong> During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon.",
+        "attacks": [
+          "[FCCC] Demolition Tackle (180)<br> Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 28.87,
+            "mid_price": 36,
+            "high_price": 745.41,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 31.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635617"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Tyranitar",
+        "prices": [
+          {
+            "avg": 53.48,
+            "low": 49.5,
+            "avg1": 52.49,
+            "avg7": 46.74,
+            "avg30": 57.08,
+            "trend": 59.54,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals-Additionals/Team-Rockets-Tyranitar-V3-xDRI096"
+      }
+    },
+    {
+      "id": "pk_edd769df019204dab2f7e8a404f0fdfade7f7e044b67c280f0a637d85aab249095409631fc43b29c421109329436",
+      "card_info": {
+        "name": "Tyranitar ex (Prismatic Evolutions Stamp)",
+        "clean_name": "Tyranitar ex Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "064/131",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "340.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[C] Grind (50x)<br> This attack does 50 damage for each Energy attached to this Pokemon.",
+          "[DCC] Tyrannical Crush (150)<br> Discard a random card from your opponent's hand."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1,
+            "high_price": 22.91,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 0.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/652713"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar ex",
+        "prices": [
+          {
+            "avg": 3.35,
+            "low": 1,
+            "avg1": 3.48,
+            "avg7": 3.35,
+            "avg30": 3.3,
+            "trend": 3.45,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions-Additionals/Tyranitar-ex-xPRE064"
+      }
+    },
+    {
+      "id": "pk_ea116e82c758f1f7945e6a3e89da2c2065641d983c2eb603f2e0ab0db7db1500aef0ef24d9e63b1f85a21416b609b3",
+      "card_info": {
+        "name": "Tyranitar (Paldea Evolved Stamp)",
+        "clean_name": "Tyranitar Paldea Evolved Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "135/193",
+        "rarity": "Promo",
+        "card_type": "Dark",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Rout (30+)\r\n<br>This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+          "[DD] Dread Mountain (230)\r\n<br>Discard the top 4 cards of your deck."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.77,
+            "mid_price": 1.2,
+            "high_price": 22.22,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 1.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/652747"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 3.63,
+            "low": 0.02,
+            "avg1": 2.4,
+            "avg7": 3.46,
+            "avg30": 3.18,
+            "trend": 2.83,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Tyranitar-V3-PAL135"
+      }
+    },
+    {
+      "id": "pk_87a31a620eb735f9631150975c019195ed2d16fdb264e7bc46807f6ab20a2673a7fd54316709a0d17aa528a7502b",
+      "card_info": {
+        "name": "Tyranitar - 095/159 (Cosmos Foil)",
+        "clean_name": "Tyranitar 095 159 Cosmos Foil",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "095/159",
+        "rarity": "Promo",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Daunting Gaze</strong>\r\n<br>\r\n<br>As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards from their hand.",
+        "attacks": [
+          "[1D] Cracking Stomp (150)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17,
+            "mid_price": 20.5,
+            "high_price": 31.36,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 19.42,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/657212"
+      },
+      "cardmarket": {
+        "product_name": "Tyranitar",
+        "prices": [
+          {
+            "avg": 2.98,
+            "low": 0.5,
+            "avg1": 3,
+            "avg7": 2.8,
+            "avg30": 2.7,
+            "trend": 3.4,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:15.053584",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together-Additionals/Tyranitar-xJTG095"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 204,
+    "total_pages": 11
+  },
+  "metadata": {
+    "total_count": 204,
+    "tcg": 179,
+    "cardmarket": 123,
+    "tcg_only": 81,
+    "cardmarket_only": 25,
+    "both_sources": 98
+  }
+}

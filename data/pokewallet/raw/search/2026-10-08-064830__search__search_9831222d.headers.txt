@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Wigglytuff+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:31 GMT
+Content-Type: application/json
+Content-Length: 4514
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 844
+X-RateLimit-Remaining-Hour: 22
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=biBey1dnCoHxvpuUa4O%2BiCPLacs7GS%2BGXabtdN8TV%2BPgF1YfD0ItyKhY0IkVpRBSzdcvAETgHEL6OvOHxl7LEpPW%2BNTUgD0VLu%2F%2FdcQS6b2ikggkJ8fTktiQAWgIslM3igr1rPY3bkf%2Ba2M7XD9wmg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472837fdd9a8be6-OSL
+alt-svc: h3=":443"; ma=86400

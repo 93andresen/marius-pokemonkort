@@ -1,0 +1,1468 @@
+{
+  "query": "Meowth",
+  "results": [
+    {
+      "id": "pk_114e57957689c462db8410a18245b48c3b51de2b1a7e11c9230127bdcde5cea121f29672b84677e86243002f06df98",
+      "card_info": {
+        "name": "Meowth (Ash vs Team Rocket Deck Kit)",
+        "clean_name": "Meowth Ash vs Team Rocket Deck Kit",
+        "set_name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
+        "set_code": "AVTR",
+        "set_id": "23095",
+        "card_number": "013/026",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\"><em>This promotional card was printed in Japanese only.</em></span>",
+        "attacks": [
+          "[1] Filch\r\n<br>\r\nDraw a card.",
+          "[2] Dig Claws (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.99,
+            "mid_price": 26.99,
+            "high_price": 32.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 32.87,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490271"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_058219429b3b4a75aff027ab21ff91488e48ee3cb51596b72021ca16d73ce60435e0b870ef9f45c573fb223f",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "080/130",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Pay Day (10)\r\n<br>Flip a coin. If heads, draw a card."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.73,
+            "high_price": 5,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.98,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42532"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 0.87,
+            "low": 0.09,
+            "avg1": 0.3,
+            "avg7": 0.88,
+            "avg30": 0.81,
+            "trend": 1.04,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.15,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Meowth-B280"
+      }
+    },
+    {
+      "id": "pk_d92d17b1cbcec81f3f48559c31aba73c719ef255f30de239d8ef66d0c7ed3f0f065d44508f8f8de14e5977",
+      "card_info": {
+        "name": "Meowth - BW35",
+        "clean_name": "Meowth BW35",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW35",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nap  \r\n<br>Heal 20 damage from this Pokémon.",
+          "[2] Jump On (20+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40,
+            "mid_price": 64.51,
+            "high_price": 75,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 56.28,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87327"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 11.86,
+            "low": 3.49,
+            "avg1": 5,
+            "avg7": 10.08,
+            "avg30": 9.33,
+            "trend": 15.52,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Meowth-BWBW35"
+      }
+    },
+    {
+      "id": "pk_c5033b0ccd65845c763f187977aba40d3ac1257420f4669279383d656571a0428e713acee9b14059c8ed71f5eb76",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "106/149",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Fake Out (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 1.05,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 1.09,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 21,
+            "mid_price": 57,
+            "high_price": 95.32,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 6.47,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87328"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.23,
+            "avg30": 0.45,
+            "trend": 0.46,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.07,
+            "avg1": 5,
+            "avg7": 5.38,
+            "avg30": 2.42,
+            "trend": 6.29,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Meowth-BCR106"
+      }
+    },
+    {
+      "id": "pk_a670d349d0f2118412c3fdf106da7c0ae6edf0ddac2a20f7af2cbe525444ce205f8956c48b8526210011f6c1717209",
+      "card_info": {
+        "name": "Meowth - 106/146 [Platinum]",
+        "clean_name": "Meowth 106 146 Platinum",
+        "set_name": "Breakpoint",
+        "set_code": "BKP",
+        "set_id": "2175",
+        "card_number": "106/146",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pay Day (10) \r\n<br>Flip a coin. If heads, draw a card.",
+          "[2] Fury Swipes (10x) \r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads."
+        ],
+        "weakness": "F+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 23,
+            "high_price": 608.87,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 34,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/191913"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f9187783833a41f2a73a39fb39b6990036f8bcd5e48bc9fe10e72ea0b041512edc3c091d162f7e9ae1368d8daeacc0",
+      "card_info": {
+        "name": "Galarian Meowth",
+        "clean_name": "Galarian Meowth",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "084/159",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Fasten Claws (10+)\r\n<br>\r\nFlip a coin. If heads, this attack does 20 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.48,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 999,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/477163"
+      },
+      "cardmarket": {
+        "product_name": "Galarian Meowth",
+        "prices": [
+          {
+            "avg": 0.38,
+            "low": 0.03,
+            "avg1": 0.48,
+            "avg7": 0.45,
+            "avg30": 0.36,
+            "trend": 0.48,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Galarian-Meowth-CRZ084"
+      }
+    },
+    {
+      "id": "pk_2c315b59ce988b0206e2c9b4a51531aea40fd3bc20cd5ac369fb735309676a95982ade8764e30133816c865ea1",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "77/113",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pickup Power \r\n<br>Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.",
+          "[1] Bite (10)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.47,
+            "high_price": 19.99,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 1.47,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 68.65,
+            "mid_price": 89.67,
+            "high_price": 2199.98,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 76.78,
+            "direct_low_price": 69.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87318"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 106.25,
+            "low": 4.99,
+            "avg1": 32.5,
+            "avg7": 30.23,
+            "avg30": 21.55,
+            "trend": 31.61,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.69,
+            "low": 0.02,
+            "avg1": 0.81,
+            "avg7": 0.5,
+            "avg30": 0.63,
+            "trend": 0.81,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Meowth-DS77"
+      }
+    },
+    {
+      "id": "pk_4cf4e4a091d2cbf9a9fb0dd14ffe8fc807bac81605235d0086eb3ab9d2041d2b1c393563c2f140f329eefe",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "EX Trainer Kit 2: Plusle & Minun",
+        "set_code": "PR",
+        "set_id": "1542",
+        "card_number": "4/12",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Collect\r\n<br>Draw a card.",
+          "[2] Cat Kick (20)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.7,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 0.72,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87319"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.47,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.25,
+            "avg30": 0.44,
+            "trend": 0.39,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Trainer-Kit-2/Meowth-TK2P4"
+      }
+    },
+    {
+      "id": "pk_ccc9b0e3e3b7c6c3141a6dea408cfc37ec99a239e90f50ab8aee6439d0fddabcafa507e4e54c566ed9fb6fdb430f",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "121/165",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Double Scratch (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "[2] Pay Day (10)\r\n<br>Flip a coin. If heads, draw a card."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 8.5,
+            "high_price": 47.98,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 7.06,
+            "direct_low_price": 5.59,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 289.99,
+            "mid_price": 299.99,
+            "high_price": 365.42,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 94.18,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87315"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 3.08,
+            "low": 0.2,
+            "avg1": 2,
+            "avg7": 2.62,
+            "avg30": 3.18,
+            "trend": 3.08,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 45.25,
+            "low": 8.5,
+            "avg1": 25.99,
+            "avg7": 34.11,
+            "avg30": 21.4,
+            "trend": 31.13,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Meowth-EX121"
+      }
+    },
+    {
+      "id": "pk_51743a1fd0b1b31f41734a587c7f5a3dd629d6382603de2908065cb9bea62c85dbf24ea72156f6eb1e0de274e8",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "69/112",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Collect \r\n<br>Draw a card.",
+          "[2] Cat Kick (20)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.65,
+            "mid_price": 1.85,
+            "high_price": 16.22,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.87,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 59.98,
+            "mid_price": 80.99,
+            "high_price": 799.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 79.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87317"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 17.75,
+            "low": 2.99,
+            "avg1": 25.5,
+            "avg7": 16.05,
+            "avg30": 21.45,
+            "trend": 20.31,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.59,
+            "low": 0.03,
+            "avg1": 1.35,
+            "avg7": 1.17,
+            "avg30": 0.75,
+            "trend": 0.8,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Meowth-FL69"
+      }
+    },
+    {
+      "id": "pk_02e69efb660025487c8f95c4833687b8ad7276ce12665cce63049808de605ac02fa5b3758212c7d85908c6d4e5",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "53/83",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Exhausted Tackle\r\n<br>Flip a coin. If heads, this attack does 30 damage to your opponent's Active Pokémon. If tails, this Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.36,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.65,
+            "mid_price": 1.75,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.85,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113711"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 0.79,
+            "low": 0.02,
+            "avg1": 1.18,
+            "avg7": 0.25,
+            "avg30": 0.72,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.56,
+            "low": 0.25,
+            "avg1": 1,
+            "avg7": 2.32,
+            "avg30": 2.5,
+            "trend": 2.5,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Meowth-V1-GEN53"
+      }
+    },
+    {
+      "id": "pk_25f87e858678b09fa0be2ca91593c03223732f0998fef5c4b98d7b6ab172247df0ae3736ffea08d5be24ee751c",
+      "card_info": {
+        "name": "Giovanni's Meowth (43)",
+        "clean_name": "Giovannis Meowth 43",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "043/132",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] False Charity\r\n<br>Flip a coin. If heads, look at the top card of your opponent's deck. If it's a Trainer card, put it in your opponent's discard pile; otherwise, put it into his or her hand.",
+          "[2] Double Scratch (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.96,
+            "mid_price": 18.91,
+            "high_price": 149.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 18.09,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3,
+            "mid_price": 3.86,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.07,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85716"
+      },
+      "cardmarket": {
+        "product_name": "Giovanni's Meowth",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.47,
+            "low": 0.99,
+            "avg1": 4,
+            "avg7": 5.4,
+            "avg30": 5.86,
+            "trend": 5.67,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Giovannis-Meowth-GC43"
+      }
+    },
+    {
+      "id": "pk_72699b6f2db3a7535fb082016cd98c46473d6df9ff9fca24756d393f93b8011da1945020aa766e48a0fa335c1b",
+      "card_info": {
+        "name": "Giovanni's Meowth (74)",
+        "clean_name": "Giovannis Meowth 74",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "074/132",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Cat Fleas\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "[3] Cat Kick (30)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.29,
+            "mid_price": 9.99,
+            "high_price": 59.93,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 8.82,
+            "direct_low_price": 7.95,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.75,
+            "mid_price": 1.98,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.12,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85717"
+      },
+      "cardmarket": {
+        "product_name": "Giovanni's Meowth",
+        "prices": [
+          {
+            "avg": 1.89,
+            "low": 0.1,
+            "avg1": 1.13,
+            "avg7": 2.07,
+            "avg30": 1.96,
+            "trend": 2.2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Giovannis-Meowth-GC74"
+      }
+    },
+    {
+      "id": "pk_8e0628399746f44e04fda9e2d45eb3130e57f9614939d250b56765563ca831c052e15f3253fe7a33749c61",
+      "card_info": {
+        "name": "Meowth (#4)",
+        "clean_name": "Meowth 4",
+        "set_name": "HGSS Trainer Kit: Gyarados & Raichu",
+        "set_code": "PR",
+        "set_id": "1540",
+        "card_number": "4/30",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pay Day (10) \r\n<br>Draw a card.",
+          "[2] Dig Claws (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.04,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.02,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87323"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.09,
+            "low": 0.02,
+            "avg1": 9.99,
+            "avg7": 2.59,
+            "avg30": 1.53,
+            "trend": 2.3,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HS-Trainer-Kit/Meowth-V1-TK4yellow-4"
+      }
+    },
+    {
+      "id": "pk_c5e41c03478f7d32ed4e544bd3531683bbc9df807b78cb1dca982322e353b3f104c5786f214495fcf468ecd1",
+      "card_info": {
+        "name": "Meowth (#12)",
+        "clean_name": "Meowth 12",
+        "set_name": "HGSS Trainer Kit: Gyarados & Raichu",
+        "set_code": "PR",
+        "set_id": "1540",
+        "card_number": "12/30",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pay Day (10) \r\n<br>Draw a card.",
+          "[2] Dig Claws (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.41,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.46,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87324"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 4.1,
+            "low": 0.02,
+            "avg1": 5.87,
+            "avg7": 2.74,
+            "avg30": 2.08,
+            "trend": 3.99,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HS-Trainer-Kit/Meowth-V2-TK4R12"
+      }
+    },
+    {
+      "id": "pk_8e11c115748fb3776f1142c85cbd92562c1def02e3ea72a1f93483e602653af7a2e0efee9289b6ff3f27b33eac",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "75/123",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pay Day (10) Draw a card.",
+          "[2] Dig Claws (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.99,
+            "high_price": 19,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 12.93,
+            "high_price": 199.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 20.05,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87322"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 8.38,
+            "low": 0.8,
+            "avg1": 2.59,
+            "avg7": 6.21,
+            "avg30": 4.67,
+            "trend": 5.74,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.36,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.33,
+            "avg30": 0.37,
+            "trend": 0.44,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Meowth-HS75"
+      }
+    },
+    {
+      "id": "pk_7b2f0d394f399c0dc042c592ea0ed64efb9132ae3777c510b40c64592c1ff607612ef1c7d0776df7171b5f9548",
+      "card_info": {
+        "name": "Meowth (Delta Species)",
+        "clean_name": "Meowth Delta Species",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "71/110",
+        "rarity": "Common",
+        "card_type": "Darkness Metal",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[D] Slash (10)",
+          "[1M] Pay Day (10) \r\n<br>Draw a card."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.86,
+            "high_price": 54.5,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 3.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 120,
+            "mid_price": 198.42,
+            "high_price": 813.32,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 88.32,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87329"
+      },
+      "cardmarket": {
+        "product_name": "Meowth δ Delta Species",
+        "prices": [
+          {
+            "avg": 1.56,
+            "low": 0.04,
+            "avg1": 1.15,
+            "avg7": 1.79,
+            "avg30": 1.47,
+            "trend": 2.14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 77,
+            "low": 20,
+            "avg1": 100,
+            "avg7": 50.85,
+            "avg30": 43.22,
+            "trend": 29.57,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Meowth-Delta-Species-HP71"
+      }
+    },
+    {
+      "id": "pk_6ce03256a1610ae9e2c8282d241874adb0ac3461165f76d3143878389fa12fad46aff64b65ff056ff936818f734a43",
+      "card_info": {
+        "name": "Meowth VMAX - SWSH005",
+        "clean_name": "Meowth VMAX SWSH005",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH005",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[4] G-Max Gold Rush (200)\r\n<br>Draw 3 cards."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.4,
+            "mid_price": 7.89,
+            "high_price": 64.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 6.74,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/205467"
+      },
+      "cardmarket": {
+        "product_name": "Meowth VMAX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 3.14,
+            "avg30": 2.72,
+            "trend": 3.28,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.13,
+            "low": 1.5,
+            "avg1": 3.5,
+            "avg7": 3.45,
+            "avg30": 3.4,
+            "trend": 3.44,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Meowth-VMAX-V2-OSSWSH5"
+      }
+    },
+    {
+      "id": "pk_aa0bba91a4a14c6967dfc6e8cb304201ef11d8c0d8bfb3c625a9499197f18dab2ee1b295ac985d7017cc27",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "56/64",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Pay Day (10)\r\n<br>Flip a coin. If heads, draw a card."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.34,
+            "mid_price": 6.19,
+            "high_price": 96.94,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 5.41,
+            "direct_low_price": 6.5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.74,
+            "high_price": 15.35,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 0.93,
+            "direct_low_price": 0.62,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45159"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 0.98,
+            "low": 0.02,
+            "avg1": 0.51,
+            "avg7": 0.54,
+            "avg30": 0.87,
+            "trend": 0.39,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.02,
+            "avg7": 0.19,
+            "avg30": 0.19,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Meowth-V1-JU56"
+      }
+    },
+    {
+      "id": "pk_9c7ce926f4f17b39848695e95729cffe718510b84fac4f3f32f5a676768b9c346261fdd3a16b6354ea0803b626",
+      "card_info": {
+        "name": "Meowth",
+        "clean_name": "Meowth",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "053/110",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Pay Day (10)\r\n<br>Flip a coin. If heads, draw a card."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 4.59,
+            "high_price": 31.22,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 2.95,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 329.99,
+            "mid_price": 379.67,
+            "high_price": 399.97,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 79.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87311"
+      },
+      "cardmarket": {
+        "product_name": "Meowth",
+        "prices": [
+          {
+            "avg": 250,
+            "low": 180,
+            "avg1": 300,
+            "avg7": 124.54,
+            "avg30": 75.78,
+            "trend": 151.36,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.71,
+            "low": 0.2,
+            "avg1": 1,
+            "avg7": 1.95,
+            "avg30": 5.39,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Meowth-LC53"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 203,
+    "total_pages": 11
+  },
+  "metadata": {
+    "total_count": 203,
+    "tcg": 165,
+    "cardmarket": 177,
+    "tcg_only": 26,
+    "cardmarket_only": 38,
+    "both_sources": 139
+  }
+}

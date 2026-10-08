@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Chansey+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:24 GMT
+Content-Type: application/json
+Content-Length: 5514
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 849
+X-RateLimit-Remaining-Hour: 27
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2xicTLTTb1Lf0a6ifLiJYfU5TvkSi5ZvVvZ7pvfv%2F1QpXBWOwRV%2BDyFqriYO1HhsQk5PN9GxMU3AiB9FKfCNIa5S2bWqKl672%2FzuTqa8OwdikI5f3Tsdn4Qw%2Fbi6AaDnv%2BvmfHYrIN9vayNZ9ktz5A%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4728353ab12b503-OSL
+alt-svc: h3=":443"; ma=86400

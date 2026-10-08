@@ -1,0 +1,1331 @@
+{
+  "query": "Politoed",
+  "results": [
+    {
+      "id": "pk_fe56f3b6bea8a68d6430f08a093ff178f0ad86d492816fc8cbf424ba0fe8cf0d8b0989521d5f7ce6d79714f8e8",
+      "card_info": {
+        "name": "Politoed - 7/95 (League Promo)",
+        "clean_name": "Politoed 7 95 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "007/095",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Leap Frog</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may choose a Water Pokémon on your Bench and switch it with your Active Pokémon. This power can't be used if Politoed is affected by a Special Condition.",
+        "attacks": [
+          "[2W] Big Chorus (30x)\r\n<br>\r\nFlip a coin for each Water Pokémon you have in play. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.98,
+            "mid_price": 239.41,
+            "high_price": 346.71,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 36.67,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/220667"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.9,
+            "avg7": 3.97,
+            "avg30": 3.97,
+            "trend": 4.72,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 152.5,
+            "low": 10,
+            "avg1": 25,
+            "avg7": 52,
+            "avg30": 33.5,
+            "trend": 63.2,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Politoed-V2-UL7"
+      }
+    },
+    {
+      "id": "pk_28cda5af32612120e0cbd359879c4419b4efeb3278346de3c90a17933278d99a665b5bec0e5d856262d4e98564",
+      "card_info": {
+        "name": "Politoed - 7/95 (League Promo) [Staff]",
+        "clean_name": "Politoed 7 95 League Promo Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "007/095",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Leap Frog</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may choose a Water Pokémon on your Bench and switch it with your Active Pokémon. This power can't be used if Politoed is affected by a Special Condition.",
+        "attacks": [
+          "[2W] Big Chorus (30x)\r\n<br>\r\nFlip a coin for each Water Pokémon you have in play. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 249,
+            "mid_price": 249,
+            "high_price": 249,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 244.83,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/220668"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1e6323da9df84260baca88222d74da5e56e4525a5669ff8b5c34322bc50d435fc6dc25577cebd68f27a8b1d2d8",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "12/146",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Enthusiasm</strong>\r\n<br>\r\nIf you have Poliwag, Polwhirl, and Poliwrath in play, each of these Pokémon's attacks does 60 more damage to the Defending Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[1W] Frog Hop (40+)\r\n<br>\r\nFlip a coin. If heads, this attack does 40 damage plus 40 more damage."
+        ],
+        "weakness": "G+30",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.99,
+            "mid_price": 33.5,
+            "high_price": 281.71,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 29.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 29.94,
+            "mid_price": 40,
+            "high_price": 382.43,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 23.08,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88250"
+      },
+      "cardmarket": {
+        "product_name": "Politoed Lv.49",
+        "prices": [
+          {
+            "avg": 5.13,
+            "low": 0.5,
+            "avg1": 7.5,
+            "avg7": 4.69,
+            "avg30": 6,
+            "trend": 5.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.48,
+            "low": 0.5,
+            "avg1": 12.5,
+            "avg7": 6.21,
+            "avg30": 8.33,
+            "trend": 5.63,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Politoed-Lv49-LA12"
+      }
+    },
+    {
+      "id": "pk_58c0f7a3d1605dea24c69a3598fe8005caa1a27550dcb873a4a98206b889b6693c9d4a6dbeab90ff1a3b558c7b36",
+      "card_info": {
+        "name": "Politoed - 18/111 (Cosmos Holo)",
+        "clean_name": "Politoed 18 111 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "018/111",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — King's Song</strong>\r\n<br>Ignore all Colorless Energy in the attack cost of each of your Poliwag, Poliwhirl, and Poliwrath's attacks.\r\n<br>\r\n<br><em>This cosmos holo version was released with the Legacy Evolution Pin Collection.</em>",
+        "attacks": [
+          "[2W] Hyper Voice (70)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.07,
+            "mid_price": 18.61,
+            "high_price": 162.45,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 15.92,
+            "direct_low_price": 11.63,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/148383"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1b3b8fb05c7b80d4818528a90a8f67fa2adab41eab958bc66df112c4d143e40777fdbce9b908dfcb75631d",
+      "card_info": {
+        "name": "Politoed (8)",
+        "clean_name": "Politoed 8",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "08/75",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Frog Song</strong> Whenever Politoed's attack damages the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play <em>(including your opponent's)</em>, that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[2WW] Doubleslap (40x)\r\n<br>Flip 2 coins. This attack does 40 times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 86.99,
+            "mid_price": 92.98,
+            "high_price": 149.99,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 193.31,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 58.46,
+            "mid_price": 69.59,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 83.81,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88246"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 25,
+            "avg7": 15.92,
+            "avg30": 16.22,
+            "trend": 17.86,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 34.28,
+            "low": 5,
+            "avg1": 19.9,
+            "avg7": 34,
+            "avg30": 47.3,
+            "trend": 26.38,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Politoed-NDI8"
+      }
+    },
+    {
+      "id": "pk_e9707206a698536ec3b44c81b79b690dc19c6fce0e5707d21eadbcee6545b189d1fbb6c9a99a5f110b0d942a",
+      "card_info": {
+        "name": "Politoed (27)",
+        "clean_name": "Politoed 27",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "27/75",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Frog Song</strong> Whenever Politoed's attack damages the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play <em>(including your opponent's)</em>, that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[2WW] Doubleslap (40x)\r\n<br>Flip 2 coins. This attack does 40 times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.99,
+            "mid_price": 35.89,
+            "high_price": 36.79,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 32.39,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 15.28,
+            "mid_price": 18,
+            "high_price": 162.02,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 20.75,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88249"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 10.17,
+            "low": 2.5,
+            "avg1": 10,
+            "avg7": 11.81,
+            "avg30": 13.68,
+            "trend": 9.89,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 9.67,
+            "avg30": 5.4,
+            "trend": 7.99,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Politoed-NDI27"
+      }
+    },
+    {
+      "id": "pk_d78a4f101b8d80c721c234fb66d639b3424c599648fb12b4867361cf6f18eee7b4770501d7d908de839f8b916625",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "SM - Guardians Rising",
+        "set_code": "SM02",
+        "set_id": "1919",
+        "card_number": "25/145",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Roll Call\r\n<br>Search your deck for a Poliwag, a Poliwhirl, and a Poliwrath, and put them onto your Bench. Then, shuffle your deck.",
+          "[2W] Hyper Jump (100)\r\n<br> You may shuffle this Pokemon and all cards attached to it into your deck."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.06,
+            "mid_price": 2.81,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 2.68,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 2.11,
+            "mid_price": 3.55,
+            "high_price": 19.74,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 3.64,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/130925"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 1.73,
+            "low": 0.05,
+            "avg1": 1,
+            "avg7": 2.12,
+            "avg30": 1.55,
+            "trend": 2.03,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.21,
+            "low": 0.05,
+            "avg1": 2,
+            "avg7": 1.26,
+            "avg30": 1.21,
+            "trend": 1.18,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Politoed-GRI25"
+      }
+    },
+    {
+      "id": "pk_92693c2785d2e85b1aa0fa8aef8e3ab690f330ef18b66d82ae0cccb6ec5875fd865c467b60439dfdc73279bbff19",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "SWSH11: Lost Origin",
+        "set_code": "SWSH11",
+        "set_id": "3118",
+        "card_number": "032/196",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Lordly Songleader (10+)\r\n<br>\r\nIf Poliwag is on your Bench, this attack does 60 more damage. If Poliwhirl is on your Bench, this attack does 90 more damage. If Poliwrath is on your Bench, this attack does 120 more damage.",
+          "[2W] Hydro Splash (100)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.16,
+            "mid_price": 0.54,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:48.443925",
+            "market_price": 0.54,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 20,
+            "updated_at": "2026-10-07T11:54:48.443925",
+            "market_price": 0.32,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283905"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.15,
+            "avg30": 0.17,
+            "trend": 0.23,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.41,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.32,
+            "avg30": 0.37,
+            "trend": 0.27,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Politoed-LOR032"
+      }
+    },
+    {
+      "id": "pk_4a4d34d2ef79906e99edc2ab7d317b7acf64fc78bf3b4fba28af98ad83aed807ce4bcc63107c7893f2d09c5dfc74",
+      "card_info": {
+        "name": "Politoed (H23)",
+        "clean_name": "Politoed H23",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "H23/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Sudden Growth\r\n<br>Attach any number of basic Energy cards from your hand to Politoed.",
+          "[2W] Frog Hop (30+)\r\n<br>\r\nFlip a coin. If heads, this attack does 30 damage plus 20 more damage.",
+          "[3WW] Energy Splash (70)\r\n<br>Move 2 Water Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3666.66,
+            "mid_price": 4039.99,
+            "high_price": 4204.98,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 250,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88247"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 591.17,
+            "low": 28.9,
+            "avg1": 169.88,
+            "avg7": 344.48,
+            "avg30": 221.55,
+            "trend": 271.6,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 56.6,
+            "avg7": 43.21,
+            "avg30": 34.52,
+            "trend": 44.19,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Politoed-V1-SKH23"
+      }
+    },
+    {
+      "id": "pk_b24a5ec80ab7a2ed6f55843cf7e2f5dfa8c842bfc4d4cf07557745b209064b56fc096185c9b3814688a7f6c83a",
+      "card_info": {
+        "name": "Politoed (25)",
+        "clean_name": "Politoed 25",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "025/144",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Sudden Growth\r\n<br>Attach any number of basic Energy cards from your hand to Politoed.",
+          "[2W] Frog Hop (30+)\r\n<br>\r\nFlip a coin. If heads, this attack does 30 damage plus 20 more damage.",
+          "[3WW] Energy Splash (70)\r\n<br>Move 2 Water Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69.99,
+            "mid_price": 456.99,
+            "high_price": 843.99,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 65.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 913.99,
+            "mid_price": 914.36,
+            "high_price": 914.72,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 134.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88248"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 12.76,
+            "low": 4,
+            "avg1": 29,
+            "avg7": 16.3,
+            "avg30": 14.54,
+            "trend": 14.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 62.5,
+            "low": 7.78,
+            "avg1": 50,
+            "avg7": 47.64,
+            "avg30": 35.41,
+            "trend": 48.93,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Politoed-V2-SK25"
+      }
+    },
+    {
+      "id": "pk_44ad333ef296d3e885623838fce083768a0557b4afc47d76e60830c016ec070d9a73a22674ed831e288884",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "Unleashed",
+        "set_code": "UL",
+        "set_id": "1399",
+        "card_number": "7/95",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "Leap Frog - Once during your turn (before your attack), you may choose a W Pokemon on your Bench and switch it with your Active Pokemon.  This power can't be used if Politoed is affected by a Special Condition.  (Poke-POWER)",
+        "attacks": [
+          "[2W] Big Chorus (30x) Flip a coin for each W Pokemon you have in play.  This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.48,
+            "mid_price": 29.99,
+            "high_price": 379.82,
+            "updated_at": "2026-10-07T11:54:49.433599",
+            "market_price": 22.9,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 9.79,
+            "mid_price": 13.31,
+            "high_price": 209.8,
+            "updated_at": "2026-10-07T11:54:49.433599",
+            "market_price": 29.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88251"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 4.48,
+            "low": 0.49,
+            "avg1": 3.24,
+            "avg7": 4.53,
+            "avg30": 4.4,
+            "trend": 4.77,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.99,
+            "low": 0.49,
+            "avg1": 4.99,
+            "avg7": 3.24,
+            "avg30": 5.81,
+            "trend": 6.28,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Politoed-V1-UL7"
+      }
+    },
+    {
+      "id": "pk_b691b7d4ab39def414f5c0fe7a873559c30e6de5206e6b7caa778fdd354a16905d628e5e7392015a1ea0f35d1f44",
+      "card_info": {
+        "name": "Politoed ex",
+        "clean_name": "Politoed ex",
+        "set_name": "Unseen Forces",
+        "set_code": "UF",
+        "set_id": "1398",
+        "card_number": "107/115",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1W] Upward Lick \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  If that Pokemon is a Stage 2 Evolved Pokemon, this attack does 50 damage instead.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+          "[3] Punch and Run (40) \r\n<br>Switch Politoed ex with 1 of your Benched Pokemon.",
+          "[2WW] Swallow Up (70) \r\n<br>Before doing damage, count the remaining HP of the Defending Pokemon and Politoed ex.  If the Defending Pokemon has fewer remaining HP than Politoed ex's, this attack does 120 damage instead."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 250,
+            "mid_price": 664.49,
+            "high_price": 1393.12,
+            "updated_at": "2026-10-07T11:54:49.433599",
+            "market_price": 199.99,
+            "direct_low_price": 998.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88252"
+      },
+      "cardmarket": {
+        "product_name": "Politoed ex",
+        "prices": [
+          {
+            "avg": 56.56,
+            "low": 16,
+            "avg1": 35,
+            "avg7": 56.56,
+            "avg30": 95.72,
+            "trend": 75.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 26.99,
+            "avg7": 48.36,
+            "avg30": 35.11,
+            "trend": 57.69,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Unseen-Forces/Politoed-ex-UF107"
+      }
+    },
+    {
+      "id": "pk_3b65da3fe3dc043ae447430e64b064e794ef19088841bd6c050c16762687bc756de5790409a747fd306fa64708",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "XY - Furious Fists",
+        "set_code": "FFI",
+        "set_id": "1481",
+        "card_number": "18/111",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": "Ability - King's Song\r\n<br> Ignore all Colorless Energy in the attack cost of each of your Poliwag, Poliwhirl, and Poliwrath's attacks.",
+        "attacks": [
+          "[2W] Hyper Voice (70)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.68,
+            "mid_price": 1,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 2.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5.5,
+            "mid_price": 24.02,
+            "high_price": 96.63,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 7.49,
+            "direct_low_price": 95.78,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/92193"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 1.46,
+            "low": 0.19,
+            "avg1": 1.26,
+            "avg7": 1.39,
+            "avg30": 1.58,
+            "trend": 1.32,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.5,
+            "low": 1,
+            "avg1": 3.5,
+            "avg7": 4.21,
+            "avg30": 2.49,
+            "trend": 3.89,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Politoed-FFI18"
+      }
+    },
+    {
+      "id": "pk_6ba1aa675262011145f15ec293c8bc4ed9f15d1da8f882ceb53091a98d9333224ebbf919f294051009fa",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "Crossing the Ruins...",
+        "set_code": "23728",
+        "set_id": "23728",
+        "card_number": null,
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Water][Colorless][Colorless] Doubleslap (40x)<br> Flip 2 coins. This attack does 40 damage times the number of heads."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 42,
+            "mid_price": 50.65,
+            "high_price": 59.09,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 50.51,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575423"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_acf78551ba106680e45ed24feb93b690cf0ac6e8046bb46c2e9c9807bee3ef328cb616b46b22dbde45a5",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "DP5: Cry from the Mysterious",
+        "set_code": "DP5",
+        "set_id": "23979",
+        "card_number": null,
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Frog Hop (40+)<br> Flip a coin. If heads, this attack does 40 damage plus 40 more damage."
+        ],
+        "weakness": "Grass +30",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 33.75,
+            "mid_price": 34.83,
+            "high_price": 35.9,
+            "updated_at": "2026-10-07T11:54:51.461184",
+            "market_price": 23.33,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 4,
+            "high_price": 4,
+            "updated_at": "2026-10-07T11:54:51.461184",
+            "market_price": 19,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/606919"
+      },
+      "cardmarket": {
+        "product_name": "Politoed Lv.49",
+        "prices": [
+          {
+            "avg": 8.23,
+            "low": 1.5,
+            "avg1": 5.75,
+            "avg7": 8.37,
+            "avg30": 6.79,
+            "trend": 8.38,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cry-from-the-Mysterious/Politoed-Lv49-DP5c"
+      }
+    },
+    {
+      "id": "pk_3c388e5cf1c4ee69afef9aa179236ee80f86e40adb0f18100b904e8748d7ba6bf6f3dbda2a1ac2ff5e4d706f78c1d5",
+      "card_info": {
+        "name": "Politoed ex",
+        "clean_name": "Politoed ex",
+        "set_name": "Golden Sky, Silvery Ocean",
+        "set_code": "PCG4",
+        "set_id": "24103",
+        "card_number": "027/106",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless] Upward Lick<br> Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. If that Pokémon is a Stage 2 Evolved Pokémon, this attack does 50 damage instead. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Colorless][Colorless][Colorless] Punch and Run (40)<br> Switch Politoed ex with 1 of your Benched Pokémon.",
+          "[Water][Water][Colorless][Colorless] Swallow Up (70)<br> Before doing damage, count the remaining HP of the Defending Pokémon and Politoed ex. If the Defending Pokémon has fewer remaining HP than Politoed ex's, this attack does 120 damage instead."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 100,
+            "mid_price": 100,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:51.461184",
+            "market_price": 45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/611900"
+      },
+      "cardmarket": {
+        "product_name": "Politoed ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 70,
+            "low": 45.99,
+            "avg1": 70,
+            "avg7": 48.74,
+            "avg30": 52.16,
+            "trend": 60.19,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Politoed-ex-PCG4027"
+      }
+    },
+    {
+      "id": "pk_d657586310fa9117b90bb082719a286f4d78559403fd60d5322d4629f00fa1a308a8bb652cc9d5e9846d1c81203d8d",
+      "card_info": {
+        "name": "Politoed",
+        "clean_name": "Politoed",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "021/070",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless][Colorless] Big Chorus (30x)<br> Flip a coin for each Water Pokémon you have in play. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "[Lightning] x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 10,
+            "high_price": 10,
+            "updated_at": "2026-10-07T11:54:51.461184",
+            "market_price": 20,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608256"
+      },
+      "cardmarket": {
+        "product_name": "Politoed",
+        "prices": [
+          {
+            "avg": 4.34,
+            "low": 1.99,
+            "avg1": 1.49,
+            "avg7": 12.67,
+            "avg30": 8.36,
+            "trend": 7.14,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.5,
+            "low": 15,
+            "avg1": 4.5,
+            "avg7": 12.24,
+            "avg30": 12.24,
+            "trend": 4.5,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SoulSilver-Collection/Politoed-L1SS021"
+      }
+    },
+    {
+      "id": "pk_3c1fd6bf1c155ad81822f7efeeaeef5721a985ffcc02503f34d02ef6e01818fcf192840281fa5b0d079bd1ac139dc9",
+      "card_info": {
+        "name": "Politoed (Mirror Holofoil)",
+        "clean_name": "Politoed Mirror Holofoil",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "021/070",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless][Colorless] Big Chorus (30x)<br> Flip a coin for each Water Pokémon you have in play. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "[Lightning] x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/608327"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9698db56fc2f50a563d6d467194d09a1ec417579ce8e5f0002d4789697fa99f914559e16b6e6be61bb62b089deed",
+      "card_info": {
+        "name": "Misty's Politoed",
+        "clean_name": "Mistys Politoed",
+        "set_name": "Melee, Pokemon Scramble",
+        "set_code": "24151",
+        "set_id": "24151",
+        "card_number": "003/018",
+        "rarity": null,
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Water] Water Gun (10+)<br> Does 10 damage plus 10 more damage for each Water Energy attached to Misty's Politoed but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[Colorless][Colorless][Colorless] Body Slam (20)<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 500,
+            "mid_price": 500,
+            "high_price": 500,
+            "updated_at": "2026-04-13T07:52:45.154592",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/613871"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8edddce796c27442836e8867ea2cafc0ef03058558afce876e9dd6d91988760900e6660c5e96ae969d8677d8b742a0",
+      "card_info": {
+        "name": "Clair's Politoed",
+        "clean_name": "Clairs Politoed",
+        "set_name": "Pokemon VS",
+        "set_code": "24180",
+        "set_id": "24180",
+        "card_number": "050/141",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Water][Water] Frog Hop (20+)\r\n<br> Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 35.79,
+            "mid_price": 44.98,
+            "high_price": 90,
+            "updated_at": "2026-10-07T11:54:51.833386",
+            "market_price": 44.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/630833"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 30,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 30,
+    "tcg": 26,
+    "cardmarket": 23,
+    "tcg_only": 7,
+    "cardmarket_only": 4,
+    "both_sources": 19
+  }
+}

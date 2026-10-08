@@ -1,0 +1,250 @@
+{
+  "query": "Skarmory Base Set",
+  "results": [
+    {
+      "id": "pk_b22f0995bda607ac24496849d203cf7910405e17bde00951e5d83d7ecb9809c15670c01350827cf1e7f037836e72",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "88/149",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Metal Sounds <br>Discard all Special Energy attached to each Pokemon in play <i>(both yours and your opponent's).</i>",
+          "[M2] Aerial Ace (60+) <br>Flip a coin. If heads, this attack does 30 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.17,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.14,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 0.43,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126960"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.33,
+            "low": 0.05,
+            "avg1": 0.5,
+            "avg7": 0.4,
+            "avg30": 0.36,
+            "trend": 0.39,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.06,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Skarmory-SUM88"
+      }
+    },
+    {
+      "id": "pk_eb10ac0601f450baf4dac8d65b508567480524b2f6e4e205b9bdc0e9407f441b133f8b7310cefb6e3dbdff1520",
+      "card_info": {
+        "name": "Skarmory EX",
+        "clean_name": "Skarmory EX",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "80/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Joust (30) \r\n<br>Before doing damage, discard all Pokemon Tool cards attached to your opponent's Active Pokemon.",
+          "[1MM] Tailspin Piledriver (80+) \r\n<br>If your opponent's Active Pokemon already has any damage counters on it, this attack does 40 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 4.07,
+            "high_price": 1540.2,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 5.07,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89248"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.9,
+            "avg7": 3.33,
+            "avg30": 3.31,
+            "trend": 3.28,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.15,
+            "low": 0.8,
+            "avg1": 6,
+            "avg7": 4.78,
+            "avg30": 4.87,
+            "trend": 5.49,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Skarmory-EX-XY80"
+      }
+    },
+    {
+      "id": "pk_38cddf4172d9598ea3f4c0a3d9d3dfba4301ec136f9ba9de429442c9e52ddb758ceaecf485e56488bdc03f02b48f",
+      "card_info": {
+        "name": "Skarmory EX (145 Full Art)",
+        "clean_name": "Skarmory EX 145 Full Art",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "145/146",
+        "rarity": "Ultra Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Joust (30) \r\n<br>Before doing damage, discard all Pokemon Tool cards attached to your opponent's Active Pokemon.",
+          "[1MM] Tailspin Piledriver (80+) \r\n<br>If your opponent's Active Pokemon already has any damage counters on it, this attack does 40 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16,
+            "mid_price": 42.64,
+            "high_price": 242.37,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 41.15,
+            "direct_low_price": 112.67,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89249"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory EX",
+        "prices": [
+          {
+            "avg": 18.74,
+            "low": 5.45,
+            "avg1": 32.48,
+            "avg7": 24.87,
+            "avg30": 25.38,
+            "trend": 22.15,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.99,
+            "avg7": 8.48,
+            "avg30": 6.94,
+            "trend": 13.89,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Skarmory-EX-XY145"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

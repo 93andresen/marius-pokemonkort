@@ -1,0 +1,254 @@
+{
+  "query": "Wigglytuff Base Set",
+  "results": [
+    {
+      "id": "pk_82a1e04c0b96f7fcdd4cb165b0cf4050eedf83a73ca36b284f0288cd461636b69a221086aeab2281f5aadc26",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "019/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.5,
+            "mid_price": 16.55,
+            "high_price": 122.96,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 24.4,
+            "direct_low_price": 29.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42463"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12.99,
+            "avg7": 9.04,
+            "avg30": 7.42,
+            "trend": 9.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.08,
+            "low": 3.5,
+            "avg1": 13.81,
+            "avg7": 14.51,
+            "avg30": 11.75,
+            "trend": 14.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Wigglytuff-B219"
+      }
+    },
+    {
+      "id": "pk_910c183b18b5219860471fffa89218bfb3ed80bd59a24c7b7f16b96253835fe8684aeef4578a08a0227343b83e",
+      "card_info": {
+        "name": "Wigglytuff (89)",
+        "clean_name": "Wigglytuff 89",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "89/146",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Gather Energy - Search your deck for a basic Energy and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+          "[2Y] Hocus Pinkus (60) The Defending Pokemon can't attack during your opponent's next turn."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.97,
+            "mid_price": 1.38,
+            "high_price": 19.99,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 1.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.84,
+            "mid_price": 3.88,
+            "high_price": 35.32,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 3.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90601"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 2.49,
+            "low": 0.15,
+            "avg1": 0.5,
+            "avg7": 2.49,
+            "avg30": 2.19,
+            "trend": 2.5,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.34,
+            "low": 0.45,
+            "avg1": 1.95,
+            "avg7": 5.65,
+            "avg30": 3.3,
+            "trend": 5.26,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Wigglytuff-XY89"
+      }
+    },
+    {
+      "id": "pk_9c7ff423a4d9c05c6d50b97653b2bd2d277bb9103e8a02d54cf8962b121fb3f10322a0b80a37c6d7a598dde1e5",
+      "card_info": {
+        "name": "Wigglytuff (90)",
+        "clean_name": "Wigglytuff 90",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "90/146",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Balloon Barrage (20x) This attack does 20 damage times the amount of Energy attached to this Pokemon.",
+          "[1YY] Double-Edge (90) This Pokemon does 10 damage to itself."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.71,
+            "high_price": 28.02,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 1.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.5,
+            "mid_price": 4.32,
+            "high_price": 96.6,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 4.14,
+            "direct_low_price": 95.75,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90602"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 1.88,
+            "low": 0.3,
+            "avg1": 1.73,
+            "avg7": 2.21,
+            "avg30": 2.64,
+            "trend": 2.49,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.49,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1.84,
+            "avg30": 1.45,
+            "trend": 1.82,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Wigglytuff-XY90"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

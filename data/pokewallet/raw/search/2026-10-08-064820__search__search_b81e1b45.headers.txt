@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Poliwrath&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:22 GMT
+Content-Type: application/json
+Content-Length: 30435
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 851
+X-RateLimit-Remaining-Hour: 29
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7RwcF57pRufA1WJ0daV8id87J6UyY0kleV3iVmaaR%2BUOuiqasQeooGkTjb8eKozH4RXCBTX%2BjwmbI65pL3dKu9pTzzD01a5qRX6evv6QM1Rxqv6dr53oeqHOI%2Bw6EQnlFnnh9tXlrP9XgTK7tLUEaQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47283416a240883-OSL
+alt-svc: h3=":443"; ma=86400

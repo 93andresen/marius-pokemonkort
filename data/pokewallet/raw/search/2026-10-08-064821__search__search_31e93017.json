@@ -1,0 +1,328 @@
+{
+  "query": "Clefairy Base Set",
+  "results": [
+    {
+      "id": "pk_89b492f7ec670e3f049b574378cf0c52c12131af1182f7fc358ad667f56c3cafd55bd8b58c1919d59efaf4",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "006/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 25.12,
+            "high_price": 279.6,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 26.62,
+            "direct_low_price": 96.42,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42483"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.99,
+            "avg7": 6.71,
+            "avg30": 8.03,
+            "trend": 7.84,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.59,
+            "low": 3.6,
+            "avg1": 5.44,
+            "avg7": 9.68,
+            "avg30": 10.61,
+            "trend": 11.19,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Clefairy-B26"
+      }
+    },
+    {
+      "id": "pk_7cd5fdef384e3c90c682c5f4ad38ab01c3290b760ff9c7eea740560f6dab3ce1e1bbc3bf33cf8ba06b0b0b444f",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "005/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 239.99,
+            "mid_price": 316.85,
+            "high_price": 999.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 335.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 95,
+            "mid_price": 180,
+            "high_price": 1371.89,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 169.66,
+            "direct_low_price": 265.94,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107001"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_364016e9061ec0fb7dd71b72e016ba69a4021e49da9732e6fc514cf5e6f662c73e0f5fa6f077c587e86d1f8de24f",
+      "card_info": {
+        "name": "Clefairy Doll",
+        "clean_name": "Clefairy Doll",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "070/102",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": "10.0",
+        "stage": null,
+        "card_text": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.99,
+            "mid_price": 58.76,
+            "high_price": 455.32,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 82.66,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 7.26,
+            "mid_price": 12.75,
+            "high_price": 109.53,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 12.13,
+            "direct_low_price": 58.38,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107067"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f56b327f32e2cea08b38075ab0e54cf5ee3c3f63edecf2da6a0efc5c54293c1063151cafc53da8ad9ea6c5",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "005/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 42.68,
+            "high_price": 211.6,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 48.74,
+            "direct_low_price": 114.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42393"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 27.46,
+            "low": 5,
+            "avg1": 9.37,
+            "avg7": 28.14,
+            "avg30": 26.05,
+            "trend": 22.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 16.81,
+            "avg7": 11.97,
+            "avg30": 19.63,
+            "trend": 14,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-V1-BS5"
+      }
+    },
+    {
+      "id": "pk_ad86f67abc08e5b1e2621d4e1c42b775fdbd2fc96c088e5b88f2a8c552d2c13b5a549fc1a562b896f04599ce",
+      "card_info": {
+        "name": "Clefairy Doll",
+        "clean_name": "Clefairy Doll",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "070/102",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": "10.0",
+        "stage": null,
+        "card_text": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.75,
+            "mid_price": 7.35,
+            "high_price": 96.38,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 7.83,
+            "direct_low_price": 8.08,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42416"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy Doll",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.88,
+            "avg7": 2.33,
+            "avg30": 2.33,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.76,
+            "low": 0.7,
+            "avg1": 9.81,
+            "avg7": 9.15,
+            "avg30": 8.48,
+            "trend": 8.57,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-Doll-V1-BS70"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 5,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 5,
+    "tcg": 5,
+    "cardmarket": 3,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

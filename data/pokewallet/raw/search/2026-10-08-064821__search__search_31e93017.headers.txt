@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Clefairy+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:23 GMT
+Content-Type: application/json
+Content-Length: 7283
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 850
+X-RateLimit-Remaining-Hour: 28
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=55OX%2FT3omL4EuKHEAzX%2BA%2F9k0tAHyv9u9z6KbUiu0KWo%2F9pQrkCagM0mmIyA263hyFSGjetBwqXqPd5LZADTmWu0kVngL7clBAR%2F3KJ0RXhMpBa5sCokFRV4xRlxrz3O61bf2lFGvgqwF8JfMNkgYA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472834b59730b59-OSL
+alt-svc: h3=":443"; ma=86400

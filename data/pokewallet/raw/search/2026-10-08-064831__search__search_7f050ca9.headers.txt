@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Politoed+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:33 GMT
+Content-Type: application/json
+Content-Length: 205
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 843
+X-RateLimit-Remaining-Hour: 21
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GxE2FPQCjCXf5ozLIqvLDBwwuUFLb0mWik5K0MiOpDUJxz1qISWWxIw60LBRrS4PRl809PXieY%2BvgN%2B59MFHQEQq4yFzPzpoGVzm6DG3dB07mZumimg%2F5jjlnASWCLDF6ATgg3K6xH703yaPsxDOMQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47283884ae356ca-OSL
+alt-svc: h3=":443"; ma=86400

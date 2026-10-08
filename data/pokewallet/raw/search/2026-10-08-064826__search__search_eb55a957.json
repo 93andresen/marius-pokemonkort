@@ -1,0 +1,703 @@
+{
+  "query": "Lapras Base Set",
+  "results": [
+    {
+      "id": "pk_f25027bf9dc1e5f82fe4de1b40ffcfe6462e77cb03aeac209a5a7f5406f4d620271d45ccad958e180ba08a511280",
+      "card_info": {
+        "name": "Lapras GX",
+        "clean_name": "Lapras GX",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "35/149",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Collect\r\n<br>Draw 3 cards.",
+          "[WWW] Blizzard Burn (160)\r\n<br>This Pokemon can't attack during your next turn.",
+          "<strong><span style=\"color:Teal\">[1WW] Ice Beam GX (100)</strong>\r\n<br>Your opponent's Active Pokemon is now Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.52,
+            "mid_price": 4.34,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:45.402349",
+            "market_price": 3.69,
+            "direct_low_price": 4.94,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126906"
+      },
+      "cardmarket": {
+        "product_name": "Lapras GX",
+        "prices": [
+          {
+            "avg": 3.78,
+            "low": 0.6,
+            "avg1": 4.5,
+            "avg7": 4.28,
+            "avg30": 4.07,
+            "trend": 4.33,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.49,
+            "avg7": 2.6,
+            "avg30": 3.23,
+            "trend": 3.09,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V1-SUM35"
+      }
+    },
+    {
+      "id": "pk_dc7e01ba888f792a7aba013c01b86cec12296ee06bcce8f43c1a475d6a12f513bf89b570ddc0d7ec38f3c2e1708069",
+      "card_info": {
+        "name": "Lapras GX (Full Art)",
+        "clean_name": "Lapras GX Full Art",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "139/149",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Collect\r\n<br>Draw 3 cards.",
+          "[WWW] Blizzard Burn (160)\r\n<br>This Pokemon can't attack during your next turn.",
+          "<strong><span style=\"color:Teal\">[1WW] Ice Beam GX (100)</strong>\r\n<br>Your opponent's Active Pokemon is now Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.69,
+            "mid_price": 10.48,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 11.01,
+            "direct_low_price": 19.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/127011"
+      },
+      "cardmarket": {
+        "product_name": "Lapras GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.39,
+            "avg7": 5.02,
+            "avg30": 6.24,
+            "trend": 6.72,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.84,
+            "low": 1.2,
+            "avg1": 12,
+            "avg7": 13.32,
+            "avg30": 10.48,
+            "trend": 11.55,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V2-SUM139"
+      }
+    },
+    {
+      "id": "pk_afdfeabe6ad0dbe679a1cd62d6427adc8966e73fbba5de2088abbb64dfe30d39efb3efb46e097c64dd5777f4836e1e",
+      "card_info": {
+        "name": "Lapras GX (Secret)",
+        "clean_name": "Lapras GX Secret",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "151/149",
+        "rarity": "Secret Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Collect\r\n<br>Draw 3 cards.",
+          "[WWW] Blizzard Burn (160)\r\n<br>This Pokemon can't attack during your next turn.",
+          "<strong><span style=\"color:Teal\">[1WW] Ice Beam GX (100)</strong>\r\n<br>Your opponent's Active Pokemon is now Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 30.16,
+            "high_price": 249.99,
+            "updated_at": "2026-10-07T11:54:45.939053",
+            "market_price": 29.27,
+            "direct_low_price": 43.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/127190"
+      },
+      "cardmarket": {
+        "product_name": "Lapras GX",
+        "prices": [
+          {
+            "avg": 20.2,
+            "low": 2,
+            "avg1": 17.99,
+            "avg7": 16.21,
+            "avg30": 19.13,
+            "trend": 19.76,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13,
+            "avg7": 15.41,
+            "avg30": 12.93,
+            "trend": 16.47,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V3-SUM151"
+      }
+    },
+    {
+      "id": "pk_9409446d720839aa768deddb26d0662049dd693407a19e7e261d30c5fe035d6b5a6d6ba04cb03768dda14539e7ab",
+      "card_info": {
+        "name": "Lapras VMAX",
+        "clean_name": "Lapras VMAX",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "050/202",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "Gigantamax",
+        "card_text": null,
+        "attacks": [
+          "[3] G-Max Pump (90+)\r\n<br>This attack does 30 more damage for each Water Energy attached to this Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.35,
+            "mid_price": 5.99,
+            "high_price": 103.2,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 5.31,
+            "direct_low_price": 5.79,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/206049"
+      },
+      "cardmarket": {
+        "product_name": "Lapras VMAX",
+        "prices": [
+          {
+            "avg": 6.82,
+            "low": 1,
+            "avg1": 9,
+            "avg7": 6.76,
+            "avg30": 6.67,
+            "trend": 7.21,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 10.44,
+            "avg30": 11.27,
+            "trend": 10.64,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-VMAX-V1-SSH50"
+      }
+    },
+    {
+      "id": "pk_8e8b4702f8629fe36db1aa55ad362dfc2be66b3a7d0b0e6467aa2c75359422961b4796f6c342394c96b296810016",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "048/202",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWWW] Aqua Washer (70)\r\n<br>You may return 2 Energy from your opponent's Active Pokemon to your opponent's hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1.07,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 1.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.36,
+            "high_price": 18.72,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208347"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 2.22,
+            "low": 0.35,
+            "avg1": 1.5,
+            "avg7": 2.04,
+            "avg30": 2.16,
+            "trend": 2.76,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.41,
+            "low": 0.1,
+            "avg1": 0.3,
+            "avg7": 0.38,
+            "avg30": 0.37,
+            "trend": 0.47,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V1-SSH48"
+      }
+    },
+    {
+      "id": "pk_2747cb035dfab6af682817566469d175f4ecc00fb1f757998ff0a73a6c2425512f6750d33fe8dbbfd5cfc7f17f5e",
+      "card_info": {
+        "name": "Lapras V",
+        "clean_name": "Lapras V",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "049/202",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Body Surf\r\n<br>Attach a Water Energy card from your hand to this Pokemon. If you do, switch it with 1 of your Benched Pokemon.",
+          "[1WWW] Ocean Loop (210)\r\n<br>Put 2 Water Energy attached to this Pokemon into your hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.74,
+            "mid_price": 4.14,
+            "high_price": 29.59,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 4.44,
+            "direct_low_price": 4.73,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208348"
+      },
+      "cardmarket": {
+        "product_name": "Lapras V",
+        "prices": [
+          {
+            "avg": 3.71,
+            "low": 0.5,
+            "avg1": 3,
+            "avg7": 3.25,
+            "avg30": 3.57,
+            "trend": 3.33,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.39,
+            "avg7": 3.49,
+            "avg30": 3.3,
+            "trend": 3.67,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V-V1-SSH49"
+      }
+    },
+    {
+      "id": "pk_8f51f9eac09ab3aee2287cd4f7b43ac38cd65c1681b0858e99a9d5eb88754583a694ecbd8cbd89d877f5eea1d30427",
+      "card_info": {
+        "name": "Lapras V (Full Art)",
+        "clean_name": "Lapras V Full Art",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "189/202",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Body Surf\r\n<br>Attach a Water Energy card from your hand to this Pokemon. If you do, switch it with 1 of your Benched Pokemon.",
+          "[1WWW] Ocean Loop (210)\r\n<br>Put 2 Water Energy attached to this Pokemon into your hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.51,
+            "mid_price": 6.31,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 6.31,
+            "direct_low_price": 9.68,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208364"
+      },
+      "cardmarket": {
+        "product_name": "Lapras V",
+        "prices": [
+          {
+            "avg": 8.62,
+            "low": 2.99,
+            "avg1": 8.5,
+            "avg7": 8.62,
+            "avg30": 7.43,
+            "trend": 8.27,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.5,
+            "avg7": 11.52,
+            "avg30": 10.78,
+            "trend": 11.72,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V-V2-SSH189"
+      }
+    },
+    {
+      "id": "pk_cd1432b39c4b655c75c57614074ffb46717ab3727daad85792c9966ced73f155e4d638cf3c962633b1b651f0f74bcd",
+      "card_info": {
+        "name": "Lapras VMAX (Secret)",
+        "clean_name": "Lapras VMAX Secret",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "203/202",
+        "rarity": "Secret Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "320.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] G-Max Pump (90+)\r\n<br>This attack does 30 more damage for each Water Energy attached to this Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.45,
+            "mid_price": 21.55,
+            "high_price": 138.66,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 21.59,
+            "direct_low_price": 24.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208365"
+      },
+      "cardmarket": {
+        "product_name": "Lapras VMAX",
+        "prices": [
+          {
+            "avg": 12.44,
+            "low": 5,
+            "avg1": 11.5,
+            "avg7": 11.88,
+            "avg30": 17.57,
+            "trend": 15.65,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 27.49,
+            "avg7": 29.16,
+            "avg30": 30.8,
+            "trend": 31.03,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-VMAX-V2-SSH203"
+      }
+    },
+    {
+      "id": "pk_b608b07fffc452e547eba302d81c5da1610a05a9f3fec816c1662a12e8d02e55be6c7894f92feb5fc0ad3f9e96",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "35/146",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Seafaring - Flip 3 coins.  For each heads, attach a W Energy card from your discard pile to your Benched Pokemon in any way you like.",
+          "[2] Hydro Pump (10+) This attack does 20 more damage for each W Energy attached to this Pokemon."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.3,
+            "mid_price": 5.78,
+            "high_price": 99.99,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 5.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 6,
+            "mid_price": 10.51,
+            "high_price": 137.02,
+            "updated_at": "2026-10-07T11:54:50.429158",
+            "market_price": 10.01,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86625"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 12.69,
+            "low": 0.7,
+            "avg1": 5,
+            "avg7": 10.31,
+            "avg30": 8.07,
+            "trend": 11.34,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.95,
+            "low": 1,
+            "avg1": 10,
+            "avg7": 8.73,
+            "avg30": 8.83,
+            "trend": 5.73,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Lapras-XY35"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 9,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 9,
+    "tcg": 9,
+    "cardmarket": 9,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 9
+  }
+}

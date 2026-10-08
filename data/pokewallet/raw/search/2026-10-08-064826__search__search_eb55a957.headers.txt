@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Lapras+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:48:27 GMT
+Content-Type: application/json
+Content-Length: 13041
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 847
+X-RateLimit-Remaining-Hour: 25
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9J2qRPEhYIcXJdz8lUrbhs%2BJnGGsoiuA04fBksLECAalWDBA36Z48u76%2FeAc11GMDoQ5nVNLi9uy75GEzT%2FVosc0s%2FZs0WP7VXWj9HiaIg2O%2B15aVQh5tHUvbbGSu8jIwvKeS6LO%2Fery3jEf1tOT5g%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472836458fcb509-OSL
+alt-svc: h3=":443"; ma=86400
