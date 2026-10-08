@@ -1,0 +1,196 @@
+{
+  "finn_kode": "478215231",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215231",
+  "slug": "478215231_pokemon-mega-gengar",
+  "first_seen": "2026-10-08T04:29:25Z",
+  "last_seen": "2026-10-08T04:29:25Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon mega gengar",
+    "status": "Aktiv",
+    "price_nok": 7900,
+    "trade_type": "Til salgs",
+    "location_text": "5713 Vossestrand",
+    "postal_code": "5713",
+    "last_modified": "2026-10-08T01:33:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:29:25Z",
+      "raw": "478215231_pokemon-mega-gengar/raw/478215231_2026-10-08-042925.html",
+      "parse_quality": "full",
+      "price_nok": 7900,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "546afb52-693f-4fb1-80c7-f047e8cd268a",
+      "item_ref": "478215231",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215231/546afb52-693f-4fb1-80c7-f047e8cd268a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215231/546afb52-693f-4fb1-80c7-f047e8cd268a",
+      "bytes": 4364606,
+      "content_type": "image/jpeg",
+      "sha1": "4534197610a4de53657deb5cef8b834dd94efa2b",
+      "file": "photos/02_546afb52-693f-4fb1-80c7-f047e8cd268a.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "8d30f018-5a79-4050-ac6f-8b4a7fdce0f4",
+      "item_ref": "478215231",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215231/8d30f018-5a79-4050-ac6f-8b4a7fdce0f4",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215231/8d30f018-5a79-4050-ac6f-8b4a7fdce0f4",
+      "bytes": 4594267,
+      "content_type": "image/jpeg",
+      "sha1": "576716d9a8e444ae11160d9f4e0227f07188c77f",
+      "file": "photos/01_8d30f018-5a79-4050-ac6f-8b4a7fdce0f4.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "464192804",
+      "heading": "japansk Mega Gengar ex 240/193",
+      "price_label": "4 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464192804"
+    },
+    {
+      "item_id": "477685032",
+      "heading": "Pokémon Mega Gengar ex SAR – 240/193 – Japansk",
+      "price_label": "3 700 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477685032"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "460119319",
+      "heading": "Mega Charizard EX",
+      "price_label": "6 500 kr",
+      "location": "Straume",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460119319"
+    },
+    {
+      "item_id": "477624366",
+      "heading": "Gengar ex box",
+      "price_label": "7 000 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477624366"
+    },
+    {
+      "item_id": "439055896",
+      "heading": "Mega gengar ex cgc 9 pokemon kort",
+      "price_label": "4 999 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/439055896"
+    },
+    {
+      "item_id": "476857358",
+      "heading": "Pokémon kort Gengar EX Phantom Forces",
+      "price_label": "6 000 kr",
+      "location": "Kleppestø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476857358"
+    },
+    {
+      "item_id": "476378930",
+      "heading": "Pokemon Mega Gengar EX SAR",
+      "price_label": "8 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476378930"
+    },
+    {
+      "item_id": "452834268",
+      "heading": "Pokémon Mega Gengar EX 269/217",
+      "price_label": "1 000 kr",
+      "location": "Sandsli",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/452834268"
+    }
+  ]
+}

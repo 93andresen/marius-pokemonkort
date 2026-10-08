@@ -1,0 +1,197 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:29:33Z",
+  "contact_button": {
+    "adId": "478215247",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215247",
+  "kode_candidates": {
+    "canonical": "478215247",
+    "object_info": "478215247",
+    "maplink": "478215247",
+    "contact_button": "478215247",
+    "hint": "478215247"
+  },
+  "title": "Pokemon Pikachu ex",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "7 800 kr",
+  "price_nok": 7800,
+  "location_text": "5713 Vossestrand",
+  "lat": 60.791903108443,
+  "lon": 6.5083915212379315,
+  "postal_code": "5713",
+  "last_modified_raw": "8.10.2026 kl. 01:35",
+  "last_modified": "2026-10-08T01:35:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "ab3e2c37-552d-400c-a069-afe5fc2f0d39",
+    "1b569b66-a301-4fe2-80f0-f1e63d5e9f9e"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Fint pikachu kort frå ascended heroes.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477753669",
+      "heading": "Pokémon Pikachu EX 276/217 (Treekachu)",
+      "price_label": "9 499 kr",
+      "location": "Steinkjer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753669"
+    },
+    {
+      "item_id": "465482049",
+      "heading": "Pikachu Ex 277/217",
+      "price_label": "10 000 kr",
+      "location": "Rolvsøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465482049"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "465306656",
+      "heading": "Pokémon Pikachu EX SIR Ascended Hero’s 276/217",
+      "price_label": "15 000 kr",
+      "location": "Dal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465306656"
+    },
+    {
+      "item_id": "475537344",
+      "heading": "Pokémon Pikachu EX SIR \"Treekachu\"",
+      "price_label": "7 999 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475537344"
+    },
+    {
+      "item_id": "477500184",
+      "heading": "Pikachu 276 SIR pokemon",
+      "price_label": "6 000 kr",
+      "location": "Notodden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477500184"
+    },
+    {
+      "item_id": "469900111",
+      "heading": "Pokemon Pikachu ex Ascended Heroes spesialillustrasjon kort",
+      "price_label": "12 500 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Pins"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469900111"
+    },
+    {
+      "item_id": "471298652",
+      "heading": "Pokémon Pikachu EX ASC 277 SAR",
+      "price_label": "4 500 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471298652"
+    },
+    {
+      "item_id": "478059795",
+      "heading": "Pikachu ex, Pikachu classic collection og Sylveon ex",
+      "price_label": "2 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478059795"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ab3e2c37-552d-400c-a069-afe5fc2f0d39",
+      "item_ref": "478215247",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215247/ab3e2c37-552d-400c-a069-afe5fc2f0d39"
+    },
+    {
+      "uuid": "1b569b66-a301-4fe2-80f0-f1e63d5e9f9e",
+      "item_ref": "478215247",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215247/1b569b66-a301-4fe2-80f0-f1e63d5e9f9e"
+    }
+  ],
+  "raw_capture": "478215247_pokemon-pikachu-ex/raw/478215247_2026-10-08-042933.html"
+}

@@ -1,0 +1,197 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:29:25Z",
+  "contact_button": {
+    "adId": "478215231",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215231",
+  "kode_candidates": {
+    "canonical": "478215231",
+    "object_info": "478215231",
+    "maplink": "478215231",
+    "contact_button": "478215231",
+    "hint": "478215231"
+  },
+  "title": "Pokemon mega gengar",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "7 900 kr",
+  "price_nok": 7900,
+  "location_text": "5713 Vossestrand",
+  "lat": 60.791903108443,
+  "lon": 6.5083915212379315,
+  "postal_code": "5713",
+  "last_modified_raw": "8.10.2026 kl. 01:33",
+  "last_modified": "2026-10-08T01:33:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "8d30f018-5a79-4050-ac6f-8b4a7fdce0f4",
+    "546afb52-693f-4fb1-80c7-f047e8cd268a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger eit fint mega gengar kort.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "464192804",
+      "heading": "japansk Mega Gengar ex 240/193",
+      "price_label": "4 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464192804"
+    },
+    {
+      "item_id": "477685032",
+      "heading": "Pokémon Mega Gengar ex SAR – 240/193 – Japansk",
+      "price_label": "3 700 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477685032"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "460119319",
+      "heading": "Mega Charizard EX",
+      "price_label": "6 500 kr",
+      "location": "Straume",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460119319"
+    },
+    {
+      "item_id": "477624366",
+      "heading": "Gengar ex box",
+      "price_label": "7 000 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477624366"
+    },
+    {
+      "item_id": "439055896",
+      "heading": "Mega gengar ex cgc 9 pokemon kort",
+      "price_label": "4 999 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/439055896"
+    },
+    {
+      "item_id": "476857358",
+      "heading": "Pokémon kort Gengar EX Phantom Forces",
+      "price_label": "6 000 kr",
+      "location": "Kleppestø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476857358"
+    },
+    {
+      "item_id": "476378930",
+      "heading": "Pokemon Mega Gengar EX SAR",
+      "price_label": "8 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476378930"
+    },
+    {
+      "item_id": "452834268",
+      "heading": "Pokémon Mega Gengar EX 269/217",
+      "price_label": "1 000 kr",
+      "location": "Sandsli",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/452834268"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "8d30f018-5a79-4050-ac6f-8b4a7fdce0f4",
+      "item_ref": "478215231",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215231/8d30f018-5a79-4050-ac6f-8b4a7fdce0f4"
+    },
+    {
+      "uuid": "546afb52-693f-4fb1-80c7-f047e8cd268a",
+      "item_ref": "478215231",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215231/546afb52-693f-4fb1-80c7-f047e8cd268a"
+    }
+  ],
+  "raw_capture": "478215231_pokemon-mega-gengar/raw/478215231_2026-10-08-042925.html"
+}

@@ -1,0 +1,209 @@
+{
+  "finn_kode": "478215027",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215027",
+  "slug": "478215027_pokemon-kort-registeel-gold-star-psa-1",
+  "first_seen": "2026-10-08T04:28:54Z",
+  "last_seen": "2026-10-08T04:28:54Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon kort Registeel Gold Star psa 1",
+    "status": "Aktiv",
+    "price_nok": 13500,
+    "trade_type": "Til salgs",
+    "location_text": "5713 Vossestrand",
+    "postal_code": "5713",
+    "last_modified": "2026-10-08T01:24:00",
+    "gallery_count": 3,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:28:54Z",
+      "raw": "478215027_pokemon-kort-registeel-gold-star-psa-1/raw/478215027_2026-10-08-042854.html",
+      "parse_quality": "full",
+      "price_nok": 13500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "6d84a6e7-f0da-4ae8-ae9d-e74f8fad0bf9",
+      "item_ref": "478215027",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215027/6d84a6e7-f0da-4ae8-ae9d-e74f8fad0bf9",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215027/6d84a6e7-f0da-4ae8-ae9d-e74f8fad0bf9",
+      "bytes": 4278264,
+      "content_type": "image/jpeg",
+      "sha1": "4295290265326d246b16792e94036bc3500cc87b",
+      "file": "photos/02_6d84a6e7-f0da-4ae8-ae9d-e74f8fad0bf9.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "920ac7b3-781c-4f95-917d-353540c9aa98",
+      "item_ref": "478215027",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215027/920ac7b3-781c-4f95-917d-353540c9aa98",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215027/920ac7b3-781c-4f95-917d-353540c9aa98",
+      "bytes": 3636239,
+      "content_type": "image/jpeg",
+      "sha1": "c8ce121924aaeb14b63dd4ab3cbb58b042c6dae0",
+      "file": "photos/03_920ac7b3-781c-4f95-917d-353540c9aa98.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "b06c5e7f-8003-4c44-8ef7-488150be7a32",
+      "item_ref": "478215027",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215027/b06c5e7f-8003-4c44-8ef7-488150be7a32",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215027/b06c5e7f-8003-4c44-8ef7-488150be7a32",
+      "bytes": 4168135,
+      "content_type": "image/jpeg",
+      "sha1": "986b354e496f2e0a37bb74bc91ea914a6f083dfe",
+      "file": "photos/01_b06c5e7f-8003-4c44-8ef7-488150be7a32.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "472446706",
+      "heading": "Søker trades mot Gold Stars og high-end Pokémon-kort",
+      "price_label": "14 000 kr",
+      "location": "Paradis",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472446706"
+    },
+    {
+      "item_id": "477971880",
+      "heading": "Pokemon kort Entei gold star",
+      "price_label": "13 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477971880"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "477134303",
+      "heading": "Vintage Pokemon Shining Charizard kort PSA 3",
+      "price_label": "13 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477134303"
+    },
+    {
+      "item_id": "455023975",
+      "heading": "Groudon ex cgc 8.5 pokemon kort",
+      "price_label": "9 999 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/455023975"
+    },
+    {
+      "item_id": "478199983",
+      "heading": "Pokemon Gold Star Raikou, Suicune og Entei PSA 1",
+      "price_label": "45 000 kr",
+      "location": "Grimstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478199983"
+    },
+    {
+      "item_id": "476134876",
+      "heading": "Pokemon Flareon Gold star Power keepers PSA 7",
+      "price_label": "35 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476134876"
+    },
+    {
+      "item_id": "442668260",
+      "heading": "Pokemon-samling byttes (Søker Gold Stars)",
+      "price_label": "9 999 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/442668260"
+    },
+    {
+      "item_id": "464904567",
+      "heading": "Charizard 20th Anniversary",
+      "price_label": "9 500 kr",
+      "location": "Stord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464904567"
+    }
+  ]
+}

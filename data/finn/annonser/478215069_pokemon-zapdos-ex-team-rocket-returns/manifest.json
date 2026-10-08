@@ -1,0 +1,209 @@
+{
+  "finn_kode": "478215069",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215069",
+  "slug": "478215069_pokemon-zapdos-ex-team-rocket-returns",
+  "first_seen": "2026-10-08T04:29:08Z",
+  "last_seen": "2026-10-08T04:29:08Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon Zapdos ex Team Rocket Returns",
+    "status": "Aktiv",
+    "price_nok": 1250,
+    "trade_type": "Til salgs",
+    "location_text": "5713 Vossestrand",
+    "postal_code": "5713",
+    "last_modified": "2026-10-08T01:30:00",
+    "gallery_count": 3,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:29:08Z",
+      "raw": "478215069_pokemon-zapdos-ex-team-rocket-returns/raw/478215069_2026-10-08-042908.html",
+      "parse_quality": "full",
+      "price_nok": 1250,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "9e85b3b4-51f4-41e3-a7fb-2adab504b4aa",
+      "item_ref": "478215069",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215069/9e85b3b4-51f4-41e3-a7fb-2adab504b4aa",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215069/9e85b3b4-51f4-41e3-a7fb-2adab504b4aa",
+      "bytes": 3570400,
+      "content_type": "image/jpeg",
+      "sha1": "75c5a2dc2097d31685eced751b458167bca3ed1b",
+      "file": "photos/01_9e85b3b4-51f4-41e3-a7fb-2adab504b4aa.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "c73e1247-7017-4c8d-8229-75a04ff8f60a",
+      "item_ref": "478215069",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215069/c73e1247-7017-4c8d-8229-75a04ff8f60a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215069/c73e1247-7017-4c8d-8229-75a04ff8f60a",
+      "bytes": 3428460,
+      "content_type": "image/jpeg",
+      "sha1": "cda93d0f412e4c35d9bc481d64ae1586b8c73b23",
+      "file": "photos/03_c73e1247-7017-4c8d-8229-75a04ff8f60a.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "cdf6827e-6e74-4986-8282-4ad25e88ceae",
+      "item_ref": "478215069",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215069/cdf6827e-6e74-4986-8282-4ad25e88ceae",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215069/cdf6827e-6e74-4986-8282-4ad25e88ceae",
+      "bytes": 3462978,
+      "content_type": "image/jpeg",
+      "sha1": "f45349ce0ada5a12ad53371882bce5865ba8e357",
+      "file": "photos/02_cdf6827e-6e74-4986-8282-4ad25e88ceae.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "475635570",
+      "heading": "Pokémon: Zapdos",
+      "price_label": "800 kr",
+      "location": "Salhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475635570"
+    },
+    {
+      "item_id": "476601595",
+      "heading": "Rocket’s Zapdos ex 106/109",
+      "price_label": "2 500 kr",
+      "location": "Vormsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476601595"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "473477683",
+      "heading": "Zapdos 150/147 Supreme Victors",
+      "price_label": "1 100 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473477683"
+    },
+    {
+      "item_id": "476050801",
+      "heading": "Zapdos ex 116/112 – EX FireRed & LeafGreen – Secret Rare 2004",
+      "price_label": "2 150 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476050801"
+    },
+    {
+      "item_id": "436183471",
+      "heading": "Pokémon Zapdos EX 116",
+      "price_label": "1 500 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/436183471"
+    },
+    {
+      "item_id": "477781760",
+      "heading": "Pokémon Zapdos 150/147 Supreme Victors 2009 – Secret Rare Holo",
+      "price_label": "1 800 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477781760"
+    },
+    {
+      "item_id": "474196924",
+      "heading": "Pokémon Zapdos 44/147 Aquapolis 2002",
+      "price_label": "549 kr",
+      "location": "Hauglandshella",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474196924"
+    },
+    {
+      "item_id": "477072120",
+      "heading": "Rocket’s Raikou ex 108/107 – EX Deoxys – Secret Rare – 2005",
+      "price_label": "1 500 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477072120"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "finn_kode": "478215247",
+  "url": "https://www.finn.no/recommerce/forsale/item/478215247",
+  "slug": "478215247_pokemon-pikachu-ex",
+  "first_seen": "2026-10-08T04:29:33Z",
+  "last_seen": "2026-10-08T04:29:33Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokemon Pikachu ex",
+    "status": "Aktiv",
+    "price_nok": 7800,
+    "trade_type": "Til salgs",
+    "location_text": "5713 Vossestrand",
+    "postal_code": "5713",
+    "last_modified": "2026-10-08T01:35:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:29:33Z",
+      "raw": "478215247_pokemon-pikachu-ex/raw/478215247_2026-10-08-042933.html",
+      "parse_quality": "full",
+      "price_nok": 7800,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "1b569b66-a301-4fe2-80f0-f1e63d5e9f9e",
+      "item_ref": "478215247",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215247/1b569b66-a301-4fe2-80f0-f1e63d5e9f9e",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215247/1b569b66-a301-4fe2-80f0-f1e63d5e9f9e",
+      "bytes": 4598274,
+      "content_type": "image/jpeg",
+      "sha1": "69b079d2156fbabaa407dedd48721c718e5f3545",
+      "file": "photos/02_1b569b66-a301-4fe2-80f0-f1e63d5e9f9e.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "ab3e2c37-552d-400c-a069-afe5fc2f0d39",
+      "item_ref": "478215247",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215247/ab3e2c37-552d-400c-a069-afe5fc2f0d39",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478215247/ab3e2c37-552d-400c-a069-afe5fc2f0d39",
+      "bytes": 4768655,
+      "content_type": "image/jpeg",
+      "sha1": "25e1b7718b70d2f9bee080110879b555086e7b2e",
+      "file": "photos/01_ab3e2c37-552d-400c-a069-afe5fc2f0d39.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477753669",
+      "heading": "Pokémon Pikachu EX 276/217 (Treekachu)",
+      "price_label": "9 499 kr",
+      "location": "Steinkjer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477753669"
+    },
+    {
+      "item_id": "465482049",
+      "heading": "Pikachu Ex 277/217",
+      "price_label": "10 000 kr",
+      "location": "Rolvsøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465482049"
+    },
+    {
+      "item_id": "478125921",
+      "heading": "Mewtwo GX #78 PSA 10",
+      "price_label": "79 000 kr",
+      "location": "Kvinesdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478125921"
+    },
+    {
+      "item_id": "465306656",
+      "heading": "Pokémon Pikachu EX SIR Ascended Hero’s 276/217",
+      "price_label": "15 000 kr",
+      "location": "Dal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465306656"
+    },
+    {
+      "item_id": "475537344",
+      "heading": "Pokémon Pikachu EX SIR \"Treekachu\"",
+      "price_label": "7 999 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475537344"
+    },
+    {
+      "item_id": "477500184",
+      "heading": "Pikachu 276 SIR pokemon",
+      "price_label": "6 000 kr",
+      "location": "Notodden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477500184"
+    },
+    {
+      "item_id": "469900111",
+      "heading": "Pokemon Pikachu ex Ascended Heroes spesialillustrasjon kort",
+      "price_label": "12 500 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Pins"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469900111"
+    },
+    {
+      "item_id": "471298652",
+      "heading": "Pokémon Pikachu EX ASC 277 SAR",
+      "price_label": "4 500 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471298652"
+    },
+    {
+      "item_id": "478059795",
+      "heading": "Pikachu ex, Pikachu classic collection og Sylveon ex",
+      "price_label": "2 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478059795"
+    }
+  ]
+}
