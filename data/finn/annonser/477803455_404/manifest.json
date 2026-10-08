@@ -1,0 +1,39 @@
+{
+  "finn_kode": "477803455",
+  "url": "https://www.finn.no/recommerce/forsale/item/477803455",
+  "slug": "477803455_404",
+  "first_seen": "2026-10-08T04:13:06Z",
+  "last_seen": "2026-10-08T04:13:06Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "404",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": null,
+    "postal_code": null,
+    "last_modified": null,
+    "gallery_count": null,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:13:06Z",
+      "raw": "477803455_404/raw/477803455_2026-10-08-041306.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok",
+        "coordinates",
+        "last_modified",
+        "gallery_count",
+        "description_raw"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": []
+}

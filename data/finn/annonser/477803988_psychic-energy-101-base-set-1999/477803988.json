@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:13:30Z",
+  "contact_button": {
+    "adId": "477803988",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477803988",
+  "kode_candidates": {
+    "canonical": "477803988",
+    "object_info": "477803988",
+    "maplink": "477803988",
+    "contact_button": "477803988",
+    "hint": "477803988"
+  },
+  "title": "Psychic Energy #101 Base Set (1999)",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "6514 Kristiansund N",
+  "lat": 63.12110065143969,
+  "lon": 7.713798730765506,
+  "postal_code": "6514",
+  "last_modified_raw": "2.10.2026 kl. 17:59",
+  "last_modified": "2026-10-02T17:59:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "c05ab0cf-ebfd-4ab4-bcc4-7272292d4504",
+    "1277dc96-c8b4-4151-970d-1a24e539cffc"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pokemon kort fra settet Base Set.\n\n \n\nGjerne kombiner med andre pokemon kort for å redusere frakt.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477805016",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805016"
+    },
+    {
+      "item_id": "477804789",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804789"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477805681",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805681"
+    },
+    {
+      "item_id": "477803639",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477803639"
+    },
+    {
+      "item_id": "477805509",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805509"
+    },
+    {
+      "item_id": "477802118",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477802118"
+    },
+    {
+      "item_id": "477804546",
+      "heading": "Psychic Energy #101 Base Set (1999)",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804546"
+    },
+    {
+      "item_id": "477801855",
+      "heading": "Water Energy #102 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801855"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "c05ab0cf-ebfd-4ab4-bcc4-7272292d4504",
+      "item_ref": "477803988",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477803988/c05ab0cf-ebfd-4ab4-bcc4-7272292d4504"
+    },
+    {
+      "uuid": "1277dc96-c8b4-4151-970d-1a24e539cffc",
+      "item_ref": "477803988",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477803988/1277dc96-c8b4-4151-970d-1a24e539cffc"
+    }
+  ],
+  "raw_capture": "477803988_psychic-energy-101-base-set-1999/raw/477803988_2026-10-08-041330.html"
+}
