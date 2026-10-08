@@ -1,0 +1,223 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:28:07Z",
+  "contact_button": {
+    "adId": "478214124",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478214124",
+  "kode_candidates": {
+    "canonical": "478214124",
+    "object_info": "478214124",
+    "maplink": "478214124",
+    "contact_button": "478214124",
+    "hint": "478214124"
+  },
+  "title": "Pokémon kort Venusaur EX holo",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "2016 Frogner",
+  "lat": 60.02467851173246,
+  "lon": 11.102817321442613,
+  "postal_code": "2016",
+  "last_modified_raw": "8.10.2026 kl. 00:05",
+  "last_modified": "2026-10-08T00:05:00",
+  "gallery_count": 6,
+  "image_uuids": [
+    "72ae4e7b-dc3c-40df-8302-c9a3b0a48dc1",
+    "bf6170c1-c173-4a5b-bfa5-c2ccbc426861",
+    "ec391971-785e-40c2-b727-81ae5980e915",
+    "9a4f98a3-1de9-41f1-b56e-d26672b454f7",
+    "a051ce65-8339-4daa-9bdf-76ed795d8957",
+    "9fb34c93-0657-413f-8587-102cdfce1c7a"
+  ],
+  "image_count_from_html": 6,
+  "description_raw": "Selger et Venusaur EX Pokémon-kort med holo-effekt. Se bilder for motiv og detaljer på kortet.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "471104930",
+      "heading": "Pokémon kort Venusaur EX Full Art",
+      "price_label": "1 800 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471104930"
+    },
+    {
+      "item_id": "471060210",
+      "heading": "Pokémon kort Venusaur EX holo",
+      "price_label": "400 kr",
+      "location": "Kurland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471060210"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "475927627",
+      "heading": "Pokemon kort Venusaur ex holo 112/112 - Firered & leafgreen",
+      "price_label": "2 650 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475927627"
+    },
+    {
+      "item_id": "477995103",
+      "heading": "Pokémon Mega Venusaur EX kort",
+      "price_label": "950 kr",
+      "location": "Hakadal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477995103"
+    },
+    {
+      "item_id": "442711776",
+      "heading": "Venusaur EX XY123 Promo – Sjeldent Pokémonkort (2016)",
+      "price_label": "1 999 kr",
+      "location": "Os",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/442711776"
+    },
+    {
+      "item_id": "462361712",
+      "heading": "Pokemon kort Venusaur EX jumbo og vanlig kort",
+      "price_label": "650 kr",
+      "location": "Stabekk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462361712"
+    },
+    {
+      "item_id": "470084621",
+      "heading": "Pokémon Venusaur EX XY123",
+      "price_label": "2 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470084621"
+    },
+    {
+      "item_id": "471302413",
+      "heading": "Pokémon Venusaur EX 112/112",
+      "price_label": "2 490 kr",
+      "location": "Røyken",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471302413"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "72ae4e7b-dc3c-40df-8302-c9a3b0a48dc1",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478214124/72ae4e7b-dc3c-40df-8302-c9a3b0a48dc1"
+    },
+    {
+      "uuid": "bf6170c1-c173-4a5b-bfa5-c2ccbc426861",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478214124/bf6170c1-c173-4a5b-bfa5-c2ccbc426861"
+    },
+    {
+      "uuid": "ec391971-785e-40c2-b727-81ae5980e915",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214124/ec391971-785e-40c2-b727-81ae5980e915"
+    },
+    {
+      "uuid": "9a4f98a3-1de9-41f1-b56e-d26672b454f7",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214124/9a4f98a3-1de9-41f1-b56e-d26672b454f7"
+    },
+    {
+      "uuid": "a051ce65-8339-4daa-9bdf-76ed795d8957",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214124/a051ce65-8339-4daa-9bdf-76ed795d8957"
+    },
+    {
+      "uuid": "9fb34c93-0657-413f-8587-102cdfce1c7a",
+      "item_ref": "478214124",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214124/9fb34c93-0657-413f-8587-102cdfce1c7a"
+    }
+  ],
+  "raw_capture": "478214124_pok-mon-kort-venusaur-ex-holo/raw/478214124_2026-10-08-042807.html"
+}

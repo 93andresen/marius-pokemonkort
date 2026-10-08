@@ -1,0 +1,237 @@
+{
+  "finn_kode": "478214934",
+  "url": "https://www.finn.no/recommerce/forsale/item/478214934",
+  "slug": "478214934_pok-mon-kortsamling-charizard-blastoise-venusaur",
+  "first_seen": "2026-10-08T04:28:32Z",
+  "last_seen": "2026-10-08T04:28:32Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon-kortsamling charizard,blastoise,venusaur ++",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "1659 Torp",
+    "postal_code": "1659",
+    "last_modified": "2026-10-08T01:32:00",
+    "gallery_count": 45,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:28:32Z",
+      "raw": "478214934_pok-mon-kortsamling-charizard-blastoise-venusaur/raw/478214934_2026-10-08-042832.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "2bef0052-e091-4828-ada0-40c373adee77",
+      "item_ref": "478214934",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478214934/2bef0052-e091-4828-ada0-40c373adee77",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214934/2bef0052-e091-4828-ada0-40c373adee77",
+      "bytes": 4601971,
+      "content_type": "image/jpeg",
+      "sha1": "9bc9f2e6a640d012c532401a42fe3d87f7def468",
+      "file": "photos/01_2bef0052-e091-4828-ada0-40c373adee77.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "b6d8445e-bbff-40d6-a16d-76b18fab1c00",
+      "item_ref": "478214934",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478214934/b6d8445e-bbff-40d6-a16d-76b18fab1c00",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214934/b6d8445e-bbff-40d6-a16d-76b18fab1c00",
+      "bytes": 5484535,
+      "content_type": "image/jpeg",
+      "sha1": "51b415b19373494dad03616f20055378e046d81a",
+      "file": "photos/02_b6d8445e-bbff-40d6-a16d-76b18fab1c00.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "bb2a9ec2-6a32-42c1-a2ec-1d74eea125d0",
+      "item_ref": "478214934",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214934/bb2a9ec2-6a32-42c1-a2ec-1d74eea125d0",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214934/bb2a9ec2-6a32-42c1-a2ec-1d74eea125d0",
+      "bytes": 4859629,
+      "content_type": "image/jpeg",
+      "sha1": "6ad8a77cbce4522f4be13ae440089e54d6ed32af",
+      "file": "photos/04_bb2a9ec2-6a32-42c1-a2ec-1d74eea125d0.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "d5ad128c-1dde-4fd1-8c95-2c2b3847ce25",
+      "item_ref": "478214934",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214934/d5ad128c-1dde-4fd1-8c95-2c2b3847ce25",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214934/d5ad128c-1dde-4fd1-8c95-2c2b3847ce25",
+      "bytes": 4960638,
+      "content_type": "image/jpeg",
+      "sha1": "622b16659e0718de9f251146d0fc7a1c57c947dc",
+      "file": "photos/03_d5ad128c-1dde-4fd1-8c95-2c2b3847ce25.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "e39d53a6-7fd5-412b-8f09-304f0dbbb3b1",
+      "item_ref": "478214934",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214934/e39d53a6-7fd5-412b-8f09-304f0dbbb3b1",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214934/e39d53a6-7fd5-412b-8f09-304f0dbbb3b1",
+      "bytes": 4772865,
+      "content_type": "image/jpeg",
+      "sha1": "622d52e6472fbbab5b8afa02b903cc172272219d",
+      "file": "photos/05_e39d53a6-7fd5-412b-8f09-304f0dbbb3b1.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "469997360",
+      "heading": "Pokemon kort (gamle)",
+      "price_label": "12 345 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469997360"
+    },
+    {
+      "item_id": "473136483",
+      "heading": "Vintage og nyere Pokemon-kort selges - mye sjeldne kort!",
+      "price_label": "25 000 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473136483"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477900817",
+      "heading": "Pokémon kortsamling – Vintage – Holo, Reverse Holo, Stamped og ex",
+      "price_label": "61 280 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477900817"
+    },
+    {
+      "item_id": "399818971",
+      "heading": "Over 600 pokemonkort",
+      "price_label": "10 000 kr",
+      "location": "Hølen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/399818971"
+    },
+    {
+      "item_id": "465632513",
+      "heading": "Pokemonkort samling",
+      "price_label": "9 000 kr",
+      "location": "Gressvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465632513"
+    },
+    {
+      "item_id": "476112266",
+      "heading": "Pokemon kort Samling Vurderes solgt",
+      "price_label": "10 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476112266"
+    },
+    {
+      "item_id": "478017005",
+      "heading": "Pokemon samling – vintage kort. SELGES SAMLET.",
+      "price_label": "20 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478017005"
+    },
+    {
+      "item_id": "477284464",
+      "heading": "Pokémon-samling 500 kort – Charizard Delta, Blastoise & Flygon ex",
+      "price_label": "13 990 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477284464"
+    }
+  ]
+}
