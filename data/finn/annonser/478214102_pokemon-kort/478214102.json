@@ -1,0 +1,241 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:27:40Z",
+  "contact_button": {
+    "adId": "478214102",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478214102",
+  "kode_candidates": {
+    "canonical": "478214102",
+    "object_info": "478214102",
+    "maplink": "478214102",
+    "contact_button": "478214102",
+    "hint": "478214102"
+  },
+  "title": "Pokemon kort",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "4332 Figgjo",
+  "lat": 58.78660211565705,
+  "lon": 5.815514639541539,
+  "postal_code": "4332",
+  "last_modified_raw": "8.10.2026 kl. 00:08",
+  "last_modified": "2026-10-08T00:08:00",
+  "gallery_count": 9,
+  "image_uuids": [
+    "4f4d8053-5cc9-4afe-8a58-6a302b6736c4",
+    "71079910-32ea-48b0-a06d-cf551e66ef73",
+    "6c1f3a17-487d-499d-81a0-4735fe20347a",
+    "2f79256b-3b1b-4659-8cf0-3f5a8a34c8e5",
+    "bef8316a-78ab-4a33-be9c-3b0cec66d216",
+    "2501858f-d1a5-4cf7-bd12-5d59ca5818c5",
+    "c04062a3-1c6c-4015-b967-d405542586a0",
+    "88137f82-72fe-481f-ab4a-e3bcd70989b9",
+    "52413c05-fa9b-4db5-bfa8-eafb11753018"
+  ],
+  "image_count_from_html": 9,
+  "description_raw": "Selger pokemon kort, fordi jeg ikke samler noe på de lenger, \n\nAlle ser bra ut\n\nSend melding om du vil ha nærmere bilde/video, eller om du vil se baksiden og sånn på kortet.\n\n \n\nMetagross - 450kr\n\nArmarouge - 250kr\n\nCutiefly - 100kr\n\nJasmine’s gaze - 250kr\n\nRuffian - 50kr\n\nTauros - 75kr\n\nDusclops - 550kr\n\nSnom - 300kr\n\n \n\nAlt for 1900kr",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "468501243",
+      "heading": "Pokemon kort",
+      "price_label": "50 kr",
+      "location": "Tau",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468501243"
+    },
+    {
+      "item_id": "472057610",
+      "heading": "GI BUD, pokemon kort",
+      "price_label": "123 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472057610"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "458492527",
+      "heading": "Pokemon kort",
+      "price_label": null,
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/458492527"
+    },
+    {
+      "item_id": "474779018",
+      "heading": "Pokémon kort",
+      "price_label": "123 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474779018"
+    },
+    {
+      "item_id": "476129687",
+      "heading": "Pokemon kort",
+      "price_label": "450 kr",
+      "location": "Randaberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476129687"
+    },
+    {
+      "item_id": "468910180",
+      "heading": "Pokemon kort",
+      "price_label": "123 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468910180"
+    },
+    {
+      "item_id": "477526260",
+      "heading": "Pokemon kort",
+      "price_label": "1 kr",
+      "location": "Kvernaland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477526260"
+    },
+    {
+      "item_id": "475246414",
+      "heading": "Selger diverse pokemon kort, kom med bud",
+      "price_label": "1 kr",
+      "location": "Randaberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475246414"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "4f4d8053-5cc9-4afe-8a58-6a302b6736c4",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478214102/4f4d8053-5cc9-4afe-8a58-6a302b6736c4"
+    },
+    {
+      "uuid": "71079910-32ea-48b0-a06d-cf551e66ef73",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478214102/71079910-32ea-48b0-a06d-cf551e66ef73"
+    },
+    {
+      "uuid": "6c1f3a17-487d-499d-81a0-4735fe20347a",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/6c1f3a17-487d-499d-81a0-4735fe20347a"
+    },
+    {
+      "uuid": "2f79256b-3b1b-4659-8cf0-3f5a8a34c8e5",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/2f79256b-3b1b-4659-8cf0-3f5a8a34c8e5"
+    },
+    {
+      "uuid": "bef8316a-78ab-4a33-be9c-3b0cec66d216",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/bef8316a-78ab-4a33-be9c-3b0cec66d216"
+    },
+    {
+      "uuid": "2501858f-d1a5-4cf7-bd12-5d59ca5818c5",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/2501858f-d1a5-4cf7-bd12-5d59ca5818c5"
+    },
+    {
+      "uuid": "c04062a3-1c6c-4015-b967-d405542586a0",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/c04062a3-1c6c-4015-b967-d405542586a0"
+    },
+    {
+      "uuid": "88137f82-72fe-481f-ab4a-e3bcd70989b9",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/88137f82-72fe-481f-ab4a-e3bcd70989b9"
+    },
+    {
+      "uuid": "52413c05-fa9b-4db5-bfa8-eafb11753018",
+      "item_ref": "478214102",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478214102/52413c05-fa9b-4db5-bfa8-eafb11753018"
+    }
+  ],
+  "raw_capture": "478214102_pokemon-kort/raw/478214102_2026-10-08-042740.html"
+}

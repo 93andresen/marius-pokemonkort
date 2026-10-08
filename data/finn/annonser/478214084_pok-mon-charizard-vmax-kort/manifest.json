@@ -1,0 +1,198 @@
+{
+  "finn_kode": "478214084",
+  "url": "https://www.finn.no/recommerce/forsale/item/478214084",
+  "slug": "478214084_pok-mon-charizard-vmax-kort",
+  "first_seen": "2026-10-08T04:27:32Z",
+  "last_seen": "2026-10-08T04:27:32Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon Charizard VMAX kort",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "2016 Frogner",
+    "postal_code": "2016",
+    "last_modified": "2026-10-08T00:02:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:27:32Z",
+      "raw": "478214084_pok-mon-charizard-vmax-kort/raw/478214084_2026-10-08-042732.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "47bce9bf-b17f-42fe-8e9b-ff7a4c6fa7a7",
+      "item_ref": "478214084",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478214084/47bce9bf-b17f-42fe-8e9b-ff7a4c6fa7a7",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214084/47bce9bf-b17f-42fe-8e9b-ff7a4c6fa7a7",
+      "bytes": 936671,
+      "content_type": "image/jpeg",
+      "sha1": "7470838403277e79997df9023b0c07f20f3fff23",
+      "file": "photos/02_47bce9bf-b17f-42fe-8e9b-ff7a4c6fa7a7.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "b1990c06-e9dd-414e-a31d-9a512d79b424",
+      "item_ref": "478214084",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478214084/b1990c06-e9dd-414e-a31d-9a512d79b424",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478214084/b1990c06-e9dd-414e-a31d-9a512d79b424",
+      "bytes": 1038259,
+      "content_type": "image/jpeg",
+      "sha1": "9ce75718c89f3d5ac611df8baf3a84ed85f792f4",
+      "file": "photos/01_b1990c06-e9dd-414e-a31d-9a512d79b424.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "470215105",
+      "heading": "Charizard VMAX",
+      "price_label": "450 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470215105"
+    },
+    {
+      "item_id": "470961199",
+      "heading": "Pokémon kort Charizard VMAX",
+      "price_label": "550 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470961199"
+    },
+    {
+      "item_id": "478064930",
+      "heading": "Pokemon samlekort – diverse hits",
+      "price_label": "1 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478064930"
+    },
+    {
+      "item_id": "477808836",
+      "heading": "Pokémon Charizard VMAX swsh 261",
+      "price_label": "550 kr",
+      "location": "Vestfossen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477808836"
+    },
+    {
+      "item_id": "476780048",
+      "heading": "Pokémon kort M Charizard EX",
+      "price_label": "470 kr",
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476780048"
+    },
+    {
+      "item_id": "473531662",
+      "heading": "Pokémon Charizard VMAX",
+      "price_label": "550 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473531662"
+    },
+    {
+      "item_id": "471923295",
+      "heading": "Pokémon Blaziken V MAX kort",
+      "price_label": "450 kr",
+      "location": "Roa",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471923295"
+    },
+    {
+      "item_id": "468130872",
+      "heading": "Pokémon Dracaufeu VMAX kort",
+      "price_label": "350 kr",
+      "location": "Kråkerøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468130872"
+    },
+    {
+      "item_id": "478046033",
+      "heading": "Pokémon Charizard VMAX SV107",
+      "price_label": "1 300 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478046033"
+    }
+  ]
+}
