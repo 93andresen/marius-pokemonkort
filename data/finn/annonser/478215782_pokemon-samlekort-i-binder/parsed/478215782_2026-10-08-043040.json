@@ -1,0 +1,251 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:30:40Z",
+  "contact_button": {
+    "adId": "478215782",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478215782",
+  "kode_candidates": {
+    "canonical": "478215782",
+    "object_info": "478215782",
+    "maplink": "478215782",
+    "contact_button": "478215782",
+    "hint": "478215782"
+  },
+  "title": "Pokemon samlekort i binder",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "2 000 kr",
+  "price_nok": 2000,
+  "location_text": "4330 Ålgård",
+  "lat": 58.763977513186276,
+  "lon": 5.852823505590971,
+  "postal_code": "4330",
+  "last_modified_raw": "8.10.2026 kl. 04:15",
+  "last_modified": "2026-10-08T04:15:00",
+  "gallery_count": 11,
+  "image_uuids": [
+    "aa92866b-fe82-475e-995b-162d751f4226",
+    "294df580-b381-4503-8f87-cfdae4e63307",
+    "29d012c6-783d-4dd9-a44c-9a44431f90e0",
+    "551506c3-0546-43bf-a20c-4f65813dcadd",
+    "5154f2ef-62ad-4013-8c56-ea2e20f38c78",
+    "d628f8f3-0dd6-4f40-a82d-1ae34f8f3a73",
+    "9dd72722-39a1-4146-a284-6f64d68db1eb",
+    "d9e063eb-1078-400b-bb9c-af03f4b84256",
+    "93a3111b-3b23-407e-8a55-93235bfda9c4",
+    "aa6edb5e-2f8a-4f41-8da8-eaa8dc64f84b",
+    "28dd19e1-8961-40ed-bbe8-55667cb405ab"
+  ],
+  "image_count_from_html": 11,
+  "description_raw": "Selger et album med ulike Pokemon kort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "454429357",
+      "heading": "Pokemon samlekort blandet lot 36 stk.",
+      "price_label": "1 500 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/454429357"
+    },
+    {
+      "item_id": "477499194",
+      "heading": "Pokemon samlekort – blandet lot med holo og EX/GX/V-kort",
+      "price_label": "1 500 kr",
+      "location": "Hundvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477499194"
+    },
+    {
+      "item_id": "473558390",
+      "heading": "Pokemon samling gi bud",
+      "price_label": "14 100 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473558390"
+    },
+    {
+      "item_id": "435202836",
+      "heading": "Samling med pokemonkort og pokemonbok",
+      "price_label": "1 250 kr",
+      "location": "Lye",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/435202836"
+    },
+    {
+      "item_id": "476829970",
+      "heading": "Pokemon kort (Selges også seperat)",
+      "price_label": "1 650 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476829970"
+    },
+    {
+      "item_id": "478185361",
+      "heading": "Pokemon samlekort - 30th celebration engelsk og japansk",
+      "price_label": "1 000 kr",
+      "location": "Hommersåk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478185361"
+    },
+    {
+      "item_id": "478067561",
+      "heading": "Pokemon samling med kort og coins",
+      "price_label": "1 000 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478067561"
+    },
+    {
+      "item_id": "478109394",
+      "heading": "Pokémon Samling selges",
+      "price_label": "4 000 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478109394"
+    },
+    {
+      "item_id": "474257090",
+      "heading": "Pokemon kort lot – holo og full art samlekort",
+      "price_label": "800 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474257090"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "aa92866b-fe82-475e-995b-162d751f4226",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478215782/aa92866b-fe82-475e-995b-162d751f4226"
+    },
+    {
+      "uuid": "294df580-b381-4503-8f87-cfdae4e63307",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478215782/294df580-b381-4503-8f87-cfdae4e63307"
+    },
+    {
+      "uuid": "29d012c6-783d-4dd9-a44c-9a44431f90e0",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/29d012c6-783d-4dd9-a44c-9a44431f90e0"
+    },
+    {
+      "uuid": "551506c3-0546-43bf-a20c-4f65813dcadd",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/551506c3-0546-43bf-a20c-4f65813dcadd"
+    },
+    {
+      "uuid": "5154f2ef-62ad-4013-8c56-ea2e20f38c78",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/5154f2ef-62ad-4013-8c56-ea2e20f38c78"
+    },
+    {
+      "uuid": "d628f8f3-0dd6-4f40-a82d-1ae34f8f3a73",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/d628f8f3-0dd6-4f40-a82d-1ae34f8f3a73"
+    },
+    {
+      "uuid": "9dd72722-39a1-4146-a284-6f64d68db1eb",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/9dd72722-39a1-4146-a284-6f64d68db1eb"
+    },
+    {
+      "uuid": "d9e063eb-1078-400b-bb9c-af03f4b84256",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/d9e063eb-1078-400b-bb9c-af03f4b84256"
+    },
+    {
+      "uuid": "93a3111b-3b23-407e-8a55-93235bfda9c4",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/93a3111b-3b23-407e-8a55-93235bfda9c4"
+    },
+    {
+      "uuid": "aa6edb5e-2f8a-4f41-8da8-eaa8dc64f84b",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/aa6edb5e-2f8a-4f41-8da8-eaa8dc64f84b"
+    },
+    {
+      "uuid": "28dd19e1-8961-40ed-bbe8-55667cb405ab",
+      "item_ref": "478215782",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478215782/28dd19e1-8961-40ed-bbe8-55667cb405ab"
+    }
+  ],
+  "raw_capture": "478215782_pokemon-samlekort-i-binder/raw/478215782_2026-10-08-043040.html"
+}
