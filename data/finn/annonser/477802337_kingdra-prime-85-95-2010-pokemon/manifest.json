@@ -1,0 +1,211 @@
+{
+  "finn_kode": "477802337",
+  "url": "https://www.finn.no/recommerce/forsale/item/477802337",
+  "slug": "477802337_kingdra-prime-85-95-2010-pokemon",
+  "first_seen": "2026-10-08T04:12:41Z",
+  "last_seen": "2026-10-08T04:12:41Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Kingdra Prime 85/95  2010 – Pokemon",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "0358 Oslo",
+    "postal_code": "0358",
+    "last_modified": "2026-10-03T14:48:00",
+    "gallery_count": 3,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:12:41Z",
+      "raw": "477802337_kingdra-prime-85-95-2010-pokemon/raw/477802337_2026-10-08-041241.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 3,
+      "uuid": "8d59b817-a5ff-4612-8c4f-66228b284c92",
+      "item_ref": "477802337",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/477802337/8d59b817-a5ff-4612-8c4f-66228b284c92",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477802337/8d59b817-a5ff-4612-8c4f-66228b284c92",
+      "bytes": 3297664,
+      "content_type": "image/jpeg",
+      "sha1": "f5d448a13a7be18b133a159d768210a27583cb14",
+      "file": "photos/03_8d59b817-a5ff-4612-8c4f-66228b284c92.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "dc1fc4b3-59c0-4388-ae8b-0727ac75ac8e",
+      "item_ref": "477802337",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477802337/dc1fc4b3-59c0-4388-ae8b-0727ac75ac8e",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477802337/dc1fc4b3-59c0-4388-ae8b-0727ac75ac8e",
+      "bytes": 3867487,
+      "content_type": "image/jpeg",
+      "sha1": "8a6ec83d131f8d3f42792d2f8d10c7e7c65f24a8",
+      "file": "photos/02_dc1fc4b3-59c0-4388-ae8b-0727ac75ac8e.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "dfe67ffc-a01a-40e2-a254-7a15b94bd7a6",
+      "item_ref": "477802337",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477802337/dfe67ffc-a01a-40e2-a254-7a15b94bd7a6",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/477802337/dfe67ffc-a01a-40e2-a254-7a15b94bd7a6",
+      "bytes": 4224717,
+      "content_type": "image/jpeg",
+      "sha1": "5e3253c03f26e6f13c1892a95ab33b86b1896707",
+      "file": "photos/01_dfe67ffc-a01a-40e2-a254-7a15b94bd7a6.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "475122397",
+      "heading": "Kingdra #H14/H32",
+      "price_label": "1 100 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475122397"
+    },
+    {
+      "item_id": "477260225",
+      "heading": "Kingdra EX 92/97 - Dragon",
+      "price_label": "450 kr",
+      "location": "Sandvika",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477260225"
+    },
+    {
+      "item_id": "478071866",
+      "heading": "Pokemon 30th Anniversary, japanske kort og 4 30th fabrikkforseglet boosterpakker",
+      "price_label": "7 999 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478071866"
+    },
+    {
+      "item_id": "271942671",
+      "heading": "Kingdra 12/109 HOLO – Pokemonkort (god)",
+      "price_label": "279 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/271942671"
+    },
+    {
+      "item_id": "477442288",
+      "heading": "Kingdra ex 94/101 Dragon frontiers LP/NM",
+      "price_label": "1 100 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477442288"
+    },
+    {
+      "item_id": "477118908",
+      "heading": "Kingdra – EX Team Rocket Returns 12/109 – Pokemonkort",
+      "price_label": "399 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477118908"
+    },
+    {
+      "item_id": "477749724",
+      "heading": "Kingdra Holo H14",
+      "price_label": "1 000 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477749724"
+    },
+    {
+      "item_id": "469750289",
+      "heading": "Kingdra #148 Pokemon Aquapolis",
+      "price_label": "4 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469750289"
+    },
+    {
+      "item_id": "478134123",
+      "heading": "Pokemon kort Kingdra ex holo NM",
+      "price_label": "4 200 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478134123"
+    }
+  ]
+}

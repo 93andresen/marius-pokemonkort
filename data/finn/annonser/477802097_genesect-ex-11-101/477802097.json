@@ -1,0 +1,191 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:12:20Z",
+  "contact_button": {
+    "adId": "477802097",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477802097",
+  "kode_candidates": {
+    "canonical": "477802097",
+    "object_info": "477802097",
+    "maplink": "477802097",
+    "contact_button": "477802097",
+    "hint": "477802097"
+  },
+  "title": "Genesect EX 11/101",
+  "status": "Solgt",
+  "trade_type": "Til salgs",
+  "price_label": "70 kr",
+  "price_nok": 70,
+  "location_text": "5101 Eidsvågneset",
+  "lat": 60.4437168610443,
+  "lon": 5.287405602494658,
+  "postal_code": "5101",
+  "last_modified_raw": "2.10.2026 kl. 17:32",
+  "last_modified": "2026-10-02T17:32:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "2db824fb-beb3-4e29-9b2c-b961290cdb51"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger Genesect EX 11/101.\n\n \n\n💸 Kan ta betaling i Vipps om ønsket\n\n📦 Sendes godt pakket inn eller hentes i Bergen\n\n❗ Jeg har flere kort på finn, du kan velge flere og betale som en pakke med samme fiks ferdig. Sjekk dem ut!\n\n \n\nTar i mot bud :)\n\n \n\nSøkeord: Genesect EX, 30th Celebration, 30th Anniversary, 30-årsjubileum, Classic Collection, Pokémon, Pokemon, TCG, Pokemonkort, Pokémon kort, samlekort, trading cards, kort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478146721",
+      "heading": "Pokémon Genesect EX 11/101 Plasma Blast",
+      "price_label": "80 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146721"
+    },
+    {
+      "item_id": "478024663",
+      "heading": "Gengar ex (090/128) fra / 30th Anniversary",
+      "price_label": "50 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478024663"
+    },
+    {
+      "item_id": "475860051",
+      "heading": "Perfekt gave! 50 Pokemon kort med garantert EX – 99 kr",
+      "price_label": "99 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475860051"
+    },
+    {
+      "item_id": "475837645",
+      "heading": "Jynx EX #183 Pokemon Chinese 151 Collect",
+      "price_label": "30 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475837645"
+    },
+    {
+      "item_id": "478147835",
+      "heading": "Pokémon Mega Gengar ex 056/094 Phantasmal Flames",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478147835"
+    },
+    {
+      "item_id": "478147162",
+      "heading": "Pokémon Seismitoad EX 20/111 Furious Fists",
+      "price_label": "40 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478147162"
+    },
+    {
+      "item_id": "475438573",
+      "heading": "Pokémon: Sceptile-EX (XY: Ancient Origins, 2015) - Ultra Rare #7/98 🌿✨",
+      "price_label": "159 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475438573"
+    },
+    {
+      "item_id": "477569753",
+      "heading": "Pokémon kort Genesect EX 11/101 - 30th classic celebration",
+      "price_label": "250 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477569753"
+    },
+    {
+      "item_id": "478147695",
+      "heading": "Pokémon Excadrill EX 82/113 Legendary Treasures",
+      "price_label": "50 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478147695"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "2db824fb-beb3-4e29-9b2c-b961290cdb51",
+      "item_ref": "477802097",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477802097/2db824fb-beb3-4e29-9b2c-b961290cdb51"
+    }
+  ],
+  "raw_capture": "477802097_genesect-ex-11-101/raw/477802097_2026-10-08-041220.html"
+}

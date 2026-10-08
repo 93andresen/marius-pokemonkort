@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:12:26Z",
+  "contact_button": {
+    "adId": "477802264",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477802264",
+  "kode_candidates": {
+    "canonical": "477802264",
+    "object_info": "477802264",
+    "maplink": "477802264",
+    "contact_button": "477802264",
+    "hint": "477802264"
+  },
+  "title": "Grass Energy #99 Base Set (1999)",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "6514 Kristiansund N",
+  "lat": 63.12110065143969,
+  "lon": 7.713798730765506,
+  "postal_code": "6514",
+  "last_modified_raw": "2.10.2026 kl. 17:35",
+  "last_modified": "2026-10-02T17:35:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "e23fbdb2-3cb4-452b-a1ca-5556e615b31c",
+    "39e8ab5f-9faf-414b-8e7e-f4e05556b81a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pokemon kort fra settet Base Set.\n\n \n\nGjerne kombiner med andre pokemon kort for å redusere frakt.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477804896",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804896"
+    },
+    {
+      "item_id": "477805583",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477805583"
+    },
+    {
+      "item_id": "478044085",
+      "heading": "Selger pokemon rumble kort",
+      "price_label": "100 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478044085"
+    },
+    {
+      "item_id": "477804238",
+      "heading": "Grass Energy #99 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477804238"
+    },
+    {
+      "item_id": "476577110",
+      "heading": "Grass Energy #99 Base Set 1999-2000",
+      "price_label": "20 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476577110"
+    },
+    {
+      "item_id": "478073694",
+      "heading": "Grass Energy #99 Base Set Shadowless",
+      "price_label": "18 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478073694"
+    },
+    {
+      "item_id": "477801514",
+      "heading": "Fire Energy #98 Base Set (1999)",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477801514"
+    },
+    {
+      "item_id": "477803808",
+      "heading": "Fire Energy #98 Base Set (1999)",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477803808"
+    },
+    {
+      "item_id": "475672904",
+      "heading": "Energy Removal #119 Base Set 2",
+      "price_label": "7 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475672904"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "e23fbdb2-3cb4-452b-a1ca-5556e615b31c",
+      "item_ref": "477802264",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477802264/e23fbdb2-3cb4-452b-a1ca-5556e615b31c"
+    },
+    {
+      "uuid": "39e8ab5f-9faf-414b-8e7e-f4e05556b81a",
+      "item_ref": "477802264",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477802264/39e8ab5f-9faf-414b-8e7e-f4e05556b81a"
+    }
+  ],
+  "raw_capture": "477802264_grass-energy-99-base-set-1999/raw/477802264_2026-10-08-041226.html"
+}

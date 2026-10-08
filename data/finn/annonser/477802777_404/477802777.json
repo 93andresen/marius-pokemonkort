@@ -1,0 +1,38 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:12:56Z",
+  "finn_kode": "477802777",
+  "kode_candidates": {
+    "hint": "477802777"
+  },
+  "title": "404",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": null,
+  "lat": null,
+  "lon": null,
+  "postal_code": null,
+  "last_modified_raw": null,
+  "last_modified": null,
+  "gallery_count": null,
+  "image_uuids": [],
+  "image_count_from_html": 0,
+  "description_raw": null,
+  "breadcrumbs": [],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [],
+  "missing_fields": [
+    "price_nok",
+    "coordinates",
+    "last_modified",
+    "gallery_count",
+    "description_raw"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [],
+  "raw_capture": "477802777_404/raw/477802777_2026-10-08-041256.html"
+}

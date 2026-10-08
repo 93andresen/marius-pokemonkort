@@ -1,0 +1,185 @@
+{
+  "finn_kode": "477802073",
+  "url": "https://www.finn.no/recommerce/forsale/item/477802073",
+  "slug": "477802073_pok-mon-30th-anniversary-poster-collection",
+  "first_seen": "2026-10-08T04:12:14Z",
+  "last_seen": "2026-10-08T04:12:14Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon 30th Anniversary Poster Collection",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "4885 Grimstad",
+    "postal_code": "4885",
+    "last_modified": "2026-10-02T17:38:00",
+    "gallery_count": 1,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:12:14Z",
+      "raw": "477802073_pok-mon-30th-anniversary-poster-collection/raw/477802073_2026-10-08-041214.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "4b484af6-e171-482c-8cb2-b43b175f70cf",
+      "item_ref": "477802073",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477802073/4b484af6-e171-482c-8cb2-b43b175f70cf",
+      "ok": true,
+      "size": "1600w",
+      "url": "https://images.finncdn.no/dynamic/1600w/item/477802073/4b484af6-e171-482c-8cb2-b43b175f70cf",
+      "bytes": 497307,
+      "content_type": "image/jpeg",
+      "sha1": "384a6cb86418c7a7a6fad796584ce382ebf8e504",
+      "file": "photos/01_4b484af6-e171-482c-8cb2-b43b175f70cf.jpg"
+    }
+  ],
+  "image_count_on_disk": 1,
+  "similar_ads": [
+    {
+      "item_id": "476728559",
+      "heading": "Pokémon 30th Anniversary Poster Collection samleboks",
+      "price_label": "700 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476728559"
+    },
+    {
+      "item_id": "477565137",
+      "heading": "Pokemon 20th Anniversary, Poster Collection",
+      "price_label": "599 kr",
+      "location": "Mosby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477565137"
+    },
+    {
+      "item_id": "478071866",
+      "heading": "Pokemon 30th Anniversary, japanske kort og 4 30th fabrikkforseglet boosterpakker",
+      "price_label": "7 999 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478071866"
+    },
+    {
+      "item_id": "477244811",
+      "heading": "Pokémon 30th Anniversary Poster Collection samleboks",
+      "price_label": "569 kr",
+      "location": "Holmestrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477244811"
+    },
+    {
+      "item_id": "477053127",
+      "heading": "Pokemon 20th Anniversary Poster Collection samleboks",
+      "price_label": "1 000 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477053127"
+    },
+    {
+      "item_id": "478067503",
+      "heading": "Pokemon 30th Anniversary Poster Collection samleboks",
+      "price_label": "580 kr",
+      "location": "Tårnåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478067503"
+    },
+    {
+      "item_id": "477865328",
+      "heading": "Pokémon 30th Anniversary Poster Collection",
+      "price_label": "650 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477865328"
+    },
+    {
+      "item_id": "478107675",
+      "heading": "Pokémon 30th Anniversary Poster Collection",
+      "price_label": "749 kr",
+      "location": "Tønsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478107675"
+    },
+    {
+      "item_id": "477880728",
+      "heading": "Pokémon 30th  Anniversary Poster Collection samlekort",
+      "price_label": "700 kr",
+      "location": "Holmestrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477880728"
+    }
+  ]
+}
