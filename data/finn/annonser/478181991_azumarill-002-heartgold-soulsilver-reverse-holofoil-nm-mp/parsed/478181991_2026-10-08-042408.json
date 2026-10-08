@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:24:08Z",
+  "contact_button": {
+    "adId": "478181991",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478181991",
+  "kode_candidates": {
+    "canonical": "478181991",
+    "object_info": "478181991",
+    "maplink": "478181991",
+    "contact_button": "478181991",
+    "hint": "478181991"
+  },
+  "title": "Azumarill #002 - HeartGold SoulSilver \nReverse Holofoil - NM\nMP",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "9104 Kvaløya",
+  "lat": 69.68479627587827,
+  "lon": 18.800612073198206,
+  "postal_code": "9104",
+  "last_modified_raw": "8.10.2026 kl. 00:41",
+  "last_modified": "2026-10-08T00:41:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "a707ff91-60e0-4e06-906b-c38a7ed82e6e",
+    "6f230e52-6824-4c07-b1b2-b776c3cd9ad2"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pokémon Azumarill 002 – NM - HeartGold SoulSilver (2010)\n\n \n\n💧 Azumarill #002 – HeartGold SoulSilver\n\n✨ Reverse Holofoil\n\n📌 Tilstand: NM\n\n \n\nPrisene er hentet fra TCGplayer og sammenlignet med flere markedsdatakilder og nylige salg, basert på kort i en tilstand som tilsvarer kortet som selges.\n\n \n\n📦 Frakt:\n\n• Brevpost: 28 kr\n\n• Sporet pakke med PostNord: 75 kr\n\n• Pakke med Posten: 76 kr\n\n• Emballasje inkludert\n\n \n\n💚 Samlekjøp: Pris kan reduseres ved kjøp av flere kort 🫶🏻\n\n \n\nSjekk gjerne profilen min for flere Pokémon-kort – enkeltkort, holo/reverse holo, vintage, moderne kort og boosterprodukter!\n\n \n\n#pokemon #pokémon #pokemonkort #pokemontcg #pokemoncards #azumarill #azumarillcard #azumarillpokemon #heartgoldsoulsilver #hgss #hgsspokemon #hgsscards #reverseholo #reverseholofoil #vintagepokemon #vintagepokemoncards #pokemoncollection #pokemoncollector #pokemonsamling #pokemonnorge #pokemonkorttilsalgs #pokemonkortnorge #norskpokemon #pokemontrading #tradingcards #tcg #tcgnorge #samlekort #samlekorttilsalgs",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478015488",
+      "heading": "Pokémon Froakie SV11/SV94 – Mint - Hidden Fates Shiny Vault",
+      "price_label": "140 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478015488"
+    },
+    {
+      "item_id": "478181948",
+      "heading": "Jumpluff #006 - HeartGold SoulSilver - Holofoil - NM",
+      "price_label": "70 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478181948"
+    },
+    {
+      "item_id": "466332827",
+      "heading": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "price_label": "100 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/466332827"
+    },
+    {
+      "item_id": "471762452",
+      "heading": "Azelf 4/123 Reverse HOLO pokemon kort",
+      "price_label": "150 kr",
+      "location": "Krokelvdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471762452"
+    },
+    {
+      "item_id": "417737872",
+      "heading": "Mesprit 14/123 ( reverse holo ) pokemon kort",
+      "price_label": "150 kr",
+      "location": "Krokelvdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/417737872"
+    },
+    {
+      "item_id": "478203924",
+      "heading": "Espeon 002/90 – Holo - NM - Undaunted (2010)",
+      "price_label": "700 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478203924"
+    },
+    {
+      "item_id": "478071936",
+      "heading": "Latias 21/110 - Holon Phantoms Non Holo - EX",
+      "price_label": "150 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478071936"
+    },
+    {
+      "item_id": "478071931",
+      "heading": "Pokémon Gothitelle 72/113 – Holo - Legendary Treasures (2013)",
+      "price_label": "40 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478071931"
+    },
+    {
+      "item_id": "478019501",
+      "heading": "Pokémon Magikarp 89/123 – NM - Mysterious Treasures",
+      "price_label": "300 kr",
+      "location": "Kvaløya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478019501"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "a707ff91-60e0-4e06-906b-c38a7ed82e6e",
+      "item_ref": "478181991",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478181991/a707ff91-60e0-4e06-906b-c38a7ed82e6e"
+    },
+    {
+      "uuid": "6f230e52-6824-4c07-b1b2-b776c3cd9ad2",
+      "item_ref": "478181991",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478181991/6f230e52-6824-4c07-b1b2-b776c3cd9ad2"
+    }
+  ],
+  "raw_capture": "478181991_azumarill-002-heartgold-soulsilver-reverse-holofoil-nm-mp/raw/478181991_2026-10-08-042408.html"
+}

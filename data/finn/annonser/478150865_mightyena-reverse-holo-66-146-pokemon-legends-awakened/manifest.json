@@ -1,0 +1,211 @@
+{
+  "finn_kode": "478150865",
+  "url": "https://www.finn.no/recommerce/forsale/item/478150865",
+  "slug": "478150865_mightyena-reverse-holo-66-146-pokemon-legends-awakened",
+  "first_seen": "2026-10-08T04:23:42Z",
+  "last_seen": "2026-10-08T04:23:42Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Mightyena reverse holo 66/146 - Pokemon Legends Awakened",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:11:00",
+    "gallery_count": 3,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:23:42Z",
+      "raw": "478150865_mightyena-reverse-holo-66-146-pokemon-legends-awakened/raw/478150865_2026-10-08-042342.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 2,
+      "uuid": "1ad039e6-f2a3-4adf-a879-c903d8e83019",
+      "item_ref": "478150865",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478150865/1ad039e6-f2a3-4adf-a879-c903d8e83019",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478150865/1ad039e6-f2a3-4adf-a879-c903d8e83019",
+      "bytes": 4222627,
+      "content_type": "image/jpeg",
+      "sha1": "07e7cd8f0e9ea9cd886cb0a8d629955b083a1f55",
+      "file": "photos/02_1ad039e6-f2a3-4adf-a879-c903d8e83019.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "2bf22e8a-adb9-45c2-9cde-d180ca918251",
+      "item_ref": "478150865",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478150865/2bf22e8a-adb9-45c2-9cde-d180ca918251",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478150865/2bf22e8a-adb9-45c2-9cde-d180ca918251",
+      "bytes": 4094001,
+      "content_type": "image/jpeg",
+      "sha1": "8591cb9b3f15d021dc33957c840f70dcf42315db",
+      "file": "photos/01_2bf22e8a-adb9-45c2-9cde-d180ca918251.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "a8de5be8-0091-44b2-922c-5ecc2f1761aa",
+      "item_ref": "478150865",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478150865/a8de5be8-0091-44b2-922c-5ecc2f1761aa",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478150865/a8de5be8-0091-44b2-922c-5ecc2f1761aa",
+      "bytes": 4150365,
+      "content_type": "image/jpeg",
+      "sha1": "6027423bb9a422483ca45906aba4eb003acf2044",
+      "file": "photos/03_a8de5be8-0091-44b2-922c-5ecc2f1761aa.jpg"
+    }
+  ],
+  "image_count_on_disk": 3,
+  "similar_ads": [
+    {
+      "item_id": "478160327",
+      "heading": "Pokemon - div kort fra Legends Awakened",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478160327"
+    },
+    {
+      "item_id": "478081618",
+      "heading": "Leafeon holo 24/100 - Pokemon Majestic Dawn",
+      "price_label": "100 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478081618"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478209877",
+      "heading": "Pokemon - div kort fra Shining Legends (2 reverse holo)",
+      "price_label": null,
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478209877"
+    },
+    {
+      "item_id": "477502649",
+      "heading": "Pokémon-kort Ninetales Bright Look Hexed Flame",
+      "price_label": "199 kr",
+      "location": "Børsa",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477502649"
+    },
+    {
+      "item_id": "477080445",
+      "heading": "Riolu 117/146 Reverse Holo - Legends Awakened",
+      "price_label": "70 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477080445"
+    },
+    {
+      "item_id": "470346864",
+      "heading": "Pokemon kort Dhelmise holo",
+      "price_label": "70 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470346864"
+    },
+    {
+      "item_id": "474214092",
+      "heading": "Ledyba 64/109 Reverse Holo - Team Rocket Returns",
+      "price_label": "200 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474214092"
+    },
+    {
+      "item_id": "453715433",
+      "heading": "Hitmontop 101/146 Reverse Holo - Legends Awakened",
+      "price_label": "60 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/453715433"
+    }
+  ]
+}

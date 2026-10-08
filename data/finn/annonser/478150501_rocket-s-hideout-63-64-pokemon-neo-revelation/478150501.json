@@ -1,0 +1,217 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:23:22Z",
+  "contact_button": {
+    "adId": "478150501",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478150501",
+  "kode_candidates": {
+    "canonical": "478150501",
+    "object_info": "478150501",
+    "maplink": "478150501",
+    "contact_button": "478150501",
+    "hint": "478150501"
+  },
+  "title": "Rocket’s Hideout 63/64 - Pokemon Neo Revelation",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:10",
+  "last_modified": "2026-10-08T00:10:00",
+  "gallery_count": 5,
+  "image_uuids": [
+    "53a33453-cb87-402f-883f-9cb3299cfd72",
+    "82fa215c-3f23-44f3-87ac-72efd64e9726",
+    "cf7c6c18-cda5-4716-9e14-07c875304e59",
+    "e330b1cd-08fd-4730-83d9-c4c7fc83fdf4",
+    "8d267afd-bff3-48dc-8701-dd6a0cc752b5"
+  ],
+  "image_count_from_html": 5,
+  "description_raw": "Trainer Rocket’s Hideout 63/64 fra Pokemon Neo Revelation selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.\n\n \n\n \n\n \n\nGengar",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "469450420",
+      "heading": "Rocket's Hideout #63 Pokemon Neo Revelation GRATIS FRAKT",
+      "price_label": "64 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469450420"
+    },
+    {
+      "item_id": "478133970",
+      "heading": "Pokémon Rocket's Hideout 63/64 Neo Revelation",
+      "price_label": "90 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478133970"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478210953",
+      "heading": "Rocket’s Sneak Attack 72/82 - Pokemon Team Rocket",
+      "price_label": "150 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478210953"
+    },
+    {
+      "item_id": "465193469",
+      "heading": "Pokémon Meowth Team Rocket kort",
+      "price_label": "100 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465193469"
+    },
+    {
+      "item_id": "475781415",
+      "heading": "Rocket's Hideout #87",
+      "price_label": "40 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475781415"
+    },
+    {
+      "item_id": "475399773",
+      "heading": "Pokémon kort Dark Hypno Team Rocket",
+      "price_label": "100 kr",
+      "location": "Ranheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475399773"
+    },
+    {
+      "item_id": "478146579",
+      "heading": "Pokémon Rocket's Sneak Attack 72/82 Team Rocket",
+      "price_label": "70 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146579"
+    },
+    {
+      "item_id": "473343168",
+      "heading": "Mawile 23/110 (Rare) - EX Holon Phantoms (2006)",
+      "price_label": "55 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473343168"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "53a33453-cb87-402f-883f-9cb3299cfd72",
+      "item_ref": "478150501",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478150501/53a33453-cb87-402f-883f-9cb3299cfd72"
+    },
+    {
+      "uuid": "82fa215c-3f23-44f3-87ac-72efd64e9726",
+      "item_ref": "478150501",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478150501/82fa215c-3f23-44f3-87ac-72efd64e9726"
+    },
+    {
+      "uuid": "cf7c6c18-cda5-4716-9e14-07c875304e59",
+      "item_ref": "478150501",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478150501/cf7c6c18-cda5-4716-9e14-07c875304e59"
+    },
+    {
+      "uuid": "e330b1cd-08fd-4730-83d9-c4c7fc83fdf4",
+      "item_ref": "478150501",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478150501/e330b1cd-08fd-4730-83d9-c4c7fc83fdf4"
+    },
+    {
+      "uuid": "8d267afd-bff3-48dc-8701-dd6a0cc752b5",
+      "item_ref": "478150501",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478150501/8d267afd-bff3-48dc-8701-dd6a0cc752b5"
+    }
+  ],
+  "raw_capture": "478150501_rocket-s-hideout-63-64-pokemon-neo-revelation/raw/478150501_2026-10-08-042322.html"
+}
