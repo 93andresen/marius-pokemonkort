@@ -11,6 +11,8 @@ One row per work item. Append only; **never renumber**. Status: `todo` / `in-pro
 | 0005 | Price an ad + each enumerated card (`finn/finn_price.py`) | done | cache-first, budget-aware; `confidence_of`/`deal_math`/`price_ad` + `deal.ratio`; real cached value 0 calls; `tests/test_finn_price.py` 11 OK; suite 57 OK |
 | 0006 | Sortable listings + cards tables (`finn/finn_tables.py`) | done | pure formatting of `pricing.jsonl`; best-deal-first; CSV + self-contained sortable HTML under `data/finn/tables/`; `tests/test_finn_tables.py` 11 OK; suite 68 OK |
 | 0007 | Program coverage report (`finn/finn_report.py`) | done | pure accounting of all artifacts; discovers 106 koder/1 archived/1 deal ratio & flags the gaps; `reports/coverage_*.json\|md`; `tests/test_finn_report.py` 10 OK; suite 78 OK |
+| 0008 | Bulk-scrape the discovered FINN ads | done | `--from-registry` loader (loud rc=2 on missing); real run `DONE archived=106/106`, 107 folders, 109 log rows, 0 failed; resumable/idempotent; `tests/test_finn_ad_parse.py` 17 OK |
+| 0009 | Archive→records join + fix two integration bugs | done | `finn/finn_corpus.py` (107 recs, 0 problems); fixed `splitlines()`→`split("\n")` on U+2028 (identify/report/ad); matcher adapter reads both record shapes; identify 107 rows OK; live price 50/57 cards, ratio 494.83; `tests/test_finn_corpus.py`+`test_jsonl_lines.py`+`test_finn_matcher_adapters.py` |
 
 ---
 
