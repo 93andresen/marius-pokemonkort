@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:20:02Z",
+  "contact_button": {
+    "adId": "478009627",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478009627",
+  "kode_candidates": {
+    "canonical": "478009627",
+    "object_info": "478009627",
+    "maplink": "478009627",
+    "contact_button": "478009627",
+    "hint": "478009627"
+  },
+  "title": "Primeape 50/110 - Pokemon Holon Phantoms",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:03",
+  "last_modified": "2026-10-08T00:03:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "032befe1-d2df-4f43-ac7e-80793bb2e911",
+    "702f0d6f-f87d-46dd-9364-26cb7ccc914a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Primeape 50/110 fra Pokemon Holon Phantoms selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "473343168",
+      "heading": "Mawile 23/110 (Rare) - EX Holon Phantoms (2006)",
+      "price_label": "55 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473343168"
+    },
+    {
+      "item_id": "476037143",
+      "heading": "Numel [Reverse Holo] #72 Pokemon Holon Phantoms",
+      "price_label": "50 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476037143"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "475359894",
+      "heading": "Exeggcute [Stamped] #65 Pokemon Holon Phantoms",
+      "price_label": "49 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475359894"
+    },
+    {
+      "item_id": "477672011",
+      "heading": "Mankey og Primeape Jungle",
+      "price_label": "39 kr",
+      "location": "Hamarvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477672011"
+    },
+    {
+      "item_id": "478160327",
+      "heading": "Pokemon - div kort fra Legends Awakened",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478160327"
+    },
+    {
+      "item_id": "478008088",
+      "heading": "Pokemon - div kort fra EX Delta Species",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478008088"
+    },
+    {
+      "item_id": "478010260",
+      "heading": "Pokemon - div kort fra Ruby and Sapphire",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478010260"
+    },
+    {
+      "item_id": "450196646",
+      "heading": "Chimecho 22/123 - Reverse Holo",
+      "price_label": "40 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/450196646"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "032befe1-d2df-4f43-ac7e-80793bb2e911",
+      "item_ref": "478009627",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478009627/032befe1-d2df-4f43-ac7e-80793bb2e911"
+    },
+    {
+      "uuid": "702f0d6f-f87d-46dd-9364-26cb7ccc914a",
+      "item_ref": "478009627",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478009627/702f0d6f-f87d-46dd-9364-26cb7ccc914a"
+    }
+  ],
+  "raw_capture": "478009627_primeape-50-110-pokemon-holon-phantoms/raw/478009627_2026-10-08-042002.html"
+}

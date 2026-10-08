@@ -1,0 +1,198 @@
+{
+  "finn_kode": "478009852",
+  "url": "https://www.finn.no/recommerce/forsale/item/478009852",
+  "slug": "478009852_oddish-73-110-pokemon-holon-phantoms",
+  "first_seen": "2026-10-08T04:20:12Z",
+  "last_seen": "2026-10-08T04:20:12Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Oddish 73/110 - Pokemon Holon Phantoms",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:02:00",
+    "gallery_count": 2,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:20:12Z",
+      "raw": "478009852_oddish-73-110-pokemon-holon-phantoms/raw/478009852_2026-10-08-042012.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "uuid": "b3125fde-9cc3-4092-b8b1-40d18b5fd0bf",
+      "item_ref": "478009852",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478009852/b3125fde-9cc3-4092-b8b1-40d18b5fd0bf",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478009852/b3125fde-9cc3-4092-b8b1-40d18b5fd0bf",
+      "bytes": 3967992,
+      "content_type": "image/jpeg",
+      "sha1": "8c01034f0515ae9e7a5103eafd80b256a67d6140",
+      "file": "photos/01_b3125fde-9cc3-4092-b8b1-40d18b5fd0bf.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "fee96a98-ca00-4a65-9e9c-3836423e88b6",
+      "item_ref": "478009852",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478009852/fee96a98-ca00-4a65-9e9c-3836423e88b6",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478009852/fee96a98-ca00-4a65-9e9c-3836423e88b6",
+      "bytes": 4009132,
+      "content_type": "image/jpeg",
+      "sha1": "d0afc079a8df02384f1f14e62c5321a6459ec05e",
+      "file": "photos/02_fee96a98-ca00-4a65-9e9c-3836423e88b6.jpg"
+    }
+  ],
+  "image_count_on_disk": 2,
+  "similar_ads": [
+    {
+      "item_id": "477867115",
+      "heading": "Vintage Oddish #73 Pokemon Holon Phantoms Kort",
+      "price_label": "29 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477867115"
+    },
+    {
+      "item_id": "475359894",
+      "heading": "Exeggcute [Stamped] #65 Pokemon Holon Phantoms",
+      "price_label": "49 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475359894"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478008088",
+      "heading": "Pokemon - div kort fra EX Delta Species",
+      "price_label": "50 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478008088"
+    },
+    {
+      "item_id": "476567082",
+      "heading": "Oddish #68",
+      "price_label": "45 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476567082"
+    },
+    {
+      "item_id": "476037143",
+      "heading": "Numel [Reverse Holo] #72 Pokemon Holon Phantoms",
+      "price_label": "50 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476037143"
+    },
+    {
+      "item_id": "476030267",
+      "heading": "Spheal [Reverse Holo] #74/101",
+      "price_label": "84 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476030267"
+    },
+    {
+      "item_id": "475391075",
+      "heading": "Bulbasaur #1 - Shining Legends",
+      "price_label": "15 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475391075"
+    },
+    {
+      "item_id": "477592071",
+      "heading": "Pokemon kort Oddish #7",
+      "price_label": "45 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477592071"
+    }
+  ]
+}

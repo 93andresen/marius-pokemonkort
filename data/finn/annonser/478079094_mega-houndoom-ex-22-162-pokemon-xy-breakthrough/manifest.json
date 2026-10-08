@@ -1,0 +1,224 @@
+{
+  "finn_kode": "478079094",
+  "url": "https://www.finn.no/recommerce/forsale/item/478079094",
+  "slug": "478079094_mega-houndoom-ex-22-162-pokemon-xy-breakthrough",
+  "first_seen": "2026-10-08T04:20:24Z",
+  "last_seen": "2026-10-08T04:20:24Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Mega Houndoom EX 22/162 - Pokemon XY Breakthrough",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:13:00",
+    "gallery_count": 4,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:20:24Z",
+      "raw": "478079094_mega-houndoom-ex-22-162-pokemon-xy-breakthrough/raw/478079094_2026-10-08-042024.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 4,
+      "uuid": "82f55655-38bf-4dcb-9468-951883a93b0f",
+      "item_ref": "478079094",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478079094/82f55655-38bf-4dcb-9468-951883a93b0f",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478079094/82f55655-38bf-4dcb-9468-951883a93b0f",
+      "bytes": 4081277,
+      "content_type": "image/jpeg",
+      "sha1": "4953c3da01d6445ed50c12ae0162f37c59318e32",
+      "file": "photos/04_82f55655-38bf-4dcb-9468-951883a93b0f.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "9766588d-7d92-4e61-88db-ff46b8645dc4",
+      "item_ref": "478079094",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478079094/9766588d-7d92-4e61-88db-ff46b8645dc4",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478079094/9766588d-7d92-4e61-88db-ff46b8645dc4",
+      "bytes": 4484368,
+      "content_type": "image/jpeg",
+      "sha1": "8d034d734dfe18af6a110d9dc65bcfa8c22f0eb3",
+      "file": "photos/02_9766588d-7d92-4e61-88db-ff46b8645dc4.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "b5987ba6-a283-4665-ae36-e069bebf3744",
+      "item_ref": "478079094",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478079094/b5987ba6-a283-4665-ae36-e069bebf3744",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478079094/b5987ba6-a283-4665-ae36-e069bebf3744",
+      "bytes": 3107614,
+      "content_type": "image/jpeg",
+      "sha1": "ef1da4adbcb887767802db2498c408f2005f9d4e",
+      "file": "photos/03_b5987ba6-a283-4665-ae36-e069bebf3744.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "d2dd8b9e-6be4-400d-ae56-fc2f28eb2c03",
+      "item_ref": "478079094",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478079094/d2dd8b9e-6be4-400d-ae56-fc2f28eb2c03",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478079094/d2dd8b9e-6be4-400d-ae56-fc2f28eb2c03",
+      "bytes": 5450400,
+      "content_type": "image/jpeg",
+      "sha1": "8dd59eb9d801fbd842a1729f7a9f7aad5f75d6c8",
+      "file": "photos/01_d2dd8b9e-6be4-400d-ae56-fc2f28eb2c03.jpg"
+    }
+  ],
+  "image_count_on_disk": 4,
+  "similar_ads": [
+    {
+      "item_id": "473750335",
+      "heading": "M Houndoom EX - Pokemon 22",
+      "price_label": "200 kr",
+      "location": "Førde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473750335"
+    },
+    {
+      "item_id": "474839495",
+      "heading": "Pokémon kort M Houndoom EX Mega 210",
+      "price_label": "200 kr",
+      "location": "Bjørnemyr",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474839495"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477882932",
+      "heading": "Pokémon kort M Houndoom EX 22/162",
+      "price_label": "200 kr",
+      "location": "Hvalstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477882932"
+    },
+    {
+      "item_id": "469057743",
+      "heading": "Diverse pokemon kort fra xy eraen",
+      "price_label": "20 kr",
+      "location": "Hamar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469057743"
+    },
+    {
+      "item_id": "457736886",
+      "heading": "Pokemon kort M Charizard EX 13/108 - XY Evolutions (Holo Rare)",
+      "price_label": "200 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457736886"
+    },
+    {
+      "item_id": "474431195",
+      "heading": "Pokémon kort Houndoom EX",
+      "price_label": "75 kr",
+      "location": "Hareid",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474431195"
+    },
+    {
+      "item_id": "467628406",
+      "heading": "Pokémon kort Typhlosion #20/162 Pokemon BREAKthrough Holo Rare",
+      "price_label": "179 kr",
+      "location": "Søgne",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467628406"
+    },
+    {
+      "item_id": "477822105",
+      "heading": "Pokemon tcg houndour #35 og houndoom #34 pokemon team magma & team aqua set",
+      "price_label": "200 kr",
+      "location": "Flatåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477822105"
+    }
+  ]
+}
