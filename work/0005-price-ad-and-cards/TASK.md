@@ -1,6 +1,6 @@
 # TASK 0005 — Price a parsed ad, and each card it enumerates
 
-- **Status:** in-progress
+- **Status:** done
 - **Owner:** Zoo (code mode)
 - **Output artifact(s):** `finn/finn_price.py`, `tests/test_finn_price.py`
 - **Depends on:** 0003 (`finn_identify`), 0004 (`finn_cards`), `finn_matcher` (existing), `pwlib`
