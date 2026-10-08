@@ -1,0 +1,235 @@
+{
+  "finn_kode": "458560266",
+  "url": "https://www.finn.no/recommerce/forsale/item/458560266",
+  "slug": "458560266_pok-mon-gx-ex-samlekort-japansk-holografisk-lot",
+  "first_seen": "2026-10-08T04:10:56Z",
+  "last_seen": "2026-10-08T04:10:56Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Pokémon GX/EX samlekort japansk holografisk lot",
+    "status": "Aktiv",
+    "price_nok": 150,
+    "trade_type": "Til salgs",
+    "location_text": "1666 Rolvsøy",
+    "postal_code": "1666",
+    "last_modified": "2026-05-19T21:22:00",
+    "gallery_count": 5,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:10:56Z",
+      "raw": "458560266_pok-mon-gx-ex-samlekort-japansk-holografisk-lot/raw/458560266_2026-10-08-041056.html",
+      "parse_quality": "full",
+      "price_nok": 150,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 3,
+      "uuid": "3833ad9b-70c8-48ce-a04f-8123a367d9d2",
+      "item_ref": "458560266",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458560266/3833ad9b-70c8-48ce-a04f-8123a367d9d2",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458560266/3833ad9b-70c8-48ce-a04f-8123a367d9d2",
+      "bytes": 4294476,
+      "content_type": "image/jpeg",
+      "sha1": "73195f97ceabb14395443da86e2226c4deba5a48",
+      "file": "photos/03_3833ad9b-70c8-48ce-a04f-8123a367d9d2.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "54d62dde-9fdc-479b-b1a6-7041141b1349",
+      "item_ref": "458560266",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/458560266/54d62dde-9fdc-479b-b1a6-7041141b1349",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458560266/54d62dde-9fdc-479b-b1a6-7041141b1349",
+      "bytes": 4825247,
+      "content_type": "image/jpeg",
+      "sha1": "79448f1750df4d73c6c329e3d25059e59420e25f",
+      "file": "photos/02_54d62dde-9fdc-479b-b1a6-7041141b1349.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "6e12cfb0-794d-47c9-b127-0cdd183d7003",
+      "item_ref": "458560266",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/458560266/6e12cfb0-794d-47c9-b127-0cdd183d7003",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458560266/6e12cfb0-794d-47c9-b127-0cdd183d7003",
+      "bytes": 4516426,
+      "content_type": "image/jpeg",
+      "sha1": "c081d4e4f52c32d17e1a2096725093f3805b56a1",
+      "file": "photos/01_6e12cfb0-794d-47c9-b127-0cdd183d7003.jpg"
+    },
+    {
+      "index": 4,
+      "uuid": "b918ac3b-4c41-4edd-bbde-56c6ada6b829",
+      "item_ref": "458560266",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458560266/b918ac3b-4c41-4edd-bbde-56c6ada6b829",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458560266/b918ac3b-4c41-4edd-bbde-56c6ada6b829",
+      "bytes": 4253519,
+      "content_type": "image/jpeg",
+      "sha1": "96fe1e2c3a7ea27d5160e523dc5e5a9e6260e196",
+      "file": "photos/04_b918ac3b-4c41-4edd-bbde-56c6ada6b829.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "f4152627-dd2b-4f6f-97e4-a99c13dd4454",
+      "item_ref": "458560266",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/458560266/f4152627-dd2b-4f6f-97e4-a99c13dd4454",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/458560266/f4152627-dd2b-4f6f-97e4-a99c13dd4454",
+      "bytes": 3794882,
+      "content_type": "image/jpeg",
+      "sha1": "9def7204e96e51f9172ce8f9df5667112a00141c",
+      "file": "photos/05_f4152627-dd2b-4f6f-97e4-a99c13dd4454.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "475557910",
+      "heading": "Pokemon GX japanske kort",
+      "price_label": "100 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475557910"
+    },
+    {
+      "item_id": "460299446",
+      "heading": "Pokémon kort japansk GX holografisk",
+      "price_label": "50 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460299446"
+    },
+    {
+      "item_id": "471430480",
+      "heading": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "price_label": "100 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471430480"
+    },
+    {
+      "item_id": "475804089",
+      "heading": "Pokemon kort japansk/asiatisk samling EX holografisk",
+      "price_label": "100 kr",
+      "location": "Gamle Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475804089"
+    },
+    {
+      "item_id": "477853933",
+      "heading": "Pokémon GX / EX samlekort – lot med 5 kort",
+      "price_label": "750 kr",
+      "location": "Råde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477853933"
+    },
+    {
+      "item_id": "470154824",
+      "heading": "Pokemon kort - Alolan Ninetales GX (Japanese) sm12a",
+      "price_label": "150 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470154824"
+    },
+    {
+      "item_id": "476719630",
+      "heading": "Pokemon Japansk fullarts",
+      "price_label": "130 kr",
+      "location": "Saltnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476719630"
+    },
+    {
+      "item_id": "478174067",
+      "heading": "Pokemon GX/EX samlekort med holografiske kort",
+      "price_label": "60 kr",
+      "location": "Sandvika",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478174067"
+    },
+    {
+      "item_id": "470889627",
+      "heading": "Pokemon GX og promo kort – samlekort lot",
+      "price_label": "650 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470889627"
+    }
+  ]
+}
