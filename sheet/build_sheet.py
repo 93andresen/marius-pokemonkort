@@ -35,6 +35,13 @@ OUT_DIR = Path(__file__).resolve().parent / "out"
 RATE_LOG = REPO / "logs" / "ratelog.csv"
 RESOLVED_GLOB = str(DATA / "resolved_portfolio_*.csv")
 
+# --- FINN artifacts (the FINN tab's row universe + overlays) -----------------
+FINN_DIR = REPO / "data" / "finn"
+ANNONSER_DIR = FINN_DIR / "annonser"
+FINN_REGISTRY = FINN_DIR / "registry" / "pokemon-kort.json"
+FINN_PRICING = FINN_DIR / "matches" / "pricing.jsonl"
+FINN_MATCHES = FINN_DIR / "matches" / "matches.jsonl"
+
 # --- currency assumptions (documented on the Config tab; edit freely) --------
 USD_NOK = 10.80
 EUR_NOK = 11.70
@@ -463,6 +470,112 @@ def build_ratelog() -> list[list]:
     return [[r.get(col, "") for col in header] for r in rows[-200:]]
 
 
+# --- FINN tab ---------------------------------------------------------------- #
+# The FINN tab's row universe is the *archive* (every ad finn_ad.py stored); the
+# registry contributes first/last-seen and the newest pricing record per kode
+# contributes the matched card + market value + delta + ratio.  Colours/format
+# for Price/Market/Delta/Status are applied by the bound Apps Script (finnRules).
+
+FINN_HEADER = [
+    "FINN-kode", "Title", "Price (NOK)", "Matched card", "Market price",
+    "Delta", "Ratio", "Status", "First seen", "Last seen",
+]
+
+
+def _blank(value: object) -> object:
+    """None → empty cell; a real 0 is preserved (never fabricated)."""
+    return "" if value is None else value
+
+
+def _load_jsonl_latest(path: Path) -> dict[str, dict]:
+    """Latest record per ``finn_kode`` from an append-only JSONL (last wins).
+
+    Splits on ``"\\n"`` only — ``str.splitlines()`` would also split on U+2028 /
+    U+2029, which occur inside real FINN descriptions and would corrupt records.
+    """
+    out: dict[str, dict] = {}
+    if not path.exists():
+        return out
+    for line in path.read_text(encoding="utf-8").split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            rec = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if not isinstance(rec, dict):
+            continue
+        kode = str(rec.get("finn_kode") or "").strip()
+        if kode:
+            out[kode] = rec
+    return out
+
+
+def build_finn(annonser_dir: str | Path, registry_path: str | Path,
+               pricing_jsonl: str | Path, matches_jsonl: str | Path) -> list[list]:
+    """One row per archived FINN ad, newest pricing overlaid, best deal first."""
+    sys.path.insert(0, str(REPO / "finn"))
+    try:
+        import finn_corpus  # type: ignore
+    except Exception as exc:  # noqa: BLE001 - surface it, don't hide it
+        print(f"[build_sheet] WARN: finn_corpus import failed ({exc}); FINN tab empty")
+        return []
+
+    records, problems = finn_corpus.collect(Path(annonser_dir))
+    if problems:
+        print(f"[build_sheet] WARN: {len(problems)} ad folder(s) unreadable "
+              f"(first: {problems[0]})")
+
+    registry: dict = {}
+    rp = Path(registry_path)
+    if rp.exists():
+        try:
+            registry = json.loads(rp.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            print(f"[build_sheet] WARN: registry unreadable ({exc}); dates blank")
+
+    pricing = _load_jsonl_latest(Path(pricing_jsonl))
+    matches = _load_jsonl_latest(Path(matches_jsonl))
+
+    rows: list[list] = []
+    for rec in records:
+        kode = str(rec.get("finn_kode") or "").strip()
+        reg = registry.get(kode) or {}
+        pr = pricing.get(kode) or {}
+        deal = pr.get("deal") or {}
+        best = (pr.get("listing") or {}).get("best") or (matches.get(kode) or {}).get("best")
+
+        price = rec.get("price_nok")
+        if price is None:
+            price = reg.get("last_price")
+
+        rows.append([
+            kode,
+            pr.get("heading") or reg.get("heading") or rec.get("title") or "",
+            _blank(price),
+            (best or {}).get("name") or "",
+            _blank(deal.get("market_value_nok")),
+            _blank(deal.get("delta_nok")),
+            _blank(deal.get("ratio")),
+            rec.get("status") or "",
+            reg.get("first_seen") or "",
+            reg.get("last_seen") or "",
+        ])
+
+    def _rank(row: list) -> tuple:
+        ratio = row[6]
+        if isinstance(ratio, (int, float)):
+            return (0, -float(ratio), str(row[0]))
+        return (1, 0.0, str(row[0]))
+
+    rows.sort(key=_rank)
+    priced = sum(1 for r in rows if r[6] != "")
+    print(f"[build_sheet] FINN      : {len(rows)} archived ads "
+          f"({priced} with a market value/ratio, {len(problems)} folder problem(s))")
+    return rows
+
+
 # --------------------------------------------------------------------------- #
 
 
@@ -532,9 +645,9 @@ def main(argv: list[str] | None = None) -> int:
         "Config": {"header": [], "rows": build_config(sheet_id, apps_script_id)},
         "RateLog": {"header": ["timestamp_utc", "endpoint", "path", "query", "status",
                                "remaining_hour", "remaining_day", "ok", "error"], "rows": rate_rows},
-        "FINN": {"header": ["FINN-kode", "Title", "Price (NOK)", "Matched card", "Market price",
-                            "Delta", "Status", "First seen", "Last seen"],
-                 "rows": []},
+        "FINN": {"header": FINN_HEADER,
+                 "rows": build_finn(ANNONSER_DIR, FINN_REGISTRY,
+                                    FINN_PRICING, FINN_MATCHES)},
     }
 
     stamp = utc_stamp()
