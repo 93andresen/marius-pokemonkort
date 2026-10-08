@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=GX+EX+samlekort+holografisk+lot&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:03 GMT
+Content-Type: application/json
+Content-Length: 219
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 922
+X-RateLimit-Remaining-Hour: 100
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GWM50ft1EgkEwkmLrSXoMqBahPxTiB62tFlOFXTF3CJKKXgbgumnYXQiX%2FiYaztVxtl%2Bz%2FpqQ0KAVo%2BoAAos7LBAVENF5Ee%2FPlBP8KdaCIDB4po3yvljRHs3OvvBQVwxUDR36PFAjVSVCmNxtXi5cg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4727714cb18b515-OSL
+alt-svc: h3=":443"; ma=86400

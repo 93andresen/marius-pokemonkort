@@ -358,3 +358,5 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-02T18:40:24Z,search,/search,q=635+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
 2026-10-02T18:40:24Z,search,/search,q=JU+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
 2026-10-02T18:40:24Z,search,/search,q=Jungle+4&limit=5,0,,,False,URLError: [Errno 11001] getaddrinfo failed
+2026-10-08T04:40:02Z,search,/search,q=GX+EX+samlekort+holografisk+lot&limit=20,200,100,922,True,
+2026-10-08T04:40:05Z,search,/search,q=Kingdra+EX+samlekort&limit=20,200,99,921,True,

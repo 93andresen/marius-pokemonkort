@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Kingdra+EX+samlekort&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:06 GMT
+Content-Type: application/json
+Content-Length: 208
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 921
+X-RateLimit-Remaining-Hour: 99
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yVaTfZbx1G9xGJEJmiwaHBUn6TNDgV%2BJuukD6Ue192wMjk6iBq%2BNyMnuQaUZ3xnqedic3YTAiPzzVOvfccrU9J%2FmmtFsxKwWTlN%2B3d7LpxPH8mM4lqaUVOzVNlJB2WY2tkUTZ0%2BDpORUgsDm9EVArQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47277267f87568d-OSL
+alt-svc: h3=":443"; ma=86400

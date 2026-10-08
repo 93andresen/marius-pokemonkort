@@ -1,0 +1,92 @@
+[
+  {
+    "parser_version": "finn_matcher/1.0.0",
+    "generated_at": "2026-10-08T04:39:45Z",
+    "finn_kode": "458560266",
+    "url": null,
+    "heading": null,
+    "status": null,
+    "location": null,
+    "finn_price_nok": null,
+    "parsed": {
+      "card_name": null,
+      "card_number": null,
+      "set_hint": null,
+      "variant_hint": null,
+      "year": null
+    },
+    "queries": [],
+    "calls_spent": 0,
+    "cache_hit": false,
+    "candidates": [],
+    "best": null,
+    "value": null,
+    "pricecharting_url": "https://www.pricecharting.com/search-products?q=&type=prices",
+    "pricecharting_confirmed": false,
+    "notes": [
+      "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+      "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+      "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+    ]
+  },
+  {
+    "parser_version": "finn_matcher/1.0.0",
+    "generated_at": "2026-10-08T04:39:45Z",
+    "finn_kode": "458643794",
+    "url": null,
+    "heading": null,
+    "status": null,
+    "location": null,
+    "finn_price_nok": null,
+    "parsed": {
+      "card_name": null,
+      "card_number": null,
+      "set_hint": null,
+      "variant_hint": null,
+      "year": null
+    },
+    "queries": [],
+    "calls_spent": 0,
+    "cache_hit": false,
+    "candidates": [],
+    "best": null,
+    "value": null,
+    "pricecharting_url": "https://www.pricecharting.com/search-products?q=&type=prices",
+    "pricecharting_confirmed": false,
+    "notes": [
+      "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+      "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+      "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+    ]
+  },
+  {
+    "parser_version": "finn_matcher/1.0.0",
+    "generated_at": "2026-10-08T04:39:45Z",
+    "finn_kode": "475878513",
+    "url": null,
+    "heading": null,
+    "status": null,
+    "location": null,
+    "finn_price_nok": null,
+    "parsed": {
+      "card_name": null,
+      "card_number": null,
+      "set_hint": null,
+      "variant_hint": null,
+      "year": null
+    },
+    "queries": [],
+    "calls_spent": 0,
+    "cache_hit": false,
+    "candidates": [],
+    "best": null,
+    "value": null,
+    "pricecharting_url": "https://www.pricecharting.com/search-products?q=&type=prices",
+    "pricecharting_confirmed": false,
+    "notes": [
+      "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+      "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+      "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+    ]
+  }
+]
