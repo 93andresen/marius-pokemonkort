@@ -1,0 +1,237 @@
+{
+  "finn_kode": "478142426",
+  "url": "https://www.finn.no/recommerce/forsale/item/478142426",
+  "slug": "478142426_luxury-ball-86-100-pokemon-stromfront",
+  "first_seen": "2026-10-08T04:22:12Z",
+  "last_seen": "2026-10-08T04:22:12Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Luxury Ball 86/100 - Pokemon Stromfront",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:01:00",
+    "gallery_count": 5,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:22:12Z",
+      "raw": "478142426_luxury-ball-86-100-pokemon-stromfront/raw/478142426_2026-10-08-042212.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 4,
+      "uuid": "02a514a6-57af-48fe-936f-55d656cd9b4f",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/02a514a6-57af-48fe-936f-55d656cd9b4f",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142426/02a514a6-57af-48fe-936f-55d656cd9b4f",
+      "bytes": 3763087,
+      "content_type": "image/jpeg",
+      "sha1": "ae07e68628c2d22dce9e73292d9c3ab067597dfc",
+      "file": "photos/04_02a514a6-57af-48fe-936f-55d656cd9b4f.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "165353f3-7690-4585-92cf-57cb91d02505",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478142426/165353f3-7690-4585-92cf-57cb91d02505",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142426/165353f3-7690-4585-92cf-57cb91d02505",
+      "bytes": 3367455,
+      "content_type": "image/jpeg",
+      "sha1": "71fa8ed8e5d104c49fd498032372ada0607d5dcb",
+      "file": "photos/01_165353f3-7690-4585-92cf-57cb91d02505.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "41a44c3e-bdf9-4921-9d36-2c9868fe20dd",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/41a44c3e-bdf9-4921-9d36-2c9868fe20dd",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142426/41a44c3e-bdf9-4921-9d36-2c9868fe20dd",
+      "bytes": 2146301,
+      "content_type": "image/jpeg",
+      "sha1": "00708ec14e9505f04e88c078254b4176a462cfbf",
+      "file": "photos/05_41a44c3e-bdf9-4921-9d36-2c9868fe20dd.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "a657f397-6d37-4b81-a4ef-a4df429aac1d",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/a657f397-6d37-4b81-a4ef-a4df429aac1d",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142426/a657f397-6d37-4b81-a4ef-a4df429aac1d",
+      "bytes": 3160020,
+      "content_type": "image/jpeg",
+      "sha1": "b50bdcefff01abfd3825dc1aa63304c9372ea8a7",
+      "file": "photos/03_a657f397-6d37-4b81-a4ef-a4df429aac1d.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "b88d586c-33b1-45f7-a13a-8ca0dd2a197a",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478142426/b88d586c-33b1-45f7-a13a-8ca0dd2a197a",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142426/b88d586c-33b1-45f7-a13a-8ca0dd2a197a",
+      "bytes": 3827641,
+      "content_type": "image/jpeg",
+      "sha1": "3eeed818c14ee81a50e4c803f431fc996c702c65",
+      "file": "photos/02_b88d586c-33b1-45f7-a13a-8ca0dd2a197a.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "475738336",
+      "heading": "Great Ball #92",
+      "price_label": "13 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475738336"
+    },
+    {
+      "item_id": "477790738",
+      "heading": "Luxury Ball 86/100 – Stormfront – 2008",
+      "price_label": "40 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477790738"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478146766",
+      "heading": "Pokémon Great Ball 85/100 Reverse Holo Stormfront",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146766"
+    },
+    {
+      "item_id": "478026307",
+      "heading": "Pokemon 057/128, 30 th celebration",
+      "price_label": "10 kr",
+      "location": "Namsos",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478026307"
+    },
+    {
+      "item_id": "476843361",
+      "heading": "Great Ball #92 (2004)",
+      "price_label": "20 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476843361"
+    },
+    {
+      "item_id": "475358420",
+      "heading": "Ekans - EX Sandstorm (SS)",
+      "price_label": "15 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475358420"
+    },
+    {
+      "item_id": "459458268",
+      "heading": "Great Ball 90/113 Reverse Holo - Delta Species",
+      "price_label": "100 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/459458268"
+    },
+    {
+      "item_id": "475485254",
+      "heading": "Pokémon kort Trainer Great Ball",
+      "price_label": "30 kr",
+      "location": "Tynset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475485254"
+    }
+  ]
+}

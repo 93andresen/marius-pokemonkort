@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:23:03Z",
+  "contact_button": {
+    "adId": "478143297",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478143297",
+  "kode_candidates": {
+    "canonical": "478143297",
+    "object_info": "478143297",
+    "maplink": "478143297",
+    "contact_button": "478143297",
+    "hint": "478143297"
+  },
+  "title": "Mega Slowbro EX 31/84 - Pokemon Pitch Black",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:06",
+  "last_modified": "2026-10-08T00:06:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "21f178d9-d3ee-483c-a577-160585484e43",
+    "bf19b354-e678-466b-8505-9913ab9f4ed7"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Mega Slowbro EX 31/84 fra Pokemon Pitch Black selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477966505",
+      "heading": "Mega Slowbro ex (031/084) — Pitch Black",
+      "price_label": "40 kr",
+      "location": "Klæbu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477966505"
+    },
+    {
+      "item_id": "478143203",
+      "heading": "Morpeko EX 55/84 - Pokemon Pitch Black",
+      "price_label": "15 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478143203"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "477615174",
+      "heading": "Mega Chandelure ex #38 - Pokemon kort fra Pitch Black",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477615174"
+    },
+    {
+      "item_id": "470013872",
+      "heading": "Mega slowbro fra pitch black pokemon",
+      "price_label": "40 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470013872"
+    },
+    {
+      "item_id": "477295179",
+      "heading": "Pokemon Pitch Black Mega Drakai - Dhelmise - Rampardos",
+      "price_label": "30 kr",
+      "location": "Knarrlagsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477295179"
+    },
+    {
+      "item_id": "477254191",
+      "heading": "Slowbro",
+      "price_label": "49 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477254191"
+    },
+    {
+      "item_id": "472033411",
+      "heading": "Mega Delphox EX PitchBlack",
+      "price_label": "40 kr",
+      "location": "Klæbu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472033411"
+    },
+    {
+      "item_id": "477745932",
+      "heading": "Pokémon: Mega Chandelure ex 038/084 – Pitch Black",
+      "price_label": "30 kr",
+      "location": "Verdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477745932"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "21f178d9-d3ee-483c-a577-160585484e43",
+      "item_ref": "478143297",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478143297/21f178d9-d3ee-483c-a577-160585484e43"
+    },
+    {
+      "uuid": "bf19b354-e678-466b-8505-9913ab9f4ed7",
+      "item_ref": "478143297",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478143297/bf19b354-e678-466b-8505-9913ab9f4ed7"
+    }
+  ],
+  "raw_capture": "478143297_mega-slowbro-ex-31-84-pokemon-pitch-black/raw/478143297_2026-10-08-042303.html"
+}

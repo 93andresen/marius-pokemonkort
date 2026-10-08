@@ -1,0 +1,217 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:22:12Z",
+  "contact_button": {
+    "adId": "478142426",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478142426",
+  "kode_candidates": {
+    "canonical": "478142426",
+    "object_info": "478142426",
+    "maplink": "478142426",
+    "contact_button": "478142426",
+    "hint": "478142426"
+  },
+  "title": "Luxury Ball 86/100 - Pokemon Stromfront",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:01",
+  "last_modified": "2026-10-08T00:01:00",
+  "gallery_count": 5,
+  "image_uuids": [
+    "165353f3-7690-4585-92cf-57cb91d02505",
+    "b88d586c-33b1-45f7-a13a-8ca0dd2a197a",
+    "a657f397-6d37-4b81-a4ef-a4df429aac1d",
+    "02a514a6-57af-48fe-936f-55d656cd9b4f",
+    "41a44c3e-bdf9-4921-9d36-2c9868fe20dd"
+  ],
+  "image_count_from_html": 5,
+  "description_raw": "Trainer Luxury Ball 86/100 fra Pokemon Stormfront selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "475738336",
+      "heading": "Great Ball #92",
+      "price_label": "13 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475738336"
+    },
+    {
+      "item_id": "477790738",
+      "heading": "Luxury Ball 86/100 – Stormfront – 2008",
+      "price_label": "40 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477790738"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "478146766",
+      "heading": "Pokémon Great Ball 85/100 Reverse Holo Stormfront",
+      "price_label": "30 kr",
+      "location": "Eidsvågneset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146766"
+    },
+    {
+      "item_id": "478026307",
+      "heading": "Pokemon 057/128, 30 th celebration",
+      "price_label": "10 kr",
+      "location": "Namsos",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478026307"
+    },
+    {
+      "item_id": "476843361",
+      "heading": "Great Ball #92 (2004)",
+      "price_label": "20 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476843361"
+    },
+    {
+      "item_id": "475358420",
+      "heading": "Ekans - EX Sandstorm (SS)",
+      "price_label": "15 kr",
+      "location": "Dyrvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475358420"
+    },
+    {
+      "item_id": "459458268",
+      "heading": "Great Ball 90/113 Reverse Holo - Delta Species",
+      "price_label": "100 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/459458268"
+    },
+    {
+      "item_id": "475485254",
+      "heading": "Pokémon kort Trainer Great Ball",
+      "price_label": "30 kr",
+      "location": "Tynset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475485254"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "165353f3-7690-4585-92cf-57cb91d02505",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478142426/165353f3-7690-4585-92cf-57cb91d02505"
+    },
+    {
+      "uuid": "b88d586c-33b1-45f7-a13a-8ca0dd2a197a",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478142426/b88d586c-33b1-45f7-a13a-8ca0dd2a197a"
+    },
+    {
+      "uuid": "a657f397-6d37-4b81-a4ef-a4df429aac1d",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/a657f397-6d37-4b81-a4ef-a4df429aac1d"
+    },
+    {
+      "uuid": "02a514a6-57af-48fe-936f-55d656cd9b4f",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/02a514a6-57af-48fe-936f-55d656cd9b4f"
+    },
+    {
+      "uuid": "41a44c3e-bdf9-4921-9d36-2c9868fe20dd",
+      "item_ref": "478142426",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142426/41a44c3e-bdf9-4921-9d36-2c9868fe20dd"
+    }
+  ],
+  "raw_capture": "478142426_luxury-ball-86-100-pokemon-stromfront/raw/478142426_2026-10-08-042212.html"
+}

@@ -1,0 +1,199 @@
+{
+  "parser_version": "finn_ad/1.0.0",
+  "parsed_at": "2026-10-08T04:23:12Z",
+  "contact_button": {
+    "adId": "478143420",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478143420",
+  "kode_candidates": {
+    "canonical": "478143420",
+    "object_info": "478143420",
+    "maplink": "478143420",
+    "contact_button": "478143420",
+    "hint": "478143420"
+  },
+  "title": "Cobalion EX 64/86 - Pokemon Chaos Rising",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": null,
+  "location_text": "7031 Trondheim",
+  "lat": 63.406795433446234,
+  "lon": 10.400994903301227,
+  "postal_code": "7031",
+  "last_modified_raw": "8.10.2026 kl. 00:07",
+  "last_modified": "2026-10-08T00:07:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "3ba673e3-361c-44e7-8483-b54301cb8f8a",
+    "05886ee8-d84f-4087-963f-438fb6f80a90"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Cobalion EX 64/86 fra Pokemon Chaos Rising selges.\n\n \n\nSe gjerne mine andre Pokémon-kort på min profil.\n\n \n\nTa kontakt dersom det er noen spørsmål eller ønske om flere bilder.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477746464",
+      "heading": "Pokémon: Cobalion ex 064/086 – Chaos Rising",
+      "price_label": "30 kr",
+      "location": "Verdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477746464"
+    },
+    {
+      "item_id": "475053563",
+      "heading": "Cobalion EX #064",
+      "price_label": "20 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475053563"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "471471460",
+      "heading": "Pokemon Cobalion EX 062/083",
+      "price_label": "18 kr",
+      "location": "Klæbu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471471460"
+    },
+    {
+      "item_id": "477015770",
+      "heading": "Pokémon Cobalion GX  103/086 samlekort",
+      "price_label": "30 kr",
+      "location": "Namsos",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477015770"
+    },
+    {
+      "item_id": "476657302",
+      "heading": "Frogadier 089/086 Pokemon Chaos Rising",
+      "price_label": "100 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476657302"
+    },
+    {
+      "item_id": "476307326",
+      "heading": "Cobalion EX Chaos Rising 064/086",
+      "price_label": "20 kr",
+      "location": "Sørumsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476307326"
+    },
+    {
+      "item_id": "477746335",
+      "heading": "Pokémon: Mega Floette ex 035/086 – Chaos Rising",
+      "price_label": "30 kr",
+      "location": "Verdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477746335"
+    },
+    {
+      "item_id": "477746594",
+      "heading": "Pokémon: Mega Gallade ex 048/086 – Chaos Rising",
+      "price_label": "30 kr",
+      "location": "Verdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477746594"
+    }
+  ],
+  "missing_fields": [
+    "price_nok"
+  ],
+  "parse_quality": "partial",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "3ba673e3-361c-44e7-8483-b54301cb8f8a",
+      "item_ref": "478143420",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478143420/3ba673e3-361c-44e7-8483-b54301cb8f8a"
+    },
+    {
+      "uuid": "05886ee8-d84f-4087-963f-438fb6f80a90",
+      "item_ref": "478143420",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478143420/05886ee8-d84f-4087-963f-438fb6f80a90"
+    }
+  ],
+  "raw_capture": "478143420_cobalion-ex-64-86-pokemon-chaos-rising/raw/478143420_2026-10-08-042312.html"
+}

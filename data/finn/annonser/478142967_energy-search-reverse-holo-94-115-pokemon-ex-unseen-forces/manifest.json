@@ -1,0 +1,237 @@
+{
+  "finn_kode": "478142967",
+  "url": "https://www.finn.no/recommerce/forsale/item/478142967",
+  "slug": "478142967_energy-search-reverse-holo-94-115-pokemon-ex-unseen-forces",
+  "first_seen": "2026-10-08T04:22:30Z",
+  "last_seen": "2026-10-08T04:22:30Z",
+  "parser_version": "finn_ad/1.0.0",
+  "latest": {
+    "title": "Energy Search reverse holo 94/115 - Pokemon EX Unseen Forces",
+    "status": "Aktiv",
+    "price_nok": null,
+    "trade_type": null,
+    "location_text": "7031 Trondheim",
+    "postal_code": "7031",
+    "last_modified": "2026-10-08T00:04:00",
+    "gallery_count": 7,
+    "parse_quality": "partial"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-10-08T04:22:30Z",
+      "raw": "478142967_energy-search-reverse-holo-94-115-pokemon-ex-unseen-forces/raw/478142967_2026-10-08-042231.html",
+      "parse_quality": "partial",
+      "price_nok": null,
+      "status": "Aktiv",
+      "missing_fields": [
+        "price_nok"
+      ],
+      "warnings": []
+    }
+  ],
+  "images": [
+    {
+      "index": 4,
+      "uuid": "5bbf2719-c9a9-4343-814e-5cbc13f0a5eb",
+      "item_ref": "478142967",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142967/5bbf2719-c9a9-4343-814e-5cbc13f0a5eb",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142967/5bbf2719-c9a9-4343-814e-5cbc13f0a5eb",
+      "bytes": 3331208,
+      "content_type": "image/jpeg",
+      "sha1": "c2d87cabf62d922167c3cf1580d97724015035ce",
+      "file": "photos/04_5bbf2719-c9a9-4343-814e-5cbc13f0a5eb.jpg"
+    },
+    {
+      "index": 5,
+      "uuid": "5c29246d-cf88-4b3d-8493-df2f9dda1b04",
+      "item_ref": "478142967",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142967/5c29246d-cf88-4b3d-8493-df2f9dda1b04",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142967/5c29246d-cf88-4b3d-8493-df2f9dda1b04",
+      "bytes": 4097913,
+      "content_type": "image/jpeg",
+      "sha1": "16ae364eb2135f25b6ee39abea543844e7d81e45",
+      "file": "photos/05_5c29246d-cf88-4b3d-8493-df2f9dda1b04.jpg"
+    },
+    {
+      "index": 3,
+      "uuid": "699d875f-ed42-4b07-bc21-5d83002f2fcb",
+      "item_ref": "478142967",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478142967/699d875f-ed42-4b07-bc21-5d83002f2fcb",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142967/699d875f-ed42-4b07-bc21-5d83002f2fcb",
+      "bytes": 2784008,
+      "content_type": "image/jpeg",
+      "sha1": "a17c688183de3dea355831bc1096e14830d5eeae",
+      "file": "photos/03_699d875f-ed42-4b07-bc21-5d83002f2fcb.jpg"
+    },
+    {
+      "index": 1,
+      "uuid": "bb9dbbb0-44c2-4042-a5f8-dccef3a24a7d",
+      "item_ref": "478142967",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478142967/bb9dbbb0-44c2-4042-a5f8-dccef3a24a7d",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142967/bb9dbbb0-44c2-4042-a5f8-dccef3a24a7d",
+      "bytes": 3648274,
+      "content_type": "image/jpeg",
+      "sha1": "6b8b668fe75ebe55154de6a3b97544e8d43da47c",
+      "file": "photos/01_bb9dbbb0-44c2-4042-a5f8-dccef3a24a7d.jpg"
+    },
+    {
+      "index": 2,
+      "uuid": "de412826-26db-439a-af19-5a3b0dfea058",
+      "item_ref": "478142967",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478142967/de412826-26db-439a-af19-5a3b0dfea058",
+      "ok": true,
+      "size": "original",
+      "url": "https://images.finncdn.no/dynamic/original/item/478142967/de412826-26db-439a-af19-5a3b0dfea058",
+      "bytes": 3962338,
+      "content_type": "image/jpeg",
+      "sha1": "9cc795ce52c0aad44f5ff6f5d6824f8568b00e0c",
+      "file": "photos/02_de412826-26db-439a-af19-5a3b0dfea058.jpg"
+    }
+  ],
+  "image_count_on_disk": 5,
+  "similar_ads": [
+    {
+      "item_id": "477378145",
+      "heading": "Magnemite",
+      "price_label": "39 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477378145"
+    },
+    {
+      "item_id": "465868585",
+      "heading": "Pokémon kort Trainer Energy Search",
+      "price_label": "30 kr",
+      "location": "Tynset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465868585"
+    },
+    {
+      "item_id": "444476019",
+      "heading": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
+      "price_label": "1 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/444476019"
+    },
+    {
+      "item_id": "379102801",
+      "heading": "Energy Searh reverse holo 94/15 - Unseen Forces",
+      "price_label": "5 kr",
+      "location": "Blaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/379102801"
+    },
+    {
+      "item_id": "463183984",
+      "heading": "Energy Switch 84/115 Reverse Holo - EX Unseen Forces",
+      "price_label": "150 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463183984"
+    },
+    {
+      "item_id": "475936570",
+      "heading": "Pokémon kort Miracle Energy holo",
+      "price_label": "150 kr",
+      "location": "Ranheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475936570"
+    },
+    {
+      "item_id": "475496099",
+      "heading": "Pokémon kort Trainer Energy Search",
+      "price_label": "30 kr",
+      "location": "Tynset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475496099"
+    },
+    {
+      "item_id": "475666340",
+      "heading": "Pokémon-kort Darkness Energy Holo fra EX Unseen Forces",
+      "price_label": "80 kr",
+      "location": "Harstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475666340"
+    },
+    {
+      "item_id": "478143420",
+      "heading": "Cobalion EX 64/86 - Pokemon Chaos Rising",
+      "price_label": "20 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478143420"
+    }
+  ]
+}
