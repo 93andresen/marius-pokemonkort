@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Marill+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:06 GMT
+Content-Type: application/json
+Content-Length: 203
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 885
+X-RateLimit-Remaining-Hour: 63
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mx3t9tXd9ru8R0itKrKLcj3k%2Bp9YvCaWIJDOnOO1xXSTp81yOls6Spb%2F4Z0W%2FD0GA1gXrgPZq4kVEDyprdUYZpJ83%2FDE6VtJWwsyK%2FJ86GlsjdrHQqxEJFctDdQtFa3hlwH63jHUytGegXXVFCPFZw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472789b3892b51d-OSL
+alt-svc: h3=":443"; ma=86400

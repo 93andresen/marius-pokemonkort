@@ -1,0 +1,1443 @@
+{
+  "query": "Electrode",
+  "results": [
+    {
+      "id": "pk_f76460ba3fdec01a2be3f34cbb1fd85b58f0f596f5a911432343685ae05f0d185dd59c853a2114c17e2c1243cb2c",
+      "card_info": {
+        "name": "Electrode (H7)",
+        "clean_name": "Electrode H7",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H07/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Super Dynamo</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a Lightning Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
+        "attacks": [
+          "[1L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.5,
+            "mid_price": 169.99,
+            "high_price": 1809.62,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 165.64,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85147"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15.99,
+            "avg7": 14.14,
+            "avg30": 13.53,
+            "trend": 15.91,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 89.64,
+            "low": 13.99,
+            "avg1": 34.99,
+            "avg7": 78.87,
+            "avg30": 47.91,
+            "trend": 63.16,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Electrode-V1-AQH7"
+      }
+    },
+    {
+      "id": "pk_6a9c94ca982774ac12a9733c817c863dbfc9ca78c6ce9762f1fb070699513f9c3812536dcdf029a9a815ea65",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "008/147",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Super Dynamo</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a Lightning Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
+        "attacks": [
+          "[1L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.53,
+            "mid_price": 53.46,
+            "high_price": 182.3,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 15.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 51.99,
+            "mid_price": 299.86,
+            "high_price": 402.2,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 49.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85148"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 3.72,
+            "low": 1.39,
+            "avg1": 11.99,
+            "avg7": 3.82,
+            "avg30": 4.26,
+            "trend": 4.11,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.5,
+            "low": 3.99,
+            "avg1": 7.99,
+            "avg7": 6.47,
+            "avg30": 13.49,
+            "trend": 9.46,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Electrode-V2-AQ8"
+      }
+    },
+    {
+      "id": "pk_e0dda9c7b8f4d7841d1f57dd69fb5cbb220d0a694a0bf07df348b762216f41bc60eda5e8399d733c98fe7657",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "025/130",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Buzzap</strong> At any time during your turn <em>(before your attack)</em>, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[LLL] Electric Shock (50)\r\n<br>Flip a coin. If tails, Electrode does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 4.28,
+            "high_price": 95.23,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 8.76,
+            "direct_low_price": 9.98,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42470"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.95,
+            "avg7": 1.95,
+            "avg30": 1.95,
+            "trend": 1.95,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.97,
+            "low": 0.64,
+            "avg1": 5.04,
+            "avg7": 3.71,
+            "avg30": 3.36,
+            "trend": 3.64,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Electrode-B225"
+      }
+    },
+    {
+      "id": "pk_b3bf398710a334f54639b4a29d45002cbcb617b88051313be5a6d776502500294d2a52d324b542c5f1944d23bed8",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "021/102",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Buzzap</strong> At any time during your turn <em>(before your attack)</em>, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[LLL] Electric Shock (50)\r\n<br>Flip a coin. If tails, Electrode does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 66.84,
+            "mid_price": 100,
+            "high_price": 1025.37,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 73.32,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 11.93,
+            "mid_price": 19.96,
+            "high_price": 138.08,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 26.21,
+            "direct_low_price": 16.97,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107016"
+      },
+      "cardmarket": {
+        "product_name": "Electrode (Shadowless)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 37.73,
+            "low": 10,
+            "avg1": 100,
+            "avg7": 42.2,
+            "avg30": 32.49,
+            "trend": 33.95,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Electrode-V2-BS21"
+      }
+    },
+    {
+      "id": "pk_1acf72ca976b803604bbad8fb16a97bc84d0ef4dc8eae2eddd468e32d486d0e26fc76c827d1f943c55999523",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "021/102",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Buzzap</strong> At any time during your turn <em>(before your attack)</em>, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[LLL] Electric Shock (50)\r\n<br>Flip a coin. If tails, Electrode does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5.84,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 8.53,
+            "direct_low_price": 19.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42362"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 7.61,
+            "low": 0.4,
+            "avg1": 7.19,
+            "avg7": 6.92,
+            "avg30": 7.83,
+            "trend": 5.99,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 8.33,
+            "avg30": 5.14,
+            "trend": 7.58,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Electrode-V1-BS21"
+      }
+    },
+    {
+      "id": "pk_ff456b8ca0a70d5856be62bcc3e6bb9c21163053d6a0da2ece2719fa33bc88ebef8eaa7e65b5fd8d88af9238b89670",
+      "card_info": {
+        "name": "Electrode - Pikachu 56",
+        "clean_name": "Electrode Pikachu 56",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556886"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.18,
+            "low": 0.05,
+            "avg1": 0.18,
+            "avg7": 0.18,
+            "avg30": 0.2,
+            "trend": 0.13,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Electrode-BA24P56"
+      }
+    },
+    {
+      "id": "pk_261721c2eb094c49690f737cd602831fa58368c1d04a505e8a726ac5ad9abede824c5a531c7ba8fb83cbf6806793e0",
+      "card_info": {
+        "name": "Electrode - Pikachu 6",
+        "clean_name": "Electrode Pikachu 6",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.2,
+            "high_price": 20.23,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556887"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.05,
+            "avg1": 0.16,
+            "avg7": 0.16,
+            "avg30": 0.19,
+            "trend": 0.11,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Electrode-BA24P06"
+      }
+    },
+    {
+      "id": "pk_39b9bc860a8e324bc4c6616a6a94bf49d64386a1046d0a68bdfdbe4ced162387a13623c2341019ed55a0da263254b0",
+      "card_info": {
+        "name": "Electrode - Pikachu 25",
+        "clean_name": "Electrode Pikachu 25",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556889"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.05,
+            "avg1": 0.19,
+            "avg7": 0.2,
+            "avg30": 0.22,
+            "trend": 0.13,
+            "updated_at": "2026-10-07T10:59:10.820844",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Electrode-BA24P25"
+      }
+    },
+    {
+      "id": "pk_2f35b47c540f2116882c246e5cf2cdece91c58aab241f5555b56d7656e9ea170cd052684eab775e674c221",
+      "card_info": {
+        "name": "Electrode (Team Plasma) - BW76",
+        "clean_name": "Electrode Team Plasma BW76",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW76",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Electribeam (20) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2L] Self Destruct (100) \r\n<br>This Pokémon does 100 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 189.32,
+            "mid_price": 249.28,
+            "high_price": 309.23,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 17.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85164"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 19.97,
+            "low": 18.65,
+            "avg1": 15.99,
+            "avg7": 18.63,
+            "avg30": 14.29,
+            "trend": 17.91,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.49,
+            "avg7": 6.71,
+            "avg30": 6.71,
+            "trend": 6.53,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Electrode-BWBW76"
+      }
+    },
+    {
+      "id": "pk_66d5adec67cd05b0cad87e1360dba4092374f9c370af614adadb9b805a7ca203912511e90952b68e2612b3fcc0",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "52/149",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Static Shock (20)",
+          "[2L] Electro Ball (60)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.28,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.81,
+            "mid_price": 1.33,
+            "high_price": 19.57,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 1.02,
+            "direct_low_price": 18.54,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85161"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.35,
+            "avg1": 1.15,
+            "avg7": 1.16,
+            "avg30": 0.84,
+            "trend": 1.08,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.23,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.25,
+            "avg30": 0.29,
+            "trend": 0.28,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Electrode-BCR52"
+      }
+    },
+    {
+      "id": "pk_b32f2b8ff1e850be05c61150e650847b33213fb3ee8bad2b63dfa8e7adb9ea79e8410373b5740fc4c4508b6979a4",
+      "card_info": {
+        "name": "Electrode - 33/116 (BW Plasma Freeze)",
+        "clean_name": "Electrode 33 116 BW Plasma Freeze",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "033/116",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Magnetic Draw</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may draw cards until you have 4 cards in your hand.",
+        "attacks": [
+          "[2L] Electro Ball (60)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.39,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.37,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131331"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6d9aa9029cfd311ee6c3abd1b9928be9a8402f4f048da1c391d238447f1753dece661a57ee3c34f2bc51deb2c9",
+      "card_info": {
+        "name": "Holon's Electrode",
+        "clean_name": "Holons Electrode",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "21/113",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "You may attach this as an Energy card from your hand to 1 of your Pokemon that already has an Energy card attached to it.  When you attach this card, return an Energy card attached to that Pokemon to your hand.  While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time.  <em>(Has no effect other than providing Energy.)</em>",
+        "attacks": [
+          "[1L] Dazzle Blast (30) \r\n<br>The Defending Pokemon is now Confused."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.48,
+            "mid_price": 2.88,
+            "high_price": 33.32,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 2.88,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 28,
+            "mid_price": 69.99,
+            "high_price": 399.18,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 27.7,
+            "direct_low_price": 99.87,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86155"
+      },
+      "cardmarket": {
+        "product_name": "Holon's Electrode",
+        "prices": [
+          {
+            "avg": 16.47,
+            "low": 3,
+            "avg1": 17.95,
+            "avg7": 8.68,
+            "avg30": 8.72,
+            "trend": 9.68,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.81,
+            "low": 0.17,
+            "avg1": 2.33,
+            "avg7": 1.84,
+            "avg30": 1.39,
+            "trend": 1.84,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Holons-Electrode-DS21"
+      }
+    },
+    {
+      "id": "pk_d7de1d21f3a8b2bc72bc7a28ee60097a0b9a83bfd38b7eac7de119cccae76de32cd66a21fc79eedf41bb008fec",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Emerald",
+        "set_code": "EM",
+        "set_id": "1410",
+        "card_number": "27/106",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[3] Speed Ball (50)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.45,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 1.52,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 37.95,
+            "mid_price": 125,
+            "high_price": 293.92,
+            "updated_at": "2026-10-07T11:54:40.603434",
+            "market_price": 70.65,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85154"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 22.5,
+            "low": 4,
+            "avg1": 22.5,
+            "avg7": 7.78,
+            "avg30": 9.31,
+            "trend": 9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.61,
+            "low": 0.02,
+            "avg1": 0.28,
+            "avg7": 0.4,
+            "avg30": 0.49,
+            "trend": 0.71,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Electrode-EM27"
+      }
+    },
+    {
+      "id": "pk_fb958c1416372d3192f975adf38ee75d69d5817c127d62d2d291442453bf3db41156fae167d7d0b0bebe959c20e8",
+      "card_info": {
+        "name": "Electrode ex",
+        "clean_name": "Electrode ex",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "107/112",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Extra Energy Bomb \r<br>\n<br>Once during your turn (before your attack), you may discard Electrode ex and all the cards attached to it <em>(this counts as Knocking Out Electrode ex)</em>.  If you do, search your discard pile for 5 Energy cards and attach them to any of your Pokemon (excluding Pokemon-ex) in any way you like.  This power can't be used if Electrode ex is affected by a Special Condition.",
+        "attacks": [
+          "[1L] Crush and Burn (30+) \r\n<br>You may discard as many Energy as you like attached to your Pokemon in play.  If you do, this attack does 30 damage plus 20 more for each Energy you discarded."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69.99,
+            "mid_price": 952.93,
+            "high_price": 1799.62,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 152.07,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 59.99,
+            "mid_price": 65.81,
+            "high_price": 71.63,
+            "updated_at": "2026-10-07T11:54:54.808606",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85165"
+      },
+      "cardmarket": {
+        "product_name": "Electrode ex",
+        "prices": [
+          {
+            "avg": 52.36,
+            "low": 7.9,
+            "avg1": 25,
+            "avg7": 49.5,
+            "avg30": 37.13,
+            "trend": 50.98,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.75,
+            "avg7": 13.55,
+            "avg30": 15.08,
+            "trend": 13.92,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Electrode-ex-FL107"
+      }
+    },
+    {
+      "id": "pk_9d6ada74196b2a2cc92a4576d7cc39652036812b225041d179592482a6b08e4c6bbac82f82b915d1b451d150a4",
+      "card_info": {
+        "name": "Lt. Surge's Electrode",
+        "clean_name": "Lt Surges Electrode",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "052/132",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Shock Blast</strong> If Lt. Surge's Electrode is your Active Pokémon and gets damaged (even if it's Knocked Out), flip a coin. If tails, this power does 20 damage to each Active Pokémon. This power works even if Lt. Surge's Electrode is already Asleep, Confused, or Paralyzed when it takes damage.",
+        "attacks": [
+          "[1LL] Power Ball (30+)\r\n<br>Flip 3 coins. This attack does 30 damage plus 10 more damage for each heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5.75,
+            "high_price": 52.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 5.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.49,
+            "mid_price": 2.92,
+            "high_price": 50,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.93,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86853"
+      },
+      "cardmarket": {
+        "product_name": "Lt. Surge's Electrode",
+        "prices": [
+          {
+            "avg": 3.8,
+            "low": 0.4,
+            "avg1": 2.49,
+            "avg7": 3.59,
+            "avg30": 3.8,
+            "trend": 2.72,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.5,
+            "avg7": 8.5,
+            "avg30": 8.5,
+            "trend": 8.5,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Lt-Surges-Electrode-GC52"
+      }
+    },
+    {
+      "id": "pk_15b88f9d5157de9797c704089b43736df371b74c71b0a0a9c89a94fc1576b89fd95b59d4994991ff5873f694e7",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "22/68",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (30)",
+          "[2L] Electric Burst (60+)\r\n<br>Flip 2 coins. This attack does 30 more damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.57,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 0.53,
+            "direct_low_price": 0.53,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 14.26,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 0.25,
+            "direct_low_price": 0.07,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197666"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.4,
+            "avg7": 0.18,
+            "avg30": 0.17,
+            "trend": 0.19,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.59,
+            "low": 0.2,
+            "avg1": 0.49,
+            "avg7": 0.62,
+            "avg30": 0.58,
+            "trend": 0.66,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Electrode-HIF22"
+      }
+    },
+    {
+      "id": "pk_e0287014d8038d1641b0d1ccbcdc004024422e1c63cc3691349f5c39ed11608ee32094cf1fab3bf71f99ae1ff76adef477",
+      "card_info": {
+        "name": "Electrode GX",
+        "clean_name": "Electrode GX",
+        "set_name": "Hidden Fates: Shiny Vault",
+        "set_code": "HIF:SV",
+        "set_id": "2594",
+        "card_number": "SV57/SV94",
+        "rarity": "Shiny Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Extra Energy Bomb</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach 5 Energy cards from your discard pile to your Pokémon, except Pokémon-GX or Pokémon-EX, in any way you like. If you do, this Pokémon is Knocked Out.",
+        "attacks": [
+          "[1L] Electro Ball (50)",
+          "<span style=\"color:Teal\"><strong>[1L] Crush and Burn GX (30+)</strong>\r\n<br>Discard any amount of Energy from your Pokémon. This attack does 50 more damage for each card you discarded in this way.  <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 15.39,
+            "high_price": 114.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 14.6,
+            "direct_low_price": 19.69,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197800"
+      },
+      "cardmarket": {
+        "product_name": "Electrode GX",
+        "prices": [
+          {
+            "avg": 13.5,
+            "low": 6.39,
+            "avg1": 18,
+            "avg7": 12.43,
+            "avg30": 21.19,
+            "trend": 23.06,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.99,
+            "avg7": 18.99,
+            "avg30": 20.25,
+            "trend": 18.88,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Electrode-GX-HIFSV57"
+      }
+    },
+    {
+      "id": "pk_ea7a7859048d26e169aea3f3f8409ddf5c618e8c6a90bb3e5ae574c573f31be9cf876b32bbd3cfb7f9564d87",
+      "card_info": {
+        "name": "Electrode",
+        "clean_name": "Electrode",
+        "set_name": "Hidden Legends",
+        "set_code": "HL",
+        "set_id": "1416",
+        "card_number": "5/101",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Swift (30) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+          "[3] Mass Destruction \r\n<br>Both Electrode and the Defending Pokemon are now Knocked Out.  If Electrode has any Special Energy Cards attached to it, this attack does nothing."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.99,
+            "mid_price": 42.49,
+            "high_price": 1150,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 33.89,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 29.36,
+            "mid_price": 44,
+            "high_price": 262.82,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 34.34,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85153"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": 6.88,
+            "low": 1.5,
+            "avg1": 9.9,
+            "avg7": 10.77,
+            "avg30": 9.94,
+            "trend": 8.64,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.76,
+            "low": 1,
+            "avg1": 16,
+            "avg7": 7.48,
+            "avg30": 7.3,
+            "trend": 10.35,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Electrode-HL5"
+      }
+    },
+    {
+      "id": "pk_6d969eb895954c2fce139f1abb6e69c6e1f29ce570f066fb68243e041a9e66569ec15b67b87537f6a856fdd237aea0",
+      "card_info": {
+        "name": "Hisuian Electrode V - SWSH294",
+        "clean_name": "Hisuian Electrode V SWSH294",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH294",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[0] Tantrum Blast (100x)\r\n<br>\r\nThis attack does 100 damage for each Special Condition affecting this Pokémon.",
+          "[1G] Solar Shot (120)\r\n<br>\r\nDiscard all Energy from this Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.68,
+            "high_price": 27.62,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 1.71,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/451116"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4028c58b08cbc1d48f42ca092e19f4b2d47046ac0493eeb9c708825cf7724f3e0d38dc04ecf380d77fdc",
+      "card_info": {
+        "name": "Electrode (2)",
+        "clean_name": "Electrode 2",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "02/64",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tackle (20)",
+          "[LLL] Chain Lightning (20)\r\n<br>If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon <em>(including your own)</em>."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45.69,
+            "mid_price": 78.99,
+            "high_price": 639.72,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 69.11,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 13.49,
+            "mid_price": 18.94,
+            "high_price": 243.28,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 25.18,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45128"
+      },
+      "cardmarket": {
+        "product_name": "Electrode",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.3,
+            "avg7": 10.05,
+            "avg30": 11.29,
+            "trend": 9.59,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 23.17,
+            "low": 4,
+            "avg1": 16.27,
+            "avg7": 25.17,
+            "avg30": 22.26,
+            "trend": 24.94,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Electrode-V1-JU2"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 142,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 142,
+    "tcg": 118,
+    "cardmarket": 121,
+    "tcg_only": 21,
+    "cardmarket_only": 24,
+    "both_sources": 97
+  }
+}

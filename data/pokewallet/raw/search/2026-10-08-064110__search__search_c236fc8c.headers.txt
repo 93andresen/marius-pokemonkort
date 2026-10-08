@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Psyduck+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:12 GMT
+Content-Type: application/json
+Content-Length: 1571
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 881
+X-RateLimit-Remaining-Hour: 59
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P5EPj5bLfHwZgb%2BxKQLHt8smXD%2BalLHOcPSr7NqR70kFY2yWxZsIRUXhQftIRUxv4sfXckkM2amr00jkDLtBuELPhbosDGjEYiCBjvEebk2Z%2BJryvamFsaW81L7tfO6pKy86wpgql%2BJS2%2Fss%2Br%2B3Kg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278c37b1a0b61-OSL
+alt-svc: h3=":443"; ma=86400

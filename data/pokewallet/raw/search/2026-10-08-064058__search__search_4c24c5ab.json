@@ -1,0 +1,1331 @@
+{
+  "query": "Igglybuff",
+  "results": [
+    {
+      "id": "pk_c7bdbcf94464333394b36c96dcb87adef8ee4e094bf42c9c83242f63f12ba09363f5ed0abe285b700aa7901c97cdedd0",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX - 143a/236",
+        "clean_name": "Togepi and Cleffa and Igglybuff GX 143a 236",
+        "set_name": "Alternate Art Promos",
+        "set_code": "PR",
+        "set_id": "1938",
+        "card_number": "143a/236",
+        "rarity": "Promo",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": "<em>TAG TEAM rule — When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[1YY] Rolling Panic (120+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "<span style=\"color:Teal\"><strong>[YY+] Supreme Puff GX</strong>\r\n<br>Take another turn after this one. <em>(Skip the between-turns step.)</em> If this Pokémon has at least 14 extra Fairy Energy attached to it <em>(in addition to this attack’s cost)</em>, your opponent shuffles all of their Benched Pokémon and all cards attached to them into their deck.<em> (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 250,
+            "mid_price": 310.06,
+            "high_price": 599.69,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 295.95,
+            "direct_low_price": 310.06,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/226129"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_00e5c18060d5d0de26e57b1e3662f2566bf72d6193c96b655cd69b033cc21d404fd07291b8d2594733019e4685",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "21/100",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "Hover Lift - You pay 1 less to retreat your Jigglypuff, Wigglytuff, Wigglytuff ex, and Igglybuff.  (Poke-BODY)Baby Evolution - Once during your turn (before your attack), you may put Jigglypuff from your hand onto Igglybuff (this counts as evolving Igglybuff) and remove all damage counters from Igglybuff.  (Poke-POWER)",
+        "attacks": [],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.01,
+            "mid_price": 7,
+            "high_price": 69.82,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 7.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 36.86,
+            "mid_price": 42.5,
+            "high_price": 679.32,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 37.54,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86261"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 10.53,
+            "low": 3.59,
+            "avg1": 11.87,
+            "avg7": 12.29,
+            "avg30": 10.14,
+            "trend": 12.29,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.04,
+            "low": 0.75,
+            "avg1": 3,
+            "avg7": 3.16,
+            "avg30": 2.6,
+            "trend": 3.31,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Igglybuff-CG21"
+      }
+    },
+    {
+      "id": "pk_8581544d1ea8a36a1e0dc74f58e82efd2418156eeb86fab8ee5367d112c02364f7aeba4b8cdf7b8f31bf04c7b7",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Great Encounters",
+        "set_code": "GE",
+        "set_id": "1405",
+        "card_number": "70/106",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put Jigglypuff from your hand onto Igglybuff (this counts as evolving Igglybuff) and remove all damage counters from Igglybuff.",
+        "attacks": [
+          "[0] Inquire\r\n<br>\r\nDraw a card. If you didn't play any Supporter card from your hand during this turn, draw 2 more cards."
+        ],
+        "weakness": "F+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.49,
+            "mid_price": 5.96,
+            "high_price": 96.06,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 10.65,
+            "direct_low_price": 11.49,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 13.12,
+            "mid_price": 15,
+            "high_price": 109.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 15.67,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86262"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff Lv.6",
+        "prices": [
+          {
+            "avg": 15.72,
+            "low": 0.4,
+            "avg1": 19.94,
+            "avg7": 7.4,
+            "avg30": 4.8,
+            "trend": 8.29,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.86,
+            "low": 0.02,
+            "avg1": 3.5,
+            "avg7": 2,
+            "avg30": 1.66,
+            "trend": 2.28,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Igglybuff-Lv6-GE70"
+      }
+    },
+    {
+      "id": "pk_820db08c267907ad30f1fd2dddbbe8759488578b5c3311c6821db093a5dbf3f8f6089e68a84f78ea00dcecd730",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "44/123",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "Sweet Sleeping Face - As long as Igglybuff is Asleep, prevent all damage done to Igglybuff by attacks.  (Poke-BODY)",
+        "attacks": [
+          "[0] Graffiti - Igglybuff is now Asleep.  During your opponent's next turn, the attack cost of each of the Defending Pokemon's attacks is 1 more."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 7.67,
+            "high_price": 81.9,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 9.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 18,
+            "mid_price": 20.9,
+            "high_price": 192.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 29.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86263"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 1.89,
+            "low": 0.1,
+            "avg1": 0.95,
+            "avg7": 2.33,
+            "avg30": 1.69,
+            "trend": 2.15,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5,
+            "low": 0.1,
+            "avg1": 5,
+            "avg7": 4.68,
+            "avg30": 4.32,
+            "trend": 6.89,
+            "updated_at": "2026-10-07T10:58:46.581256",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Igglybuff-HS44"
+      }
+    },
+    {
+      "id": "pk_d8cacbf11f5bed48380b9208c264e02f8f4477a821011beb08bac0290b89584547bb3889734e0bc9ae2f6e077f",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Hidden Legends",
+        "set_code": "HL",
+        "set_id": "1416",
+        "card_number": "37/101",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Baby Evolution \r\n<br>Once during your turn (before your attack), you may put Jigglypuff from your hand onto Igglybuff <em>(this counts as evolving Igglybuff)</em>, and remove all damage counters from Igglybuff.",
+        "attacks": [
+          "[1] Set Song \r\n<br>Search your deck for a Basic Pokemon and a basic Energy card, show them to your opponent, and put them into your hand.  Shuffle your deck afterward."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 8.18,
+            "high_price": 96.26,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 6.91,
+            "direct_low_price": 8.11,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 50,
+            "mid_price": 239.91,
+            "high_price": 609.75,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 28.31,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86260"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 13.25,
+            "low": 3,
+            "avg1": 9.5,
+            "avg7": 11.77,
+            "avg30": 9.69,
+            "trend": 14.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.91,
+            "low": 0.03,
+            "avg1": 1,
+            "avg7": 3.51,
+            "avg30": 2.85,
+            "trend": 4.03,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Igglybuff-HL37"
+      }
+    },
+    {
+      "id": "pk_71a9f74aeb00a00f560493efab20080395bfe1a596d2e8701ae7772c81183a64d301ec2c0ead4d6336d62e62",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "40/75",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Gaze</strong> Once during your turn <em>(before your attack)</em>, choose 1 of your opponent's Benched Pokémon that has a Pokémon Power. That power stops working until the end of this turn. This effect ends if that Pokémon leaves the Bench.\r\n<br><br>\r\n<em>If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends.</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16,
+            "mid_price": 59.64,
+            "high_price": 259.62,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 18.28,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.26,
+            "mid_price": 7.1,
+            "high_price": 98.83,
+            "updated_at": "2026-10-07T11:54:43.966089",
+            "market_price": 7.31,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86257"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.63,
+            "low": 0.1,
+            "avg1": 0.2,
+            "avg7": 2.69,
+            "avg30": 2.81,
+            "trend": 2.06,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Igglybuff-NDI40"
+      }
+    },
+    {
+      "id": "pk_87d4646e8b7f27157862d1d0b967b217659788b733e28da5e33946f7aff5f4492fbf7087c2c3454e149b6d6f5ad811",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX",
+        "clean_name": "Togepi and Cleffa and Igglybuff GX",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "143/236",
+        "rarity": "Ultra Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1YY] Rolling Panic (120+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "<span style=\"color:Teal\"><strong>[YY+] Supreme Puff GX</strong>\r\n<br>Take another turn after this one. <em>(Skip the between-turns step.)</em> If this Pokemon has at least 14 extra Fairy Energy attached to it <em>(in addition to this attack’s cost)</em>, your opponent shuffles all of their Benched Pokemon and all cards attached to them into their deck.<em> (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45.48,
+            "mid_price": 68.05,
+            "high_price": 301.92,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 64.17,
+            "direct_low_price": 69.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/200353"
+      },
+      "cardmarket": {
+        "product_name": "Togepi & Cleffa & Igglybuff GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.95,
+            "avg7": 4.21,
+            "avg30": 4.07,
+            "trend": 4.49,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 32.79,
+            "low": 6.49,
+            "avg1": 17,
+            "avg7": 33.42,
+            "avg30": 37.98,
+            "trend": 23.04,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Togepi-Cleffa-Igglybuff-GX-V1-CEC143"
+      }
+    },
+    {
+      "id": "pk_527f33af5733e8438866fc33d65cbb0f6870ddad8f72c987b29c221f8f426eeed5a0fb8289e257c7dbc682e6202f21",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "168/236",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Sleepy Voice</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep. If you use this Ability, your turn ends.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.25,
+            "mid_price": 9.6,
+            "high_price": 112.42,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 8.34,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 2.23,
+            "mid_price": 3.25,
+            "high_price": 32.87,
+            "updated_at": "2026-10-07T11:54:44.862655",
+            "market_price": 2.83,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/201290"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 3.64,
+            "low": 1.5,
+            "avg1": 4.98,
+            "avg7": 6.24,
+            "avg30": 5.2,
+            "trend": 8.83,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.8,
+            "low": 0.02,
+            "avg1": 0.73,
+            "avg7": 1.82,
+            "avg30": 1.35,
+            "trend": 2.11,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Igglybuff-CEC168"
+      }
+    },
+    {
+      "id": "pk_cc9b7d8ad0a268e457f6b491fb9c32b1b330d4ddfeab898a5fd68f64d84c033b5c4695b5c8485a105a49cb61b9",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "067/144",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+        "attacks": [
+          "[1] Energy Heal\r\n<br>Choose 1 of your Pokémon with an Energy card attached to it. Remove 1 damage counter from that Pokémon."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 85,
+            "mid_price": 123.99,
+            "high_price": 319.62,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 58.92,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 299.99,
+            "mid_price": 370,
+            "high_price": 440,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 165.8,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86258"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 11.81,
+            "low": 5.5,
+            "avg1": 7.5,
+            "avg7": 12,
+            "avg30": 12.07,
+            "trend": 11.27,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 30,
+            "low": 9.79,
+            "avg1": 9,
+            "avg7": 69.68,
+            "avg30": 41.07,
+            "trend": 66.33,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Igglybuff-SK67"
+      }
+    },
+    {
+      "id": "pk_c08e20fab3e95c085b36e924c81aaac6c86135e86e957ee138ddb76dc25b4a914d8fb07e766dbaf1fe2d9e01",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "WoTC Promo",
+        "set_code": "PR",
+        "set_id": "1418",
+        "card_number": "36/53",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+        "attacks": [
+          "[1] Good Night Song\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 15.32,
+            "high_price": 199.99,
+            "updated_at": "2026-10-07T11:54:49.433599",
+            "market_price": 14.59,
+            "direct_low_price": 15,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86259"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5a02833825d6bd5a505e997c31a5cf10a9ca8b0fc1cc18f25b66dea71ba998f16c035ff7fcb538c39c5e",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Crossing the Ruins...",
+        "set_code": "23728",
+        "set_id": "23728",
+        "card_number": null,
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Baby",
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 2.96,
+            "high_price": 10,
+            "updated_at": "2026-10-07T11:54:51.07656",
+            "market_price": 3.26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575439"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_25b8e2c7f6d30e6578d3c798cbe65c505927ff38d5e115c075256ed47795be9d9c6b1dfc5c950b38ff5a",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "DP4: Dawn Dash",
+        "set_code": "DP4",
+        "set_id": "23976",
+        "card_number": null,
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "Inquire<br> Draw a card. If you didn't play any Supporter card from your hand during this turn, draw 2 more cards."
+        ],
+        "weakness": "Fighting +10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.5,
+            "mid_price": 15,
+            "high_price": 19.98,
+            "updated_at": "2026-10-07T11:54:55.187295",
+            "market_price": 10,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 9,
+            "high_price": 14.98,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 4.37,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/606840"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff Lv.6",
+        "prices": [
+          {
+            "avg": 2.48,
+            "low": 0.1,
+            "avg1": 1.95,
+            "avg7": 1.26,
+            "avg30": 1.12,
+            "trend": 1.25,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:04.530764",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dawn-Dash/Igglybuff-Lv6-DP4d"
+      }
+    },
+    {
+      "id": "pk_077efe4391d74a9bea880b5152622e57807f80b98e9000b7e5fe8b31ead668faff41299bb6ad9a79d712cae106705c",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "050/070",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "Graffiti<br> Igglybuff is now Asleep. During your opponent's next turn, the attack cost of each of the Defending Pokémon's attacks is {{e}} more."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.25,
+            "mid_price": 4.88,
+            "high_price": 6,
+            "updated_at": "2026-10-07T11:54:51.461184",
+            "market_price": 4.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608285"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 1.38,
+            "low": 0.4,
+            "avg1": 0.87,
+            "avg7": 1.06,
+            "avg30": 1.04,
+            "trend": 1.29,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 1,
+            "avg1": 0.9,
+            "avg7": 4.97,
+            "avg30": 4.97,
+            "trend": 6.16,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SoulSilver-Collection/Igglybuff-L1SS050"
+      }
+    },
+    {
+      "id": "pk_f3bee3445a3f04de138de32038447f2450c046f2b7a4aaa86a281cbf3bd58ff1455b530a9b84d285b9e270e293e963",
+      "card_info": {
+        "name": "Igglybuff (Mirror Holofoil)",
+        "clean_name": "Igglybuff Mirror Holofoil",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "050/070",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "Graffiti<br> Igglybuff is now Asleep. During your opponent's next turn, the attack cost of each of the Defending Pokémon's attacks is {{e}} more."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.99,
+            "mid_price": 25,
+            "high_price": 32.99,
+            "updated_at": "2026-10-07T11:26:29.259336",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608356"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bbd1ff8567a756300331360d2df3c94b2c67833badddd3494acd4ba043aacaec587fe1488690421741efd68ac57c5b",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Miracle Crystal",
+        "set_code": "PCG8",
+        "set_id": "24099",
+        "card_number": "054/075",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 29,
+            "mid_price": 29,
+            "high_price": 29,
+            "updated_at": "2026-10-07T11:26:30.126075",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/611570"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": 7.24,
+            "low": 1.5,
+            "avg1": 7.5,
+            "avg7": 4.65,
+            "avg30": 4.72,
+            "trend": 5.42,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:08.231958",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Miracle-Crystal/Igglybuff-PCG8054"
+      }
+    },
+    {
+      "id": "pk_88e89c61cb923469c758cb7f242b2708037da93ea34db6a6004f02b7c70bb3cd4f85b67b1f9cc0f2f0ffbc286e83b2",
+      "card_info": {
+        "name": "Igglybuff",
+        "clean_name": "Igglybuff",
+        "set_name": "Mysterious Mountains",
+        "set_code": "23734",
+        "set_id": "23734",
+        "card_number": "065/088",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Baby",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Energy Heal<br> Choose 1 of your Pok?mon with an Energy card attached to it. Remove 1 damage counter from that Pok?mon."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40,
+            "mid_price": 40,
+            "high_price": 40,
+            "updated_at": "2026-10-07T11:54:55.187295",
+            "market_price": 35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/576137"
+      },
+      "cardmarket": {
+        "product_name": "Igglybuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 24.99,
+            "low": 30,
+            "avg1": 24.99,
+            "avg7": 15.19,
+            "avg30": 6.9,
+            "trend": 12.03,
+            "updated_at": "2026-10-07T10:59:02.672656",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Mountains/Igglybuff-EC5065"
+      }
+    },
+    {
+      "id": "pk_fd63d6cd294578099fd5818dfcc5471ccf86c426f72df4e9d03cd5f83d1b125543f970ce3261d4675262c8b2a178e9c3f6",
+      "card_info": {
+        "name": "Igglybuff - 358/SM-P",
+        "clean_name": "Igglybuff 358 SM P",
+        "set_name": "SM-P: Sun & Moon Promos",
+        "set_code": "SM-P",
+        "set_id": "23881",
+        "card_number": "358/SM-P",
+        "rarity": null,
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.5,
+            "mid_price": 10.66,
+            "high_price": 14.99,
+            "updated_at": "2026-10-07T11:54:52.621382",
+            "market_price": 10,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/598435"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b71404a0a6af8a63420412c02f1f917d879208ea8a387a8af06f42225b56637647da9c85eb66366be7e9a8784346b7",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX - 094/173",
+        "clean_name": "Togepi & Cleffa & Igglybuff GX",
+        "set_name": "SM12a: TAG TEAM GX: Tag All Stars",
+        "set_code": "SM12a",
+        "set_id": "23709",
+        "card_number": "094/173",
+        "rarity": "Double Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fairy][Fairy][Colorless] Rolling Panic (120+)<br> Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        ],
+        "weakness": "Metal x2",
+        "resistance": "Darkness -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.99,
+            "mid_price": 26.39,
+            "high_price": 150,
+            "updated_at": "2026-10-07T11:54:52.621382",
+            "market_price": 23.82,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/572748"
+      },
+      "cardmarket": {
+        "product_name": "Togepi & Cleffa & Igglybuff GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.13,
+            "avg7": 1.43,
+            "avg30": 1.86,
+            "trend": 1.31,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 20,
+            "low": 9.99,
+            "avg1": 13.5,
+            "avg7": 20.21,
+            "avg30": 21.5,
+            "trend": 17.43,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Tag-All-Stars/Togepi-Cleffa-Igglybuff-GX-V1-sm12a094"
+      }
+    },
+    {
+      "id": "pk_476c06e179ed7401569dcff9d54f0da7d32bb64bf41fe4ebac5e8af672dc56472b3e4bc8c8cfea08f256d37c3ad3d11b",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX - 185/173",
+        "clean_name": "Togepi & Cleffa & Igglybuff GX",
+        "set_name": "SM12a: TAG TEAM GX: Tag All Stars",
+        "set_code": "SM12a",
+        "set_id": "23709",
+        "card_number": "185/173",
+        "rarity": "Super Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fairy][Fairy][Colorless] Rolling Panic (120+)<br> Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        ],
+        "weakness": "Metal x2",
+        "resistance": "Darkness -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 118.67,
+            "mid_price": 135,
+            "high_price": 160,
+            "updated_at": "2026-10-07T11:54:55.187295",
+            "market_price": 102.02,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/572839"
+      },
+      "cardmarket": {
+        "product_name": "Togepi & Cleffa & Igglybuff GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 73.29,
+            "low": 80,
+            "avg1": 79.99,
+            "avg7": 80.58,
+            "avg30": 56.08,
+            "trend": 87.21,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Tag-All-Stars/Togepi-Cleffa-Igglybuff-GX-V2-sm12a185"
+      }
+    },
+    {
+      "id": "pk_d6ccb4343fc781d1c45213d1c57d474bf47ffd462016b69da6210fad70fc632cae15ffd26a94e7187f836e3b9b110fac",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX - 186/173",
+        "clean_name": "Togepi & Cleffa & Igglybuff GX",
+        "set_name": "SM12a: TAG TEAM GX: Tag All Stars",
+        "set_code": "SM12a",
+        "set_id": "23709",
+        "card_number": "186/173",
+        "rarity": "Super Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fairy][Fairy][Colorless] Rolling Panic (120+)<br> Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        ],
+        "weakness": "Metal x2",
+        "resistance": "Darkness -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199.99,
+            "mid_price": 220,
+            "high_price": 240,
+            "updated_at": "2026-10-07T11:54:52.987799",
+            "market_price": 240,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/572840"
+      },
+      "cardmarket": {
+        "product_name": "Togepi & Cleffa & Igglybuff GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39.99,
+            "avg7": 43.33,
+            "avg30": 43.33,
+            "trend": 39.73,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 358,
+            "low": 250,
+            "avg1": 648.99,
+            "avg7": 445.49,
+            "avg30": 273.98,
+            "trend": 381.15,
+            "updated_at": "2026-10-07T10:58:54.402422",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/Tag-All-Stars/Togepi-Cleffa-Igglybuff-GX-V3-sm12a186"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 32,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 32,
+    "tcg": 25,
+    "cardmarket": 27,
+    "tcg_only": 5,
+    "cardmarket_only": 7,
+    "both_sources": 20
+  }
+}

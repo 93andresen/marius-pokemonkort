@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Cloyster+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:57 GMT
+Content-Type: application/json
+Content-Length: 4828
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 891
+X-RateLimit-Remaining-Hour: 69
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GlcDgtjBVHbKgLM6EFWY%2BYzV72GQFWr4FOUUSmJqly1C29%2FoXb%2FFqf%2F%2FaZc2ozv0Rq%2FAc%2FRlErWVQw4U5oirwILcrEiQPm%2B%2BHkksLM7o8asRb6pARbMHqLavuksCZyu%2ByIubyc3AeZAaoXw0ub1IZg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4727865ba7275ab-OSL
+alt-svc: h3=":443"; ma=86400

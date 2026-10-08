@@ -1,0 +1,293 @@
+{
+  "query": "Gastly Base Set",
+  "results": [
+    {
+      "id": "pk_6a04e8a6993bd32bb5cf996401b493fc91b60458b15e39c000d7abe3f573da6d7b1bf412ec6c1e4699bbd85d",
+      "card_info": {
+        "name": "Gastly",
+        "clean_name": "Gastly",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "075/130",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Sleeping Gas\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[1P] Destiny Bond\r\n<br>Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.6,
+            "high_price": 16.2,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 0.82,
+            "direct_low_price": 0.45,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42495"
+      },
+      "cardmarket": {
+        "product_name": "Gastly",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.8,
+            "low": 0.03,
+            "avg1": 0.18,
+            "avg7": 0.54,
+            "avg30": 0.72,
+            "trend": 0.8,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Gastly-B275"
+      }
+    },
+    {
+      "id": "pk_aed2557f0753515bbe3e2535118af103e81000d049378a170626fb2b8d47178144bb8dc4401ba2c5ec21215d3ebe",
+      "card_info": {
+        "name": "Gastly",
+        "clean_name": "Gastly",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "050/102",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Sleeping Gas\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[1P] Destiny Bond\r\n<br>Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 23.99,
+            "mid_price": 45.51,
+            "high_price": 499.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 46.44,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.35,
+            "mid_price": 6.35,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 7.62,
+            "direct_low_price": 6.35,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107047"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bc79fe1ffab8c7b0c88d2640f76c92180961be567645a36a7d574cec4b138c9e24af7778f9119c300e6a0938",
+      "card_info": {
+        "name": "Gastly",
+        "clean_name": "Gastly",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "050/102",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Sleeping Gas\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[1P] Destiny Bond\r\n<br>Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.11,
+            "mid_price": 0.75,
+            "high_price": 18.42,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42394"
+      },
+      "cardmarket": {
+        "product_name": "Gastly",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.02,
+            "avg7": 0.21,
+            "avg30": 0.21,
+            "trend": 0.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2,
+            "low": 0.02,
+            "avg1": 0.68,
+            "avg7": 1.32,
+            "avg30": 1.68,
+            "trend": 2.55,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Gastly-V1-BS50"
+      }
+    },
+    {
+      "id": "pk_ef0a2ded541c6be117ec4c57038cf1074c1ea4bb78d0948347721342f7813e247efabd47754adb4c5ac2f6db9795",
+      "card_info": {
+        "name": "Gastly",
+        "clean_name": "Gastly",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "083/202",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Fade Out (20)\r\n<br>Return this Pokemon and all cards attached to it to your hand."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.28,
+            "high_price": 14.31,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.3,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.5,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208388"
+      },
+      "cardmarket": {
+        "product_name": "Gastly",
+        "prices": [
+          {
+            "avg": 0.78,
+            "low": 0.14,
+            "avg1": 1.45,
+            "avg7": 0.93,
+            "avg30": 0.63,
+            "trend": 1.04,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.14,
+            "trend": 0.2,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Gastly-SSH83"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

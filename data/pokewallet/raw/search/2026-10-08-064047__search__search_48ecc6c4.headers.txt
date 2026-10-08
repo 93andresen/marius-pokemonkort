@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Gastly+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:40:48 GMT
+Content-Type: application/json
+Content-Length: 5545
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 897
+X-RateLimit-Remaining-Hour: 75
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AL46RQ17R6tccbEUlIlKCsFiWlXFcHSyMDAn%2BoUL9bG%2Be%2FxvLx49MLnFdv58TKFtul%2BA4W6CsxVB9FVTgbLzKRWVWKIBdN%2FmbzyvEfVpjEYWyekm5d%2BdJjJJD8xQ7m0xCoDDBl2XnYiyanIGa%2BE3JQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a472782f3bd67130-OSL
+alt-svc: h3=":443"; ma=86400

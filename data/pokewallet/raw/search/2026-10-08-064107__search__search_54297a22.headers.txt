@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Kabutops+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Thu, 08 Oct 2026 04:41:09 GMT
+Content-Type: application/json
+Content-Length: 205
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 883
+X-RateLimit-Remaining-Hour: 61
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VTXjeMF99OZgNrlJpNxxmokgrzF66QM8pIUnLqC2nLJYev%2F3McnwqzjOR95mZcc5xD34lFg8OrsD%2BCwwez8AH9AoOCreKG9vvQAVoslP%2BMbbPQzjOpMyKGLERzSu9sZdj6hJXhnzR7uFlTgKofw82Q%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a47278af2c594e4c-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,1524 @@
+{
+  "query": "Misty",
+  "results": [
+    {
+      "id": "pk_2f11c443129a5eea5f3c27d3a67a2aa062fcad5d969f1f9d47cdc88f842012c50625b7c2e18a2d5dd7ef3d26d1f8",
+      "card_info": {
+        "name": "Misty's Gyarados - 049/182 (Non-holo)",
+        "clean_name": "Mistys Gyarados 049 182 Non holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "049/182",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Splashing Panic (70x)<br> Discard the top 7 cards of your deck, and this attack does 70 damage for each Misty's Pokémon that you discarded in this way.",
+          "[WWC] Waterfall (120)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 0.9,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:39.727692",
+            "market_price": 0.9,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635481"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6f6cf265da1edb5e47cc932adaee44556f7c171f6cbc760c4540b1237cdebdc894af9fa41891c935182854dbd0",
+      "card_info": {
+        "name": "Misty's Dewgong",
+        "clean_name": "Mistys Dewgong",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "054/132",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WW] Ice Throw (20)\r\n<br>If the Defending Pokémon is Fighting, this attack's base damage is doubled.",
+          "[3W] Take Down (60)\r\n<br>Misty's Dewgong does 20 damage to itself."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.23,
+            "mid_price": 11,
+            "high_price": 64.22,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 8.18,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 4.99,
+            "high_price": 105.58,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.73,
+            "direct_low_price": 4.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87526"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Dewgong",
+        "prices": [
+          {
+            "avg": 5.15,
+            "low": 1,
+            "avg1": 24.9,
+            "avg7": 6.73,
+            "avg30": 6.05,
+            "trend": 7.54,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Dewgong-GC54"
+      }
+    },
+    {
+      "id": "pk_00c0524a81a3175beafa21ddf1f2ff2b7e888d8eb87708af22b83b4e6fecea76688df9955a7bba33e025efda2d",
+      "card_info": {
+        "name": "Misty's Golduck",
+        "clean_name": "Mistys Golduck",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "012/132",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1W] Electro Beam (40)\r\n<br>Flip a coin. If tails, discard all Energy cards attached to Misty's Golduck.",
+          "[1P] Super Removal\r\n<br>Flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards and discard those Energy cards."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 122.99,
+            "mid_price": 439.99,
+            "high_price": 3495.21,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 114.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 53,
+            "mid_price": 79.99,
+            "high_price": 561.42,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 71.7,
+            "direct_low_price": 62.22,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87530"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Golduck",
+        "prices": [
+          {
+            "avg": 47.29,
+            "low": 15,
+            "avg1": 48,
+            "avg7": 62.11,
+            "avg30": 50.08,
+            "trend": 49.52,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.5,
+            "avg7": 21.04,
+            "avg30": 22,
+            "trend": 21.7,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Golduck-GC12"
+      }
+    },
+    {
+      "id": "pk_8c9803236d4e158cc91521a3fb6e77ea12b682875abd325e71b2272d01247dfe87afa6c27a7f9d1ebbe03be4bf",
+      "card_info": {
+        "name": "Misty's Gyarados",
+        "clean_name": "Mistys Gyarados",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "013/132",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Rebellion</strong> Whenever Misty's Gyarados attacks, flip 2 coins. If both of them are tails, that attack does nothing. Instead, shuffle Misty's Gyarados and all cards attached to it into your deck. <em>(This power works even if Misty's Gyarados is Confused.)</em>",
+        "attacks": [
+          "[WWWW] Tidal Wave (70)"
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3799.99,
+            "mid_price": 4039.99,
+            "high_price": 9999,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 425,
+            "direct_low_price": 3999.99,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 121,
+            "mid_price": 189.99,
+            "high_price": 1620.47,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 155.86,
+            "direct_low_price": 1619.62,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87531"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Gyarados",
+        "prices": [
+          {
+            "avg": 148.39,
+            "low": 37,
+            "avg1": 485.38,
+            "avg7": 240.67,
+            "avg30": 137.53,
+            "trend": 183.02,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39,
+            "avg7": 44.7,
+            "avg30": 40.99,
+            "trend": 42.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Gyarados-GC13"
+      }
+    },
+    {
+      "id": "pk_e3ec77241c404058a2b7f6edd86eae4e12c583a65077700c790f40c499e511d418340be3c79fbbf2349061e961",
+      "card_info": {
+        "name": "Misty's Horsea",
+        "clean_name": "Mistys Horsea",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "087/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WW] Ink Spurt (20)\r\n<br>Flip a coin. If heads, whenever the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack does nothing. <em>(This effect lasts until the Defending Pokémon evolves or is Benched.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.98,
+            "mid_price": 2.99,
+            "high_price": 48.52,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.45,
+            "mid_price": 1.48,
+            "high_price": 18.04,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.52,
+            "direct_low_price": 1.3,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87533"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Horsea",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.24,
+            "low": 0.04,
+            "avg1": 0.83,
+            "avg7": 1.11,
+            "avg30": 1.21,
+            "trend": 0.99,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Horsea-GC87"
+      }
+    },
+    {
+      "id": "pk_6c4f67c0a9d07b6e4e9980c216f2c3c1499c730df365ff89a627c16434aed3a669a5afd00b357e43a556b3237e",
+      "card_info": {
+        "name": "Misty's Magikarp",
+        "clean_name": "Mistys Magikarp",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "088/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Play Dead\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Misty's Magikarp.",
+          "[1] Leap (10)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.95,
+            "mid_price": 12,
+            "high_price": 98.55,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 13.2,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.49,
+            "mid_price": 3.6,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 3.58,
+            "direct_low_price": 3.1,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87534"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Magikarp",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.41,
+            "avg7": 0.41,
+            "avg30": 0.41,
+            "trend": 0.41,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.26,
+            "low": 0.29,
+            "avg1": 3.24,
+            "avg7": 4.31,
+            "avg30": 3.83,
+            "trend": 3.15,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Magikarp-GC88"
+      }
+    },
+    {
+      "id": "pk_3b3594e7c8c6f30b668a79bd6cd954090f3560b88b9ebaad5e971dc1eded61b66c4a82689355f6b53497c011fa",
+      "card_info": {
+        "name": "Misty's Poliwag",
+        "clean_name": "Mistys Poliwag",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "089/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubbles (20)\r\n<br>Flip a coin. If tails, you can't use this attack during your next turn.",
+          "[WW] Amnesia\r\n<br>Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.46,
+            "mid_price": 4.7,
+            "high_price": 43.62,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.12,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 1.77,
+            "high_price": 9.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.58,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87536"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Poliwag",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.28,
+            "avg7": 0.28,
+            "avg30": 0.28,
+            "trend": 0.28,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.86,
+            "low": 0.05,
+            "avg1": 0.45,
+            "avg7": 1.49,
+            "avg30": 1.78,
+            "trend": 1.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Poliwag-GC89"
+      }
+    },
+    {
+      "id": "pk_68a88e861f96155009a74de9cc085974b4b94637679f97b6c10240cf73492795ad13cf7af0d209a6faceee1f03",
+      "card_info": {
+        "name": "Misty's Psyduck",
+        "clean_name": "Mistys Psyduck",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "090/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] ESP\r\n<br>Flip 3 coins. If exactly 1 is heads, draw a card. If exactly 2 are heads, this attack does 20 damage. If all 3 are heads, choose 1 of the Defending Pokémon's attacks. Misty's Psyduck copies that attack except for its Energy costs. <em>(No matter what type the Defending Pokémon is, Misty's Psyduck's type is still Water.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.96,
+            "mid_price": 37.66,
+            "high_price": 206.4,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 32.19,
+            "direct_low_price": 23.45,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.49,
+            "mid_price": 7.58,
+            "high_price": 79.59,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 7.2,
+            "direct_low_price": 38.93,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87540"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Psyduck",
+        "prices": [
+          {
+            "avg": 12.09,
+            "low": 1.2,
+            "avg1": 14.5,
+            "avg7": 15.27,
+            "avg30": 13.14,
+            "trend": 12.9,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Psyduck-GC90"
+      }
+    },
+    {
+      "id": "pk_e7fde33ac3442e0018ce879bf3255fbece93a321bfa099f68488e26813ad70faacad9cff57f2df582628c85e36",
+      "card_info": {
+        "name": "Misty's Seel",
+        "clean_name": "Mistys Seel",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "091/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Frostbite (10)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+          "[1W] Mirage (10)\r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.56,
+            "mid_price": 3.99,
+            "high_price": 37.89,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.74,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 1.15,
+            "high_price": 17.98,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.11,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87544"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Seel",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.24,
+            "low": 0.2,
+            "avg1": 1.55,
+            "avg7": 1.21,
+            "avg30": 1.35,
+            "trend": 0.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Seel-GC91"
+      }
+    },
+    {
+      "id": "pk_34e25f25c859ce14f1b0b61948ffb5835dd178b92339b720b188e6ec126d0357cbdd35fbd1479278b49d83943c",
+      "card_info": {
+        "name": "Misty's Staryu",
+        "clean_name": "Mistys Staryu",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "092/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Star Boomerang (20)\r\n<br>Flip a coin. If heads, return Misty's Staryu and all cards attached to it to your hand. <em>(Either way, this attack does its damage.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.25,
+            "mid_price": 3.99,
+            "high_price": 42.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 3.8,
+            "direct_low_price": 5.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.75,
+            "mid_price": 1.5,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.43,
+            "direct_low_price": 2.27,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87548"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Staryu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.24,
+            "avg7": 0.24,
+            "avg30": 0.24,
+            "trend": 0.24,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.46,
+            "low": 0.2,
+            "avg1": 1,
+            "avg7": 1.59,
+            "avg30": 1.46,
+            "trend": 1.56,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Staryu-GC92"
+      }
+    },
+    {
+      "id": "pk_183143f52c601432469d44619c5efdbf57448594c724791f4fb183f6c4fd27d0f13ec595a97e2058e47dcbefeb19",
+      "card_info": {
+        "name": "Misty's Tears",
+        "clean_name": "Mistys Tears",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "118/132",
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard 1 of the other cards in your hand in order to search your deck for up to 2 Water Energy cards. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44.39,
+            "mid_price": 99.99,
+            "high_price": 707.86,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 60.37,
+            "direct_low_price": 62.75,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 17.62,
+            "mid_price": 22,
+            "high_price": 95.98,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 21.98,
+            "direct_low_price": 95.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87549"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Tears",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 45,
+            "avg7": 24.9,
+            "avg30": 24.9,
+            "trend": 45,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 28.87,
+            "low": 9.99,
+            "avg1": 15,
+            "avg7": 24.18,
+            "avg30": 26.62,
+            "trend": 26.92,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Tears-G2118"
+      }
+    },
+    {
+      "id": "pk_6f647255e6f3ad4762a83f0e18b6e04d50b9fb68a046846f110926528b30043005a12359bdd2423cd97c9992b43a",
+      "card_info": {
+        "name": "Misty's Wish",
+        "clean_name": "Mistys Wish",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "108/132",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at 1 of your Prize cards. Then, ask your opponent if you may switch that card with 1 of the cards in your hand. If your opponent accepts and if you have any other cards in your hand, switch those cards. If your opponent declines, return the Prize card face down and draw a card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.83,
+            "mid_price": 41.43,
+            "high_price": 418.46,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 39,
+            "direct_low_price": 417.61,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 15.11,
+            "high_price": 178.41,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 15.18,
+            "direct_low_price": 178.41,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87553"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Wish",
+        "prices": [
+          {
+            "avg": 16.8,
+            "low": 7.99,
+            "avg1": 9.78,
+            "avg7": 15.05,
+            "avg30": 17.8,
+            "trend": 15.07,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2,
+            "avg7": 2,
+            "avg30": 2,
+            "trend": 2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Mistys-Wish-G2108"
+      }
+    },
+    {
+      "id": "pk_6fcfcb9e5dbbd44f841d3a7db8157c04223427c213a54b68fa9791721b3cf4bad5123c4bf569ba9e5ba2f0b43c",
+      "card_info": {
+        "name": "Misty (18)",
+        "clean_name": "Misty 18",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "018/132",
+        "rarity": "Holo Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 168.99,
+            "mid_price": 854.36,
+            "high_price": 1696.54,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 178.11,
+            "direct_low_price": 1695.69,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 45,
+            "mid_price": 69.99,
+            "high_price": 4315.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 68.34,
+            "direct_low_price": 80,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87523"
+      },
+      "cardmarket": {
+        "product_name": "Misty",
+        "prices": [
+          {
+            "avg": 71.7,
+            "low": 21.99,
+            "avg1": 55,
+            "avg7": 77.73,
+            "avg30": 61.22,
+            "trend": 57.32,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.99,
+            "avg7": 18.65,
+            "avg30": 16.42,
+            "trend": 19.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Misty-GH18"
+      }
+    },
+    {
+      "id": "pk_72de60e0e024f288d2d60be97fe4e5e7420e5c33a576c87e2396851e8b4bbb1af5907125a90665a688ccaf054d85",
+      "card_info": {
+        "name": "Misty (102)",
+        "clean_name": "Misty 102",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "102/132",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.04,
+            "mid_price": 29.67,
+            "high_price": 399.32,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 29.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.22,
+            "mid_price": 5.98,
+            "high_price": 79.44,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 6.32,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87524"
+      },
+      "cardmarket": {
+        "product_name": "Misty",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.99,
+            "avg7": 1.89,
+            "avg30": 1.89,
+            "trend": 1.37,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.4,
+            "low": 1,
+            "avg1": 3.5,
+            "avg7": 7.39,
+            "avg30": 7.05,
+            "trend": 6.79,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Misty-GH102"
+      }
+    },
+    {
+      "id": "pk_0b0c2f86afaab20db52f74a774b0978aea75a15d1e593db3d7a76f8865a94d48ab84a1e5c451954b0fd949860e",
+      "card_info": {
+        "name": "Misty's Cloyster",
+        "clean_name": "Mistys Cloyster",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "029/132",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Shell Armor</strong> You may reduce all damage done by attacks to Misty's Cloyster by 10 <em>(after applying Weakness and Resistance)</em>. <em>(Any other effects of attacks still happen.)</em> This power can't be used if Misty's Cloyster is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[1WW] Triple Cannon (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.15,
+            "mid_price": 30.99,
+            "high_price": 337.72,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 26.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 11.63,
+            "mid_price": 16.72,
+            "high_price": 182.41,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.7,
+            "direct_low_price": 16.74,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87525"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Cloyster",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.25,
+            "avg7": 1.25,
+            "avg30": 1.25,
+            "trend": 1.25,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 13.65,
+            "low": 4.5,
+            "avg1": 3.95,
+            "avg7": 17.13,
+            "avg30": 13.18,
+            "trend": 16.23,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Cloyster-GH29"
+      }
+    },
+    {
+      "id": "pk_1f77393ac0c2cff342ce80e4f83d4b039d455da883d5c5279fddab9181415ee12a7a859d522a2813dc92f31dccc6",
+      "card_info": {
+        "name": "Misty's Duel",
+        "clean_name": "Mistys Duel",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "123/132",
+        "rarity": "Common",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "You and your opponent play a game of Rock-Paper-Scissors. The winner shuffles his or her hand into his or her deck and draws a new hand of 5 cards. (If you don't know how to play Rock-Paper-Scissors, flip a coin to decide who's the winner.)",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.2,
+            "mid_price": 6.99,
+            "high_price": 52.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 5.29,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 2.44,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.64,
+            "direct_low_price": 14.26,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87527"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Duel",
+        "prices": [
+          {
+            "avg": 2.61,
+            "low": 0.3,
+            "avg1": 0.7,
+            "avg7": 2.36,
+            "avg30": 2.9,
+            "trend": 1.97,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Duel-G1123"
+      }
+    },
+    {
+      "id": "pk_cbe7e7a3a170256f9bcf2a48387f3a07d01f081fa511a286d84153c199dff07010fca915e56fda0a89d4f7c1d6",
+      "card_info": {
+        "name": "Misty's Goldeen (30)",
+        "clean_name": "Mistys Goldeen 30",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "030/132",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Horn Hazard (30)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.57,
+            "mid_price": 24.99,
+            "high_price": 193.99,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 14.48,
+            "direct_low_price": 83.72,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 6.7,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 6.65,
+            "direct_low_price": 28.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87528"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Goldeen",
+        "prices": [
+          {
+            "avg": 8.67,
+            "low": 2,
+            "avg1": 7.5,
+            "avg7": 7.71,
+            "avg30": 8.24,
+            "trend": 8.18,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Goldeen-GH30"
+      }
+    },
+    {
+      "id": "pk_6eb0c090ea53a195b798d7f852078990d8009f18520926cfd64965475b478c01048fd9210a868edac015c3324f",
+      "card_info": {
+        "name": "Misty's Goldeen (85)",
+        "clean_name": "Mistys Goldeen 85",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "085/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fury Attack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "[W] Supersonic\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.9,
+            "mid_price": 2.8,
+            "high_price": 32.02,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 2.79,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.34,
+            "mid_price": 1.15,
+            "high_price": 12.64,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.43,
+            "direct_low_price": 12.64,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87529"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Goldeen",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.95,
+            "low": 0.1,
+            "avg1": 0.8,
+            "avg7": 1.17,
+            "avg30": 1.01,
+            "trend": 1.12,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Goldeen-GH85"
+      }
+    },
+    {
+      "id": "pk_62c437d7b6ffc0bb54c464c8e46d8cce5f9a668f99e8df4384b6906265fdedf2e4d8a51f5c82fbf489405a851d",
+      "card_info": {
+        "name": "Misty's Horsea",
+        "clean_name": "Mistys Horsea",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "086/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Tackle (10)",
+          "[WW] Smokescreen (20)\r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.01,
+            "mid_price": 3.89,
+            "high_price": 42.82,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 3.35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.39,
+            "mid_price": 1.12,
+            "high_price": 96.92,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.44,
+            "direct_low_price": 1.65,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87532"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Horsea",
+        "prices": [
+          {
+            "avg": 1.08,
+            "low": 0.15,
+            "avg1": 0.23,
+            "avg7": 0.86,
+            "avg30": 1.06,
+            "trend": 1.28,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.2,
+            "avg7": 0.13,
+            "avg30": 0.13,
+            "trend": 0.2,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Horsea-GH86"
+      }
+    },
+    {
+      "id": "pk_3a817e39fd10191fc67572faf4528e7743d54905c34859f9195624f04f415fa5907fe054dc33d2c450566f48a4",
+      "card_info": {
+        "name": "Misty's Poliwag",
+        "clean_name": "Mistys Poliwag",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "087/132",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Hypnotic Stare\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep.",
+          "[1W] Tail Rap (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.85,
+            "mid_price": 4.07,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 4.13,
+            "direct_low_price": 1.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 1.06,
+            "high_price": 4.98,
+            "updated_at": "2026-10-07T11:54:41.317536",
+            "market_price": 1.41,
+            "direct_low_price": 2.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87535"
+      },
+      "cardmarket": {
+        "product_name": "Misty's Poliwag",
+        "prices": [
+          {
+            "avg": 1.11,
+            "low": 0.18,
+            "avg1": 0.3,
+            "avg7": 0.88,
+            "avg30": 1.05,
+            "trend": 0.99,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.55,
+            "avg30": 0.55,
+            "trend": 0.1,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Poliwag-GH87"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 156,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 156,
+    "tcg": 134,
+    "cardmarket": 101,
+    "tcg_only": 55,
+    "cardmarket_only": 22,
+    "both_sources": 79
+  }
+}

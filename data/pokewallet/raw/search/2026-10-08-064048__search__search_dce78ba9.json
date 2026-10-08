@@ -1,0 +1,132 @@
+{
+  "query": "Gengar Base Set",
+  "results": [
+    {
+      "id": "pk_401583fee61edc39b2998fa538649d142c6e0cf2b66ce3fef345a7af1e7a49682f1e8be7b9ac8e2e8158667d2674",
+      "card_info": {
+        "name": "Gengar",
+        "clean_name": "Gengar",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "085/202",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Life Shaker</strong>\r\n<br> As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Psychic Pokemon to another of your Psychic Pokemon.",
+        "attacks": [
+          "[1PP] Hypnoblast (90)\r\n<br>Your opponent's Active Pokemon is now Asleep."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 10.99,
+            "high_price": 133.53,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 9.83,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 4.3,
+            "mid_price": 8,
+            "high_price": 96.95,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 7.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208393"
+      },
+      "cardmarket": {
+        "product_name": "Gengar",
+        "prices": [
+          {
+            "avg": 14.08,
+            "low": 7,
+            "avg1": 13,
+            "avg7": 16.25,
+            "avg30": 16.01,
+            "trend": 15.46,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.35,
+            "low": 5,
+            "avg1": 10.95,
+            "avg7": 10.92,
+            "avg30": 11.5,
+            "trend": 11.53,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Gengar-SSH85"
+      }
+    },
+    {
+      "id": "pk_68a801a144ca99a1fae266373d0f787e5d89da47ab8386265a94bed11748e357b951986407b85059c5bd",
+      "card_info": {
+        "name": "Scarlet & Violet Premium Checklane Blister [Gengar]",
+        "clean_name": "Scarlet and Violet Premium Checklane Blister Gengar",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Begin a New Adventure with Pokémon ex!\r\n<br>\r\nSet out for a journey in the Paldea region! Meet first partners Sprigatito, Fuecoco, and Quaxly, and explore the power of the Legendary Pokémon Koraidon and Miraidon as Pokémon ex. Other Pokémon ex evolve their way into battle—including Arcanine and Gyarados with a dazzling new look. Even more Pokémon appear as illustration rare cards with amazing artwork—discover them all in the Pokémon TCG: Scarlet & Violet expansion!<br><br>\r\n\r\nContains 1 Scarlet & Violet booster pack, a TCGO Code, Coin and 3 cards with an evolution line.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/479328"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 1,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

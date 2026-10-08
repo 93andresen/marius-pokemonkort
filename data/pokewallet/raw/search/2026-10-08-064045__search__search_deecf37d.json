@@ -1,0 +1,294 @@
+{
+  "query": "Haunter Base Set",
+  "results": [
+    {
+      "id": "pk_a737311d1814505da68220aa4e1a52ef0e45e7ed2b362d182332de978a9954f04f53ba903f79f259bb727ced",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "043/130",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.42,
+            "mid_price": 1,
+            "high_price": 175,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 1.44,
+            "direct_low_price": 95.41,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42506"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 1.59,
+            "low": 0.05,
+            "avg1": 1.03,
+            "avg7": 0.98,
+            "avg30": 1.37,
+            "trend": 1.43,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.3,
+            "avg7": 0.65,
+            "avg30": 0.65,
+            "trend": 0.3,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Haunter-B243"
+      }
+    },
+    {
+      "id": "pk_2c4edc8cfe63b898bdf986eac5bb189576b2cd9b754afd0696d6daf8cd9ef8d85cf192db15da2a948015c253a929",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "029/102",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 70,
+            "mid_price": 74.99,
+            "high_price": 698.82,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 67.85,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 6.04,
+            "mid_price": 12.99,
+            "high_price": 129.31,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 23.13,
+            "direct_low_price": 128.46,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107026"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ec7addcb4fb6c3ad120b3bf370c932b5f0b08eb6561f5663920a844a0ccd8715621c110b987abb85777ebd41",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "029/102",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 1.37,
+            "high_price": 100,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 2.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42370"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.35,
+            "avg7": 1.23,
+            "avg30": 1.1,
+            "trend": 1.85,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.81,
+            "low": 0.03,
+            "avg1": 1.59,
+            "avg7": 3.04,
+            "avg30": 2.8,
+            "trend": 4,
+            "updated_at": "2026-10-07T10:58:38.532274",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Haunter-V1-BS29"
+      }
+    },
+    {
+      "id": "pk_c1e0e62ed3ec71f313510cc4e375c9c4c5be3dbad415fb570f2d48df4f8681e28a0f9c4befcaded76dd1ef396eeb",
+      "card_info": {
+        "name": "Haunter",
+        "clean_name": "Haunter",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "084/202",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Nightmare (20)\r\n<br>Your opponent's Active Pokemon is now Asleep.",
+          "[1P] Spooky Shot (40)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.06,
+            "mid_price": 0.31,
+            "high_price": 14.29,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 0.31,
+            "direct_low_price": 0.24,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.82,
+            "mid_price": 1.53,
+            "high_price": 19.8,
+            "updated_at": "2026-10-07T11:54:47.44614",
+            "market_price": 1.55,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208390"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 8.27,
+            "low": 0.3,
+            "avg1": 17.99,
+            "avg7": 8.92,
+            "avg30": 6.59,
+            "trend": 7.06,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.34,
+            "avg30": 0.21,
+            "trend": 0.36,
+            "updated_at": "2026-10-07T10:58:51.328365",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Haunter-SSH84"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}
