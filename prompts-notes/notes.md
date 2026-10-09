@@ -102,12 +102,26 @@ Instructions are in SCRAPING_PROMPT.md
 
 2026-10-09-18.01.46
 
+uv run work/finn-harvest/slow_scrape.py --status
+
+---
+
 Set-Location C:\data\code\marius-pokemonkort
 Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp'
 
 Set-Location C:\data\code\marius-pokemonkort_hermes
 Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp'
+Exit
+
+Same in one line:
+Set-Location C:\data\code\marius-pokemonkort;Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp';Set-Location C:\data\code\marius-pokemonkort_hermes;Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp';Exit
 
 ---
 
-uv run work/finn-harvest/slow_scrape.py --status
+Set-Location C:\data\code\marius-pokemonkort_hermes
+loop 'git add .;git commit -m "looping commits with 30 second cooldowns";git push;start-sleep 30'
+
+Set-Location C:\data\code\marius-pokemonkort
+loop 'git add .;git commit -m "looping commits with 30 second cooldowns";git push;start-sleep 30'
+
+s
