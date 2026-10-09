@@ -86,3 +86,16 @@ Make the respone fascinating, interesting but keep it realistic and grounded in 
 https://getcollectr.notion.site/Price-Paid-Card-Conditions-b0de3e516ba04bdfabf2a6318264e880
 </PASTED_CONTENT_2026-10-08-010248>
 
+---
+
+2026-10-09-18.01.46
+
+Set-Location C:\data\code\marius-pokemonkort
+Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp'
+
+Set-Location C:\data\code\marius-pokemonkort_hermes
+Start-Process pwsh -ArgumentList '-NoExit', '-Command', 'loopggp'
+
+---
+
+uv run work/finn-harvest/slow_scrape.py --status
