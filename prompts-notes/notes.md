@@ -88,6 +88,18 @@ https://getcollectr.notion.site/Price-Paid-Card-Conditions-b0de3e516ba04bdfabf2a
 
 ---
 
+### AGENT PROMPT
+
+@/SCRAPING_PROMPT.md
+
+Instructions are in SCRAPING_PROMPT.md
+
+### HERMES AGENT PROMPT
+
+Instructions are in SCRAPING_PROMPT.md
+
+---
+
 2026-10-09-18.01.46
 
 Set-Location C:\data\code\marius-pokemonkort
