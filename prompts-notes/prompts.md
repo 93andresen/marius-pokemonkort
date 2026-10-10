@@ -672,3 +672,8 @@ Message details
 Exception: You cannot add alternating background colors to a range that already has alternating background colors.
 ```
 
+I updated it with the new code. all formatting worked. now, continue pupulating the FINN page of the spreadsheet with cards and numbers!
+
+
+---
+
