@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Charizard+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:01:54 GMT
+Content-Type: application/json
+Content-Length: 6069
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 866
+X-RateLimit-Remaining-Hour: 68
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4M2elQH7d%2BvmY9Us5mYj%2F%2FwHeEvKbNOZcUII0UVFnSE8WyYHioBjcyXz%2B1J%2Ff5QxT3dZkmGgQwPoCQHamg2b3Ow5%2BVn%2BfrgDy1U%2BnMIFMS1cQmx8fkfSsD9zDiuZYsJQMlrds3Y1KkzOsQd5YCu0YA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48579091d355a0f-OSL
+alt-svc: h3=":443"; ma=86400

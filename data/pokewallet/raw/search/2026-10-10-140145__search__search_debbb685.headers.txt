@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Venusaur&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:01:51 GMT
+Content-Type: application/json
+Content-Length: 28470
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 868
+X-RateLimit-Remaining-Hour: 70
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=C%2FsO86b00NR%2BQM5yvWNbeIFEq2k2Bps7mmt6jPcTTFw5c8%2FB61os6nQD22KdI%2BfeBgvjY99x7ycj8Cfe%2F53N7p4aaNPSeJG1zVjnK%2BHWSZwLz8J%2BSscwb5Kw7CF2BgOpuOs%2FGJ3HdUV7yvDs0V0ZDw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48578e88c0a7131-OSL
+alt-svc: h3=":443"; ma=86400

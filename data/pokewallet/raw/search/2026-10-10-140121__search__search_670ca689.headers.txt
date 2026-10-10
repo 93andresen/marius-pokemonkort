@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Charmander+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:01:27 GMT
+Content-Type: application/json
+Content-Length: 3683
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 879
+X-RateLimit-Remaining-Hour: 81
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GWx3ez8HSsxODUbmfmE5Z%2FRaNPKcSGAgb0HMF4aZKPCKgog%2BzGk%2BCPr6fwc5kq1xVTDjgfp5xTDM3KlOHP%2Ft9jGkmb09GKmTtxkrHcQZQhSf305%2BpmpUueOsSuYw30hnrv9lG6wbt9OAAdY5g0gvMA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48578570f91c759-OSL
+alt-svc: h3=":443"; ma=86400
