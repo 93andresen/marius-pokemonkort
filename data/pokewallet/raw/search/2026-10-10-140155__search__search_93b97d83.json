@@ -1,0 +1,294 @@
+{
+  "query": "Hitmonchan Base Set",
+  "results": [
+    {
+      "id": "pk_84554bab5ec00ca5accb68494d04def6a6789963346c27835e1c6036d9d5c1951459766bbd9bd038862b00",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "008/130",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.53,
+            "mid_price": 18.23,
+            "high_price": 203.22,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 25.47,
+            "direct_low_price": 17.63,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42496"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 24.09,
+            "low": 6.75,
+            "avg1": 16.16,
+            "avg7": 19.42,
+            "avg30": 19.15,
+            "trend": 21.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 17.5,
+            "avg7": 14.5,
+            "avg30": 13.08,
+            "trend": 14.03,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Hitmonchan-B28"
+      }
+    },
+    {
+      "id": "pk_4b5c57f4770c8903b4de0d311d5db1afa17266ebedeebb991460d6fdde44dded40aefed63b92402da948c5a35c",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "007/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 256.66,
+            "mid_price": 600,
+            "high_price": 699.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 300,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 32.55,
+            "mid_price": 88.85,
+            "high_price": 919.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 96.25,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107002"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_752242c837fcb5ea83bff0cfc7bb9164ed6bc6680a28a0c335ab15fd7dc9fa83cab31b615f19e7be78e630",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "007/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.85,
+            "mid_price": 16.55,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 17.4,
+            "direct_low_price": 98.87,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42415"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.1,
+            "avg7": 6.59,
+            "avg30": 8.13,
+            "trend": 9.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.04,
+            "low": 0.99,
+            "avg1": 8.75,
+            "avg7": 7.87,
+            "avg30": 9.02,
+            "trend": 10.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Hitmonchan-V1-BS7"
+      }
+    },
+    {
+      "id": "pk_585477f7bc3121ab6fa99b81003f50890a4e8a2bf07dc623e41347766a08ff0778162d777a4de7c7f5ed64ef1789",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "095/202",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Link Beat (20+)\r\n<br>If Hitmonlee is on your Bench, this attack does 20 more damage.",
+          "[FF] Mach Cross (60)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.47,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.34,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.38,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.39,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208404"
+      },
+      "cardmarket": {
+        "product_name": "Hitmonchan",
+        "prices": [
+          {
+            "avg": 13.2,
+            "low": 4,
+            "avg1": 10,
+            "avg7": 11.31,
+            "avg30": 7.2,
+            "trend": 13.2,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.32,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.44,
+            "avg30": 0.31,
+            "trend": 0.4,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hitmonchan-SSH95"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 3,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

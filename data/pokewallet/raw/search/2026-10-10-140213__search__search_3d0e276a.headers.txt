@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=MewTwo+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:02:19 GMT
+Content-Type: application/json
+Content-Length: 4271
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 852
+X-RateLimit-Remaining-Hour: 54
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U6I7z%2Bx0hA4BtYJX4CKDV%2F9HagkUE1Fk3%2F3qD%2BmkCzLSZmIKQZe8SUINHMO6DAve%2FF1xpeFbpoXCfhyXs4EEvg%2B%2BSQzLDE2kKE43QE6SR3sbrrPkXT5o7Lf%2BU0saOJS5MRuiCZw7AOSN0Fozv%2BdjcA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a485799b4f7d5a0f-OSL
+alt-svc: h3=":443"; ma=86400

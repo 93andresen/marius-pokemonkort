@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Growlithe+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:02:23 GMT
+Content-Type: application/json
+Content-Length: 7702
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 850
+X-RateLimit-Remaining-Hour: 52
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=54n2HpyQg4wvpZGB8UfYkkCo62V6kVg%2FjdLsmCmnCuTH0YlZ3MjU74Km9kBoX1ZQZVfFLcLyG3kV7aZRhIuU1M74HLkzn%2FRwWt5bqca%2F1n57DhPnu%2FhsSoFEMcUoFDI7ivk1U8Rwq8yuk3e2p80iIA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48579b6dc7c712a-OSL
+alt-svc: h3=":443"; ma=86400
