@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Misty+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:02:42 GMT
+Content-Type: application/json
+Content-Length: 202
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 840
+X-RateLimit-Remaining-Hour: 42
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rg1r1iTouUMNIb3s2z049uL6OjY2KHouf7FDmjxe9GUO5OcVkPqp8sFLAFu2dKd38yJEbnkoAVT14yRnKIAx1zgtMiNPpnjr6WptwnuJCV8Hg22m3qIJbkbYJCBQJ9YigQYh7PRq%2FmajCFCTlyW0Vg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4857a32d89d5699-OSL
+alt-svc: h3=":443"; ma=86400

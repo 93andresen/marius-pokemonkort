@@ -1,0 +1,1566 @@
+{
+  "query": "Brock",
+  "results": [
+    {
+      "id": "pk_202e57d1186369337a9a519f10906d7f84efc7b71f13661abfa94a4c436b7775848efa8d1d7358eb3caec7c47d",
+      "card_info": {
+        "name": "Brock's Diglett",
+        "clean_name": "Brocks Diglett",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "067/132",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Surprise Attack (20)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+          "[1F] Tremor (40)\r\n<br>Does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.05,
+            "mid_price": 2.99,
+            "high_price": 34.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.69,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.49,
+            "mid_price": 1.25,
+            "high_price": 19.76,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.46,
+            "direct_low_price": 4.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83961"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Diglett",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.21,
+            "low": 0.05,
+            "avg1": 0.98,
+            "avg7": 1.38,
+            "avg30": 1.3,
+            "trend": 1.19,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Diglett-GC67"
+      }
+    },
+    {
+      "id": "pk_ee58a67a3b284708da1be6af0d1ec6034b4339fae3612e516d79e3b8410148738e75d5b773ad25fcbfa2a98b89",
+      "card_info": {
+        "name": "Brock's Dugtrio",
+        "clean_name": "Brocks Dugtrio",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "022/132",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Lie Low\r\n<br>All damage done to Brock's Dugtrio during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+          "[1FF] Earthdrill (60)\r\n<br>This attack can't be used unless Brock's Dugtrio used its Lie Low attack last turn."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.1,
+            "mid_price": 20.06,
+            "high_price": 169.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 19.65,
+            "direct_low_price": 92.03,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 7.44,
+            "mid_price": 9,
+            "high_price": 115.77,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.58,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83962"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Dugtrio",
+        "prices": [
+          {
+            "avg": 13.66,
+            "low": 1.9,
+            "avg1": 2.7,
+            "avg7": 10.3,
+            "avg30": 11.79,
+            "trend": 8.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 2.95,
+            "avg30": 2.95,
+            "trend": 3.84,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Dugtrio-GC22"
+      }
+    },
+    {
+      "id": "pk_f5a0eefa1746b4ba682dbabe9782f31cd07efe65938102006280f91f1e07e15ebbaec4c86a1c7efa6588fdde36",
+      "card_info": {
+        "name": "Brock's Geodude",
+        "clean_name": "Brocks Geodude",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "068/132",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Rock Toss (10x)\r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 3.4,
+            "high_price": 4316.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.46,
+            "direct_low_price": 4.15,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.49,
+            "mid_price": 1.09,
+            "high_price": 96.94,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.09,
+            "direct_low_price": 1.12,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83965"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Geodude",
+        "prices": [
+          {
+            "avg": 1.98,
+            "low": 0.09,
+            "avg1": 2.25,
+            "avg7": 1.21,
+            "avg30": 1.95,
+            "trend": 1.45,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Geodude-GC68"
+      }
+    },
+    {
+      "id": "pk_cbffa2b19ad7e229524db7d03712960254e220e103c1f47f53709543984fe3d5625a3a0d534aa810506f812b66",
+      "card_info": {
+        "name": "Brock's Graveler",
+        "clean_name": "Brocks Graveler",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "034/132",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tackle (20)",
+          "[FFF] Detonate (50)\r\n<br>Does 10 damage to each Pokémon on each player's bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Brock's Graveler does 50 damage to itself. If there is a Stadium card in play, discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.16,
+            "mid_price": 4.89,
+            "high_price": 62.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.53,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.29,
+            "mid_price": 2.57,
+            "high_price": 26.12,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.65,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83968"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Graveler",
+        "prices": [
+          {
+            "avg": 3.18,
+            "low": 0.3,
+            "avg1": 16.99,
+            "avg7": 4.62,
+            "avg30": 3.62,
+            "trend": 4.67,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Graveler-GC34"
+      }
+    },
+    {
+      "id": "pk_456869881b8f83212803521207483ad572d85411f10597e389701014f360d9b93de7d2e0e15710c5252b7da9",
+      "card_info": {
+        "name": "Brock's Ninetales",
+        "clean_name": "Brocks Ninetales",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "003/132",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Shapeshift</strong> Once during your turn <em>(before your attack)</em>, you may attach an Evolution card from your hand to Brock's Ninetales. (This doesn't count as evolving Brock's Ninetales.) Treat Brock's Ninetales as if it were that Pokémon instead. It can't evolve, devolve, or use the Pokémon Power of that Pokémon. During your turn, you may discard the Evolution card attached to Brock's Ninetales. This power can't be used if Brock's Ninetales is Asleep, Confused, or Paralyzed. If Brock's Ninetales becomes Asleep, Confused, or Paralyzed, discard all Evolution cards attached to it.",
+        "attacks": [
+          "[RR] Will-o'-the-wisp (30)"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 159.99,
+            "mid_price": 273.97,
+            "high_price": 4319.73,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 162.5,
+            "direct_low_price": 3999.99,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 66,
+            "mid_price": 92.11,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 78.58,
+            "direct_low_price": 103,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83973"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Ninetales",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.99,
+            "avg7": 23.74,
+            "avg30": 22.52,
+            "trend": 20.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 61.88,
+            "low": 18.9,
+            "avg1": 28,
+            "avg7": 84.55,
+            "avg30": 63.74,
+            "trend": 82.04,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Ninetales-GC3"
+      }
+    },
+    {
+      "id": "pk_d22741f288dabc19692838295473610309dde8e6298e2d6229c5e7476e2af5c6d99f217fa3b73b67c62a5dd374",
+      "card_info": {
+        "name": "Brock's Primeape",
+        "clean_name": "Brocks Primeape",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "035/132",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Scram</strong> If Brock's Primeape ever has exactly 10 HP left, shuffle it and all cards attached to it into your deck. This power stops working while Brock's Primeape is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[FFF] Mega Thrash (60)\r\n<br>Brock's Primeape does 20 damage to itself. If there is a Stadium card in play, discard it."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.25,
+            "mid_price": 6.44,
+            "high_price": 65.22,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.29,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.97,
+            "mid_price": 3.37,
+            "high_price": 38.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.36,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83976"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Primeape",
+        "prices": [
+          {
+            "avg": 4.39,
+            "low": 0.2,
+            "avg1": 2.5,
+            "avg7": 4.64,
+            "avg30": 4.02,
+            "trend": 4.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Primeape-GC35"
+      }
+    },
+    {
+      "id": "pk_1b556bcc225a08836b98fcc75ab0c8321fc53f37fd44319485c1179a48c5e8f3f1bc223a1a10daa593ec98bab71a",
+      "card_info": {
+        "name": "Brock's Protection",
+        "clean_name": "Brocks Protection",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "101/132",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attach Brock's Protection to 1 of your Pokémon with Brock in its name. Energy cards attached to that Pokémon can't be removed by your opponent's attacks or Trainer cards. (This doesn't stop the rest of the attack or Trainer card from working normally.)",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 12.01,
+            "high_price": 99.24,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.79,
+            "direct_low_price": 95.69,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.49,
+            "mid_price": 8.22,
+            "high_price": 152,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.9,
+            "direct_low_price": 19.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83977"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Protection",
+        "prices": [
+          {
+            "avg": 10.05,
+            "low": 3.15,
+            "avg1": 14.5,
+            "avg7": 8.71,
+            "avg30": 9.67,
+            "trend": 9.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Protection-G2101"
+      }
+    },
+    {
+      "id": "pk_6318228d6c1581e766907d14d58cea0f2b5789091b30b9fadd5711a128846708374424731c9f794e3c18946292",
+      "card_info": {
+        "name": "Brock's Sandslash",
+        "clean_name": "Brocks Sandslash",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "036/132",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1F] Swift (20)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.",
+          "[FF] Needle Ball (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.52,
+            "mid_price": 7.97,
+            "high_price": 94.14,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.96,
+            "direct_low_price": 11.5,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 3.35,
+            "high_price": 42.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.47,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83984"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Sandslash",
+        "prices": [
+          {
+            "avg": 3.97,
+            "low": 1,
+            "avg1": 1.5,
+            "avg7": 5.6,
+            "avg30": 4.13,
+            "trend": 4.99,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Sandslash-GC36"
+      }
+    },
+    {
+      "id": "pk_8ed9ff013e30a746d489ace7c92f169282ac7604ff94cccb966984a2227d13d93f1f11cfbefdd7ae0c2ee2e23d",
+      "card_info": {
+        "name": "Brock's Vulpix",
+        "clean_name": "Brocks Vulpix",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "037/132",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Hypnotic Gaze\r\n<br>The Defending Pokémon is now Asleep.",
+          "[RR] Fire Ring (20)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.5,
+            "mid_price": 16.69,
+            "high_price": 20.46,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 16.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.76,
+            "mid_price": 7.5,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.45,
+            "direct_low_price": 12.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83986"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Vulpix",
+        "prices": [
+          {
+            "avg": 6.09,
+            "low": 0.95,
+            "avg1": 4.73,
+            "avg7": 7.9,
+            "avg30": 7.35,
+            "trend": 5.83,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Brocks-Vulpix-GC37"
+      }
+    },
+    {
+      "id": "pk_995c29c416c61a9c0755bc1471208cab84404420323736078469ffda261b62cf0bc223cffe56b4338361c5f811",
+      "card_info": {
+        "name": "Brock (15)",
+        "clean_name": "Brock 15",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "015/132",
+        "rarity": "Holo Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Remove 1 damage counter from each of your Pokémon that has any damage counters on it.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139,
+            "mid_price": 403.99,
+            "high_price": 812.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 95.65,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 30,
+            "mid_price": 52,
+            "high_price": 225.5,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 49.59,
+            "direct_low_price": 99.87,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83959"
+      },
+      "cardmarket": {
+        "product_name": "Brock",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 29.99,
+            "avg7": 25.93,
+            "avg30": 15.31,
+            "trend": 23.27,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 41.43,
+            "low": 14.9,
+            "avg1": 10,
+            "avg7": 47.32,
+            "avg30": 37.36,
+            "trend": 37.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brock-GH15"
+      }
+    },
+    {
+      "id": "pk_8fffd96500f265c2c2b22a402cb2024699bbbd08a699d046c7b1e172eafa9fa8a2736742576fc6621c49378b09",
+      "card_info": {
+        "name": "Brock (98)",
+        "clean_name": "Brock 98",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "098/132",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Remove 1 damage counter from each of your Pokémon that has any damage counters on it.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.82,
+            "mid_price": 13.73,
+            "high_price": 145.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 13.93,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.7,
+            "mid_price": 5,
+            "high_price": 50.66,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 5.93,
+            "direct_low_price": 50.66,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83960"
+      },
+      "cardmarket": {
+        "product_name": "Brock",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.7,
+            "avg7": 0.7,
+            "avg30": 0.7,
+            "trend": 0.7,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.53,
+            "low": 1.5,
+            "avg1": 6,
+            "avg7": 7.18,
+            "avg30": 5.94,
+            "trend": 5.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brock-GH98"
+      }
+    },
+    {
+      "id": "pk_e38283f85bbc72cbc687f7e9ad9dc193a831cea98531b604e8a2f3eddbc7f82bfbc7f1b661ff809a805f1a6e08",
+      "card_info": {
+        "name": "Brock's Geodude (38)",
+        "clean_name": "Brocks Geodude 38",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "038/132",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tackle (10)",
+          "[1F] Lucky Shot\r\n<br>Choose 1 of your opponent's Benched Pokémon and flip a coin. If heads, this attack does 30 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> This attack can't be used if your opponent has no Benched Pokémon."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.98,
+            "mid_price": 4.86,
+            "high_price": 96.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.86,
+            "direct_low_price": 7.31,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.19,
+            "mid_price": 2.11,
+            "high_price": 96.93,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.66,
+            "direct_low_price": 4.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83963"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Geodude",
+        "prices": [
+          {
+            "avg": 2.76,
+            "low": 0.49,
+            "avg1": 3.25,
+            "avg7": 2.07,
+            "avg30": 2.63,
+            "trend": 2.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Geodude-GH38"
+      }
+    },
+    {
+      "id": "pk_bd946461fcd68e04643aac4c48d53c6fb5f6ad80db93ac62111aa10a18b8656d1eb1a10bb2da7126d18764326e",
+      "card_info": {
+        "name": "Brock's Geodude (66)",
+        "clean_name": "Brocks Geodude 66",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "066/132",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Call for Friend\r\n<br>Flip a coin. If heads, you may search your deck for a Basic Pokémon card with Brock in its name and put it onto your Bench. Shuffle your deck afterward. <em>(You can't use this attack if your Bench is full.)</em>",
+          "[1F] Hook Shot (20)\r\n<br>Don't apply Resistance for this attack. <em>(Any other effects that would happen after applying Resistance still happen.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 3.49,
+            "high_price": 94.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.97,
+            "direct_low_price": 3.66,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.75,
+            "high_price": 14.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.73,
+            "direct_low_price": 1.3,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83964"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Geodude",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 1,
+            "avg30": 1,
+            "trend": 1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.09,
+            "low": 0.02,
+            "avg1": 2.5,
+            "avg7": 1.25,
+            "avg30": 1.08,
+            "trend": 1.22,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Geodude-GH66"
+      }
+    },
+    {
+      "id": "pk_21232997a3f01ea45d71c1e26240fa095c4b02a3c039ed5ea90b3cf70b913301e0a1ddb8c2ef3c2f7f7c6c9313",
+      "card_info": {
+        "name": "Brock's Golbat",
+        "clean_name": "Brocks Golbat",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "039/132",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Dive (20)",
+          "[3] Spiral Dive\r\n<br>Does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance."
+        ],
+        "weakness": "P",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.57,
+            "mid_price": 6.99,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 6.22,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.84,
+            "mid_price": 2.38,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.66,
+            "direct_low_price": 4.02,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83966"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Golbat",
+        "prices": [
+          {
+            "avg": 2.76,
+            "low": 0.3,
+            "avg1": 4,
+            "avg7": 2.47,
+            "avg30": 2.72,
+            "trend": 2.34,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Golbat-GH39"
+      }
+    },
+    {
+      "id": "pk_d665caea752e07374b8b92c75703250b6e99137f2d70fa80f4553fdf09c85b159930b0ea56f917324e5393f271",
+      "card_info": {
+        "name": "Brock's Golem",
+        "clean_name": "Brocks Golem",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "020/132",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1FF] Rock Slide (20)\r\n<br>If your opponent has any Benched Pokémon, choose up to 3 of them. This attack does 10 damage to each of them. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[2FF] Fissure (50)"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 39,
+            "high_price": 1494.84,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 34.02,
+            "direct_low_price": 218.47,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 11.58,
+            "mid_price": 19.1,
+            "high_price": 99.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 19.65,
+            "direct_low_price": 18.45,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83967"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Golem",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.99,
+            "avg7": 5.06,
+            "avg30": 5.06,
+            "trend": 6.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.45,
+            "low": 3.4,
+            "avg1": 45,
+            "avg7": 17.81,
+            "avg30": 14.2,
+            "trend": 15.53,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Golem-GH20"
+      }
+    },
+    {
+      "id": "pk_c4cff99a29ff1fa36cf8d642aa0e982c5c319a1852479351ef1e05f64f8661b4258907de43044bec3a7f4e2436",
+      "card_info": {
+        "name": "Brock's Graveler",
+        "clean_name": "Brocks Graveler",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "040/132",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2F] Rock Toss (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.49,
+            "mid_price": 4.04,
+            "high_price": 51.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.41,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.58,
+            "mid_price": 1.5,
+            "high_price": 4.92,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.85,
+            "direct_low_price": 3.93,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83969"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Graveler",
+        "prices": [
+          {
+            "avg": 2.82,
+            "low": 0.19,
+            "avg1": 2.4,
+            "avg7": 2.29,
+            "avg30": 2.54,
+            "trend": 2.29,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.5,
+            "avg7": 1.5,
+            "avg30": 1.5,
+            "trend": 1.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Graveler-GH40"
+      }
+    },
+    {
+      "id": "pk_c0ea71566a344d018144fe092c34aa111a912db78b2f8b68fced0adf495aacc7b5f1f8fa9e5feff3b171cdd87c",
+      "card_info": {
+        "name": "Brock's Lickitung",
+        "clean_name": "Brocks Lickitung",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "041/132",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Tongue Slap (20)",
+          "[3] Slam (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.07,
+            "mid_price": 11.93,
+            "high_price": 78.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.75,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1.35,
+            "mid_price": 3.29,
+            "high_price": 96.4,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.54,
+            "direct_low_price": 95.75,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83970"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Lickitung",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.8,
+            "low": 0.69,
+            "avg1": 2.57,
+            "avg7": 3.4,
+            "avg30": 2.83,
+            "trend": 3.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Lickitung-GH41"
+      }
+    },
+    {
+      "id": "pk_ecf5a50c95542334f975dbb9d7f265bc49d2f149aad8aaff2ba3e2445748dab0b9e524922302c2ea0d8e405f3f",
+      "card_info": {
+        "name": "Brock's Mankey (67)",
+        "clean_name": "Brocks Mankey 67",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "067/132",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Taunt\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+          "[F] Light Kick (10)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.48,
+            "mid_price": 2.99,
+            "high_price": 49.14,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.96,
+            "direct_low_price": 1.58,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.31,
+            "mid_price": 0.82,
+            "high_price": 15.02,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.05,
+            "direct_low_price": 0.62,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83971"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Mankey",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 1.5,
+            "avg30": 1.5,
+            "trend": 0.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.02,
+            "low": 0.08,
+            "avg1": 0.5,
+            "avg7": 0.98,
+            "avg30": 1.04,
+            "trend": 0.97,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Mankey-GH67"
+      }
+    },
+    {
+      "id": "pk_5257826bbc03b29161b8f6f9a098c2238b9efafa627be97ebe0be780849626e5f2590f2d3dfc46fcd0d88f6b2c",
+      "card_info": {
+        "name": "Brock's Mankey (68)",
+        "clean_name": "Brocks Mankey 68",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "068/132",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fidget\r\n<br>Shuffle your deck.",
+          "[1F] Karate Chop (40-)\r\n<br>Does 40 damage minus 10 damage for each damage counter on Brock's Mankey."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.24,
+            "mid_price": 5.07,
+            "high_price": 96.29,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 5.06,
+            "direct_low_price": 95.09,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.75,
+            "mid_price": 1.21,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.24,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83972"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Mankey",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.5,
+            "avg7": 2.5,
+            "avg30": 2.5,
+            "trend": 2.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.69,
+            "low": 0.35,
+            "avg1": 0.89,
+            "avg7": 1.29,
+            "avg30": 1.6,
+            "trend": 0.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Mankey-GH68"
+      }
+    },
+    {
+      "id": "pk_70130bc163b02fe78c704597960768e52734692b4ce78f5d0570f72a14b6be8c8e968e0af504da8d7343ed3d4e",
+      "card_info": {
+        "name": "Brock's Onix (21)",
+        "clean_name": "Brocks Onix 21",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "021/132",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[FF] Bind (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[FFF] Tunneling\r\n<br>If your opponent has any Benched Pokémon, choose up to 2 of them. This attack does 20 damage to each of them. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Brock's Onix can't attack during your next turn."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.66,
+            "mid_price": 21.39,
+            "high_price": 210.15,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 17.13,
+            "direct_low_price": 10.6,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 7.23,
+            "mid_price": 8.02,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 11.08,
+            "direct_low_price": 63.95,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83974"
+      },
+      "cardmarket": {
+        "product_name": "Brock's Onix",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.23,
+            "avg7": 1.72,
+            "avg30": 1.72,
+            "trend": 2.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.26,
+            "low": 1.85,
+            "avg1": 13,
+            "avg7": 9.73,
+            "avg30": 9.34,
+            "trend": 10.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Onix-GH21"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 116,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 116,
+    "tcg": 101,
+    "cardmarket": 68,
+    "tcg_only": 48,
+    "cardmarket_only": 15,
+    "both_sources": 53
+  }
+}

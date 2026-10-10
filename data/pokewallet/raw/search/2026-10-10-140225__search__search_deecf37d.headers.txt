@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Haunter+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:02:30 GMT
+Content-Type: application/json
+Content-Length: 5218
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 846
+X-RateLimit-Remaining-Hour: 48
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1mfRKQFd9Fj53XReSqmlp7vCsNVz28JIaSfAxcz%2FeK2AujIrGU56hrHHI2R%2FUvAqKO3M0DJCjqi9BizcuEcvmm3hTCxDaVkLd8ozA%2FYeLBiE%2FfhnPHhemwAYQUwGxPfvYjZ0ihoUcLZ6j4h6ku2r%2Fw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48579ebde023181-OSL
+alt-svc: h3=":443"; ma=86400
