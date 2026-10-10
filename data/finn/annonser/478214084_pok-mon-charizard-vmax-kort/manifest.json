@@ -4,17 +4,17 @@
   "slug": "478214084_pok-mon-charizard-vmax-kort",
   "first_seen": "2026-10-08T04:27:32Z",
   "last_seen": "2026-10-08T04:27:32Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokémon Charizard VMAX kort",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 400,
     "trade_type": null,
     "location_text": "2016 Frogner",
     "postal_code": "2016",
     "last_modified": "2026-10-08T00:02:00",
     "gallery_count": 2,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -194,5 +194,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478046033"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

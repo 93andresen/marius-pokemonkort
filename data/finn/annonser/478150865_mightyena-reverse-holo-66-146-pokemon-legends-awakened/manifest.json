@@ -4,17 +4,17 @@
   "slug": "478150865_mightyena-reverse-holo-66-146-pokemon-legends-awakened",
   "first_seen": "2026-10-08T04:23:42Z",
   "last_seen": "2026-10-08T04:23:42Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Mightyena reverse holo 66/146 - Pokemon Legends Awakened",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 150,
     "trade_type": null,
     "location_text": "7031 Trondheim",
     "postal_code": "7031",
     "last_modified": "2026-10-08T00:11:00",
     "gallery_count": 3,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -207,5 +207,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/453715433"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

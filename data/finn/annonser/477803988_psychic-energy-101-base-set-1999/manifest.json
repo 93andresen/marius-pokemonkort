@@ -4,17 +4,17 @@
   "slug": "477803988_psychic-energy-101-base-set-1999",
   "first_seen": "2026-10-08T04:13:30Z",
   "last_seen": "2026-10-08T04:13:30Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Psychic Energy #101 Base Set (1999)",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 9,
     "trade_type": null,
     "location_text": "6514 Kristiansund N",
     "postal_code": "6514",
     "last_modified": "2026-10-02T17:59:00",
     "gallery_count": 2,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -194,5 +194,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477801855"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

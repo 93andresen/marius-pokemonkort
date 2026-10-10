@@ -4,17 +4,17 @@
   "slug": "477804019_lycanroc-138-128",
   "first_seen": "2026-10-08T04:13:40Z",
   "last_seen": "2026-10-08T04:13:40Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Lycanroc 138/128",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 45,
     "trade_type": null,
     "location_text": "1617 Fredrikstad",
     "postal_code": "1617",
     "last_modified": "2026-10-05T12:17:00",
     "gallery_count": 2,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -194,5 +194,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477033465"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

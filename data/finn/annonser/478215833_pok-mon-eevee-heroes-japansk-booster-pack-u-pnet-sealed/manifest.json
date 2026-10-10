@@ -4,17 +4,17 @@
   "slug": "478215833_pok-mon-eevee-heroes-japansk-booster-pack-u-pnet-sealed",
   "first_seen": "2026-10-08T04:32:16Z",
   "last_seen": "2026-10-08T04:32:16Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokémon Eevee Heroes Japansk Booster Pack – Uåpnet / Sealed",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 799,
     "trade_type": null,
     "location_text": "5183 Olsvik",
     "postal_code": "5183",
     "last_modified": "2026-10-08T04:34:00",
     "gallery_count": 1,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -181,5 +181,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/473058143"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

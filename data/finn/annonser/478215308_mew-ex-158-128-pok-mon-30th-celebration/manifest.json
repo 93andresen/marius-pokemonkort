@@ -4,17 +4,17 @@
   "slug": "478215308_mew-ex-158-128-pok-mon-30th-celebration",
   "first_seen": "2026-10-08T04:30:04Z",
   "last_seen": "2026-10-08T04:30:04Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "🃏 Mew ex 158/128 – Pokémon 30th Celebration",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 529,
     "trade_type": null,
     "location_text": "5210 Os",
     "postal_code": "5210",
     "last_modified": "2026-10-08T01:46:00",
     "gallery_count": 4,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -220,5 +220,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477283734"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

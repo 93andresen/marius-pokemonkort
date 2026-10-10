@@ -4,17 +4,17 @@
   "slug": "478181948_jumpluff-006-heartgold-soulsilver-holofoil-nm",
   "first_seen": "2026-10-08T04:23:58Z",
   "last_seen": "2026-10-08T04:23:58Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Jumpluff #006 - HeartGold SoulSilver - Holofoil - NM",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 70,
     "trade_type": null,
     "location_text": "9104 Kvaløya",
     "postal_code": "9104",
     "last_modified": "2026-10-08T00:36:00",
     "gallery_count": 2,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -194,5 +194,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478071945"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

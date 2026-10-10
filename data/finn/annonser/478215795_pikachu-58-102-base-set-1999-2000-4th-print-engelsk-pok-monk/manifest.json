@@ -4,17 +4,17 @@
   "slug": "478215795_pikachu-58-102-base-set-1999-2000-4th-print-engelsk-pok-monk",
   "first_seen": "2026-10-08T04:31:10Z",
   "last_seen": "2026-10-08T04:31:10Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pikachu 58/102 – Base Set 1999–2000 (4th print) – engelsk Pokémonkort",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 250,
     "trade_type": null,
     "location_text": "5171 Loddefjord",
     "postal_code": "5171",
     "last_modified": "2026-10-08T04:20:00",
     "gallery_count": 4,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -220,5 +220,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/474394721"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

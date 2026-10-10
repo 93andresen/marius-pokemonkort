@@ -4,7 +4,7 @@
   "slug": "477805530_pikachu-026-128",
   "first_seen": "2026-10-08T04:19:13Z",
   "last_seen": "2026-10-08T04:19:13Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pikachu 026/128",
     "status": "Solgt",
@@ -179,5 +179,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478115951"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

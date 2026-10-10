@@ -4,17 +4,17 @@
   "slug": "477805043_pok-mon-articuno-097-mega-evolution-promo",
   "first_seen": "2026-10-08T04:18:00Z",
   "last_seen": "2026-10-08T04:18:00Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokémon Articuno 097 Mega Evolution Promo",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 30,
     "trade_type": null,
     "location_text": "5101 Eidsvågneset",
     "postal_code": "5101",
     "last_modified": "2026-10-07T21:11:00",
     "gallery_count": 1,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -181,5 +181,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/475896757"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

@@ -4,7 +4,7 @@
   "slug": "477804824_pokemonkort-fra-mange-sett",
   "first_seen": "2026-10-08T04:17:14Z",
   "last_seen": "2026-10-08T04:17:14Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokemonkort fra mange sett",
     "status": "Aktiv",
@@ -231,5 +231,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/464763095"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

@@ -4,7 +4,7 @@
   "slug": "477805064_pokemon-kort-30th-celebration",
   "first_seen": "2026-10-08T04:18:05Z",
   "last_seen": "2026-10-08T04:18:05Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokemon kort, 30th celebration",
     "status": "Solgt",
@@ -179,5 +179,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477883989"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

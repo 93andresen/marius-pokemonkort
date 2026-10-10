@@ -4,7 +4,7 @@
   "slug": "475878513_stort-vintage-salg-av-pokemon-holo-rare-japansk-fastpris",
   "first_seen": "2026-10-02T16:31:11Z",
   "last_seen": "2026-10-02T16:32:07Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
     "status": "Inaktiv",
@@ -223,5 +223,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/467560464"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

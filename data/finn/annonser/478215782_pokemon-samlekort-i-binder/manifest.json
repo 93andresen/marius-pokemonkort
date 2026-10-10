@@ -4,7 +4,7 @@
   "slug": "478215782_pokemon-samlekort-i-binder",
   "first_seen": "2026-10-08T04:30:40Z",
   "last_seen": "2026-10-08T04:30:40Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokemon samlekort i binder",
     "status": "Aktiv",
@@ -231,5 +231,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/474257090"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

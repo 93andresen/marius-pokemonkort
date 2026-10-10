@@ -4,17 +4,17 @@
   "slug": "478141623_flareon-60-111-pokemon-rising-rivals",
   "first_seen": "2026-10-08T04:22:01Z",
   "last_seen": "2026-10-08T04:22:01Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Flareon 60/111 - Pokemon Rising Rivals",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 30,
     "trade_type": null,
     "location_text": "7031 Trondheim",
     "postal_code": "7031",
     "last_modified": "2026-10-08T00:04:00",
     "gallery_count": 2,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -194,5 +194,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/473730630"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

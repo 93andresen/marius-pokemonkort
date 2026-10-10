@@ -4,7 +4,7 @@
   "slug": "477804183_umbreon-ex-92-128",
   "first_seen": "2026-10-08T04:14:36Z",
   "last_seen": "2026-10-08T04:14:36Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Umbreon ex 92/128",
     "status": "Solgt",
@@ -192,5 +192,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478135393"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

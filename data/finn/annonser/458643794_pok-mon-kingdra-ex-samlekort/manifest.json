@@ -4,7 +4,7 @@
   "slug": "458643794_pok-mon-kingdra-ex-samlekort",
   "first_seen": "2026-10-08T04:11:18Z",
   "last_seen": "2026-10-08T04:11:18Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokémon Kingdra EX samlekort",
     "status": "Aktiv",
@@ -233,5 +233,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477802337"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

@@ -4,7 +4,7 @@
   "slug": "477801982_uxie-43-146",
   "first_seen": "2026-10-08T04:12:09Z",
   "last_seen": "2026-10-08T04:12:09Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Uxie 43/146",
     "status": "Solgt",
@@ -179,5 +179,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/471405910"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

@@ -4,17 +4,17 @@
   "slug": "478142426_luxury-ball-86-100-pokemon-stromfront",
   "first_seen": "2026-10-08T04:22:12Z",
   "last_seen": "2026-10-08T04:22:12Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Luxury Ball 86/100 - Pokemon Stromfront",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 15,
     "trade_type": null,
     "location_text": "7031 Trondheim",
     "postal_code": "7031",
     "last_modified": "2026-10-08T00:01:00",
     "gallery_count": 5,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -233,5 +233,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/475485254"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

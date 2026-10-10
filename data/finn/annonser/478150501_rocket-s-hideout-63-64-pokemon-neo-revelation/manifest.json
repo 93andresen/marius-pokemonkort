@@ -4,17 +4,17 @@
   "slug": "478150501_rocket-s-hideout-63-64-pokemon-neo-revelation",
   "first_seen": "2026-10-08T04:23:22Z",
   "last_seen": "2026-10-08T04:23:22Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Rocket’s Hideout 63/64 - Pokemon Neo Revelation",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 60,
     "trade_type": null,
     "location_text": "7031 Trondheim",
     "postal_code": "7031",
     "last_modified": "2026-10-08T00:10:00",
     "gallery_count": 5,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -233,5 +233,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/473343168"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

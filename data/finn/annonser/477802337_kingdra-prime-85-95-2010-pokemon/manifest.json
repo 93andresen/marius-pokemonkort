@@ -4,17 +4,17 @@
   "slug": "477802337_kingdra-prime-85-95-2010-pokemon",
   "first_seen": "2026-10-08T04:12:41Z",
   "last_seen": "2026-10-08T04:12:41Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Kingdra Prime 85/95  2010 – Pokemon",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 850,
     "trade_type": null,
     "location_text": "0358 Oslo",
     "postal_code": "0358",
     "last_modified": "2026-10-03T14:48:00",
     "gallery_count": 3,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -207,5 +207,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478134123"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

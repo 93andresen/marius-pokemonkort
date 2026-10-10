@@ -4,17 +4,17 @@
   "slug": "477805241_slowking-019",
   "first_seen": "2026-10-08T04:18:30Z",
   "last_seen": "2026-10-08T04:18:30Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Slowking #019",
     "status": "Aktiv",
-    "price_nok": null,
+    "price_nok": 10,
     "trade_type": null,
     "location_text": "6411 Molde",
     "postal_code": "6411",
     "last_modified": "2026-10-02T18:15:00",
     "gallery_count": 1,
-    "parse_quality": "partial"
+    "parse_quality": "full"
   },
   "scrapes": [
     {
@@ -181,5 +181,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/477813958"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:29Z"
 }

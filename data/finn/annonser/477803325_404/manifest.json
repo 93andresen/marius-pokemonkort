@@ -4,7 +4,7 @@
   "slug": "477803325_404",
   "first_seen": "2026-10-08T04:13:04Z",
   "last_seen": "2026-10-08T04:13:04Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "404",
     "status": "Aktiv",
@@ -35,5 +35,6 @@
   ],
   "images": [],
   "image_count_on_disk": 0,
-  "similar_ads": []
+  "similar_ads": [],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }

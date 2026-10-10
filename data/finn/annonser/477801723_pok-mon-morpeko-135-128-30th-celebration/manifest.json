@@ -4,7 +4,7 @@
   "slug": "477801723_pok-mon-morpeko-135-128-30th-celebration",
   "first_seen": "2026-10-08T04:11:57Z",
   "last_seen": "2026-10-08T04:11:57Z",
-  "parser_version": "finn_ad/1.0.0",
+  "parser_version": "finn_ad/1.1.0",
   "latest": {
     "title": "Pokémon Morpeko 135/128 30th Celebration",
     "status": "Aktiv",
@@ -179,5 +179,6 @@
       "type_label": "Til salgs",
       "url": "https://www.finn.no/478040651"
     }
-  ]
+  ],
+  "rederived_at": "2026-10-10T12:13:28Z"
 }
