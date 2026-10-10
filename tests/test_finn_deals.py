@@ -256,7 +256,7 @@ class TestSheetRows(unittest.TestCase):
         self.assertEqual(out[0][0], "111")
         self.assertEqual(out[0][3], "Charizard (Base Set)")
         self.assertEqual(out[0][4], 1500.0)
-        self.assertEqual(out[0][7], "high")
+        self.assertEqual(out[0][10], "high")
 
     def test_untrusted_row_asserts_no_card_and_no_value(self):
         rows = [{
@@ -269,7 +269,7 @@ class TestSheetRows(unittest.TestCase):
         self.assertEqual(out[0][3], "", "untrusted match shows no card")
         self.assertIsNone(out[0][4], "untrusted match shows no market price")
         self.assertIsNone(out[0][6], "untrusted match shows no ratio")
-        self.assertEqual(out[0][7], "low")
+        self.assertEqual(out[0][10], "low")
 
 
 # --- priority + build ------------------------------------------------------- #

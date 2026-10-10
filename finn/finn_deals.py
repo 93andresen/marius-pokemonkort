@@ -22,7 +22,7 @@ Outputs (under ``data/finn/tables/``, timestamped, never overwritten):
 * ``deals_<ts>.csv`` — the full table (every column);
 * ``deals_<ts>.html`` — the same table, self-contained and client-side sortable;
 * ``deals_<ts>.jsonl`` — one full row per line (machine artifact);
-* ``finn_sheet_<ts>.csv`` — exactly the 10 columns of the bound Sheet's FINN tab;
+* ``finn_sheet_<ts>.csv`` — exactly the columns of the bound Sheet's FINN tab;
 * ``summary_<ts>.json`` — honest coverage counts.
 
 It also emits a **priority-ordered** ad JSONL (Tier-1 sets → named cards →
@@ -66,10 +66,12 @@ COLUMNS = [
     "confidence", "partial", "notes", "first_seen", "last_seen",
 ]
 
-# Exactly the bound Sheet's FINN tab (sheet/build_sheet.py::FINN_HEADER).
+# Exactly the bound Sheet's FINN tab.  Deal columns first, then the trusted
+# metadata (Status / dates) and the Confidence verdict LAST — so the existing
+# name-keyed Sheet formatting (Status in column H, dates in I/J) stays aligned.
 SHEET_COLUMNS = [
     "FINN-kode", "Title", "Price (NOK)", "Matched card", "Market price",
-    "Delta", "Ratio", "Confidence", "Status", "First seen", "Last seen",
+    "Delta", "Ratio", "Status", "First seen", "Last seen", "Confidence",
 ]
 
 # intent_rank: 1 Tier-1 set, 2 named card, 3 Tier-2 set, 0 none.  "none" sorts last.
@@ -347,8 +349,8 @@ def sheet_rows(rows: list[dict[str, Any]]) -> list[list[Any]]:
             r.get("market_value_nok") if trusted else None,
             r.get("delta_nok") if trusted else None,
             r.get("ratio") if trusted else None,
-            conf,
             r.get("status"), r.get("first_seen"), r.get("last_seen"),
+            conf,
         ])
     return out
 
