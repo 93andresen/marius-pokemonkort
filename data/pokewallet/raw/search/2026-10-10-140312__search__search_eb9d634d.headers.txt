@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Electrode&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:03:17 GMT
+Content-Type: application/json
+Content-Length: 30220
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 811
+X-RateLimit-Remaining-Hour: 13
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=a9vb1uzF7DMKrqODW3hHOmjElZCJhESaKQ9GgvunXeKfGfcEa%2BR%2Ft892jNjtg9%2B%2BmNwbEo0qI%2Bp1YrQkgYwf9rJtdXQPG%2Be42FXz7vYoYvb7Kwqf%2FvPCo%2B%2B2NZO2%2FQuShz645AQb2wasExG3vzsSdw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4857b191857b505-OSL
+alt-svc: h3=":443"; ma=86400

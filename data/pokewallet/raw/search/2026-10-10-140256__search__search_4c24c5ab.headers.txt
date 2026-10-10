@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Igglybuff&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:03:02 GMT
+Content-Type: application/json
+Content-Length: 27596
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 828
+X-RateLimit-Remaining-Hour: 30
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pfkE%2FLTzYweAvgoD1CBm03i%2BLlhHVLDATWIw9NOduQ%2BgFhvSwXkDFEUO4Uslp9QRXsIDqNu54k%2FRBUzow0PPRId4r3VOQ0kErBt7h12xCJFkmRS%2BT4rw%2BOUg5EQx1UQMKSaYre76RFo8Zp1C4Z9a3A%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4857ab4f9ed568d-OSL
+alt-svc: h3=":443"; ma=86400

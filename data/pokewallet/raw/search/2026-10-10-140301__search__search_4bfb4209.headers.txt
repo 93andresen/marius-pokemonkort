@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Meowth+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:03:07 GMT
+Content-Type: application/json
+Content-Length: 4312
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 822
+X-RateLimit-Remaining-Hour: 24
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FElMHqojCAC6898s%2BC4tljCwGGiw%2BOPSu26OtG8LiZbtO1mddZxdOn9M7iXeTmcllG8xNCH4P31p2yVNtC8FfVN%2FOfGSvjYajXmwrLmS4ebNn96S82SdUSNwQSw%2BKe6WdbzIaFpxNzFBt%2Fga%2FvimBg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4857ad7eb031a30-OSL
+alt-svc: h3=":443"; ma=86400

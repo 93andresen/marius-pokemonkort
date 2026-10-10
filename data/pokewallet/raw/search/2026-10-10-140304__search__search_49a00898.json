@@ -1,0 +1,1518 @@
+{
+  "query": "Marill",
+  "results": [
+    {
+      "id": "pk_dc7420061e62a940f8775cc6395936af75449f6b4fae30e7b98a08d4d4153d16cdf0fcc547ab1a554a060482",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "004/147",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Bubble Turn</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Azumarill is on your Bench, you may flip a coin. If heads, return Azumarill and all cards attached to it to your hand.",
+        "attacks": [
+          "[2W] Aqua Sonic (40)\r\n<br>Don't apply Resistance."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.99,
+            "mid_price": 174.99,
+            "high_price": 419.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 33.82,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 200,
+            "mid_price": 504.86,
+            "high_price": 809.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83680"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": 6.06,
+            "low": 1.5,
+            "avg1": 3.95,
+            "avg7": 5.85,
+            "avg30": 10.78,
+            "trend": 5.97,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 22.66,
+            "low": 9.65,
+            "avg1": 17,
+            "avg7": 26.2,
+            "avg30": 19.42,
+            "trend": 26.8,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Azumarill-V2-AQ4"
+      }
+    },
+    {
+      "id": "pk_97c3b082762f9f248abb675f66c6692922c679df8c5acd0671c32206c493f866cbc7570bfe327cc8e8bb99e87c39",
+      "card_info": {
+        "name": "Azumarill (H4)",
+        "clean_name": "Azumarill H4",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H04/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Bubble Turn</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Azumarill is on your Bench, you may flip a coin. If heads, return Azumarill and all cards attached to it to your hand.",
+        "attacks": [
+          "[2W] Aqua Sonic (40)\r\n<br>Don't apply Resistance."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59,
+            "mid_price": 67.18,
+            "high_price": 450,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 133.74,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83681"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": 59.8,
+            "low": 19.99,
+            "avg1": 58,
+            "avg7": 55.28,
+            "avg30": 66.79,
+            "trend": 72.94,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 10.2,
+            "avg30": 12.68,
+            "trend": 12.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Azumarill-V1-AQH4"
+      }
+    },
+    {
+      "id": "pk_56b9e93b87e5e788cb7439b601c848a01349531a9c17eed7f27ba0b616d17f161adf83192b396e2dd27fa61da4",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "053/147",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Headbutt (10)",
+          "[1W] Sleepy Ball (10)\r\n<br>The Defending Pokémon is now Asleep."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.99,
+            "mid_price": 36.04,
+            "high_price": 999.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 36.94,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 109.99,
+            "mid_price": 299.97,
+            "high_price": 425,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 40.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87212"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 8.62,
+            "low": 2.5,
+            "avg1": 14.19,
+            "avg7": 8.86,
+            "avg30": 9.02,
+            "trend": 7.88,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 5,
+            "avg1": 49.99,
+            "avg7": 24.3,
+            "avg30": 19.9,
+            "trend": 29.64,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Marill-AQ53"
+      }
+    },
+    {
+      "id": "pk_c1c152d7c1e1100165747781f6e8f848e388ce124a892a9f52f1b7693076d528c83d44a92064239d9bde4c166e",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "37/149",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Deep Dive - Flip 2 coins.  For each heads, heal 20 damage from this Pokemon.",
+          "[1WW] Aqua Sonic (70) This attack's damage isn't affected by Resistance."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.49,
+            "high_price": 19.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.63,
+            "mid_price": 4.56,
+            "high_price": 37.92,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 2.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83686"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": 1.3,
+            "low": 0.4,
+            "avg1": 1.4,
+            "avg7": 1.28,
+            "avg30": 1.34,
+            "trend": 1.51,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.47,
+            "low": 0.04,
+            "avg1": 0.14,
+            "avg7": 0.39,
+            "avg30": 0.46,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Azumarill-BCR37"
+      }
+    },
+    {
+      "id": "pk_76e026724073616a6c39f8bc210d25c3f14ae26bb1e9ef0e2adb1bb49880b2c1f27a829839a6569131f0d009fa",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "36/149",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Rollout (20)",
+          "[2W] Water Gun (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.7,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.54,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 3.78,
+            "mid_price": 9,
+            "high_price": 79.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.62,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87222"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 1.42,
+            "low": 0.02,
+            "avg1": 0.32,
+            "avg7": 0.87,
+            "avg30": 0.71,
+            "trend": 0.79,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.4,
+            "low": 0.15,
+            "avg1": 6.8,
+            "avg7": 5,
+            "avg30": 2.73,
+            "trend": 4.43,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Marill-BCR36"
+      }
+    },
+    {
+      "id": "pk_9019a996be530c6d024b4ab771d5c8238ecda00f9bec85496731a3ca5bf8a425f288ffb341d8abe082f381c6fe",
+      "card_info": {
+        "name": "Azumarill - 1/109 (EX Team Rocket Returns)",
+        "clean_name": "Azumarill 1 109 EX Team Rocket Returns",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "001/109",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Froth</strong>\r\n<br>\r\nOnce during your turn, when you play Azumarill from your hand to evolve 1 of your Active Pokémon, you may use this power. Each Defending Pokémon is now Paralyzed.",
+        "attacks": [
+          "[1W] Water Punch (20+)\r\n<br>Flip a coin for each Water Energy attached to Azumarill. This attack does 20 damage plus 20 more for each heads."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 5.27,
+            "high_price": 52.82,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 6.61,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125066"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_148fc72eab6521a73605f7027c395f9eceffe9b6b0df02d3705d7ff1eb971d82a0f092e0c04342bce761eabb3194",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "114/113",
+        "rarity": "Secret Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-BODY</b> Thick Fat  \r\n<br>Any damage done to Azumarill by attacks from Fire Pokemon and Water Pokemon is reduced by 30 <em>(after applying Weakness and Resistance).",
+        "attacks": [
+          "[1WW] Bubblebeam (40) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 110.9,
+            "mid_price": 423.29,
+            "high_price": 597.2,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 109.95,
+            "direct_low_price": 149.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83683"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": 14.82,
+            "low": 3,
+            "avg1": 30,
+            "avg7": 15.3,
+            "avg30": 21.24,
+            "trend": 17.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 10,
+            "avg1": 20,
+            "avg7": 15.83,
+            "avg30": 7.2,
+            "trend": 17.67,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Azumarill-DS114"
+      }
+    },
+    {
+      "id": "pk_41f3c87c2c71bde74bc147315af6f90e2456cb1aca44c341472b0553228ad042a79a7cb1a4005b53661326ed1d",
+      "card_info": {
+        "name": "Azumarill (Delta Species)",
+        "clean_name": "Azumarill Delta Species",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "19/113",
+        "rarity": "Rare",
+        "card_type": "Metal Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Bubblebeam (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[2W] Rolling Tackle (50)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.77,
+            "mid_price": 10.59,
+            "high_price": 132.9,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 9.42,
+            "direct_low_price": 95.51,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 76.99,
+            "mid_price": 79.49,
+            "high_price": 804.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 79.32,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83687"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill δ Delta Species",
+        "prices": [
+          {
+            "avg": 3.63,
+            "low": 1,
+            "avg1": 3,
+            "avg7": 4.33,
+            "avg30": 3.86,
+            "trend": 4.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 10.9,
+            "low": 3.95,
+            "avg1": 9.95,
+            "avg7": 18.63,
+            "avg30": 15.66,
+            "trend": 16.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Azumarill-Delta-Species-DS19"
+      }
+    },
+    {
+      "id": "pk_d71b5e12b642c31ad281ff7567f9770a1d66b026916acc35870b2ce2e81c15a2328ca9c90b87c32131411823f8",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "76/113",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Rollout (10)",
+          "[2] Jump On (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.41,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.43,
+            "direct_low_price": 3.99,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 37.99,
+            "mid_price": 81.31,
+            "high_price": 359.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 37.32,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87217"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 14.7,
+            "low": 2,
+            "avg1": 7.4,
+            "avg7": 12.39,
+            "avg30": 8.58,
+            "trend": 11.76,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.45,
+            "low": 0.02,
+            "avg1": 0.85,
+            "avg7": 0.55,
+            "avg30": 0.47,
+            "trend": 0.45,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Marill-DS76"
+      }
+    },
+    {
+      "id": "pk_b587aae8fc6aebaa4d9d7cf3784c2723a150a9356f9519d3feaef6873c5be15727e2895e60c6ba12d54be4832b",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "18/130",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Defense Curl\r\n<br>\r\nFlip a coin. If heads, prevent all damage done to Azumarill during your opponent's next turn.",
+          "[WW] Bubble Pump (40+)\r\n<br>\r\nIf Azumarill has 3 or more Energy attached to it, this attack does 40 damage plus 20 more damage. If Azurill is anywhere under Azumarill, flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "L+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.13,
+            "mid_price": 3.49,
+            "high_price": 42.94,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.48,
+            "direct_low_price": 42.94,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 11.49,
+            "high_price": 42.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 7.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83684"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill Lv.35",
+        "prices": [
+          {
+            "avg": 1.11,
+            "low": 0.1,
+            "avg1": 2.5,
+            "avg7": 1.47,
+            "avg30": 1.52,
+            "trend": 1.33,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.31,
+            "low": 0.2,
+            "avg1": 2.9,
+            "avg7": 2.05,
+            "avg30": 2.47,
+            "trend": 2.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Azumarill-Lv35-DP18"
+      }
+    },
+    {
+      "id": "pk_e92580e218f2fdbf0c8562b6ca809ab51aa929a6033498f07b059c9dd33f2c6350c82a8aedfb735cf20badf8dc",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "88/130",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Rollout (10+)\r\n<br>\r\nIf Marill is evolved from Azurill, this attack does 10 damage plus 20 more damage.",
+          "[WW] Splashing Turn (20)\r\n<br>\r\nSwitch Marill with 1 of your Benched Pokémon."
+        ],
+        "weakness": "L+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.55,
+            "mid_price": 2,
+            "high_price": 23.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.5,
+            "direct_low_price": 19.5,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 17.4,
+            "mid_price": 19.62,
+            "high_price": 34.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 24.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87218"
+      },
+      "cardmarket": {
+        "product_name": "Marill Lv.12",
+        "prices": [
+          {
+            "avg": 0.57,
+            "low": 0.02,
+            "avg1": 0.4,
+            "avg7": 0.25,
+            "avg30": 0.51,
+            "trend": 0.76,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.4,
+            "low": 0.5,
+            "avg1": 2.24,
+            "avg7": 2.94,
+            "avg30": 2.35,
+            "trend": 2.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Marill-Lv12-DP88"
+      }
+    },
+    {
+      "id": "pk_2587ab7c52e88ee0d99dfe04f4dad613138db3532dda954628fdbe5603eb90ba712c5e80a852244277295f9133cb",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "120/165",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2] Tail Slap (20)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.85,
+            "mid_price": 9.99,
+            "high_price": 76.42,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 7.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 53.99,
+            "mid_price": 184.99,
+            "high_price": 250,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 23.98,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87215"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 23.54,
+            "low": 1.99,
+            "avg1": 16,
+            "avg7": 21.65,
+            "avg30": 14.87,
+            "trend": 22.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.23,
+            "low": 0.25,
+            "avg1": 4.99,
+            "avg7": 2.4,
+            "avg30": 2.85,
+            "trend": 4.04,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Marill-EX120"
+      }
+    },
+    {
+      "id": "pk_13b0aa55ace1609e0bf9de08099fdf49cf3488832191927db59b48e3dcb5427196102df52647cbbab5f8bb5a",
+      "card_info": {
+        "name": "Marill (#15)",
+        "clean_name": "Marill 15",
+        "set_name": "HGSS Trainer Kit: Gyarados & Raichu",
+        "set_code": "PR",
+        "set_id": "1540",
+        "card_number": "15/30",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Splash (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+          "[2W] Tail Slap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.78,
+            "mid_price": 2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87220"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.3,
+            "low": 0.02,
+            "avg1": 2.5,
+            "avg7": 1.23,
+            "avg30": 1.11,
+            "trend": 1.64,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HS-Trainer-Kit/Marill-V1-TK4blue-15"
+      }
+    },
+    {
+      "id": "pk_0777fe63530bcb76f2a2116f5e51b13524d0540c0209542aa3db123ed0f80607675159572f65f390e75b7bcb",
+      "card_info": {
+        "name": "Marill (#24)",
+        "clean_name": "Marill 24",
+        "set_name": "HGSS Trainer Kit: Gyarados & Raichu",
+        "set_code": "PR",
+        "set_id": "1540",
+        "card_number": "24/30",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Splash (10+) \r\n<Br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+          "[2W] Tail Slap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.1,
+            "high_price": 19.98,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87221"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 1.58,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 1.96,
+            "avg30": 1.16,
+            "trend": 1.87,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HS-Trainer-Kit/Marill-V2-TK4G24"
+      }
+    },
+    {
+      "id": "pk_4e1ff230c3911e7390c1da322ce4a46501438097d60a45fcc7e6958ead651ee8e9456715d5f657619c318336",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "2/123",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WW] Waterfall (40)",
+          "[2W] Bubblebeam (60) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.69,
+            "mid_price": 10.02,
+            "high_price": 102.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 10.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 4.54,
+            "mid_price": 9.9,
+            "high_price": 13.95,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 15,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83685"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": 5.42,
+            "low": 0.4,
+            "avg1": 9.99,
+            "avg7": 5.03,
+            "avg30": 4.38,
+            "trend": 5.83,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.33,
+            "low": 1.49,
+            "avg1": 3,
+            "avg7": 5.12,
+            "avg30": 4.7,
+            "trend": 5.7,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Azumarill-HS2"
+      }
+    },
+    {
+      "id": "pk_f1c30642e94c2138db52ece0e9536e5c20c60e06f5cdf5bb9e1d1b71c115c2556bccc87dbc190aedc8c8a90916",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "74/123",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Splash (10+) Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+          "[2W] Tail Slap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.72,
+            "high_price": 20,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.91,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 8.5,
+            "mid_price": 13.81,
+            "high_price": 206398.93,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 9.29,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87219"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 0.51,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.3,
+            "avg30": 0.4,
+            "trend": 0.34,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.32,
+            "low": 0.4,
+            "avg1": 2.99,
+            "avg7": 3.08,
+            "avg30": 3.06,
+            "trend": 3.28,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Marill-HS74"
+      }
+    },
+    {
+      "id": "pk_d175779691d40f1749c222131ac49ec5988ba4d8e680e7712c448ad6c42280f0dc8de34c75b0c2b9038ef4f9ba23",
+      "card_info": {
+        "name": "Marill - 10/12",
+        "clean_name": "Marill",
+        "set_name": "McDonald's Promos 2015",
+        "set_code": "MCD15",
+        "set_id": "1694",
+        "card_number": "010/012",
+        "rarity": "Promo",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "70",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tackle (10)",
+          "[1Y] Rollout (20)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 13.89,
+            "high_price": 96.77,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 10.74,
+            "direct_low_price": 95.59,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/110430"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.99,
+            "avg7": 3.42,
+            "avg30": 3.42,
+            "trend": 4.22,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 39.99,
+            "low": 1.95,
+            "avg1": 39.99,
+            "avg7": 12.64,
+            "avg30": 6.21,
+            "trend": 11.42,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2015/Marill-MCD1510"
+      }
+    },
+    {
+      "id": "pk_dd5ba6abd6964ddd9f50ba72a01f397a99f6f7c5d7d0138fef32c118c4d24d7a4daccdf597661582f2634e05b9",
+      "card_info": {
+        "name": "Light Azumarill",
+        "clean_name": "Light Azumarill",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "013/105",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2W] Bubble Jump (30)\r\n<br>\r\nIf you have any Benched Pokémon, flip a coin. If heads, take 2 Energy cards attached to Light Azumarill and attach them to 1 of your Benched Pokémon. Then return Light Azumarill and all cards attached to it to your hand."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 239.95,
+            "mid_price": 1024.79,
+            "high_price": 1809.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 62.49,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 27.29,
+            "mid_price": 44.26,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 37.71,
+            "direct_low_price": 27.29,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86735"
+      },
+      "cardmarket": {
+        "product_name": "Light Azumarill",
+        "prices": [
+          {
+            "avg": 13.76,
+            "low": 1.98,
+            "avg1": 130,
+            "avg7": 35.49,
+            "avg30": 17.84,
+            "trend": 31.32,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.89,
+            "avg7": 6.06,
+            "avg30": 7.73,
+            "trend": 7.3,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Light-Azumarill-NDE13"
+      }
+    },
+    {
+      "id": "pk_5454d464db3c02004a1e47924ad001fc7c28205c024fc77870f7da23125d8f83a735c269803301994dbad407",
+      "card_info": {
+        "name": "Azumarill",
+        "clean_name": "Azumarill",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "002/111",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tackle (20)",
+          "[WWW] Bubble Shower (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 74,
+            "mid_price": 128.95,
+            "high_price": 729.26,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 113.58,
+            "direct_low_price": 728.63,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 21.62,
+            "mid_price": 27.42,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 28.46,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83678"
+      },
+      "cardmarket": {
+        "product_name": "Azumarill",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.49,
+            "avg7": 6.79,
+            "avg30": 7.83,
+            "trend": 10.12,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 24.92,
+            "low": 3,
+            "avg1": 20.88,
+            "avg7": 82.03,
+            "avg30": 39.98,
+            "trend": 38.43,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Azumarill-NG2"
+      }
+    },
+    {
+      "id": "pk_ecca7542adf9ce374bf2a045f19e397615d6d9b13dcd5355b7ef4212353165d954e63b9a854ecaf5dd944e974e",
+      "card_info": {
+        "name": "Marill",
+        "clean_name": "Marill",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "066/111",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Defense Curl\r\n<br>Flip a coin. If heads, prevent all damage done to Marill during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[WW] Bubble Bomb (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Marill does 10 damage to itself."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.63,
+            "mid_price": 6.19,
+            "high_price": 47.21,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.19,
+            "mid_price": 0.88,
+            "high_price": 23.49,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.86,
+            "direct_low_price": 0.77,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87213"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 0.92,
+            "low": 0.02,
+            "avg1": 0.22,
+            "avg7": 0.73,
+            "avg30": 0.86,
+            "trend": 0.82,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Marill-NG66"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 123,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 123,
+    "tcg": 109,
+    "cardmarket": 111,
+    "tcg_only": 12,
+    "cardmarket_only": 14,
+    "both_sources": 97
+  }
+}

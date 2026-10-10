@@ -1,0 +1,1381 @@
+{
+  "query": "Cleffa",
+  "results": [
+    {
+      "id": "pk_c7bdbcf94464333394b36c96dcb87adef8ee4e094bf42c9c83242f63f12ba09363f5ed0abe285b700aa7901c97cdedd0",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX - 143a/236",
+        "clean_name": "Togepi and Cleffa and Igglybuff GX 143a 236",
+        "set_name": "Alternate Art Promos",
+        "set_code": "PR",
+        "set_id": "1938",
+        "card_number": "143a/236",
+        "rarity": "Promo",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": "<em>TAG TEAM rule — When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[1YY] Rolling Panic (120+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "<span style=\"color:Teal\"><strong>[YY+] Supreme Puff GX</strong>\r\n<br>Take another turn after this one. <em>(Skip the between-turns step.)</em> If this Pokémon has at least 14 extra Fairy Energy attached to it <em>(in addition to this attack’s cost)</em>, your opponent shuffles all of their Benched Pokémon and all cards attached to them into their deck.<em> (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 250,
+            "mid_price": 324.58,
+            "high_price": 599.69,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 295.07,
+            "direct_low_price": 308.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/226129"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_51bcdd8945c3a1791738089426ad0cb118c4ac43e9be58ce6b372a25c50e33d96d3afe9f3ee0d20bfd60ee38",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "24/95",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "Sweet Sleeping Face - As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.  (Poke-BODY)",
+        "attacks": [
+          "[0] Eeeeeeek - Shuffle your hand into your deck, then draw 6 cards.  Cleffa is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.92,
+            "mid_price": 11.5,
+            "high_price": 114.57,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 7.92,
+            "direct_low_price": 90.9,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 12,
+            "mid_price": 14.67,
+            "high_price": 39.99,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 16.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84369"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 5.69,
+            "low": 0.2,
+            "avg1": 4.5,
+            "avg7": 4.63,
+            "avg30": 4.84,
+            "trend": 5.64,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 16.32,
+            "low": 1,
+            "avg1": 5.98,
+            "avg7": 9.72,
+            "avg30": 6.69,
+            "trend": 8.35,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Cleffa-CL24"
+      }
+    },
+    {
+      "id": "pk_7431196b74438f24eb26a3c9d974cc731dac0fb2d42376b2b0b2b9493c4dc0d10f5c2c284248e8b0148c32f263f4",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Celebrations: Classic Collection",
+        "set_code": "CCC",
+        "set_id": "2931",
+        "card_number": "20/111",
+        "rarity": "Classic Collection",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[1] <strong>Eeeeeeek</strong>\r\n<br>Shuffle your hand into your deck, then draw 7 cards."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.9,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 2.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250326"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 2.01,
+            "low": 0.7,
+            "avg1": 1.74,
+            "avg7": 1.8,
+            "avg30": 1.95,
+            "trend": 1.86,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Cleffa"
+      }
+    },
+    {
+      "id": "pk_50c5246d0a0aa187234ecc3f28bba509e765522a8a6dede9d7ca64dcdf17cf212161af64ff4a43da380a203c91",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "78/130",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put Clefairy from your hand onto Cleffa (this counts as evolving Cleffa) and remove all damage counters from Cleffa.",
+        "attacks": [
+          "[0] Eeek\r\n<br>\r\nDraw a card."
+        ],
+        "weakness": "F+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.57,
+            "mid_price": 1.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.77,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 8.41,
+            "mid_price": 9.25,
+            "high_price": 54.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84366"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa Lv.5",
+        "prices": [
+          {
+            "avg": 4.81,
+            "low": 0.5,
+            "avg1": 3.5,
+            "avg7": 3.73,
+            "avg30": 2.2,
+            "trend": 3.51,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.47,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.24,
+            "avg30": 0.43,
+            "trend": 0.53,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Cleffa-Lv5-DP78"
+      }
+    },
+    {
+      "id": "pk_85a051bb4d9b3f226eea4433f75f2bf0fc3ee9f33f91de25e399cedc1cf09e1ff4844d76c10a05f9d90c6d7381",
+      "card_info": {
+        "name": "Cleffa - HGSS12",
+        "clean_name": "Cleffa HGSS12",
+        "set_name": "HGSS Promos",
+        "set_code": "PR",
+        "set_id": "1453",
+        "card_number": "HGSS12",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Sweet Sleeping Face</strong>\r\n<br>\r\nAs long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+        "attacks": [
+          "[0] Eeeeeeek \r\n<br>Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.39,
+            "mid_price": 37.5,
+            "high_price": 199.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 28.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84368"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.99,
+            "avg7": 6.92,
+            "avg30": 6.92,
+            "trend": 10.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 26.23,
+            "avg7": 25.82,
+            "avg30": 21.06,
+            "trend": 27.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Cleffa-HGSS12"
+      }
+    },
+    {
+      "id": "pk_4c551da9830ccc08733e3776af0f66e402e6fc60cece625f1b3ec16c2be01b48323ad696d320dba6118ffc17df",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "17/123",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "Sweet Sleeping Face - As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.  (Poke-BODY)",
+        "attacks": [
+          "[0] Eeeeeeek - Shuffle your hand into your deck, then draw 6 cards.  Cleffa is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 6.21,
+            "high_price": 58.92,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 5.94,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 96.95,
+            "high_price": 969.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 14.04,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84367"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 11.37,
+            "low": 0.7,
+            "avg1": 3.99,
+            "avg7": 8.79,
+            "avg30": 5.71,
+            "trend": 9.02,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.14,
+            "low": 0.49,
+            "avg1": 1.8,
+            "avg7": 2.88,
+            "avg30": 3.01,
+            "trend": 2.81,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Cleffa-HS17"
+      }
+    },
+    {
+      "id": "pk_1a4729792444bd9a7f36b287c00ba35bcfbe4a0f512bc991dbbc5c4a289e8419ae44a6b7b64f8c6a81db64c08b",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "020/111",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.</em>",
+        "attacks": [
+          "[1] Eeeeeeek\r\n<br>Shuffle your hand into your deck, then draw 7 cards."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.96,
+            "mid_price": 73.99,
+            "high_price": 299.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 24.89,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 7.99,
+            "mid_price": 15,
+            "high_price": 4321,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 15.97,
+            "direct_low_price": 95.9,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84362"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.5,
+            "avg7": 7.05,
+            "avg30": 6.49,
+            "trend": 8.29,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.85,
+            "low": 1,
+            "avg1": 8.5,
+            "avg7": 10,
+            "avg30": 11.64,
+            "trend": 2.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Cleffa-NG20"
+      }
+    },
+    {
+      "id": "pk_87d4646e8b7f27157862d1d0b967b217659788b733e28da5e33946f7aff5f4492fbf7087c2c3454e149b6d6f5ad811",
+      "card_info": {
+        "name": "Togepi & Cleffa & Igglybuff GX",
+        "clean_name": "Togepi and Cleffa and Igglybuff GX",
+        "set_name": "SM - Cosmic Eclipse",
+        "set_code": "SM12",
+        "set_id": "2534",
+        "card_number": "143/236",
+        "rarity": "Ultra Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1YY] Rolling Panic (120+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "<span style=\"color:Teal\"><strong>[YY+] Supreme Puff GX</strong>\r\n<br>Take another turn after this one. <em>(Skip the between-turns step.)</em> If this Pokemon has at least 14 extra Fairy Energy attached to it <em>(in addition to this attack’s cost)</em>, your opponent shuffles all of their Benched Pokemon and all cards attached to them into their deck.<em> (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45,
+            "mid_price": 67.65,
+            "high_price": 301.92,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 64.33,
+            "direct_low_price": 67.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/200353"
+      },
+      "cardmarket": {
+        "product_name": "Togepi & Cleffa & Igglybuff GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.95,
+            "avg7": 4.21,
+            "avg30": 4.07,
+            "trend": 4.49,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 32.79,
+            "low": 6.49,
+            "avg1": 35,
+            "avg7": 26.61,
+            "avg30": 36.87,
+            "trend": 23.12,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Togepi-Cleffa-Igglybuff-GX-V1-CEC143"
+      }
+    },
+    {
+      "id": "pk_207dda1946c1c60ac95b4d093c28b51c1fd45d86254bc4d5338e69ae86eda83df1f0567f1fad3e6c8a49c41251a775",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "131/214",
+        "rarity": "Uncommon",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Excitable Draw</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may flip a coin. If heads, shuffle your hand into your deck and then draw 6 cards. If you use this Ability, your turn ends.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.59,
+            "mid_price": 7.15,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 7.11,
+            "direct_low_price": 7.11,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 27.15,
+            "mid_price": 38.56,
+            "high_price": 261.72,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 34.46,
+            "direct_low_price": 34.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189229"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 24.49,
+            "low": 9.99,
+            "avg1": 24.95,
+            "avg7": 17.85,
+            "avg30": 10.74,
+            "trend": 20.79,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.5,
+            "low": 0.25,
+            "avg1": 3.4,
+            "avg7": 3.52,
+            "avg30": 4.08,
+            "trend": 3,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Cleffa-UNB131"
+      }
+    },
+    {
+      "id": "pk_b8e9b6e0020def568fa2087280313f9b9cd07399603e812233fa149973a982426ba9567aa6ffd9065273f45b9dd79a",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "080/197",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Grasping Draw\r\n<br>Draw cards until you have 7 cards in your hand."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.49,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.49,
+            "direct_low_price": 0.43,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509809"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.16,
+            "avg30": 0.12,
+            "trend": 0.17,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Cleffa-V1-OBF080"
+      }
+    },
+    {
+      "id": "pk_badcb4d9c786d03e7d36bd02ca52fd69d453317526e95a9f5d8e5229783bace507ff6d84af375ece6bab0841bb34039c",
+      "card_info": {
+        "name": "Cleffa - 202/197",
+        "clean_name": "Cleffa",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "202/197",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Grasping Draw\r\n<br>Draw cards until you have 7 cards in your hand."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 28,
+            "mid_price": 38.94,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 35.79,
+            "direct_low_price": 29.92,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509949"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 24.83,
+            "low": 7,
+            "avg1": 18.71,
+            "avg7": 35.14,
+            "avg30": 25.09,
+            "trend": 26.76,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Cleffa-V2-OBF202"
+      }
+    },
+    {
+      "id": "pk_adbe7fb9d0708ccc7c80d2179714bb9125528f1bb48fa32c2f8873f2c661d842ce761a0d9ba707cf5075d5d747cdd25e",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "SV: Paldean Fates",
+        "set_code": "PAF",
+        "set_id": "23353",
+        "card_number": "150/091",
+        "rarity": "Shiny Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Grasping Draw\r\n<br>Draw cards until you have 7 cards in your hand."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.48,
+            "mid_price": 8.49,
+            "high_price": 49.99,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 7.35,
+            "direct_low_price": 7.54,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/534636"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 2.54,
+            "low": 0.97,
+            "avg1": 1.76,
+            "avg7": 2.58,
+            "avg30": 2.47,
+            "trend": 2.63,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Cleffa-PAF150"
+      }
+    },
+    {
+      "id": "pk_5cef1ac1bdd325c539206a21f6bb5f7695979ef69e85af9c28361052f33ff0983cc8b7098e2e865d37c90c",
+      "card_info": {
+        "name": "Cleffa - 037 (Prerelease)",
+        "clean_name": "Cleffa 037 Prerelease",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "037",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Grasping Draw\r\n<br>\r\nDraw cards until you have 7 cards in your hand."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.99,
+            "mid_price": 7.91,
+            "high_price": 96.85,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 7.15,
+            "direct_low_price": 8.89,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/512896"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 11.71,
+            "low": 5,
+            "avg1": 17,
+            "avg7": 13.85,
+            "avg30": 11.21,
+            "trend": 12.52,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Cleffa-V1-SVP037"
+      }
+    },
+    {
+      "id": "pk_3c32243210409c3a6f8731b5adb60f60e10731223b5687c27291d6d767e86ae1d4aa0a85ba4b0cebc450b6",
+      "card_info": {
+        "name": "Cleffa - 037 (Prerelease) [Staff]",
+        "clean_name": "Cleffa 037 Prerelease Staff",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "037",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Grasping Draw\r\n<br>\r\nDraw cards until you have 7 cards in your hand."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 95.99,
+            "mid_price": 149.97,
+            "high_price": 1009.62,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 61.16,
+            "direct_low_price": 149.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/513423"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 12.48,
+            "low": 11,
+            "avg1": 15.5,
+            "avg7": 24.49,
+            "avg30": 36.16,
+            "trend": 26.5,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Cleffa-V2-SVP037"
+      }
+    },
+    {
+      "id": "pk_e94e03bea17f83efd1f12ff3d7c4b24727f071e28a7d3919b69324f5765900b878b03c3ce82e4c405e371c",
+      "card_info": {
+        "name": "Cleffa - 095",
+        "clean_name": "Cleffa",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "095",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Twinkling Hope\r\n<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.27,
+            "high_price": 5,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 2.3,
+            "direct_low_price": 2.78,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/544201"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.59,
+            "avg7": 0.54,
+            "avg30": 0.48,
+            "trend": 0.47,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Cleffa-SVP095"
+      }
+    },
+    {
+      "id": "pk_ba8d3cf1983bd36942bc4351e13492d3ce3d7a874a331f75683e7351a490ba4ce337c140e060abc9a0f5e17c08",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "048/144",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+        "attacks": [
+          "[1] Energy Recycle\r\n<br>Shuffle a basic Energy card from your discard pile into your deck."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 42.69,
+            "mid_price": 63.5,
+            "high_price": 321.91,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 44.23,
+            "direct_low_price": 45.22,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 138.96,
+            "mid_price": 138.96,
+            "high_price": 138.96,
+            "updated_at": "2026-10-09T11:35:17.687658",
+            "market_price": 119.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84364"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 10.85,
+            "low": 1.5,
+            "avg1": 8.33,
+            "avg7": 7.88,
+            "avg30": 9.29,
+            "trend": 10.11,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 58.13,
+            "low": 4,
+            "avg1": 99,
+            "avg7": 40.69,
+            "avg30": 45.77,
+            "trend": 58.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Cleffa-SK48"
+      }
+    },
+    {
+      "id": "pk_da2625721f18e8f8e0cee886675b8d320bcf5dfbe60e61c55160298c6bcb9e177fea75695359fe196aae3c8930",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "Unseen Forces",
+        "set_code": "UF",
+        "set_id": "1398",
+        "card_number": "21/115",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Baby Evolution \r\n<br>Once during your turn <em>(before your attack)</em>, you may put Clefairy from your hand onto Cleffa <em>(this counts as evolving Cleffa)</em> and remove all damage counters from Cleffa.",
+        "attacks": [
+          "[1] Eeeeeeek \r\n<br>Shuffle your hand into your deck, then draw 6 cards."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.99,
+            "mid_price": 29.4,
+            "high_price": 299.22,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 29.22,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 108.22,
+            "mid_price": 154.11,
+            "high_price": 200,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 149.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84365"
+      },
+      "cardmarket": {
+        "product_name": "Cleffa",
+        "prices": [
+          {
+            "avg": 7.01,
+            "low": 0.5,
+            "avg1": 10.45,
+            "avg7": 8.11,
+            "avg30": 7.04,
+            "trend": 8.67,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 22.88,
+            "low": 6,
+            "avg1": 7,
+            "avg7": 22.48,
+            "avg30": 21.08,
+            "trend": 28.72,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Unseen-Forces/Cleffa-UF21"
+      }
+    },
+    {
+      "id": "pk_4bd3f78448b7878f762aa14211bff072b22a2db47eecc92f7b9b22024bc9f6df7c3be41ababab9739ba19cc1",
+      "card_info": {
+        "name": "Cleffa",
+        "clean_name": "Cleffa",
+        "set_name": "WoTC Promo",
+        "set_code": "PR",
+        "set_id": "1418",
+        "card_number": "31/53",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<em>If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.</em>",
+        "attacks": [
+          "[1] Eek\r\n<br>Draw 2 cards."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13,
+            "mid_price": 19.75,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 15.94,
+            "direct_low_price": 19.7,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84363"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_31f6454104c8440fe395ac21ef11ac989f20a9f17057bc2117dee701fe26d24116f01be469bf83f61e17e5e68a88",
+      "card_info": {
+        "name": "Cleffa - 2011 (David Cohen)",
+        "clean_name": "Cleffa 2011 David Cohen",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "17/123",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Sweet Sleeping Face</strong>\r\n<br>\r\nAs long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+        "attacks": [
+          "[0] Eeeeeeek\r\n<br>\r\nShuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.57,
+            "mid_price": 10,
+            "high_price": 50.42,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 4.6,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480361"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2c65d4049a59b88712037d37dbf25c6e18a5f9ed16de39d4e0db459a5c53ceacbf02556d165e52cd4af0556d05",
+      "card_info": {
+        "name": "Cleffa - 2011 (Gustavo Wada)",
+        "clean_name": "Cleffa 2011 Gustavo Wada",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "24/95",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Sweet Sleeping Face</strong>\r\n<br>\r\nAs long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+        "attacks": [
+          "[0] Eeeeeeek\r\n<br>\r\nShuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.49,
+            "mid_price": 6.49,
+            "high_price": 6.49,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 4.61,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480364"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 55,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 55,
+    "tcg": 43,
+    "cardmarket": 47,
+    "tcg_only": 8,
+    "cardmarket_only": 12,
+    "both_sources": 35
+  }
+}

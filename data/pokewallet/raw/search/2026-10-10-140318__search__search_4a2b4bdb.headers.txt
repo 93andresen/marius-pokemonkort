@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Arcanine+Base+Set&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:03:24 GMT
+Content-Type: application/json
+Content-Length: 10906
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 804
+X-RateLimit-Remaining-Hour: 6
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SgOzb1Jd8GnV0pjYPDc3VmbtYKBClVCDP5pz9LX5BY5XMNvc7qhe5UDuLJYu6oV9g8avrsnzh2szqo1ZYtqRTYz2nINxuP%2F0Ql7LocwAkbEkIXYZOnaUN0UIFnxJZw7%2BoN1NL8qCKPb9tMbKwXXfqQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4857b449dc7b28a-OSL
+alt-svc: h3=":443"; ma=86400

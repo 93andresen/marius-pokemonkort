@@ -1,0 +1,1558 @@
+{
+  "query": "Misdreavus",
+  "results": [
+    {
+      "id": "pk_2848d40d63cbe794526f253246ddb2a31aa907cf72c66cff160d861078422a294aca6dba7b6e5f7527080d5f",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "65/95",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Mumble (10)",
+          "[P] Dual Draw - Each player draws 3 cards."
+        ],
+        "weakness": "Dx2",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.41,
+            "high_price": 17.08,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.47,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.99,
+            "mid_price": 6.85,
+            "high_price": 72.21,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87512"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.02,
+            "avg1": 0.4,
+            "avg7": 0.25,
+            "avg30": 0.35,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.2,
+            "avg1": 5.23,
+            "avg7": 6.02,
+            "avg30": 3.55,
+            "trend": 5.89,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Misdreavus-CL65"
+      }
+    },
+    {
+      "id": "pk_9481f62873039be0ed43f40f102757240a46a442b87aac9457d453ed3a24f5ce27b4c17863a44d30e3afae0596",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "91/130",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Astonish\r\n<br>\r\nChoose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.",
+          "[1P] Confuse Ray (20)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "D+10",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.37,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.44,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.47,
+            "mid_price": 3.5,
+            "high_price": 40.12,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 2.91,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87506"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus Lv.16",
+        "prices": [
+          {
+            "avg": 0.29,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.64,
+            "avg30": 0.26,
+            "trend": 0.52,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.6,
+            "low": 0.2,
+            "avg1": 2.5,
+            "avg7": 2.91,
+            "avg30": 2.08,
+            "trend": 3.14,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Misdreavus-Lv16-DP91"
+      }
+    },
+    {
+      "id": "pk_028fc644b820c3b58f4099aaf8cd747509eb9cf29ceeab7ef68cec20f2a75dd57dc819ec3bd14c60e6b4d7b2",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "40/92",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Deep Sleep \r\n<br>As long as Misdreavus is your Active Pokemon, each player flips 2 coins for each of his or her Pokemon that is Asleep between turns.  If either coin is tails, that Pokemon is still Asleep.",
+        "attacks": [
+          "[1] Return Trance \r\n<br>Return an Energy card attached to Misdreavus to your hand.  The Defending Pokemon is now Asleep.",
+          "[P] Dream Eater (30) \r\n<br>If the Defending Pokemon is not Asleep, this attack does nothing."
+        ],
+        "weakness": "D",
+        "resistance": "F",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1.08,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.08,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 26.75,
+            "mid_price": 60,
+            "high_price": 119.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 22.67,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87505"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.85,
+            "low": 0.05,
+            "avg1": 0.65,
+            "avg7": 0.96,
+            "avg30": 0.93,
+            "trend": 0.69,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 13.29,
+            "low": 4.3,
+            "avg1": 14.94,
+            "avg7": 13.76,
+            "avg30": 12.8,
+            "trend": 13.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Misdreavus-LM40"
+      }
+    },
+    {
+      "id": "pk_040929ac8957f5097fc345229d6ed1000052f36102a001feebfcdd114c7b296a1a266e07e353dc3aa92a2b2176",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Legendary Treasures",
+        "set_code": "LTR",
+        "set_id": "1409",
+        "card_number": "57/113",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Spooky Shot (20)"
+        ],
+        "weakness": "Dx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.44,
+            "high_price": 18.38,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.94,
+            "mid_price": 7.5,
+            "high_price": 68.62,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 1.09,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87513"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.38,
+            "low": 0.1,
+            "avg1": 0.43,
+            "avg7": 0.4,
+            "avg30": 0.59,
+            "trend": 0.44,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3,
+            "low": 3.85,
+            "avg1": 4.4,
+            "avg7": 4.23,
+            "avg30": 3.46,
+            "trend": 4.51,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Misdreavus-LTR57"
+      }
+    },
+    {
+      "id": "pk_4d8ab4ed47c5941d5f7a12879c8c1e1e3e9b8426fb1be0eed8ba79dbba1cd8e33186d617658d3f9bdb60ade00b46",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "107/146",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Show Off\r\n<br>\r\nSearch your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+          "[P] Payback (10+)\r\n<br>\r\nIf your opponent has only 1 Prize card left, this attack does 10 damage plus 20 more damage."
+        ],
+        "weakness": "D+10",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.63,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.89,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 27.92,
+            "mid_price": 33.82,
+            "high_price": 39.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.77,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87507"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus Lv.18",
+        "prices": [
+          {
+            "avg": 0.33,
+            "low": 0.02,
+            "avg1": 0.22,
+            "avg7": 0.37,
+            "avg30": 0.33,
+            "trend": 0.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.7,
+            "low": 0.1,
+            "avg1": 10,
+            "avg7": 2.57,
+            "avg30": 2.44,
+            "trend": 2.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Misdreavus-Lv18-LA107"
+      }
+    },
+    {
+      "id": "pk_c877c3f5046924c8411108df5d1cf36c6e57eb6b721ae28233c2a267025a757240a36570228c7a3b7bff33bb66103f",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "035/094",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Petty Grudge (20)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.17,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.3,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.32,
+            "direct_low_price": 0.12,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/662198"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.12,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Misdreavus-PFL035"
+      }
+    },
+    {
+      "id": "pk_cac45041f41b21766a7e2639f2cc74ca7d52f03342631515d0bbe7cc3ba31c6527060fbfc06d149b2eb47ff2",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Neo Revelation",
+        "set_code": "N3",
+        "set_id": "1389",
+        "card_number": "11/64",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Night Eyes\r\n<br>The Defending Pokémon is now Asleep.",
+          "[PPP] Perish Song\r\n<br>If the Defending Pokémon is Asleep, and was attacked with Night Eyes during your last turn, it is Knocked Out."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.96,
+            "mid_price": 230,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 229.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 48.55,
+            "mid_price": 69.99,
+            "high_price": 338.98,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 84.84,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87501"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 45.74,
+            "low": 6,
+            "avg1": 39,
+            "avg7": 73.39,
+            "avg30": 66.15,
+            "trend": 78.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.32,
+            "avg7": 17.72,
+            "avg30": 17,
+            "trend": 19.08,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Misdreavus-NR11"
+      }
+    },
+    {
+      "id": "pk_d8b9310db01dabecad08703ff5342f50ed4cd41297311976326acf28fc0fbb3cf5c28982dd3766b24a45d4ed79",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "83/127",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Take Back - Flip a coin.  If heads, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand.",
+          "[1] Tackle (10)"
+        ],
+        "weakness": "D+10",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 2.99,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.33,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.5,
+            "mid_price": 3,
+            "high_price": 45.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 5.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87509"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus Lv.12",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.11,
+            "avg30": 0.12,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.61,
+            "low": 0.2,
+            "avg1": 0.3,
+            "avg7": 1.33,
+            "avg30": 1.23,
+            "trend": 1.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Misdreavus-Lv12-PL83"
+      }
+    },
+    {
+      "id": "pk_60664e00a03f8db7e220ff82494aef637d0c1d6b0766bd4be73a825ecdf20c804d7b928daa138d4029ff30e8b3a6",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "SM - Crimson Invasion",
+        "set_code": "SM04",
+        "set_id": "2071",
+        "card_number": "39/111",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Confuse Ray\r\n<br>Your opponent's Active Pokemon is now Confused."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 14.78,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.25,
+            "direct_low_price": 0.08,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.14,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.42,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/149062"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.38,
+            "low": 0.05,
+            "avg1": 0.36,
+            "avg7": 0.36,
+            "avg30": 0.35,
+            "trend": 0.39,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Misdreavus-CIN39"
+      }
+    },
+    {
+      "id": "pk_1cdfa313a384f5ee1d51f36d37e5cfd158705d02f1a3f911d9f462068698808595cc9f3d142d5b242d2fecbec0e4",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "77/214",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Ominous Eyes\r\n<br>Put 1 damage counter on 1 of your opponent's Pokémon."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.29,
+            "high_price": 15.5,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.29,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.48,
+            "direct_low_price": 0.34,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189177"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.1,
+            "avg30": 0.14,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.1,
+            "avg1": 0.29,
+            "avg7": 0.33,
+            "avg30": 0.34,
+            "trend": 0.36,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Misdreavus-UNB77"
+      }
+    },
+    {
+      "id": "pk_40ec09cdf9c926cc3a3bfdcd33780f053215439356d04c160d099a0bb0adcecb21f623d54996de258c59a3c78a3158",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "SV02: Paldea Evolved",
+        "set_code": "PAL",
+        "set_id": "23120",
+        "card_number": "087/193",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Hypnoblast (10)\r\n<br>Your opponent's Active Pokémon is now Asleep. (10)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.2,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/497501"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.11,
+            "avg30": 0.11,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Misdreavus-PAL087"
+      }
+    },
+    {
+      "id": "pk_3987e8ca93e839f00f3874bc1fffe7b5614abae633ae0321e5f2449f85d728fb3fbb0cac80e644bc8ea22e4c6aae",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "SWSH10: Astral Radiance",
+        "set_code": "SWSH10",
+        "set_id": "3040",
+        "card_number": "058/189",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Mumble (10)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.28,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 15.6,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/272259"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.24,
+            "avg30": 0.19,
+            "trend": 0.24,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Misdreavus-ASR058"
+      }
+    },
+    {
+      "id": "pk_4167ab5ad1aab3915aa7e300c5f8c5854726c3786466950e391785c933326af73e7f981667fd1afa46c8aeb971d5",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "SWSH12: Silver Tempest",
+        "set_code": "SWSH12",
+        "set_id": "3170",
+        "card_number": "063/195",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Confuse Ray (10)\r\n<br>\r\nFlip a coin. If heads, your opponent's Active Pokémon is now Confused."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 1000,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.14,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.08,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/451717"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.13,
+            "avg30": 0.15,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Misdreavus-SIT062"
+      }
+    },
+    {
+      "id": "pk_a4291dbfeeac82e4ede48fcb1e94832a86474bd8552373f5d5f092865e594383ea8a9c5af0f8d257279f28168a",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "039/144",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Hypnoblast (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep",
+          "[1P] Gift of Spite\r\n<br>Count the number of your Pokémon in play with damage counters on them. Put that many damage counters on the Defending Pokémon."
+        ],
+        "weakness": "D",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.5,
+            "mid_price": 50,
+            "high_price": 75,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 20.81,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 39.99,
+            "mid_price": 200,
+            "high_price": 599.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 67.59,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87502"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 10.42,
+            "low": 5,
+            "avg1": 12.99,
+            "avg7": 9.24,
+            "avg30": 15.31,
+            "trend": 7.85,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.29,
+            "low": 0.95,
+            "avg1": 12.99,
+            "avg7": 3.51,
+            "avg30": 4.17,
+            "trend": 4.04,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Misdreavus-SK39"
+      }
+    },
+    {
+      "id": "pk_32c4f5327ad20f1eace815b68bd8b1df4f3a6046a4c84af742baa6ba665bce3c93b33716a5625a57b1caa7f3aa",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Stormfront",
+        "set_code": "SF",
+        "set_id": "1369",
+        "card_number": "68/100",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Lullaby\r\n<br>\r\nThe Defending Pokémon is now Asleep.",
+          "[P] Nightmare Feast\r\n<br>\r\nIf the Defending Pokémon is Asleep, this attack does 50 damage and remove 5 damage counters from Misdreavus. If the Defending Pokémon is not Asleep, this attack does nothing."
+        ],
+        "weakness": "D+10",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.5,
+            "high_price": 15.78,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.7,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10.88,
+            "mid_price": 19.4,
+            "high_price": 62.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87508"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus Lv.19",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.19,
+            "avg30": 0.19,
+            "trend": 0.19,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.1,
+            "low": 0.2,
+            "avg1": 1.8,
+            "avg7": 1.63,
+            "avg30": 1.84,
+            "trend": 2.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Misdreavus-Lv19-STF68"
+      }
+    },
+    {
+      "id": "pk_f7fdce227f9e0b74ec97f081360a777b0dba259db3f7a59eb64dfce436b9c120f3de3b9840ae45d0d1e4fb1d7d",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Team Rocket Returns",
+        "set_code": "RR",
+        "set_id": "1428",
+        "card_number": "25/109",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Dark Spell \r<br>\n<br>Once during your turn <em>(before your attack)</em>, if Misdreavus is your Active Pokemon, you may flip a coin.  If heads, put 1 damage counter on 1 of your opponent's Pokemon.  This power can't be used if Misdreavus is affected by a Special Condition or if your other Active Pokemon is not Misdreavus.",
+        "attacks": [
+          "[1P] Hide in Shadows (20) \r\n<br>Switch Misdreavus with 1 of your Benched Pokemon."
+        ],
+        "weakness": "D",
+        "resistance": "F",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 4,
+            "high_price": 48.22,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 65,
+            "mid_price": 249.99,
+            "high_price": 539.42,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 74.84,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87504"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 54.98,
+            "low": 15,
+            "avg1": 72,
+            "avg7": 303.02,
+            "avg30": 100.79,
+            "trend": 146.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.73,
+            "low": 0.2,
+            "avg1": 7.5,
+            "avg7": 5.27,
+            "avg30": 7.5,
+            "trend": 3.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Rocket-Returns/Misdreavus-TRR25"
+      }
+    },
+    {
+      "id": "pk_805c45d65204b56115a18c018c43eeb490a3f29d6726d1b41dae3b4a6119d077da64eb096ebb4fba9c4a3ca255bf",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Trick or Trade BOOster Bundle",
+        "set_code": "TTBB",
+        "set_id": "3179",
+        "card_number": "058/189",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Mumble (10)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.21,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283820"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.19,
+            "avg30": 0.2,
+            "trend": 0.19,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade/Misdreavus-BOOASR-058"
+      }
+    },
+    {
+      "id": "pk_e3b1529571af67fa7ac5cfd69e4cb737f6844ae35ef55ca5cbd42fb3cca080dff7074f93672a731d9d2a64f5",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Undaunted",
+        "set_code": "UD",
+        "set_id": "1403",
+        "card_number": "57/90",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Mumble (10)",
+          "[P] Dual Draw - Each player draws 3 cards."
+        ],
+        "weakness": "Dx2",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.19,
+            "mid_price": 0.41,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.41,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.25,
+            "mid_price": 3.59,
+            "high_price": 27.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.09,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87511"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.08,
+            "avg30": 0.18,
+            "trend": 0.06,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.52,
+            "low": 0.2,
+            "avg1": 2.5,
+            "avg7": 2.45,
+            "avg30": 1.65,
+            "trend": 2.14,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Misdreavus-UD57"
+      }
+    },
+    {
+      "id": "pk_ac3d602c287aee6b67ea139bb4d53e5c5d578ee723b7b46791f49b84358c91dd24f9245e0c0006a287596434",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "Unleashed",
+        "set_code": "UL",
+        "set_id": "1399",
+        "card_number": "54/95",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Sharpshooting - Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "C-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.36,
+            "high_price": 18.6,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.36,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.84,
+            "mid_price": 24,
+            "high_price": 49.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.26,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87510"
+      },
+      "cardmarket": {
+        "product_name": "Misdreavus",
+        "prices": [
+          {
+            "avg": 4.88,
+            "low": 0.02,
+            "avg1": 2,
+            "avg7": 3.79,
+            "avg30": 2.63,
+            "trend": 3.84,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.17,
+            "avg30": 0.17,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Misdreavus-UL54"
+      }
+    },
+    {
+      "id": "pk_fb68d159a83504d23039248debf53074c4d7c58143ae89339e9ec6cbb7fd2ce80d31593edce6e55233342636",
+      "card_info": {
+        "name": "Misdreavus",
+        "clean_name": "Misdreavus",
+        "set_name": "WoTC Promo",
+        "set_code": "PR",
+        "set_id": "1418",
+        "card_number": "39/53",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Pain Split\r\n<br>Put 1 damage counter on the Defending Pokémon for each damage counter on Misdreavus.",
+          "[PP] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 9.14,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 8.92,
+            "direct_low_price": 7.74,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87503"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 61,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 61,
+    "tcg": 52,
+    "cardmarket": 54,
+    "tcg_only": 7,
+    "cardmarket_only": 9,
+    "both_sources": 45
+  }
+}

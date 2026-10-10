@@ -1,0 +1,1511 @@
+{
+  "query": "Kabutops",
+  "results": [
+    {
+      "id": "pk_d0a59bc96f6b1aee659c109e01eec0a988fd4a886373375a7b0df6629500b6c95c586ad3de28da19c9d94d",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Arceus",
+        "set_code": "AR",
+        "set_id": "1391",
+        "card_number": "4/99",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[F] Primal Scythe (20+) You may discard Helix Fossil, Dome Fossil, or Old Amber from your hand.  If you do, this attack does 20 damage plus 50 more damage.",
+          "[2F] Rock Slide (60) Does 10 damage to 2 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "G+30",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.22,
+            "mid_price": 18.3,
+            "high_price": 163.9,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 18.53,
+            "direct_low_price": 100,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 10.3,
+            "mid_price": 12.75,
+            "high_price": 199.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 23.43,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86400"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops Lv.59",
+        "prices": [
+          {
+            "avg": 21.65,
+            "low": 0.35,
+            "avg1": 3.79,
+            "avg7": 26.75,
+            "avg30": 9.61,
+            "trend": 18.39,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.16,
+            "low": 1,
+            "avg1": 1.99,
+            "avg7": 3.35,
+            "avg30": 5.92,
+            "trend": 6.5,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Kabutops-Lv59-AR4"
+      }
+    },
+    {
+      "id": "pk_1416e1e8ed9817a8d465ad6424fda6d4380b0ec974c1b4b267c018486df5237e6a2880d7edbc3e57e80848",
+      "card_info": {
+        "name": "Kabutops (24)",
+        "clean_name": "Kabutops 24",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "24/62",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[FF] Sharp Sickle (30)",
+          "[FFFF] Absorb (40)\r\n<br>Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em> (round up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.63,
+            "mid_price": 16.38,
+            "high_price": 264.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 23.41,
+            "direct_low_price": 248.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 6.23,
+            "high_price": 69.06,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.47,
+            "direct_low_price": 38.96,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44432"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 10.33,
+            "low": 1,
+            "avg1": 5.75,
+            "avg7": 7.04,
+            "avg30": 8.73,
+            "trend": 7.66,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14,
+            "avg7": 14.21,
+            "avg30": 12.07,
+            "trend": 13.84,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kabutops-V2-FO24"
+      }
+    },
+    {
+      "id": "pk_1dd8efc6e4f6a6381654fbc8e3c000768161b23628ffa67732411e59cc905c88ce98a5932c06971168a08b",
+      "card_info": {
+        "name": "Kabutops (9)",
+        "clean_name": "Kabutops 9",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "09/62",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[FF] Sharp Sickle (30)",
+          "[FFFF] Absorb (40)\r\n<br>Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em> (round up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 73.52,
+            "mid_price": 117.03,
+            "high_price": 1179.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 119.87,
+            "direct_low_price": 88.22,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 19.99,
+            "mid_price": 35.95,
+            "high_price": 109.9,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 40.01,
+            "direct_low_price": 109.87,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106525"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 21.83,
+            "avg7": 16.37,
+            "avg30": 17.09,
+            "trend": 17.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 32.28,
+            "low": 7,
+            "avg1": 53.62,
+            "avg7": 35.65,
+            "avg30": 33.75,
+            "trend": 35.08,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kabutops-V1-FO9"
+      }
+    },
+    {
+      "id": "pk_05aad3d6f673673c103abbc97211fd3abdd492c32a3d9ae0884e46cd7bc984269dd0afe0113957563f40ae9e",
+      "card_info": {
+        "name": "Kabutops (Delta Species)",
+        "clean_name": "Kabutops Delta Species",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "9/110",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1L] Vital Drain (30) \r\n<br>If the Defending Pokemon is Knocked Out by this attack, remove all Special Conditions and 7 damage counters from Kabutops <i>(all if there are less than 7).</i>",
+          "[3] Thunderous Blow (40+)\r\n<br>Does 40 damage plus 10 more damage for each Lightning Energy attached to Kabutops."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 89.79,
+            "mid_price": 129.96,
+            "high_price": 363.42,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 74.75,
+            "direct_low_price": 149.91,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 120,
+            "mid_price": 194.99,
+            "high_price": 1500,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 149.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86401"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops δ Delta Species",
+        "prices": [
+          {
+            "avg": 25.23,
+            "low": 3.99,
+            "avg1": 9,
+            "avg7": 24.43,
+            "avg30": 21.74,
+            "trend": 25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 22.57,
+            "low": 7,
+            "avg1": 22,
+            "avg7": 20.75,
+            "avg30": 27.13,
+            "trend": 23.33,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Kabutops-Delta-Species-HP9"
+      }
+    },
+    {
+      "id": "pk_f8e9e9e8b223c404f8d5d64bef3ee3f2fbbdb9110e29d4e8c73a5a9870b8158b77962fc1328168cd0c7bae52f597",
+      "card_info": {
+        "name": "Kabutops - 12/12 (Box Topper)",
+        "clean_name": "Kabutops 12 12 Box Topper",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "012/012",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Water, Electric, or Fighting basic Energy card from your hand to Kabutops, Kabutops's type (color) becomes the same as that type of Energy until the end of the turn.",
+        "attacks": [
+          "[1WF] Draining Cut (20)\r\n<br>\r\nRemove a damage counter from Kabutops.",
+          "[1LLF] Triple Cutter (30x)\r\n<br>\r\nFlip 3 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 297.95,
+            "mid_price": 297.95,
+            "high_price": 297.95,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 180,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/210854"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5bb58d2549874c884a37f7fff606a8dad6d1a6bd1c4aab18b547738f5b91bba90f45ed167da1dc0500adcb",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "7/92",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-BODY</b> Ancient Shell\r\n<br>As long as you have Omanyte or Omastar in play, damage done to Kabutops by attacks is reduced by 20<em> (after applying Weakness and Resistance). </em>",
+        "attacks": [
+          "[F] Energy Stream (30) \r\n<br>Search your discard pile for a basic Energy card and attach it to Kabutops.",
+          "[2F] Energy Claws (50+) \r\n<br>If the Defending Pokemon is a Pokemon-ex, this attack does 50 damage plus 30 more damage."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45.16,
+            "mid_price": 70,
+            "high_price": 396.11,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 57.66,
+            "direct_low_price": 55.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 149.93,
+            "mid_price": 149.99,
+            "high_price": 799.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 75.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86397"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 30.37,
+            "low": 6.85,
+            "avg1": 13.95,
+            "avg7": 28.6,
+            "avg30": 22.12,
+            "trend": 30.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 13.15,
+            "low": 1,
+            "avg1": 5.49,
+            "avg7": 13.48,
+            "avg30": 13.68,
+            "trend": 12.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Kabutops-LM7"
+      }
+    },
+    {
+      "id": "pk_d2b1baec74fb96845a9b4bf9a46c88075f34c1b34d62f2874a3812b2237e3e9044cfa40644de6aeeb24c0f01bc",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "027/110",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[FF] Sharp Sickle (30)",
+          "[FFFF] Absorb (40)\r\n<br>Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em> (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.79,
+            "mid_price": 9.78,
+            "high_price": 96.02,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 10.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 100,
+            "high_price": 179.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 94,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86395"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 6.99,
+            "low": 0.5,
+            "avg1": 6,
+            "avg7": 7.03,
+            "avg30": 6.2,
+            "trend": 7.32,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 458,
+            "low": 47.5,
+            "avg1": 799,
+            "avg7": 278.41,
+            "avg30": 114.11,
+            "trend": 288.56,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Kabutops-LC27"
+      }
+    },
+    {
+      "id": "pk_0ee541500982dd5389b8c7de9a87ed939666576d00925d720d010a1f7595832395c29d78d4f928bd5d2ac27a",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "6/100",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Primal Shell</strong>\r\n<br>\r\nAs long as Kabutops is your Active Pokémon, your opponent can't play any Trainer cards from his or her hand.",
+        "attacks": [
+          "[1FF] Chop Up (70)\r\n<br>\r\nDoes 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it.<em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "G+30",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.01,
+            "mid_price": 37.72,
+            "high_price": 398.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 38.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 24.89,
+            "mid_price": 29.79,
+            "high_price": 389.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 32.15,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86399"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops Lv.56",
+        "prices": [
+          {
+            "avg": 6.36,
+            "low": 1,
+            "avg1": 3.99,
+            "avg7": 7.82,
+            "avg30": 5.26,
+            "trend": 9.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.31,
+            "low": 0.2,
+            "avg1": 2,
+            "avg7": 3.95,
+            "avg30": 4.56,
+            "trend": 5.44,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Kabutops-Lv56-MD6"
+      }
+    },
+    {
+      "id": "pk_7e98788f1118e2b4d1d54a4d643dda0da3082c8446b5dbc4cbf4da3109b61ae565004d225f70d4f7e31e44120fab",
+      "card_info": {
+        "name": "Shining Kabutops",
+        "clean_name": "Shining Kabutops",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "108/105",
+        "rarity": "Secret Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[FFL] Lightning Cut (30+)\r\n<br>\r\nFlip a coin. If heads, this attack does 30 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> If tails, this attack does 30 damage and Shining Kabutops does 10 damage to itself.",
+          "[FFWW] Water Slash (50+)\r\n<br>\r\nDoes 50 damage plus 10 more damage for each Water Energy attached to Shining Kabutops but not used to pay for this attack's Energy cost. Don't apply Resistance."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3499.99,
+            "mid_price": 3499.99,
+            "high_price": 3499.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1399.95,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 550,
+            "mid_price": 636.5,
+            "high_price": 1156.47,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 382.44,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89165"
+      },
+      "cardmarket": {
+        "product_name": "Shining Kabutops",
+        "prices": [
+          {
+            "avg": 305.99,
+            "low": 90,
+            "avg1": 750,
+            "avg7": 332.71,
+            "avg30": 512.43,
+            "trend": 452.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 210,
+            "avg7": 131.76,
+            "avg30": 117.28,
+            "trend": 126.94,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Shining-Kabutops-NDE108"
+      }
+    },
+    {
+      "id": "pk_0f144a061a30e55c89b95fc8aeb0cdccab22860032ea2024d70924ea9eff0fcef5a75515a16d22b7852b92",
+      "card_info": {
+        "name": "Kabutops (6)",
+        "clean_name": "Kabutops 6",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "06/75",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Slash (20)",
+          "[F] Hydrocutter (40x)\r\n<br>Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flips more than 3 coins in this way."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 749.99,
+            "mid_price": 800,
+            "high_price": 4101.98,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 132.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 78.48,
+            "mid_price": 118,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 89.38,
+            "direct_low_price": 394.41,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86389"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.2,
+            "avg7": 30.64,
+            "avg30": 25.58,
+            "trend": 32.03,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 52.67,
+            "low": 5.99,
+            "avg1": 49.74,
+            "avg7": 49.03,
+            "avg30": 51.38,
+            "trend": 57.07,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kabutops-NDI6"
+      }
+    },
+    {
+      "id": "pk_13c5dca2169bd6ddf4b5a0101b80fb0b0628d54f9b9ace56c493567c7d5540a0bbedd813a2387ea5b67822a8",
+      "card_info": {
+        "name": "Kabutops (25)",
+        "clean_name": "Kabutops 25",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "25/75",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Slash (20)",
+          "[F] Hydrocutter (40x)\r\n<br>Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flips more than 3 coins in this way."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.99,
+            "mid_price": 298.82,
+            "high_price": 521.61,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 36.78,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.5,
+            "mid_price": 16.8,
+            "high_price": 98.98,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 12.78,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86394"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.99,
+            "avg7": 12.64,
+            "avg30": 8.15,
+            "trend": 10.85,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.63,
+            "low": 1,
+            "avg1": 5.23,
+            "avg7": 7.52,
+            "avg30": 9.47,
+            "trend": 8.14,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kabutops-NDI25"
+      }
+    },
+    {
+      "id": "pk_dd97a8d02f08c633eeb5d0c636c5965912bd52d52a126e507cdcc21847f12e5cb4355835f5b8e98359c4327bcd",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Power Keepers",
+        "set_code": "PK",
+        "set_id": "1383",
+        "card_number": "10/108",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "Primal Stage - As long as Kabutops is your Active Pokemon, your opponent can't play any Basic Pokemon or Evolutions Cards from his or her hand to evolve his or her Active Pokemon.  (Poke-BODY)",
+        "attacks": [
+          "[1F] Luring Antenna (20) Before doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  If you do, this attack does 20 damage to the new Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+          "[1FF] Blinding Scythe (60)"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.99,
+            "mid_price": 19.15,
+            "high_price": 219.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 21.56,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 24.99,
+            "mid_price": 62.49,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 31.18,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86398"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 11.5,
+            "low": 4,
+            "avg1": 26.98,
+            "avg7": 22.83,
+            "avg30": 12.31,
+            "trend": 20.25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.35,
+            "low": 0.8,
+            "avg1": 1,
+            "avg7": 4.96,
+            "avg30": 10.43,
+            "trend": 8.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Kabutops-PK10"
+      }
+    },
+    {
+      "id": "pk_332c33d618b9c491f6131f4155498b55ed925a0311ce32e0c97774baacdc2f8ae0cc923406875b561b3d0244ee6b",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "SM - Team Up",
+        "set_code": "SM9",
+        "set_id": "2377",
+        "card_number": "78/181",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Fossilized Memories</strong>\r\n<br>As long as this Pokemon is your Active Pokemon, your opponent can't play any Supporter cards from their hand.",
+        "attacks": [
+          "[2F] Rock Slide (80)\r\n<br>This attack does 20 damage to 2 of your opponent's Benched Pokemon. <em>Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 0.92,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.87,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.69,
+            "mid_price": 2.94,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.39,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183856"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 2.15,
+            "low": 0.4,
+            "avg1": 1.84,
+            "avg7": 2.23,
+            "avg30": 2.15,
+            "trend": 2.53,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.32,
+            "low": 0.98,
+            "avg1": 2.5,
+            "avg7": 3.26,
+            "avg30": 3.74,
+            "trend": 3.7,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Up/Kabutops-TEU78"
+      }
+    },
+    {
+      "id": "pk_cf53b75e5680c4d9210335ad03ed5bfebf65904f411ca929266b6eba43ae0391bdfcf31a40aa4bc1857b273bb301765a",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "141/165",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Ancient Way</strong>\r\n<br>Apply Weakness for your opponent's Active Pokemon as x4 instead.",
+        "attacks": [
+          "[2F] Draining Blade (100)\r\n<br>Heal 30 damage from this Pokemon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.62,
+            "mid_price": 1.89,
+            "high_price": 19.44,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 1.82,
+            "direct_low_price": 1.97,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.32,
+            "high_price": 17.46,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.31,
+            "direct_low_price": 0.21,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516704"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.22,
+            "avg7": 0.28,
+            "avg30": 0.28,
+            "trend": 0.31,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.57,
+            "low": 0.1,
+            "avg1": 2,
+            "avg7": 1.56,
+            "avg30": 1.53,
+            "trend": 1.59,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Kabutops-MEW141"
+      }
+    },
+    {
+      "id": "pk_efdc3244090dc6601aeca9a829ba79201eb27eb3fca5aa3d6ca2067f403e25fc83ad50154af9f80437844cd78f",
+      "card_info": {
+        "name": "Kabutops ex",
+        "clean_name": "Kabutops ex",
+        "set_name": "Sandstorm",
+        "set_code": "SS",
+        "set_id": "1392",
+        "card_number": "97/100",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Hydrocutter (40x) \r\n<br>Flip a number of coins equal to the amount of Energy attached to Kabutops ex.  This attack does 40 damage times the number of heads.  You can't flip more than 3 coins in this way.",
+          "[2FF] Spiral Drain (70) \r\n<br>Remove 2 damage counters from Kabutops ex (remove 1 if there is only 1)."
+        ],
+        "weakness": "GL",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 129.12,
+            "mid_price": 250,
+            "high_price": 899.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 147.25,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86402"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.99,
+            "avg7": 10.92,
+            "avg30": 12.1,
+            "trend": 12.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 93.29,
+            "low": 9.9,
+            "avg1": 159,
+            "avg7": 145,
+            "avg30": 79.08,
+            "trend": 126.8,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Kabutops-ex-SS97"
+      }
+    },
+    {
+      "id": "pk_6b7a592f5b4014905cebed7c0aa0fff7b912ff93f0fa9a6b794d95f004435168995152aeb0b30a95020d99251d10",
+      "card_info": {
+        "name": "Kabutops (H13)",
+        "clean_name": "Kabutops H13",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "H13/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Primal Aura</strong>\r\n<br>\r\nAs long as Kabutops is your Active Pokémon, neither player can play Basic Pokémon or Evolution cards from his or her hand to evolve Benched Pokémon.",
+        "attacks": [
+          "[1FF] Dual Cut (50x)\r\n<br>Flip 2 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 399.99,
+            "mid_price": 424.99,
+            "high_price": 449.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 399.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86391"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 394.4,
+            "low": 40,
+            "avg1": 99.99,
+            "avg7": 139.9,
+            "avg30": 134.25,
+            "trend": 164.83,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 40,
+            "avg7": 37.95,
+            "avg30": 34.87,
+            "trend": 28.36,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabutops-V1-SKH13"
+      }
+    },
+    {
+      "id": "pk_2acbcf171e626caa94050adf78fa7cb25cdeba9b875205b6ad90a2a27739eb60a227ab23eccf419c4f3b0cab7c",
+      "card_info": {
+        "name": "Kabutops (14)",
+        "clean_name": "Kabutops 14",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "014/144",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Primal Aura</strong>\r\n<br>\r\nAs long as Kabutops is your Active Pokémon, neither player can play Basic Pokémon or Evolution cards from his or her hand to evolve Benched Pokémon.",
+        "attacks": [
+          "[1FF] Dual Cut (50x)\r\n<br>Flip 2 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.99,
+            "mid_price": 74.99,
+            "high_price": 399.32,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 45.91,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 235,
+            "mid_price": 255,
+            "high_price": 275,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 159.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86392"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 18.64,
+            "low": 9.98,
+            "avg1": 300,
+            "avg7": 53.38,
+            "avg30": 39.01,
+            "trend": 54.27,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 22.69,
+            "low": 5,
+            "avg1": 8.91,
+            "avg7": 22.51,
+            "avg30": 17.83,
+            "trend": 23.31,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabutops-V2-SK14"
+      }
+    },
+    {
+      "id": "pk_a761f0eab2f5d797adc0f2fa1d5db028a4196c43c59495d2436c19a560687ecc8c2d2783e0fb804c6e567b1aadb8",
+      "card_info": {
+        "name": "Kabutops (150)",
+        "clean_name": "Kabutops 150",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "150/144",
+        "rarity": "Secret Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poke-BODY — Crystal Type </strong>\r\n<br>Whenever you attach a Water, Lightning, or Fighting basic Energy card from your hand to Kabutops, Kabutop's type (color) becomes the same as that type of energy until the end of the turn.",
+        "attacks": [
+          "[1WF] Draining Cut (20)\r\n<br>Remove a damage counter from Kabutops.",
+          "[1LLF] Triple Cutter (30x)\r\n<br>Flip 3 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2999.75,
+            "mid_price": 2999.75,
+            "high_price": 2999.75,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 1000,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 279.99,
+            "mid_price": 490,
+            "high_price": 700,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 590.48,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86396"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 3060.3,
+            "low": 55,
+            "avg1": 50,
+            "avg7": 3517.13,
+            "avg30": 1507.28,
+            "trend": 2662.27,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 243.33,
+            "low": 55,
+            "avg1": 140,
+            "avg7": 189.76,
+            "avg30": 189,
+            "trend": 218.82,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabutops-V1-SK150"
+      }
+    },
+    {
+      "id": "pk_81ab931944e9ab82ed367133e1d29a9002e90602fa316c48de40e5e2e29c196e262f3c8cf8ad4c90051fafc1f79d",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "XY - Fates Collide",
+        "set_code": "FCO",
+        "set_id": "1780",
+        "card_number": "39/124",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Cling (50)\r\n<br>Heal from this Pokmeon the same amount of damage you did to your opponent's Active Pokemon.",
+          "[2F] X-Scissor (80+)\r\n<br>Flip a coin. If heads, this attack does 60 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.54,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.44,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.73,
+            "mid_price": 1.08,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 1.08,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/117799"
+      },
+      "cardmarket": {
+        "product_name": "Kabutops",
+        "prices": [
+          {
+            "avg": 1.92,
+            "low": 0.5,
+            "avg1": 2.99,
+            "avg7": 2.47,
+            "avg30": 2.22,
+            "trend": 1.92,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.88,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.62,
+            "avg30": 0.83,
+            "trend": 0.69,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kabutops-FCO39"
+      }
+    },
+    {
+      "id": "pk_5b1860aae48c248e86aa6796c984520e14e91ce179ae3c9262ba9ae8ee8076c44f2c9217362ab9e50b37",
+      "card_info": {
+        "name": "Kabutops",
+        "clean_name": "Kabutops",
+        "set_name": "Crossing the Ruins...",
+        "set_code": "23728",
+        "set_id": "23728",
+        "card_number": null,
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Slash (20)",
+          "[Fighting] Hydrocutter (40x)<br> Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32,
+            "mid_price": 40,
+            "high_price": 40,
+            "updated_at": "2026-10-10T10:53:27.140813",
+            "market_price": 39.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575421"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 45,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 45,
+    "tcg": 39,
+    "cardmarket": 38,
+    "tcg_only": 7,
+    "cardmarket_only": 6,
+    "both_sources": 32
+  }
+}
