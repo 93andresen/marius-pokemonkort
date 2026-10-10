@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Sylveon+ex+071&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:48 GMT
+Content-Type: application/json
+Content-Length: 1517
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 909
+X-RateLimit-Remaining-Hour: 9
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lo%2F5tBG2yuQE%2F%2BQgqJw5zSnFQC88DM52R%2BUY7MamfqeypufliSwYAbUt%2FodMti5jvT5OWWMBbjIH9ah9rs%2BR0L3Y04s0rfx8GFCGNNDW3KACuPplTPRhbeYX%2BFvOEw8qeSwvGV5wFghTO7N4XBvHjQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854fe87e9249c5-OSL
+alt-svc: h3=":443"; ma=86400

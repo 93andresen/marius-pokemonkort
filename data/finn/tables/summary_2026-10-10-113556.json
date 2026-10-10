@@ -1,0 +1,28 @@
+{
+  "deals_version": "finn_deals/1.0.0",
+  "ts": "2026-10-10-113556",
+  "generated_at": "2026-10-10T11:35:56Z",
+  "rows": 107,
+  "priced": 40,
+  "with_ratio": 7,
+  "deals_ratio_gt_1": 1,
+  "by_intent": {
+    "tier1-set": 24,
+    "named-card": 29,
+    "tier2-set": 4,
+    "none": 50
+  },
+  "by_confidence": {
+    "medium": 4,
+    "high": 34,
+    "none": 55,
+    "low": 14
+  },
+  "paths": {
+    "deals_csv": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\tables\\deals_2026-10-10-113556.csv",
+    "deals_html": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\tables\\deals_2026-10-10-113556.html",
+    "deals_jsonl": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\tables\\deals_2026-10-10-113556.jsonl",
+    "sheet_csv": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\tables\\finn_sheet_2026-10-10-113556.csv",
+    "summary": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\tables\\summary_2026-10-10-113556.json"
+  }
+}

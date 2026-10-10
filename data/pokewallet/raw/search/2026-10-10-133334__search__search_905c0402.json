@@ -1,0 +1,166 @@
+{
+  "query": "Lycanroc 138",
+  "results": [
+    {
+      "id": "pk_97064f2a678da30b37c40f5378b888c339a87c06f07ea1c1230e27872551c47798b696949f0e6aee87e6d391352cc0",
+      "card_info": {
+        "name": "Lycanroc GX (Full Art)",
+        "clean_name": "Lycanroc GX Full Art",
+        "set_name": "SM - Guardians Rising",
+        "set_code": "SM02",
+        "set_id": "1919",
+        "card_number": "138/145",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Ability — Bloodthirsty Eyes</b>\r\n<br>When you play this Pokemon from your hand to evolve 1 of your Pokemon during your turn, you may switch 1 of your opponent's Benched Pokemon with their Active Pokemon.",
+        "attacks": [
+          "[2F] Claw Slash (110)",
+          "<b><font color=\"teal\">[1F] Dangerous Rogue GX (50x)</b>\r\n<br>This attack does 50 damage for each of your opponent's Benched Pokemon. <i>(You can't use more than 1 GX attack in a game.)</i></font>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.6,
+            "mid_price": 5.66,
+            "high_price": 24.99,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 5.14,
+            "direct_low_price": 5.14,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/130985"
+      },
+      "cardmarket": {
+        "product_name": "Lycanroc GX",
+        "prices": [
+          {
+            "avg": 3.1,
+            "low": 1,
+            "avg1": 3.11,
+            "avg7": 3.28,
+            "avg30": 3.84,
+            "trend": 2.93,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.99,
+            "avg7": 5.36,
+            "avg30": 5.5,
+            "trend": 5.92,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Lycanroc-GX-V2-GRI138"
+      }
+    },
+    {
+      "id": "pk_a78da27e37f5544f3850cbea7ab6bc0c94853c8d8d53841138b10e72b2722ae844f5c33f003119dccf3829f93af7fe87",
+      "card_info": {
+        "name": "Lycanroc - 138/128",
+        "clean_name": "Lycanroc 138 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "138/128",
+        "rarity": "Illustration Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Counter (10+)<br> If this Pok?mon was damaged by an attack during your opponent's last turn, this attack does that much more damage.",
+          "[FF] Boulder Crush (80)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.98,
+            "mid_price": 2.07,
+            "high_price": 112,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 2.02,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/696685"
+      },
+      "cardmarket": {
+        "product_name": "Lycanroc (30C 138)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.73,
+            "low": 0.8,
+            "avg1": 1.83,
+            "avg7": 2.06,
+            "avg30": 2.71,
+            "trend": 1.56,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Lycanroc-V2-30C138"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

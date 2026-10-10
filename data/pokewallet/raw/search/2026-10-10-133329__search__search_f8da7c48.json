@@ -1,0 +1,101 @@
+{
+  "query": "30th Celebration Booster Bundle",
+  "results": [
+    {
+      "id": "pk_4fa2f9eed91b8476c34e6c200c47856ba32cbfbf88d479a0c7d36653e7059b3a0d0182ae76ef6f15d323",
+      "card_info": {
+        "name": "30th Celebration Booster Bundle",
+        "clean_name": "30th Celebration Booster Bundle",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Commemorate 30 years of joy with fan-favorite Pokémon spanning three dazzling decades! Celebrate this magnificent milestone with the might presences of Mewtwo ex and Mew ex, followed by a wealth of allies like Umbreon ex, Salamance ex, and Greninja ex. Plus, there are 30 reasons to honor Pikachu, as each booster pack contains one—with 30 unique variations to collect as Pikachu rare cards! And, whether you're looking forward to a glittering future or taking a nostalgic look at a storied past, there are a host of treasures to find and secrets to reveal in the Pokémon TCG: 30th Celebration!\r\n<br><br>Expand your collection with this Booster bundle containing six booster packs from Pokémon TCG: 30th Celebration! <em>(cards vary by pack)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 68,
+            "mid_price": 79.95,
+            "high_price": 200,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 68.33,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/704171"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_45b2587a1b46992dca647269eab5cb8b7127b63a4a873c9c23cfa5a581be2fce60a18e399e821abaa0ca",
+      "card_info": {
+        "name": "30th Celebration Booster Bundle Case",
+        "clean_name": "30th Celebration Booster Bundle Case",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": null,
+        "rarity": null,
+        "card_type": null,
+        "product_type": "sealed",
+        "hp": null,
+        "stage": null,
+        "card_text": "Commemorate 30 years of joy with fan-favorite Pokémon spanning three dazzling decades! Celebrate this magnificent milestone with the might presences of Mewtwo ex and Mew ex, followed by a wealth of allies like Umbreon ex, Salamance ex, and Greninja ex. Plus, there are 30 reasons to honor Pikachu, as each booster pack contains one—with 30 unique variations to collect as Pikachu rare cards! And, whether you're looking forward to a glittering future or taking a nostalgic look at a storied past, there are a host of treasures to find and secrets to reveal in the Pokémon TCG: 30th Celebration!\r\n<br><br>Each sealed case contains 25 <em>30th Celebration</em> Booster Bundles. Individual Booster Bundles containing six booster packs from Pokémon TCG: </em>30th Celebration</em>! <em>(cards vary by pack)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1850.78,
+            "mid_price": 1947,
+            "high_price": 2999.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 1859.19,
+            "direct_low_price": null,
+            "sub_type_name": "products"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/709017"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 0,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

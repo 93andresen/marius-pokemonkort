@@ -36,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -68,7 +69,7 @@ COLUMNS = [
 # Exactly the bound Sheet's FINN tab (sheet/build_sheet.py::FINN_HEADER).
 SHEET_COLUMNS = [
     "FINN-kode", "Title", "Price (NOK)", "Matched card", "Market price",
-    "Delta", "Ratio", "Status", "First seen", "Last seen",
+    "Delta", "Ratio", "Confidence", "Status", "First seen", "Last seen",
 ]
 
 # intent_rank: 1 Tier-1 set, 2 named card, 3 Tier-2 set, 0 none.  "none" sorts last.
@@ -108,16 +109,22 @@ def load_registry(path: str | Path) -> dict[str, dict[str, Any]]:
     except Exception as exc:  # noqa: BLE001 - report, never crash the table
         log(f"WARN: registry unreadable ({exc!r}); first/last seen left blank")
         return {}
-    ads = raw.get("ads") if isinstance(raw, dict) else None
-    if isinstance(ads, dict):
-        return {str(k): v for k, v in ads.items() if isinstance(v, dict)}
+    if not isinstance(raw, dict):
+        return {}
+    # The registry is normally a FLAT ``{kode: {...}}`` map; a few writers nest the
+    # ads under an "ads" key, so accept both shapes (and skip non-ad config keys).
+    ads = raw.get("ads")
+    out: dict[str, dict] = {}
     if isinstance(ads, list):
-        out: dict[str, dict] = {}
         for a in ads:
             if isinstance(a, dict) and a.get("finn_kode"):
                 out[str(a["finn_kode"])] = a
         return out
-    return {}
+    source = ads if isinstance(ads, dict) else raw
+    for k, v in source.items():
+        if isinstance(v, dict) and str(k).isdigit():
+            out[str(k)] = v
+    return out
 
 
 def _pricing_rank(rec: dict[str, Any]) -> tuple[int, int, str]:
@@ -176,6 +183,57 @@ def row_confidence(res: dict[str, Any] | None) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# number compatibility (ad heading vs matched card)                           #
+# --------------------------------------------------------------------------- #
+
+
+_RE_SLASH_NUM = re.compile(r"\b([A-Za-z]{0,3}\d{1,4})\s*/\s*(\d{1,4})\b")
+_RE_HASH_NUM = re.compile(r"#\s*([A-Za-z]{0,3}\d{1,4})")
+
+
+def _norm_number(part: str | None) -> str | None:
+    """Normalise a number token: ``"004"``/``"005"`` -> ``"4"``/``"5"`` (keep letters)."""
+    if part is None:
+        return None
+    text = re.sub(r"[^0-9A-Za-z]", "", str(part))
+    m = re.match(r"^([A-Za-z]*)(\d+)$", text)
+    return f"{m.group(1).lower()}{int(m.group(2))}" if m else text.lower()
+
+
+def number_parts(text: Any) -> tuple[str | None, int | None]:
+    """Return ``(numerator, denominator)`` from a heading / card-number string.
+
+    ``"Pikachu 05/30"`` -> ``("5", 30)``; ``"Grass Energy #99"`` -> ``("99", None)``;
+    ``"005/026"`` -> ``("5", 26)``.  The *denominator* is exactly what
+    :func:`finn_matcher.number_norm` discards — and it is what distinguishes
+    ``05/30`` (30th Celebration) from ``005/026`` (an unrelated set).
+    """
+    t = str(text or "")
+    m = _RE_SLASH_NUM.search(t)
+    if m:
+        num, den = m.group(1), m.group(2)
+    else:
+        m = _RE_HASH_NUM.search(t)
+        num, den = (m.group(1), None) if m else (None, None)
+    return _norm_number(num), (int(den) if den and den.isdigit() else None)
+
+
+def number_conflict(heading: Any, card_number: Any) -> bool:
+    """True when the ad's own number and the matched card's number disagree.
+
+    A conflicting denominator (``05/30`` vs ``005/026``) or numerator means the
+    "match" is a different card, so its price must not be presented as the ad's.
+    """
+    hn, hd = number_parts(heading)
+    cn, cd = number_parts(card_number)
+    if hn and cn and hn != cn:
+        return True
+    if hd and cd and hd != cd:
+        return True
+    return False
+
+
+# --------------------------------------------------------------------------- #
 # row building
 # --------------------------------------------------------------------------- #
 
@@ -215,6 +273,16 @@ def build_rows(records: list[dict[str, Any]],
         pk_card, pk_set, pk_number = _matched_pk(res) if res else ("", "", "")
         total = int(cov.get("total") or 0)
         priced = int(cov.get("priced") or 0)
+        conf = row_confidence(res) if res else "none"
+        note = "; ".join(str(f) for f in (res.get("flags") or []))
+        # Trust gate: a listing match whose card number contradicts the ad's own
+        # number is a *different* card.  Keep the row, drop it to low confidence,
+        # and let the Sheet blank the card + price rather than assert a wrong value.
+        if conf in ("high", "medium") and pk_number and \
+                number_conflict(rec.get("title"), pk_number):
+            conf = "low"
+            note = (note + "; " if note else "") + \
+                f"number mismatch: ad vs card {pk_number}"
         rows.append({
             "finn_kode": kode,
             "title": rec.get("title") or "",
@@ -238,9 +306,9 @@ def build_rows(records: list[dict[str, Any]],
             "cards_priced": priced if total else None,
             "cards_total": total if total else None,
             "coverage": f"{priced}/{total}" if total else "",
-            "confidence": row_confidence(res) if res else "none",
+            "confidence": conf,
             "partial": bool(res.get("partial_card_coverage")),
-            "notes": "; ".join(str(f) for f in (res.get("flags") or [])),
+            "notes": note,
             "first_seen": reg.get("first_seen") or "",
             "last_seen": reg.get("last_seen") or "",
         })
@@ -258,17 +326,29 @@ def sort_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def sheet_rows(rows: list[dict[str, Any]]) -> list[list[Any]]:
-    """Project full rows to exactly the bound Sheet's 10 FINN columns."""
+    """Project full rows to the bound Sheet's FINN columns, **trust-gated**.
+
+    The matched card, market price, delta and ratio are shown only when the match
+    is trustworthy (``high``/``medium``).  A ``low``/``none`` row keeps its honest
+    identity (kode, title, price, status, dates) but asserts no card and no value.
+    """
     out: list[list[Any]] = []
     for r in rows:
-        matched = r.get("pk_card") or ""
-        if r.get("pk_set"):
-            matched = f"{matched} ({r['pk_set']})" if matched else r["pk_set"]
+        conf = r.get("confidence") or "none"
+        trusted = conf in ("high", "medium")
+        matched = ""
+        if trusted:
+            matched = r.get("pk_card") or ""
+            if r.get("pk_set"):
+                matched = f"{matched} ({r['pk_set']})" if matched else r["pk_set"]
         out.append([
             r.get("finn_kode"), r.get("title"), r.get("asking_price_nok"),
-            matched, r.get("market_value_nok"), r.get("delta_nok"),
-            r.get("ratio"), r.get("status"), r.get("first_seen"),
-            r.get("last_seen"),
+            matched,
+            r.get("market_value_nok") if trusted else None,
+            r.get("delta_nok") if trusted else None,
+            r.get("ratio") if trusted else None,
+            conf,
+            r.get("status"), r.get("first_seen"), r.get("last_seen"),
         ])
     return out
 

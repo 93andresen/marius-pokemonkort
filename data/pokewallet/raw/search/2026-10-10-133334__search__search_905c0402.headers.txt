@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Lycanroc+138&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:39 GMT
+Content-Type: application/json
+Content-Length: 3190
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 913
+X-RateLimit-Remaining-Hour: 13
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=si2NjgtDYrvVutQ8cxRO1N1xZtnLn8BFbbz%2FQFGfRWXyGS1Tie7IPOVva2pY72sQnnJYEGvsbncUL1FYrKh8XA0N0DcsURiMJOhIuwTuyLKLYAHylS9K%2B3QTaDmp%2BcHH%2Fby6%2Fm4t4lTDMCIn6PYq%2BQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854fb60f3ab4ee-OSL
+alt-svc: h3=":443"; ma=86400

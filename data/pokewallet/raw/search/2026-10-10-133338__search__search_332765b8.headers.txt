@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Stor+Pok%C3%A9mon-kortsamling+%2B+bokser+Selges+samlet&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:43 GMT
+Content-Type: application/json
+Content-Length: 236
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 911
+X-RateLimit-Remaining-Hour: 11
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=y9%2FR4NoyyFc0%2B111oZdnelcFucBNmqGi3KAnK5cuGfM9tCZR97bTM8DD8aHmmrfm8pXmIHjftegfC6Ef2%2BYMmZRoJghdSPzxgIKdT6BdK031caFCgE%2Bc0Ju6eGMY8Fn7gsYQlnKwnTMQYN83FFbuoQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854fcd5b3d56c9-OSL
+alt-svc: h3=":443"; ma=86400

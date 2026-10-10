@@ -261,3 +261,137 @@ FINN price  |  107 record(s)  |  offline=False  max_calls=92  index=yes
         cards: 0/0 priced  partial=False
         deal: basis=listing_best asking=None market=671 ratio=None delta=None
         calls=1 cache=False
+  [66/107] '404'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [67/107] 'Pokémon 30th Celebration Booster Bundle'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=999 market=None ratio=None delta=None
+        calls=1 cache=False
+  [68/107] '404'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=True
+  [69/107] '404'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=0 cache=True
+  [70/107] 'Lycanroc 138/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=22 ratio=None delta=None
+        calls=1 cache=False
+  [71/107] 'Pokemon kort samling EX GX V holo'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [72/107] 'Stor Pokémon-kortsamling + Pokémon bokser | Selges samlet'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=600 market=None ratio=None delta=None
+        calls=1 cache=False
+  [73/107] 'Greninja ex 21/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=False
+  [74/107] 'Sylveon ex 071/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=10 ratio=None delta=None
+        calls=1 cache=False
+  reached --max-calls 92; stopping before record 75.
+========================================================================================
+DONE  priced=74/107  api_calls=92
+  pricing  -> data\finn\matches\pricing.jsonl
+  snapshot -> data\finn\matches\pricing_2026-10-10-133343.json
+========================================================================================
+[search] HTTP 200 ok=True rate 100/100h 1000/1000d
+[search] HTTP 200 ok=True rate 99/100h 999/1000d
+[search] HTTP 200 ok=True rate 98/100h 998/1000d
+[search] HTTP 200 ok=True rate 97/100h 997/1000d
+[search] HTTP 200 ok=True rate 96/100h 996/1000d
+[search] HTTP 200 ok=True rate 95/100h 995/1000d
+[search] HTTP 200 ok=True rate 94/100h 994/1000d
+[search] HTTP 200 ok=True rate 93/100h 993/1000d
+[search] HTTP 200 ok=True rate 92/100h 992/1000d
+[search] HTTP 200 ok=True rate 91/100h 991/1000d
+[search] HTTP 200 ok=True rate 90/100h 990/1000d
+[search] HTTP 200 ok=True rate 89/100h 989/1000d
+[search] HTTP 200 ok=True rate 88/100h 988/1000d
+[search] HTTP 200 ok=True rate 87/100h 987/1000d
+[search] HTTP 200 ok=True rate 86/100h 986/1000d
+[search] HTTP 200 ok=True rate 85/100h 985/1000d
+[search] HTTP 200 ok=True rate 84/100h 984/1000d
+[search] HTTP 200 ok=True rate 83/100h 983/1000d
+[search] HTTP 200 ok=True rate 82/100h 982/1000d
+[search] HTTP 200 ok=True rate 81/100h 981/1000d
+[search] HTTP 200 ok=True rate 80/100h 980/1000d
+[search] HTTP 200 ok=True rate 79/100h 979/1000d
+[search] HTTP 200 ok=True rate 78/100h 978/1000d
+[search] HTTP 200 ok=True rate 77/100h 977/1000d
+[search] HTTP 200 ok=True rate 76/100h 976/1000d
+[search] HTTP 200 ok=True rate 75/100h 975/1000d
+[search] HTTP 200 ok=True rate 74/100h 974/1000d
+[search] HTTP 200 ok=True rate 73/100h 973/1000d
+[search] HTTP 200 ok=True rate 72/100h 972/1000d
+[search] HTTP 200 ok=True rate 71/100h 971/1000d
+[search] HTTP 200 ok=True rate 70/100h 970/1000d
+[search] HTTP 200 ok=True rate 69/100h 969/1000d
+[search] HTTP 200 ok=True rate 68/100h 968/1000d
+[search] HTTP 200 ok=True rate 67/100h 967/1000d
+[search] HTTP 200 ok=True rate 66/100h 966/1000d
+[search] HTTP 200 ok=True rate 65/100h 965/1000d
+[search] HTTP 200 ok=True rate 64/100h 964/1000d
+[search] HTTP 200 ok=True rate 63/100h 963/1000d
+[search] HTTP 200 ok=True rate 62/100h 962/1000d
+[search] HTTP 200 ok=True rate 61/100h 961/1000d
+[search] HTTP 200 ok=True rate 60/100h 960/1000d
+[search] HTTP 200 ok=True rate 59/100h 959/1000d
+[search] HTTP 200 ok=True rate 58/100h 958/1000d
+[search] HTTP 200 ok=True rate 57/100h 957/1000d
+[search] HTTP 200 ok=True rate 56/100h 956/1000d
+[search] HTTP 200 ok=True rate 55/100h 955/1000d
+[search] HTTP 200 ok=True rate 54/100h 954/1000d
+[search] HTTP 200 ok=True rate 53/100h 953/1000d
+[search] HTTP 200 ok=True rate 52/100h 952/1000d
+[search] HTTP 200 ok=True rate 51/100h 951/1000d
+[search] HTTP 200 ok=True rate 50/100h 950/1000d
+[search] HTTP 200 ok=True rate 49/100h 949/1000d
+[search] HTTP 200 ok=True rate 48/100h 948/1000d
+[search] HTTP 200 ok=True rate 47/100h 947/1000d
+[search] HTTP 200 ok=True rate 46/100h 946/1000d
+[search] HTTP 200 ok=True rate 45/100h 945/1000d
+[search] HTTP 200 ok=True rate 44/100h 944/1000d
+[search] HTTP 200 ok=True rate 43/100h 943/1000d
+[search] HTTP 200 ok=True rate 42/100h 942/1000d
+[search] HTTP 200 ok=True rate 41/100h 941/1000d
+[search] HTTP 200 ok=True rate 40/100h 940/1000d
+[search] HTTP 200 ok=True rate 39/100h 939/1000d
+[search] HTTP 200 ok=True rate 38/100h 938/1000d
+[search] HTTP 200 ok=True rate 37/100h 937/1000d
+[search] HTTP 200 ok=True rate 36/100h 936/1000d
+[search] HTTP 200 ok=True rate 35/100h 935/1000d
+[search] HTTP 200 ok=True rate 34/100h 934/1000d
+[search] HTTP 200 ok=True rate 33/100h 933/1000d
+[search] HTTP 200 ok=True rate 32/100h 932/1000d
+[search] HTTP 200 ok=True rate 31/100h 931/1000d
+[search] HTTP 200 ok=True rate 30/100h 930/1000d
+[search] HTTP 200 ok=True rate 29/100h 929/1000d
+[search] HTTP 200 ok=True rate 28/100h 928/1000d
+[search] HTTP 200 ok=True rate 27/100h 927/1000d
+[search] HTTP 200 ok=True rate 26/100h 926/1000d
+[search] HTTP 200 ok=True rate 25/100h 925/1000d
+[search] HTTP 200 ok=True rate 24/100h 924/1000d
+[search] HTTP 200 ok=True rate 23/100h 923/1000d
+[search] HTTP 200 ok=True rate 22/100h 922/1000d
+[search] HTTP 200 ok=True rate 21/100h 921/1000d
+[search] HTTP 200 ok=True rate 20/100h 920/1000d
+[search] HTTP 200 ok=True rate 19/100h 919/1000d
+[search] HTTP 200 ok=True rate 18/100h 918/1000d
+[search] HTTP 200 ok=True rate 17/100h 917/1000d
+[search] HTTP 200 ok=True rate 16/100h 916/1000d
+[search] HTTP 200 ok=True rate 15/100h 915/1000d
+[search] HTTP 200 ok=True rate 14/100h 914/1000d
+[search] HTTP 200 ok=True rate 13/100h 913/1000d
+[search] HTTP 200 ok=True rate 12/100h 912/1000d
+[search] HTTP 200 ok=True rate 11/100h 911/1000d
+[search] HTTP 200 ok=True rate 10/100h 910/1000d
+[search] HTTP 200 ok=True rate 9/100h 909/1000d

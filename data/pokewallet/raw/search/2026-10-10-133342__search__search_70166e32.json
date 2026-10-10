@@ -1,0 +1,91 @@
+{
+  "query": "Sylveon ex 071",
+  "results": [
+    {
+      "id": "pk_556455cd6a4a3c42626cdc5c20c8ad5a02bbd372d6d1493c5fc1c11c00eac16150fe6992bcfb191d75ff86cd390f8a",
+      "card_info": {
+        "name": "Sylveon ex - 071/128",
+        "clean_name": "Sylveon ex 071 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "071/128",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PCC] Colorful Harmony (50x)<br> This attack does 50 damage for each type of Basic Energy attached to all of your Pok?mon."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.01,
+            "high_price": 75,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.93,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/696677"
+      },
+      "cardmarket": {
+        "product_name": "Sylveon ex (30C 071)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.74,
+            "low": 0.02,
+            "avg1": 0.56,
+            "avg7": 0.55,
+            "avg30": 0.74,
+            "trend": 0.38,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Sylveon-ex-V1-30C071"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

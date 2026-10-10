@@ -188,6 +188,35 @@ class TestCardConfidenceEdges(unittest.TestCase):
         self.assertEqual(fd.row_confidence(None), "none")
 
 
+# --- number gate (trust) ---------------------------------------------------- #
+
+
+class TestNumberGate(unittest.TestCase):
+    def test_parts_keep_the_denominator(self):
+        self.assertEqual(fd.number_parts("Pikachu 05/30"), ("5", 30))
+        self.assertEqual(fd.number_parts("Grass Energy #99"), ("99", None))
+        self.assertEqual(fd.number_parts("005/026"), ("5", 26))
+
+    def test_conflicting_denominator_is_a_conflict(self):
+        self.assertTrue(fd.number_conflict("Pikachu 05/30 - 30th Celebration", "005/026"))
+        self.assertTrue(fd.number_conflict("Pikachu 24/30", "024/128"))
+
+    def test_same_number_is_not_a_conflict(self):
+        self.assertFalse(fd.number_conflict("Pikachu 28/73", "028/073"))
+        self.assertFalse(fd.number_conflict("Umbreon ex 92/128", "092/128"))
+        self.assertFalse(fd.number_conflict("Grass Energy #99", "099/102"))
+
+    def test_build_rows_downgrades_a_wrong_number_match(self):
+        records = [ad("111", "Pikachu 05/30 - Pokemon 30th Celebration")]
+        pricing = {"111": pricing_rec(
+            "111", market=1284.0, ratio=12.84, delta=1184.0,
+            best={"name": "Ash's Pikachu-GX", "set_name": "Deck Kit",
+                  "card_number": "005/026"})}
+        row = fd.build_rows(records, pricing)[0]
+        self.assertEqual(row["confidence"], "low", "wrong number -> low trust")
+        self.assertIn("number mismatch", row["notes"])
+
+
 # --- ordering --------------------------------------------------------------- #
 
 
@@ -215,11 +244,11 @@ class TestSortRows(unittest.TestCase):
 
 
 class TestSheetRows(unittest.TestCase):
-    def test_maps_to_the_ten_sheet_columns(self):
+    def test_maps_to_the_sheet_columns_when_trusted(self):
         rows = [{
             "finn_kode": "111", "title": "Charizard", "asking_price_nok": 100.0,
             "pk_card": "Charizard", "pk_set": "Base Set", "market_value_nok": 1500.0,
-            "delta_nok": -1400.0, "ratio": 15.0, "status": "Aktiv",
+            "delta_nok": -1400.0, "ratio": 15.0, "confidence": "high", "status": "Aktiv",
             "first_seen": "2026-10-02T00:00:00Z", "last_seen": "2026-10-08T00:00:00Z",
         }]
         out = fd.sheet_rows(rows)
@@ -227,6 +256,20 @@ class TestSheetRows(unittest.TestCase):
         self.assertEqual(out[0][0], "111")
         self.assertEqual(out[0][3], "Charizard (Base Set)")
         self.assertEqual(out[0][4], 1500.0)
+        self.assertEqual(out[0][7], "high")
+
+    def test_untrusted_row_asserts_no_card_and_no_value(self):
+        rows = [{
+            "finn_kode": "111", "title": "Pikachu 05/30", "asking_price_nok": 100.0,
+            "pk_card": "Ash's Pikachu-GX", "pk_set": "Deck Kit",
+            "market_value_nok": 1284.0, "delta_nok": 1184.0, "ratio": 12.84,
+            "confidence": "low", "status": "Aktiv", "first_seen": "", "last_seen": "",
+        }]
+        out = fd.sheet_rows(rows)
+        self.assertEqual(out[0][3], "", "untrusted match shows no card")
+        self.assertIsNone(out[0][4], "untrusted match shows no market price")
+        self.assertIsNone(out[0][6], "untrusted match shows no ratio")
+        self.assertEqual(out[0][7], "low")
 
 
 # --- priority + build ------------------------------------------------------- #
