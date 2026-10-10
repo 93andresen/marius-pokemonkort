@@ -646,3 +646,23 @@ But in reality they don't need it to to the job and is in fact making them worse
 So that is priority one now and is in fact your only job!
 So we need to set it up so that the agents will define the work end to end so that we're not left in a state where we might as well just have started over instead of code that simply is just riddled with bugs because they are editing the tests instead of actually editing the code. since they want the tests to pass shortcuts and stuff like that. We just have to manage the context because now what tends to happen is they read up and the moment that they feel like they have enough information and it's starting to work, then the context is already like 130K, 140K. And at that point, it's not far off until it triggers automatic compression. And so then we have the loop going and they don't really get anywhere. And there is no way that they need more than 100K just in order to start, just in order to like, for example, turning, converting it from the JavaScript to structured data, right? And also we have to split it up into as small units as possible so that we can give this a small task so that they can focus very much on doing a small task good. Okay, so we split it up into whatever sizes will actually be self-contained, right? And so, and here's the important part. The important part is that we are not gonna decide what the output should look like for them okay that is for a couple of reasons first of all we should not assume that that that we are any more capable or intelligent than they are of making decisions and and and second of all and more importantly they should themselves define what success looks like and they should probably write the tests to verify that success even before they start now there are probably some restrictions to what you're allowed to to edit in terms of editing the agents that the md file and they are probably also trained to to follow all those instructions i'm just gonna remove them i don't even remember what's in there now well i remember now i have already removed them it's just it's just uh links to to the to the to the spreadsheet that you don't currently have the mcp server but that doesn't matter This doesn't require it.
 
+---
+
+2026-10-10-13.25.01
+
+Hey Time to work again! THERE ARE LOTS AND LOTS OF SCRAPED DATA HERE NOW!
+
+I WANT YOU TO MANUALLY CREATE A FULL TABLE OF ALL THE ADS WE HAVE AND YOU NEED TO ACTUALLY CHECK EACH OF THEM AND MAKE JUDGMENTS about how certain you can be and so on and make it ready to populate the spreadsheet! don't pupulate the spreadsheet yet now only create the comprehensive impressive scraped list of cards and matched their prices through the pokewallet API!
+
+This is out demo for showing my friend so this has to be as GOOD AS POSSIBLE! and needs to look TRUSTWORTHY! much more important that we can TRUST the system then anything else!
+
+Now get to work! I don't care if you do the work manually for today!
+
+Just make sure you have as big and impressive list as possible!
+
+AND FOCUS ON THE CARDS HE IS MOST INTRESTED IN!
+
+GO!
+
+---
+
