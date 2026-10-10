@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Magnemite&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:01 GMT
+Content-Type: application/json
+Content-Length: 28512
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 986
+X-RateLimit-Remaining-Hour: 86
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=11AuFp2T89KlAx1mvqOCAZnx%2FxXKpIPx41ucQBhCCWbvcgsKfJiOa1S6kNO7ON9lNPoHOgSKiNyNVBrSOpCqCz%2FCxRjctOsBLOeA0w0cp1af0q8Yi%2FrOc0g03Qj%2B8Eth9evkshl%2FW5IO1gkETD%2B8Zw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854bd7491d56bd-OSL
+alt-svc: h3=":443"; ma=86400

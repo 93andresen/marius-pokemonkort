@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Snorlax&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:30:43 GMT
+Content-Type: application/json
+Content-Length: 26861
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 996
+X-RateLimit-Remaining-Hour: 96
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NaEOaTexrcPv6y0TO1GpBoplN9ZTuMm5JJII46%2BS7FW5vPXea8W1OWIlZZt6BILTzBh9xGfZVZU2iRjmUsYe0d%2BPTLIPEz4irzzFkxwjSwno2qca5dFJ7KnXH1ZQsHTlLSfoJPcfR00HWFYb6usl5w%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854b611f49dfec-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Nidoking&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:00 GMT
+Content-Type: application/json
+Content-Length: 30701
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 987
+X-RateLimit-Remaining-Hour: 87
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VuTlKd0J7W5%2Bo4Wgix90q5o0nFwG1gmafRXv7ruNfzq6Oz1kmv1O8CSHQIHSITLM2QWT6Brr5fPRjzBTohQl5WO8vO5nXbpiVh%2B7s%2BTrOjLBoLSUZBqEq%2FZr2Ehgb%2BAXDLMpYU86VSTFuL63%2FC4Rrw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854bcdba494c11-OSL
+alt-svc: h3=":443"; ma=86400

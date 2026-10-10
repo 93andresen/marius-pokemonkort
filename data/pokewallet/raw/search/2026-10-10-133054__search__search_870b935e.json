@@ -1,0 +1,1454 @@
+{
+  "query": "Nidoking",
+  "results": [
+    {
+      "id": "pk_ad6444ab78e51041ce741ca9f4c3a4cdf66cff1a2515917fc1b3cc72acbd3215435fa55f6c3ac87bde1cdaef8db0",
+      "card_info": {
+        "name": "Nidoking (H18)",
+        "clean_name": "Nidoking H18",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H18/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Earth Rage</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Nidoking is your Active Pokémon, you may flip a coin. If heads, put a damage counter on each of your opponent's Benched Pokémon. This power can't be used if Nidoking is affected by a Special Condition.",
+        "attacks": [
+          "[2FF] Giant Horn (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 30 more damage."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 114.98,
+            "mid_price": 187.04,
+            "high_price": 329.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 230.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87692"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.99,
+            "avg7": 44.74,
+            "avg30": 26.01,
+            "trend": 44.28,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 289.67,
+            "low": 12,
+            "avg1": 400,
+            "avg7": 217.88,
+            "avg30": 113.78,
+            "trend": 238.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoking-V1-AQH18"
+      }
+    },
+    {
+      "id": "pk_47d15786f71acc0a97cbc48ed21b86f506bcb4d00632926e40206c91f665c24a315d11eab7a3a80e6f962d3acc",
+      "card_info": {
+        "name": "Nidoking (24)",
+        "clean_name": "Nidoking 24",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "024/147",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Earth Rage</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Nidoking is your Active Pokémon, you may flip a coin. If heads, put a damage counter on each of your opponent's Benched Pokémon. This power can't be used if Nidoking is affected by a Special Condition.",
+        "attacks": [
+          "[2FF] Giant Horn (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 30 more damage."
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.99,
+            "mid_price": 17.93,
+            "high_price": 219.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 17.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 136.99,
+            "high_price": 139.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 40.65,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87693"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 25.52,
+            "low": 7.3,
+            "avg1": 12.5,
+            "avg7": 22.8,
+            "avg30": 21.04,
+            "trend": 25.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.61,
+            "low": 1,
+            "avg1": 4.73,
+            "avg7": 6.19,
+            "avg30": 6.24,
+            "trend": 6.68,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoking-V2-AQ24"
+      }
+    },
+    {
+      "id": "pk_649bf15117ab875ee08a4ce638411cdb6c359045562c9259bef19200c7f91964cc0e047072175d76bda1da6ba4bc",
+      "card_info": {
+        "name": "Nidoking (150)",
+        "clean_name": "Nidoking 150",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "150/147",
+        "rarity": "Secret Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Grass, Lightning, or Fire basic Energy card from your hand to Nidoking, Nidoking's type (color) becomes the same as that Energy card type until the end of the turn.",
+        "attacks": [
+          "[1GG] Poison Horn (20)\r\n<br>The Defending Pokémon is now Poisoned.",
+          "[LLFF] Rolling Thunder (50)\r\n<br>Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1700,
+            "mid_price": 1700,
+            "high_price": 1700,
+            "updated_at": "2026-10-09T11:35:17.687658",
+            "market_price": 500,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87695"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 2540.92,
+            "low": 169,
+            "avg1": 319.98,
+            "avg7": 1935.21,
+            "avg30": 981.59,
+            "trend": 1805,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 200,
+            "avg1": 300,
+            "avg7": 144.71,
+            "avg30": 105.96,
+            "trend": 247.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoking-V3-AQ150"
+      }
+    },
+    {
+      "id": "pk_ecab40d9e7022853fa8739f4275cf62b3ae74be24709053bff9aa48b6b92c8c74643c050188e3b063b15cc9a",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "011/130",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.4,
+            "mid_price": 39.99,
+            "high_price": 151.08,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 40.08,
+            "direct_low_price": 19.08,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42448"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 28.52,
+            "low": 6.98,
+            "avg1": 40,
+            "avg7": 34.11,
+            "avg30": 25.37,
+            "trend": 31.99,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.65,
+            "avg7": 14.63,
+            "avg30": 16.93,
+            "trend": 15.06,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Nidoking-B211"
+      }
+    },
+    {
+      "id": "pk_e1894856c036efb023442775109cb661b39ece781da14b87e1683fc00aadef9ebd7fe7b46570410a4cbef58fa4e6",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "011/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.97,
+            "mid_price": 3299,
+            "high_price": 3599.78,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 349.96,
+            "direct_low_price": 3599.78,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 179.99,
+            "high_price": 1504.66,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 172.19,
+            "direct_low_price": 119.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107006"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking (Shadowless)",
+        "prices": [
+          {
+            "avg": 104.97,
+            "low": 50,
+            "avg1": 139.99,
+            "avg7": 269.98,
+            "avg30": 139.06,
+            "trend": 200.59,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidoking-V2-BS11"
+      }
+    },
+    {
+      "id": "pk_c1094145b4b59695b48150215fe3b8bf7aa1323f7f0fe22969546e322ed31fe73ba17c5060b314b4ce519f58",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "011/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.07,
+            "mid_price": 32.11,
+            "high_price": 388.88,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 38.2,
+            "direct_low_price": 90,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42351"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.06,
+            "avg7": 13.59,
+            "avg30": 20.54,
+            "trend": 26.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 38.12,
+            "low": 4,
+            "avg1": 28.99,
+            "avg7": 38.79,
+            "avg30": 41.19,
+            "trend": 44.12,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidoking-V1-BS11"
+      }
+    },
+    {
+      "id": "pk_19b7f1cd386d25845bd67532e1bbdb2ba4ba37bbf85d240d6fc19d1c8658f28405fa78ac0b6ad63d9eaf00150e",
+      "card_info": {
+        "name": "Nidoking - 6/102 (Cracked Ice Holo)",
+        "clean_name": "Nidoking 6 102 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "006/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Pheromone Stamina</strong>\r\n<br>\r\nNidoking gets +20 HP for each Nidoqueen you have in play.",
+        "attacks": [
+          "[2FF] Venomous Horn (80)\r\n<br>The Defending Pokémon is now Poisoned."
+        ],
+        "weakness": "Wx2",
+        "resistance": "L-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.41,
+            "mid_price": 19.99,
+            "high_price": 96.94,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 14.92,
+            "direct_low_price": 19.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125071"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cfb218e4f9887d263c8b1c07965afbe10f19c59e5bc661af4294f59b5879e2de019ad22838e74b8d731d6ce149",
+      "card_info": {
+        "name": "Nidoking - 6/102",
+        "clean_name": "Nidoking",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "006/102",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Pheromone Stamina</strong>\r\n<br>\r\nNidoking gets +20 HP for each Nidoqueen you have in play.",
+        "attacks": [
+          "[2FF] Venomous Horn (80)\r\n<br>The Defending Pokémon is now Poisoned."
+        ],
+        "weakness": "Wx2",
+        "resistance": "L-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.87,
+            "high_price": 42.12,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 2.87,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125072"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5d520a79e8c8545a2344bc3bd09b9291123062c9bf37441e74f82978084efd87cdc87bb194e6c57ce11103c18056",
+      "card_info": {
+        "name": "Nidoking - 45/108 (XY Evolutions)",
+        "clean_name": "Nidoking 45 108 XY Evolutions",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "045/108",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1P] Rumble (40)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+          "[1PP] Tail Swing (100)\r\n<br>This attack does 20 damage to each of your opponent's Benched Basic Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.49,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 1.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131306"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_50bfe68da57e78234dc6e846e0cd46a10ad5d77ebd2289566fdcc1f925525601df721daff74f100081867dc0",
+      "card_info": {
+        "name": "Nidoking (Delta Species)",
+        "clean_name": "Nidoking Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "6/101",
+        "rarity": "Holo Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Linear Attack - Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[2D] Dark Horn (60) You may discard a Basic Pokemon or Evolution card from your hand.  If you do, choose 1 of your opponent's Benched Pokemon and do 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 38,
+            "mid_price": 70.8,
+            "high_price": 474.89,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 61.03,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 84.13,
+            "mid_price": 119.99,
+            "high_price": 720.2,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 69.31,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87701"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking δ Delta Species",
+        "prices": [
+          {
+            "avg": 98.53,
+            "low": 4.95,
+            "avg1": 9.5,
+            "avg7": 109.42,
+            "avg30": 63.08,
+            "trend": 87.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 35.24,
+            "low": 4,
+            "avg1": 22.98,
+            "avg7": 54.13,
+            "avg30": 23.4,
+            "trend": 49.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Nidoking-Delta-Species-DF6"
+      }
+    },
+    {
+      "id": "pk_e3a296a466e07583a35e944f7862e8d1195e544272ab46646ded267ed4c8576df6d004850ecf766b2a438d5d",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "8/112",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-BODY</b> Power Gene \r<br>\n<br>As long as Nidoking is in play, your attacks from Nidoran F, Nidorina, Nidoqueen, Nidoran M, and Nidorino do 10 more damage to the Defending Pokemon.",
+        "attacks": [
+          "[1F] Earth Poison (40) \r\n<br>If the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Poisoned.",
+          "[2FF] Bound Crush\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 60 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>  Nidoking can't use Bound Crush during your next turn."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59.99,
+            "mid_price": 89.99,
+            "high_price": 926.22,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 82.24,
+            "direct_low_price": 116.39,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 174.51,
+            "mid_price": 285.51,
+            "high_price": 396.5,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 58.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 23.5,
+            "mid_price": 23.6,
+            "high_price": 89.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 28.78,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87696"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 24.06,
+            "low": 2,
+            "avg1": 50,
+            "avg7": 32.31,
+            "avg30": 21.39,
+            "trend": 26.42,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.77,
+            "low": 1,
+            "avg1": 14,
+            "avg7": 13,
+            "avg30": 18.12,
+            "trend": 12.85,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Nidoking-FL8"
+      }
+    },
+    {
+      "id": "pk_aa58dfe9e0aace57bd2867356bdee40ee9201a5dde95d815c67286cbf9368680628cbcbce52478f42c1d602e",
+      "card_info": {
+        "name": "Giovanni's Nidoking",
+        "clean_name": "Giovannis Nidoking",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "007/132",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Intimidate\r\n<br>If the Defending Pokémon's maximum HP is 50 or less, it can't attack Giovanni's Nidoking during your opponent's next turn. <em>(Benching or evolving either Pokémon ends this effect.)</em>",
+          "[1GGG] Tumbling Attack (40+)\r\n<br>Flip a coin. If heads, this attack does 40 damage plus 30 more damage; if tails, this attack does 40 damage."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 180.96,
+            "mid_price": 249.99,
+            "high_price": 2268.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 219.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 63.13,
+            "mid_price": 82.99,
+            "high_price": 692.47,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 77.83,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85718"
+      },
+      "cardmarket": {
+        "product_name": "Giovanni's Nidoking",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 21.5,
+            "avg30": 26.8,
+            "trend": 24.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 127.47,
+            "low": 9.9,
+            "avg1": 549.99,
+            "avg7": 180.47,
+            "avg30": 98.21,
+            "trend": 167.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Giovannis-Nidoking-GC7"
+      }
+    },
+    {
+      "id": "pk_4b0113fefef4371e5815e0bf36aa497054cdf6f8e156785bc7510140e287c173e40bb9be486525b8c0b77c2c93",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "031/110",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 13.59,
+            "high_price": 138.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 14.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 305.12,
+            "mid_price": 305.12,
+            "high_price": 305.12,
+            "updated_at": "2026-10-09T11:35:17.687658",
+            "market_price": 262.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87694"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 142.83,
+            "low": 15,
+            "avg1": 130,
+            "avg7": 131.6,
+            "avg30": 81.88,
+            "trend": 116.88,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.38,
+            "low": 1.9,
+            "avg1": 8.9,
+            "avg7": 8.37,
+            "avg30": 7.76,
+            "trend": 9.12,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidoking-LC31"
+      }
+    },
+    {
+      "id": "pk_0ee343b9cc5bb596edcba1f310dea25ca94dc71d02d0bb0e8febfc86f6fe93c6e2ef7c600b04e1c6e6004600ce",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Plasma Freeze",
+        "set_code": "PLF",
+        "set_id": "1382",
+        "card_number": "58/116",
+        "rarity": "Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Lovestrike (20+) Does 40 more damage for each Nidoqueen on your Bench.",
+          "[3F] Horn Drill (90)"
+        ],
+        "weakness": "Wx2",
+        "resistance": "L-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.7,
+            "mid_price": 4.12,
+            "high_price": 42,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.9,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 9.99,
+            "mid_price": 19.99,
+            "high_price": 269.82,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 19.69,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87700"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 3,
+            "low": 0.9,
+            "avg1": 22.93,
+            "avg7": 13.5,
+            "avg30": 10.15,
+            "trend": 11.88,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.05,
+            "low": 0.05,
+            "avg1": 6.99,
+            "avg7": 2.56,
+            "avg30": 1.9,
+            "trend": 2.56,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidoking-PLF58"
+      }
+    },
+    {
+      "id": "pk_274094a9087d6e147f3648ebf3251587ee2f65f185debade691ce2c144700b8748862e79faa4745ecd24ef134b",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Rising Rivals",
+        "set_code": "RR",
+        "set_id": "1367",
+        "card_number": "29/111",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": "Territoriality - If your Active Pokemon is damaged by an opponent's attack (even if that Pokemon is Knocked Out), put 2 damage counters on the Attacking Pokemon.  You can't put more than 2 damage counters this way. (Poke-BODY)",
+        "attacks": [
+          "[3] Fling Away (60) If your opponent has any Benched Pokemon, this attack's base damage is 30 instead of 60 and this attack does 30 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[3F] Giga Horn (100) Flip 2 coins.  If both of them are tails, this attack does nothing."
+        ],
+        "weakness": "W+30",
+        "resistance": "L-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 8.1,
+            "high_price": 72.92,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 7.64,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 13.57,
+            "mid_price": 36.24,
+            "high_price": 239.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 14.29,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87698"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking Lv.59",
+        "prices": [
+          {
+            "avg": 2.43,
+            "low": 0.49,
+            "avg1": 2,
+            "avg7": 2.6,
+            "avg30": 2.45,
+            "trend": 2.53,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.53,
+            "low": 0.4,
+            "avg1": 1.99,
+            "avg7": 1.79,
+            "avg30": 1.59,
+            "trend": 1.51,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidoking-Lv59-RR29"
+      }
+    },
+    {
+      "id": "pk_8b01bb984e330f9f5ac582867e999e8e0c5fbc32b235a6c349ce1924dbb1df18aa610044fd25d2debd57e7e124db",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "SM - Team Up",
+        "set_code": "SM9",
+        "set_id": "2377",
+        "card_number": "59/181",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Drag Off\r\n<br>Switch 1 of your opponent's Benched Pokemon with his or her Active Pokemon. This attack does 50 damage to the new Active Pokemon.",
+          "[2P] King Drum (100+)\r\n<br>If Nidoqueen is on your Bench, this attack does 100 more damage."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.65,
+            "mid_price": 1.22,
+            "high_price": 3.08,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.05,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.5,
+            "mid_price": 3.55,
+            "high_price": 38.09,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 2.9,
+            "direct_low_price": 2.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183837"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 7.8,
+            "low": 0.2,
+            "avg1": 17,
+            "avg7": 9.13,
+            "avg30": 5.13,
+            "trend": 7.29,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.87,
+            "low": 0.2,
+            "avg1": 0.77,
+            "avg7": 2.74,
+            "avg30": 1.92,
+            "trend": 2.44,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Up/Nidoking-TEU59"
+      }
+    },
+    {
+      "id": "pk_e325dc082822d6e2e6118b269f1cb82fd0ebc89493a3a17915b126f6a460dd53da91f72cf2eded0a969f60689af86900",
+      "card_info": {
+        "name": "Team Rocket's Nidoking ex - 119/182",
+        "clean_name": "Team Rocket's Nidoking ex",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "119/182",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "330.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[DDC] Tainted Horn (100)<br> Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
+          "[DDDC] Kingly Impact (240)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.88,
+            "high_price": 53,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.79,
+            "direct_low_price": 1.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/632927"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Nidoking ex",
+        "prices": [
+          {
+            "avg": 0.62,
+            "low": 0.04,
+            "avg1": 0.44,
+            "avg7": 0.57,
+            "avg30": 0.6,
+            "trend": 0.51,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Nidoking-ex-V1-DRI119"
+      }
+    },
+    {
+      "id": "pk_05255a86a38d457d6c195181d77bb6722c8c5181c4c4a671a5a2897e80fe96f064d8955487b13e3b50171578e7ca04a6",
+      "card_info": {
+        "name": "Team Rocket's Nidoking ex - 216/182",
+        "clean_name": "Team Rocket's Nidoking ex",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "216/182",
+        "rarity": "Ultra Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "330.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[DDC] Tainted Horn (100)<br> Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
+          "[DDDC] Kingly Impact (240)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.11,
+            "mid_price": 4,
+            "high_price": 49.22,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 3.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/633016"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Nidoking ex",
+        "prices": [
+          {
+            "avg": 4.04,
+            "low": 0.9,
+            "avg1": 3.1,
+            "avg7": 3.44,
+            "avg30": 3.94,
+            "trend": 3.21,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Nidoking-ex-V2-DRI216"
+      }
+    },
+    {
+      "id": "pk_e3f00a83a3c80ea91fb72162b83a9d88fa002cb2a4127f23277edd82c6cfaec91d3b6dd0190a9ef3e7f4dec961849aae",
+      "card_info": {
+        "name": "Team Rocket's Nidoking ex - 233/182",
+        "clean_name": "Team Rocket's Nidoking ex",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "233/182",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "330.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[DDC] Tainted Horn (100)<br> Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
+          "[DDDC] Kingly Impact (240)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 69.99,
+            "mid_price": 93.72,
+            "high_price": 936.52,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 79.51,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/633033"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Nidoking ex",
+        "prices": [
+          {
+            "avg": 111.63,
+            "low": 75,
+            "avg1": 92.5,
+            "avg7": 110.39,
+            "avg30": 109.74,
+            "trend": 106.13,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Nidoking-ex-V3-DRI233"
+      }
+    },
+    {
+      "id": "pk_4d88697918c85a387050f8a7643b79a4a23578f592d833b8d56e6d323fd8d1727c7cfc76ec6bda03b60dec9515448a",
+      "card_info": {
+        "name": "Nidoking - 034/165",
+        "clean_name": "Nidoking",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "034/165",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Enthusiastic King</strong>\r\n<br>If you have Nidoqueen in play, ignore all Energy in the costs of attacks used by this Pokemon.",
+        "attacks": [
+          "[2DD] Venomous Impact (190)\r\n<br>Your opponent's Active Pokemon is now Poisoned."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.57,
+            "high_price": 15.19,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 1.38,
+            "direct_low_price": 1.71,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.08,
+            "mid_price": 0.3,
+            "high_price": 17.98,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.29,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516024"
+      },
+      "cardmarket": {
+        "product_name": "Nidoking",
+        "prices": [
+          {
+            "avg": 1.86,
+            "low": 0.15,
+            "avg1": 1.88,
+            "avg7": 1.82,
+            "avg30": 1.9,
+            "trend": 2.02,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.23,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.31,
+            "avg30": 0.26,
+            "trend": 0.33,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Nidoking-V1-MEW034"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 62,
+    "total_pages": 4
+  },
+  "metadata": {
+    "total_count": 62,
+    "tcg": 55,
+    "cardmarket": 50,
+    "tcg_only": 12,
+    "cardmarket_only": 7,
+    "both_sources": 43
+  }
+}

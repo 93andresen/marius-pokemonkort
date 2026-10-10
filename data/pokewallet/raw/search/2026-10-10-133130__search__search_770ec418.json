@@ -1,0 +1,1247 @@
+{
+  "query": "Zapdos ex",
+  "results": [
+    {
+      "id": "pk_69c4d775744a4c7aa578781c1cde919ae27d7de55e61f2c268bc3f860f8fa0cfe3124859aadb3695d99ee01e1295",
+      "card_info": {
+        "name": "Zapdos - 41/99 (Next Destinies)",
+        "clean_name": "Zapdos 41 99 Next Destinies",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "041/099",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2L] Random Spark\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[3L] Thundering Hurricane (50x)\r\n<br>Flip 4 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10,
+            "mid_price": 100,
+            "high_price": 181.68,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 12.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/147239"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bb7d15241d558f9596488e37564a18b6fb0a63095d5fe52b49af48d3055e49f7ca6c637d7e92487e1ae74b4fd980",
+      "card_info": {
+        "name": "Zapdos - 46/113 (BW Legendary Treasures)",
+        "clean_name": "Zapdos 46 113 BW Legendary Treasures",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "046/113",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2L] Random Spark\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[3L] Thundering Hurricane (50x)\r\n<br>Flip 4 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.06,
+            "high_price": 16.94,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 1.35,
+            "direct_low_price": 0.99,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/123624"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1dda846f0bef06bee054491237601a7255007c89d6703228e15fb5f19dcc0ed71da85b05c95a164562345f9dc06f",
+      "card_info": {
+        "name": "Zapdos - 23/108 (XY Roaring Skies)",
+        "clean_name": "Zapdos 23 108 XY Roaring Skies",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "023/108",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Drill Peck (20)",
+          "[1LL] Raging Thunder (120)\r\n<br>This attack does 40 damage to 1 of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.5,
+            "high_price": 50,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 3.92,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131318"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_771c9706044771e08baf63f58d767b0331f33bc62fb1475c7420d0a1e239139c6f487a59d6c1cf15b2a7c0f932b2",
+      "card_info": {
+        "name": "Zapdos - 40/181",
+        "clean_name": "Zapdos",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "040/181",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunderous Assault (10+)\r\n<br>If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.69,
+            "high_price": 17.84,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/200378"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a333f5fe08481e912d2d00f047d77a3c0398a7e98543c6813e17ae157d85a00ace131e6c3cbe0bac9d7d8f6c24b9",
+      "card_info": {
+        "name": "Zapdos ex",
+        "clean_name": "Zapdos ex",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "116/112",
+        "rarity": "Secret Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Legendary Ascent \r<br>\n<br>Once during your turn, when you put Zapdos ex from your hand onto your Bench, you may switch 1 of your Active Pokemon with Zapdos ex.  If you do, you may also move any number of basic Lightning Energy cards attached to your Pokemon to Zapdos ex.",
+        "attacks": [
+          "[1LL] Electron Crush (50+) \r\n<br>You may discard an Energy card attached to Zapdos ex.  If you do, this attack does 50 damage plus 20 more damage."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 179.98,
+            "mid_price": 219.99,
+            "high_price": 249.98,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 270.42,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90723"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 141,
+            "low": 15.99,
+            "avg1": 1000,
+            "avg7": 223.41,
+            "avg30": 128.27,
+            "trend": 180.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14,
+            "avg7": 29.65,
+            "avg30": 37.47,
+            "trend": 62.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Zapdos-ex-FL116"
+      }
+    },
+    {
+      "id": "pk_7122d85f135fff39f47a2b577a82f370c9b698d8ad7f2d82da6068cc34e8bbd5edfaf2f348041361aa5f",
+      "card_info": {
+        "name": "Zapdos ex - 049",
+        "clean_name": "Zapdos ex",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "049",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Voltaic Float</strong>\r\n<br>If this Pokemon has any L Energy attached, it has no Retreat Cost.",
+        "attacks": [
+          "[LLL] Multishot Lightning (120)\r\n<br>This attack also does 90 damage to 1 of your opponent's Benched Pokemon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.76,
+            "high_price": 29.22,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 1.78,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/520722"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 1.31,
+            "low": 0.09,
+            "avg1": 1.5,
+            "avg7": 1.48,
+            "avg30": 1.28,
+            "trend": 1.25,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Zapdos-ex-V2-SVP049"
+      }
+    },
+    {
+      "id": "pk_f3f21a5adfc49b7f9e99f2133e25399c3db9f12b8c7133d9d9ca1be358cf05670cd13bf28e5479845942da488c9d",
+      "card_info": {
+        "name": "Team Rocket's Zapdos (Gamestop Exclusive)",
+        "clean_name": "Team Rockets Zapdos Gamestop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "070/182",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Jamming Wing (30)<br> You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",
+          "[LCC] Wicked Thunder (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13,
+            "mid_price": 18.26,
+            "high_price": 326.26,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 15.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635500"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6b52b29e888167ad22f313225dea1e10fc1522f9a7456129b46f707e8eb5a2a5903890f27a1aee82f963627e0e93",
+      "card_info": {
+        "name": "Team Rocket's Zapdos (EB Games Exclusive)",
+        "clean_name": "Team Rockets Zapdos EB Games Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "070/182",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Jamming Wing (30)<br> You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",
+          "[LCC] Wicked Thunder (60+)<br> If this Pokémon has any 182 attached, this attack does 60 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 89,
+            "mid_price": 119.09,
+            "high_price": 999.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 123.82,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635501"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4712e70f53f588fe33ad79492c15fe599dc8ff0c4be00637c19b45eda7155784576a1a5839f065c9786aa7df",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "41/99",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2L] Random Spark - This attack does 50 damage to 1 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[3L] Thundering Hurricane (50x) Flip 4 coins.  This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.42,
+            "mid_price": 13,
+            "high_price": 184.46,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 9.49,
+            "direct_low_price": 183.83,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 3.22,
+            "mid_price": 9,
+            "high_price": 91.88,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 7.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90721"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": 7.03,
+            "low": 0.2,
+            "avg1": 1.95,
+            "avg7": 5.64,
+            "avg30": 5.87,
+            "trend": 1.58,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.86,
+            "low": 0.49,
+            "avg1": 9.9,
+            "avg7": 5.72,
+            "avg30": 6.9,
+            "trend": 6.61,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Zapdos-NXD41"
+      }
+    },
+    {
+      "id": "pk_6559f39ab0d4158ab5352c3bf926e6c47894737cc1e9f413d5442fcc4599a13da92e8c69f2d66c6c92",
+      "card_info": {
+        "name": "Zapdos ex - 033 (EX Collector's Window Tins)",
+        "clean_name": "Zapdos ex 033 EX Collectors Window Tins",
+        "set_name": "Nintendo Promos",
+        "set_code": "PR",
+        "set_id": "1423",
+        "card_number": "033",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Synchronized Lift</strong>\r\n<br>\r\nAs long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0.",
+        "attacks": [
+          "[1] Thunder Gift (10)\r\n<br>You may move a Lightning Energy card attached to Zapdos ex to 1 of your Pokémon.",
+          "[1LL] Lightning Wing (60)\r\n<br>Does 10 damage to 1 of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 225,
+            "mid_price": 737.31,
+            "high_price": 1499.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 150.37,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90724"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6,
+            "avg7": 26.55,
+            "avg30": 11.91,
+            "trend": 24.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 64.55,
+            "low": 9,
+            "avg1": 149.95,
+            "avg7": 68.78,
+            "avg30": 57.98,
+            "trend": 62.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Zapdos-ex-NP33"
+      }
+    },
+    {
+      "id": "pk_76779b0506b81b3ccd73a763504c26c4c0fb126e211e0dd68e182913cc94c74e4627c3d5743989e65562c3bd4a",
+      "card_info": {
+        "name": "Zapdos EX (Team Plasma)",
+        "clean_name": "Zapdos EX Team Plasma",
+        "set_name": "Plasma Storm",
+        "set_code": "PLS",
+        "set_id": "1413",
+        "card_number": "48/135",
+        "rarity": "Ultra Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1L] Agility (30) Flip a coin.  If heads, prevent all effects of attacks, including damage, done to this Pokemon during your opponent's next turn.",
+          "[2LL] Powervolt (80+) If this Pokemon has any Plasma Energy attached to it, this attack does 40 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 12.58,
+            "high_price": 220.71,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 12.97,
+            "direct_low_price": 12.79,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90725"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos EX",
+        "prices": [
+          {
+            "avg": 17.16,
+            "low": 2,
+            "avg1": 19.95,
+            "avg7": 16.46,
+            "avg30": 12.41,
+            "trend": 15.1,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.5,
+            "avg7": 5.49,
+            "avg30": 4.41,
+            "trend": 6.3,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Zapdos-EX-PLS48"
+      }
+    },
+    {
+      "id": "pk_920af498a2a63d8e7b35f77477e9ee372ba6b64ee7d129336f1e80ef0871017b648ead8a9c8f0bbb00b00bede6ae1c60",
+      "card_info": {
+        "name": "Zapdos ex - 145/165",
+        "clean_name": "Zapdos ex",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "145/165",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Voltaic Float</strong>\r\n<br>If this Pokemon has any L Energy attached, it has no Retreat Cost.",
+        "attacks": [
+          "[LLL] Multishot Lightning (120)\r\n<br>This attack also does 90 damage to 1 of your opponent's Benched Pokemon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 1.85,
+            "high_price": 16,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 1.8,
+            "direct_low_price": 3.47,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516708"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 2.18,
+            "low": 0.8,
+            "avg1": 1.78,
+            "avg7": 2.16,
+            "avg30": 2.17,
+            "trend": 2.33,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Zapdos-ex-V1-MEW145"
+      }
+    },
+    {
+      "id": "pk_e64b25466e78b96ae57b0e238e1e12d00c58470edded01d54ae4956a6ec83492b61cbc51b3bf498a73abb146c05a4c3a",
+      "card_info": {
+        "name": "Zapdos ex - 192/165",
+        "clean_name": "Zapdos ex",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "192/165",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Voltaic Float</strong>\r\n<br>If this Pokémon has any L Energy attached, it has no Retreat Cost.",
+        "attacks": [
+          "[LLL] Multishot Lightning 120\r\n<br>This attack also does 90 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 11.64,
+            "high_price": 112.54,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 10.58,
+            "direct_low_price": 9.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/517040"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 14.96,
+            "low": 9.9,
+            "avg1": 13.56,
+            "avg7": 14.65,
+            "avg30": 14.64,
+            "trend": 12.66,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Zapdos-ex-V2-MEW192"
+      }
+    },
+    {
+      "id": "pk_6a947396d84347aeba03395eb827b3862f21607ab8ccac2dbcfb687965261a213d47876f4d89d70e17bcc62702b67c88",
+      "card_info": {
+        "name": "Zapdos ex - 202/165",
+        "clean_name": "Zapdos ex",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "202/165",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Voltaic Float</strong>\r\n<br>If this Pokémon has any L Energy attached, it has no retreat cost.",
+        "attacks": [
+          "[LLL] Multishot Lightning (120)\r\n<br>This attack also does 90 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 73.48,
+            "mid_price": 94,
+            "high_price": 304.99,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 83.11,
+            "direct_low_price": 80.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/517048"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 126.48,
+            "low": 60,
+            "avg1": 113.9,
+            "avg7": 111.82,
+            "avg30": 121.81,
+            "trend": 103.86,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Zapdos-ex-V3-MEW202"
+      }
+    },
+    {
+      "id": "pk_a5c7fec79ea768da5a0396fbb3f2b5af1f744e0d83fd4ef15d5a1947b4c759751100c215b5bec7042f771f",
+      "card_info": {
+        "name": "Zapdos ex - 049",
+        "clean_name": "Zapdos ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "049",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Voltaic Float</strong>\r\n<br>If this Pokemon has any L Energy attached, it has no Retreat Cost.",
+        "attacks": [
+          "[LLL] Multishot Lightning (120)\r\n<br>This attack also does 90 damage to 1 of your opponent's Benched Pokemon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 0.99,
+            "high_price": 19.14,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.85,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/518869"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos ex",
+        "prices": [
+          {
+            "avg": 0.91,
+            "low": 0.09,
+            "avg1": 0.98,
+            "avg7": 0.87,
+            "avg30": 0.91,
+            "trend": 0.85,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Zapdos-ex-V1-SVP049"
+      }
+    },
+    {
+      "id": "pk_0c5141b9b3e32c4103a39c1ae831ad923c536eb449b666f560d1e1ee7fdb773b79aaca7b14de5aa0c9b8da85315a",
+      "card_info": {
+        "name": "Rocket's Zapdos ex",
+        "clean_name": "Rockets Zapdos ex",
+        "set_name": "Team Rocket Returns",
+        "set_code": "RR",
+        "set_id": "1428",
+        "card_number": "106/109",
+        "rarity": "Ultra Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Darkness Guard \r<br>\n<br>As long as Rocket's Zapdos ex has any Darkness Energy attached to it, damage done to Rocket's Zapdos ex by an opponent's attack is reduced by 10 <em>(after applying Weakness and Resistance).  </em>",
+        "attacks": [
+          "[1] Plasma (10) \r\n<br>Search your discard pile for a Lightning Energy card and attach it to Rocket's Zapdos ex.",
+          "[1LL] Raging Thunder (60) \r\n<br>This attack does 30 damage to one of your Pokemon."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 799.99,
+            "mid_price": 799.99,
+            "high_price": 799.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1079.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88801"
+      },
+      "cardmarket": {
+        "product_name": "Rocket's Zapdos ex",
+        "prices": [
+          {
+            "avg": 705,
+            "low": 119,
+            "avg1": 40,
+            "avg7": 409.99,
+            "avg30": 250.03,
+            "trend": 336.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39.99,
+            "avg7": 70.28,
+            "avg30": 59.54,
+            "trend": 78.73,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Rocket-Returns/Rockets-Zapdos-ex-TRR106"
+      }
+    },
+    {
+      "id": "pk_bc38875e50578c46e6a50c26726830b0db8fd4ef0ac9028d86392d5f0f0646b7b99be77ba2258dd72a78cf6caaba",
+      "card_info": {
+        "name": "Zapdos EX (Team Plasma)",
+        "clean_name": "Zapdos EX Team Plasma",
+        "set_name": "BKB: Black Kyurem-EX Battle Strength Deck",
+        "set_code": "BKB",
+        "set_id": "23946",
+        "card_number": "007/018",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Colorless] Agility (30)<br> Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+          "[Lightning][Lightning][Colorless][Colorless] Powervolt (80+)<br> If this Pokémon has any Plasma Energy attached to it, this attack does 40 more damage."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": "Fighting -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.99,
+            "mid_price": 6.99,
+            "high_price": 6.99,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/604952"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos EX",
+        "prices": [
+          {
+            "avg": 8.42,
+            "low": 3.5,
+            "avg1": 3,
+            "avg7": 8.78,
+            "avg30": 7.19,
+            "trend": 9.17,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Kyurem-EX-Battle-Strength-Deck/Zapdos-EX"
+      }
+    },
+    {
+      "id": "pk_eb15f4c1f575d71a6b85101a9c95b877c3761f85c3c9a9089b6036d620b614d747521b53f922adf410724d0a4b12fa",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "CP6: Expansion Pack 20th Anniversary",
+        "set_code": "CP6",
+        "set_id": "23982",
+        "card_number": "040/087",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Lightning][Colorless][Colorless] Thunder (90)<br> This Pokémon does 30 damage to itself.",
+          "[Lightning][Lightning][Lightning][Lightning] Thunderbolt (170)<br> Discard all Energy attached to this Pokémon."
+        ],
+        "weakness": null,
+        "resistance": "Fighting -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.49,
+            "mid_price": 15.76,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 16.14,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/606174"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": 12.13,
+            "low": 5.95,
+            "avg1": 10,
+            "avg7": 15.8,
+            "avg30": 13.87,
+            "trend": 15.24,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expansion-Pack-20th-Anniversary/Zapdos"
+      }
+    },
+    {
+      "id": "pk_6da4251376d18850887d19836a6a37cd69e96e2ce857e29a26ee6a6c87808300dc05e7bf45f6d16cc278e984731150",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "EX Battle Boost",
+        "set_code": "EBB",
+        "set_id": "23912",
+        "card_number": "038/093",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Colorless][Colorless] Random Spark<br> This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Lightning][Colorless][Colorless][Colorless] Thundering Hurricane (50x)<br> Flip 4 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": "Fighting -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.89,
+            "mid_price": 3,
+            "high_price": 3,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 3.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/603069"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos",
+        "prices": [
+          {
+            "avg": 4.5,
+            "low": 0.99,
+            "avg1": 5,
+            "avg7": 5.64,
+            "avg30": 3.77,
+            "trend": 4.8,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 19,
+            "avg1": 12.5,
+            "avg7": 15.83,
+            "avg30": 15.83,
+            "trend": 12.03,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Battle-Boost/Zapdos"
+      }
+    },
+    {
+      "id": "pk_a3d80404e48496199de6112e454036e2f7614ef835cdca01cca8c35c53afedee364a4a97022eda261a33",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Expansion Pack (No Rarity)",
+        "set_code": "23740",
+        "set_id": "23740",
+        "card_number": null,
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Lightning][Lightning][Colorless] Thunder (60)<br> Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "[Lightning][Lightning][Lightning][Lightning] Thunderbolt (100)<br> Discard all Energy cards attached to Zapdos or this attack does nothing."
+        ],
+        "weakness": null,
+        "resistance": "Fighting -30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 349.99,
+            "mid_price": 375,
+            "high_price": 400,
+            "updated_at": "2026-10-10T10:53:27.140813",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/577043"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 42,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 42,
+    "tcg": 34,
+    "cardmarket": 29,
+    "tcg_only": 13,
+    "cardmarket_only": 8,
+    "both_sources": 21
+  }
+}

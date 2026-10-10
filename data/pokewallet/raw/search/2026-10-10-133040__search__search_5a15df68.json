@@ -1,0 +1,1605 @@
+{
+  "query": "Clefable",
+  "results": [
+    {
+      "id": "pk_e277fafaeb21bd5f36546380cbf7958e7c9e848d3c6e7ce58ff7d5b00cf1c780c3ed9845b92425e1991fc1",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "005/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Metronome\r\n<br>\r\nChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)</em>",
+          "[2] Minimize\r\n<br>All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.51,
+            "mid_price": 31.63,
+            "high_price": 242.88,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 34.87,
+            "direct_low_price": 43,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42482"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 20.16,
+            "low": 6.99,
+            "avg1": 14.99,
+            "avg7": 27.85,
+            "avg30": 19.72,
+            "trend": 25.74,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.95,
+            "avg7": 13.06,
+            "avg30": 10.04,
+            "trend": 12.63,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Clefable-B25"
+      }
+    },
+    {
+      "id": "pk_5331bde9a43e2f4d26ccdd6e359e384f2a02796939b5a3aaac8e691dacafd93fbb45f374000dba0c1a4286",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "1/95",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Fairy Power - Return 1 of your Pokemon and all cards attached to it to your hand.",
+          "[2] Moon Impact (40)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 17.24,
+            "high_price": 116.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 18.87,
+            "direct_low_price": 32.13,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 50,
+            "high_price": 129.19,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 12.73,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84348"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 8.27,
+            "low": 0.88,
+            "avg1": 7.99,
+            "avg7": 9.5,
+            "avg30": 8.27,
+            "trend": 9.06,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 9.4,
+            "low": 0.95,
+            "avg1": 6.8,
+            "avg7": 9.46,
+            "avg30": 6.98,
+            "trend": 9.68,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Clefable-CL1"
+      }
+    },
+    {
+      "id": "pk_6c7ca80cc702442ba51d58265159f56e391c7ba38f6f734e653c31dd5daded75ec9614f188916481166bf7c841",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "22/130",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Double Slap (30x)\r\n<br>\r\nFlip 2 coins. This attack does 30 damage times the number of heads.",
+          "[3] Metronome\r\n<br>\r\nChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) Clefable performs that attack."
+        ],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.34,
+            "mid_price": 2.1,
+            "high_price": 62.4,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.32,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.02,
+            "mid_price": 10.05,
+            "high_price": 99.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 5.84,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84347"
+      },
+      "cardmarket": {
+        "product_name": "Clefable Lv.37",
+        "prices": [
+          {
+            "avg": 1.22,
+            "low": 0.2,
+            "avg1": 0.28,
+            "avg7": 1,
+            "avg30": 1.04,
+            "trend": 1.11,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.68,
+            "low": 0.49,
+            "avg1": 2.5,
+            "avg7": 1.68,
+            "avg30": 1.61,
+            "trend": 1.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Clefable-Lv37-DP22"
+      }
+    },
+    {
+      "id": "pk_2fb69ce401d9c4c2bd87680137b76bc0589475ac7eabf282fc3252c76df971f491433544fc9e360be3a2a80d",
+      "card_info": {
+        "name": "Clefable (7)",
+        "clean_name": "Clefable 7",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "007/165",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Moonlight</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put a card from your hand back on your deck. If you do, search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Clefable is affected by a Special Condition.",
+        "attacks": [
+          "[2] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 150,
+            "high_price": 989.65,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 155.37,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 49.99,
+            "mid_price": 82.01,
+            "high_price": 120.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 54.75,
+            "direct_low_price": 120.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84342"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 82.07,
+            "low": 5.9,
+            "avg1": 28.99,
+            "avg7": 75.44,
+            "avg30": 47.96,
+            "trend": 70.75,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 5.9,
+            "avg1": 37.9,
+            "avg7": 38.6,
+            "avg30": 25.86,
+            "trend": 39.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Clefable-EX7"
+      }
+    },
+    {
+      "id": "pk_e25e0429f32f783873c7182fcd60c5a68125afa90be9f42598193f67282895952d76ecd499f94e081d63895585",
+      "card_info": {
+        "name": "Clefable (41)",
+        "clean_name": "Clefable 41",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "041/165",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Moonlight</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put a card from your hand back on your deck. If you do, search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Clefable is affected by a Special Condition.",
+        "attacks": [
+          "[2] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 9.43,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 10.51,
+            "direct_low_price": 29.99,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 45,
+            "mid_price": 92.49,
+            "high_price": 999.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 39.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84344"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 5.72,
+            "low": 0.4,
+            "avg1": 5.47,
+            "avg7": 4.96,
+            "avg30": 5.2,
+            "trend": 5.69,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 14,
+            "low": 1.49,
+            "avg1": 19.95,
+            "avg7": 16.92,
+            "avg30": 13.5,
+            "trend": 18.89,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Clefable-EX41"
+      }
+    },
+    {
+      "id": "pk_c332aabf6ba86fd1bbd5053fd02eec5b3f2e3fc6baf7e5f1255e11e599cf0b6a39b7c29092bda7be36ccfd8fc8b6",
+      "card_info": {
+        "name": "Clefable ex",
+        "clean_name": "Clefable ex",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "106/112",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Metronome\r\n<br>Choose 1 of the Defending Pokemon's attacks.  Metronome copies that attack except for its Energy cost.  (You must still do anything else in order to use that attack.) <i>(No matter what type that Pokemon is, Clefable ex's type is still Colorless.)</i>  Clefable ex performs that attack.",
+          "[2] Moon Impact (40)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 83.41,
+            "mid_price": 109.83,
+            "high_price": 136.24,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 346,
+            "high_price": 799.32,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 97.93,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84350"
+      },
+      "cardmarket": {
+        "product_name": "Clefable ex",
+        "prices": [
+          {
+            "avg": 68.5,
+            "low": 10,
+            "avg1": 15,
+            "avg7": 70.52,
+            "avg30": 54.71,
+            "trend": 74.43,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9,
+            "avg7": 17.1,
+            "avg30": 12.35,
+            "trend": 15.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Clefable-ex-FL106"
+      }
+    },
+    {
+      "id": "pk_1489ac346cb81cb5d17ec06f5df6817f68189b655e1b1c7c2086603fc959c6ce2426329cbc738bd3406425f290",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "51/83",
+        "rarity": "Uncommon",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Follow Me\r\n<br>Switch 1 of your opponent's Benched Pokemon with your opponent's Active Pokemon.",
+          "[1Y] Moonlight (30)\r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 <i>(before applying Weakness and Resistance).</i>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 4,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.52,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.87,
+            "mid_price": 2.22,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 2,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113709"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 1.59,
+            "low": 0.1,
+            "avg1": 1.5,
+            "avg7": 1.58,
+            "avg30": 1.4,
+            "trend": 1.97,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.4,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.37,
+            "avg30": 0.36,
+            "trend": 0.38,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clefable-GEN51"
+      }
+    },
+    {
+      "id": "pk_7376dc811a1478375b8801eb3c7e29588c28cc9031f10204a4c478837d95537c3ee97c182458495840ff814b",
+      "card_info": {
+        "name": "Erika's Clefable",
+        "clean_name": "Erikas Clefable",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "003/132",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Fairy Power\r\n<br>Flip a coin. If heads, you may return any number of your Pokémon in play and all cards attached to them to your hand.",
+          "[3] Moon Impact (30)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 61.75,
+            "mid_price": 375,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 96.41,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 31.5,
+            "mid_price": 49.08,
+            "high_price": 363.14,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 51.93,
+            "direct_low_price": 89.95,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85287"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Clefable",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.97,
+            "avg7": 12.82,
+            "avg30": 21.42,
+            "trend": 16.98,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 40.49,
+            "low": 14,
+            "avg1": 55,
+            "avg7": 44.43,
+            "avg30": 40.35,
+            "trend": 44.72,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Clefable-GH3"
+      }
+    },
+    {
+      "id": "pk_ed03ea404655a83c2440c7dfd3be26c46e9aec0abb1fec8f620694442e2ea7c9b8ab5941bbfc3438ef079f87",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "3/123",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Fairy Power - Return 1 of your Pokemon and all cards attached to it to your hand.",
+          "[2] Moon Impact (40)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.07,
+            "mid_price": 12.98,
+            "high_price": 69.62,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 12.22,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 4.04,
+            "mid_price": 203.96,
+            "high_price": 206.02,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 9.47,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84346"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 4.47,
+            "low": 0.79,
+            "avg1": 1.5,
+            "avg7": 5.01,
+            "avg30": 3.92,
+            "trend": 3.42,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 18,
+            "low": 0.9,
+            "avg1": 32.99,
+            "avg7": 9.79,
+            "avg30": 4.73,
+            "trend": 10.3,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Clefable-HS3"
+      }
+    },
+    {
+      "id": "pk_13e0c6f6d94c65966df01d04d1894450cbbfb502e49dfef1d3d6ab4dab239d6146895ea73e3b80222656d56811",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "40/68",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1Y] Pound (40)",
+          "[1YY] Moon Impact (90)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.24,
+            "high_price": 17.68,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.23,
+            "direct_low_price": 0.65,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.13,
+            "mid_price": 0.51,
+            "high_price": 14.46,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.51,
+            "direct_low_price": 0.49,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197684"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.6,
+            "low": 0.1,
+            "avg1": 0.38,
+            "avg7": 0.5,
+            "avg30": 0.53,
+            "trend": 0.65,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.29,
+            "low": 0.03,
+            "avg1": 0.23,
+            "avg7": 0.28,
+            "avg30": 0.27,
+            "trend": 0.31,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefable-HIF40"
+      }
+    },
+    {
+      "id": "pk_63d5e8b16ea37ad48ce71252b19b0c23b8388cafee6a9cddcbf476cd4d1dcdaa9d8e3022485f014d1415",
+      "card_info": {
+        "name": "Clefable (1)",
+        "clean_name": "Clefable 1",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "01/64",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Metronome\r\n<br>\r\nChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)</em>",
+          "[2] Minimize\r\n<br>\r\nAll damage done by attacks to Clefable during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 75.98,
+            "mid_price": 113.63,
+            "high_price": 1045.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 119.1,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 20,
+            "mid_price": 28.5,
+            "high_price": 192.34,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 37.86,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45120"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 28.91,
+            "low": 4,
+            "avg1": 24.12,
+            "avg7": 17.92,
+            "avg30": 23.79,
+            "trend": 19.87,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.86,
+            "avg7": 10.87,
+            "avg30": 11.63,
+            "trend": 11.78,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Clefable-V1-JU1"
+      }
+    },
+    {
+      "id": "pk_4457ca7234223f4d496a71f0ef7a5c51489a3cf7df5867260e4baf0ff54e63b5f6b323ef02a68f7cee618f83",
+      "card_info": {
+        "name": "Clefable (17)",
+        "clean_name": "Clefable 17",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "17/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Metronome\r\n<br>\r\nChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)</em>",
+          "[2] Minimize\r\n<br>\r\nAll damage done by attacks to Clefable during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.99,
+            "mid_price": 18.5,
+            "high_price": 155.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 14.91,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.99,
+            "mid_price": 6.96,
+            "high_price": 4315.43,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.13,
+            "direct_low_price": 6.93,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106979"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.5,
+            "avg7": 11.5,
+            "avg30": 10.43,
+            "trend": 8.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.2,
+            "low": 0.5,
+            "avg1": 2.2,
+            "avg7": 4.19,
+            "avg30": 6.87,
+            "trend": 5.27,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Clefable-V2-JU17"
+      }
+    },
+    {
+      "id": "pk_0fb9787e8eb280f86e49ba8c5d1d65b5b2e9fbe86e5fbab7591cc07d0fafdba9489636a6672ba2952da8223686",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "Plasma Storm",
+        "set_code": "PLS",
+        "set_id": "1413",
+        "card_number": "98/135",
+        "rarity": "Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "Moon Guidance - Once during your turn (before your attack), you may flip a coin.  If heads, search your deck for a card that evolves from 1 of your Pokemon and put it onto that Pokemon.  (This counts as evolving that Pokemon.)  Shuffle your deck afterward.  (Ability)",
+        "attacks": [
+          "[3] Moon Impact (50)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 4.63,
+            "high_price": 32.52,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 4.02,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.64,
+            "mid_price": 14.8,
+            "high_price": 609.3,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 12.01,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84349"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 2.94,
+            "low": 0.3,
+            "avg1": 1.13,
+            "avg7": 2.59,
+            "avg30": 1.8,
+            "trend": 2.55,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6,
+            "low": 0.9,
+            "avg1": 2.8,
+            "avg7": 4.54,
+            "avg30": 3.06,
+            "trend": 4.39,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Clefable-PLS98"
+      }
+    },
+    {
+      "id": "pk_32bae332bb797a5b528f8aa11e3c0f3892fbfe20c59af8d855c349e58e8761aba8f762d55bd0af300f63ffdee9e6",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SM - Guardians Rising",
+        "set_code": "SM02",
+        "set_id": "1919",
+        "card_number": "89/145",
+        "rarity": "Uncommon",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby (20)\r\n<br>Your opponent's Active Pokemon is now Asleep.",
+          "[2Y] Meteor Mash (60)\r\n<br>During your next turn, this Pokemon's Meteor Mash attack does 60 more damage <i>(before applying Weakness and Resistance)</i>."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.4,
+            "high_price": 16.18,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.37,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.89,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.91,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131003"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.16,
+            "avg30": 0.11,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.52,
+            "low": 0.02,
+            "avg1": 1.49,
+            "avg7": 0.54,
+            "avg30": 0.58,
+            "trend": 0.65,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Clefable-GRI89"
+      }
+    },
+    {
+      "id": "pk_58a8fbb42d519a12a0a4c420c20f982e919a17082e1e0ce6b0eda00cb931dff2bca6e127e0365021409100283cf415",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "133/214",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Moon-Watching Dance (10+)\r\n<br>This attack does 30 more damage for each of your Pokémon that has any Y Energy attached to it."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.49,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.67,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.7,
+            "mid_price": 1.49,
+            "high_price": 17.12,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.37,
+            "direct_low_price": 2.46,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189231"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 2.5,
+            "low": 0.2,
+            "avg1": 2.5,
+            "avg7": 2.19,
+            "avg30": 1.61,
+            "trend": 2.35,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.81,
+            "low": 0.04,
+            "avg1": 1,
+            "avg7": 0.51,
+            "avg30": 0.65,
+            "trend": 0.77,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Clefable-UNB133"
+      }
+    },
+    {
+      "id": "pk_ccc8bf853b4e67885b58089f80f1c83b178ab227142534781f80b7b077a6d84a7b607e8a04a4eba1707b18dc3c2952",
+      "card_info": {
+        "name": "Clefable ex",
+        "clean_name": "Clefable ex",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "082/197",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Lunar Zone</strong>\r\n<br>All of your Pokemon that have any [P] Energy attached have no Retreat Cost.",
+        "attacks": [
+          "[P][P][P] Wondrous Moon (170)\r\n<br>You may move any amount of [P] Energy from your Pokemon to your other Pokemon in any way you like."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.43,
+            "high_price": 9.99,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 1.56,
+            "direct_low_price": 2.46,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509821"
+      },
+      "cardmarket": {
+        "product_name": "Clefable ex",
+        "prices": [
+          {
+            "avg": 1.12,
+            "low": 0.25,
+            "avg1": 0.83,
+            "avg7": 1.11,
+            "avg30": 1.07,
+            "trend": 0.95,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Clefable-ex-OBF082"
+      }
+    },
+    {
+      "id": "pk_fd4e5def76b3606b254d15b29c089142d03f2adbc8c749e2725da8d7ec8d984e94dba6fa4e51b35c7a96afcedaa84d",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "079/167",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Metronome\nChoose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+          "[PCC] Magical Shot (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.2,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.25,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.24,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550123"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.17,
+            "avg30": 0.16,
+            "trend": 0.14,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Clefable-TWM079"
+      }
+    },
+    {
+      "id": "pk_3e4563ba31aac7354fb29a054259bb4f7a78b7b955fca81601b3913c6109062b84291c5cab227585e7867c806f0e40",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SV: Scarlet & Violet 151",
+        "set_code": "MEW",
+        "set_id": "23237",
+        "card_number": "036/165",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[P] Follow Me\r\n<br>Switch in 1 of your opponent's Benched Pokemon to the Active Spot.",
+          "[PPP] More Moon (50)\r\n<br>If your opponent's Pokemon is Knocked Out by damage from this attack, take 1 more Prize card."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.24,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 15.29,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.35,
+            "direct_low_price": 0.31,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516036"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.07,
+            "trend": 0.07,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.26,
+            "avg30": 0.23,
+            "trend": 0.24,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Clefable-MEW036"
+      }
+    },
+    {
+      "id": "pk_fe2aceec3d7a035ac90f310fabff9c932cb4b5093c5b62142993e1dc0a16ea9c5d93a3c3cddbebf9f09a87986cd3",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SWSH02: Rebel Clash",
+        "set_code": "SWSH02",
+        "set_id": "2626",
+        "card_number": "075/192",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Prankish</strong>\r\n<br>When you play this Pokemon from your hand to evolve 1 of your Pokemon during your turn, you may put an Energy attached to your opponent's Active Pokemon on top of their deck.",
+        "attacks": [
+          "[1P] Moon Kick (60)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.68,
+            "mid_price": 1.6,
+            "high_price": 18.32,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.7,
+            "direct_low_price": 2.94,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.36,
+            "mid_price": 1.18,
+            "high_price": 2.47,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.21,
+            "direct_low_price": 1.8,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/213161"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.7,
+            "low": 0.15,
+            "avg1": 0.93,
+            "avg7": 0.83,
+            "avg30": 0.74,
+            "trend": 0.63,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.91,
+            "low": 0.18,
+            "avg1": 0.77,
+            "avg7": 2.07,
+            "avg30": 1.11,
+            "trend": 1.32,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Clefable-RCL75"
+      }
+    },
+    {
+      "id": "pk_a7d52c7600299a34589955245611fc5baebc48b9a954f0be978b6f4d60423fce8ccd3ff7dedc820e6447ba4b1ad5",
+      "card_info": {
+        "name": "Clefable",
+        "clean_name": "Clefable",
+        "set_name": "SWSH04: Vivid Voltage",
+        "set_code": "SWSH04",
+        "set_id": "2701",
+        "card_number": "064/185",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Lunar Blessing</strong>\r\n<br>Once during your turn, you may heal 20 damage from your Active Pokémon with any Psychic Energy attached, and it recovers from a Special Condition.",
+        "attacks": [
+          "[2P] Magical Shot (80)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.74,
+            "high_price": 9.2,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.74,
+            "direct_low_price": 0.47,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.38,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.39,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/226468"
+      },
+      "cardmarket": {
+        "product_name": "Clefable",
+        "prices": [
+          {
+            "avg": 0.56,
+            "low": 0.1,
+            "avg1": 0.32,
+            "avg7": 0.58,
+            "avg30": 0.58,
+            "trend": 0.55,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.23,
+            "avg30": 0.21,
+            "trend": 0.25,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Clefable-VIV64"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 86,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 86,
+    "tcg": 70,
+    "cardmarket": 81,
+    "tcg_only": 5,
+    "cardmarket_only": 16,
+    "both_sources": 65
+  }
+}

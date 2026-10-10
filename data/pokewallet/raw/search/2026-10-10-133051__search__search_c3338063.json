@@ -1,0 +1,1384 @@
+{
+  "query": "Ninetales",
+  "results": [
+    {
+      "id": "pk_5fea337b0cf9ff762140cf18e620723dbfcbb5432d0f32d34e03f20da91aab0e5805152d4aa60e745b8aa4c66b6a",
+      "card_info": {
+        "name": "Ninetales (H19)",
+        "clean_name": "Ninetales H19",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H19/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Miracle Tail (10)\r\n<br>Flip a coin. If heads, choose a Special Condition <em>(Asleep, Burned, Confused, Paralyzed, or Poisoned)</em>. The Defending Pokémon is now affected by that Special Condition.",
+          "[2R] Roasting Heat (40+)\r\n<br>If the Defending Pokémon is Burned, this attack does 40 damage plus 20 more damage."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.99,
+            "mid_price": 649.99,
+            "high_price": 799.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 399.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87767"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 18,
+            "avg7": 35.5,
+            "avg30": 23.4,
+            "trend": 26.6,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 110,
+            "low": 23,
+            "avg1": 2050,
+            "avg7": 352.5,
+            "avg30": 190.53,
+            "trend": 465.21,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ninetales-V1-AQH19"
+      }
+    },
+    {
+      "id": "pk_7d6e25efdf5cd962006f456683a4d2db6104f992304d4b30a39942dc1561e5b2372dfa6cf737ebc664e86b11b1",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "025/147",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Miracle Tail (10)\r\n<br>Flip a coin. If heads, choose a Special Condition <em>(Asleep, Burned, Confused, Paralyzed, or Poisoned)</em>. The Defending Pokémon is now affected by that Special Condition.",
+          "[2R] Roasting Heat (40+)\r\n<br>If the Defending Pokémon is Burned, this attack does 40 damage plus 20 more damage."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.5,
+            "mid_price": 49.99,
+            "high_price": 459.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 42.97,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 104.75,
+            "mid_price": 202.38,
+            "high_price": 300,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 110,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87768"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 7.93,
+            "low": 1,
+            "avg1": 16.5,
+            "avg7": 10,
+            "avg30": 9.2,
+            "trend": 9.92,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.67,
+            "low": 15,
+            "avg1": 6,
+            "avg7": 9.55,
+            "avg30": 12.95,
+            "trend": 8.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ninetales-V2-AQ25"
+      }
+    },
+    {
+      "id": "pk_689903a0afb1198b22f1c65b8d751b9ea9a9eabf58ba1bac1959d68a865731dbca20071cf2664053c364cbd1",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "013/130",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+          "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13,
+            "mid_price": 22.9,
+            "high_price": 269.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 34.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42457"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.99,
+            "avg7": 13.92,
+            "avg30": 11.47,
+            "trend": 12.98,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 18.24,
+            "low": 5,
+            "avg1": 11.81,
+            "avg7": 242.8,
+            "avg30": 79.13,
+            "trend": 273.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Ninetales-B213"
+      }
+    },
+    {
+      "id": "pk_46f5b37a04389c5dc045e027fac4161d4191f916605c7dca1973fcc0bd24289f3c7fb160642dd0c2df8fe99a8168",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "012/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+          "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 399.99,
+            "mid_price": 699.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 800,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 68.69,
+            "mid_price": 141.05,
+            "high_price": 5708.66,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 141.05,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107008"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales (Shadowless)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 702,
+            "low": 34.98,
+            "avg1": 39.99,
+            "avg7": 239.28,
+            "avg30": 126.9,
+            "trend": 243.1,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Ninetales-V2-BS12"
+      }
+    },
+    {
+      "id": "pk_6b85811d4f15599e8482a0d5577cde7f8078940d36e3e568019d2ea408ac1389fc2cde317ed52541fe17a033",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "012/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+          "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 16,
+            "mid_price": 29.98,
+            "high_price": 354.96,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 42.22,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42352"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 15.73,
+            "low": 1,
+            "avg1": 19.69,
+            "avg7": 16.11,
+            "avg30": 15.54,
+            "trend": 21.1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.14,
+            "avg7": 11.53,
+            "avg30": 12.92,
+            "trend": 19.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Ninetales-V1-BS12"
+      }
+    },
+    {
+      "id": "pk_92b55843998d68400803d89d9bcb8e6fa42dcd2ec68a7ca5b70af7464dbb6ee4e7cde6e74033e4ca2e2f4e82b398",
+      "card_info": {
+        "name": "Ninetales - 030/264 (#7 Cinderace Stamped)",
+        "clean_name": "Ninetales 030 264 7 Cinderace Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "030/264",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Supernatural Flames (70)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268150"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 0.28,
+            "low": 0.2,
+            "avg1": 0.35,
+            "avg7": 0.47,
+            "avg30": 0.52,
+            "trend": 0.48,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2022/Ninetales-V1-BA22C07"
+      }
+    },
+    {
+      "id": "pk_7bce73a49ae5daba69fd75e0771f09797ba5041348e12763c9af0c4af3fbf05da1072c15f87e1e5d4daaf47ae538",
+      "card_info": {
+        "name": "Ninetales - 030/264 (#23 Cinderace Stamped)",
+        "clean_name": "Ninetales 030 264 23 Cinderace Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "030/264",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Supernatural Flames (70)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.35,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268151"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 0.68,
+            "low": 0.05,
+            "avg1": 0.62,
+            "avg7": 0.68,
+            "avg30": 0.7,
+            "trend": 0.71,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2022/Ninetales-V2-BA22C23"
+      }
+    },
+    {
+      "id": "pk_aa3ae9a96af1cff5dd357966d3975928103835fc97170740aaa1a4ef7ad0ca596d53bb84f18afc2ee8425d",
+      "card_info": {
+        "name": "Ninetales - BW66",
+        "clean_name": "Ninetales BW66",
+        "set_name": "Black and White Promos",
+        "set_code": "PR",
+        "set_id": "1407",
+        "card_number": "BW66",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Bright Look</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand to evolve 1 of your Pokémon, you may switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+        "attacks": [
+          "[R] Hexed Flame (20+) \r\n<br>Does 50 more damage for each Special Condition affecting the Defending Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 33.24,
+            "mid_price": 41,
+            "high_price": 251.31,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 37.5,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87779"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 14.33,
+            "low": 3,
+            "avg1": 19.99,
+            "avg7": 9.86,
+            "avg30": 11.53,
+            "trend": 11.33,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 13.99,
+            "avg7": 6.57,
+            "avg30": 5,
+            "trend": 8.16,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Ninetales-BWBW66"
+      }
+    },
+    {
+      "id": "pk_9e4c02d951af23d7b918051a29fd2ff2849ac2ecd80789e47d613a8f5418dca08f99f038b391822cd8558c26e2",
+      "card_info": {
+        "name": "Ninetales - 7/123 (Cracked Ice)",
+        "clean_name": "Ninetales 7 123 Cracked Ice",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "007/123",
+        "rarity": "Promo",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90",
+        "stage": "Stage 1",
+        "card_text": "<em>(All copies of this card were misprinted with the Undaunted set symbol.)</em>\r\n<br><br>\r\n<strong>Ability — Roast Reveal</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack), you may discard a Fire Energy card from your hand. If you do, draw 3 cards. This power can't be used if Ninetales is affected by a Special Condition.",
+        "attacks": [
+          "[1RR] Will-o'-the-wisp (60)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 449.99,
+            "mid_price": 524.99,
+            "high_price": 599.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 92.79,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/264837"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e4a2dc0856e079f05d374d8dbb816dd384becf376b0e06c98748eea45841054a69f9bf989aa383c09d21d7cd",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "17/95",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "Roast Reveal - Once during your turn (before your attack), you may discard a R Energy card from your hand.  If you do, draw 3 cards.  This power can't be used if Ninetales is affected by a Special Condition.  (Poke-POWER)",
+        "attacks": [
+          "[1RR] Will-o'-the-wisp (60)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 41.5,
+            "mid_price": 74,
+            "high_price": 149.99,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 62.29,
+            "direct_low_price": 149.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 29,
+            "mid_price": 78.37,
+            "high_price": 819.52,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 71,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87777"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 30.66,
+            "low": 1.67,
+            "avg1": 32.99,
+            "avg7": 28.28,
+            "avg30": 18.13,
+            "trend": 22.68,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 16.16,
+            "low": 0.79,
+            "avg1": 37.75,
+            "avg7": 21.19,
+            "avg30": 15.57,
+            "trend": 21.31,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Ninetales-CL17"
+      }
+    },
+    {
+      "id": "pk_2cfcb581a1d8a8888a6690e1d7ac8abb967c7ee6fcca63a78853d75fb6f213745bc37571f6daa027371750d63b29",
+      "card_info": {
+        "name": "Ninetales - 17/95 (Call of Legends)",
+        "clean_name": "Ninetales 17 95 Call of Legends",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "017/095",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Roast Reveal</strong>",
+        "attacks": [
+          "[1RR] Will-o'-the-wisp (60)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.95,
+            "mid_price": 22.5,
+            "high_price": 179.72,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 26.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125062"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_310f81256c60fb31f71fa58da1b97085db082ee466379095645c880d4a8621e40b14e7a66de2241744d04049d12a",
+      "card_info": {
+        "name": "Ninetales - 15/108 (XY Evolutions) (Non-Holo)",
+        "clean_name": "Ninetales 15 108 XY Evolutions Non Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "015/108",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Lure\r\n<br>Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon can't retreat during your opponent's next turn.",
+          "[1RR] Fire Blast (120)\r\n<br>Discard a Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.93,
+            "mid_price": 25.05,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 27.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/141260"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8667f8f620b8d6610c32dfba5a82117b6d2bc548eb723fb315714b7d21deedde587a56adadfb002adbe43971c792",
+      "card_info": {
+        "name": "Alolan Ninetales - 28/147 (Cracked Ice Holo)",
+        "clean_name": "Alolan Ninetales 28 147 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "028/147",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Luminous Barrier</strong>\r\n<br>Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-GX or Pokémon-EX.",
+        "attacks": [
+          "[2W] Aurora Beam (80)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.75,
+            "mid_price": 8.16,
+            "high_price": 110.86,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 8.15,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/173088"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_05740123a524c83a80c9c8b6266f6f171b869cc363ccc87dbfc0fbb03578533912512f358544822fd1c8a19d",
+      "card_info": {
+        "name": "Ninetales (Delta Species)",
+        "clean_name": "Ninetales Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "8/101",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "Volunteer - Once during your turn (before your attack), you may remove 4 damage counters from Ninetales and discard Ninetales from Vulpix.  If you do, search your deck for Ninetales or Ninetales ex and put it onto Vulpix (this counts as evolving Vulpix).  Shuffle your deck afterward.  (Poke-POWER)",
+        "attacks": [
+          "[2] Trick Tail (30) Search your discard pile for an Energy card and attach it to 1 of your Pokemon."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 148.98,
+            "mid_price": 199.98,
+            "high_price": 289.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 193.27,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 239.5,
+            "mid_price": 360,
+            "high_price": 2497.66,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 363.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87781"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales δ Delta Species",
+        "prices": [
+          {
+            "avg": 33.07,
+            "low": 9.9,
+            "avg1": 30,
+            "avg7": 23.7,
+            "avg30": 29.52,
+            "trend": 26.72,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 110.35,
+            "low": 15,
+            "avg1": 155,
+            "avg7": 91.74,
+            "avg30": 108.1,
+            "trend": 161.59,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Ninetales-Delta-Species-DF8"
+      }
+    },
+    {
+      "id": "pk_202a814964e7d87490df32d64ee4f503f8efe1cda0e55a1c91d12d3772657875098e4c8cde0dde4d086ae93578",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Dragons Exalted",
+        "set_code": "DRX",
+        "set_id": "1394",
+        "card_number": "19/124",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "Bright Look - When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may switch 1 of your opponent's Benched Pokemon with his or her Active Pokemon.  (Ability)",
+        "attacks": [
+          "[R] Hexed Flame (20+) Does 50 more damage for each Special Condition affecting the Defending Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 10.38,
+            "high_price": 137.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 10.17,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 7,
+            "mid_price": 15.6,
+            "high_price": 146.34,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 12.42,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87778"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 3,
+            "low": 0.7,
+            "avg1": 0.65,
+            "avg7": 3.91,
+            "avg30": 4.59,
+            "trend": 3.42,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.9,
+            "low": 0.59,
+            "avg1": 4.99,
+            "avg7": 3.2,
+            "avg30": 3.51,
+            "trend": 3.86,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragons-Exalted/Ninetales-DRX19"
+      }
+    },
+    {
+      "id": "pk_00ee9ada0fbdb3e110d1d6383496582450f3e33259d9c4c4309cf8e38b033fd9e4012dd4e3e8711d4befa3a8a1",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Emerald",
+        "set_code": "EM",
+        "set_id": "1410",
+        "card_number": "38/106",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Confuse Ray (10) \r\n<br>The Defending Pokemon is now Confused.",
+          "[2R] Searing Flame (40) \r\n<br>The Defending Pokemon is now Burned."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.48,
+            "mid_price": 9.32,
+            "high_price": 149.52,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 9.64,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 74.99,
+            "mid_price": 89.99,
+            "high_price": 104.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 167.66,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87770"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 101.67,
+            "low": 4.99,
+            "avg1": 50,
+            "avg7": 51.2,
+            "avg30": 40.97,
+            "trend": 53.65,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.77,
+            "low": 0.02,
+            "avg1": 75,
+            "avg7": 8.71,
+            "avg30": 3.44,
+            "trend": 12.52,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Ninetales-EM38"
+      }
+    },
+    {
+      "id": "pk_c267145a5ce04b0e3fa54103f6c85ad95ed693acba82813c459d719ebdd2bc0af09c8ed3b8eeecf71611f5dba3",
+      "card_info": {
+        "name": "Ninetales (21)",
+        "clean_name": "Ninetales 21",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "021/165",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Mislead\r\n<br>Flip 2 coins. If either of them is heads, the Defending Pokémon is now Confused.",
+          "[3] Ethereal Flame (30+)\r\n<br>Discard all Fire Energy cards attached to Ninetales. This attack does 30 damage plus 10 more damage for each card discarded this way."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 134.99,
+            "mid_price": 779.99,
+            "high_price": 876.25,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 76.24,
+            "direct_low_price": 779.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 241.49,
+            "high_price": 1999.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 75.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87765"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 106.17,
+            "low": 4.49,
+            "avg1": 250,
+            "avg7": 104.11,
+            "avg30": 62.1,
+            "trend": 125.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 27.03,
+            "low": 4.49,
+            "avg1": 70,
+            "avg7": 34.72,
+            "avg30": 22.48,
+            "trend": 33.76,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Ninetales-EX21"
+      }
+    },
+    {
+      "id": "pk_11fba3073c7ae6625b960d28d625872d3105f10b54e674a4c94cb5824b7712b86482cee45e6a6f8f9aca5e36dd",
+      "card_info": {
+        "name": "Ninetales (57)",
+        "clean_name": "Ninetales 57",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "057/165",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Mislead\r\n<br>Flip 2 coins. If either of them is heads, the Defending Pokémon is now Confused.",
+          "[3] Ethereal Flame (30+)\r\n<br>Discard all Fire Energy cards attached to Ninetales. This attack does 30 damage plus 10 more damage for each card discarded this way."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.39,
+            "mid_price": 246.79,
+            "high_price": 496.37,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 27.41,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 84.99,
+            "mid_price": 150,
+            "high_price": 284,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 67.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87766"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales",
+        "prices": [
+          {
+            "avg": 22.44,
+            "low": 1,
+            "avg1": 14.9,
+            "avg7": 27.67,
+            "avg30": 13.28,
+            "trend": 26.74,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 18.75,
+            "low": 3.94,
+            "avg1": 6,
+            "avg7": 12.73,
+            "avg30": 18.45,
+            "trend": 23.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Ninetales-EX57"
+      }
+    },
+    {
+      "id": "pk_8cead377b5e9a36db6dc9d0d1ced149cb4ad1d7f3c2c2addf0ddc4f569b43bf0caf949929c7a1f29616db3681c",
+      "card_info": {
+        "name": "Ninetales EX",
+        "clean_name": "Ninetales EX",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "13/83",
+        "rarity": "Ultra Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[R] Flare Bonus\r\n<br>Discard a Fire Energy card from your hand. If you do, draw 3 cards.",
+          "[3R] Fire Blast (130)\r\n<br>Flip a coin. If tails, discard a Fire Energy attached to this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.91,
+            "mid_price": 5.15,
+            "high_price": 83,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 5.35,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113671"
+      },
+      "cardmarket": {
+        "product_name": "Ninetales EX",
+        "prices": [
+          {
+            "avg": 6.41,
+            "low": 1,
+            "avg1": 4.99,
+            "avg7": 5.16,
+            "avg30": 5.65,
+            "trend": 4.81,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 4.79,
+            "avg30": 4.65,
+            "trend": 5.75,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Ninetales-EX-GEN13"
+      }
+    },
+    {
+      "id": "pk_db0f993485eb226a1959caab7241804dff0cf1ef6c315fb79f7ebe9241b2d0e47b710baa77ddd9793aaefbc2ef",
+      "card_info": {
+        "name": "Blaine's Ninetales",
+        "clean_name": "Blaines Ninetales",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "021/132",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Healing Fire</strong> Whenever you attach a Fire Energy card from your hand to Blaine's Ninetales, remove 1 damage counter from it, if it has any. This power stops working while Blaine's Ninetales is Asleep, Confused,  or Paralyzed.",
+        "attacks": [
+          "[RR] Burn Up (50)\r\n<br>Flip a coin. If tails, discard all Fire Energy cards attached to Blaine's Ninetales."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 38.49,
+            "mid_price": 50.87,
+            "high_price": 2591.16,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 50.79,
+            "direct_low_price": 998.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 12.74,
+            "mid_price": 20.01,
+            "high_price": 359.79,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 21.26,
+            "direct_low_price": 17.49,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/83876"
+      },
+      "cardmarket": {
+        "product_name": "Blaine's Ninetales",
+        "prices": [
+          {
+            "avg": 15.1,
+            "low": 3,
+            "avg1": 11.8,
+            "avg7": 21,
+            "avg30": 16.69,
+            "trend": 17.51,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.49,
+            "avg7": 1.69,
+            "avg30": 1.69,
+            "trend": 1.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Blaines-Ninetales-GC21"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 229,
+    "total_pages": 12
+  },
+  "metadata": {
+    "total_count": 229,
+    "tcg": 202,
+    "cardmarket": 167,
+    "tcg_only": 62,
+    "cardmarket_only": 27,
+    "both_sources": 140
+  }
+}

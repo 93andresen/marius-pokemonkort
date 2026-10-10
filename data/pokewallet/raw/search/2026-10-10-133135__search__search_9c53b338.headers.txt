@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+%E2%80%93+Base+Set+%E2%80%932000+%E2%80%93+engelsk+Pok%C3%A9monkort+58&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:40 GMT
+Content-Type: application/json
+Content-Length: 244
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 969
+X-RateLimit-Remaining-Hour: 69
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r6VyCg6Wt%2BWepAfL4%2FmjCtDGvadBPxDSYewS3VHmXbWdA771xJGOnJm77H6Pk8kpuTP6aI%2BGl5QJ0wEjUEKcHqo6WEr0swOU3RfHvEbYo54%2F00uTAi0x1QU%2BB3T8R2EcaHMrQZYfCXf3MJK0ziMEJw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854ccdcfe00b69-OSL
+alt-svc: h3=":443"; ma=86400

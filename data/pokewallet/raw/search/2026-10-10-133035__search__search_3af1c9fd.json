@@ -1,0 +1,1504 @@
+{
+  "query": "Lapras",
+  "results": [
+    {
+      "id": "pk_b54883c2f63d827a42319ea55d12267a96c4807a2de72b48b172a0d4e400b8fcb07802af06a01be874d8236efcca999b649e",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Crown Zenith: Galarian Gallery",
+        "set_code": "CRZ:GG",
+        "set_id": "17689",
+        "card_number": "GG05/GG70",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Raging Freeze (110)\r\n<br>If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 18.27,
+            "mid_price": 24.09,
+            "high_price": 150,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 19.41,
+            "direct_low_price": 22.78,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/477049"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 22.1,
+            "low": 10,
+            "avg1": 24.59,
+            "avg7": 22.69,
+            "avg30": 22.24,
+            "trend": 21.11,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Lapras-CRZGG05"
+      }
+    },
+    {
+      "id": "pk_dc27ebb3b365d8d865e905a6b2f04b86165c1441e747797ec24aed63a88477fcd699787bd857aadbd46a1e3f85",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Dragon Majesty",
+        "set_code": "DRM",
+        "set_id": "2295",
+        "card_number": "21/70",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Bullet (20)\r\n<br>This attack does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[3] Hydro Pump (70+)\r\n<br>This attack does 10 more damage times the amount of Water Energy attached to this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.57,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.57,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.99,
+            "mid_price": 5.99,
+            "high_price": 40.51,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 5.81,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/175383"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 7.12,
+            "low": 0.85,
+            "avg1": 11,
+            "avg7": 6.57,
+            "avg30": 5.34,
+            "trend": 6.63,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.14,
+            "low": 0.05,
+            "avg1": 0.15,
+            "avg7": 1.28,
+            "avg30": 0.83,
+            "trend": 1.04,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Lapras-DRM21"
+      }
+    },
+    {
+      "id": "pk_4095e8aa9c9e86a0a3aaf029c1db0b31b316ad99b6ec629039a22a73d7645514ee61c963ac5e0fd61c7248",
+      "card_info": {
+        "name": "Lapras (10)",
+        "clean_name": "Lapras 10",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "10/62",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10+)\r\n<br>Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[WW] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 150,
+            "mid_price": 215.07,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 237.42,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 12,
+            "mid_price": 17.99,
+            "high_price": 192.61,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 38.78,
+            "direct_low_price": 191.95,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44419"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 48.33,
+            "avg7": 23.69,
+            "avg30": 13.88,
+            "trend": 34.18,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 18.9,
+            "low": 1.88,
+            "avg1": 17,
+            "avg7": 14.83,
+            "avg30": 16.78,
+            "trend": 11.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Lapras-V1-FO10"
+      }
+    },
+    {
+      "id": "pk_f7be5db3c239e9c0edca87c27a0e160370cca0794558e79c7a730f25301cf828bb808431900ce9f2fb0702ba",
+      "card_info": {
+        "name": "Lapras (25)",
+        "clean_name": "Lapras 25",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "25/62",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10+)\r\n<br>Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[WW] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.33,
+            "mid_price": 28.83,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 30.53,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3,
+            "mid_price": 8,
+            "high_price": 121.93,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 11.07,
+            "direct_low_price": 44.96,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106527"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 4.14,
+            "avg30": 8.3,
+            "trend": 3.64,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.63,
+            "low": 0.9,
+            "avg1": 9.17,
+            "avg7": 13.46,
+            "avg30": 12.32,
+            "trend": 13.13,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Lapras-V2-FO25"
+      }
+    },
+    {
+      "id": "pk_baeca020be9adc30a3ce782747a7f6479352a145e44471adec530e4b6152f64ee7f8021cb91dda4124cf0f4d60",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Great Encounters",
+        "set_code": "GE",
+        "set_id": "1405",
+        "card_number": "21/106",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Carry In\r\n<br>\r\nSearch your deck for a Pokémon Tool card, a Supporter card, and a basic Energy card, show them to your opponent, and put them into your hand. Shuffle your deck afterward.",
+          "[1W] Wave Splash (20)"
+        ],
+        "weakness": "L+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.5,
+            "mid_price": 16.5,
+            "high_price": 159.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 16.85,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 45.65,
+            "mid_price": 59.99,
+            "high_price": 74.59,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 36.51,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86618"
+      },
+      "cardmarket": {
+        "product_name": "Lapras Lv.47",
+        "prices": [
+          {
+            "avg": 4.03,
+            "low": 0.5,
+            "avg1": 0.45,
+            "avg7": 4.19,
+            "avg30": 3.71,
+            "trend": 4.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 10.52,
+            "low": 0.8,
+            "avg1": 2,
+            "avg7": 8.19,
+            "avg30": 7.96,
+            "trend": 10.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Lapras-Lv47-GE21"
+      }
+    },
+    {
+      "id": "pk_13278484200964f90f04d571ff51f9c3c0635ff791a3a73775a24454fe359976332f4e135b641f0e629fed8a42",
+      "card_info": {
+        "name": "Lapras - HGSS14",
+        "clean_name": "Lapras HGSS14",
+        "set_name": "HGSS Promos",
+        "set_code": "PR",
+        "set_id": "1453",
+        "card_number": "HGSS14",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Ferry \r\n<br>Search your discard pile for a Supporter card, show it to your opponent, and put it into your hand.",
+          "[1WW] Surf (40)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34,
+            "mid_price": 129.01,
+            "high_price": 994.02,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 32.72,
+            "direct_low_price": 640,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86621"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 33.32,
+            "low": 7,
+            "avg1": 32.1,
+            "avg7": 23.58,
+            "avg30": 17.94,
+            "trend": 21.95,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.7,
+            "avg7": 4.06,
+            "avg30": 2.03,
+            "trend": 3.19,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Lapras-HGSSHGSS14"
+      }
+    },
+    {
+      "id": "pk_a27174c6248f004dd75773b9dacfd3397c5f818e8fa133dbdf54af7bb72fab230762d78eabe87ecdd63ffc7f0f",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "24/123",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Ice Beam (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[WW] Ice Blade - Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.49,
+            "mid_price": 13.4,
+            "high_price": 137.12,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 13.3,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 38.16,
+            "mid_price": 45.99,
+            "high_price": 188.52,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 40,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86620"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 3.53,
+            "low": 0.1,
+            "avg1": 7.48,
+            "avg7": 3.37,
+            "avg30": 3.13,
+            "trend": 3.83,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 11.77,
+            "low": 0.49,
+            "avg1": 17,
+            "avg7": 13.09,
+            "avg30": 9.52,
+            "trend": 10.92,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Lapras-HS24"
+      }
+    },
+    {
+      "id": "pk_6ca312ce6581fb79446b1cbd1c69bb7924ce00ff2a42e486b2435469d18b6793e3964f3a0d0ea9cf303870b434",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "17/68",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Aqua Wave (80)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.49,
+            "mid_price": 2.08,
+            "high_price": 33.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 2.02,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.4,
+            "high_price": 18.76,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197661"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 2.6,
+            "low": 0.95,
+            "avg1": 3.16,
+            "avg7": 2.64,
+            "avg30": 2.46,
+            "trend": 2.51,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.28,
+            "low": 0.05,
+            "avg1": 0.15,
+            "avg7": 0.26,
+            "avg30": 0.29,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Lapras-HIF17"
+      }
+    },
+    {
+      "id": "pk_bfd0c34d4cd70bbee090627e6e01c46e3bad9a39635f6df677a91f1fcad8d78efa162a9a31f99eafaf754d",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "8/92",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Support Navigation \r\n<br>Once during your turn, when you put Lapras onto your bench from your hand, you may search your deck for a Supporter card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+        "attacks": [
+          "[1W] Surf (30)"
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40.98,
+            "mid_price": 59.96,
+            "high_price": 693.7,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 53.57,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 84.5,
+            "mid_price": 128.41,
+            "high_price": 6389.4,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 106.35,
+            "direct_low_price": 124.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86617"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 67.87,
+            "low": 4,
+            "avg1": 99.95,
+            "avg7": 74.12,
+            "avg30": 49.3,
+            "trend": 72.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 23.98,
+            "low": 3,
+            "avg1": 43,
+            "avg7": 32.44,
+            "avg30": 18.61,
+            "trend": 28.34,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lapras-LM8"
+      }
+    },
+    {
+      "id": "pk_c8ad03efbd26f15225960f9a7d80efca77b3a59a0ce4a6e2ae1410c0f2cc1447a2ee46bc7cc193e6e1306f6082",
+      "card_info": {
+        "name": "Lapras - 5/12",
+        "clean_name": "Lapras",
+        "set_name": "McDonald's Promos 2019",
+        "set_code": "MCD19",
+        "set_id": "2555",
+        "card_number": "005/012",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Bullet (20)\r\n<br>This attack does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[3] Hydro Pump (70+)\r\n<br>This attack does 10 more damage times the amount of Water Energy attached to this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.25,
+            "mid_price": 17.38,
+            "high_price": 199.79,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 19.66,
+            "direct_low_price": 199.16,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/200966"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 2.65,
+            "low": 0.49,
+            "avg1": 3.79,
+            "avg7": 3.02,
+            "avg30": 4.42,
+            "trend": 3.16,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.25,
+            "avg7": 3.89,
+            "avg30": 3.37,
+            "trend": 3.7,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2019/Lapras-MCD195"
+      }
+    },
+    {
+      "id": "pk_95637bfd1a4ab6ae0a10065a915cabd4f3906e1814f1cab04e023a7847c4e5e016e94cd6cc5ab1a7d9c41bb965",
+      "card_info": {
+        "name": "Lapras - 6/15",
+        "clean_name": "Lapras",
+        "set_name": "McDonald's Promos 2022",
+        "set_code": "MCD22",
+        "set_id": "3150",
+        "card_number": "006/015",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Wintry Call\r\n<br>Search your deck for up to 2 Melony cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "[1W] Icy Wind (50)\r\n<br>Your opponent's Active Pokémon is now Asleep."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.36,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/281485"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.27,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "trend": 0.14,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2022/Lapras-MCD226"
+      }
+    },
+    {
+      "id": "pk_42d13c2e4a0cf744c1c21edde5aece9093bd8975ef8605f84dfc6d305bfad0a302451cd5dc17210ce9a14914d09f",
+      "card_info": {
+        "name": "Lapras - 048/202 (Holiday Calendar)",
+        "clean_name": "Lapras 048 202 Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "048/202",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWWW] Aqua Wash (70)\r\n<br>\r\nYou may put 2 Energy attached to your opponent's Active Pokémon into their hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 4.96,
+            "high_price": 208.43,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.53,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/283291"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 1.01,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 0.97,
+            "avg30": 1.08,
+            "trend": 1,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V2-SSH048"
+      }
+    },
+    {
+      "id": "pk_a412713248e2cb1b260b7d79be3c35a939aea7be710a2836ba8ae53e165decf68f04f53cddde70a4aca25a003880",
+      "card_info": {
+        "name": "Lapras (7-Eleven Promo)",
+        "clean_name": "Lapras 7 Eleven Promo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "031/142",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (20)",
+          "[WCC] Surf (80)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 23.4,
+            "mid_price": 30,
+            "high_price": 278.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/586503"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9eb64739241a0d61c58f2350b5d53d5464a67df27bdc875df4f1c98a08a088cef836e7e2c852b58a6be0",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "My First Battle",
+        "set_code": "MFB",
+        "set_id": "23330",
+        "card_number": null,
+        "rarity": "Unconfirmed",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WW] Surf (50)"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.22,
+            "mid_price": 4.67,
+            "high_price": 51.42,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 4.06,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/524056"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 2.35,
+            "low": 1,
+            "avg1": 0.99,
+            "avg7": 1.85,
+            "avg30": 2.04,
+            "trend": 1.84,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/My-First-Battle/Lapras-MFB"
+      }
+    },
+    {
+      "id": "pk_97ae168cde6797dcc3e45dc13880e8b30b3f21bd07559df0cc07c15c7a83954ef36ab550465522ca90a81220",
+      "card_info": {
+        "name": "Lapras (25)",
+        "clean_name": "Lapras 25",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "25/99",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Call for Family - Search your deck for 2 Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward.",
+          "[2] Reckless Charge (40) This Pokemon does 20 damage to itself."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.19,
+            "mid_price": 0.6,
+            "high_price": 1.98,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.64,
+            "direct_low_price": 0.63,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.42,
+            "mid_price": 39.92,
+            "high_price": 47,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 6.24,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86622"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 1.63,
+            "low": 0.05,
+            "avg1": 0.99,
+            "avg7": 0.81,
+            "avg30": 1.13,
+            "trend": 1.13,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.14,
+            "low": 0.25,
+            "avg1": 1.99,
+            "avg7": 4.38,
+            "avg30": 3.57,
+            "trend": 4.48,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Lapras-NXD25"
+      }
+    },
+    {
+      "id": "pk_b19b4d48a69d8526f40fafa4d4f260a6c926849f879765cbaccfeff4fcc01987a6f2e04cdbe3f027d573d297",
+      "card_info": {
+        "name": "Lapras (26)",
+        "clean_name": "Lapras 26",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "26/99",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1W] Water Arrow - This attack does 20 damage to 1 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+          "[1WW] Surf (60)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.38,
+            "mid_price": 1,
+            "high_price": 99.94,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.05,
+            "direct_low_price": 95.18,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.5,
+            "mid_price": 3.91,
+            "high_price": 44.42,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 3.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86623"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 1.39,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1.48,
+            "avg30": 1.64,
+            "trend": 1.16,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.86,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 1.04,
+            "avg30": 0.94,
+            "trend": 0.69,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Lapras-NXD26"
+      }
+    },
+    {
+      "id": "pk_711bf8830ae70b80de3ccaf36f3b7d80c2c681f059a463d0dadb183edf37ec58def52f3c17705773e927bba296",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Plasma Blast",
+        "set_code": "PLB",
+        "set_id": "1370",
+        "card_number": "17/101",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1W] Cleanse Away - Heal 30 damage from each of your Benched Pokemon.",
+          "[3W] Surf (70)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr",
+          "it",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.47,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.47,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.71,
+            "mid_price": 5.66,
+            "high_price": 58.12,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 5.35,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86624"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 1.01,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.67,
+            "avg30": 0.8,
+            "trend": 1.05,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.93,
+            "low": 0.97,
+            "avg1": 2.5,
+            "avg7": 3.36,
+            "avg30": 2.99,
+            "trend": 4.5,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Blast/Lapras-PLB17"
+      }
+    },
+    {
+      "id": "pk_d24771b726bff34bdcaddd21c09e6790a879e9f43b13c6124fb55016d5e59d29fcbaeeae93f91d1d4cf73f1587",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "79/127",
+        "rarity": "Common",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Grind (10x)\r\n<br>\r\nDoes 10 damage times the amount of Energy attached to Lapras.",
+          "[2W] Ice Beam (30)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "M+20",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.74,
+            "mid_price": 2.27,
+            "high_price": 29.99,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.83,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 14.79,
+            "mid_price": 28.86,
+            "high_price": 108.62,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 14.6,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86619"
+      },
+      "cardmarket": {
+        "product_name": "Lapras Lv.41",
+        "prices": [
+          {
+            "avg": 0.65,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.56,
+            "avg30": 0.64,
+            "trend": 0.46,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.75,
+            "low": 0.75,
+            "avg1": 2.5,
+            "avg7": 6.75,
+            "avg30": 5.42,
+            "trend": 5.64,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lapras-Lv41-PL79"
+      }
+    },
+    {
+      "id": "pk_cfe7b507ae1c6449f2a73d0e28fa151407f69c66289025f541f7eb1f64294dcbd872a014d72826042336213f930e",
+      "card_info": {
+        "name": "Lapras",
+        "clean_name": "Lapras",
+        "set_name": "Pokemon GO",
+        "set_code": "PGO",
+        "set_id": "3064",
+        "card_number": "023/078",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Ice Beam (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[1WW] Surf (110)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.35,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.54,
+            "high_price": 25,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/276957"
+      },
+      "cardmarket": {
+        "product_name": "Lapras",
+        "prices": [
+          {
+            "avg": 0.41,
+            "low": 0.02,
+            "avg1": 0.43,
+            "avg7": 0.48,
+            "avg30": 0.42,
+            "trend": 0.46,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.28,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.23,
+            "avg30": 0.27,
+            "trend": 0.35,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lapras-PGO023"
+      }
+    },
+    {
+      "id": "pk_65a60bbea1443e6c19cce09eb31e4d006de1470cbc1005ebb576de5f99b28cf7c5fd9b9b7d7ac87ea3b06a7c7f",
+      "card_info": {
+        "name": "Lapras ex",
+        "clean_name": "Lapras ex",
+        "set_name": "Ruby and Sapphire",
+        "set_code": "RS",
+        "set_id": "1393",
+        "card_number": "99/109",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Energy Ball (10+) \r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Lapras ex but not used to pay for this attack's Energy cost.  You can't add more then 20 damage in this way.",
+          "[1WW] Confuse Ray (30) \r\n<br>The Defending Pokemon is now Confused."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 74,
+            "mid_price": 139.23,
+            "high_price": 777.12,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 165.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86626"
+      },
+      "cardmarket": {
+        "product_name": "Lapras ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.99,
+            "avg7": 20.7,
+            "avg30": 21.58,
+            "trend": 18.33,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 199.94,
+            "low": 9,
+            "avg1": 479,
+            "avg7": 181.08,
+            "avg30": 141.28,
+            "trend": 194.21,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lapras-ex-RS99"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 145,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 145,
+    "tcg": 120,
+    "cardmarket": 132,
+    "tcg_only": 13,
+    "cardmarket_only": 25,
+    "both_sources": 107
+  }
+}

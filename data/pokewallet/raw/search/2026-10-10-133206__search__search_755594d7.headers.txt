@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+023&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:12 GMT
+Content-Type: application/json
+Content-Length: 26879
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 951
+X-RateLimit-Remaining-Hour: 51
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ewQ8oV5%2FVBBIBJ%2BzbPN90Y2ufNv6wfLVKO8CtxAFlofSMqBzInuJT89lmU4mBVS4E1EwtL9jPdpjJbdGPok%2BhWYw4Qc2tIw3FpUlKjUUZfV9Mv9vKglIdaU93fRZa6uQcX71cWgiuzuzvTIUp5zRcw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854d91df4b5a0f-OSL
+alt-svc: h3=":443"; ma=86400

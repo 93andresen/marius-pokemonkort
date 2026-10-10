@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+%E2%80%93+Jungle+Unlimited+%E2%80%93+engelsk+Pok%C3%A9monkort+60&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:43 GMT
+Content-Type: application/json
+Content-Length: 244
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 967
+X-RateLimit-Remaining-Hour: 67
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t2F5IPT4htjgYg%2FFs1c%2FPlJgpvHvp1dMfg9DqRo4fW%2FZCRV9SkeWrgbCGwJv46lK%2BqmymCfyFTJtH6Pd6v26zFKabUHtxx1ixZvEOeSS3LYKz9YBMmRCIk90CytCh4LcihFFdR%2BL9HN1MKF6EAhhSQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854ce00ea756af-OSL
+alt-svc: h3=":443"; ma=86400

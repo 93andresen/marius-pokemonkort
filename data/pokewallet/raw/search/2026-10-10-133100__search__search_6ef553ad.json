@@ -1,0 +1,227 @@
+{
+  "query": "Psychic Energy 101",
+  "results": [
+    {
+      "id": "pk_0f8b5de25c363da929fdfb9a83e8333e1fb62388a600944fc7adfcf339c8a925b65393cf76ef4c5253a49b5b6c5ffe",
+      "card_info": {
+        "name": "Psychic Energy",
+        "clean_name": "Psychic Energy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "101/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.15,
+            "mid_price": 9.15,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.15,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 0.96,
+            "high_price": 24.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.29,
+            "direct_low_price": 0.63,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107096"
+      },
+      "cardmarket": {
+        "product_name": "Psychic Energy (Shadowless)",
+        "prices": [
+          {
+            "avg": 3.55,
+            "low": 0.25,
+            "avg1": 0.95,
+            "avg7": 3.9,
+            "avg30": 1.55,
+            "trend": 3.87,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Psychic-Energy-V2-BS101"
+      }
+    },
+    {
+      "id": "pk_f6dcf8e6dcbadb2006d9618040fc1f1a62cfe6e9266a5b8b2dbcc379e346cc0d6a39b4f15f183cddb3150aff03",
+      "card_info": {
+        "name": "Psychic Energy",
+        "clean_name": "Psychic Energy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "101/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.4,
+            "high_price": 19.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.67,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42349"
+      },
+      "cardmarket": {
+        "product_name": "Psychic Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 2.5,
+            "avg30": 2.61,
+            "trend": 2.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.46,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.28,
+            "avg30": 0.45,
+            "trend": 0.64,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Psychic-Energy-V1-BS101"
+      }
+    },
+    {
+      "id": "pk_3f1258d63c39e6512bba1b775a39c4b3008f85d7cf124c06c1cc206152ce47202600fd7e4c266a7273aea849bce3cbe072",
+      "card_info": {
+        "name": "Basic Psychic Energy - 101/BW-P",
+        "clean_name": "Basic Psychic Energy 101 BW P",
+        "set_name": "BW-P Promotional cards",
+        "set_code": "BW-P",
+        "set_id": "24342",
+        "card_number": "101/BW-P",
+        "rarity": null,
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 4,
+            "high_price": 4,
+            "updated_at": "2026-10-08T11:42:09.031572",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635108"
+      },
+      "cardmarket": {
+        "product_name": "Psychic Energy",
+        "prices": [
+          {
+            "avg": 5,
+            "low": 5.95,
+            "avg1": 5,
+            "avg7": 7.5,
+            "avg30": 7.5,
+            "trend": 5,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 5.95,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Promos/Psychic-Energy-V3"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

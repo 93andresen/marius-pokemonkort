@@ -1,0 +1,1604 @@
+{
+  "query": "Skarmory",
+  "results": [
+    {
+      "id": "pk_5f981c5a7e058ee1fed85057c2734f651e49790d9a04d73d67fdb319918c873efe6c571dd7496014740d1c5f94",
+      "card_info": {
+        "name": "Skarmory (95)",
+        "clean_name": "Skarmory 95",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "95/149",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Claw (20) Flip a coin.  If tails, this attack does nothing.",
+          "[2M] Drill Peck (50)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.5,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 2,
+            "high_price": 59.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.44,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89244"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.88,
+            "low": 0.2,
+            "avg1": 0.8,
+            "avg7": 0.91,
+            "avg30": 0.99,
+            "trend": 1,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.26,
+            "avg30": 0.56,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Skarmory-BCR95"
+      }
+    },
+    {
+      "id": "pk_32cc6f2602d3fa2a39a221b10d55106223e6e8a11bef6402daa024697b939d76716a5c0e0ce7b8ebb527bbed88",
+      "card_info": {
+        "name": "Skarmory (96)",
+        "clean_name": "Skarmory 96",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "96/149",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Metal Sound - Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+          "[3] Swift (70) This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.57,
+            "high_price": 17.18,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.57,
+            "direct_low_price": 0.52,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.05,
+            "mid_price": 8.47,
+            "high_price": 52.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 5.56,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89245"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.43,
+            "low": 0.08,
+            "avg1": 0.56,
+            "avg7": 0.37,
+            "avg30": 0.48,
+            "trend": 0.44,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.49,
+            "low": 0.35,
+            "avg1": 1.49,
+            "avg7": 1.88,
+            "avg30": 1.63,
+            "trend": 1.56,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Skarmory-BCR96"
+      }
+    },
+    {
+      "id": "pk_c3288b6b82b2e9d1558342786da9177062ecc1fcd822678a205b25ec2e3c2904990f870643b1a0af75d30843",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "31/95",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Steel Coat - Search your deck for a M Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+          "[2M] Razor Wing (40)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.3,
+            "high_price": 19.95,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.69,
+            "direct_low_price": 2.18,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 3.55,
+            "mid_price": 15.69,
+            "high_price": 50,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89243"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 1.98,
+            "low": 0.1,
+            "avg1": 2.99,
+            "avg7": 2.27,
+            "avg30": 1.92,
+            "trend": 2.6,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": 30,
+            "avg7": 7.17,
+            "avg30": 4.68,
+            "trend": 7.16,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Skarmory-CL31"
+      }
+    },
+    {
+      "id": "pk_8e8cc40cb55720659d412f643e6845d12d72fea1c31975abc56799f0ffbeaa3aa8b47e4994e18f8dbe9d3fd170",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "55/113",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Shining Horn \r\n<br>As long as Skarmory is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack.",
+        "attacks": [
+          "[1] Cry for Help\r\n<br>Search your deck for a Metal Pokemon <i>(excluding Pokemon-ex)</i>, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+          "[1M] Steel Wing (20)\r\n<br>During your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 <i>(after applying Weakness and Resistance).</i>"
+        ],
+        "weakness": "R",
+        "resistance": "G",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.72,
+            "high_price": 26.56,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 2.68,
+            "direct_low_price": 2.99,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 42.95,
+            "mid_price": 66.45,
+            "high_price": 949.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 35.91,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89239"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 1.18,
+            "low": 0.05,
+            "avg1": 0.78,
+            "avg7": 1.92,
+            "avg30": 1.24,
+            "trend": 2.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 20,
+            "low": 3,
+            "avg1": 8,
+            "avg7": 14.5,
+            "avg30": 23.92,
+            "trend": 1.73,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Skarmory-DS55"
+      }
+    },
+    {
+      "id": "pk_5c41b1eb07f51e1aa344af49ff6698f6dabc15fb11110ef9a3196a44cca544ff36c00d2d66455ef7722ca0f3df",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Deoxys",
+        "set_code": "DX",
+        "set_id": "1404",
+        "card_number": "26/107",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Metallic Lift \r<br>\n<br>If Skarmory has any M Energy attached to it, the Retreat Cost for Skarmory is 0.",
+        "attacks": [
+          "[1] Spearhead \r\n<br>Draw a card.",
+          "[2] Heavy Metal (10+) \r\n<br>Flip a coin for each Metal Energy attached to Skarmory.  This attack does 10 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "L",
+        "resistance": "F",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 1.48,
+            "high_price": 25.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.8,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 27.99,
+            "mid_price": 45.01,
+            "high_price": 99.98,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 54,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89238"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 18.87,
+            "low": 0.3,
+            "avg1": 2.5,
+            "avg7": 16.78,
+            "avg30": 20.51,
+            "trend": 20.09,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.03,
+            "low": 0.05,
+            "avg1": 0.39,
+            "avg7": 1.12,
+            "avg30": 1.28,
+            "trend": 0.97,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Deoxys/Skarmory-DX26"
+      }
+    },
+    {
+      "id": "pk_46abeeaade505a272152828c013afcd5407e09ed7affa892b96f3a8a462e3d036612a9260ee31b082ee8b58f",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "21/97",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Pick On  \r\n<br>If the number of cards in your opponent's hand is at least 6, look at his or her hand.  Choose a number of cards there until your opponent has 5 cards left in his or her hand and have your opponent shuffle the cards you chose into his or her deck.",
+          "[1M] Power Count (20+) \r\n<br>Count the amount of Energy attached to all of your Pokemon and all of your opponent's Pokemon.  If your Pokemon have less Energy than your opponent's, this attack does 20 damage plus 30 more damage."
+        ],
+        "weakness": "R",
+        "resistance": "G",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.92,
+            "mid_price": 3.16,
+            "high_price": 32.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 2.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 31.4,
+            "mid_price": 79.99,
+            "high_price": 399.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 40.76,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89237"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 1.34,
+            "low": 0.15,
+            "avg1": 1.25,
+            "avg7": 1.22,
+            "avg30": 1.71,
+            "trend": 1.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.66,
+            "low": 1.95,
+            "avg1": 9.98,
+            "avg7": 8.47,
+            "avg30": 10.55,
+            "trend": 6.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Skarmory-DR21"
+      }
+    },
+    {
+      "id": "pk_75a350112ea5b29a4b2863a074fc9bbdad4cb02e82072d2b015487b751e959b34b1039e778e40e79375890da2e",
+      "card_info": {
+        "name": "Skarmory (27)",
+        "clean_name": "Skarmory 27",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "027/165",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1M] Steel Beak (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "[3] Air Cutter (50)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 144,
+            "mid_price": 245.05,
+            "high_price": 1255.63,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 65.57,
+            "direct_low_price": 221.59,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 70.31,
+            "mid_price": 85,
+            "high_price": 999.27,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 48.99,
+            "direct_low_price": 998.64,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89234"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 31.69,
+            "low": 3.5,
+            "avg1": 10,
+            "avg7": 25.92,
+            "avg30": 32.82,
+            "trend": 38.71,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 83.98,
+            "low": 3.5,
+            "avg1": 62.5,
+            "avg7": 43.88,
+            "avg30": 21.26,
+            "trend": 41.92,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Skarmory-EX27"
+      }
+    },
+    {
+      "id": "pk_61d695db5b1cc2802d009c66dab313eb399b75b918a85f99b72ded7e92adb48a9908391e15eb134e61f277347e",
+      "card_info": {
+        "name": "Skarmory (63)",
+        "clean_name": "Skarmory 63",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "063/165",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1M] Steel Beak (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "[3] Air Cutter (50)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 30,
+            "high_price": 169.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 15.02,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 21.96,
+            "mid_price": 25.78,
+            "high_price": 53.76,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 47.12,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89235"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 3.52,
+            "low": 0.5,
+            "avg1": 2.07,
+            "avg7": 2.84,
+            "avg30": 4.58,
+            "trend": 3.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.5,
+            "low": 0.8,
+            "avg1": 2,
+            "avg7": 11.98,
+            "avg30": 9.02,
+            "trend": 9.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Skarmory-EX63"
+      }
+    },
+    {
+      "id": "pk_0936453f5c50604a8132599a699866e0fe3178db3fcd95609a022ae62ee7af741a4e1f8dc29455b926add77bb4",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Great Encounters",
+        "set_code": "GE",
+        "set_id": "1405",
+        "card_number": "53/106",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Air Crash (20)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+          "[2M] Steel Wing (40)\r\n<br>\r\nDuring your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "R+20",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.45,
+            "high_price": 16.46,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.49,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.5,
+            "mid_price": 6.16,
+            "high_price": 89.62,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 3.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89240"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory Lv.31",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.17,
+            "avg30": 0.2,
+            "trend": 0.25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.81,
+            "low": 0.19,
+            "avg1": 0.5,
+            "avg7": 1.93,
+            "avg30": 1.65,
+            "trend": 1.4,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Skarmory-Lv31-GE53"
+      }
+    },
+    {
+      "id": "pk_b7c5577145b21e56c306ad25a5705903b5cdbdc4e858ba51d6fa089dd3c0fe3df81a0a53615bd4a1aa5ae4720a2b",
+      "card_info": {
+        "name": "Skarmory FB - 83/147 (League Promo)",
+        "clean_name": "Skarmory FB 83 147 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "083/147",
+        "rarity": "Promo",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Silver Feather (20) \r\n<br>During your opponent's next turn, when your opponent puts a Basic Pokémon from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon.",
+          "[2] Metal Max (20+) \r\n<br>Discard all Metal Energy attached to Skarmory FB.  Flip a coin for each Energy card you discarded.  This attack does 20 damage plus 40 more damage for each heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.87,
+            "mid_price": 10.73,
+            "high_price": 42.98,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 8.2,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/178010"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory [FB] Lv.50",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.49,
+            "avg7": 0.45,
+            "avg30": 0.57,
+            "trend": 0.5,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.73,
+            "low": 2,
+            "avg1": 13,
+            "avg7": 5.34,
+            "avg30": 4.36,
+            "trend": 6.02,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Skarmory-FB-Lv50-V2-SV83"
+      }
+    },
+    {
+      "id": "pk_ed06955b969cfe12421212732d5abfde29d8bb7564dc3ea85f7e07f37e226f1c925a5cfd41b20724e0a55a0945",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "013/111",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Claw (20)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+          "[2M] Steel Wing (30)\r\n<br>Flip a coin. If heads, all damage done by attacks to Skarmory during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 337.35,
+            "high_price": 849.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 98.24,
+            "direct_low_price": 322.75,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 29,
+            "mid_price": 45,
+            "high_price": 239.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 34,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89232"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.23,
+            "avg7": 5.98,
+            "avg30": 8.8,
+            "trend": 8.97,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 470.29,
+            "low": 3.97,
+            "avg1": 20.99,
+            "avg7": 17.84,
+            "avg30": 292.51,
+            "trend": 472.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Skarmory-NG13"
+      }
+    },
+    {
+      "id": "pk_59dd5529ec134cd0e4024048653cdc76aa1cd2be551d03c23e803d8ddbc1dc5407ea9ad3fc59b4997d738cda",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "Neo Revelation",
+        "set_code": "N3",
+        "set_id": "1389",
+        "card_number": "23/64",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Fury Attack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "[2M] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Skarmory."
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.99,
+            "mid_price": 41.48,
+            "high_price": 279.22,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 31.39,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8.28,
+            "mid_price": 17.08,
+            "high_price": 87.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 14.45,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89233"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 6.75,
+            "low": 0.85,
+            "avg1": 5.25,
+            "avg7": 6.78,
+            "avg30": 6.93,
+            "trend": 7.83,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 2.39,
+            "avg30": 2.39,
+            "trend": 3.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Skarmory-NR23"
+      }
+    },
+    {
+      "id": "pk_c2c4105ffe61920a2abc05ebb17965cf21183acf9c00363ef002a581f266073081136f373c709ff30d68cccc70",
+      "card_info": {
+        "name": "Skarmory (Team Plasma)",
+        "clean_name": "Skarmory Team Plasma",
+        "set_name": "Plasma Storm",
+        "set_code": "PLS",
+        "set_id": "1413",
+        "card_number": "87/135",
+        "rarity": "Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Cargo Jet - Discard a Team Plasma card from your hand.  If you do, draw 3 cards.",
+          "[1MM] Steel Wing (40) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.69,
+            "mid_price": 3.53,
+            "high_price": 60.42,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.55,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5.31,
+            "mid_price": 11,
+            "high_price": 48.52,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 10.53,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89246"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.3,
+            "avg1": 0.99,
+            "avg7": 3.08,
+            "avg30": 1.83,
+            "trend": 2.29,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 9.95,
+            "low": 0.85,
+            "avg1": 10,
+            "avg7": 8.12,
+            "avg30": 4,
+            "trend": 6.32,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Skarmory-PLS87"
+      }
+    },
+    {
+      "id": "pk_2d664b7e08c4dfe3397a410fd3d34cec0fb65e1b3847ce496705495532776c421df7b407645239213a2ad12b86",
+      "card_info": {
+        "name": "Skarmory ex",
+        "clean_name": "Skarmory ex",
+        "set_name": "Power Keepers",
+        "set_code": "PK",
+        "set_id": "1383",
+        "card_number": "98/108",
+        "rarity": "Ultra Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": "Metal Gravity - If your opponent's Active Pokemon retreats and has 40 or more remaining HP, put 3 damage counters on that Pokemon.  You can't use more than 1 Metal Gravity Poke-Body each turn.  (Poke-BODY)",
+        "attacks": [
+          "[2] Whirlwind (30) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+          "[1MM] Razor Wing (60)"
+        ],
+        "weakness": "R",
+        "resistance": "G",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 65.53,
+            "mid_price": 69.99,
+            "high_price": 299.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 84.93,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89247"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 10.43,
+            "avg30": 10.36,
+            "trend": 12.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 42.83,
+            "low": 9.99,
+            "avg1": 87.5,
+            "avg7": 40.81,
+            "avg30": 31.55,
+            "trend": 39.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Skarmory-ex-PK98"
+      }
+    },
+    {
+      "id": "pk_de4bab62d7a3aa9d984c7a63853eb3bc0fbcfbc5b4cd0905f616cd0f207006cb12f055daf7ab1ee587e72a6c76ae",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "SM - Team Up",
+        "set_code": "SM9",
+        "set_id": "2377",
+        "card_number": "98/181",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1M] Calm Strike (20+)\r\n<br>If you have used your GX attack, this attack does 70 more damage.",
+          "[1MM] Steel Wing (90)\r\n<br>During your opponent's next turn, this Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.83,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.81,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.24,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/183880"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.31,
+            "low": 0.05,
+            "avg1": 0.24,
+            "avg7": 0.28,
+            "avg30": 0.36,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.34,
+            "low": 0.1,
+            "avg1": 0.5,
+            "avg7": 1.14,
+            "avg30": 0.84,
+            "trend": 1.17,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Up/Skarmory-TEU98"
+      }
+    },
+    {
+      "id": "pk_b22f0995bda607ac24496849d203cf7910405e17bde00951e5d83d7ecb9809c15670c01350827cf1e7f037836e72",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "88/149",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Metal Sounds <br>Discard all Special Energy attached to each Pokemon in play <i>(both yours and your opponent's).</i>",
+          "[M2] Aerial Ace (60+) <br>Flip a coin. If heads, this attack does 30 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.18,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.14,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.43,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126960"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.33,
+            "low": 0.05,
+            "avg1": 0.5,
+            "avg7": 0.4,
+            "avg30": 0.36,
+            "trend": 0.39,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Skarmory-SUM88"
+      }
+    },
+    {
+      "id": "pk_8fded86ee0f88a53751750897dbf5b89efddfbd40e9f3c87a5a1393a18c1b57550060d587e5100eecca02de5b74ca6e3",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "SV03: Obsidian Flames",
+        "set_code": "OBF",
+        "set_id": "23228",
+        "card_number": "142/197",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Peck (20)",
+          "[1MM] Steel Slash (120)\r\n<br>During your next turn, this Pokemon can’t use Steel Slash."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 20,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.13,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.11,
+            "mid_price": 0.29,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/509920"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.16,
+            "avg30": 0.13,
+            "trend": 0.16,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Obsidian-Flames/Skarmory-OBF142"
+      }
+    },
+    {
+      "id": "pk_8e2f4eca463ff65e2e02a19530104b5dba0d6aefc6cf294f9c7fdd407c84a5e93624f2c17839c086b25036df4bcd7cef",
+      "card_info": {
+        "name": "Skarmory",
+        "clean_name": "Skarmory",
+        "set_name": "SV06: Twilight Masquerade",
+        "set_code": "TWM",
+        "set_id": "23473",
+        "card_number": "119/167",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Cutting Wind (30)",
+          "[CCC] Bi[G] Storm (90)\nDiscard a Stadium in play."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.1,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.03,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.22,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/550163"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.13,
+            "avg30": 0.11,
+            "trend": 0.15,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Skarmory-TWM119"
+      }
+    },
+    {
+      "id": "pk_528126e74cbe8ade3cb166674192d6fd2c61c03220c07e5dd2a723f1b7e984698de023c798b7c91dc1ae81d1fe9cf152",
+      "card_info": {
+        "name": "Skarmory - 124/191",
+        "clean_name": "Skarmory",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "124/191",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[MC] Steel Wing (50)<br> During your opponent's next turn, this Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.17,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.13,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590051"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.03,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Skarmory-V1-SSP124"
+      }
+    },
+    {
+      "id": "pk_b564c51e8ac89879f657540bfb6c26347a00ebfabefe5a9427fb0a9cc4e94bab814a5e8694f1c06b1c039d80658373b9",
+      "card_info": {
+        "name": "Skarmory - 209/191",
+        "clean_name": "Skarmory",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "209/191",
+        "rarity": "Illustration Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[MC] Steel Wing (50)<br> During your opponent's next turn, this Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 9.35,
+            "high_price": 73.86,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 8.04,
+            "direct_low_price": 7.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590052"
+      },
+      "cardmarket": {
+        "product_name": "Skarmory",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.77,
+            "low": 3,
+            "avg1": 8.73,
+            "avg7": 8.12,
+            "avg30": 9.12,
+            "trend": 8.4,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Skarmory-V2-SSP209"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 91,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 91,
+    "tcg": 74,
+    "cardmarket": 85,
+    "tcg_only": 6,
+    "cardmarket_only": 17,
+    "both_sources": 68
+  }
+}

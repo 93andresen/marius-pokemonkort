@@ -1,0 +1,1441 @@
+{
+  "query": "Kingdra",
+  "results": [
+    {
+      "id": "pk_27c0c04b26e41da2347ec3329638242b5a28829b73f0da1ce00c3912cf8be50a54da5908a210062df74548879741",
+      "card_info": {
+        "name": "Kingdra (H14)",
+        "clean_name": "Kingdra H14",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H14/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Water Cyclone</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy card from your Active Pokémon to 1 of your Benched Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+        "attacks": [
+          "[2WW] Rapids (50)\r\n<br>\r\nFlip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon, if any."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 111.99,
+            "mid_price": 143.08,
+            "high_price": 175,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 214.44,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86441"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 208.78,
+            "low": 12,
+            "avg1": 49,
+            "avg7": 192.73,
+            "avg30": 125.89,
+            "trend": 178.96,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 22.83,
+            "avg7": 18.47,
+            "avg30": 15.58,
+            "trend": 19.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kingdra-V1-AQH14"
+      }
+    },
+    {
+      "id": "pk_22eeb09fc19484d2249426b931adcd868b40300557e85fc1415505185ed9dee2b6dc1851dea257e02219e00972",
+      "card_info": {
+        "name": "Kingdra (19)",
+        "clean_name": "Kingdra 19",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "019/147",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Water Cyclone</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy card from your Active Pokémon to 1 of your Benched Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+        "attacks": [
+          "[2WW] Rapids (50)\r\n<br>\r\nFlip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon, if any."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 16.8,
+            "high_price": 219.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 17.42,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 70,
+            "mid_price": 525,
+            "high_price": 2242.43,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 99.99,
+            "direct_low_price": 1427.8,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86443"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 4.17,
+            "low": 0.49,
+            "avg1": 7,
+            "avg7": 6.21,
+            "avg30": 5.33,
+            "trend": 7.13,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 26.74,
+            "low": 3.5,
+            "avg1": 10,
+            "avg7": 22.53,
+            "avg30": 16.48,
+            "trend": 24.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kingdra-V2-AQ19"
+      }
+    },
+    {
+      "id": "pk_74e77d99652af9ffcfe99a8599c979b7e46ff177d8aa31c43aa92ff0548751c4946b2f67265a2dc6803875592758",
+      "card_info": {
+        "name": "Kingdra (148)",
+        "clean_name": "Kingdra 148",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "148/147",
+        "rarity": "Secret Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Water,  Lightning, or Psychic basic Energy card from your hand to Kingdra, Kingdra's type (color) becomes the same as that Energy card type until the end of the turn.",
+        "attacks": [
+          "[WWL] Aquabomb (40)\r\n<br>Kingdra does 10 damage to itself. <em>(Don't apply Weakness or Resistance when Kingdra damages itself with this attack.)</em>",
+          "[1PPL] Dual Burn (60)\r\n<br>Flip 2 coins. For each tails, discard 1 Energy card attached to Kingdra."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 690,
+            "mid_price": 844.99,
+            "high_price": 999.98,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 457,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86444"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": null,
+            "low": 140,
+            "avg1": 169.89,
+            "avg7": 104.34,
+            "avg30": 101.38,
+            "trend": 177.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 683.18,
+            "low": 99.89,
+            "avg1": 120,
+            "avg7": 762.26,
+            "avg30": 342.73,
+            "trend": 713.74,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kingdra-V3-AQ148"
+      }
+    },
+    {
+      "id": "pk_7849ce2df2d4040b8528b2ed9a1c5d179bfe02bbdc39b2cd273fe7436568f28bf938f39fb474e118517e82da9898",
+      "card_info": {
+        "name": "Kingdra - 31/147 (SM Burning Shadows)",
+        "clean_name": "Kingdra 31 147 SM Burning Shadows",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "031/147",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Brine\r\n<br>This attack does 90 damage to 1 of your opponent's Pokémon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[W] Tornado Shot (90)\r\n<br>Discard a Water Energy from this Pokémon. This attack does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.44,
+            "mid_price": 0.7,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.7,
+            "direct_low_price": 0.7,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/169761"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c607a4e257c4e9433dfe3130539603f9f2b45d2655c29f6d7e4dd4421f54608fdbe195111b427aa0a7b79b71d051",
+      "card_info": {
+        "name": "Kingdra - 037/196",
+        "clean_name": "Kingdra",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "037/196",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Seething Currents</strong>\r\n<br>\r\nOnce during your turn, you may have either player shuffle their hand and put it on the bottom of their deck. If that player put any cards on the bottom of their deck in this way, they draw 4 cards.",
+        "attacks": [
+          "[1W] Hydro Splash (130)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/449536"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_49e61ade5f8d5f9e1b9b90c4c8fe21785c281435e86d1553ca61b89e4af517b7184b7b5cb6eedd85a782e0febd",
+      "card_info": {
+        "name": "Kingdra ex (Delta Species)",
+        "clean_name": "Kingdra ex Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "94/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": "Extra Smoke - Any damage done to your Stage 2 Pokemon-ex by your opponent's attacks is reduced by 10 (before applying Weakness and Resistance).  (Poke-BODY)",
+        "attacks": [
+          "[1F] Energy Link (40) Search your discard pile for an Energy card and attach it to Kingdra ex.",
+          "[2F] Protective Swirl (80) Kingdra ex has no Weakness during your opponent's next turn."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 129,
+            "mid_price": 499.99,
+            "high_price": 1909.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 125,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86452"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra ex δ Delta Species",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 25.62,
+            "avg30": 15.22,
+            "trend": 22.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 42.11,
+            "low": 17,
+            "avg1": 155,
+            "avg7": 41.05,
+            "avg30": 39.82,
+            "trend": 49.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Kingdra-ex-Delta-Species-DF94"
+      }
+    },
+    {
+      "id": "pk_a3578fe718937c9c010eb00d44f3752445b915ed24dc19e562aad754849c6976b1c65a53635dab5638851eb2d5",
+      "card_info": {
+        "name": "Kingdra GX",
+        "clean_name": "Kingdra GX",
+        "set_name": "Dragon Majesty",
+        "set_code": "DRM",
+        "set_id": "2295",
+        "card_number": "18/70",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Hydro Pump (10+)\r\n<br>This attack does 50 more damage for each Water Energy attached to this Pokemon.",
+          "[W] Reverse Thrust (30)\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+          "<span style=\"color:Teal\"><strong>[W] Maelstrom GX </strong>\r\n<br>This attack does 40 damage to each of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.54,
+            "mid_price": 4.99,
+            "high_price": 96.94,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 4.75,
+            "direct_low_price": 8.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/175380"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra GX",
+        "prices": [
+          {
+            "avg": 7.51,
+            "low": 1.7,
+            "avg1": 5.98,
+            "avg7": 7.42,
+            "avg30": 6.63,
+            "trend": 7.06,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.99,
+            "avg7": 4.09,
+            "avg30": 3.9,
+            "trend": 3.78,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-V1-DRM18"
+      }
+    },
+    {
+      "id": "pk_ac37c2874ea1f2e650aa7d1570a1f2d40b60b42d036fbae88ac626847824e6fc657059c93522ab322a62750fc9",
+      "card_info": {
+        "name": "Kingdra GX (Full Art)",
+        "clean_name": "Kingdra GX Full Art",
+        "set_name": "Dragon Majesty",
+        "set_code": "DRM",
+        "set_id": "2295",
+        "card_number": "66/70",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Hydro Pump (10+)\r\n<br>This attack does 50 more damage for each Water Energy attached to this Pokemon.",
+          "[W] Reverse Thrust (30)\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+          "<span style=\"color:Teal\"><strong>[W] Maelstrom GX </strong>\r\n<br>This attack does 40 damage to each of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 13.74,
+            "high_price": 98.62,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 13.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/175496"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 9.21,
+            "avg30": 7.31,
+            "trend": 10.62,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.23,
+            "low": 1.49,
+            "avg1": 5,
+            "avg7": 13.93,
+            "avg30": 12.26,
+            "trend": 12.7,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-V2-DRM66"
+      }
+    },
+    {
+      "id": "pk_5cacacf00ba57960ade6a98163b0bd77f4239068c805dd21910ec0d991e0e0e01ff42e34f183dfb8accbadf5",
+      "card_info": {
+        "name": "Kingdra ex",
+        "clean_name": "Kingdra ex",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "92/97",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Genetic Memory\r\n<br>Use any attack from Kingdra ex's Basic Pokemon card or Stage 1 Evolution card.  <i>(Kingdra ex doesn't have to pay for that attack's Energy cost.)</i>",
+          "[3] Hydrocannon (50+) \r\n<br>Does 50 damage plus 20 more damage for each WaterEnergy attached to Kingdra ex but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way."
+        ],
+        "weakness": "GL",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 86.33,
+            "mid_price": 448.5,
+            "high_price": 854.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 86.33,
+            "direct_low_price": 338.8,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86451"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra ex",
+        "prices": [
+          {
+            "avg": 90.43,
+            "low": 5,
+            "avg1": 675,
+            "avg7": 171.54,
+            "avg30": 96.37,
+            "trend": 173.31,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 15.18,
+            "avg30": 13.35,
+            "trend": 13.09,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Kingdra-ex-DR92"
+      }
+    },
+    {
+      "id": "pk_7e58be3bd309c7d99447324ea002537bb0543e53494f76d33e5d9b5e87d5c9b8d6a1ecb8d90e36db7bb6408084",
+      "card_info": {
+        "name": "Kingdra (Delta Species)",
+        "clean_name": "Kingdra Delta Species",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "10/110",
+        "rarity": "Holo Rare",
+        "card_type": "Fire Metal",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-POWER</b> Dragon Curse \r\n<br>Once during your turn<em> (before your attack)</em>, if Kingdra is your Active Pokemon, you may put 2 damage counters on 1 of your opponent's Pokemon with Delta Species on its card.  This power can't be used if Kingdra is affected by a Special Condition.",
+        "attacks": [
+          "[1R] Extra Flame (30+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 30 more damage.",
+          "[2MR] Heat Blast (80)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40.99,
+            "mid_price": 89.99,
+            "high_price": 819.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 70.66,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 212.48,
+            "mid_price": 599.99,
+            "high_price": 909.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 289.1,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86450"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra δ Delta Species",
+        "prices": [
+          {
+            "avg": 14.2,
+            "low": 4,
+            "avg1": 3,
+            "avg7": 12,
+            "avg30": 21.86,
+            "trend": 19.03,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 35.75,
+            "low": 11,
+            "avg1": 5,
+            "avg7": 54.14,
+            "avg30": 41.23,
+            "trend": 48.44,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Kingdra-Delta-Species-HP10"
+      }
+    },
+    {
+      "id": "pk_28ced88f05891c79a4c49fb4a79d577db3d0be801080c68a6443671d4717d162a5d7925bc3ae0a6ed50473f16bf1",
+      "card_info": {
+        "name": "Kingdra EX - 73/124",
+        "clean_name": "Kingdra EX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "073/124",
+        "rarity": "Promo",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1] Big Storm (20)\r\n<br>Discard any Stadium card in play.",
+          "[3W] Dragon Trail (60+)\r\n<br>This attack does 30 more damage for each basic Lightning Energy attached to this Pokémon."
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 8.03,
+            "high_price": 89.32,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 6.44,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131868"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra EX",
+        "prices": [
+          {
+            "avg": 2.95,
+            "low": 1,
+            "avg1": 2.95,
+            "avg7": 3.34,
+            "avg30": 2.97,
+            "trend": 3.37,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.5,
+            "avg7": 1.96,
+            "avg30": 1.98,
+            "trend": 2.03,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kingdra-EX-V2-FCO73"
+      }
+    },
+    {
+      "id": "pk_ceec7e0dae2dcfb4c78afe779caceef787a3aa8f25daa2cfda51fd55b6eda964819850100ac28cbfeb4739a0",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "7/146",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[0] Aqua Stream (10x)\r\n<br>\r\nSearch your discard pile for as many Water Energy cards as you like, show them to your opponent, and this attack does 10 damage for each Water Energy card you chose. Put those cards on top of your deck. Shuffle your deck afterward.",
+          "[W] Dragon Pump (40+)\r\n<br>\r\nYou may discard 2 cards from your hand. If you do, this attack does 40 damage plus 20 more damage and does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "L+30",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 16.08,
+            "high_price": 299.62,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 17.26,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 20.99,
+            "high_price": 229.32,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 19.36,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86446"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra Lv.52",
+        "prices": [
+          {
+            "avg": 8.18,
+            "low": 1,
+            "avg1": 34.75,
+            "avg7": 14.24,
+            "avg30": 8.34,
+            "trend": 12.3,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.96,
+            "low": 1,
+            "avg1": 3.79,
+            "avg7": 4.35,
+            "avg30": 5.18,
+            "trend": 2.89,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Kingdra-Lv52-LA7"
+      }
+    },
+    {
+      "id": "pk_888d38ca33b9f9c4925a7db46a5821a7f73c3db8f29e56a262216ab085e0e9dd34a1466b58f3c5a4528fff748724",
+      "card_info": {
+        "name": "Kingdra (Cosmos Holo)",
+        "clean_name": "Kingdra Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "032/182",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Whirltide\r\n<br>Reveal the top 6 cards of your deck. This attack does 60 damage to 1 of your opponent’s Pokémon for each Energy card you find there. Then, discard those Energy cards and shuffle the other cards back into your deck. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "[1W] Hydro Splash (120)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.67,
+            "mid_price": 11.78,
+            "high_price": 106.02,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 10.42,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/617017"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 1.07,
+            "low": 0.08,
+            "avg1": 1.01,
+            "avg7": 1.09,
+            "avg30": 1.29,
+            "trend": 1.03,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Kingdra-V2-PAR032"
+      }
+    },
+    {
+      "id": "pk_b7af3a38b3f87d2c9414ce93cab0e0e981656ba446926b608bc10acaa11da1d8f5f0516422b0aacf50bc6eae",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "008/111",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1WW] Agility (30)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Kingdra.",
+          "[WWWW] Dragon Tornado (50)\r\n<br>If this attack doesn't Knock Out the Defending Pokémon, and if there are any Pokémon on your opponent's Bench, choose 1 of them and switch it with the Defending Pokémon."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 124,
+            "mid_price": 202.14,
+            "high_price": 549.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 124,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 12.25,
+            "mid_price": 19.06,
+            "high_price": 176.53,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 21.93,
+            "direct_low_price": 12.96,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86440"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5.98,
+            "avg7": 6,
+            "avg30": 6.93,
+            "trend": 4.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12,
+            "low": 1,
+            "avg1": 77,
+            "avg7": 41.09,
+            "avg30": 19.55,
+            "trend": 34.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Kingdra-NG8"
+      }
+    },
+    {
+      "id": "pk_1581cdcec312540cd6e5706812075eadbec69a88852c88daa262eb31335eab547bb252016eecc1d473193d02",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "Neo Revelation",
+        "set_code": "N3",
+        "set_id": "1389",
+        "card_number": "19/64",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Genetic Memory\r\n<br>Use any attack from Kingdra's Basic Pokémon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)",
+          "[2WW] Twister (50)\r\n<br>Flip 2 coins. For each heads, choose an Energy card attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing <em>(not even damage)</em>."
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.75,
+            "mid_price": 27,
+            "high_price": 194.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 22.25,
+            "direct_low_price": 189.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 6.27,
+            "mid_price": 8.6,
+            "high_price": 4317.77,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 8.58,
+            "direct_low_price": 7.06,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86442"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.9,
+            "avg7": 8.92,
+            "avg30": 6.9,
+            "trend": 10.96,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.15,
+            "low": 0.89,
+            "avg1": 7.49,
+            "avg7": 5.86,
+            "avg30": 6.6,
+            "trend": 7.84,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Kingdra-NR19"
+      }
+    },
+    {
+      "id": "pk_235aea3317b64618ea436caf3f6cd658eda6801460492ce428a68001304e72f04e0f4164b154f778051d507f65",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "Plasma Freeze",
+        "set_code": "PLF",
+        "set_id": "1382",
+        "card_number": "84/116",
+        "rarity": "Holo Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Dragon Vortex (20x) Does 20 damage times the number of W Energy cards and L Energy cards in your discard pile.  Then, shuffle all of those back into your deck.",
+          "[W] Tri Bullet - This attack does 30 damage to 3 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "Ox2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 3.79,
+            "high_price": 95.78,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.23,
+            "direct_low_price": 95.01,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 4.54,
+            "mid_price": 5.53,
+            "high_price": 62.32,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 6.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86449"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 1.99,
+            "low": 0.43,
+            "avg1": 3.99,
+            "avg7": 2.69,
+            "avg30": 3.19,
+            "trend": 2.49,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2,
+            "low": 0.43,
+            "avg1": 7,
+            "avg7": 4.76,
+            "avg30": 3.57,
+            "trend": 4.63,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Kingdra-PLF84"
+      }
+    },
+    {
+      "id": "pk_f95773b971f99eab16717150d3c2f75ac4bea7da43aa11fd03f4d27af2c5f28184bed906426f07122007646c7d1f",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "SM - Burning Shadows",
+        "set_code": "SM03",
+        "set_id": "1957",
+        "card_number": "31/147",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Brine\r\n<br>This attack does 90 damage to 1 of your opponent's Pokemon that has any damage counters on it. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+          "[W] Tornado Shot (90)\r\n<br>Discard a Water Energy from this Pokemon. This attack does 30 damage to 1 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.64,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.64,
+            "direct_low_price": 0.8,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.62,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.63,
+            "direct_low_price": 0.74,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/138511"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 0.62,
+            "low": 0.1,
+            "avg1": 0.5,
+            "avg7": 0.57,
+            "avg30": 0.64,
+            "trend": 0.5,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.5,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.39,
+            "avg30": 0.51,
+            "trend": 0.42,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Kingdra-BUS31"
+      }
+    },
+    {
+      "id": "pk_09579b0b8ba799586ce759dbd8315cb74011549f9ddf736e8bf684f592be77d6abb7d6168899f34d1378d167be",
+      "card_info": {
+        "name": "Kingdra GX - SM155",
+        "clean_name": "Kingdra GX SM155",
+        "set_name": "SM Promos",
+        "set_code": "SMP",
+        "set_id": "1861",
+        "card_number": "SM155",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "230.0",
+        "stage": "Stage 2",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1] Hydro Pump (10+)\r\n<br>This attack does 50 more damage for each Water Energy attached to this Pokémon.",
+          "[W] Reverse Thrust (30)\r\n<br>Switch this Pokémon with 1 of your Benched Pokémon.",
+          "<span style=\"color:Teal\"><strong>[W] Maelstrom GX </strong>\r\n<br>This attack does 40 damage to each of your opponent’s Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.25,
+            "mid_price": 17.4,
+            "high_price": 137.32,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 17.37,
+            "direct_low_price": 13.88,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/178693"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.5,
+            "avg7": 6.85,
+            "avg30": 6.97,
+            "trend": 7.68,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.51,
+            "low": 2,
+            "avg1": 14,
+            "avg7": 11.14,
+            "avg30": 9.88,
+            "trend": 11.33,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos/Kingdra-GX-SM155"
+      }
+    },
+    {
+      "id": "pk_228e63e32b511557b2fe895cfb7dd75ae55def9667c53e34850a2f19409f46697b27a0b3df0e1c72ffa8733fb30c94",
+      "card_info": {
+        "name": "Kingdra",
+        "clean_name": "Kingdra",
+        "set_name": "SV04: Paradox Rift",
+        "set_code": "PAR",
+        "set_id": "23286",
+        "card_number": "032/182",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Whirltide\r\n<br>Reveal the top 6 cards of your deck. This attack does 60 damage to 1 of your opponent’s Pokémon for each Energy card you find there. Then, discard those Energy cards and shuffle the other cards back into your deck. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "[1W] Hydro Splash (120)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.22,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.19,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 3.34,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.28,
+            "direct_low_price": 0.27,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/523641"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.33,
+            "avg7": 0.2,
+            "avg30": 0.2,
+            "trend": 0.26,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Kingdra-V1-PAR032"
+      }
+    },
+    {
+      "id": "pk_9d03626d29cf1f42a0bbe2fb44b434a71f798df86734e8ceb1f8591e2323c554ba207f15ec3ef5a45a5c1169",
+      "card_info": {
+        "name": "Kingdra ex - 131",
+        "clean_name": "Kingdra ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "131",
+        "rarity": "Promo",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] King's Order<br> Put up to 3 Water Pokemon from your discard pile onto your Bench.",
+          "[CC] Hydro Pump (50+)<br> This attack does 50 more damage for each Water Energy attached to this Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 70,
+            "mid_price": 85.35,
+            "high_price": 769.62,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 77.59,
+            "direct_low_price": 76.04,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/562019"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 47.53,
+            "low": 23,
+            "avg1": 33.66,
+            "avg7": 43.16,
+            "avg30": 44.07,
+            "trend": 43.11,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Kingdra-ex-SVP131"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 83,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 83,
+    "tcg": 71,
+    "cardmarket": 68,
+    "tcg_only": 15,
+    "cardmarket_only": 12,
+    "both_sources": 56
+  }
+}

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Fire+Energy+98&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:08 GMT
+Content-Type: application/json
+Content-Length: 3771
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 983
+X-RateLimit-Remaining-Hour: 83
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lvxyoqh%2FWrPhUA1STvMySXpNvF7l9g2ziohSnwPhZO1IlJcxZaMNUvq7vmYJ%2FahPJHdJMBbuNkJWrbh%2BAkBStyR2RpK5QugFSbhYbgAKke%2BXnehmGSKgc9%2BRrEwUe%2BPH%2BdxMU0T70xGb7CTK2AK3lQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854c00d80a4c11-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,1509 @@
+{
+  "query": "Magneton",
+  "results": [
+    {
+      "id": "pk_431bee2e21163c400b036937a53c90dfa81ed67c2e886e23390e5dea0897e103d4858aff5d4ad149a304fb2c8238",
+      "card_info": {
+        "name": "Magneton (H16)",
+        "clean_name": "Magneton H16",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "H16/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Magnetic Flow</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Magneton is your Active Pokémon, you may flip a coin. If heads, choose 2 of your opponent's Pokémon that have Energy cards attached to them. Choose 1 of the Energy cards attached to each of those Pokémon and switch them between the Pokémon. This power can't be used if Magneton is affected by a Special Condition.",
+        "attacks": [
+          "[3] Steel Wave (30)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon that are the same type (color) as the Defending Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 114.99,
+            "mid_price": 150,
+            "high_price": 1219.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 119.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87094"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 34.33,
+            "low": 6.99,
+            "avg1": 54.99,
+            "avg7": 40.06,
+            "avg30": 47.09,
+            "trend": 46.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39.99,
+            "avg7": 22.01,
+            "avg30": 16.93,
+            "trend": 22.7,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magneton-V1-AQH16"
+      }
+    },
+    {
+      "id": "pk_fd80c13c1e701de458928c4e2a572d89c73ca30750aa8cfbd4c2b17cd6d1a2db36f9d4096dd8f5cd1b78647a23",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "022/147",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Magnetic Flow</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Magneton is your Active Pokémon, you may flip a coin. If heads, choose 2 of your opponent's Pokémon that have Energy cards attached to them. Choose 1 of the Energy cards attached to each of those Pokémon and switch them between the Pokémon. This power can't be used if Magneton is affected by a Special Condition.",
+        "attacks": [
+          "[3] Steel Wave (30)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon that are the same type (color) as the Defending Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.23,
+            "mid_price": 29.99,
+            "high_price": 180.32,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 19.77,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.98,
+            "mid_price": 239.99,
+            "high_price": 334.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 36.59,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87097"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 4.51,
+            "low": 0.8,
+            "avg1": 12.95,
+            "avg7": 5.01,
+            "avg30": 4.79,
+            "trend": 5.99,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 9.49,
+            "low": 1.9,
+            "avg1": 11.99,
+            "avg7": 17.07,
+            "avg30": 14.03,
+            "trend": 18.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magneton-V2-AQ22"
+      }
+    },
+    {
+      "id": "pk_ad5aa181d1ee0159ff3adbcf6dc9e4d0cc9a86e0ac3687d1a60d34bb20b2c395fce9188325dea569523518",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "009/130",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.85,
+            "mid_price": 15.12,
+            "high_price": 4318.23,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 26.99,
+            "direct_low_price": 20.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42497"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 17.66,
+            "low": 6,
+            "avg1": 6.99,
+            "avg7": 17.2,
+            "avg30": 16.2,
+            "trend": 19.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4.79,
+            "avg7": 10.47,
+            "avg30": 10,
+            "trend": 10.75,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Magneton-B29"
+      }
+    },
+    {
+      "id": "pk_8f36df7cc11fc9869666501135a9160d8d36d9a55c70ef74c1deb1ce993d3ff513dc962bd110cdba1a1086a239",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "009/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 376.54,
+            "mid_price": 378.03,
+            "high_price": 500,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 407.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 69,
+            "mid_price": 100,
+            "high_price": 216.76,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 135,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107003"
+      },
+      "cardmarket": {
+        "product_name": "Magneton (Shadowless)",
+        "prices": [
+          {
+            "avg": 87.48,
+            "low": 34.99,
+            "avg1": 54.9,
+            "avg7": 206.91,
+            "avg30": 97.99,
+            "trend": 198.47,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magneton-V2-BS9"
+      }
+    },
+    {
+      "id": "pk_fd390fbe1c1ab601df4db65c1d75493d3d69b0b59a0a8611e2e3b3859cd5c7738ba0b94e5098fceec5fb4b",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "009/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.6,
+            "mid_price": 30.6,
+            "high_price": 139.92,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 34,
+            "direct_low_price": 79.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42433"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 25.59,
+            "low": 3.94,
+            "avg1": 24.6,
+            "avg7": 17.48,
+            "avg30": 19.87,
+            "trend": 18.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8.8,
+            "avg7": 13.69,
+            "avg30": 12.92,
+            "trend": 12.94,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magneton-V1-BS9"
+      }
+    },
+    {
+      "id": "pk_253ec7051398edae69cb57a7351a409923372980e5c9cad0f3d95b165ed68fddaa56b3a4cce2e6e3e9f6797ab17b",
+      "card_info": {
+        "name": "Magneton - 38/108 (XY Evolutions)",
+        "clean_name": "Magneton 38 108 XY Evolutions",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "038/108",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Thunder Wave (30)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[2L] Self-Destruct (80)\r\n<br>This Pokémon does 80 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.38,
+            "mid_price": 0.92,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 1,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131310"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c3a3223552fbe4f19eb977f31027ce6758ec1a6d295db90fc93d2c6e8670c382af8bf7bbdd39006dbca95f89a2",
+      "card_info": {
+        "name": "Holon's Magneton",
+        "clean_name": "Holons Magneton",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "22/113",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "You may attach this as an Energy card from your hand to 1 of your Pokemon that already has an Energy card attached to it.  When you attach this card, return an Energy card attached to that Pokemon to your hand.  While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time.  <em>(Has no effect other than providing Energy.)",
+        "attacks": [
+          "[1M] Extra Ball (30+)\r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 20 more damage."
+        ],
+        "weakness": "F",
+        "resistance": "G",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 7.2,
+            "high_price": 149.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 6.71,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 24.47,
+            "mid_price": 28.99,
+            "high_price": 31,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 30.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86157"
+      },
+      "cardmarket": {
+        "product_name": "Holon's Magneton",
+        "prices": [
+          {
+            "avg": 2.42,
+            "low": 0.2,
+            "avg1": 2,
+            "avg7": 2.36,
+            "avg30": 2.54,
+            "trend": 2.65,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6,
+            "low": 2.98,
+            "avg1": 4.99,
+            "avg7": 16.24,
+            "avg30": 12.53,
+            "trend": 12.25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Holons-Magneton-DS22"
+      }
+    },
+    {
+      "id": "pk_b55b7bc0f7a00c0a4850afbe7feb7e680cca676426c648139d5a1613325150fa456ce4051fd063845b0b89bbfd",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "48/113",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Supersonic (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+          "[1L] Speed Ball (50)"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 1,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.36,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 17.12,
+            "mid_price": 38.22,
+            "high_price": 259.42,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 23.98,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87104"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 0.94,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1,
+            "avg30": 1.1,
+            "trend": 1.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 11.85,
+            "low": 3,
+            "avg1": 7.95,
+            "avg7": 13.84,
+            "avg30": 9.35,
+            "trend": 12.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Magneton-DS48"
+      }
+    },
+    {
+      "id": "pk_ad3111e445b5c760a4323a02c15d433612fdbb056194c984c593ed28c44230d5a154a518c735808720bee035d8",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "54/130",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Tri Attack (20x)\r\n<br>\r\nFlip 3 coins. This attack does 20 damage times the number of heads.",
+          "[2M] Magnetic Ray (40)\r\n<br>\r\nBefore doing damage, you may choose 1 of your opponent's Benched Pokémon that has any Energy attached to it and switch that Pokémon with 1 of the Defending Pokémon."
+        ],
+        "weakness": "R+20",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.36,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.41,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.46,
+            "mid_price": 3.86,
+            "high_price": 37.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.79,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87107"
+      },
+      "cardmarket": {
+        "product_name": "Magneton Lv.35",
+        "prices": [
+          {
+            "avg": 2.5,
+            "low": 0.1,
+            "avg1": 3,
+            "avg7": 1.57,
+            "avg30": 1.59,
+            "trend": 2.31,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.14,
+            "trend": 0.09,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Magneton-Lv35-DP54"
+      }
+    },
+    {
+      "id": "pk_1af227d1291be43b38c069b9b4955563b16b84b042f4cb1e4c474c6ef0b05d6bb7b983910d0e3c36bd280e96",
+      "card_info": {
+        "name": "Magneton - 17/97",
+        "clean_name": "Magneton",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "17/97",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Magnetic Field\r\n<br>Once during your turn <em>(before your attack)</em>, if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand.  Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand.  You can't return the card you first discarded to your hand in this way.  This power can't be used if Magneton is affected by a Special Condition.",
+        "attacks": [
+          "[1L] Magnetic Force (10x) \r\n<br>Does 10 damage times the amount of Energy attached to all of your Pokemon <i>(including Magneton).</i>"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.29,
+            "mid_price": 2.04,
+            "high_price": 24.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.93,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 18.02,
+            "mid_price": 59.99,
+            "high_price": 524.4,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 39.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87100"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 1.25,
+            "low": 0.1,
+            "avg1": 1.23,
+            "avg7": 1.24,
+            "avg30": 1.37,
+            "trend": 1.06,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.14,
+            "low": 0.45,
+            "avg1": 3,
+            "avg7": 7.82,
+            "avg30": 6.22,
+            "trend": 7.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR17"
+      }
+    },
+    {
+      "id": "pk_8a4cc9973f3deb261b9252cbe3aea0ff1324f1a49da46943c226c5b2e708c879615919017e403b6fda65dd85",
+      "card_info": {
+        "name": "Magneton - 35/97",
+        "clean_name": "Magneton",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "35/97",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Ram (20)",
+          "[2L] Triple Smash (20+) \r\n<br>Flip 3 coins.  This attack does 20 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.58,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.58,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 9.99,
+            "mid_price": 29.99,
+            "high_price": 288.22,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 28.53,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87101"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 0.38,
+            "low": 0.05,
+            "avg1": 0.1,
+            "avg7": 0.54,
+            "avg30": 0.5,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.29,
+            "low": 0.98,
+            "avg1": 2,
+            "avg7": 2.25,
+            "avg30": 3.19,
+            "trend": 3.45,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR35"
+      }
+    },
+    {
+      "id": "pk_7ec902ac663d3a2f4c0d24ba47a5fd811c04bff653c10fa40b408bd36d2ac72dd33464ed7709afecb38e9e",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "EX Trainer Kit 1: Latias & Latios",
+        "set_code": "PR",
+        "set_id": "1543",
+        "card_number": "5/10",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Ram (20)",
+          "[2L] Triple Smash (20+) \r\n<br>Flip 3 coins.  This attack does 20 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.51,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.51,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87103"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.05,
+            "avg1": 0.5,
+            "avg7": 0.59,
+            "avg30": 0.57,
+            "trend": 0.51,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Trainer-Kit/Magneton-TK1Latios-5"
+      }
+    },
+    {
+      "id": "pk_2ccf38290cdb9232d75a82cffa5c1558e76d3279666ff54d3989df35afa2ebf753803547d1f0b503a136bbc9c8",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "27/112",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[3] Speed Shot \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon."
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.69,
+            "high_price": 16.32,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.66,
+            "direct_low_price": 0.69,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 33,
+            "mid_price": 48.61,
+            "high_price": 289.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 26.87,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87102"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 0.6,
+            "low": 0.05,
+            "avg1": 0.41,
+            "avg7": 0.67,
+            "avg30": 0.58,
+            "trend": 0.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 16.5,
+            "low": 1,
+            "avg1": 12.72,
+            "avg7": 13.28,
+            "avg30": 11.48,
+            "trend": 13.32,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Magneton-FL27"
+      }
+    },
+    {
+      "id": "pk_b30e61143e80a56bcface9311c893b12d164dab6b581fcffb36841a4da0aaa24514cda2b6e4991fc4a7200",
+      "card_info": {
+        "name": "Magneton (11)",
+        "clean_name": "Magneton 11",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "11/62",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Sonicboom (20)\r\n<br>Don't apply Weakness and Resistance for this attack. <em>(Any other effects that would happen after applying Weakness and Resistance still happen.)</em>",
+          "[LLLL] Selfdestruct (100)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 100 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40.71,
+            "mid_price": 47.75,
+            "high_price": 433.02,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 64.14,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 12.4,
+            "mid_price": 15.09,
+            "high_price": 167.28,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 20.56,
+            "direct_low_price": 161.39,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/44420"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 25.45,
+            "low": 3,
+            "avg1": 21.16,
+            "avg7": 20.82,
+            "avg30": 21.12,
+            "trend": 18.58,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 39,
+            "avg7": 17.22,
+            "avg30": 13.17,
+            "trend": 15.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Magneton-V1-FO11"
+      }
+    },
+    {
+      "id": "pk_7283002396aa36e8352ab5a13d4ae42ed2b2b46b42cf3f183bd60559a144907cb6e4af1f96ec055f6f0500fd",
+      "card_info": {
+        "name": "Magneton (26)",
+        "clean_name": "Magneton 26",
+        "set_name": "Fossil",
+        "set_code": "FO",
+        "set_id": "630",
+        "card_number": "26/62",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Sonicboom (20)\r\n<br>Don't apply Weakness and Resistance for this attack. <em>(Any other effects that would happen after applying Weakness and Resistance still happen.)</em>",
+          "[LLLL] Selfdestruct (100)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 100 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.33,
+            "mid_price": 13.96,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 13.92,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2,
+            "mid_price": 6.24,
+            "high_price": 113.33,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.17,
+            "direct_low_price": 6,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106528"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.99,
+            "avg7": 18.84,
+            "avg30": 14.89,
+            "trend": 18.58,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.84,
+            "low": 0.45,
+            "avg1": 5.5,
+            "avg7": 5.63,
+            "avg30": 8.7,
+            "trend": 5.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Magneton-V2-FO26"
+      }
+    },
+    {
+      "id": "pk_9a1cd5dbc54cd68ee6486d7296fd418fcc1b6b1d5c8ed41896c9236032e05a2e82eb621f9da4d621102bf1f2",
+      "card_info": {
+        "name": "Lt. Surge's Magneton",
+        "clean_name": "Lt Surges Magneton",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "008/132",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Pokémon Power: Energy Charge</strong> As often as you like during your turn <em>(before your attack)</em>, if Lt. Surge's Magneton is your Active Pokémon, you may take 1 Lightning Energy card attached to 1 of your Pokémon and attach it to Lt. Surge's Magneton. This power can't be used if Lt. Surge's Magneton is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[1LLL] Mega Shock (50)\r\n<br>Flip a coin. If tails, Lt. Surge's Magneton does 20 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 59.99,
+            "mid_price": 125.34,
+            "high_price": 875.93,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 94.68,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 17.01,
+            "mid_price": 20.83,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 27.22,
+            "direct_low_price": 17.01,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86858"
+      },
+      "cardmarket": {
+        "product_name": "Lt. Surge's Magneton",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.12,
+            "avg7": 8.91,
+            "avg30": 12.86,
+            "trend": 7.66,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 49.03,
+            "low": 4.98,
+            "avg1": 22.5,
+            "avg7": 26.58,
+            "avg30": 42.15,
+            "trend": 64.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magneton-GH8"
+      }
+    },
+    {
+      "id": "pk_6a24262972a91a1e13837b6c32b1bb693f447e40c9517f7ed62bf597a3a1734fa005b501c52116f67c467b31a8ebca62c2",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Hidden Fates: Shiny Vault",
+        "set_code": "HIF:SV",
+        "set_id": "2594",
+        "card_number": "SV28/SV94",
+        "rarity": "Shiny Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[M] Ram (20)",
+          "[1MM] Zap Cannon (80)\r\n<br>This Pokemon can't use Zap Cannon during your next turn."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.11,
+            "mid_price": 5.55,
+            "high_price": 92.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 5.01,
+            "direct_low_price": 4.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197790"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.5,
+            "avg7": 2.66,
+            "avg30": 4.81,
+            "trend": 2.32,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.89,
+            "low": 2.5,
+            "avg1": 3.15,
+            "avg7": 2.89,
+            "avg30": 5.04,
+            "trend": 2.21,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Magneton-HIFSV28"
+      }
+    },
+    {
+      "id": "pk_531175c247a13d51bf22d84b4189267a6a279b818c6b4940c3d6ad17c01fc8de482f4706453330c2d73adc8a",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "22/92",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Reactive Recharge \r\n<br>If Magneton would be Knocked Out by damage from an opponent's attack, you may move any number of React Energy cards from Magneton to your Pokemon in any way you like.",
+        "attacks": [
+          "[1L] Multiple Force (30+) \r\n<br>If Magneton has any React Energy cards attached to it, this attack does 30 damage plus 10 more damage for each Magnemite and Magneton <i>(both yours and your opponent's) in play.",
+          "[3L] Magnetic Blast (60)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.26,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 49.99,
+            "mid_price": 99.95,
+            "high_price": 360.02,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 45.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87105"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 15.33,
+            "low": 3,
+            "avg1": 15,
+            "avg7": 23.88,
+            "avg30": 15.64,
+            "trend": 22.01,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.37,
+            "low": 0.1,
+            "avg1": 0.4,
+            "avg7": 0.89,
+            "avg30": 1.11,
+            "trend": 1.65,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magneton-LM22"
+      }
+    },
+    {
+      "id": "pk_09889acea765543be5c3106a45dd8ea0abe5cf63a530c2748f4869c8ae8a3bfab18094b7c6a82e0bbecf6a12b0",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "028/110",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1L] Sonicboom (20)\r\n<br>Don't apply Weakness and Resistance for this attack. <em>(Any other effects that would happen after applying Weakness and Resistance still happen.)</em>",
+          "[LLLL] Selfdestruct (100)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 100 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.13,
+            "high_price": 54.74,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.38,
+            "direct_low_price": 38.28,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 149.99,
+            "mid_price": 888.88,
+            "high_price": 1089.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 239.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87099"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 110.99,
+            "low": 40,
+            "avg1": 115,
+            "avg7": 102.94,
+            "avg30": 65.39,
+            "trend": 97.31,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.46,
+            "low": 0.5,
+            "avg1": 1.99,
+            "avg7": 2.57,
+            "avg30": 2.8,
+            "trend": 2.58,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Magneton-LC28"
+      }
+    },
+    {
+      "id": "pk_ceef90495e70d4f6cc2c67b83755562c57d587c5f7f7c3e3def7bacea4a05e2a37ced4d52a32ea7ea515436c6ea9bd",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "046/132",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Shock (30)<br> Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.26,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.16,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654385"
+      },
+      "cardmarket": {
+        "product_name": "Magneton",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.14,
+            "avg30": 0.12,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Magneton-MEG046"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 141,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 141,
+    "tcg": 116,
+    "cardmarket": 120,
+    "tcg_only": 21,
+    "cardmarket_only": 25,
+    "both_sources": 95
+  }
+}

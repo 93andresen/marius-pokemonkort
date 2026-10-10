@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Rocket%E2%80%99s+Sneak+Attack+72&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:29 GMT
+Content-Type: application/json
+Content-Length: 214
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 975
+X-RateLimit-Remaining-Hour: 75
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FX9Z9IblW2ILPUiFBUmu8gO2OX5OlMq2upu%2FPR59ZIfHXTlUCiHPe9WwrQPgs%2FMhuoUeuPQESVsuj1aHm1lGMhMQ6kP2lHrnUfRshkf3W0ew%2BIqm1svBBDneswLep%2BRUfZGJXyopx%2BEJgoxYpDLFqw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854c870bd456c5-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,1088 @@
+{
+  "query": "Base Set 102",
+  "results": [
+    {
+      "id": "pk_1225ba65a8f2ccdb51c2c551ee0bcd1f5b15d124b754f8c75641e636f4c4e0f43daa3392bac23c7ef9ecdd3661",
+      "card_info": {
+        "name": "Imposter Professor Oak",
+        "clean_name": "Imposter Professor Oak",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "102/130",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.99,
+            "high_price": 30.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.61,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42552"
+      },
+      "cardmarket": {
+        "product_name": "Imposter Professor Oak",
+        "prices": [
+          {
+            "avg": 2.48,
+            "low": 0.5,
+            "avg1": 3,
+            "avg7": 2.13,
+            "avg30": 2.93,
+            "trend": 1.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.75,
+            "avg7": 0.75,
+            "avg30": 0.75,
+            "trend": 0.75,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Imposter-Professor-Oak-B2102"
+      }
+    },
+    {
+      "id": "pk_a8806bcab05619043ce9dccd6ba02e2eca082455dec5ed8c6fdabdc963c938296d2246f90d55275561a1592811",
+      "card_info": {
+        "name": "Alakazam",
+        "clean_name": "Alakazam",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "001/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Damage Swap</strong> As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[PPP] Confuse Ray (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 999.99,
+            "mid_price": 1199.97,
+            "high_price": 1399.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 328.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 187.3,
+            "mid_price": 381.94,
+            "high_price": 1999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 367.32,
+            "direct_low_price": 187.3,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106996"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3e162e125a7f67225183a6be0880822e93c69e3fb1c80fa37d5896787b6d44ac2eaf18ea4e5e83e68b3f272dad",
+      "card_info": {
+        "name": "Blastoise",
+        "clean_name": "Blastoise",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "002/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pokémon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        ],
+        "weakness": "L",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 999.03,
+            "mid_price": 1199.99,
+            "high_price": 1599.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 500,
+            "mid_price": 828.25,
+            "high_price": 2420,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 896.06,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106997"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fe2811c381bb94e4a5438c1c1880b475cf625f209051f8574daf9b3af84b2c4f6b41365b870c7661ec57748eb2",
+      "card_info": {
+        "name": "Chansey",
+        "clean_name": "Chansey",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "003/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+          "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 289.99,
+            "mid_price": 299.99,
+            "high_price": 399.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 399.76,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 95,
+            "mid_price": 180.59,
+            "high_price": 1499.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 100.68,
+            "direct_low_price": 101.18,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106998"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_45c1a24a969b0b3d66ca6e4aea705aef873bf7e07d43e3cf6a391e1c9e9b01d38a9a23b3953ff6fbcd17fffa77",
+      "card_info": {
+        "name": "Charizard",
+        "clean_name": "Charizard",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "004/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3187,
+            "mid_price": 3500,
+            "high_price": 10000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2257.87,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          },
+          {
+            "low_price": 100000,
+            "mid_price": 100000,
+            "high_price": 100000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106999"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1d5c2f742cbc7edb68fbb5dc376b22d63bd61337410db5477bbdf6833bf6e2a91719f0b075cd97c653a85b86cf",
+      "card_info": {
+        "name": "Gyarados",
+        "clean_name": "Gyarados",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "006/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Dragon Rage (50)",
+          "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "G",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2380,
+            "mid_price": 8330,
+            "high_price": 14280,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 111.61,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 89.95,
+            "mid_price": 124.99,
+            "high_price": 1186.55,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 123.95,
+            "direct_low_price": 1185.92,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107000"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7cd5fdef384e3c90c682c5f4ad38ab01c3290b760ff9c7eea740560f6dab3ce1e1bbc3bf33cf8ba06b0b0b444f",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "005/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 300,
+            "mid_price": 401.35,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 335.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 95,
+            "mid_price": 180,
+            "high_price": 1371.89,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 169.66,
+            "direct_low_price": 265.94,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107001"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4b5c57f4770c8903b4de0d311d5db1afa17266ebedeebb991460d6fdde44dded40aefed63b92402da948c5a35c",
+      "card_info": {
+        "name": "Hitmonchan",
+        "clean_name": "Hitmonchan",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "007/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[F] Jab (20)",
+          "[1FF] Special Punch (40)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 256.66,
+            "mid_price": 600,
+            "high_price": 699.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 300,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 32.55,
+            "mid_price": 88.85,
+            "high_price": 919.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 96.25,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107002"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8f36df7cc11fc9869666501135a9160d8d36d9a55c70ef74c1deb1ce993d3ff513dc962bd110cdba1a1086a239",
+      "card_info": {
+        "name": "Magneton",
+        "clean_name": "Magneton",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "009/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 80 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 376.54,
+            "mid_price": 378.03,
+            "high_price": 500,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 407.5,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 69,
+            "mid_price": 100,
+            "high_price": 216.76,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 135,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107003"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_702061ebf1fe29ec06d352b16e2c664f58bd5bf0524978f778bf02d0800975dcb5731574a4b011254376db2d9581",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "010/102",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 142.5,
+            "mid_price": 220.38,
+            "high_price": 1109.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 295.08,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          },
+          {
+            "low_price": 345,
+            "mid_price": 345,
+            "high_price": 345,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 351.51,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107005"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e1894856c036efb023442775109cb661b39ece781da14b87e1683fc00aadef9ebd7fe7b46570410a4cbef58fa4e6",
+      "card_info": {
+        "name": "Nidoking",
+        "clean_name": "Nidoking",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "011/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself.",
+          "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 499.97,
+            "mid_price": 3299,
+            "high_price": 3599.78,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 349.96,
+            "direct_low_price": 3599.78,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 179.99,
+            "high_price": 1504.66,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 172.19,
+            "direct_low_price": 119.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107006"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_67984ae39e60ac126fc0f25b2d39eb74390b09d91fd14135e2b47580f83496f1e9a2d8bafc15fe2d0bb2e45aa79b",
+      "card_info": {
+        "name": "Poliwrath",
+        "clean_name": "Poliwrath",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "013/102",
+        "rarity": "Holo Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2W] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": "G",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2298.82,
+            "mid_price": 2399.33,
+            "high_price": 2399.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 249.98,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 110,
+            "mid_price": 168.27,
+            "high_price": 598.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 158.64,
+            "direct_low_price": 598.82,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107007"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_46f5b37a04389c5dc045e027fac4161d4191f916605c7dca1973fcc0bd24289f3c7fb160642dd0c2df8fe99a8168",
+      "card_info": {
+        "name": "Ninetales",
+        "clean_name": "Ninetales",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "012/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+          "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 399.99,
+            "mid_price": 699.99,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 800,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 68.69,
+            "mid_price": 141.05,
+            "high_price": 5708.66,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 141.05,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107008"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8ec6eb98122f9e504458916c7c461bb51b665d11bc290e39f90d350f43a6f2d228d6b5b639a9bedec1b63f3d985e",
+      "card_info": {
+        "name": "Raichu",
+        "clean_name": "Raichu",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "014/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2L] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Raichu does 30 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 355,
+            "mid_price": 620.04,
+            "high_price": 1161.38,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 550,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 253.5,
+            "mid_price": 898.98,
+            "high_price": 1499.46,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 253.5,
+            "direct_low_price": 898.98,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107009"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f69b20a763666ae195cc7483ba6b979eb777af894c307c15d64fd16f11c6f093dbfc08d753bd8077cca6af3d5fff",
+      "card_info": {
+        "name": "Venusaur",
+        "clean_name": "Venusaur",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "015/102",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[GGGG] Solarbeam (60)"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 899.95,
+            "mid_price": 1099.99,
+            "high_price": 2999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 945.83,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 444.8,
+            "mid_price": 499.99,
+            "high_price": 519.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 494.19,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107010"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_25462c64c5dc2f50b22988cdf873b1cfe85cfc0ecc2119f0c73eb9eb341281c459f21bd38b16d19bad1f7bf3a644",
+      "card_info": {
+        "name": "Zapdos",
+        "clean_name": "Zapdos",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "016/102",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack."
+        ],
+        "weakness": null,
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 359.99,
+            "mid_price": 502.5,
+            "high_price": 645,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 257.87,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 299.99,
+            "mid_price": 300,
+            "high_price": 1516.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 136.74,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107011"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_dbcc04c7a28fb5be8c0c06ae175b782f251343af5088440d3f579c8f6ca21b565054eab2dcb8edff4e10255bba1f",
+      "card_info": {
+        "name": "Beedrill",
+        "clean_name": "Beedrill",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "017/102",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[3] Twineedle (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "[GGG] Poison Sting (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1499.72,
+            "mid_price": 1512.02,
+            "high_price": 1524.31,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 158.53,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 14,
+            "mid_price": 23.99,
+            "high_price": 137.1,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 23.53,
+            "direct_low_price": 83.84,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107012"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1c0d0a6c8722a70e9acb76cab61ea9152a5b2741e609e8de5cce311da620a7a30d9f57b1eba59992cf62f489558a",
+      "card_info": {
+        "name": "Dragonair",
+        "clean_name": "Dragonair",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "018/102",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[3] Slam (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "[4] Hyper Beam (20)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        ],
+        "weakness": null,
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 172.16,
+            "mid_price": 249.99,
+            "high_price": 2287.69,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 198,
+            "direct_low_price": 249.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 35,
+            "mid_price": 60,
+            "high_price": 199.87,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 57.04,
+            "direct_low_price": 148.66,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107013"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_496e04020746c2d6acc51a23da8f0a97054a19d95486cc8fe5671270b0c479f6ed2d04541114a8f4405bb9384bb0",
+      "card_info": {
+        "name": "Dugtrio",
+        "clean_name": "Dugtrio",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "019/102",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1FF] Slash (40)",
+          "[FFFF] Earthquake (70)\r\n<br>Does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "G",
+        "resistance": "L-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 115,
+            "mid_price": 137.7,
+            "high_price": 249.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 128.59,
+            "direct_low_price": 219.79,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 19,
+            "mid_price": 30.91,
+            "high_price": 131.86,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 30.34,
+            "direct_low_price": 96.79,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107014"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d66f246c9daad3764b145b30c6730fb9c0a9744bb465d8d5bacb5848f4b0b0f6b67ac82ed7f65b55e38c22ba930f",
+      "card_info": {
+        "name": "Electabuzz",
+        "clean_name": "Electabuzz",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "020/102",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Thunderpunch (30+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 87.27,
+            "mid_price": 145.54,
+            "high_price": 749.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 153.14,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 21.88,
+            "mid_price": 45,
+            "high_price": 238.85,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 29.43,
+            "direct_low_price": 178.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107015"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 210,
+    "total_pages": 11
+  },
+  "metadata": {
+    "total_count": 210,
+    "tcg": 210,
+    "cardmarket": 105,
+    "tcg_only": 105,
+    "cardmarket_only": 0,
+    "both_sources": 105
+  }
+}

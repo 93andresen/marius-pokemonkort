@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Water+Energy+102&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:17 GMT
+Content-Type: application/json
+Content-Length: 3354
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 979
+X-RateLimit-Remaining-Hour: 79
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vR7HrNweq7Ep%2Bs9bg1mWbnv52US3me%2FaIng%2FbZfkBGx8XunXMF85okN3MscgH%2BFk5ztpwacToj2jgN0rB4NFz9vPtHj0MPmwabzv47bP5ALp%2B9jd1PRb0fwxoMhf%2FOLQffrkwqhK%2Fau66CAnUERbWQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854c3a5da6b1b8-OSL
+alt-svc: h3=":443"; ma=86400

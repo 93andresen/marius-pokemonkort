@@ -1,0 +1,91 @@
+{
+  "query": "Mew ex 066",
+  "results": [
+    {
+      "id": "pk_191e5e1daa438fc14e3799c7d952d909ab5690c9160eca076869a7d4ddad8d1dcfeaac573d6b4f095fd33e8a0929e9",
+      "card_info": {
+        "name": "Mew ex - 066/128",
+        "clean_name": "Mew ex 066 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "066/128",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Teleportation Burst (30)<br> You may switch this Pokémon with 1 of your Benched Pokémon."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.95,
+            "mid_price": 3.37,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 2.64,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716465"
+      },
+      "cardmarket": {
+        "product_name": "Mew ex (30C 066)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.64,
+            "low": 0.5,
+            "avg1": 2.73,
+            "avg7": 3.31,
+            "avg30": 4.59,
+            "trend": 2.25,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Mew-ex-V1-30C066"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

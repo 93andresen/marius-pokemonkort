@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Base+Set+102&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:21 GMT
+Content-Type: application/json
+Content-Length: 23999
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 978
+X-RateLimit-Remaining-Hour: 78
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bfFTwVAlv1AH3p5QxVMGShJsv6OlC5rVnp%2BnL8P81MCCYApFz2mpo%2Bmsx%2BHWxcDcB11EMZFDROOcxC0ynppsp9o3%2BX%2BCgpF3rCjNFtL%2F5vrZ5zSH3ukz%2BxdfWFC6YMLmEtyqsiVaA%2BZKXbNUJJgjTg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854c541b694c11-OSL
+alt-svc: h3=":443"; ma=86400

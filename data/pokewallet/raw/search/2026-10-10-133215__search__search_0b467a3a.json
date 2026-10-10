@@ -1,0 +1,1107 @@
+{
+  "query": "Gengar - EX 5",
+  "results": [
+    {
+      "id": "pk_78a17b2e62567a7afe4216b0c695a65a7f6ff88eb28a9449d86a9dce65dad06c93acba0cc1fbd5628c6eb3cab0",
+      "card_info": {
+        "name": "Gengar (13)",
+        "clean_name": "Gengar 13",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "013/165",
+        "rarity": "Holo Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Chaos Move</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if your opponent has 3 or fewer Prizes, you may move 1 damage counter from 1 Pokémon <em>(yours or your opponent's)</em> to another <em>(even if it would Knock Out the other Pokémon)</em>. This power can't be used if Gengar is affected by a Special Condition.",
+        "attacks": [
+          "[1PP] Hide in Shadows (40)\r\n<br>Switch Gengar with 1 of your Benched Pokémon, if any."
+        ],
+        "weakness": "D",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 500,
+            "mid_price": 553.15,
+            "high_price": 606.3,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 716.67,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 259,
+            "mid_price": 454.7,
+            "high_price": 620,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 600,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85671"
+      },
+      "cardmarket": {
+        "product_name": "Gengar",
+        "prices": [
+          {
+            "avg": 776.55,
+            "low": 68,
+            "avg1": 800.61,
+            "avg7": 731.97,
+            "avg30": 436.15,
+            "trend": 530.4,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 942.48,
+            "low": 75,
+            "avg1": 790,
+            "avg7": 584.43,
+            "avg30": 325.81,
+            "trend": 687.68,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Gengar-EX13"
+      }
+    },
+    {
+      "id": "pk_20bac8b3351d6bfd686673dd784eaf7e1551ff93419d0e921da1ba6f670fc8704d7caaa9e50800de89ab53cfa1",
+      "card_info": {
+        "name": "Gengar (48)",
+        "clean_name": "Gengar 48",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "048/165",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Chaos Move</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if your opponent has 3 or fewer Prizes, you may move 1 damage counter from 1 Pokémon <em>(yours or your opponent's)</em> to another <em>(even if it would Knock Out the other Pokémon)</em>. This power can't be used if Gengar is affected by a Special Condition.",
+        "attacks": [
+          "[1PP] Hide in Shadows (40)\r\n<br>Switch Gengar with 1 of your Benched Pokémon, if any."
+        ],
+        "weakness": "D",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 235,
+            "mid_price": 780.51,
+            "high_price": 1419.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 189.55,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 272.99,
+            "mid_price": 273.95,
+            "high_price": 9900,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 312.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85673"
+      },
+      "cardmarket": {
+        "product_name": "Gengar",
+        "prices": [
+          {
+            "avg": 467.5,
+            "low": 33,
+            "avg1": 120,
+            "avg7": 311.86,
+            "avg30": 174.27,
+            "trend": 308.9,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 82.79,
+            "low": 15,
+            "avg1": 55,
+            "avg7": 75.87,
+            "avg30": 80.52,
+            "trend": 90.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Gengar-EX48"
+      }
+    },
+    {
+      "id": "pk_1fad1c65ac9161630dbaa2746c7968f0298e3c197405abdcf0b3b292c2550d138f214cab5ccd3edbad426858cf1a",
+      "card_info": {
+        "name": "Gengar EX - 34/119",
+        "clean_name": "Gengar EX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "034/119",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1] Night Attack\r\n<br>Put 3 damage counters on 1 of your opponent's Pokémon.",
+          "[2P] Dark Corridor (60)\r\n<br>\r\nYour opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.77,
+            "mid_price": 24.87,
+            "high_price": 799.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 22.83,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/169940"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d69ad6f3f46a17c02631ba24fd35c83c15c77f83fb3516c05cb7b067f98d56d7e22da9eca28263696b1d86a9c9ae5a",
+      "card_info": {
+        "name": "Mega Gengar ex",
+        "clean_name": "Mega Gengar ex",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "056/094",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "350.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Shadowy Concealment</strong> If 1 of your Darkness Pokemon is Knocked Out by damage from an attack from your opponent's Pokemon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+        "attacks": [
+          "[DD] Void Gale (230)<br> Move an Energy from this Pokemon to 1 of your Benched Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.11,
+            "mid_price": 2.88,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 2.36,
+            "direct_low_price": 3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660380"
+      },
+      "cardmarket": {
+        "product_name": "Mega Gengar ex",
+        "prices": [
+          {
+            "avg": 1.74,
+            "low": 0.35,
+            "avg1": 1.43,
+            "avg7": 1.55,
+            "avg30": 1.65,
+            "trend": 1.56,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Gengar-ex-V1-PFL056"
+      }
+    },
+    {
+      "id": "pk_f3ff3a62c4b0d1555adb5440913e7a68040e1a50fde0e6f425ef362bbc3ee36de01b35c1eaaca671cdeeb650a24a",
+      "card_info": {
+        "name": "Gengar Spirit Link - 95/119 (Alternate Holo) (Gamestop Exclusive)",
+        "clean_name": "Gengar Spirit Link 95 119 Alternate Holo Gamestop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "095/119",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "<em>Pokémon Tool — Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.</em>\r\n<br><br>\r\nYour turn does not end if the Pokémon this card is attached to becomes M Gengar-EX.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 49.99,
+            "high_price": 769.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 63.36,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/187218"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4feed57d5fd7bbedc4eab7dfaef8d33457abf0f2389a648f84017b037f6ce04024fe053deecfdcb1ee6602cfd5e10ce7",
+      "card_info": {
+        "name": "Gengar ex - 104/162",
+        "clean_name": "Gengar ex",
+        "set_name": "SV05: Temporal Forces",
+        "set_code": "TEF",
+        "set_id": "23381",
+        "card_number": "104/162",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability—Gnawing Curse</strong><br>\r\nWhenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+        "attacks": [
+          "[D][D] Tricky Steps (160) \r\nYou may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.99,
+            "mid_price": 7.63,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 6.47,
+            "direct_low_price": 8.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/542848"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex",
+        "prices": [
+          {
+            "avg": 4.96,
+            "low": 3,
+            "avg1": 5.01,
+            "avg7": 4.86,
+            "avg30": 4.94,
+            "trend": 5.01,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Gengar-ex-V1-TEF104"
+      }
+    },
+    {
+      "id": "pk_d8b7b585fe3e28f565f0fdfa0185ad5ecc199bdc31a4c63496e94689c4363961928728603fa74d51e03d038113e0b4ae",
+      "card_info": {
+        "name": "Gengar ex - 193/162",
+        "clean_name": "Gengar ex",
+        "set_name": "SV05: Temporal Forces",
+        "set_code": "TEF",
+        "set_id": "23381",
+        "card_number": "193/162",
+        "rarity": "Ultra Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability—Gnawing Curse</strong><br>\nWhenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+        "attacks": [
+          "[D][D] Tricky Steps (160) \nYou may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 43,
+            "mid_price": 56.9,
+            "high_price": 340.82,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 51.15,
+            "direct_low_price": 59.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/542914"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex",
+        "prices": [
+          {
+            "avg": 30.59,
+            "low": 15.99,
+            "avg1": 27.26,
+            "avg7": 26.56,
+            "avg30": 30.09,
+            "trend": 27.25,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Gengar-ex-V2-TEF193"
+      }
+    },
+    {
+      "id": "pk_1fd1f47a9273e781e16103fdcc16e675c5d24daf1e1b6e6de95bafd9ade561c027811fc696bd7eea3ebe3283e0",
+      "card_info": {
+        "name": "M Gengar EX",
+        "clean_name": "M Gengar EX",
+        "set_name": "XY - Phantom Forces",
+        "set_code": "PHF",
+        "set_id": "1494",
+        "card_number": "35/119",
+        "rarity": "Ultra Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Mega",
+        "card_text": "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "attacks": [
+          "[2P] Phantom Gate\r\nChoose 1 of your opponent's Pokémon's attacks and use it as this attack."
+        ],
+        "weakness": "Mx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 106.6,
+            "mid_price": 156.55,
+            "high_price": 1869.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 152.19,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/94168"
+      },
+      "cardmarket": {
+        "product_name": "MGengar EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 25,
+            "avg7": 15.71,
+            "avg30": 12.58,
+            "trend": 16.11,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 100.99,
+            "low": 17,
+            "avg1": 49.98,
+            "avg7": 103.55,
+            "avg30": 114.24,
+            "trend": 116.78,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantom-Forces/MGengar-EX-PHF35"
+      }
+    },
+    {
+      "id": "pk_1b64025f5591c3640fe8fab0aa93113b0422d7e44f8ad028b1089a7a166ce60da2b544edf2795141464ec4115c",
+      "card_info": {
+        "name": "M Gengar EX",
+        "clean_name": "M Gengar EX",
+        "set_name": "XY Promos",
+        "set_code": "PR",
+        "set_id": "1451",
+        "card_number": "XY166",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Mega",
+        "card_text": null,
+        "attacks": [
+          "[1PPP] Hollow Geist (120)\r\n<br>Your opponent's Active Pokemon is now Confused and Poisoned."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 149.99,
+            "mid_price": 182,
+            "high_price": 1519.2,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 279.48,
+            "direct_low_price": 172.9,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/125253"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2e4fd809f2dd15b6a71d98ce9713d49c8c0c6dc03745f0fb8b52e236d23950d81ad73876c7243971e16af9c80053f6",
+      "card_info": {
+        "name": "Gengar - 085/128",
+        "clean_name": "Gengar",
+        "set_name": "Base Expansion Pack",
+        "set_code": "23730",
+        "set_id": "23730",
+        "card_number": "085/128",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Psychic][Psychic][Colorless] Hide in Shadows (40)<br> Switch Gengar with 1 of your Benched Pok?mon, if any."
+        ],
+        "weakness": "Darkness x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199,
+            "mid_price": 199,
+            "high_price": 199,
+            "updated_at": "2026-10-07T11:54:55.550389",
+            "market_price": 175,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575989"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e2e47b88e7d49db6ce6bb661ea33e4c0f55e8a91db5015596a45a7ea68689c0740c2342c694a0515e81c90ff1cdf15",
+      "card_info": {
+        "name": "Gengar EX",
+        "clean_name": "Gengar EX",
+        "set_name": "M Master Deck Build Box Power Style",
+        "set_code": "MMB",
+        "set_id": "23985",
+        "card_number": "010/049",
+        "rarity": null,
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Night Attack<br> Put 3 damage counters on 1 of your opponent's Pokémon.",
+          "[Psychic][Colorless][Colorless] Dark Corridor (60)<br> Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        ],
+        "weakness": "Darkness x2",
+        "resistance": "Fighting -20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/606421"
+      },
+      "cardmarket": {
+        "product_name": "Gengar EX",
+        "prices": [
+          {
+            "avg": 63.63,
+            "low": 55,
+            "avg1": 94.99,
+            "avg7": 54.97,
+            "avg30": 57.09,
+            "trend": 62.28,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/M-Master-Deck-Build-Box-Power-Style/Gengar-EX-MMBP010"
+      }
+    },
+    {
+      "id": "pk_1f16eb5a86e1d6d85d9b28829ed6a83e247a8601cc2ff584ff1baefc427fe12086ee28129a72c7dbe48e812eac44",
+      "card_info": {
+        "name": "Honchkrow",
+        "clean_name": "Honchkrow",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "005/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Wind of Darkness (30)",
+          "[Darkness][Darkness][Colorless] Snipe Feather<br> Discard 2 Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "[Lightning]x2",
+        "resistance": "[Fighting]-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.58,
+            "high_price": 1.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.59,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660122"
+      },
+      "cardmarket": {
+        "product_name": "Honchkrow",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.21,
+            "avg30": 0.3,
+            "trend": 0.14,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Honchkrow-mBG005"
+      }
+    },
+    {
+      "id": "pk_7a4da0b4faeda618e69c1db3731bf3164987501962d3a63c7aa7672436f985b526a129069050fb3e2c49de810102ad",
+      "card_info": {
+        "name": "Mega Signal",
+        "clean_name": "Mega Signal",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "015/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.45,
+            "high_price": 1.75,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660131"
+      },
+      "cardmarket": {
+        "product_name": "Mega Signal",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Mega-Signal-mBG015"
+      }
+    },
+    {
+      "id": "pk_ad7e5ebff4eac190f08080566027dfeb1cdfe201f9fe5fa07e9a8037582a33397ac1763d9affa96108b1deb8e0080e",
+      "card_info": {
+        "name": "Gengar ex - 047/071",
+        "clean_name": "Gengar ex",
+        "set_name": "SV5K: Wild Force",
+        "set_code": "SV5K",
+        "set_id": "23612",
+        "card_number": "047/071",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Darkness] Tricky Steps (160)<br> You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.5,
+            "mid_price": 4.63,
+            "high_price": 12,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 3.52,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568381"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.36,
+            "low": 1.9,
+            "avg1": 2,
+            "avg7": 4.1,
+            "avg30": 4.51,
+            "trend": 5.66,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Wild-Force/Gengar-ex-V1-sv5K047"
+      }
+    },
+    {
+      "id": "pk_5550a211527eb4c01ad9d229d5cd387da1fa7c587fe568ede211e52b54154798f5aa597f0150d88a84df1c185c8ddf",
+      "card_info": {
+        "name": "Gengar ex - 088/071",
+        "clean_name": "Gengar ex",
+        "set_name": "SV5K: Wild Force",
+        "set_code": "SV5K",
+        "set_id": "23612",
+        "card_number": "088/071",
+        "rarity": "Super Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Darkness] Tricky Steps (160)<br> You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.4,
+            "mid_price": 43.29,
+            "high_price": 82.46,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 39.4,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568422"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex",
+        "prices": [
+          {
+            "avg": 36.09,
+            "low": 11.95,
+            "avg1": 28.48,
+            "avg7": 28.57,
+            "avg30": 35.45,
+            "trend": 34.45,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Wild-Force/Gengar-ex-V2-sv5K088"
+      }
+    },
+    {
+      "id": "pk_e5df2a54cc1faea9839149d3fba193980403d665cbd3841273f3702eaf524aeb49bd8d21b830552c4e6b75c111780bf5",
+      "card_info": {
+        "name": "Mega Gengar ex - 125/217",
+        "clean_name": "Mega Gengar ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "125/217",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 3.02,
+            "high_price": 39.82,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 2.48,
+            "direct_low_price": 2.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675937"
+      },
+      "cardmarket": {
+        "product_name": "Mega Gengar ex",
+        "prices": [
+          {
+            "avg": 2.43,
+            "low": 0.4,
+            "avg1": 2.15,
+            "avg7": 2.21,
+            "avg30": 2.52,
+            "trend": 2.34,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V1-ASC125"
+      }
+    },
+    {
+      "id": "pk_7bfd032f53f979e89300b57f7b82975156eafbdcaa9b976e7b67dca3f2d202a0696bce702a019807d3507301133d0607",
+      "card_info": {
+        "name": "Gengar ex - 154/128",
+        "clean_name": "Gengar ex 154 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "154/128",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[DD] Chaotic Pain<br> Place 13 damage counters on 1 of your opponent's Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 71.37,
+            "mid_price": 95,
+            "high_price": 1173.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 74.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/717610"
+      },
+      "cardmarket": {
+        "product_name": "Gengar ex (30C 154)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 112.42,
+            "low": 59.99,
+            "avg1": 78.61,
+            "avg7": 87.07,
+            "avg30": 112.08,
+            "trend": 70.45,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Gengar-ex-V2-30C154"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 17,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 17,
+    "tcg": 17,
+    "cardmarket": 13,
+    "tcg_only": 4,
+    "cardmarket_only": 0,
+    "both_sources": 13
+  }
+}

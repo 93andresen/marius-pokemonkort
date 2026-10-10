@@ -1,0 +1,1509 @@
+{
+  "query": "Clefairy",
+  "results": [
+    {
+      "id": "pk_89b492f7ec670e3f049b574378cf0c52c12131af1182f7fc358ad667f56c3cafd55bd8b58c1919d59efaf4",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "006/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.99,
+            "mid_price": 25.41,
+            "high_price": 279.6,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 27.05,
+            "direct_low_price": 45,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42483"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.99,
+            "avg7": 6.71,
+            "avg30": 8.03,
+            "trend": 7.84,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.59,
+            "low": 3.6,
+            "avg1": 4.75,
+            "avg7": 7.76,
+            "avg30": 10.29,
+            "trend": 9.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Clefairy-B26"
+      }
+    },
+    {
+      "id": "pk_7cd5fdef384e3c90c682c5f4ad38ab01c3290b760ff9c7eea740560f6dab3ce1e1bbc3bf33cf8ba06b0b0b444f",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "005/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 300,
+            "mid_price": 401.35,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 335.47,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 95,
+            "mid_price": 180,
+            "high_price": 1371.89,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 169.66,
+            "direct_low_price": 265.94,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107001"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy (Shadowless)",
+        "prices": [
+          {
+            "avg": 108.39,
+            "low": 25,
+            "avg1": 733.33,
+            "avg7": 309.94,
+            "avg30": 200.07,
+            "trend": 165.03,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-V2-BS5"
+      }
+    },
+    {
+      "id": "pk_364016e9061ec0fb7dd71b72e016ba69a4021e49da9732e6fc514cf5e6f662c73e0f5fa6f077c587e86d1f8de24f",
+      "card_info": {
+        "name": "Clefairy Doll",
+        "clean_name": "Clefairy Doll",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "070/102",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": "10.0",
+        "stage": null,
+        "card_text": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 49.72,
+            "mid_price": 58.76,
+            "high_price": 455.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 82.66,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 7.26,
+            "mid_price": 12.75,
+            "high_price": 109.31,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 12.13,
+            "direct_low_price": 58.36,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107067"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy Doll (Shadowless)",
+        "prices": [
+          {
+            "avg": 99.95,
+            "low": 6.95,
+            "avg1": 99.95,
+            "avg7": 43.83,
+            "avg30": 24.86,
+            "trend": 31.82,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-Doll-V2-BS70"
+      }
+    },
+    {
+      "id": "pk_f56b327f32e2cea08b38075ab0e54cf5ee3c3f63edecf2da6a0efc5c54293c1063151cafc53da8ad9ea6c5",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "005/102",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 41.53,
+            "high_price": 211.6,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 48.82,
+            "direct_low_price": 114.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42393"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 27.46,
+            "low": 5,
+            "avg1": 35,
+            "avg7": 31.41,
+            "avg30": 24.92,
+            "trend": 30.6,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 16.81,
+            "avg7": 11.97,
+            "avg30": 19.63,
+            "trend": 14,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-V1-BS5"
+      }
+    },
+    {
+      "id": "pk_ad86f67abc08e5b1e2621d4e1c42b775fdbd2fc96c088e5b88f2a8c552d2c13b5a549fc1a562b896f04599ce",
+      "card_info": {
+        "name": "Clefairy Doll",
+        "clean_name": "Clefairy Doll",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "070/102",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": "10.0",
+        "stage": null,
+        "card_text": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.75,
+            "mid_price": 7,
+            "high_price": 96.38,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.2,
+            "direct_low_price": 48.49,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42416"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy Doll",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.88,
+            "avg7": 2.33,
+            "avg30": 2.33,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.76,
+            "low": 0.7,
+            "avg1": 4.37,
+            "avg7": 10.45,
+            "avg30": 8.8,
+            "trend": 9.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-Doll-V1-BS70"
+      }
+    },
+    {
+      "id": "pk_d0c5591aee519bb89ca26ab290fbca9616b4d46733967925b78d78e79c7fa61765cfabe78b92525baf4500e2",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "54/95",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Minimize - During your opponent's next turn, any damage done to Clefairy by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "[1] Slap (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.75,
+            "high_price": 96.96,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 0.72,
+            "direct_low_price": 0.88,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5.99,
+            "mid_price": 8.15,
+            "high_price": 65.99,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 19.95,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84359"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 16,
+            "low": 0.15,
+            "avg1": 16,
+            "avg7": 9.31,
+            "avg30": 5.44,
+            "trend": 8.42,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.15,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.31,
+            "avg30": 0.88,
+            "trend": 0.78,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Clefairy-CL54"
+      }
+    },
+    {
+      "id": "pk_6b0702b5c67a2bec479c9709c9b584749ba32924eba0a2995a13ef1ed66fdf00c0c5c8e37c3ffbfc1e5b43e87b",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "77/130",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Sing\r\n<br>\r\nThe Defending Pokémon is now Asleep.",
+          "[2] Moon Impact (20+)\r\n<br>\r\nIf Clefairy is evolved from Cleffa, this attack does 20 damage plus 20 more damage."
+        ],
+        "weakness": "F+10",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1,
+            "high_price": 32.1,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.58,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 8.05,
+            "mid_price": 10.44,
+            "high_price": 19.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 8.05,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84356"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy Lv.18",
+        "prices": [
+          {
+            "avg": 0.59,
+            "low": 0.05,
+            "avg1": 0.4,
+            "avg7": 0.79,
+            "avg30": 0.53,
+            "trend": 0.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.59,
+            "low": 1,
+            "avg1": 4,
+            "avg7": 3.27,
+            "avg30": 2.37,
+            "trend": 3.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Clefairy-Lv18-DP77"
+      }
+    },
+    {
+      "id": "pk_e23460f1675c12bdaeecaf4fc4c08ffa3a975ac8fda781751942d8b8e377fa46572d7a39a9e4d51fa82b8bdec985",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "101/165",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Shining Fingers\r\n<br>The Defending Pokémon is now Asleep.",
+          "[1] Slap (10)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.98,
+            "mid_price": 11,
+            "high_price": 94,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 11.23,
+            "direct_low_price": 19.96,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 69.99,
+            "mid_price": 189.62,
+            "high_price": 609.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 79.69,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84353"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 3.08,
+            "low": 0.1,
+            "avg1": 4.4,
+            "avg7": 3.19,
+            "avg30": 2.91,
+            "trend": 3.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 31.99,
+            "low": 1.65,
+            "avg1": 31.99,
+            "avg7": 16.52,
+            "avg30": 11.38,
+            "trend": 20.22,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Clefairy-EX101"
+      }
+    },
+    {
+      "id": "pk_1006a5f55cf229768ee1e52e9bccf5bb371a41d3e3a934fe04479938f0df9c0396947dfed4e60eb1bfb78e4564",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "59/112",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gesture \r\n<br>Choose 1 of your opponent's Benched Pokemon and switch it with the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+          "[2] Moon Kick (20)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.57,
+            "mid_price": 2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.97,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 17.19,
+            "mid_price": 32.48,
+            "high_price": 749.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 18.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84354"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 1.09,
+            "low": 0.09,
+            "avg1": 0.99,
+            "avg7": 1.31,
+            "avg30": 1.14,
+            "trend": 1.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.79,
+            "low": 0.2,
+            "avg1": 15,
+            "avg7": 4.98,
+            "avg30": 8.29,
+            "trend": 1.95,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Clefairy-FL59"
+      }
+    },
+    {
+      "id": "pk_7345299869fd483a3702deba049aad3601fdcab685fcd209782e69785a75bb4bc0e2ab071cf0630f7129be99ac",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "50/83",
+        "rarity": "Common",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Moonlight\r\n<br>Heal 30 damage from this Pokemon.",
+          "[1Y] Pound (20)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.2,
+            "mid_price": 2,
+            "high_price": 20.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 1.85,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 5,
+            "mid_price": 10.05,
+            "high_price": 136.54,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 10.73,
+            "direct_low_price": 7.85,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113708"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 1.29,
+            "low": 0.02,
+            "avg1": 0.43,
+            "avg7": 1.2,
+            "avg30": 1.32,
+            "trend": 1.18,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.2,
+            "low": 0.2,
+            "avg1": 3.48,
+            "avg7": 5.45,
+            "avg30": 4.4,
+            "trend": 5.3,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clefairy-V1-GEN50"
+      }
+    },
+    {
+      "id": "pk_5638f468e48032683f7ff19a1969296e5dff9293135a9cdc993986f9990ecae1067d89024f429c5f6f4c1f5f9d",
+      "card_info": {
+        "name": "Erika's Clefairy",
+        "clean_name": "Erikas Clefairy",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "040/132",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Lunar Power\r\n<br>Flip a coin. If heads, search your deck for a card that evolves from 1 of your Benched Pokémon and put that card on that Pokémon. <em>(This counts as evolving that Pokémon.)</em> Shuffle your deck afterward.",
+          "[2] Moon Kick (20)"
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.05,
+            "mid_price": 24.87,
+            "high_price": 167.39,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 22.25,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 11.83,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 13.53,
+            "direct_low_price": 9.41,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85289"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Clefairy",
+        "prices": [
+          {
+            "avg": 5.98,
+            "low": 1,
+            "avg1": 4.7,
+            "avg7": 6,
+            "avg30": 5.75,
+            "trend": 5.88,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Erikas-Clefairy-GC40"
+      }
+    },
+    {
+      "id": "pk_1053d6cf6bd76738c626504af42e4aa294e77cfd8d9cee03b005bbde919b57be22f5f85822f6a0c37d776b60ea",
+      "card_info": {
+        "name": "Erika's Clefairy",
+        "clean_name": "Erikas Clefairy",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "025/132",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Moonwatching\r\n<br>Search your deck for a basic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
+          "[2] Comet Slap (10x)\r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 111.01,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 31.09,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 6.38,
+            "mid_price": 14.07,
+            "high_price": 4320.01,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 14.85,
+            "direct_low_price": 164.65,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85288"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Clefairy",
+        "prices": [
+          {
+            "avg": 9.64,
+            "low": 1,
+            "avg1": 9.5,
+            "avg7": 10.36,
+            "avg30": 10.02,
+            "trend": 9.26,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.99,
+            "avg7": 3.33,
+            "avg30": 3.33,
+            "trend": 4.55,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Clefairy-GH25"
+      }
+    },
+    {
+      "id": "pk_e868b538b7a5ffb8b4d5611f315b30a7792f50bd3bf5dad73fe4288ac13143b2b9e35f0a3f676ec7edb4591e85",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "60/123",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Minimize - During your opponent's next turn, any damage done to Clefairy by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "[1] Slap (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 2.27,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 3.01,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 19.99,
+            "mid_price": 212,
+            "high_price": 2119.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 12.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84358"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 0.55,
+            "low": 0.02,
+            "avg1": 0.45,
+            "avg7": 0.4,
+            "avg30": 0.53,
+            "trend": 0.62,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.13,
+            "low": 0.5,
+            "avg1": 3.5,
+            "avg7": 4.11,
+            "avg30": 2.61,
+            "trend": 3.86,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Clefairy-HS60"
+      }
+    },
+    {
+      "id": "pk_b5908259938e31e713a58683d08b3eb29354668794fdf97008575ddbd561c1b15f3c6fc0796003b0b65b4908fb",
+      "card_info": {
+        "name": "Clefairy (38)",
+        "clean_name": "Clefairy 38",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "38/68",
+        "rarity": "Common",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Lead\r\n<br>Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[Y] Pound (10)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.6,
+            "mid_price": 1.12,
+            "high_price": 18.26,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.12,
+            "direct_low_price": 18.26,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.07,
+            "mid_price": 0.37,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197682"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.15,
+            "avg1": 0.59,
+            "avg7": 0.58,
+            "avg30": 0.57,
+            "trend": 0.61,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.09,
+            "avg30": 0.09,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefairy-HIF38"
+      }
+    },
+    {
+      "id": "pk_ae0bebb2fcc46f19ecc5d44c97b4f021525b71b208b90c42b121ac3d6272795c7b7f8146c3cb6bd35fdefa8644",
+      "card_info": {
+        "name": "Clefairy (39)",
+        "clean_name": "Clefairy 39",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "39/68",
+        "rarity": "Common",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Y] Pound (10)",
+          "[1Y] Moonlit Dance (30)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.86,
+            "mid_price": 1.4,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.4,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 25,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197683"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.47,
+            "low": 0.15,
+            "avg1": 0.84,
+            "avg7": 0.63,
+            "avg30": 0.59,
+            "trend": 0.59,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefairy-HIF39"
+      }
+    },
+    {
+      "id": "pk_eeeada6bbb7c478f580bf64fb686b301cf56fccb3232e0d788c2f628b2e5a32825fb6281b42901fd05432a0e692f",
+      "card_info": {
+        "name": "Clefairy - 50/83 (Toys R Us Promo)",
+        "clean_name": "Clefairy 50 83 Toys R Us Promo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "050/083",
+        "rarity": "Promo",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Moonlight\r\n<br>Heal 50 damage from this Pokémon.",
+          "[1Y] Pound (20)"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40,
+            "mid_price": 66.31,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 44.4,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/136645"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c29098b53a9c62f49ac7630ebc7ca06ad2766fc86ef8eef6dace50b737cb951bf4a400d565753980c7f910d65a",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Neo Genesis",
+        "set_code": "N1",
+        "set_id": "1396",
+        "card_number": "030/111",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Doubleslap (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "[3] Squaredance\r\n<br>Flip a number of coins equal to the total number of Pokémon in play. For each heads, you may search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.98,
+            "mid_price": 24.56,
+            "high_price": 294.71,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 23.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 2.89,
+            "mid_price": 5.9,
+            "high_price": 94.49,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 6.23,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84352"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.96,
+            "low": 0.1,
+            "avg1": 0.85,
+            "avg7": 3.41,
+            "avg30": 2.73,
+            "trend": 3.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Clefairy-NG30"
+      }
+    },
+    {
+      "id": "pk_f141a5fffc4e1436d9801dbcfa1eaf951e8f205c7bf2f6e65544bea33bf0dca791dc28661a76c4f280058c5d31",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Plasma Storm",
+        "set_code": "PLS",
+        "set_id": "1413",
+        "card_number": "97/135",
+        "rarity": "Common",
+        "card_type": null,
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pound (10)",
+          "[2] Double Slap (20x) Flip 2 coins.  This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.47,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.47,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.98,
+            "mid_price": 8.26,
+            "high_price": 21.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 4.42,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84360"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 0.57,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.31,
+            "avg30": 0.53,
+            "trend": 0.72,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.4,
+            "avg1": 7.94,
+            "avg7": 3.05,
+            "avg30": 1.45,
+            "trend": 2.79,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Clefairy-PLS97"
+      }
+    },
+    {
+      "id": "pk_d8818c38cd60512d6c852af26dd5db1cb50595cf821e6a883ee9d7db7c644a1341082c931007622ded7eead750d969",
+      "card_info": {
+        "name": "Clefairy",
+        "clean_name": "Clefairy",
+        "set_name": "Prize Pack Series Cards",
+        "set_code": "22880",
+        "set_id": "22880",
+        "card_number": "062/196",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Moon-Watching Party</strong>\r\n<br>\r\nOnce during your turn, if this Pokémon is in the Active Spot, for each of your Benched Clefairy, you may search your deck for a Psychic Energy card and attach it to that Clefairy. Then, shuffle your deck.",
+        "attacks": [
+          "[3] Wonder Storm (20x)\r\n<br>\r\nThis attack does 20 damage for each Psychic Energy attached to all of your Pokémon."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.34,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515343"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.22,
+            "low": 0.05,
+            "avg1": 0.39,
+            "avg7": 0.13,
+            "avg30": 0.15,
+            "trend": 0.13,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Play-Pokemon-Prize-Pack-Series-Three/Clefairy-PPS3LOR-062"
+      }
+    },
+    {
+      "id": "pk_f204f6b20bff113a6c810cfda90241cd32d0c4b3bacd094e5fa35ac342219665cd094bf14c0c748ee39d784aadec3f",
+      "card_info": {
+        "name": "Lillie's Clefairy ex - 056/159",
+        "clean_name": "Lillie's Clefairy ex",
+        "set_name": "Prize Pack Series Cards",
+        "set_code": "22880",
+        "set_id": "22880",
+        "card_number": "056/159",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Fairy Zone</strong>\r\n<br>\r\n<br>The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. <em>(Apply Weakness as ×2.)\r\n<br>\r\n</em>",
+        "attacks": [
+          "[1P] Full Moon Rondo (20+)\r\n<br>This attack does 20 more damage for each Benched Pokémon <em>(both yours and your opponent’s).</em>"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.12,
+            "mid_price": 5.49,
+            "high_price": 72.92,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 4.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/648674"
+      },
+      "cardmarket": {
+        "product_name": "Lillie's Clefairy ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.11,
+            "low": 1.9,
+            "avg1": 3.99,
+            "avg7": 3.71,
+            "avg30": 4.39,
+            "trend": 4.47,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Play-Pokemon-Prize-Pack-Series-Seven/Lillies-Clefairy-ex-PPS7JTG-056"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 121,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 121,
+    "tcg": 101,
+    "cardmarket": 105,
+    "tcg_only": 16,
+    "cardmarket_only": 20,
+    "both_sources": 85
+  }
+}

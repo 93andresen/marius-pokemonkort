@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=%E2%80%93+Holon+Phantoms+111&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:57 GMT
+Content-Type: application/json
+Content-Length: 210
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 959
+X-RateLimit-Remaining-Hour: 59
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eVcmJw7iYz4s2jGSF6Pn6IAjv9HfvZr45rVCjXB2AH%2B8qU55v9kGmIfugVNpgNFf4lTVLWn9N25FUdgayMC8GKTnJLEOKed5Gc837VDICNEAplnmiQqJuk5GipYntJ5hd2F2XatZdJj18kR0lsu%2FCQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854d38d9510b69-OSL
+alt-svc: h3=":443"; ma=86400

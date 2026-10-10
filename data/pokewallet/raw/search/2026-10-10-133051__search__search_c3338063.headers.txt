@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Ninetales&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:30:56 GMT
+Content-Type: application/json
+Content-Length: 28054
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 989
+X-RateLimit-Remaining-Hour: 89
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JB27kUZbG2ZEiJKFcmQQBu4JXb1XBQMFkYmMRy67L5eF5TCQUBdtR3JnoY9cnnDH2DT8m5fp1ZUmBNfXoGKXTPPl6Zt%2Br2ruHF%2BZPUSXz0WwjgrSRzixgwxySgCDccymjczN8eTyhabeZWGOYIcKgw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854bb7ccee56ba-OSL
+alt-svc: h3=":443"; ma=86400

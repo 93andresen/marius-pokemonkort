@@ -1,0 +1,97 @@
+{
+  "query": "Mightyena 66",
+  "results": [
+    {
+      "id": "pk_0d6b82cecaaaa1fcbfb32932977a0889d86e4be8742532996c010f57393c04e537e506b92abb936be286fb6e6a",
+      "card_info": {
+        "name": "Mightyena",
+        "clean_name": "Mightyena",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "66/146",
+        "rarity": "Uncommon",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[D] Bite On (30)\r\n<br>\r\nIf the Defending Pokémon isn't an Evolved Pokémon, that Pokémon can't attack, retreat, or use any Poké-Powers during your opponent's next turn.",
+          "[2] Harass (10x)\r\n<br>\r\nDoes 10 damage times the number of Pokémon you have in play."
+        ],
+        "weakness": "F+20",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.65,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.8,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 6.76,
+            "mid_price": 23,
+            "high_price": 82.22,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87447"
+      },
+      "cardmarket": {
+        "product_name": "Mightyena Lv.42",
+        "prices": [
+          {
+            "avg": 0.45,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.52,
+            "avg30": 0.46,
+            "trend": 0.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.13,
+            "low": 0.65,
+            "avg1": 2,
+            "avg7": 5.13,
+            "avg30": 2.23,
+            "trend": 4.1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mightyena-Lv42-LA66"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

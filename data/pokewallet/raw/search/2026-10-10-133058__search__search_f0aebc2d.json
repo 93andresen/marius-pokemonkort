@@ -1,0 +1,293 @@
+{
+  "query": "Grass Energy 99",
+  "results": [
+    {
+      "id": "pk_38b176fa16c7e9d3ed7c477a8b6c6cdfbe0646fdc4f7410131bc9327ac08caf5e8d11d5018176bcfc278b8d81d1b",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "099/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.99,
+            "mid_price": 117.65,
+            "high_price": 137.08,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 26.66,
+            "direct_low_price": 117.65,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.75,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.15,
+            "direct_low_price": 0.7,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107095"
+      },
+      "cardmarket": {
+        "product_name": "Grass Energy (Shadowless)",
+        "prices": [
+          {
+            "avg": 2.67,
+            "low": 0.05,
+            "avg1": 2.45,
+            "avg7": 2.37,
+            "avg30": 2.59,
+            "trend": 4.99,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Grass-Energy-V2-BS99"
+      }
+    },
+    {
+      "id": "pk_33fba3eab5bd50c363110ef6e5f1f4ddf868f159a2680161099572002a11ab9c86fec5ba2240a27ccf6bc1ae",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "099/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.36,
+            "high_price": 8.44,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.46,
+            "direct_low_price": 0.27,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42443"
+      },
+      "cardmarket": {
+        "product_name": "Grass Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 3.16,
+            "avg30": 3.16,
+            "trend": 5.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.24,
+            "avg30": 0.32,
+            "trend": 0.44,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Grass-Energy-V1-BS99"
+      }
+    },
+    {
+      "id": "pk_a85f71d3e2db97161f13ff45874b8be52e2e43005d79d7cd323d64c289718ab1f350fdf109eb003d76d959155e8b9760",
+      "card_info": {
+        "name": "Basic Grass Energy - 099/BW-P",
+        "clean_name": "Basic Grass Energy 099 BW P",
+        "set_name": "BW-P Promotional cards",
+        "set_code": "BW-P",
+        "set_id": "24342",
+        "card_number": "099/BW-P",
+        "rarity": null,
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 4,
+            "high_price": 4,
+            "updated_at": "2026-10-08T11:42:09.031572",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635096"
+      },
+      "cardmarket": {
+        "product_name": "Grass Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1.95,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.5,
+            "low": 1.95,
+            "avg1": 2.5,
+            "avg7": 4.05,
+            "avg30": 4.05,
+            "trend": 2.71,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Promos/Grass-Energy-V3"
+      }
+    },
+    {
+      "id": "pk_08f06aaf2070126762ea536bcf25bd39641b93cbe4d8c947196c8671902fb8c5f264f21a82259b9ad60fbefe430803",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "SV2D: Clay Burst",
+        "set_code": "SV2D",
+        "set_id": "23608",
+        "card_number": "099/071",
+        "rarity": "Ultra Rare",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.31,
+            "mid_price": 10.25,
+            "high_price": 15.99,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 7.45,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/577562"
+      },
+      "cardmarket": {
+        "product_name": "Basic Grass Energy",
+        "prices": [
+          {
+            "avg": 26,
+            "low": 6,
+            "avg1": 26,
+            "avg7": 15.81,
+            "avg30": 12.13,
+            "trend": 17.64,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Clay-Burst/Basic-Grass-Energy-sv2D099"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 4,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 4
+  }
+}

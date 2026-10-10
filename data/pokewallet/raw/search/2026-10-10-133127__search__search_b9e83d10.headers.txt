@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pok%C3%A9mon-kortsamling+charizard+blastoise+venusaur+%2B%2B&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:33 GMT
+Content-Type: application/json
+Content-Length: 240
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 973
+X-RateLimit-Remaining-Hour: 73
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qq07i6k5D99dS%2Bj9dg1EmYS%2FbdhYLUt6uRRfwXJanyhNbupRI%2FHbFV0%2B6pwpIPXBT2g3WvofL4%2BoMF1gsGOWLU2UTCBxcmAro8eUl6k7eKBpv2CoNY34YVivvGP74lKSWaO4EpT%2BdyTF5qEn0x2yPg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854c9fb90b783d-OSL
+alt-svc: h3=":443"; ma=86400

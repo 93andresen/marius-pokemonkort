@@ -1,0 +1,223 @@
+{
+  "query": "Fire Energy 98",
+  "results": [
+    {
+      "id": "pk_5355114d4e1562d69116cd43966cb0acbe51a2a269a9a4b36dc873bebaa8f18216d50fba1250235fb1c1574f0179",
+      "card_info": {
+        "name": "Fire Energy",
+        "clean_name": "Fire Energy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "098/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.99,
+            "mid_price": 8.95,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.55,
+            "direct_low_price": 192.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.14,
+            "mid_price": 0.5,
+            "high_price": 15.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.59,
+            "direct_low_price": 0.74,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107094"
+      },
+      "cardmarket": {
+        "product_name": "Fire Energy (Shadowless)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.84,
+            "low": 0.05,
+            "avg1": 29,
+            "avg7": 1.85,
+            "avg30": 2.11,
+            "trend": 4.24,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Fire-Energy-V2-BS98"
+      }
+    },
+    {
+      "id": "pk_bfd1d3a92be49aaf3c775457c6969f3edee4282c9437659602cc77e340204f9bdb74bdad03fd2aad1a4464f5",
+      "card_info": {
+        "name": "Fire Energy",
+        "clean_name": "Fire Energy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "098/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.38,
+            "high_price": 17.74,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42442"
+      },
+      "cardmarket": {
+        "product_name": "Fire Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.9,
+            "avg7": 2.28,
+            "avg30": 2.32,
+            "trend": 2.19,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.76,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.32,
+            "avg30": 0.63,
+            "trend": 0.28,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Fire-Energy-V1-BS98"
+      }
+    },
+    {
+      "id": "pk_5850e73dc994e9a7fd1fd5328b3205920d79fb65636eac921ef5eaf2f605a5e33c61a1bc8b5ba2252659",
+      "card_info": {
+        "name": "Basic Fire Energy",
+        "clean_name": "Basic Fire Energy",
+        "set_name": "M Master Deck Build Box Power Style",
+        "set_code": "MMB",
+        "set_id": "23985",
+        "card_number": null,
+        "rarity": null,
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/606373"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d72867d91c1d078b27a8f809980fb44f0deb119a22f020e6a0c922ec4c3a8bf49e21bf12724daaa67131",
+      "card_info": {
+        "name": "Basic Fire Energy",
+        "clean_name": "Basic Fire Energy",
+        "set_name": "M Master Deck Build Box Speed Style",
+        "set_code": "MMB",
+        "set_id": "23986",
+        "card_number": null,
+        "rarity": null,
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/606431"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 2,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

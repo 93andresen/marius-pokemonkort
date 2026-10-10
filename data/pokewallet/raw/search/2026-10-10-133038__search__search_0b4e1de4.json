@@ -1,0 +1,1357 @@
+{
+  "query": "Snorlax",
+  "results": [
+    {
+      "id": "pk_bba56ad89c070b4153d00a4249144a9184f42410442ab13e96e28b7a4cdb6a81cc430f6efb9debbbefa28e79",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "030/130",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Thick Skinned</strong>\r\n<br>\r\nSnorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power stops working while Snorlax is already Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[4] Body Slam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.99,
+            "mid_price": 19.89,
+            "high_price": 4316.55,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 31.45,
+            "direct_low_price": 95.16,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42502"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 12.02,
+            "low": 4.89,
+            "avg1": 7.95,
+            "avg7": 11.73,
+            "avg30": 13.98,
+            "trend": 10.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 11.09,
+            "avg30": 11.09,
+            "trend": 11.18,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Snorlax-B230"
+      }
+    },
+    {
+      "id": "pk_79310201379de2bc7d870aaaa7480ff7568a8d4477490041cb09a2071743574b74cb2def95a3feb44bbc814cacd3",
+      "card_info": {
+        "name": "Snorlax - 50/68 (Mewtwo Stamped)",
+        "clean_name": "Snorlax 50 68 Mewtwo Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "050/068",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[4] Incredible Snore (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.82,
+            "mid_price": 3.1,
+            "high_price": 50.42,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.01,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219182"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.4,
+            "avg7": 0.9,
+            "avg30": 0.9,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.52,
+            "low": 0.08,
+            "avg1": 0.38,
+            "avg7": 1.58,
+            "avg30": 1.58,
+            "trend": 1.59,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2020/Snorlax-HIF50"
+      }
+    },
+    {
+      "id": "pk_736d5d426009b415ed21ca614c94e24216d0a40c664748c9607f4b696f0c30fcc88b7a125ee72b71a8ec6e00d6e978",
+      "card_info": {
+        "name": "Snorlax - 140/202 (Cosmos Holo)",
+        "clean_name": "Snorlax 140 202 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "140/202",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Rolling Tackle (80)",
+          "[4] Heavy Impact (130)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.75,
+            "mid_price": 3.81,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/245145"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_30b1d1a84010514d5de3ffce85841d6a3f3842580dab5eebe06472585e333498c5f32c6db448630511c006537c01",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "109/149",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Double Lariat (40x) Flip 2 coins.  This attack does 40 damage times the number of heads.",
+          "[4] Rollout (60)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.78,
+            "mid_price": 10.24,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 11.19,
+            "direct_low_price": 24.06,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 50.99,
+            "mid_price": 79.8,
+            "high_price": 889.62,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 63.76,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89393"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 2.15,
+            "low": 0.02,
+            "avg1": 3.9,
+            "avg7": 2.1,
+            "avg30": 2.63,
+            "trend": 2.82,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 10.27,
+            "low": 0.5,
+            "avg1": 11.95,
+            "avg7": 8.95,
+            "avg30": 10.29,
+            "trend": 16.54,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Snorlax-BCR109"
+      }
+    },
+    {
+      "id": "pk_0b5eacc6f6b4deee29bab27bb36c9eb76bc0f421b00c5e22079b42039c0decf649d4003fe20cbb99f10746a9",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Call of Legends",
+        "set_code": "CL",
+        "set_id": "1415",
+        "card_number": "33/95",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Layabout - Remove all damage counters from Snorlax.  Snorlax can't use Layabout during your next turn.",
+          "[4] Clomp Clomp Clobber (80) Put 1 Energy card attached to Snorlax in the Lost Zone."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.39,
+            "mid_price": 29.31,
+            "high_price": 389.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 30.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 143.99,
+            "mid_price": 250,
+            "high_price": 721.92,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 190,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89392"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 15.63,
+            "low": 1.79,
+            "avg1": 9.98,
+            "avg7": 16.84,
+            "avg30": 16.46,
+            "trend": 16.58,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 24.5,
+            "low": 15,
+            "avg1": 24,
+            "avg7": 37.87,
+            "avg30": 57.02,
+            "trend": 33.69,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Snorlax-CL33"
+      }
+    },
+    {
+      "id": "pk_496289cd9b5064293442b5ee2fcd3d3d0a5c8ad62f5776d4ef513a11925ca01af4398fa95395ae82a900d238a5b4bafe",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "109/159",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Heavy Impact (80)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 13,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 12.93,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 1.5,
+            "mid_price": 3,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 2.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478136"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 6.3,
+            "low": 0.46,
+            "avg1": 6.49,
+            "avg7": 6.47,
+            "avg30": 6.31,
+            "trend": 6.81,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.44,
+            "low": 0.02,
+            "avg1": 0.55,
+            "avg7": 0.54,
+            "avg30": 0.48,
+            "trend": 0.57,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Snorlax-CRZ109"
+      }
+    },
+    {
+      "id": "pk_fd9c7e7a5c1d3175952ee45e603c674018c9ea99addfec784d8af241720747bf231a4c89595412b00b542a0c91",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "37/130",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Block\r\n<br>\r\nThe Defending Pokémon can't retreat during your opponent's next turn.",
+          "[4] Ease Up (40+)\r\n<br>\r\nSnorlax is now Asleep. If Snorlax is evolved from Munchlax, this attack does 40 damage plus 30 more damage."
+        ],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14,
+            "mid_price": 31.5,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 27.88,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 55,
+            "mid_price": 104.91,
+            "high_price": 479.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 54.55,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89389"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax Lv.35",
+        "prices": [
+          {
+            "avg": 16.74,
+            "low": 2.5,
+            "avg1": 24.99,
+            "avg7": 14.78,
+            "avg30": 13.23,
+            "trend": 19.1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.96,
+            "low": 0.69,
+            "avg1": 6,
+            "avg7": 4.9,
+            "avg30": 5,
+            "trend": 4.18,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Snorlax-Lv35-DP37"
+      }
+    },
+    {
+      "id": "pk_5f09a7bb62e116ed2ac21fc780deadcf1e7bfef859cbcd6fd105174e76cf4b742100c222116f6c1b259e8fd02f",
+      "card_info": {
+        "name": "Snorlax (Delta Species)",
+        "clean_name": "Snorlax Delta Species",
+        "set_name": "Dragon Frontiers",
+        "set_code": "DF",
+        "set_id": "1411",
+        "card_number": "10/101",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "Bedhead - As long as Snorlax remains Asleep between turns, put 2 damage counters on 1 of the Defending Pokemon.  (Poke-BODY)Dozing - Once during your turn (before your attack), if Snorlax is your Active Pokemon, you may remove 2 damage counters from Snorlax and Snorlax is now Asleep.  This power can't be used if Snorlax is affected by a Special Condition.  (Poke-POWER)",
+        "attacks": [],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 150,
+            "mid_price": 197.99,
+            "high_price": 389.45,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 202.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 349.95,
+            "mid_price": 709.94,
+            "high_price": 2492.24,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 215.66,
+            "direct_low_price": 999.98,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89395"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax δ Delta Species",
+        "prices": [
+          {
+            "avg": 60.33,
+            "low": 7.5,
+            "avg1": 115,
+            "avg7": 62.38,
+            "avg30": 46.25,
+            "trend": 62.72,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 85.62,
+            "low": 17.99,
+            "avg1": 229.84,
+            "avg7": 131.08,
+            "avg30": 93.34,
+            "trend": 135.64,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon-Frontiers/Snorlax-Delta-Species-DF10"
+      }
+    },
+    {
+      "id": "pk_4e7c49eaa9da5b3957e7889b02cae41678eeb4863ded42ecc3ecfd02d9a67cf1baedcad34b389f62c7c5f3965c",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "15/112",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Rest Up\r<br>\n<br>If Snorlax remains Asleep between turns, remove 2 damage counters from Snorlax (remove 1 if there is only 1).",
+        "attacks": [
+          "[1] Collapse (10) \r\n<br>Snorlax is now Asleep.",
+          "[3] Toss and Turn (30+) \r\n<br>If Snorlax is Asleep, this attack does 30 damage plus 30 more damage.  <i>(This attack can be used even if Snorlax is Asleep.)</i>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 140,
+            "mid_price": 140,
+            "high_price": 140,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 134.26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 149,
+            "mid_price": 367.7,
+            "high_price": 1208.48,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 146.51,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 199.99,
+            "mid_price": 324.99,
+            "high_price": 1665.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 294.09,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89388"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 38.17,
+            "low": 4.98,
+            "avg1": 104.99,
+            "avg7": 56.89,
+            "avg30": 38.91,
+            "trend": 69.27,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 74.5,
+            "low": 5,
+            "avg1": 700,
+            "avg7": 164.86,
+            "avg30": 81.8,
+            "trend": 188.59,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Snorlax-FL15"
+      }
+    },
+    {
+      "id": "pk_57f7632d9b67a57c7404b05268c72af0b442550ae9a1652ce3a810eb49c5c56e947757bb85542333f5960820e8",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "58/83",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<b>Ability — Stir and Snooze</b>\r\n<br>If this Pokémon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pokémon is still Asleep.",
+        "attacks": [
+          "[4] Sleepy Press (120)\r\n<br>Heal 20 damage from this Pokémon. This Pokémon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.41,
+            "mid_price": 6.45,
+            "high_price": 97.7,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 7.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 7.79,
+            "mid_price": 13.75,
+            "high_price": 305.7,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 13.75,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113716"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 1.86,
+            "low": 0.05,
+            "avg1": 0.1,
+            "avg7": 1.55,
+            "avg30": 2.1,
+            "trend": 1.86,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 8.7,
+            "low": 1.95,
+            "avg1": 4.1,
+            "avg7": 7.33,
+            "avg30": 7.7,
+            "trend": 9.28,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Snorlax-GEN58"
+      }
+    },
+    {
+      "id": "pk_b12747ef32b0c10e1318590fc21c3ded5cf59caac36be63a1e17ac756eb2c68c586fd195567ee09b27da62dfe1",
+      "card_info": {
+        "name": "Rocket's Snorlax",
+        "clean_name": "Rockets Snorlax",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "033/132",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Restless Sleep</strong> If your opponent's attack does damage to Rocket's Snorlax and Rocket's Snorlax is already Asleep <em>(even if it's Knocked Out)</em>, this power does 20 damage to the attacking Pokémon.",
+        "attacks": [
+          "[3] Collapse (20)\r\n<br>Rocket's Snorlax is now Asleep <em>(after doing damage)</em>."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139.65,
+            "mid_price": 724.99,
+            "high_price": 1775.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 176.28,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 36.66,
+            "mid_price": 53.24,
+            "high_price": 299.11,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 58.27,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88795"
+      },
+      "cardmarket": {
+        "product_name": "Rocket's Snorlax",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.99,
+            "avg7": 6.3,
+            "avg30": 6.3,
+            "trend": 11.06,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 38.8,
+            "low": 16,
+            "avg1": 59.95,
+            "avg7": 113.27,
+            "avg30": 53.33,
+            "trend": 116.15,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Snorlax-GH33"
+      }
+    },
+    {
+      "id": "pk_edcd9e567136c161fd6556ec7fc603187d1c156188725f3aea95899e792838d64dee1712c895796217c7154511",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "50/68",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[4] Incredible Snore (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.96,
+            "high_price": 9.97,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.93,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.9,
+            "mid_price": 1.38,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197696"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.1,
+            "avg1": 0.2,
+            "avg7": 0.39,
+            "avg30": 0.52,
+            "trend": 0.5,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.86,
+            "low": 0.5,
+            "avg1": 3,
+            "avg7": 3.53,
+            "avg30": 2.72,
+            "trend": 3.8,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Snorlax-V1-HIF50"
+      }
+    },
+    {
+      "id": "pk_59a9552449fab89c3e0efee473e21a6582f22cb17571022528fbee59114e67c1bb2f999b36257dc768268f9c",
+      "card_info": {
+        "name": "Snorlax GX - SM05",
+        "clean_name": "Snorlax GX SM05",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM05",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[3] Collapse (80)\r\n<br>This Pokémon is now Asleep.",
+          "[5] Thunderous Snore (180)\r\n<br>This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing.",
+          "<span style=\"color:Teal\"><strong>[5] Pulverizing Pancake GX</strong>\r\n<br>This Pokémon is now Asleep. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 12.38,
+            "high_price": 109.52,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 12.43,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131864"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_82ee2413e8b274eeecf2a25faf9f1f65c7d3c928bd8fa6b046d513b7e96cc4ce861c73d1baa2a9cd34f4fe33d32913",
+      "card_info": {
+        "name": "Snorlax VMAX - 142/202",
+        "clean_name": "Snorlax VMAX",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "142/202",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "340.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[3] G-Max Fall (60+)\r\n<br>This attack does 30 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 19.69,
+            "high_price": 198.22,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 15.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/253399"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8a7ff66e09eef6720ec6b810b9d2556b210c46932f0d3addc23c305e73db734d9acce9b7afefa7e0b9ea0551177efe",
+      "card_info": {
+        "name": "Snorlax V - 141/202",
+        "clean_name": "Snorlax V",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "141/202",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[3] Swallow (60)\r\n<br>Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "[4] Falling Down (170)\r\n<br>This Pokémon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/264312"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8569159b95e7909a854207610a77067b59bb370b1eca981f06ba4bee2b94d809536256b6deba3e8f710366d2139d",
+      "card_info": {
+        "name": "Snorlax ex (Prismatic Evolution Stamped)",
+        "clean_name": "Snorlax ex Prismatic Evolution Stamped",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "076/131",
+        "rarity": "Double Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CCC] Strength (80)",
+          "[CCCC] Toss-Turn Press (120x)<br> Flip 3 coins. This attack does 120 damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.15,
+            "mid_price": 4.5,
+            "high_price": 43.42,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.87,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/663406"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_060c7578311354f78aceedbf6f564b999f13a06feddcd90a8aeee59475d568d02f958176c849a25a299d4b",
+      "card_info": {
+        "name": "Snorlax (11)",
+        "clean_name": "Snorlax 11",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "11/64",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Thick Skinned</strong>\r\n<br>\r\nSnorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[4] Body Slam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 189.98,
+            "mid_price": 230,
+            "high_price": 2000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 408.99,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 74.95,
+            "mid_price": 124.99,
+            "high_price": 697.79,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 157.08,
+            "direct_low_price": 81.77,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45122"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 21.37,
+            "avg7": 18.39,
+            "avg30": 17.72,
+            "trend": 15.66,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 65.58,
+            "low": 9.9,
+            "avg1": 54.99,
+            "avg7": 53.74,
+            "avg30": 62.08,
+            "trend": 61.5,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Snorlax-V1-JU11"
+      }
+    },
+    {
+      "id": "pk_d23ec3f6569f334c249ff3ebf4a1d5b40573f80dd466bf95695e3549cd6dd409b043787cf8f81b18122814d9",
+      "card_info": {
+        "name": "Snorlax (27)",
+        "clean_name": "Snorlax 27",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "27/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Pokémon Power: Thick Skinned</strong>\r\n<br>\r\nSnorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
+        "attacks": [
+          "[4] Body Slam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 63,
+            "mid_price": 72.49,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 79,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 12.69,
+            "mid_price": 17.32,
+            "high_price": 96.94,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 23.64,
+            "direct_low_price": 94.62,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106989"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 8,
+            "avg7": 14.56,
+            "avg30": 11.62,
+            "trend": 18.82,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.18,
+            "low": 0.98,
+            "avg1": 8.58,
+            "avg7": 19.98,
+            "avg30": 14.06,
+            "trend": 17.45,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Snorlax-V2-JU27"
+      }
+    },
+    {
+      "id": "pk_26287c71c4d08050e43f3c22eec09a9963171e6cdd87501fa5544c2e254249b912b8240d247443d23e88125a",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "Kalos Starter Set",
+        "set_code": "KSS",
+        "set_id": "1522",
+        "card_number": "26/39",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Rock Smash (10+) \r\n<br>Flip a coin.  If heads, this attack does 30 more damage.",
+          "[4] Strength (70)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.31,
+            "mid_price": 43.74,
+            "high_price": 681.22,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 43.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89394"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 11.52,
+            "low": 2.95,
+            "avg1": 11.9,
+            "avg7": 9.44,
+            "avg30": 32.05,
+            "trend": 25.59,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 3,
+            "avg30": 3,
+            "trend": 3,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Snorlax-KSS26"
+      }
+    },
+    {
+      "id": "pk_1d0d69c214f16280092a4b21ec0b6ff5473ec34bbd620a7b0c37bb3076733e57b0cd715af0705f69f588afc7fc61",
+      "card_info": {
+        "name": "Snorlax - 33/111 (League Promo)",
+        "clean_name": "Snorlax 33 111 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "033/111",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[0] Pick and Collect\r\n<br>Search your discard pile for up to 4 basic Energy cards, show them to your opponent, and put them into your hand.",
+          "[4] Roll Over (60) \r\n<br>Flip a coin. If heads, both Snorlax and the Defending Pokémon are now Asleep. If tails, Snorlax is now Asleep."
+        ],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 42.99,
+            "mid_price": 65,
+            "high_price": 399.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 64.39,
+            "direct_low_price": 75.61,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/164281"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 194,
+    "total_pages": 10
+  },
+  "metadata": {
+    "total_count": 194,
+    "tcg": 161,
+    "cardmarket": 160,
+    "tcg_only": 34,
+    "cardmarket_only": 33,
+    "both_sources": 127
+  }
+}

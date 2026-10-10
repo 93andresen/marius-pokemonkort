@@ -1,0 +1,1532 @@
+{
+  "query": "Scyther",
+  "results": [
+    {
+      "id": "pk_d8f4995ec1be5c9bd7b13368b66270b021ccde68aa46b2a7b347df8ba0a82a92450813d22b6f281e93069bd654",
+      "card_info": {
+        "name": "Scyther (57)",
+        "clean_name": "Scyther 57",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "057/147",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Quick Turn (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "[3] Cross-Cut (20+)\r\n<br>If the Defending Pokémon is an Evolved Pokémon, this attack does 20 damage plus 20 more damage."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 40,
+            "mid_price": 45.03,
+            "high_price": 187.02,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 33.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 199.99,
+            "mid_price": 199.99,
+            "high_price": 275,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 42.04,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88996"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 10.38,
+            "low": 1.2,
+            "avg1": 12.91,
+            "avg7": 11.39,
+            "avg30": 8.97,
+            "trend": 10.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 12.25,
+            "low": 8.9,
+            "avg1": 9.99,
+            "avg7": 16.99,
+            "avg30": 18.76,
+            "trend": 22.96,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Scyther-AQ57"
+      }
+    },
+    {
+      "id": "pk_08dceab51d821af59bb52c873204c7437b905e02a57a78f27e8d64d27551ccbd5293c1676a8f96f27c977c831e49",
+      "card_info": {
+        "name": "Scyther (106)",
+        "clean_name": "Scyther 106",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "106/147",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Slash (10)",
+          "[1G] Swift (20)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        ],
+        "weakness": "L",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.75,
+            "mid_price": 31.99,
+            "high_price": 299.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 17.87,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 174.99,
+            "mid_price": 202.49,
+            "high_price": 1999.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 199.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88997"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 5.26,
+            "low": 0.2,
+            "avg1": 2.99,
+            "avg7": 5.63,
+            "avg30": 5.27,
+            "trend": 4.67,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 48.55,
+            "low": 3,
+            "avg1": 125,
+            "avg7": 41.31,
+            "avg30": 24.4,
+            "trend": 50.13,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Scyther-AQ106"
+      }
+    },
+    {
+      "id": "pk_2363192e3f5c6e09ce911e34e584743089330f7bd77aa6db078c7708928c2f8b03f4637844269cc38704ee05",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "017/130",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Swords Dance\r\n<br>During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.",
+          "[3] Slash (30)"
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.5,
+            "mid_price": 25,
+            "high_price": 476.2,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 32.48,
+            "direct_low_price": 95.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42461"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 46.71,
+            "low": 9,
+            "avg1": 18.79,
+            "avg7": 42.41,
+            "avg30": 37.73,
+            "trend": 54.96,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 19.98,
+            "avg7": 14.84,
+            "avg30": 15.21,
+            "trend": 15.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Scyther-B217"
+      }
+    },
+    {
+      "id": "pk_f48e91665c96c6346087d701952494c7b47bcd33825dafb135f9c0fc412ea394660e19c3d068c4e1e030b211",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Boundaries Crossed",
+        "set_code": "BCR",
+        "set_id": "1408",
+        "card_number": "7/149",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Slash (10)",
+          "[2] Sharp Scythe (20)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.37,
+            "high_price": 96.27,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.58,
+            "direct_low_price": 94.38,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 18.25,
+            "mid_price": 36.88,
+            "high_price": 319.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 25.56,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89006"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 3.45,
+            "low": 2,
+            "avg1": 4,
+            "avg7": 10.83,
+            "avg30": 5.7,
+            "trend": 10.48,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.58,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.44,
+            "avg30": 0.68,
+            "trend": 0.51,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Scyther-BCR7"
+      }
+    },
+    {
+      "id": "pk_111fa9cbed2b65af0c43b99f7d069fa92c6522937437199a77fa8ad92ea4599d25c8919f00fe08bcb96ae92d4334",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "006/159",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Mach Cut (10)\r\n<br>Discard a Special Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.45,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.44,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478052"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.52,
+            "low": 0.05,
+            "avg1": 0.23,
+            "avg7": 0.71,
+            "avg30": 0.41,
+            "trend": 0.59,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Scyther-CRZ006"
+      }
+    },
+    {
+      "id": "pk_8c4ac6617e429598df1c39050843db08435d67bb02e77f91c65f6aa2e744d388dbfd064759e6b4fcd41d24ef",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Dark Explorers",
+        "set_code": "DEX",
+        "set_id": "1386",
+        "card_number": "4/108",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Air Slash (60) Discard an Energy attached to this Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5.49,
+            "high_price": 96.9,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 7.6,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 39.51,
+            "mid_price": 48.5,
+            "high_price": 485,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 45.25,
+            "direct_low_price": 96.95,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89005"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 8.65,
+            "low": 0.29,
+            "avg1": 12,
+            "avg7": 11.7,
+            "avg30": 7.91,
+            "trend": 11.36,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.31,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 2.47,
+            "avg30": 2.11,
+            "trend": 2.34,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V1-DEX4"
+      }
+    },
+    {
+      "id": "pk_f6116f9ab730a5be40b2e9c4fff226986ba56490a94cd20ca5bf4636c428e70a9fc87d290d597af4979cb80c59",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "29/112",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-BODY</b> Leaf Ride \r<br>\n<br>If Scyther has any Energy attached to it, Scyther's Retreat Cost is 0.",
+        "attacks": [
+          "[1G] Fury Cutter (10+) \r\n<br>Flip 3 coins.  If 1 of them are heads, this attack does 10 damage plus 10 more damage.  If 2 of them are heads, this attack does 10 damage plus 20 more damage.  If all of them are heads, this attack does 10 damage plus 40 more damage."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.66,
+            "mid_price": 7.96,
+            "high_price": 91.04,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 4.71,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 100,
+            "mid_price": 158,
+            "high_price": 305.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 98.78,
+            "direct_low_price": 189.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88998"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 2.89,
+            "low": 0.48,
+            "avg1": 2.98,
+            "avg7": 2.49,
+            "avg30": 3.62,
+            "trend": 2.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 73,
+            "low": 3.5,
+            "avg1": 49,
+            "avg7": 65.57,
+            "avg30": 26.94,
+            "trend": 52.72,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Scyther-FL29"
+      }
+    },
+    {
+      "id": "pk_2bcd7a73ca7052266f748f0db107b2142fc4c8563825b8cde4945a4c7d0004c50939377eebc1407de67d8d85a9",
+      "card_info": {
+        "name": "Rocket's Scyther",
+        "clean_name": "Rockets Scyther",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "013/132",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Shadow Images\r\n<br>Whenever Rocket's Scyther is attacked, your opponent flips a coin. If tails, that attack does no damage to Rocket's Scyther. <em>(Any other effects of the attack still happen.)</em> This effect lasts until Rocket's Scyther takes damage <em>(or is Benched or is evolved)</em>.",
+          "[2G] Blinding Scythe (40)"
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 329.99,
+            "mid_price": 370.49,
+            "high_price": 499.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 225.08,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 64.74,
+            "mid_price": 91.64,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 88.21,
+            "direct_low_price": 818.78,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88788"
+      },
+      "cardmarket": {
+        "product_name": "Rocket's Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14,
+            "avg7": 36.92,
+            "avg30": 29.19,
+            "trend": 26.56,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 110.78,
+            "low": 19.88,
+            "avg1": 59.99,
+            "avg7": 89.39,
+            "avg30": 86.43,
+            "trend": 84.04,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Scyther-GH13"
+      }
+    },
+    {
+      "id": "pk_71dd91ca3ad324c5065fa808b8df1c4d888acc8c7dffa10d9595951b9dd6f4c39b970f2c62db8bd9778ce806",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "5/68",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Slash (10)",
+          "[1G] Sharp Scythe (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.23,
+            "high_price": 15.42,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.22,
+            "direct_low_price": 0.12,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.19,
+            "mid_price": 0.42,
+            "high_price": 14.6,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.41,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197647"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 0.43,
+            "low": 0.05,
+            "avg1": 0.4,
+            "avg7": 0.39,
+            "avg30": 3.57,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Scyther-HIF5"
+      }
+    },
+    {
+      "id": "pk_54c8ff809903f722e6689d0914f44b08240373f18694520692a043dabb2f5c18a79b1ea783cd5204ec42fe810bcf3ab8",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Hidden Fates: Shiny Vault",
+        "set_code": "HIF:SV",
+        "set_id": "2594",
+        "card_number": "SV1/SV94",
+        "rarity": "Shiny Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Twin Play\r\n<br>Search your deck for up to 2 Scyther and put them onto your Bench. Then, shuffle your deck.",
+          "[2] Agility (20)\r\n<br>Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.99,
+            "mid_price": 10.73,
+            "high_price": 166.25,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 9.99,
+            "direct_low_price": 8.94,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197738"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 5.26,
+            "low": 3,
+            "avg1": 5,
+            "avg7": 5.04,
+            "avg30": 14.51,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5.35,
+            "low": 10,
+            "avg1": 5.95,
+            "avg7": 5.91,
+            "avg30": 9.56,
+            "trend": 5.51,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Scyther-HIFSV1"
+      }
+    },
+    {
+      "id": "pk_d7bec7feba48b4df3e488774a0d7c39dcc7bc6d619fa476e18a99fb2e90d21809f8e819cd2064e8619b8c1",
+      "card_info": {
+        "name": "Scyther (10)",
+        "clean_name": "Scyther 10",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "10/64",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Swords Dance\r\n<br>During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.",
+          "[3] Slash (30)"
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 81.6,
+            "mid_price": 189.99,
+            "high_price": 1489.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 185.92,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 28,
+            "mid_price": 41.09,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 57.15,
+            "direct_low_price": 148.91,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45121"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7.82,
+            "avg7": 19.27,
+            "avg30": 15.3,
+            "trend": 19.69,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 26.78,
+            "low": 6,
+            "avg1": 29.95,
+            "avg7": 54.39,
+            "avg30": 32.21,
+            "trend": 37.87,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Scyther-V1-JU10"
+      }
+    },
+    {
+      "id": "pk_6785685d6a1b6f066ae0912a70ff02d6263bcfc3ffd9738dd5ac3058c2e856cff674910d6ef6d9a4a1938f31",
+      "card_info": {
+        "name": "Scyther (26)",
+        "clean_name": "Scyther 26",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "26/64",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Swords Dance\r\n<br>During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.",
+          "[3] Slash (30)"
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20.76,
+            "mid_price": 27.5,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 30.53,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8.99,
+            "mid_price": 16.1,
+            "high_price": 397.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 16.93,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106988"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 29.99,
+            "avg7": 14.21,
+            "avg30": 22.9,
+            "trend": 15.2,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.49,
+            "low": 1.5,
+            "avg1": 4.1,
+            "avg7": 7.65,
+            "avg30": 9.36,
+            "trend": 8.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Scyther-V2-JU26"
+      }
+    },
+    {
+      "id": "pk_cf174f20b7dd1bbc0fdb4655ac592aaa9a5185e522e4c05cc6f08b9bd09d1094e1fa933327da5cecff57370962",
+      "card_info": {
+        "name": "Scyther - 4/108 (Pokemon League) [1st Place]",
+        "clean_name": "Scyther 4 108 Pokemon League 1st Place",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "004/108",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Air Slash (60)\r\n<br>Discard an Energy attached to this Pokémon."
+        ],
+        "weakness": "R x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199.99,
+            "mid_price": 284.82,
+            "high_price": 575,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 195,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/212988"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": 149.5,
+            "low": 70,
+            "avg1": 240,
+            "avg7": 115,
+            "avg30": 65.18,
+            "trend": 96.03,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.99,
+            "avg7": 2.79,
+            "avg30": 2.79,
+            "trend": 2.9,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V2-DEX4"
+      }
+    },
+    {
+      "id": "pk_e93dd647729e58ea65a6adaf56b9b95408a1701fafe2fd59c07256199a7df4b2e5d1f170f1f7d2ab347823e2a0",
+      "card_info": {
+        "name": "Scyther - 4/108 (Pokemon League) [2nd Place]",
+        "clean_name": "Scyther 4 108 Pokemon League 2nd Place",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "004/108",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Air Slash (60)\r\n<br>Discard an Energy attached to this Pokémon."
+        ],
+        "weakness": "R x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 73.44,
+            "mid_price": 129.44,
+            "high_price": 599.82,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 76.57,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/212989"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 2.56,
+            "avg30": 2.56,
+            "trend": 4.75,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 47.5,
+            "low": 50,
+            "avg1": 50,
+            "avg7": 53.57,
+            "avg30": 32.68,
+            "trend": 53.15,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V3-DEX4"
+      }
+    },
+    {
+      "id": "pk_e27f060a851a4abe7143436f1c100f047aff58654ab1df19742d6696aa400a59ccd95dd61408443d4ba1246816",
+      "card_info": {
+        "name": "Scyther - 4/108 (Pokemon League) [3rd Place]",
+        "clean_name": "Scyther 4 108 Pokemon League 3rd Place",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "004/108",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Air Slash (60)\r\n<br>Discard an Energy attached to this Pokémon."
+        ],
+        "weakness": "R x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.98,
+            "mid_price": 249,
+            "high_price": 593.55,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 120,
+            "direct_low_price": 549.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/212990"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.79,
+            "avg7": 1.92,
+            "avg30": 1.92,
+            "trend": 2.12,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 35,
+            "low": 99,
+            "avg1": 35,
+            "avg7": 45.43,
+            "avg30": 28.72,
+            "trend": 46.6,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V4-DEX4"
+      }
+    },
+    {
+      "id": "pk_8ee92747d392255821e36695ef940cab7fec703b0fa51d91f4c48cd9c715d10929cfff8c9a5835e7a9799a3ff1",
+      "card_info": {
+        "name": "Scyther - 4/108 (Pokemon League) [4th Place]",
+        "clean_name": "Scyther 4 108 Pokemon League 4th Place",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "004/108",
+        "rarity": "Promo",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[3] Air Slash (60)\r\n<br>Discard an Energy attached to this Pokémon."
+        ],
+        "weakness": "R x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 64.16,
+            "mid_price": 175,
+            "high_price": 599.82,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/212991"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.99,
+            "avg7": 2.78,
+            "avg30": 2.78,
+            "trend": 3.49,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 45,
+            "low": 99,
+            "avg1": 45,
+            "avg7": 32.71,
+            "avg30": 23.68,
+            "trend": 33.46,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V5-DEX4"
+      }
+    },
+    {
+      "id": "pk_90e1f23f54e60820f769cb457c5c7cca1de6e7fa7742a7cb89eb200237c89523ae500f54e06d04722f2f7c251a",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Majestic Dawn",
+        "set_code": "MD",
+        "set_id": "1390",
+        "card_number": "46/100",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Slash (10)",
+          "[1G] Fury Cutter (10+)\r\n<br>\r\nFlip 3 coins. If 1 of them is heads, this attack does 10 damage plus 10 more damage. If 2 of them are heads, this attack does 10 damage plus 20 more damage. If all of them are heads, this attack does 10 damage plus 40 more damage."
+        ],
+        "weakness": "R+20",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 2.5,
+            "high_price": 26.22,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 22.76,
+            "mid_price": 23.9,
+            "high_price": 499.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89000"
+      },
+      "cardmarket": {
+        "product_name": "Scyther Lv.12",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.04,
+            "avg1": 0.2,
+            "avg7": 0.47,
+            "avg30": 0.52,
+            "trend": 0.45,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.1,
+            "low": 1,
+            "avg1": 6.99,
+            "avg7": 4.85,
+            "avg30": 7.08,
+            "trend": 7.17,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Scyther-Lv12-MD46"
+      }
+    },
+    {
+      "id": "pk_9ed746e871612edfc8e87f834b1dcc82fd793fa4e60774dedc2847e23f9fb4404a2a287454249557f47fd15421",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "055/105",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1G] Agility (10)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Scyther.",
+          "[GGG] Sharp Sickle (40)"
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9,
+            "mid_price": 19.99,
+            "high_price": 197.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 24.08,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 5.55,
+            "mid_price": 7.7,
+            "high_price": 96.2,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.54,
+            "direct_low_price": 5.65,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88995"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.13,
+            "low": 0.5,
+            "avg1": 3.49,
+            "avg7": 2.35,
+            "avg30": 4.87,
+            "trend": 3.34,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Scyther-NDE55"
+      }
+    },
+    {
+      "id": "pk_8e6dd92293d6cc085abbb975a5e5917874a33e559d9b62f5696640793fc25b6176ddfc86fe06ad7493cc4272",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Neo Discovery",
+        "set_code": "N2",
+        "set_id": "1434",
+        "card_number": "46/75",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GG] Fury Cutter (10+)\r\n<br>Flip 4 coins. This attack does 10 damage plus 10 more damage if exactly 1 is heads, or 20 more damage if exactly 2 are heads, or 40 more damage if exactly 3 are heads, or 80 more damage if all 4 are heads."
+        ],
+        "weakness": "R",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 20.47,
+            "high_price": 99.85,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 11.43,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.49,
+            "mid_price": 1.82,
+            "high_price": 14.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.77,
+            "direct_low_price": 2.23,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88994"
+      },
+      "cardmarket": {
+        "product_name": "Scyther",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.98,
+            "low": 0.02,
+            "avg1": 0.93,
+            "avg7": 1.33,
+            "avg30": 1.12,
+            "trend": 1.31,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Scyther-NDI46"
+      }
+    },
+    {
+      "id": "pk_ca54c8db18ac5405ee2b18ad4bb431024a38d2664501005b8e67d7f5e85bcc2d19ef4a2f656072ebb0411361fbbe",
+      "card_info": {
+        "name": "Scyther",
+        "clean_name": "Scyther",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "130/127",
+        "rarity": "Secret Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Swords Dance - During your next turn, Scyther's Slash attack's base damage is 60.",
+          "[3] Slash (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 24.29,
+            "mid_price": 39.99,
+            "high_price": 499.52,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 29.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/89002"
+      },
+      "cardmarket": {
+        "product_name": "Scyther Lv.25",
+        "prices": [
+          {
+            "avg": null,
+            "low": 40,
+            "avg1": 15,
+            "avg7": 14.5,
+            "avg30": 9,
+            "trend": 17.45,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.56,
+            "low": 4.99,
+            "avg1": 30.99,
+            "avg7": 11.25,
+            "avg30": 11.32,
+            "trend": 10.94,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Scyther-Lv25-PL130"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 96,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 96,
+    "tcg": 79,
+    "cardmarket": 85,
+    "tcg_only": 11,
+    "cardmarket_only": 17,
+    "both_sources": 68
+  }
+}

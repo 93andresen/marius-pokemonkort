@@ -1,0 +1,1518 @@
+{
+  "query": "Magnemite",
+  "results": [
+    {
+      "id": "pk_54db7785e0435e2a3beb48739be9070673850f0d2143907fdda2ab625ce270ad34225b123a2c2edf9aad49dc94",
+      "card_info": {
+        "name": "Magnemite (52)",
+        "clean_name": "Magnemite 52",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "052/147",
+        "rarity": "Uncommon",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Attract\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it.",
+          "[2] Tackle (20)"
+        ],
+        "weakness": "R",
+        "resistance": "G-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.99,
+            "mid_price": 24.77,
+            "high_price": 96.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 11.53,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 49.5,
+            "mid_price": 68.9,
+            "high_price": 711.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 30.7,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87066"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 4.28,
+            "low": 1.1,
+            "avg1": 3.99,
+            "avg7": 4.6,
+            "avg30": 4.13,
+            "trend": 4.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 16.47,
+            "low": 1.5,
+            "avg1": 8.79,
+            "avg7": 12.41,
+            "avg30": 9.88,
+            "trend": 16.76,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magnemite-AQ52"
+      }
+    },
+    {
+      "id": "pk_120c8836ef87d93f5eb1bb94f29390b615c063c951b938b117f4cb08deb8689a082cb2d9d8f3c1bb14380ded1f",
+      "card_info": {
+        "name": "Magnemite (91)",
+        "clean_name": "Magnemite 91",
+        "set_name": "Aquapolis",
+        "set_code": "AQ",
+        "set_id": "1397",
+        "card_number": "091/147",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-BODY — Conductive Body</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Magnemite for each Magnemite on your Bench.",
+        "attacks": [
+          "[1L] Magnetic Bomb (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, Magnemite does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.56,
+            "mid_price": 8,
+            "high_price": 62.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 6.55,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 72,
+            "mid_price": 262.99,
+            "high_price": 999.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87071"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 10,
+            "low": 1.69,
+            "avg1": 10,
+            "avg7": 9.75,
+            "avg30": 8.3,
+            "trend": 10.8,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.89,
+            "low": 0.14,
+            "avg1": 0.99,
+            "avg7": 1.69,
+            "avg30": 1.6,
+            "trend": 1.61,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magnemite-AQ91"
+      }
+    },
+    {
+      "id": "pk_44e746da1e364bf3bbc526fb5e6f6aed23ac73127c699903a2b9fc316f6d433c2dc30e5bca98489f7bb6a6f0",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "079/130",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 9.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.52,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42531"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 1.35,
+            "avg30": 0.7,
+            "trend": 0.84,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Magnemite-B279"
+      }
+    },
+    {
+      "id": "pk_a0fbdc1a247efb36e90fe1118a6ef38d09f877831ee7b9885664475e176efc338d55e80a2b5e41bbb3a42e45c37d",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "053/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.45,
+            "mid_price": 17.25,
+            "high_price": 272.12,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 22.12,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.74,
+            "mid_price": 2.7,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.91,
+            "direct_low_price": 2.97,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107050"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite (Shadowless)",
+        "prices": [
+          {
+            "avg": 26.19,
+            "low": 0.05,
+            "avg1": 2,
+            "avg7": 25.85,
+            "avg30": 10.15,
+            "trend": 18.23,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magnemite-V2-BS53"
+      }
+    },
+    {
+      "id": "pk_a80df4880e68df809278a53ad0fd36b13e148727387a4382cbc13412abdc2b222e85d71a78e2ca4310b58d9f",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "053/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.61,
+            "high_price": 18.6,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.86,
+            "direct_low_price": 1.08,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42397"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.5,
+            "low": 0.02,
+            "avg1": 13.14,
+            "avg7": 2.41,
+            "avg30": 1.39,
+            "trend": 2.46,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magnemite-V1-BS53"
+      }
+    },
+    {
+      "id": "pk_5000bab3bdf90279d1ec191f763deab5cbc053bdd528666d380965712418a1d4c7be3abfa03deec17b7769c6ce",
+      "card_info": {
+        "name": "Holon's Magnemite",
+        "clean_name": "Holons Magnemite",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "70/113",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "You may attach this as an Energy card from your hand to 1 of your Pokemon.  While attached, this card is a Special Energy card and provides 1 Colorless Energy.",
+        "attacks": [
+          "[M] Linear Attack  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.<i>  (Don't apply Weakness and Resistance for Benched Pokemon.)</i>"
+        ],
+        "weakness": "F",
+        "resistance": "G",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.66,
+            "mid_price": 1.75,
+            "high_price": 28.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.7,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 28.99,
+            "mid_price": 39,
+            "high_price": 49.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 29,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86156"
+      },
+      "cardmarket": {
+        "product_name": "Holon's Magnemite",
+        "prices": [
+          {
+            "avg": 13.91,
+            "low": 3.59,
+            "avg1": 9.95,
+            "avg7": 15.95,
+            "avg30": 10.63,
+            "trend": 15.43,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.78,
+            "low": 0.1,
+            "avg1": 0.7,
+            "avg7": 0.74,
+            "avg30": 0.76,
+            "trend": 0.8,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Holons-Magnemite-DS70"
+      }
+    },
+    {
+      "id": "pk_5486e8db7934fa28b44fbf313f924aa3138fcd9a87685345337e80dff7d2076c51fcca5d4c7d1c455e2189b843",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Delta Species",
+        "set_code": "DS",
+        "set_id": "1429",
+        "card_number": "74/113",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Collect \r\n<br>Draw a card.",
+          "[L] Magnetic Blast (10)"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.23,
+            "mid_price": 0.42,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 13,
+            "mid_price": 29.99,
+            "high_price": 476.37,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 18.69,
+            "direct_low_price": 21.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87078"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.25,
+            "avg30": 0.34,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 30.36,
+            "low": 2.39,
+            "avg1": 105,
+            "avg7": 22.68,
+            "avg30": 8.98,
+            "trend": 22.16,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Delta-Species/Magnemite-DS74"
+      }
+    },
+    {
+      "id": "pk_0cf7718f5f46f9c21df43dc53b2f60609382d19dc0af97c644b3424e96e7e7bc700560f1fa063b9ac12b7bd5c8",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "87/130",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Metal Sound\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Confused.",
+          "[1M] Resonance (20+)\r\n<br>\r\nIf the Defending Pokémon is Confused, this attack does 20 damage plus 20 more damage."
+        ],
+        "weakness": "R+10",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.7,
+            "mid_price": 4.93,
+            "high_price": 77.1,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 4.9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87081"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite Lv.10",
+        "prices": [
+          {
+            "avg": 0.34,
+            "low": 0.25,
+            "avg1": 0.34,
+            "avg7": 1.26,
+            "avg30": 1.2,
+            "trend": 1.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.22,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.24,
+            "avg30": 0.19,
+            "trend": 0.41,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Magnemite-Lv10-DP87"
+      }
+    },
+    {
+      "id": "pk_94a2fe53540aa41ede530f9ee2195ee2e592a308a1994c0357c04aa2904b6435f2e7da3e1a56ffc9449077e0",
+      "card_info": {
+        "name": "Magnemite - 61/97",
+        "clean_name": "Magnemite",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "61/97",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Rollout (10)",
+          "[2] Hook (20)"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.36,
+            "mid_price": 1,
+            "high_price": 16.76,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.03,
+            "direct_low_price": 1.31,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 40,
+            "mid_price": 129.99,
+            "high_price": 481.12,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 33.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87072"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 6.99,
+            "low": 0.4,
+            "avg1": 10,
+            "avg7": 13.02,
+            "avg30": 7.11,
+            "trend": 11.65,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.6,
+            "low": 0.02,
+            "avg1": 0.5,
+            "avg7": 0.47,
+            "avg30": 0.7,
+            "trend": 0.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR61"
+      }
+    },
+    {
+      "id": "pk_62646c4e00f4aced7a3cb05a7af8775a32ab42e1a49cbf2bb937da5274a9f014dfe7bc139f4095dbc2aa1fa1",
+      "card_info": {
+        "name": "Magnemite - 62/97",
+        "clean_name": "Magnemite",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "62/97",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Random Spark \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1.21,
+            "high_price": 17.2,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.28,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4,
+            "mid_price": 19.95,
+            "high_price": 107.43,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 12.56,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87073"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.48,
+            "low": 0.08,
+            "avg1": 0.15,
+            "avg7": 0.4,
+            "avg30": 0.49,
+            "trend": 0.35,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 6.95,
+            "low": 0.2,
+            "avg1": 7,
+            "avg7": 3.95,
+            "avg30": 2.88,
+            "trend": 5.2,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR62"
+      }
+    },
+    {
+      "id": "pk_9e198d945d50b22007bdb46c95d35bf41e55a1c9c5c2082562cc2287ff3b2282974d56836f09d6a29b75b7ff",
+      "card_info": {
+        "name": "Magnemite - 63/97",
+        "clean_name": "Magnemite",
+        "set_name": "Dragon",
+        "set_code": "DR",
+        "set_id": "1376",
+        "card_number": "63/97",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thundershock (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1.05,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10.69,
+            "mid_price": 18.79,
+            "high_price": 139.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 19.78,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87074"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.58,
+            "low": 0.04,
+            "avg1": 0.19,
+            "avg7": 0.43,
+            "avg30": 0.48,
+            "trend": 0.42,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.62,
+            "low": 0.1,
+            "avg1": 1.25,
+            "avg7": 3.81,
+            "avg30": 3.63,
+            "trend": 2.93,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR63"
+      }
+    },
+    {
+      "id": "pk_1cba771aad5bde5dd9eb1309e706691d220b3a094ca274de070230cfad5beb71b8b725485f0d9a4b7965b6",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "EX Trainer Kit 1: Latias & Latios",
+        "set_code": "PR",
+        "set_id": "1543",
+        "card_number": "4/10",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Rollout (10)",
+          "[2] Hook (20)"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.43,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87076"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.55,
+            "low": 0.03,
+            "avg1": 0.97,
+            "avg7": 0.61,
+            "avg30": 0.58,
+            "trend": 0.63,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Trainer-Kit/Magnemite-TK1Latios-4"
+      }
+    },
+    {
+      "id": "pk_e6e53bff7406f7956be61d5ac66abe7877ae8b2d1b7198e55ff05cb23d6fa913b3d1c5a40511fea4feb413d5e2",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "68/112",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Supersonic \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+          "[1L] Speed Ball (20)"
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 16.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.36,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 11,
+            "mid_price": 47.38,
+            "high_price": 199.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 15.49,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87075"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 5.5,
+            "low": 0.99,
+            "avg1": 2.19,
+            "avg7": 7.38,
+            "avg30": 5.3,
+            "trend": 5.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.15,
+            "avg30": 0.41,
+            "trend": 0.6,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Magnemite-FL68"
+      }
+    },
+    {
+      "id": "pk_215f7de58f3d95bbbdd757bf38f8c0b7f71e43cdfa75141be3394912f504592aaa12831df6c6ff6a9f1bbe9c0a",
+      "card_info": {
+        "name": "Lt. Surge's Magnemite (50)",
+        "clean_name": "Lt Surges Magnemite 50",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "050/132",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "30.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Removal Pulse (10)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those Energy cards and discard it.",
+          "[LL] Confusion Pulse (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.09,
+            "mid_price": 6.57,
+            "high_price": 79.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 5.74,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 1,
+            "mid_price": 1.84,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.92,
+            "direct_low_price": 5.47,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86856"
+      },
+      "cardmarket": {
+        "product_name": "Lt. Surge's Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 3,
+            "avg30": 3,
+            "trend": 3,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.67,
+            "low": 0.5,
+            "avg1": 1,
+            "avg7": 2.69,
+            "avg30": 2.62,
+            "trend": 2.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magnemite-GH50"
+      }
+    },
+    {
+      "id": "pk_00d05fbea67c9c711dbeae3d4d54e5fc7fad3d686b7dd843180a7536b118e93611e529aaab709cf9b318056dc8",
+      "card_info": {
+        "name": "Lt. Surge's Magnemite (80)",
+        "clean_name": "Lt Surges Magnemite 80",
+        "set_name": "Gym Heroes",
+        "set_code": "G1",
+        "set_id": "1441",
+        "card_number": "080/132",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[2] Tackle (20)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.02,
+            "mid_price": 3.98,
+            "high_price": 44.81,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.24,
+            "mid_price": 0.75,
+            "high_price": 15.58,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.81,
+            "direct_low_price": 1.12,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86857"
+      },
+      "cardmarket": {
+        "product_name": "Lt. Surge's Magnemite",
+        "prices": [
+          {
+            "avg": 0.86,
+            "low": 0.1,
+            "avg1": 0.99,
+            "avg7": 0.93,
+            "avg30": 0.88,
+            "trend": 1.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magnemite-GH80"
+      }
+    },
+    {
+      "id": "pk_82a81f5b014d30ca2993a67ffef3e0a792aeca47cdfcbf55d02952b67bbc0fd01b53f5f94df69e3d8c62e11169068aaedd",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Hidden Fates: Shiny Vault",
+        "set_code": "HIF:SV",
+        "set_id": "2594",
+        "card_number": "SV27/SV94",
+        "rarity": "Shiny Holo Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Searching Magnet\r\n<br>Search your deck for up to 3 Metal Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "[M] Tackle (10)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.02,
+            "high_price": 55.6,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 2.96,
+            "direct_low_price": 14.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197788"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1.99,
+            "avg1": 2.5,
+            "avg7": 2.08,
+            "avg30": 2.88,
+            "trend": 1.89,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.98,
+            "low": 1.5,
+            "avg1": 1.5,
+            "avg7": 1.8,
+            "avg30": 4.19,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Magnemite-HIFSV27"
+      }
+    },
+    {
+      "id": "pk_8340d7f16812d275a00c9de6adf68af138d3f8debe105997a463c84dde6f056a01c3bc9e7da30d2b8d8ab27f",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "59/92",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Magnetic Swirl (10) \r\n<br>Flip a coin.  If tails, this attack does nothing.  If heads, discard an Energy attached to the Defending Pokemon."
+        ],
+        "weakness": "F",
+        "resistance": "M",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.17,
+            "mid_price": 0.49,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.48,
+            "direct_low_price": 0.29,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 15.88,
+            "mid_price": 26.98,
+            "high_price": 287.12,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 18.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87079"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.32,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.4,
+            "avg30": 0.32,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.12,
+            "low": 1.5,
+            "avg1": 1.5,
+            "avg7": 6.56,
+            "avg30": 7.01,
+            "trend": 5.22,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magnemite-LM59"
+      }
+    },
+    {
+      "id": "pk_83af987a8e87610b252cabbd6845f82e7b54792a606b79e58331ca099b1362492a3878c4af9ed885192c9a1ce3",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "080/110",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Selfdestruct (40)\r\n<br>\r\nDoes 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.17,
+            "mid_price": 0.61,
+            "high_price": 19.34,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 0.66,
+            "direct_low_price": 0.39,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 124.99,
+            "mid_price": 455,
+            "high_price": 808.41,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 102.01,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87070"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 150,
+            "low": 55,
+            "avg1": 135,
+            "avg7": 125,
+            "avg30": 69.68,
+            "trend": 128.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.52,
+            "low": 0.05,
+            "avg1": 0.72,
+            "avg7": 0.72,
+            "avg30": 0.67,
+            "trend": 0.7,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Magnemite-LC80"
+      }
+    },
+    {
+      "id": "pk_430c5456aeaf8669dffc1234fb031c793478090910836a888a79cc27aa33d227763244d2231c7a1d379075e8f6ff0e",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "ME01: Mega Evolution",
+        "set_code": "MEG",
+        "set_id": "24380",
+        "card_number": "045/132",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Beam (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.24,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.1,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654384"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution/Magnemite-MEG045"
+      }
+    },
+    {
+      "id": "pk_3ad2f17889c6b65b6bd12d1d134515ab41d131c48e77d453bbefaef0241d9da3e08fc5e74769b81cffabedb888",
+      "card_info": {
+        "name": "Magnemite - 8/12",
+        "clean_name": "Magnemite",
+        "set_name": "McDonald's Promos 2018",
+        "set_code": "MCD18",
+        "set_id": "2364",
+        "card_number": "008/012",
+        "rarity": "Promo",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "60",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Searching Magnet\r\n<br>Search your deck for up to 3 Metal Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "[M] Tackle (10)"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "1"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.6,
+            "mid_price": 12.37,
+            "high_price": 96.38,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 12.37,
+            "direct_low_price": 95.73,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/180456"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 131,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 131,
+    "tcg": 114,
+    "cardmarket": 115,
+    "tcg_only": 16,
+    "cardmarket_only": 17,
+    "both_sources": 98
+  }
+}

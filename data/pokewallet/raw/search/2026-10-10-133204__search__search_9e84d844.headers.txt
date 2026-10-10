@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Sender+gjerne&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:10 GMT
+Content-Type: application/json
+Content-Length: 201
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 952
+X-RateLimit-Remaining-Hour: 52
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2%2FoTnqdHxw1GO3M4xjl85Cc0DWtx%2BdWht5eE8IUsflCxTZy9B%2FbY31saEGH6ovQIPhnccQ%2Bu03Z14FIwHaWA8p4M4rXEzj%2BF6jafzV7JYQufup7zftUIw%2Fz8otCTugJ5oVNlN4PWvB%2FMVN0Wy9dG1w%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854d84b90fb517-OSL
+alt-svc: h3=":443"; ma=86400

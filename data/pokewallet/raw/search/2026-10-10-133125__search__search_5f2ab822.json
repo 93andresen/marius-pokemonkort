@@ -1,0 +1,983 @@
+{
+  "query": "- Team Rocket 72",
+  "results": [
+    {
+      "id": "pk_3338fb2afc654fd29c321bb6ff93d92309c4fc135ce1f3cd5cffdfcccdfd4ee37b83c932e32210a4f5c7c42ac97ec8",
+      "card_info": {
+        "name": "Team Rocket's Mareep",
+        "clean_name": "Team Rockets Mareep",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "072/182",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Procurement<br> Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[L] Tiny Bolt (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.07,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.23,
+            "direct_low_price": 0.07,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/630820"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Mareep",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.12,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Mareep-DRI072"
+      }
+    },
+    {
+      "id": "pk_5d3f9f3e1e8c242c1b314091989cc8ccad2130d3df5f89355795e71af7cbe53a8a26cd870afa1721ed453375d6c210b5",
+      "card_info": {
+        "name": "Team Rocket's Bother-Bot",
+        "clean_name": "Team Rockets Bother Bot",
+        "set_name": "SV10: Destined Rivals",
+        "set_code": "DRI",
+        "set_id": "24269",
+        "card_number": "172/182",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Turn 1 of your opponent's face-down Prize cards face up and choose a random card from your opponent's hand. Your opponent reveals that card. You may have your opponent switch those cards. <em>(That Prize card remains face up for the rest of the game.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.18,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.3,
+            "direct_low_price": 0.26,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/632973"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Bother-Bot",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.15,
+            "avg30": 0.16,
+            "trend": 0.17,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Bother-Bot-DRI172"
+      }
+    },
+    {
+      "id": "pk_f34c2860df066f683f8eb183b31d056cddc1eb32b15303748d4705551ea6829ce3d4514e565288789651fd48",
+      "card_info": {
+        "name": "Team Rocket's Wobbuffet",
+        "clean_name": "Team Rockets Wobbuffet",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "203",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[PC] Rocket Mirror<br> Move all damage counters from 1 of your Benched Team Rocket's Pokémon to your opponent's Active Pokémon.",
+          "[PCC] Headbutt Bounce (70)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 5.74,
+            "high_price": 110.4,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 4.64,
+            "direct_low_price": 4.02,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635467"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Wobbuffet",
+        "prices": [
+          {
+            "avg": 8.16,
+            "low": 3.9,
+            "avg1": 5.85,
+            "avg7": 6.95,
+            "avg30": 8.15,
+            "trend": 6.12,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Wobbuffet-V1-SVP203"
+      }
+    },
+    {
+      "id": "pk_c2023f732699a7d0be4f8ca4aee60717d0707db7e8df5a599e40a528268a53ae8f9db173dfa989cb271a9653",
+      "card_info": {
+        "name": "Team Rocket's Wobbuffet (Pokemon Center Exclusive)",
+        "clean_name": "Team Rockets Wobbuffet Pokemon Center Exclusive",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "203",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[PC] Rocket Mirror<br> Move all damage counters from 1 of your Benched Team Rocket's Pokémon to your opponent's Active Pokémon.",
+          "[PCC] Headbutt Bounce (70)"
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 86.05,
+            "mid_price": 103.78,
+            "high_price": 879.72,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 101.2,
+            "direct_low_price": 95.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/635468"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Wobbuffet",
+        "prices": [
+          {
+            "avg": 8.16,
+            "low": 3.9,
+            "avg1": 5.85,
+            "avg7": 6.95,
+            "avg30": 8.15,
+            "trend": 6.12,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Wobbuffet-V1-SVP203"
+      }
+    },
+    {
+      "id": "pk_760100e90fcc724147eafe0dc2d39e6dc2ad6baf00813f0f1ee662403c2d7c35545ff4fa4a0598fe80139cf8",
+      "card_info": {
+        "name": "Team Rocket's Mewtwo ex",
+        "clean_name": "Team Rockets Mewtwo ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "205",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Power Saver</strong> This Pokémon can't attack unless you have 4 or more Team Rocket's Pokémon in play.",
+        "attacks": [
+          "[PPC] Erasure Ball (160+)<br> You may discard up to 2 Energy from your Benched Pokémon. This attack does 60 more damage for each card you discarded in this way."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.25,
+            "mid_price": 2.54,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 2.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/637617"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Mewtwo ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.4,
+            "low": 0.19,
+            "avg1": 1.12,
+            "avg7": 1.37,
+            "avg30": 1.41,
+            "trend": 1.23,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Mewtwo-ex-V1-SVP205"
+      }
+    },
+    {
+      "id": "pk_ad8af29b5b3bfcca751af9912f26a56aaa33dfec1edd6cb9e7aeca96f475c0f128c7b06d88f3384137881cd1",
+      "card_info": {
+        "name": "Team Rocket's Mewtwo ex - 216",
+        "clean_name": "Team Rocket's Mewtwo ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "216",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "280.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Power Saver</strong> This Pokémon can't attack unless you have 4 or more Team Rocket's Pokémon in play.",
+        "attacks": [
+          "[PPC] Erasure Ball (160+)<br> You may discard up to 2 Energy from your Benched Pokémon. This attack does 60 more damage for each card you discarded in this way."
+        ],
+        "weakness": "Dx2",
+        "resistance": "F-30",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.05,
+            "high_price": 32.42,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 2.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/653257"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Mewtwo ex",
+        "prices": [
+          {
+            "avg": 1.05,
+            "low": 0.3,
+            "avg1": 1.01,
+            "avg7": 0.87,
+            "avg30": 1.01,
+            "trend": 0.94,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Mewtwo-ex-V3-SVP216"
+      }
+    },
+    {
+      "id": "pk_8ef92f949c57bbc2fc95590b7b9bb629245d24197cd149ecc1f3fba964ff1c13ffd06ddfcc6d26e8775a2f0a",
+      "card_info": {
+        "name": "Team Rocket's Nidoking ex - 217",
+        "clean_name": "Team Rocket's Nidoking ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "217",
+        "rarity": "Promo",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "330.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[DDC] Tainted Horn (100)<br> Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1.",
+          "[DDDC] Kingly Impact (240)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/653258"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Nidoking ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.81,
+            "low": 0.16,
+            "avg1": 0.95,
+            "avg7": 0.77,
+            "avg30": 0.78,
+            "trend": 0.72,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Nidoking-ex-SVP217"
+      }
+    },
+    {
+      "id": "pk_1516a4e5e3182e920f0d5b96e01cb767ada02ea0540d2a0b662f62be1098e4c95e313ffe8d734d4a52f90526",
+      "card_info": {
+        "name": "Team Rocket's Persian ex - 218",
+        "clean_name": "Team Rocket's Persian ex",
+        "set_name": "SV: Scarlet & Violet Promo Cards",
+        "set_code": "SVP",
+        "set_id": "22872",
+        "card_number": "218",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Haughty Order<br> Reveal the top 10 cards of your opponent's deck. You may choose an attack from a Pokémon you find there and use it as this attack. Shuffle the revealed cards into your opponent's deck.",
+          "[CCC] Cruel Slash (140)<br> Your opponent's Active Pokémon is now Confused."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 1.16,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/653259"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Persian ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.8,
+            "low": 0.25,
+            "avg1": 0.89,
+            "avg7": 0.69,
+            "avg30": 0.76,
+            "trend": 0.74,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Team-Rockets-Persian-ex-SVP218"
+      }
+    },
+    {
+      "id": "pk_85e1f64979b9683aa6b7d093eeb45121b8fa75e8ee82827e0bf937486f2f9a0d330114834fbac44541d2045158",
+      "card_info": {
+        "name": "Rattata - 072/109",
+        "clean_name": "Rattata",
+        "set_name": "Team Rocket Returns",
+        "set_code": "RR",
+        "set_id": "1428",
+        "card_number": "72/109",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Call for Family\r\n<br>Search your deck for a Basic Pokemon and put it onto your Bench.  Shuffle your deck afterward.",
+          "[1] Snarl \r\n<br>Flip a coin.  If heads, this attack does 10 damage to the Defending Pokemon.  If tails, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.55,
+            "mid_price": 1.5,
+            "high_price": 17.34,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 1.5,
+            "direct_low_price": 2.69,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 39.99,
+            "mid_price": 79,
+            "high_price": 79.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 74.95,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88617"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b7c2536e625f4f0637434ca2f2f6db4967e3bb02479d4fe242f0dbf534c026ce2fe7a4fcd9bd96c7962c4a0e",
+      "card_info": {
+        "name": "Rocket's Sneak Attack (72)",
+        "clean_name": "Rockets Sneak Attack 72",
+        "set_name": "Team Rocket",
+        "set_code": "TR",
+        "set_id": "1373",
+        "card_number": "72/82",
+        "rarity": "Rare",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at your opponent's hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.88,
+            "mid_price": 12.59,
+            "high_price": 193.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 12.35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 6,
+            "mid_price": 8.84,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 10.09,
+            "direct_low_price": 7.86,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88792"
+      },
+      "cardmarket": {
+        "product_name": "Rocket's Sneak Attack",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 6.01,
+            "avg30": 3.21,
+            "trend": 5.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.4,
+            "low": 2.5,
+            "avg1": 5,
+            "avg7": 9.77,
+            "avg30": 13.67,
+            "trend": 9.86,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rockets-Sneak-Attack-TR72"
+      }
+    },
+    {
+      "id": "pk_34d8ae056b92b3fe8ce661d5a8ce067947852b8866bd22a828d6d4193d36bc10965f54354b421595106b",
+      "card_info": {
+        "name": "Minion of Team Rocket",
+        "clean_name": "Minion of Team Rocket",
+        "set_name": "Challenge from the Darkness",
+        "set_code": "23726",
+        "set_id": "23726",
+        "card_number": null,
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.98,
+            "mid_price": 2.1,
+            "high_price": 5.99,
+            "updated_at": "2026-10-10T10:53:27.140813",
+            "market_price": 2.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575382"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5751b38ed958ed7d6eed7fd93f56f16c850368a8249fe128afd1f08d6bc3fe7f362f24a9c768d2828582",
+      "card_info": {
+        "name": "Team Rocket's Evil Deeds",
+        "clean_name": "Team Rockets Evil Deeds",
+        "set_name": "Darkness, and to Light...",
+        "set_code": "23729",
+        "set_id": "23729",
+        "card_number": null,
+        "rarity": "Uncommon",
+        "card_type": "Trainer",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.53,
+            "mid_price": 4.99,
+            "high_price": 7.16,
+            "updated_at": "2026-10-10T10:53:27.140813",
+            "market_price": 4.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575562"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b553428488a4de6a650a850990bbdac0390fb8362c1fa06ca280e4dda478a4f6c44d3367ecded443d53c",
+      "card_info": {
+        "name": "Here Comes Team Rocket!",
+        "clean_name": "Here Comes Team Rocket",
+        "set_name": "Rocket Gang",
+        "set_code": "23724",
+        "set_id": "23724",
+        "card_number": null,
+        "rarity": "Super Rare Holo",
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 88.5,
+            "mid_price": 88.5,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:27.140813",
+            "market_price": 68.75,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/575757"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ddac3b27a50cfc4ce936cef4bc60444c04cf8df9dbfb0c0709d9a1802b8dfeb2e15dea8c275068c49e003e29996d6b",
+      "card_info": {
+        "name": "Team Rocket's Sneasel",
+        "clean_name": "Team Rockets Sneasel",
+        "set_name": "SV10: The Glory of Team Rocket",
+        "set_code": "SV10",
+        "set_id": "24310",
+        "card_number": "072/098",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Scratch (20)",
+          "[Darkness][Darkness] Neck Slash<br> This attack does 20 damage to 1 of your opponent's Benched Pokémon for each damage counter on that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "[Grass] x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.22,
+            "high_price": 15,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/628713"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Sneasel",
+        "prices": [
+          {
+            "avg": 0.22,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.09,
+            "avg30": 0.12,
+            "trend": 0.15,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Sneasel-sv10072"
+      }
+    },
+    {
+      "id": "pk_70d7e81694ef5f6a63bb83ff17b889c048693441be989ed5172b0e3e0e7919b1b338698ef28864de1dde",
+      "card_info": {
+        "name": "Team Rocket's Meowth",
+        "clean_name": "Team Rockets Meowth",
+        "set_name": "Unnumbered Promotional cards",
+        "set_code": "24172",
+        "set_id": "24172",
+        "card_number": null,
+        "rarity": null,
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "40",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Miraculous Comeback <br>Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then, Team Rocket's Meowth does 10 damage times the number of tails to itself."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Psychic -30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 75,
+            "mid_price": 75,
+            "high_price": 75,
+            "updated_at": "2026-10-07T11:54:54.426923",
+            "market_price": 78.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/617396"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Meowth",
+        "prices": [
+          {
+            "avg": 97,
+            "low": 422,
+            "avg1": 69,
+            "avg7": 75.12,
+            "avg30": 65.09,
+            "trend": 101.06,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Team-Rockets-Meowth-UNP"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 15,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 15,
+    "tcg": 15,
+    "cardmarket": 11,
+    "tcg_only": 4,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

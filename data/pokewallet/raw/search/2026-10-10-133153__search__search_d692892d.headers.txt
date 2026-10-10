@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Mew+EX+Holon+Phantoms&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:59 GMT
+Content-Type: application/json
+Content-Length: 1741
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 958
+X-RateLimit-Remaining-Hour: 58
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JIAiE%2Fqo1jsYbc7Hjbnq0cHqaLY1KxwaiTMz8xO3EeRZMYeNR6Nl%2BaibNYdIb8ilgRwXLyuqr98PSrhm99Vfg0lsI6m%2F2JOaVHibttfozeqk07CpkyV1HdJUgUj0an3%2FtjWN5qHz7gnQTomUg%2FmTlQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854d403d6e8be6-OSL
+alt-svc: h3=":443"; ma=86400

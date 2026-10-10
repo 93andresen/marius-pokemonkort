@@ -1,0 +1,1289 @@
+{
+  "query": "Machamp",
+  "results": [
+    {
+      "id": "pk_4ae6f94827deb6ae60f8708c6b3d6c2c8e3ba3a33c832553f238f666a1049046feb60aeba9a9bfaf7a1f8c1b56bf",
+      "card_info": {
+        "name": "Machamp - 46/111 (Cosmos Holo)",
+        "clean_name": "Machamp 46 111 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "046/111",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "150",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability -— Fighting Fury</strong>\r\n<br>Each of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance).</em>",
+        "attacks": [
+          "[FFF] Machamp Crush (80)\r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40<em> (before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.25,
+            "mid_price": 2.15,
+            "high_price": 33.92,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/141253"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e8f0f2b8b94e12e5c9cb0d48dcdb204c7821e04c2db49f95bb979eab7a947ca22584268f6d4079ffea4d98643156",
+      "card_info": {
+        "name": "Machamp - 65/145 (Cosmos Holo)",
+        "clean_name": "Machamp 65 145 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "065/145",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "160",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[FF] Settle the Score (20+)\r\n<br>This attack does 80 more damage for each Prize card your opponent took on their last turn.",
+          "[FFF] Submission (150)\r\n<br>This Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.33,
+            "mid_price": 0.97,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/238635"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_132e7eec7d7ab6ec0664330fd893b4547ab4e9c12cca6632845a3f1732bff3b35af2f4d6c214e5e01763e3ae24ac",
+      "card_info": {
+        "name": "Machamp - 49/101 (Cosmos Holo)",
+        "clean_name": "Machamp 49 101 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "049/101",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "150",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Badge of Discipline</strong>\r\n<br>\r\nThe damage of each of your Fighting Pokémon's attacks isn't affected by Resistance.",
+        "attacks": [
+          "[3F] Close Combat (120)\r\n<br>Flip a coin. If tails, during your opponent's next turn, any damage done to this Pokémon by attacks is increased by 30 <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.68,
+            "mid_price": 4.24,
+            "high_price": 58.02,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 9.14,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/256834"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cb2c4dd1531c558609ad342f84d5ba1214eba53517a511bf5830eaf0362a3537b4bdd9a3d2d6ae20bac53d480b",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Champion's Path",
+        "set_code": "CHP",
+        "set_id": "2685",
+        "card_number": "26/73",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1F] Macho Revenge (20x)\r\n<br>This attack does 20 damage for each Fighting Pokemon in your discard pile.",
+          "[1FF] Dynamite Punch (200)\r\n<br>This Pokemon also does 50 damage to itself."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.4,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.33,
+            "direct_low_price": 0.34,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.08,
+            "mid_price": 0.31,
+            "high_price": 3.95,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.27,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/223019"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.36,
+            "avg7": 0.16,
+            "avg30": 0.26,
+            "trend": 0.24,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.37,
+            "low": 0.02,
+            "avg1": 0.66,
+            "avg7": 0.47,
+            "avg30": 0.37,
+            "trend": 0.48,
+            "updated_at": "2026-10-10T10:31:53.2134",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machamp-CPA26"
+      }
+    },
+    {
+      "id": "pk_61a53a4caf30a686ea04385d975f7107fd699294228ce906c867030bc4cc00c87758272f2d370ef5ce4525",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "008/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Strikes Back</strong> Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+        "attacks": [
+          "[1FFF] Seismic Toss (60)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.88,
+            "mid_price": 24.98,
+            "high_price": 160.5,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 24.45,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42425"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10.64,
+            "avg7": 8.54,
+            "avg30": 8.47,
+            "trend": 9.03,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 12.92,
+            "low": 1,
+            "avg1": 7.22,
+            "avg7": 10.2,
+            "avg30": 11.96,
+            "trend": 12.67,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Machamp-V1-BS8"
+      }
+    },
+    {
+      "id": "pk_221f8f359985291e1467ced22aa1869f90bdaeb532c49d5d87cccea6997f58c51a2987e5b5b3dc4065c076050c",
+      "card_info": {
+        "name": "Machamp - 8/102 (Base Set Shadowless)",
+        "clean_name": "Machamp 8 102 Base Set Shadowless",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "008/102",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Strikes Back</strong> Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+        "attacks": [
+          "[1FFF] Seismic Toss (60)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 66,
+            "mid_price": 299.5,
+            "high_price": 798.3,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 92.51,
+            "direct_low_price": 798.3,
+            "sub_type_name": "1st Edition Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107004"
+      },
+      "cardmarket": {
+        "product_name": "Machamp (Shadowless)",
+        "prices": [
+          {
+            "avg": 89.45,
+            "low": 25,
+            "avg1": 39.98,
+            "avg7": 103.9,
+            "avg30": 115.18,
+            "trend": 136.13,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Machamp-V2-BS8"
+      }
+    },
+    {
+      "id": "pk_eec2e61199a17a4c34a6102c86f7f27e25e31cc4d57fe35b613897f740054d8df3517a42226195e2cc4e71cefbda",
+      "card_info": {
+        "name": "Machamp - 46/111 (XY Furious Fists)",
+        "clean_name": "Machamp 46 111 XY Furious Fists",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "046/111",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — FIghting Fury</strong>\r\n<br>\r\nEach of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[FFF] Machamp Crush (80)\r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 <em>(before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.55,
+            "mid_price": 1.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 1.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131324"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cbf12c81b1388a01a632b06580bcaf5ac9687f3ffe7f6e7aecb645d1c1d68edc4c2a379f2472b15451c9605f14",
+      "card_info": {
+        "name": "Machamp - 026/073",
+        "clean_name": "Machamp",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "26/73",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1F] Macho Revenge (20x)\r\n<br>This attack does 20 damage for each Fighting Pokemon in your discard pile.",
+          "[1FF] Dynamite Punch (200)\r\n<br>This Pokemon also does 50 damage to itself."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 1,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.96,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/579998"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3281607d73f079e59a5bbd4d21664138835beb5f8b78df281557f25d591243bf70b0d924824e9bde987f390590",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "13/18",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[F] Directing Traffic\r\n<br>Look at the top 5 cards of your deck and put them back in any order.",
+          "[FF] Cross Chop (80+)\r\n<br>Flip a coin. If heads, this attack does 60 more damage."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 2,
+            "high_price": 4.97,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 2.06,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186021"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 2.2,
+            "low": 0.2,
+            "avg1": 1.85,
+            "avg7": 1.62,
+            "avg30": 1.93,
+            "trend": 2.22,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.4,
+            "avg1": 0.5,
+            "avg7": 1.57,
+            "avg30": 1.78,
+            "trend": 1.59,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Machamp-DET13"
+      }
+    },
+    {
+      "id": "pk_897e082e1c1021c4d918ea7004cebc9b39e5a7d0f8a8d62ce7dbf51b84fa6c82d7acb2274f3de421141bde5ad3",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Diamond and Pearl",
+        "set_code": "DP",
+        "set_id": "1430",
+        "card_number": "31/130",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[F] Revenge (20+)\r\n<br>\r\nIf any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 50 more damage.",
+          "[FFF] Dynamic Punch (60+)\r\n<br>\r\nFlip a coin. If heads, this attack does 60 damage plus 30 more damage and the Defending Pokémon is now Confused."
+        ],
+        "weakness": "P+30",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 4.72,
+            "high_price": 49.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 4.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 12.51,
+            "mid_price": 54.02,
+            "high_price": 99.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 11.91,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86965"
+      },
+      "cardmarket": {
+        "product_name": "Machamp Lv.59",
+        "prices": [
+          {
+            "avg": 2.06,
+            "low": 0.1,
+            "avg1": 0.95,
+            "avg7": 1.55,
+            "avg30": 1.66,
+            "trend": 1.46,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.87,
+            "low": 0.3,
+            "avg1": 0.88,
+            "avg7": 2.44,
+            "avg30": 4.17,
+            "trend": 2.39,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Diamond-Pearl/Machamp-Lv59-DP31"
+      }
+    },
+    {
+      "id": "pk_7b58930c9340093af5f73b5a7af225b5b2ac34a01ffe9c9f93a0c5749c1e6861e9f7470b0fb6c7d3ff22eec001",
+      "card_info": {
+        "name": "Machamp (16)",
+        "clean_name": "Machamp 16",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "016/165",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Terraforming</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may look at the top 4 cards of your deck and rearrange them as you like. This power can't be used if Machamp is affected by a Special Condition.",
+        "attacks": [
+          "[2FF] Iron Fist (50+)\r\n<br>Count the number of Pokémon you have in play with damage counters on them. Flip a coin. If heads, this attack does 50 damage plus 10 more damage for each of those Pokémon."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 111.95,
+            "mid_price": 349.99,
+            "high_price": 1352.38,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 133.59,
+            "direct_low_price": 299.87,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 120,
+            "mid_price": 329.49,
+            "high_price": 349.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 75.37,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86960"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 16.5,
+            "low": 6,
+            "avg1": 10,
+            "avg7": 18.18,
+            "avg30": 20.49,
+            "trend": 14.87,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 130.77,
+            "low": 5,
+            "avg1": 240,
+            "avg7": 122.61,
+            "avg30": 105.45,
+            "trend": 148.36,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Machamp-EX16"
+      }
+    },
+    {
+      "id": "pk_f30e7289a22fd81b2529ca7c4ceb31f04abfcf34f0b2b153f01df0cc71c84fe3a8f742fdc1dba4086cb9a59c13",
+      "card_info": {
+        "name": "Machamp (51)",
+        "clean_name": "Machamp 51",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "051/165",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Terraforming</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may look at the top 4 cards of your deck and rearrange them as you like. This power can't be used if Machamp is affected by a Special Condition.",
+        "attacks": [
+          "[2FF] Iron Fist (50+)\r\n<br>Count the number of Pokémon you have in play with damage counters on them. Flip a coin. If heads, this attack does 50 damage plus 10 more damage for each of those Pokémon."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.5,
+            "mid_price": 9.97,
+            "high_price": 49.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 9.48,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 25,
+            "mid_price": 32.99,
+            "high_price": 469.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 38.87,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86962"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 5.8,
+            "low": 0.77,
+            "avg1": 3,
+            "avg7": 5.33,
+            "avg30": 6.14,
+            "trend": 5.66,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 11.65,
+            "low": 1.97,
+            "avg1": 18.49,
+            "avg7": 13.05,
+            "avg30": 15.45,
+            "trend": 12.77,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Machamp-EX51"
+      }
+    },
+    {
+      "id": "pk_917b6cc697c7f7ac9d4f21cb56d36fd5c728cfbc918256758f2ae318275f9557079248e80f472e0e29b8555023",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "42/83",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Ability — Fighting Fury</b>\r\n<br>Each of your Fighting Pokemon's attacks do 20 more damage to your opponent's Active Pokemon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [
+          "[FFF] Machamp Crush (80)\r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 <i>(before applying Weakness and Resistance).</i>"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.71,
+            "mid_price": 1.66,
+            "high_price": 59.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 1.79,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1.78,
+            "mid_price": 2.28,
+            "high_price": 54.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 2.46,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113700"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 3.81,
+            "low": 0.98,
+            "avg1": 3.79,
+            "avg7": 3.65,
+            "avg30": 3.68,
+            "trend": 3.93,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.1,
+            "low": 0.2,
+            "avg1": 1.5,
+            "avg7": 1.76,
+            "avg30": 2.13,
+            "trend": 1.63,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Machamp-GEN42"
+      }
+    },
+    {
+      "id": "pk_91d0b44bfa59a378760d5baeabb75052bbe27f56ca5d3858d3a830feae67a57f4739468b0200ce08d30f0569",
+      "card_info": {
+        "name": "Giovanni's Machamp",
+        "clean_name": "Giovannis Machamp",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "006/132",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Fortitude</strong> If Giovanni's Machamp would be Knocked Out by an opponent's attack, flip a coin. If heads, Giovanni's Machamp is not Knocked Out and its remaining HP become 10 instead. This power can't be used if Giovanni's Machamp is already Asleep, Confused, or Paralyzed",
+        "attacks": [
+          "[1FFF] Hurricane Punch (30x)\r\n<br>Flip 4 coins. This attack does 30 damage times the number of heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 89.99,
+            "mid_price": 272.27,
+            "high_price": 807.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 229.97,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 64.95,
+            "mid_price": 99.98,
+            "high_price": 849.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 84.59,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85712"
+      },
+      "cardmarket": {
+        "product_name": "Giovanni's Machamp",
+        "prices": [
+          {
+            "avg": 125.71,
+            "low": 15,
+            "avg1": 59.89,
+            "avg7": 126.98,
+            "avg30": 77.85,
+            "trend": 124.81,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 26.99,
+            "avg7": 29.93,
+            "avg30": 26.04,
+            "trend": 26.18,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Challenge/Giovannis-Machamp-GC6"
+      }
+    },
+    {
+      "id": "pk_5cdfbfa9bb554505203dcd794c9a5d5313e88cb41f67b4024d558a4f6f516ec3fa684f24c0934145e82b4ee5",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Hidden Legends",
+        "set_code": "HL",
+        "set_id": "1416",
+        "card_number": "9/101",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<b>Poke-BODY</b> Overzealous \r\n<br>If your opponent has an Pokemon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokemon.",
+        "attacks": [
+          "[1F] Brick Smash (40) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+          "[3F] Cross Chop (60+) \r\n<br>Flip a coin.  If heads, this attack does 60 damage plus 30 more damage."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 37,
+            "mid_price": 59.99,
+            "high_price": 413,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 45,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 69.98,
+            "mid_price": 98.38,
+            "high_price": 996.72,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 88.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86971"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 9.75,
+            "low": 1,
+            "avg1": 18.42,
+            "avg7": 20.54,
+            "avg30": 13.75,
+            "trend": 20.63,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 38.48,
+            "low": 1.5,
+            "avg1": 7,
+            "avg7": 32.92,
+            "avg30": 19.92,
+            "trend": 26.76,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machamp-V1-HL9"
+      }
+    },
+    {
+      "id": "pk_2f8f98ec801e3dc64eb64c32ed3901758bb3156665036ca14b2c05fa09b896cb73d8cabc57234b7050a31fcf0e",
+      "card_info": {
+        "name": "Machamp - 9/101 (National Championships)",
+        "clean_name": "Machamp 9 101 National Championships",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "009/101",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Overzealous</strong>\r\n<br>\r\nIf your opponent has any Pokémon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokémon.",
+        "attacks": [
+          "[1F] Brick Smash (40) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "[3F] Cross Chop (60+) \r\n<br>Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/251241"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 69,
+            "low": 40,
+            "avg1": 69,
+            "avg7": 103.25,
+            "avg30": 40.47,
+            "trend": 57.73,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machamp-V2-HL9"
+      }
+    },
+    {
+      "id": "pk_1ff8519da7c5e69d6866036479c0d989c586f878505c5d799a6050ca97be50d93e083456bc8f5f4e3c96f7e0b9",
+      "card_info": {
+        "name": "Machamp - 9/101 (National Championships) [Staff]",
+        "clean_name": "Machamp 9 101 National Championships Staff",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "009/101",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Overzealous</strong>\r\n<br>\r\nIf your opponent has any Pokémon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokémon.",
+        "attacks": [
+          "[1F] Brick Smash (40) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "[3F] Cross Chop (60+) \r\n<br>Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/265325"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d0830c22d48abbbfebe1fb6f59de756b4bcb657e8781c1ccd0c79a08032c3d8686f8d051a5db1c690f2570",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Legend Maker",
+        "set_code": "LM",
+        "set_id": "1378",
+        "card_number": "9/92",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1F] Derail (40)\r\n<br> Discard a Special Energy card, if any, attached to the Defending Pokemon.",
+          "[2F] Swift Blow (60+) \r\n<br>Does 60 damage plus 20 damage for each React Energy card attached to Machamp."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.99,
+            "mid_price": 43.99,
+            "high_price": 352.31,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 44.04,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 49.99,
+            "mid_price": 189.99,
+            "high_price": 1110.92,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 42.8,
+            "direct_low_price": 599.99,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86963"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 24.97,
+            "low": 6.95,
+            "avg1": 40,
+            "avg7": 22.32,
+            "avg30": 19.15,
+            "trend": 23.49,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.14,
+            "low": 1,
+            "avg1": 6.99,
+            "avg7": 43.78,
+            "avg30": 32.11,
+            "trend": 42.41,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Machamp-LM9"
+      }
+    },
+    {
+      "id": "pk_1fe57fdf5e944973ff5f5abcd9b7d7299df7e25beb493b8fa037b90a32cef651b4388049535403fd456fc5b6ae",
+      "card_info": {
+        "name": "Machamp",
+        "clean_name": "Machamp",
+        "set_name": "Legendary Collection",
+        "set_code": "LC",
+        "set_id": "1374",
+        "card_number": "015/110",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Pokémon Power: Strikes Back</strong> Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. <em>(Don't apply Weakness and Resistance.)</em> This power can't be used if Machamp is already affected by a Special Condition when your opponent attacks.",
+        "attacks": [
+          "[1FFF] Seismic Toss (60)"
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39,
+            "mid_price": 65.04,
+            "high_price": 481.5,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 56.98,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 1399.99,
+            "mid_price": 1524.91,
+            "high_price": 1649.82,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 27,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86957"
+      },
+      "cardmarket": {
+        "product_name": "Machamp",
+        "prices": [
+          {
+            "avg": 173.31,
+            "low": 70,
+            "avg1": 247,
+            "avg7": 253.41,
+            "avg30": 123.21,
+            "trend": 221.54,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 7.37,
+            "low": 4,
+            "avg1": 55,
+            "avg7": 16.49,
+            "avg30": 12.95,
+            "trend": 15.78,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Machamp-LC15"
+      }
+    },
+    {
+      "id": "pk_a74b1bebb2d17d70c1a642cc168bd227f0a7e695a189386a8430c49e47f4fa1fb179650efd438d1dcbfa60fbb3ff",
+      "card_info": {
+        "name": "Machamp 068/165 (Cosmos Holo)",
+        "clean_name": "Machamp 068 165 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "068/165",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "180.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Gusts</strong\r\n<br>If this Pokemon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokemon is not Knocked Out, and its remaining HP becomes 10.",
+        "attacks": [
+          "[FF] Mountain Chopping (100)\r\n<br>Discard the top 2 cards of your opponent's deck."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.89,
+            "mid_price": 1.21,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/662070"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 143,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 143,
+    "tcg": 125,
+    "cardmarket": 114,
+    "tcg_only": 29,
+    "cardmarket_only": 18,
+    "both_sources": 96
+  }
+}

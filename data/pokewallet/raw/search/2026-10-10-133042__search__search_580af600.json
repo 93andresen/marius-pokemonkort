@@ -1,0 +1,1541 @@
+{
+  "query": "Wigglytuff",
+  "results": [
+    {
+      "id": "pk_82a1e04c0b96f7fcdd4cb165b0cf4050eedf83a73ca36b284f0288cd461636b69a221086aeab2281f5aadc26",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "019/130",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11.52,
+            "mid_price": 17.9,
+            "high_price": 122.96,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 24.34,
+            "direct_low_price": 20.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42463"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12.99,
+            "avg7": 9.04,
+            "avg30": 7.42,
+            "trend": 9.23,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.08,
+            "low": 3.5,
+            "avg1": 7.75,
+            "avg7": 12.79,
+            "avg30": 11.88,
+            "trend": 11.99,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Wigglytuff-B219"
+      }
+    },
+    {
+      "id": "pk_dce44fc2430e5646a2acbcdf81a5d7b39cac188876571931283467de6486bc1edca44dbc7a57034f41758e9918",
+      "card_info": {
+        "name": "Wigglytuff - 79/99 (Cosmos Holo)",
+        "clean_name": "Wigglytuff 79 99 Cosmos Holo",
+        "set_name": "Blister Exclusives",
+        "set_code": "BLE",
+        "set_id": "2289",
+        "card_number": "079/099",
+        "rarity": "Promo",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Round (20x)\r\n<br>\r\nDoes 20 damage times the number of your Pokémon that have the Round attack.",
+          "[3] Hypnoblast (60)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.7,
+            "mid_price": 13.96,
+            "high_price": 17.98,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 5.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/91400"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f6378fd633721391c3a621b2bfa83b9479acfc5e745378038b5e8acb7eb8b783b040206923ce96c503bd63f8c1",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "Crystal Guardians",
+        "set_code": "CG",
+        "set_id": "1395",
+        "card_number": "13/100",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "Fluffy Fur - If Wigglytuff is your Active Pokemon and is damaged by an opponent's attack (even if Wigglytuff is Knocked Out), the attacking Pokemon is now Asleep.  (Poke-BODY)",
+        "attacks": [
+          "[1] Collect - Draw 3 cards.",
+          "[2] Pester (30+) If the Defending Pokemon is affected by a Special Condition, this attack does 30 damage plus 20 more damage."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 14.31,
+            "mid_price": 22.46,
+            "high_price": 211.77,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 22.7,
+            "direct_low_price": 211.14,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 19.41,
+            "mid_price": 36.82,
+            "high_price": 482.1,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 37.97,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90597"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 9.6,
+            "low": 2,
+            "avg1": 7.99,
+            "avg7": 7.2,
+            "avg30": 7.77,
+            "trend": 6.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 17,
+            "low": 3,
+            "avg1": 14,
+            "avg7": 13.85,
+            "avg30": 8.63,
+            "trend": 14.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Wigglytuff-CG13"
+      }
+    },
+    {
+      "id": "pk_4424856e71cd4adf6c0b9063258c7b53e99c69dc7a6b4711b941682b692a5b0059645f6f6d66e9a31844d780bb",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "FireRed & LeafGreen",
+        "set_code": "RG",
+        "set_id": "1419",
+        "card_number": "52/112",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<b>Poke-POWER</b> Assistance  \r<br>\n<br>Once during your turn <em>(before you attack)</em>, if Wigglytuff is on your Bench, you may choose 1 of your Active Pokemon and remove 1 Special Condition from it.",
+        "attacks": [
+          "[2] Expand (30) \r\n<br>During your opponent's next turn, any damage done to Wigglytuff by attacks is reduced by 10 <i>(after applying Weakness and Resistance).</i>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.52,
+            "mid_price": 8.61,
+            "high_price": 65.02,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 7.65,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 49.95,
+            "mid_price": 101.31,
+            "high_price": 399.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 53.6,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90596"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 19.63,
+            "low": 3,
+            "avg1": 8,
+            "avg7": 12.41,
+            "avg30": 7.84,
+            "trend": 11.28,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.91,
+            "low": 0.2,
+            "avg1": 4.94,
+            "avg7": 3.18,
+            "avg30": 2.63,
+            "trend": 2.52,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-FireRed-LeafGreen/Wigglytuff-FL52"
+      }
+    },
+    {
+      "id": "pk_bccffadfdd714e21598123694959cad2be5be84688cdd0881d08cd5b261f6a32acf4ea0473630a5b3bc5e89f7a",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "Great Encounters",
+        "set_code": "GE",
+        "set_id": "1405",
+        "card_number": "32/106",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Poké-POWER — Good Night Melody</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may use this power. Each Active Pokémon <em>(both yours and your opponent's)</em> is now Asleep. This power can't be used if Wigglytuff is affected by a Special Condition.",
+        "attacks": [
+          "[2] Balloon Attack (40+)\r\n<br>\r\nIf Igglybuff is anywhere under Wigglytuff, this attack does 40 damage plus 20 more damage."
+        ],
+        "weakness": "F+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.71,
+            "mid_price": 2.99,
+            "high_price": 32.42,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 2.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 3.37,
+            "mid_price": 8.38,
+            "high_price": 57.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 17.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90598"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff Lv.46",
+        "prices": [
+          {
+            "avg": 1.34,
+            "low": 0.4,
+            "avg1": 0.85,
+            "avg7": 0.77,
+            "avg30": 1.36,
+            "trend": 1.17,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.66,
+            "low": 0.45,
+            "avg1": 5,
+            "avg7": 3.06,
+            "avg30": 2.91,
+            "trend": 2.24,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Wigglytuff-Lv46-GE32"
+      }
+    },
+    {
+      "id": "pk_ddd0bc496ab359329eed97e20f7514e33341222ce30271e4643f1c2665492677f711a12fce44fbefaf0f86df7d",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "HeartGold SoulSilver",
+        "set_code": "HS",
+        "set_id": "1402",
+        "card_number": "56/123",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Double Slap (40x) Flip 2 coins.  This attack does 40 damage times the number of heads.",
+          "[3] Expand (50) During your opponent's next turn, any damage done to Wigglytuff by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.46,
+            "mid_price": 5.88,
+            "high_price": 20,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 6.51,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 4.18,
+            "mid_price": 20.29,
+            "high_price": 79.82,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 8.35,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90599"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 0.89,
+            "low": 0.02,
+            "avg1": 0.96,
+            "avg7": 1.22,
+            "avg30": 0.9,
+            "trend": 0.97,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.19,
+            "low": 0.1,
+            "avg1": 0.96,
+            "avg7": 3.14,
+            "avg30": 2.93,
+            "trend": 3.41,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HeartGold-SoulSilver/Wigglytuff-HS56"
+      }
+    },
+    {
+      "id": "pk_a1ac29ddbab6b166478299f42f6bf0ee011abd4f9f69945926b18d3bb62fc1b26e2d834d953697191ab724135b",
+      "card_info": {
+        "name": "Wigglytuff GX",
+        "clean_name": "Wigglytuff GX",
+        "set_name": "Hidden Fates",
+        "set_code": "HIF",
+        "set_id": "2480",
+        "card_number": "42/68",
+        "rarity": "Ultra Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1YY] Rolling Rush (100+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "<span style=\"color:Teal\"><strong>[1YY] Lovely Star GX (130)</strong>\r\n<br>Heal all damage from this Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.75,
+            "mid_price": 4.02,
+            "high_price": 68.5,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.43,
+            "direct_low_price": 4.55,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/197686"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff GX",
+        "prices": [
+          {
+            "avg": 2.56,
+            "low": 1.7,
+            "avg1": 2.43,
+            "avg7": 2.54,
+            "avg30": 2.49,
+            "trend": 2.6,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1.16,
+            "avg7": 1.23,
+            "avg30": 1.31,
+            "trend": 1.21,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Wigglytuff-GX-HIF42"
+      }
+    },
+    {
+      "id": "pk_b2679929c86c74b9fb72650660ef08eb3b81c3be2ce41a3931e561ae49890ce5c2f935a33c3056a2dd9ea7353c2d",
+      "card_info": {
+        "name": "Wigglytuff ex",
+        "clean_name": "Wigglytuff ex",
+        "set_name": "Hidden Legends",
+        "set_code": "HL",
+        "set_id": "1416",
+        "card_number": "101/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Sleepy Song (30) \r\n<br>Each Defending Pokemon is now Asleep.",
+          "[3] Do the Wave (30+) \r\n<br>Does 30 damage plus 10 more damage for each of your Benched Pokemon."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 104.5,
+            "mid_price": 487.5,
+            "high_price": 767.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 70.83,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90603"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 11.25,
+            "avg7": 7.99,
+            "avg30": 11.44,
+            "trend": 7.99,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 36.97,
+            "low": 9.79,
+            "avg1": 397.5,
+            "avg7": 121.15,
+            "avg30": 66.98,
+            "trend": 88.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Wigglytuff-ex-HL101"
+      }
+    },
+    {
+      "id": "pk_421275c018dd526bcb6fd216d7dcad8b4c041727af154b25a44707eebc0ea2d79641c560c677ad3ba2cb3e",
+      "card_info": {
+        "name": "Wigglytuff (16)",
+        "clean_name": "Wigglytuff 16",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "16/64",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 64.97,
+            "mid_price": 74.99,
+            "high_price": 693.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 84.95,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 21,
+            "mid_price": 30,
+            "high_price": 599.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 42.13,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45127"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 10,
+            "avg7": 16.33,
+            "avg30": 15.88,
+            "trend": 13.79,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 26.17,
+            "low": 4.5,
+            "avg1": 16.12,
+            "avg7": 37.22,
+            "avg30": 28.82,
+            "trend": 32.1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Wigglytuff-V1-JU16"
+      }
+    },
+    {
+      "id": "pk_f3aa75c7d573cb83cbdd4f3765fedc2b5fec26df1b7e86158b3d1d126789be97772b2958c317e95e4e31e77e",
+      "card_info": {
+        "name": "Wigglytuff (32)",
+        "clean_name": "Wigglytuff 32",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "32/64",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+          "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.85,
+            "mid_price": 20,
+            "high_price": 101.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 20.55,
+            "direct_low_price": 20,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3,
+            "mid_price": 6.51,
+            "high_price": 96.94,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 8.54,
+            "direct_low_price": 47.46,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/106994"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3.2,
+            "avg7": 5.69,
+            "avg30": 14.02,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 8.64,
+            "low": 0.4,
+            "avg1": 5.15,
+            "avg7": 4.78,
+            "avg30": 7.45,
+            "trend": 4.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Wigglytuff-V2-JU32"
+      }
+    },
+    {
+      "id": "pk_d79df87687aacd67b2a3143ed35e31da42e77548ec7598115906d0a826a48f48194826a7ff80eb50d8b7cf3e2790dc",
+      "card_info": {
+        "name": "Wigglytuff - 077/094",
+        "clean_name": "Wigglytuff",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "077/094",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Round (40x)<br> This attack does 40 damage for each of your Pokemon in play that has the Round attack.",
+          "[CCC] Seismic Toss (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.14,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.27,
+            "direct_low_price": 0.07,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/662239"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.1,
+            "avg30": 0.08,
+            "trend": 0.12,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Wigglytuff-V1-PFL077"
+      }
+    },
+    {
+      "id": "pk_c832fc199b44bd7f68cac9d3290d1573c494d6ab30e47a9fead3ff9512d0323acee5e8e15c3d7f281d9e46b0ed27de6c",
+      "card_info": {
+        "name": "Wigglytuff - 105/094",
+        "clean_name": "Wigglytuff",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "105/094",
+        "rarity": "Illustration Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[CC] Round (40x)<br> This attack does 40 damage for each of your Pokemon in play that has the Round attack.",
+          "[CCC] Seismic Toss (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.19,
+            "mid_price": 6.06,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 4.9,
+            "direct_low_price": 6.09,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/662240"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 5.47,
+            "low": 0.7,
+            "avg1": 4.8,
+            "avg7": 4.41,
+            "avg30": 4.94,
+            "trend": 4.11,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Wigglytuff-V2-PFL105"
+      }
+    },
+    {
+      "id": "pk_9baa98ff384eb0e23b546d06cc31da13c6ddbd2beeff32e522fb391dd3d582d22e072d9155c1588e4bce0be935",
+      "card_info": {
+        "name": "Dark Wigglytuff",
+        "clean_name": "Dark Wigglytuff",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "040/105",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Dark Song\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+          "[3] Slap Awake (20+)\r\n<br>If the Defending Pokémon is Asleep or Confused, this attack does 20 more damage. Then, the Defending Pokémon is no longer Asleep or Confused."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 29.68,
+            "mid_price": 74.81,
+            "high_price": 179.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 25.07,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 10.3,
+            "mid_price": 19.24,
+            "high_price": 176.19,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 11.84,
+            "direct_low_price": 95.75,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84674"
+      },
+      "cardmarket": {
+        "product_name": "Dark Wigglytuff",
+        "prices": [
+          {
+            "avg": 5.31,
+            "low": 0.99,
+            "avg1": 7.5,
+            "avg7": 5.14,
+            "avg30": 6.4,
+            "trend": 5.04,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Dark-Wigglytuff-NDE40"
+      }
+    },
+    {
+      "id": "pk_10ed9176bfb6bf55ed6f43b250ee5524658ca9cf46dde096e097c3c7e1ee32540715e88e487fd927090d206489",
+      "card_info": {
+        "name": "Light Wigglytuff",
+        "clean_name": "Light Wigglytuff",
+        "set_name": "Neo Destiny",
+        "set_code": "N4",
+        "set_id": "1444",
+        "card_number": "054/105",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Evolution Song\r\n<br>\r\nYour opponent may choose 1 of his or her Pokémon and search his or her deck for a card that evolves from that Pokémon. Your opponent attachs that card to that Pokémon. This counts as evolving that Pokémon. Either way, you may do the same, and then each player who searched shuffles his or her deck.",
+          "[3] Body Slam (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": "P-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 23.8,
+            "mid_price": 32.04,
+            "high_price": 302.32,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 32.58,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 9.6,
+            "mid_price": 16.29,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 16.47,
+            "direct_low_price": 68.94,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86753"
+      },
+      "cardmarket": {
+        "product_name": "Light Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 0.93,
+            "avg30": 0.93,
+            "trend": 1,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 10.71,
+            "low": 1.4,
+            "avg1": 7.25,
+            "avg7": 7.83,
+            "avg30": 9.78,
+            "trend": 4.97,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Destiny/Light-Wigglytuff-NDE54"
+      }
+    },
+    {
+      "id": "pk_da4dd526ec989293999881d4fb9793d4c9810cd751bc2d5b6d79ef78a22156e2748e6014b014870ad9b74096",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "79/99",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Round (20x) Does 20 damage times the number of your Pokemon that have the Round attack.",
+          "[3] Hypnoblast (60) Flip a coin.  If heads, the Defending Pokemon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.01,
+            "mid_price": 2.38,
+            "high_price": 26.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 1.93,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 2.09,
+            "mid_price": 4.4,
+            "high_price": 45.42,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90600"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 3.19,
+            "low": 0.15,
+            "avg1": 5.6,
+            "avg7": 2.66,
+            "avg30": 2.55,
+            "trend": 2.96,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2.98,
+            "low": 0.2,
+            "avg1": 3,
+            "avg7": 2.38,
+            "avg30": 1.38,
+            "trend": 2.17,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Wigglytuff-NXD79"
+      }
+    },
+    {
+      "id": "pk_4e9b5df720aaa395caecfcaa0145894bb571753838ee4c91ca66c3255b4c53b72536d014ef99d70c390745513655",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "SM - Crimson Invasion",
+        "set_code": "SM04",
+        "set_id": "2071",
+        "card_number": "72/111",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Hypnoblast (30)\r\n<br>Your opponent's Active Pokemon is now Asleep.",
+          "[2Y] Punishing Slap (60+)\r\n<br>If any of your opponent's Pokemon have any Darkness Energy attached to them, this attack does 60 more damage."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 2.41,
+            "high_price": 30,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 2.26,
+            "direct_low_price": 2.94,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 3.45,
+            "mid_price": 6.17,
+            "high_price": 80.32,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 6.08,
+            "direct_low_price": 9.96,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/149098"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 1.11,
+            "low": 0.1,
+            "avg1": 0.2,
+            "avg7": 0.84,
+            "avg30": 0.72,
+            "trend": 0.85,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 4.71,
+            "low": 0.49,
+            "avg1": 1.5,
+            "avg7": 4.61,
+            "avg30": 2.45,
+            "trend": 4.34,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Wigglytuff-CIN72"
+      }
+    },
+    {
+      "id": "pk_4bdaca97a23d5150c9a74ea3edac8fc8b310edfaef40f5f12656c6ad0b06f4bfb845407e3e9f0d37a43df73b4e4656",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "SM - Lost Thunder",
+        "set_code": "SM8",
+        "set_id": "2328",
+        "card_number": "134/214",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Expand (30)\r\n<br>During your opponent’s next turn, this Pokemon takes 30 less damage from the attacks of your opponent’s Pokemon <em>(after applying Weakness and Resistance)</em>.",
+          "[2Y] Charmed Slap (70+)\r\n<br>If this Pokemon has a Pokemon Tool card that has \"Fairy Charm\" in its name attached to it, this attack does 70 more damage."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.67,
+            "mid_price": 5,
+            "high_price": 42.92,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.18,
+            "mid_price": 1.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 1.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/178953"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 1.73,
+            "low": 0.19,
+            "avg1": 0.45,
+            "avg7": 1.45,
+            "avg30": 0.89,
+            "trend": 1.57,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3.69,
+            "low": 0.8,
+            "avg1": 1.95,
+            "avg7": 4.46,
+            "avg30": 2.31,
+            "trend": 3.43,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wigglytuff-LOT134"
+      }
+    },
+    {
+      "id": "pk_cc656ac6b8ee03afa6df76f4c7979b893f345f5a5c1552cba387fcde3574ff8a3970c35d00362ae861c43315521757",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "SM - Unbroken Bonds",
+        "set_code": "SM10",
+        "set_id": "2420",
+        "card_number": "135/214",
+        "rarity": "Rare",
+        "card_type": "Fairy",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Orb Polish\r\n<br>Put 3 Energy cards from your discard pile into your hand.",
+          "[3] Sleepy Ball (80)\r\n<br>Your opponent's Active Pokémon is now Asleep."
+        ],
+        "weakness": "Mx2",
+        "resistance": "D-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 5.82,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 5.71,
+            "direct_low_price": 5.19,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 11.99,
+            "mid_price": 14.26,
+            "high_price": 161.52,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 12.71,
+            "direct_low_price": 14.26,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189233"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 11.61,
+            "low": 0.9,
+            "avg1": 0.99,
+            "avg7": 8.93,
+            "avg30": 7.25,
+            "trend": 10.6,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.01,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 2.6,
+            "avg30": 3.34,
+            "trend": 3.32,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unbroken-Bonds/Wigglytuff-UNB135"
+      }
+    },
+    {
+      "id": "pk_630e54281f8d3ddf767209cac6a1edd307425fb27a8eaa251db5a8901b7d7da9e24612ab6a0304c2cf43a499e5574c",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "SV02: Paldea Evolved",
+        "set_code": "PAL",
+        "set_id": "23120",
+        "card_number": "084/193",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Balloon Therapy</strong>\r\n<br>Once during your turn, you may attach a Therapeutic Energy card from your hand to 1 of your Pokémon.",
+        "attacks": [
+          "[2P] Magical Shot (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 19.38,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.23,
+            "direct_low_price": 0.08,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.3,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.28,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/497498"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.15,
+            "avg30": 0.17,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Wigglytuff-PAL084"
+      }
+    },
+    {
+      "id": "pk_662d93bd9f3e07b9bbe17f51007c24a9d0dc37218cdcd219bd40a6f5724a30766955f60a58cae58fea327d6fb219388a",
+      "card_info": {
+        "name": "Wigglytuff",
+        "clean_name": "Wigglytuff",
+        "set_name": "SV: Paldean Fates",
+        "set_code": "PAF",
+        "set_id": "23353",
+        "card_number": "147/091",
+        "rarity": "Shiny Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Balloon Therapy</strong>\r\n<br>Once during your turn, you may attach a Therapeutic Energy card from your hand to 1 of your Pokémon.",
+        "attacks": [
+          "[2P] Magical Shot (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.89,
+            "mid_price": 7.21,
+            "high_price": 50.71,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 6.72,
+            "direct_low_price": 7.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/534616"
+      },
+      "cardmarket": {
+        "product_name": "Wigglytuff",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.6,
+            "low": 1.5,
+            "avg1": 2.5,
+            "avg7": 3.34,
+            "avg30": 5.02,
+            "trend": 3.45,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Wigglytuff-PAF147"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 136,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 136,
+    "tcg": 121,
+    "cardmarket": 69,
+    "tcg_only": 67,
+    "cardmarket_only": 15,
+    "both_sources": 54
+  }
+}

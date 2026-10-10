@@ -1,0 +1,70 @@
+{
+  "query": "- Neo Revelation 63",
+  "results": [
+    {
+      "id": "pk_483b4173cd46b0187a395a2f34d19f0c752f809e83dd1ad1cbd953830943b62cb639000aa5fb7b58bbd8259d",
+      "card_info": {
+        "name": "Rocket's Hideout",
+        "clean_name": "Rockets Hideout",
+        "set_name": "Neo Revelation",
+        "set_code": "N3",
+        "set_id": "1389",
+        "card_number": "63/64",
+        "rarity": "Uncommon",
+        "card_type": "Stadium",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n<br>\r\nEach Pokémon in play with Dark in its name <em>(even your opponent's)</em> gets +20 HP.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32.24,
+            "mid_price": 69.81,
+            "high_price": 2500,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 40.31,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 3.99,
+            "mid_price": 11.78,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 14.4,
+            "direct_low_price": 29.97,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88770"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

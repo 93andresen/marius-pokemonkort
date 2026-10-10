@@ -1,0 +1,89 @@
+{
+  "query": "Mew EX Holon Phantoms",
+  "results": [
+    {
+      "id": "pk_10841b220735e00dfe245b44f5ac4e82aae1214837278723ddbf2cb2fba489c8d7dd12dc9c34e35295dcfef710b9",
+      "card_info": {
+        "name": "Mew ex",
+        "clean_name": "Mew ex",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "100/110",
+        "rarity": "Ultra Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<b>Poke-POWER</b> Psychic Vision \r\n<br>Once during your turn<em> (before your attack)</em>, if Mew ex is on your Bench, you may look at your opponent's hand.",
+        "attacks": [
+          "[2] Super Psy Bolt (30)",
+          "[2P] Devo Crush (50) \r\n<br>You may discard 2 Energy attached to Mew ex.  If you do, you may remove the highest Stage Evolution card from the Defending Pokemon and shuffle that card into your opponent's deck."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 187.48,
+            "mid_price": 299.99,
+            "high_price": 412.49,
+            "updated_at": "2026-10-07T11:54:42.813138",
+            "market_price": 525.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/87410"
+      },
+      "cardmarket": {
+        "product_name": "Mew ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 22.43,
+            "avg30": 31.09,
+            "trend": 24.25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 322.7,
+            "low": 50,
+            "avg1": 97.5,
+            "avg7": 332.1,
+            "avg30": 296.72,
+            "trend": 350.78,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mew-ex-HP100"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

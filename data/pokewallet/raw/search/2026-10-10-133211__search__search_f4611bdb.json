@@ -1,0 +1,685 @@
+{
+  "query": "Pikachu 026",
+  "results": [
+    {
+      "id": "pk_c8c8c9d74c38ce50fd73cc894802b8bbdbb0a66d059e754aff69edd2c3d7f1d0a9e215072f37a86070e27d4d59d8",
+      "card_info": {
+        "name": "Ash's Pikachu-GX (Ash vs Team Rocket Deck Kit)",
+        "clean_name": "Ashs Pikachu GX Ash vs Team Rocket Deck Kit",
+        "set_name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
+        "set_code": "AVTR",
+        "set_id": "23095",
+        "card_number": "005/026",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\"><em>This promotional card was printed in Japanese only.</em></span>",
+        "attacks": [
+          "[L] Quick Attack (20+)\r\n<br>\r\nFlip a coin. If heads, this attack does 20 more damage.",
+          "<span style=\"color:Teal\"><strong>[LLL] Thunderbolt-GX (200)</strong>\r\n<br>Discard all Energy attached to this Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 114.49,
+            "high_price": 128.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 119.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490242"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_083b11de85277873903771159e3f515da5a10c5bfe8730b1a5b4a4f344c76c4cb524dd44e739aec660574163832e",
+      "card_info": {
+        "name": "Pikachu - 26/83 (Toys R Us)",
+        "clean_name": "Pikachu 26 83 Toys R Us",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "026/083",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nuzzle\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 79.95,
+            "mid_price": 121.75,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 93.59,
+            "direct_low_price": 852.7,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/144670"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b5c9b865a32c7be036f2f61723a67d56c749221900066cdab16a2a318b1b2b0c6922146d72fc8c9726add6a09103",
+      "card_info": {
+        "name": "Pikachu - 26/83 (20th Anniversary)",
+        "clean_name": "Pikachu 26 83 20th Anniversary",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "026/083",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nuzzle \r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 199.99,
+            "mid_price": 299.98,
+            "high_price": 599.3,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 149.99,
+            "direct_low_price": 599.3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/257770"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1c0db4e817ad381d6d6bd4b2bf53d562153e5a316fe02d8e7b5fd03f9f8398898b024d95c8ff4f131e45059c337a3a",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "032/070",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Tail Slap (10)",
+          "[Lightning][Colorless] Quick Attack (20+)<br> Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": "[Metal] -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.7,
+            "mid_price": 4.7,
+            "high_price": 4.7,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 10,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608267"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_156667245c5d96db94fe9f7a629f2e0fb60fe50f493305aa3f8419ff3dfe6d1c68136cecd5b088b589b7171c5a9ee5",
+      "card_info": {
+        "name": "Pikachu (Mirror Holofoil)",
+        "clean_name": "Pikachu Mirror Holofoil",
+        "set_name": "L1: SoulSilver Collection",
+        "set_code": "L1: SS",
+        "set_id": "24026",
+        "card_number": "032/070",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Tail Slap (10)",
+          "[Lightning][Colorless] Quick Attack (20+)<br> Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": "[Metal] -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/608338"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_bb7a1d4df49cab9e0ead3893c0eb6acb31e2fe753ac177dbe9e6bb52698c25bedfbbd087b4a0a93152b2528f6d8922",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "S6a: Eevee Heroes",
+        "set_code": "S6a",
+        "set_id": "23637",
+        "card_number": "026/069",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Energize<br> Attach a Lightning Energy card from your discard pile to this Pokémon.",
+          "[Lightning][Colorless][Colorless] Electro Ball (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.31,
+            "mid_price": 0.38,
+            "high_price": 1.5,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/570489"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.19,
+            "avg30": 0.15,
+            "trend": 0.16,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Eevee-Heroes/Pikachu"
+      }
+    },
+    {
+      "id": "pk_50786147628e248f8db9d608346253dd64364ee65eae23dc9fc42239398cfa1506dd0b2adc8a2ef4533599a4878a31ef56b2ec09b67c24a7e27275",
+      "card_info": {
+        "name": "Pikachu V-UNION - 026/028 (Top Right)",
+        "clean_name": "Pikachu V UNION 026 028 Top Right",
+        "set_name": "S8a: 25th Anniversary Collection",
+        "set_code": "S8a",
+        "set_id": "23638",
+        "card_number": "026/028 (Top Right)",
+        "rarity": "Triple Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "V-UNION",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Union Gain<br> Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon.",
+          "[Lightning][Colorless] Shocking Shock (120)<br> Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[Lightning][Lightning][Colorless] Disconnect (150)<br> During your opponent's next turn, they can't play any Item cards from their hand."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9,
+            "mid_price": 9.6,
+            "high_price": 14.26,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 9.14,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571818"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu V-UNION",
+        "prices": [
+          {
+            "avg": 5.8,
+            "low": 3.8,
+            "avg1": 3.85,
+            "avg7": 5.57,
+            "avg30": 6.18,
+            "trend": 4.22,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V-UNION-V2"
+      }
+    },
+    {
+      "id": "pk_17b6924043811c1c9bb1569c50954bebe0ba0334ad6cb21ab1250bbd417a0c9835f7a0e8eee93365917ff9dacf54f0",
+      "card_info": {
+        "name": "Youngster",
+        "clean_name": "Youngster",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "026/030",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.49,
+            "high_price": 1,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593350"
+      },
+      "cardmarket": {
+        "product_name": "Youngster",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 0.24,
+            "avg30": 0.25,
+            "trend": 0.42,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Youngster-WCS23026"
+      }
+    },
+    {
+      "id": "pk_28050c9127c83e155f77e557ad66fbdda1fdc7f1a65f4a3be8be60a2d21c2dc518104b5c8ba817ca5b6e23e584a2",
+      "card_info": {
+        "name": "Ash's Pikachu GX",
+        "clean_name": "Ashs Pikachu GX",
+        "set_name": "smD: Ash vs Team Rocket Deck Kit",
+        "set_code": "smD",
+        "set_id": "23883",
+        "card_number": "005/026",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Quick Attack (20+)<br> Flip a coin. If heads, this attack does 20 more damage.",
+          "[Lightning][Lightning][Colorless] Electro Ball (100)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Metal -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 279.99,
+            "mid_price": 302.5,
+            "high_price": 325,
+            "updated_at": "2026-10-10T10:53:24.334751",
+            "market_price": 301.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/598634"
+      },
+      "cardmarket": {
+        "product_name": "Ash's Pikachu GX",
+        "prices": [
+          {
+            "avg": 200,
+            "low": 97.99,
+            "avg1": 200,
+            "avg7": 389.74,
+            "avg30": 242.84,
+            "trend": 421.72,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ash-vs-Team-Rocket-Deck-Kit/Ashs-Pikachu-GX"
+      }
+    },
+    {
+      "id": "pk_63a1504c2c72df2acfba9200b95ab39f34a4f41f1a23ecb289649d2386fd3f746c1265e987d5a6b91f32f6bb0fa6f5",
+      "card_info": {
+        "name": "Pikachu - 026/128",
+        "clean_name": "Pikachu 026 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "026/128",
+        "rarity": "Pikachu Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Peer At\r\n<br>Your opponent reveals their hand."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 1.1,
+            "high_price": 49.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/712936"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (30C 026)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.94,
+            "low": 0.2,
+            "avg1": 1.45,
+            "avg7": 1.58,
+            "avg30": 1.94,
+            "trend": 1.42,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-30C026"
+      }
+    },
+    {
+      "id": "pk_173b28c873da25a85264b303e20e7d8bcc2e5e8c4427ba99ff26999eaf11f48508001f59287bf953645ae203305172",
+      "card_info": {
+        "name": "Pikachu - 026/103",
+        "clean_name": "Pikachu 026 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "026/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Scurry About<br> Switch this Pokemon with 1 of your Benched Pokemon."
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 2.87,
+            "high_price": 15,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716828"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (m6a 026)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2.67,
+            "low": 1.4,
+            "avg1": 1.77,
+            "avg7": 1.95,
+            "avg30": 2.73,
+            "trend": 1.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Pikachu-m6a026"
+      }
+    },
+    {
+      "id": "8cdad0ef6fdec25d46acb2aeb712dd8528fc05e87e98bb20ce7eac0ca838bcca",
+      "card_info": {
+        "name": "Pikachu (30thC 026)",
+        "set_code": "30thC",
+        "set_id": "-245",
+        "card_number": "26.0",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Pikachu (30thC 026)",
+        "prices": [
+          {
+            "avg": 4,
+            "low": 0.39,
+            "avg1": 0.72,
+            "avg7": 0.66,
+            "avg30": 0.87,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-Simplified-Chinese/Pikachu-30thC026"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 12,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 12,
+    "tcg": 11,
+    "cardmarket": 7,
+    "tcg_only": 5,
+    "cardmarket_only": 1,
+    "both_sources": 6
+  }
+}

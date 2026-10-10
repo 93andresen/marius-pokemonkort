@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Grass+Energy+99&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:31:03 GMT
+Content-Type: application/json
+Content-Length: 4964
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 985
+X-RateLimit-Remaining-Hour: 85
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=q2SFerKhm2i4bJTTNDv5FAG%2BifgBffgHa3rPm6XOd5qMW5b7n8yacS4PA027VGeROZayYP%2FmHkg1%2Bv%2B4Uu3yAzA%2FLVhM82z5AtdaDAzB3ZeTTliL%2F6iJ%2Fq2M6lLln3jNSeBAz5qf3uE8I5dp6La6AA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854be62c7eb518-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,111 @@
+========================================================================================
+FINN price  |  107 record(s)  |  offline=False  max_calls=92  index=yes
+========================================================================================
+  [1/107] 'Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)'
+        cards: 50/57 priced  partial=True
+        deal: basis=card_list_sum asking=100 market=47522 ratio=475.22 delta=-47422
+        calls=15 cache=True
+  [2/107] 'Grass Energy #99 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=False
+  [3/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=1 cache=False
+  [4/107] 'Fire Energy #98 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=False
+  [5/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=1 cache=True
+  [6/107] 'Grass Energy #99 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=True
+  [7/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=0 cache=True
+  [8/107] 'One Piece OP- 17 og OP- 14 Bulk'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [9/107] 'Water Energy #102 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=False
+  [10/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=0 cache=True
+  [11/107] 'Grass Energy #99 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=0 cache=True
+  [12/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=0 cache=True
+  [13/107] 'Water Energy #102 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=1 cache=True
+  [14/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=0 cache=True
+  [15/107] 'Grass Energy #99 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=5 ratio=None delta=None
+        calls=0 cache=True
+  [16/107] 'Psychic Energy #101 Base Set (1999)'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=7 ratio=None delta=None
+        calls=0 cache=True
+  [17/107] 'Rocket’s Hideout 63/64 - Pokemon Neo Revelation'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=431 ratio=None delta=None
+        calls=2 cache=False
+  [18/107] 'Rocket’s Sneak Attack 72/82 - Pokemon Team Rocket'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=132 ratio=None delta=None
+        calls=2 cache=False
+  [19/107] 'Pokémon-kortsamling charizard,blastoise,venusaur ++'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [20/107] 'Pokemon Zapdos ex Team Rocket Returns'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=1250 market=None ratio=None delta=None
+        calls=1 cache=False
+  [21/107] 'Pikachu 58/102 – Base Set Unlimited – engelsk Pokémonkort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [22/107] 'Pikachu 58/102 – Base Set 1999–2000 (4th print) – engelsk Pokémonkort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [23/107] 'Pikachu 60/64 – Jungle Unlimited – engelsk Pokémonkort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [24/107] 'Pikachu 87/130 – Base Set 2 Unlimited – engelsk Pokémonkort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [25/107] 'Pokemon Gold Star Entei BGS 8.5'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=40000 market=None ratio=None delta=None
+        calls=0 cache=True
+  [26/107] 'Pokemon 30th kort'
+        cards: 0/1 priced  partial=True
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [27/107] 'Umbreon ex 92/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=20 market=12 ratio=0.6 delta=8
+        calls=1 cache=False

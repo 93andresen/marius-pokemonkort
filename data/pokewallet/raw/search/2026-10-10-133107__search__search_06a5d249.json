@@ -1,0 +1,673 @@
+{
+  "query": "Base Set 99",
+  "results": [
+    {
+      "id": "pk_e68709f821951561338d3e037be47667bffaf0021a2433a5968a68796fce4432188c481ca0b0861c2deca6b3",
+      "card_info": {
+        "name": "Vulpix",
+        "clean_name": "Vulpix",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "099/130",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RR] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused."
+        ],
+        "weakness": "W",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.95,
+            "high_price": 96.96,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.98,
+            "direct_low_price": 1.97,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42550"
+      },
+      "cardmarket": {
+        "product_name": "Vulpix",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.15,
+            "avg7": 0.15,
+            "avg30": 0.15,
+            "trend": 0.15,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.04,
+            "low": 0.2,
+            "avg1": 0.3,
+            "avg7": 0.83,
+            "avg30": 0.93,
+            "trend": 0.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Vulpix-B299"
+      }
+    },
+    {
+      "id": "pk_38b176fa16c7e9d3ed7c477a8b6c6cdfbe0646fdc4f7410131bc9327ac08caf5e8d11d5018176bcfc278b8d81d1b",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "099/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.99,
+            "mid_price": 117.65,
+            "high_price": 137.08,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 26.66,
+            "direct_low_price": 117.65,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.75,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.15,
+            "direct_low_price": 0.7,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107095"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_33fba3eab5bd50c363110ef6e5f1f4ddf868f159a2680161099572002a11ab9c86fec5ba2240a27ccf6bc1ae",
+      "card_info": {
+        "name": "Grass Energy",
+        "clean_name": "Grass Energy",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "099/102",
+        "rarity": "Common",
+        "card_type": "Basic Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.36,
+            "high_price": 8.44,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.46,
+            "direct_low_price": 0.27,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42443"
+      },
+      "cardmarket": {
+        "product_name": "Grass Energy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 4,
+            "avg7": 3.16,
+            "avg30": 3.16,
+            "trend": 5.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.24,
+            "avg30": 0.32,
+            "trend": 0.44,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Grass-Energy-V1-BS99"
+      }
+    },
+    {
+      "id": "pk_9d448be29eb0c10ef36959a71cbaa2cd120acafd91504f5383fcd94a7494b4a442e73ed8fbf5e5459c6c8630e806",
+      "card_info": {
+        "name": "Kangaskhan - 99/149 (SM Base Set)",
+        "clean_name": "Kangaskhan 99 149 SM Base Set",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "099/149",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Cross-Cut (30+)\r\n<br>\r\nIf your opponent's Active Pokémon is an Evolved Pokémon, this attack does 30 more damage.",
+          "[4] Hurricane Punch (50x)\r\n<br>\r\nFlip 4 coins. This attack does 50 damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.45,
+            "high_price": 16.48,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.44,
+            "direct_low_price": 0.44,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131301"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e80587801d54bb00c6125aa1ca44f7acf2fcb5e88242bba596d2002d12ff85da55ed3be5b88a5955e96635d2d9f6",
+      "card_info": {
+        "name": "Kangaskhan",
+        "clean_name": "Kangaskhan",
+        "set_name": "SM Base Set",
+        "set_code": "SM01",
+        "set_id": "1863",
+        "card_number": "99/149",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Cross-Cut (30+) <br>If your opponent's Active Pokemon is an Evolved Pokemon, this attack does 30 more damage.",
+          "[4] Hurricane Punch (50x) <br>Flip 4 coins. This attack does 50 damage times the number of heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.46,
+            "high_price": 11.7,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.44,
+            "direct_low_price": 0.55,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.44,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 0.4,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126971"
+      },
+      "cardmarket": {
+        "product_name": "Kangaskhan",
+        "prices": [
+          {
+            "avg": 0.6,
+            "low": 0.03,
+            "avg1": 0.39,
+            "avg7": 0.69,
+            "avg30": 0.63,
+            "trend": 0.83,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.54,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.4,
+            "avg30": 0.57,
+            "trend": 0.4,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Kangaskhan-V1-SUM99"
+      }
+    },
+    {
+      "id": "pk_ebd5ec7b93e86fe126c5a52407dfcd93803a1da5adbabd0a408266575dab5b76bc2eb1fb2ee20a84041968656b216d",
+      "card_info": {
+        "name": "Dachsbun",
+        "clean_name": "Dachsbun",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "099/198",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Well-Baked Body</strong>\r\n<br>Prevent all damage done to this Pokémon by attacks from your opponent’s [R] Pokémon. This Pokémon cannot be Burned.",
+        "attacks": [
+          "[2P] Headbutt Bounce (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/487971"
+      },
+      "cardmarket": {
+        "product_name": "Dachsbun",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.1,
+            "avg30": 0.05,
+            "trend": 0.07,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.18,
+            "avg30": 0.17,
+            "trend": 0.16,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Dachsbun-SVI099"
+      }
+    },
+    {
+      "id": "pk_7e23105b6007d8e952ea0d403b659883de133bfd243525a37e156b51a9719ed3c3f2cda5d69abd7e56a32fc3776cd0a1",
+      "card_info": {
+        "name": "Tarountula - 199/198",
+        "clean_name": "Tarountula",
+        "set_name": "SV01: Scarlet & Violet Base Set",
+        "set_code": "SVI",
+        "set_id": "22873",
+        "card_number": "199/198",
+        "rarity": "Illustration Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Surprise Attack (30)\r\n<br>Flip a coin, if tails this attack fails."
+        ],
+        "weakness": "Rx2",
+        "resistance": "none",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.89,
+            "mid_price": 13.61,
+            "high_price": 500,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 12.61,
+            "direct_low_price": 14.53,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490293"
+      },
+      "cardmarket": {
+        "product_name": "Tarountula",
+        "prices": [
+          {
+            "avg": 6.78,
+            "low": 2,
+            "avg1": 6.09,
+            "avg7": 6.98,
+            "avg30": 6.86,
+            "trend": 7.16,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Tarountula-V2-SVI199"
+      }
+    },
+    {
+      "id": "pk_ec06e3ae7767d4d8dae6d840a54c63fc3beae49c3b9314a132b75262b38f19657482b91959174405a71ace15fd0d",
+      "card_info": {
+        "name": "Rhyperior",
+        "clean_name": "Rhyperior",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "099/202",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2F] Rock Tumble (90)\r\n<br>This attack's damage isn't affected by Resistance.",
+          "[2FF] Bedrock Shake (120)\r\n<br>This attack also does 60 damage to each Benched Pokemon that has any damage counters on it <em>(both yours and your opponent's)</em>. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.41,
+            "high_price": 7.6,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.41,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.52,
+            "high_price": 10.2,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.51,
+            "direct_low_price": 0.35,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208408"
+      },
+      "cardmarket": {
+        "product_name": "Rhyperior",
+        "prices": [
+          {
+            "avg": 0.65,
+            "low": 0.2,
+            "avg1": 0.99,
+            "avg7": 0.63,
+            "avg30": 0.64,
+            "trend": 0.63,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.8,
+            "low": 0.3,
+            "avg1": 0.67,
+            "avg7": 0.79,
+            "avg30": 0.82,
+            "trend": 0.63,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rhyperior-SSH99"
+      }
+    },
+    {
+      "id": "pk_05edcd3a3ad2239a1b4887ff90fe13ee2118141a9f60d77ba670d1eef806b72493d0ddfd2d2bf2b14163720613fb81",
+      "card_info": {
+        "name": "Bede (Full Art)",
+        "clean_name": "Bede Full Art",
+        "set_name": "SWSH01: Sword & Shield Base Set",
+        "set_code": "SWSH01",
+        "set_id": "2585",
+        "card_number": "199/202",
+        "rarity": "Ultra Rare",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose a Basic Energy card from your hand and attach it to 1 of your Benched Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.35,
+            "mid_price": 3.48,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 3.11,
+            "direct_low_price": 3.59,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/208482"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1cae73a7fa3f99a6157f2c40fb2c0f117abd6500c0c4f8689e3ed281573df1c7663b9566c4d14091442442232b",
+      "card_info": {
+        "name": "Dodrio",
+        "clean_name": "Dodrio",
+        "set_name": "XY Base Set",
+        "set_code": "XY",
+        "set_id": "1387",
+        "card_number": "99/146",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Rage (20+) This attack does 10 more damage for each damage counter on this Pokemon.",
+          "[3] Endeavor (50+) Flip 2 coins.  This attack does 20 more damage for each heads."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 16.84,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.31,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.3,
+            "mid_price": 0.74,
+            "high_price": 23.49,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 0.69,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84856"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 10,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 10,
+    "tcg": 10,
+    "cardmarket": 6,
+    "tcg_only": 4,
+    "cardmarket_only": 0,
+    "both_sources": 6
+  }
+}

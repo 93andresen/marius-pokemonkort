@@ -1,0 +1,1278 @@
+{
+  "query": "Pikachu 60",
+  "results": [
+    {
+      "id": "pk_1381319c378a6e88359b0d6208d58ad243213f308debcbe2344f064428a74a335ab7dc056cb83e178db754d7",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "087/130",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.45,
+            "high_price": 24.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.04,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42538"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.05,
+            "avg7": 3,
+            "avg30": 3,
+            "trend": 2.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.12,
+            "low": 0.55,
+            "avg1": 1.5,
+            "avg7": 1.99,
+            "avg30": 6.31,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Pikachu-B287"
+      }
+    },
+    {
+      "id": "pk_25f404f23fc742cedbecc9f124cd4ce940eae98f175f66f0199b55b6ef6712372e947bd568d7442b9cb43082",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "058/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.17,
+            "mid_price": 6.14,
+            "high_price": 1000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 10.05,
+            "direct_low_price": 7.52,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42402"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 7.75,
+            "low": 0.1,
+            "avg1": 5.26,
+            "avg7": 36.94,
+            "avg30": 16.34,
+            "trend": 42.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 42.86,
+            "avg30": 22.72,
+            "trend": 36.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pikachu-V1-BS58"
+      }
+    },
+    {
+      "id": "pk_e22d1a3871ac65479e8bf9775ea0bc8f66dc1a1b84cf0d6d3621f3cfbe84725436973c107deb91cde38c6b75851e",
+      "card_info": {
+        "name": "Pikachu V - 043/185 (#60 Pikachu Stamped)",
+        "clean_name": "Pikachu V 043 185 60 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "043/185",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Charge\r\n<br>Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "[1LL] Thunderbolt (200)\r\n<br>Discard all Energy from this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 5.08,
+            "high_price": 39.62,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 4.83,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268213"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu V",
+        "prices": [
+          {
+            "avg": 3.83,
+            "low": 1.94,
+            "avg1": 5,
+            "avg7": 5.12,
+            "avg30": 4.41,
+            "trend": 4.39,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:59.920982",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2022/Pikachu-V-VIV43"
+      }
+    },
+    {
+      "id": "pk_483e145e34ce9a6ef081a14381e28c46d734667f747e73cfdd5a0ad5069cc52bdfc2a977acac46ae2a1944bd",
+      "card_info": {
+        "name": "Pikachu ex (Pikachu 60)",
+        "clean_name": "Pikachu ex Pikachu 60",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "106",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLC] Thunderbolt (120)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.61,
+            "mid_price": 12.44,
+            "high_price": 166.22,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 11.87,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556443"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 8.16,
+            "low": 7.8,
+            "avg1": 8.5,
+            "avg7": 9,
+            "avg30": 12.16,
+            "trend": 10.82,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Pikachu-ex-BA24P60"
+      }
+    },
+    {
+      "id": "pk_61bb7ca9a6e105925c63a51a7cb50064929045c255439582e908c157bfd1fb1c20049fed44baef6998214b7dfe71",
+      "card_info": {
+        "name": "Raichu GX - 20/68 (#60 Pikachu Stamped)",
+        "clean_name": "Raichu GX 20 68 60 Pikachu Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "020/068",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "210.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Thunderbolt (120)",
+          "<span style=\"color:Teal\"><strong>[1LL] Spark Ball GX (200)</strong>\r\n<br><em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.7,
+            "mid_price": 2.86,
+            "high_price": 32.92,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 2.72,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219163"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1c5621560fee4c10a6ff32a32e1ba2b6ea084b1b57fcba9eba4152adde047522f1ff61c3520ebc8d902f3250cb89dcf3",
+      "card_info": {
+        "name": "Pikachu (Secret)",
+        "clean_name": "Pikachu Secret",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "160/159",
+        "rarity": "Secret Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Wild Charge (90)\r\n<br>This Pokémon also does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.41,
+            "mid_price": 49.03,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 40.68,
+            "direct_low_price": 43.52,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478103"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 56.74,
+            "low": 30,
+            "avg1": 41.17,
+            "avg7": 53.44,
+            "avg30": 54.85,
+            "trend": 47.3,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Pikachu-CRZ160"
+      }
+    },
+    {
+      "id": "pk_4ca036ef734a0131995c328b90f20ea8abdd593608bb006c88e9ab606b2a6c31b41c15edabcdd50c82c5d1abee",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Emerald",
+        "set_code": "EM",
+        "set_id": "1410",
+        "card_number": "60/106",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Pika Ball (10)",
+          "[2] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.95,
+            "mid_price": 16.09,
+            "high_price": 148.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 16.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 198.78,
+            "mid_price": 599.39,
+            "high_price": 999.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 599.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88080"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 1261,
+            "low": 40,
+            "avg1": 107.5,
+            "avg7": 872.5,
+            "avg30": 337.99,
+            "trend": 807.53,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.98,
+            "low": 0.1,
+            "avg1": 2.65,
+            "avg7": 3.59,
+            "avg30": 5.08,
+            "trend": 4.38,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Pikachu-EM60"
+      }
+    },
+    {
+      "id": "pk_a233b6ff17fdae340a8a103d5be22e57743c72a1a97f3ebf29c31192f7b4a1347570ddf154a56ecb14c427",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Jungle",
+        "set_code": "JU",
+        "set_id": "635",
+        "card_number": "60/64",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LL] Spark (20)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 18.39,
+            "mid_price": 27.99,
+            "high_price": 325.04,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 28.87,
+            "direct_low_price": 29.98,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 0.89,
+            "mid_price": 4.49,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 4.7,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/45163"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.75,
+            "avg7": 17.97,
+            "avg30": 10.49,
+            "trend": 20.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.8,
+            "low": 0.05,
+            "avg1": 1.23,
+            "avg7": 4.62,
+            "avg30": 3.78,
+            "trend": 5.63,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pikachu-JU60"
+      }
+    },
+    {
+      "id": "pk_715e9d0041afd41b285f5751692eaf4127fcc7c25cb42449856abd8719b2aa6a7f4104a10e0b088516a03a86acb0",
+      "card_info": {
+        "name": "Pikachu - 60/106 (SDCC 2005)",
+        "clean_name": "Pikachu 60 106 SDCC 2005",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "060/106",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Pika Ball (10)",
+          "[2] Thundershock (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4321,
+            "mid_price": 4321,
+            "high_price": 4321,
+            "updated_at": "2026-10-07T11:54:43.295503",
+            "market_price": 300.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/187217"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_452e0a0195a9c8d6d5aaf6ea3f0e5a831e59277f64feb18db91e0e6782dfc4025c7e4c257c15fb101314",
+      "card_info": {
+        "name": "Pikachu (Jungle)",
+        "clean_name": "Pikachu Jungle",
+        "set_name": "Pikachu World Collection Promos",
+        "set_code": "PWCP",
+        "set_id": "2205",
+        "card_number": "60",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "<em><span style=\"color:red\">This promotional card is printed in Chinese.</span></em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139.99,
+            "mid_price": 146.45,
+            "high_price": 599.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 49.66,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/161751"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 100,
+            "low": 55,
+            "avg1": 100,
+            "avg7": 51.77,
+            "avg30": 31.97,
+            "trend": 49.4,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pikachu-World-Collection/Pikachu-V15"
+      }
+    },
+    {
+      "id": "pk_e15cea359c157ab67c9ea53d680c5bfd853f9ceb8a773ac92515749904deaef395423c1ce8ac5310fc048a8747",
+      "card_info": {
+        "name": "Pikachu [W Stamped]",
+        "clean_name": "Pikachu W Stamped",
+        "set_name": "WoTC Promo",
+        "set_code": "PR",
+        "set_id": "1418",
+        "card_number": "60/64",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LL] Spark (20)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 114.72,
+            "mid_price": 274.11,
+            "high_price": 1299.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 234.03,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/126209"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.9,
+            "avg7": 8.41,
+            "avg30": 9.62,
+            "trend": 5.71,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 50.34,
+            "low": 8.98,
+            "avg1": 200,
+            "avg7": 75.19,
+            "avg30": 48.32,
+            "trend": 60.9,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/W-Promos/Pikachu-WPRJU-60"
+      }
+    },
+    {
+      "id": "pk_3d432408b2cd8af749db5c598271178e7cf1af49e58a00d21ea8b86a36cf6a6b55a037117b54b8c92eb05c5de01929f39c",
+      "card_info": {
+        "name": "Tohoku's Pikachu - 260/SV-P",
+        "clean_name": "Tohokus Pikachu 260 SV P",
+        "set_name": "SV-P Promotional Cards",
+        "set_code": "SV-P",
+        "set_id": "23779",
+        "card_number": "260/SV-P",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Renewal Open!<br> Draw 2 cards.",
+          "[Lightning][Colorless][Colorless] Dance Around (30+)<br> Flip a coin until you get tails. This attack does 30 damage for each heads."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Metal -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99,
+            "mid_price": 120.85,
+            "high_price": 299.99,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 126.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/650726"
+      },
+      "cardmarket": {
+        "product_name": "Tohoku's Pikachu",
+        "prices": [
+          {
+            "avg": 95.76,
+            "low": 60,
+            "avg1": 107.42,
+            "avg7": 85.82,
+            "avg30": 95.64,
+            "trend": 72.34,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 60,
+            "avg1": 149.9,
+            "avg7": 149.9,
+            "avg30": 149.9,
+            "trend": 149.9,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet-Promos/Tohokus-Pikachu-SV-P260"
+      }
+    },
+    {
+      "id": "pk_2cac7d3592a12e1cca16f47135faa4955e5318084f23dfe1c5cfdb5296260592f7133f1b5871dfa98a41be4c4967df",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "SV2D: Clay Burst",
+        "set_code": "SV2D",
+        "set_id": "23608",
+        "card_number": "017/071",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Growl<br> During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[Lightning][Colorless] Pika Bolt (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.33,
+            "high_price": 1,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/565879"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.07,
+            "trend": 0.09,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Clay-Burst/Pikachu-sv2D017"
+      }
+    },
+    {
+      "id": "pk_6078769ca03960f8c64e251f1d4521db7b5ddb92c89e77e95c9f0e35457c247d5c8d464b71005dd795fe40675b8e04",
+      "card_info": {
+        "name": "Pikachu - 055/190",
+        "clean_name": "Pikachu",
+        "set_name": "SV4a: Shiny Treasure ex",
+        "set_code": "SV4a",
+        "set_id": "23601",
+        "card_number": "055/190",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Growl<br> During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[Lightning][Colorless] Pika Bolt (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.29,
+            "high_price": 1.5,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/567428"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.17,
+            "avg30": 0.15,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.79,
+            "low": 0.8,
+            "avg1": 1.45,
+            "avg7": 1.68,
+            "avg30": 1.92,
+            "trend": 1.65,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Treasure-ex/Pikachu-V1-sv4a055"
+      }
+    },
+    {
+      "id": "pk_37fbe408b179159162231a0db75b3a23eecf8dc0959b587a7c08e312cfb6c5bb3151cce5669683c19f0b0dc3073b760f",
+      "card_info": {
+        "name": "Pikachu - 236/190",
+        "clean_name": "Pikachu",
+        "set_name": "SV4a: Shiny Treasure ex",
+        "set_code": "SV4a",
+        "set_id": "23601",
+        "card_number": "236/190",
+        "rarity": "Shiny Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Growl<br> During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[Lightning][Colorless] Pika Bolt (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 26.89,
+            "mid_price": 44.56,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 44.55,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/567637"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 40.39,
+            "low": 27,
+            "avg1": 42,
+            "avg7": 40.43,
+            "avg30": 53.07,
+            "trend": 33.87,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Treasure-ex/Pikachu-V2-sv4a236"
+      }
+    },
+    {
+      "id": "pk_40a8fc6696cdbc61ffb9c7067f16842927d8dc9ee8df1785811162557515450abe1909c7fece433265177df7d515f7",
+      "card_info": {
+        "name": "Pikachu - 055/190 (Mirror Holofoil)",
+        "clean_name": "Pikachu 055 190 Mirror Holofoil",
+        "set_name": "SV4a: Shiny Treasure ex",
+        "set_code": "SV4a",
+        "set_id": "23601",
+        "card_number": "055/190",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Growl<br> During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[Lightning][Colorless] Pika Bolt (30)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.5,
+            "mid_price": 8,
+            "high_price": 14.99,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 5.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/577325"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.17,
+            "avg30": 0.15,
+            "trend": 0.21,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.79,
+            "low": 0.8,
+            "avg1": 1.45,
+            "avg7": 1.68,
+            "avg30": 1.92,
+            "trend": 1.65,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shiny-Treasure-ex/Pikachu-V1-sv4a055"
+      }
+    },
+    {
+      "id": "pk_c9972ec30c4334ec931ff3c6c5a16f1c844b8de6e08ed5a4d9cb5ce73add8a02ae6b2ea64fc1da39e7a1923f61259d",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "XY-Bx: Collection X",
+        "set_code": "XY-Bx",
+        "set_id": "23914",
+        "card_number": "022/060",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Nuzzle<br> Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[Colorless][Colorless] Quick Attack (20+)<br> Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Metal -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21,
+            "mid_price": 27,
+            "high_price": 33,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 35,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 8,
+            "mid_price": 8.75,
+            "high_price": 9.5,
+            "updated_at": "2026-10-07T11:54:55.187295",
+            "market_price": 15.4,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/603100"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.69,
+            "low": 2.99,
+            "avg1": 23.95,
+            "avg7": 11.06,
+            "avg30": 10.1,
+            "trend": 7.49,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Collection-X/Pikachu"
+      }
+    },
+    {
+      "id": "pk_b6e58ef7706739186743cf0f8938d9143bb5ba51ad985cae09956440add68eb5d7c4c134e9418fad7b96cff36e375a21",
+      "card_info": {
+        "name": "Pikachu & Zekrom GX",
+        "clean_name": "Pikachu and Zekrom GX",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "160/103",
+        "rarity": null,
+        "card_type": null,
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "[Tag Team] When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 44,
+            "mid_price": 49.35,
+            "high_price": 54.29,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 49.35,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716978"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu & Zekrom GX (m6a 160)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 26.03,
+            "low": 21.79,
+            "avg1": 21.97,
+            "avg7": 23.98,
+            "avg30": 26.07,
+            "trend": 20.43,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Pikachu-Zekrom-GX-m6aTEU-160"
+      }
+    },
+    {
+      "id": "dd926d32769f2bfa127d59223b2870d2cb6ce92a20613be1b74bd3c8cc868897",
+      "card_info": {
+        "name": "Pikachu & Zekrom GX (30thC 160)",
+        "set_code": "30thC",
+        "set_id": "-245",
+        "card_number": "160.0",
+        "product_type": "card"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Pikachu & Zekrom GX (30thC 160)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 14.99,
+            "low": 14,
+            "avg1": 15.75,
+            "avg7": 15.79,
+            "avg30": 15.44,
+            "trend": 16.09,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-Simplified-Chinese/Pikachu-Zekrom-GX-30thC160"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 19,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 19,
+    "tcg": 18,
+    "cardmarket": 17,
+    "tcg_only": 2,
+    "cardmarket_only": 1,
+    "both_sources": 16
+  }
+}

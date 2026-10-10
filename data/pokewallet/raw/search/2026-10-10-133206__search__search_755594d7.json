@@ -1,0 +1,1383 @@
+{
+  "query": "Pikachu 023",
+  "results": [
+    {
+      "id": "pk_3b8a9a504257f287b358ba0bb519961cf1bed3d914ec814552da07c737e0e358722a417cc92cef7b07a0d811af04",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "McDonald's Promos 2023",
+        "set_code": "M23",
+        "set_id": "23306",
+        "card_number": "006/015",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Growl\r\n<br> During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)",
+          "[1L] Pika Bolt (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.45,
+            "mid_price": 9.62,
+            "high_price": 55.56,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 11.04,
+            "direct_low_price": 14.13,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/516517"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 1.79,
+            "low": 0.02,
+            "avg1": 2.58,
+            "avg7": 3.12,
+            "avg30": 2.6,
+            "trend": 1.96,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Match-Battle-2023/Pikachu-M23006"
+      }
+    },
+    {
+      "id": "pk_39b3ca391673aa7658b679bd20a2656ba338145c12d1750266f7a72a0cd9d57a871674695d27288d92a9a9c6bb0f4a",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Trick or Trade BOOster Bundle 2023",
+        "set_code": "TTBB23",
+        "set_id": "23266",
+        "card_number": "062/193",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Growl\r\n<br>During your opponent’s next turn, the Defending Pokemon’s attacks do 20 less damage (before applying Weakness and Resistance).",
+          "[1L] Pika Bolt (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.54,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/515654"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 0.98,
+            "low": 0.49,
+            "avg1": 2,
+            "avg7": 1.3,
+            "avg30": 1.1,
+            "trend": 1.43,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.46,
+            "low": 0.95,
+            "avg1": 0.45,
+            "avg7": 1.86,
+            "avg30": 1.21,
+            "trend": 1.61,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Trick-or-Trade-2023/Pikachu-BOO23PAL-062"
+      }
+    },
+    {
+      "id": "pk_f80ac67eadcf371bfbe3e22946d0a3b4638380d60c20dbc34522a4b77ae942ec74bc83db28b79911d80fd93d23086107c8",
+      "card_info": {
+        "name": "Pikachu - 023/ADV-P",
+        "clean_name": "Pikachu 023 ADV P",
+        "set_name": "ADV-P Promotional Cards",
+        "set_code": "ADV-P",
+        "set_id": "24140",
+        "card_number": "023/ADV-P",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Agility<br> Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn.",
+          "[Lightning][Colorless] Thundershock (20)<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/613631"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 149.99,
+            "low": 90,
+            "avg1": 149.99,
+            "avg7": 70.71,
+            "avg30": 38.04,
+            "trend": 66.12,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/ADV-Promos/Pikachu-V1"
+      }
+    },
+    {
+      "id": "pk_d4c0ec6cebc635bec03f6114e798f79ef7c9e023348115df18917443e5d86e2e072e9004ddff7fd8e990c2ecde9d41",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "BW3: Hail Blizzard",
+        "set_code": "BW3",
+        "set_id": "23897",
+        "card_number": "023/052",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Thundershock (10)<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[Colorless][Colorless] Tail Whap (20)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.99,
+            "mid_price": 14,
+            "high_price": 14.99,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 7,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 4.09,
+            "mid_price": 4.55,
+            "high_price": 5,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": 15,
+            "direct_low_price": null,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/601092"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 8.1,
+            "low": 2,
+            "avg1": 14.99,
+            "avg7": 8.9,
+            "avg30": 5.59,
+            "trend": 7.95,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hail-Blizzard/Pikachu"
+      }
+    },
+    {
+      "id": "pk_b585a69c31ff167eac1ddcef9244f81c82681431ebaa31d74228c96ed127150134650cc8fc086db1e0d9e57ea67961",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "L-P: Legends Promos",
+        "set_code": "L-P",
+        "set_id": "24023",
+        "card_number": "019/L-P",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Recharge<br> Flip a coin. If heads, search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward.",
+          "[Lightning][Lightning][Colorless][Colorless] Thunderbolt (100)<br> Discard all Energy attached to Pikachu."
+        ],
+        "weakness": "[Fighting] +10",
+        "resistance": "[Metal] -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/608558"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 3100,
+            "low": 900,
+            "avg1": 3100,
+            "avg7": 658.86,
+            "avg30": 475.94,
+            "trend": 882.61,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/L-P-Promos/Pikachu"
+      }
+    },
+    {
+      "id": "pk_c810bcaeeee2dc972d488fb12e5c128fcb4617577f6c3001844ba0b79ddcb24bc47fd0f391162383f83a22c1391d02",
+      "card_info": {
+        "name": "Shopping Pikachu",
+        "clean_name": "Shopping Pikachu",
+        "set_name": "L-P: Legends Promos",
+        "set_code": "L-P",
+        "set_id": "24023",
+        "card_number": "079/L-P",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Good Choice<br> Look at the three cards at the top of your deck. Add one of those cards to your hand. Return the remaining two cards to your deck, and shuffle.",
+          "[Lightning][Colorless][Colorless] Thundershock (30)<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": "[Metal] -20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 900,
+            "mid_price": 900,
+            "high_price": 900,
+            "updated_at": "2026-10-10T10:53:25.304995",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/608618"
+      },
+      "cardmarket": {
+        "product_name": "Shopping Pikachu",
+        "prices": [
+          {
+            "avg": 140.6,
+            "low": 150,
+            "avg1": 149.95,
+            "avg7": 96.11,
+            "avg30": 71.41,
+            "trend": 87.07,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/L-P-Promos/Shopping-Pikachu"
+      }
+    },
+    {
+      "id": "pk_8c1bb0fa365001c0400500fb5ce685c76fa6b34a2695186f2c0d5566e2045c089581b929e17dc2ceee60f084822d9b",
+      "card_info": {
+        "name": "Flying Pikachu V",
+        "clean_name": "Flying Pikachu V",
+        "set_name": "S8a: 25th Anniversary Collection",
+        "set_code": "S8a",
+        "set_id": "23638",
+        "card_number": "023/028",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Thunder Shock (20)<br> Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[Colorless][Colorless][Colorless] Fly (120)<br> Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        ],
+        "weakness": "Lightning x2",
+        "resistance": "Fighting -30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 12,
+            "high_price": 89.99,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 12.04,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/571815"
+      },
+      "cardmarket": {
+        "product_name": "Flying Pikachu V",
+        "prices": [
+          {
+            "avg": 5.15,
+            "low": 2.9,
+            "avg1": 3.95,
+            "avg7": 4.46,
+            "avg30": 6.2,
+            "trend": 3.2,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/25th-Anniversary-Collection/Flying-Pikachu-V"
+      }
+    },
+    {
+      "id": "pk_e4bbf492714b0276222c32b23e69ce008d01da9c7686d7c298aebf2034bf40f25c46c5862e93e5ca378c46824d3789",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "SV5M: Cyber Judge",
+        "set_code": "SV5M",
+        "set_id": "23613",
+        "card_number": "023/071",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Random Spark<br> This attack does 10 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.28,
+            "high_price": 5,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/566174"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:04.73528",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cyber-Judge/Pikachu-sv5M023"
+      }
+    },
+    {
+      "id": "pk_655d4fd27f0dbbbcae53e077d6a1858776023b3a791c92c9f3cb2fc127b2ee498fb970171c556d242f33aeac083f",
+      "card_info": {
+        "name": "Pikachu ex",
+        "clean_name": "Pikachu ex",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "001/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Pika Punch (30)",
+          "[Lightning][Lightning][Colorless] Dynamic Bolt (220)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 325,
+            "mid_price": 489.2,
+            "high_price": 699.99,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 380,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593325"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 431.5,
+            "low": 290,
+            "avg1": 330,
+            "avg7": 391.24,
+            "avg30": 439.2,
+            "trend": 392.41,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Pikachu-ex-WCS23001"
+      }
+    },
+    {
+      "id": "pk_528dd5159d451f46f45210f1b09af1767973eaafea6e9eb2884bc3b8ecd6f4bb06c679ed301d7cb118346214b788",
+      "card_info": {
+        "name": "Magnemite",
+        "clean_name": "Magnemite",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "002/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Magnetic Charge \n<br>Attach up to 2 Basic Lightning Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "[Lightning][Colorless] Speed Ball (20)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 0.49,
+            "high_price": 1,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593326"
+      },
+      "cardmarket": {
+        "product_name": "Magnemite",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": 0.1,
+            "avg7": 0.62,
+            "avg30": 0.66,
+            "trend": 0.14,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Magnemite-WCS23002"
+      }
+    },
+    {
+      "id": "pk_f12d5cc4578557779f9f535ed1e224f85cf3e282b9ae08ce716f13d85fd8bd40817bc6232c828f03253b79e3cada",
+      "card_info": {
+        "name": "Pawmi",
+        "clean_name": "Pawmi",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "003/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Static Shock (20)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.5,
+            "high_price": 2.49,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.47,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593327"
+      },
+      "cardmarket": {
+        "product_name": "Pawmi",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.15,
+            "avg1": 0.3,
+            "avg7": 0.46,
+            "avg30": 0.42,
+            "trend": 0.53,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Pawmi-WCS23003"
+      }
+    },
+    {
+      "id": "pk_ee766794fc8ac415c239bee57b43c9c1f8f49df14525052bdfe36ee159c8cff45efcdc9db42c1d3c58a1467fdefe",
+      "card_info": {
+        "name": "Pawmo",
+        "clean_name": "Pawmo",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "004/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Static Shock (20)",
+          "[Lightning][Lightning] Electrobullet (50)\n<br>This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.5,
+            "high_price": 3.79,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593328"
+      },
+      "cardmarket": {
+        "product_name": "Pawmo",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.15,
+            "avg1": 0.3,
+            "avg7": 0.43,
+            "avg30": 0.35,
+            "trend": 0.38,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Pawmo-WCS23004"
+      }
+    },
+    {
+      "id": "pk_8e3cac89a3252d1b7004cf71e056d71a5d78511e44770a33f3e629ba56a8dc6b265a7854828ca96214f742314f98",
+      "card_info": {
+        "name": "Pawmot",
+        "clean_name": "Pawmot",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "005/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Mach Bolt (40)",
+          "[Lightning][Lightning] Electric Fist (100)\n<br>This attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.74,
+            "mid_price": 0.98,
+            "high_price": 1,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.82,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593329"
+      },
+      "cardmarket": {
+        "product_name": "Pawmot",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.15,
+            "avg1": 0.18,
+            "avg7": 1.09,
+            "avg30": 1.52,
+            "trend": 0.62,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Pawmot-WCS23005"
+      }
+    },
+    {
+      "id": "pk_b69ed31a31e3d71e02903358ad9ce2498b469f51718ec3f3d2a6817b3930d43c94fc747e42c899443b1178cb8e40",
+      "card_info": {
+        "name": "Tadbulb",
+        "clean_name": "Tadbulb",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "006/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Thunder Wave (10)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.5,
+            "high_price": 1,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593330"
+      },
+      "cardmarket": {
+        "product_name": "Tadbulb",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.15,
+            "avg1": 0.1,
+            "avg7": 0.37,
+            "avg30": 0.3,
+            "trend": 0.37,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.15,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Tadbulb-WCS23006"
+      }
+    },
+    {
+      "id": "pk_268dababb018c56ecbbb4f31f20ce8f87d8b24c5803df2a82eac788bfdd71cc60881fb585611381d59f44c01f60f",
+      "card_info": {
+        "name": "Wattrel",
+        "clean_name": "Wattrel",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "007/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "5.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Collect",
+          "[Lightning][Colorless] Glide (20)"
+        ],
+        "weakness": "[Lightning]x2",
+        "resistance": "[Fighting]-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.66,
+            "high_price": 4.29,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.66,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593331"
+      },
+      "cardmarket": {
+        "product_name": "Wattrel",
+        "prices": [
+          {
+            "avg": 0.23,
+            "low": 0.09,
+            "avg1": 0.23,
+            "avg7": 0.31,
+            "avg30": 0.36,
+            "trend": 0.34,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.09,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Wattrel-WCS23007"
+      }
+    },
+    {
+      "id": "pk_954ad6e91ee58ba86ddd64629df9f45d21ff2177683e47b952213d492c5cb03d86211c63e56c5dc42399ead4424e",
+      "card_info": {
+        "name": "Kilowattrel",
+        "clean_name": "Kilowattrel",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "008/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Peck (20)",
+          "[Colorless][Colorless][Colorless] Jet Wing (150)\n<br>During your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "[Lightning]x2",
+        "resistance": "[Fighting]-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 0.5,
+            "high_price": 2.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593332"
+      },
+      "cardmarket": {
+        "product_name": "Kilowattrel",
+        "prices": [
+          {
+            "avg": 0.25,
+            "low": 0.09,
+            "avg1": 0.25,
+            "avg7": 0.35,
+            "avg30": 0.43,
+            "trend": 0.38,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.09,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Kilowattrel-WCS23008"
+      }
+    },
+    {
+      "id": "pk_cf83a7f7e0169c95613c85e99380f752fbb15a665503edf2616405df54ea62850e0ffebb7e996d3e30900e11b9b5",
+      "card_info": {
+        "name": "Miraidon",
+        "clean_name": "Miraidon",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "009/030",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Sharp Fang (30)",
+          "[Lightning][Lightning][Colorless] Lightning Laser (90)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.85,
+            "mid_price": 1,
+            "high_price": 1.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593333"
+      },
+      "cardmarket": {
+        "product_name": "Miraidon",
+        "prices": [
+          {
+            "avg": 1.6,
+            "low": 0.69,
+            "avg1": 1.6,
+            "avg7": 1.84,
+            "avg30": 3.73,
+            "trend": 1.03,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.69,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Miraidon-WCS23009"
+      }
+    },
+    {
+      "id": "pk_d6bfffdc821f2f08da28df0aa2e0eabfe0ba8870db57cb3273e1fea79871cf6136e4807230821e96bb0e386f51c08f",
+      "card_info": {
+        "name": "Mankey",
+        "clean_name": "Mankey",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "010/030",
+        "rarity": null,
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fighting] Monkey Beatdown (30)\n<br>This Pokémon also does 10 damage to itself."
+        ],
+        "weakness": "[Psychic]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.66,
+            "high_price": 3.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593334"
+      },
+      "cardmarket": {
+        "product_name": "Mankey",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.09,
+            "avg1": 0.09,
+            "avg7": 0.54,
+            "avg30": 0.56,
+            "trend": 0.5,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.09,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Mankey-WCS23010"
+      }
+    },
+    {
+      "id": "pk_1bc07c91d9c95a873254d8bb15deb3d01d2cce50a58ccd2d30b50c04e5be590c68419ef49f3e07830d3ce55acaee91",
+      "card_info": {
+        "name": "Primeape",
+        "clean_name": "Primeape",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "011/030",
+        "rarity": null,
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Fighting] Raging Punch (70)\n<br>This Pokémon does 20 damage to itself."
+        ],
+        "weakness": "[Psychic]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.66,
+            "mid_price": 0.78,
+            "high_price": 0.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593335"
+      },
+      "cardmarket": {
+        "product_name": "Primeape",
+        "prices": [
+          {
+            "avg": 0.99,
+            "low": 0.2,
+            "avg1": 0.99,
+            "avg7": 0.71,
+            "avg30": 0.69,
+            "trend": 0.57,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.2,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Primeape-WCS23011"
+      }
+    },
+    {
+      "id": "pk_316a542c6c1f05df85385c50f7c55fc04f60e056f148c852a37b2fbe65c87205a528934c3d9bd4daf43941d3ccb03d",
+      "card_info": {
+        "name": "Annihilape",
+        "clean_name": "Annihilape",
+        "set_name": "WCS23: 2023 World Championships Yokohama Deck: Pikachu",
+        "set_code": "WCS23",
+        "set_id": "23802",
+        "card_number": "012/030",
+        "rarity": null,
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Fighting] Raging Fist (70×)\n<br>This attack does 70 damage for each Prize card your opponent has taken.",
+          "[Fighting][Fighting] Dynamite Punch (170)\n<br>This Pokémon also does 50 damage to itself."
+        ],
+        "weakness": "[Psychic]x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 1.19,
+            "high_price": 1.38,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 1.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/593336"
+      },
+      "cardmarket": {
+        "product_name": "Annihilape",
+        "prices": [
+          {
+            "avg": 0.4,
+            "low": 0.2,
+            "avg1": 0.4,
+            "avg7": 0.56,
+            "avg30": 0.68,
+            "trend": 0.41,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.2,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/World-Championships-2023-Yokohama-Deck-Pikachu/Annihilape-WCS23012"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 44,
+    "total_pages": 3
+  },
+  "metadata": {
+    "total_count": 44,
+    "tcg": 43,
+    "cardmarket": 42,
+    "tcg_only": 2,
+    "cardmarket_only": 1,
+    "both_sources": 41
+  }
+}
