@@ -73,7 +73,7 @@ from typing import Any
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import finnlib as fl  # noqa: E402  (local sibling module)
 
-PARSER_VERSION = "finn_ad/1.0.0"
+PARSER_VERSION = "finn_ad/1.1.0"
 
 TRADE_LABELS = ["Til salgs", "Til leie", "Gis bort", "Ønskes kjøpt", "Auksjon"]
 STATUS_WORDS = ["Solgt", "Inaktiv", "Aktiv", "Reservert"]
@@ -105,6 +105,12 @@ _RE_CONDITION = re.compile(r"Tilstand[^<]{0,20}<[^>]*>(.*?)<", re.S | re.I)
 # The description DOM node appends a "show full description" UI control; the
 # real description ends right before it. Split once and keep the part before.
 _DESC_UI_MARKER = re.compile(r"Vis hele beskrivelsen|NB:\s*Knappen for", re.I)
+# The ad's own schema.org payload (``<script type="application/ld+json">``). Its
+# ``Product.offers.price`` is the asking price scoped to *this* ad, and ``sku`` is
+# the FINN-kode — a stable fallback when the ``Til salgs`` DOM label is missed.
+_RE_LDJSON = re.compile(
+    r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', re.S | re.I
+)
 
 
 # --------------------------------------------------------------------------- #
@@ -185,6 +191,49 @@ def extract_similar_ads(html: str) -> list[dict[str, Any]]:
     return out
 
 
+def extract_product_ldjson(html: str) -> dict[str, Any] | None:
+    """Return the ad's own schema.org ``Product`` block, or ``None``.
+
+    FINN embeds ``<script type="application/ld+json">`` with a ``Product`` whose
+    ``offers.price`` is the seller's asking price **scoped to this ad** (so, unlike
+    the ``Til salgs`` DOM label, it can never pick up a "Mer som dette" price — spec
+    §2.1), and whose ``sku`` equals the FINN-kode (a free identity cross-check).
+    A non-NOK ``priceCurrency`` is recorded but never coerced into ``price_nok``.
+    """
+    for m in _RE_LDJSON.finditer(html):
+        try:
+            obj = json.loads(m.group(1).strip())
+        except Exception:  # noqa: BLE001 - not JSON: try the next block
+            continue
+        nodes = obj if isinstance(obj, list) else [obj]
+        for node in nodes:
+            if not isinstance(node, dict) or str(node.get("@type") or "").lower() != "product":
+                continue
+            out: dict[str, Any] = {
+                "sku": None if node.get("sku") is None else str(node["sku"]).strip(),
+                "name": node.get("name"),
+                "url": node.get("url"),
+                "item_condition": node.get("itemCondition"),
+                "price_raw": None,
+                "price_currency": None,
+                "availability": None,
+                "price_nok": None,
+            }
+            offers = node.get("offers")
+            if isinstance(offers, list):
+                offers = next((o for o in offers if isinstance(o, dict)), None)
+            if isinstance(offers, dict):
+                out["price_raw"] = offers.get("price")
+                out["price_currency"] = offers.get("priceCurrency")
+                out["availability"] = offers.get("availability")
+                if out["price_currency"] in (None, "NOK"):
+                    out["price_nok"] = _parse_nok(
+                        None if out["price_raw"] is None else str(out["price_raw"])
+                    )
+            return out
+    return None
+
+
 def parse_ad(html: str, *, kode_hint: str | None = None) -> dict[str, Any]:
     """Parse a FINN ad page into a machine-read record (spec §2.1)."""
     result: dict[str, Any] = {"parser_version": PARSER_VERSION, "parsed_at": fl.iso_now()}
@@ -227,8 +276,21 @@ def parse_ad(html: str, *, kode_hint: str | None = None) -> dict[str, Any]:
         missing.append("finn_kode")
     result["kode_candidates"] = candidates
 
+    # --- schema.org payload (computed early: identity + title + price fallback) ---
+    ld = extract_product_ldjson(html)
+    result["ld_json"] = ld
+    if ld and ld.get("sku") and result.get("finn_kode") and ld["sku"] != result["finn_kode"]:
+        warnings.append(f"JSON-LD sku ({ld['sku']}) != FINN-kode ({result['finn_kode']})")
+
     # --- title + status ---
     title = _first(_RE_TITLE.search(html)) or _first(_RE_TITLE_ANY.search(html))
+    if title:
+        result["title_source"] = "dom"
+    elif ld and ld.get("name"):
+        title = str(ld["name"]).strip() or None
+        result["title_source"] = "ld+json"
+    else:
+        result["title_source"] = None
     result["title"] = title
     if not title:
         missing.append("title")
@@ -246,7 +308,7 @@ def parse_ad(html: str, *, kode_hint: str | None = None) -> dict[str, Any]:
                     break
     result["status"] = status
 
-    # --- trade type + price ---
+    # --- trade type + price (DOM label first, schema.org JSON-LD as fallback) ---
     tm = _RE_TRADE.search(html)
     if tm:
         result["trade_type"] = tm.group(1)
@@ -260,6 +322,11 @@ def parse_ad(html: str, *, kode_hint: str | None = None) -> dict[str, Any]:
         result["trade_type"] = None
         result["price_label"] = None
         result["price_nok"] = None
+    result["price_nok_source"] = "dom" if result["price_nok"] is not None else None
+    if result["price_nok"] is None and ld and ld.get("price_nok") is not None:
+        result["price_nok"] = ld["price_nok"]
+        result["price_nok_source"] = "ld+json"
+    if result["price_nok"] is None:
         missing.append("price_nok")
 
     # --- location / coordinates ---
@@ -558,6 +625,125 @@ def scrape_ad(
 
 
 # --------------------------------------------------------------------------- #
+# offline re-derive (replay the parser over saved raw captures — 0 requests)
+# --------------------------------------------------------------------------- #
+
+
+def newest_raw(folder: Path) -> Path | None:
+    """Return the newest ``raw/*.html`` capture (timestamped name ⇒ lexical order)."""
+    raw = folder / "raw"
+    if not raw.is_dir():
+        return None
+    files = sorted(p for p in raw.glob("*.html") if p.is_file())
+    return files[-1] if files else None
+
+
+# Fields that decide whether a re-derived view differs from the stored one. The
+# volatile ``parsed_at`` is deliberately excluded so a re-run is a no-op.
+_REDERIVE_KEYS = (
+    "finn_kode", "title", "title_source", "status", "trade_type", "price_label",
+    "price_nok", "price_nok_source", "location_text", "postal_code", "last_modified",
+    "gallery_count", "condition", "parse_quality", "missing_fields", "warnings",
+    "image_uuids", "description_raw",
+)
+
+
+def _rederive_signature(rec: dict[str, Any]) -> dict[str, Any]:
+    return {k: rec.get(k) for k in _REDERIVE_KEYS}
+
+
+def rederive_all(
+    root: Path, *, ts: str | None = None, log_dir: Path | None = None,
+    dry_run: bool = False, verbose: bool = True,
+) -> int:
+    """Re-derive every ad view from its newest saved raw HTML (offline, 0 requests).
+
+    The raw captures are the immutable source of truth; this replays the *current*
+    parser over them and refreshes each ``<kode>.json`` view **in place** — a
+    timestamped copy lands under ``parsed/`` first, so nothing is lost. Run it after
+    a parser fix (e.g. a new price anchor) to backfill every archived ad. Idempotent:
+    a re-run that changes nothing writes nothing.
+    """
+    ts = ts or fl.ts_now()
+    root = Path(root)
+    folders = sorted(p for p in root.iterdir() if p.is_dir()) if root.is_dir() else []
+    stats = {"ads": 0, "rederived": 0, "unchanged": 0, "skipped_no_raw": 0,
+             "price_recovered": 0, "title_recovered": 0, "ld_json": 0}
+    recovered: list[dict[str, Any]] = []
+    print("=" * 88)
+    print(f"REDERIVE  root={root}  ts={ts}  dry_run={dry_run}")
+    print("=" * 88)
+    for folder in folders:
+        kode = fl.canonical_kode(folder.name) or folder.name.split("_")[0]
+        raw = newest_raw(folder)
+        if raw is None:
+            stats["skipped_no_raw"] += 1
+            print(f"  {kode}: SKIP (no raw capture in {folder.name})")
+            continue
+        stats["ads"] += 1
+        rec = parse_ad(raw.read_text(encoding="utf-8"), kode_hint=kode)
+        rec["raw_capture"] = str(raw.relative_to(root)).replace("\\", "/")
+        if rec.get("ld_json"):
+            stats["ld_json"] += 1
+        view = folder / f"{rec.get('finn_kode') or kode}.json"
+        old: dict[str, Any] | None = None
+        if view.exists():
+            try:
+                old = json.loads(view.read_text(encoding="utf-8"))
+            except Exception as exc:  # noqa: BLE001 - unreadable view is loud, not fatal
+                print(f"  {kode}: WARNING existing view unreadable ({exc!r}); rewriting")
+        if isinstance(old, dict) and _rederive_signature(old) == _rederive_signature(rec):
+            stats["unchanged"] += 1
+            if verbose:
+                print(f"  {kode}: unchanged (price={rec.get('price_nok')!r})")
+            continue
+        old_price = old.get("price_nok") if isinstance(old, dict) else None
+        old_title = old.get("title") if isinstance(old, dict) else None
+        if old_price is None and rec.get("price_nok") is not None:
+            stats["price_recovered"] += 1
+        if not old_title and rec.get("title"):
+            stats["title_recovered"] += 1
+        stats["rederived"] += 1
+        recovered.append({
+            "finn_kode": rec.get("finn_kode") or kode,
+            "price_nok": rec.get("price_nok"),
+            "price_nok_source": rec.get("price_nok_source"),
+            "price_was": old_price,
+            "title": rec.get("title"),
+            "raw": rec["raw_capture"],
+        })
+        print(f"  {kode}: price {old_price!r} -> {rec.get('price_nok')!r} "
+              f"({rec.get('price_nok_source')})  title_was={old_title!r}")
+        if dry_run:
+            continue
+        parsed_dir = fl.ensure_dir(folder / "parsed")
+        fl.write_json(fl.unique_path(parsed_dir / f"{kode}_{ts}.json"), rec)
+        fl.write_json(view, rec)
+        manifest = load_manifest(folder)
+        if manifest:
+            manifest["parser_version"] = PARSER_VERSION
+            manifest["rederived_at"] = rec["parsed_at"]
+            manifest["latest"] = {
+                "title": rec.get("title"), "status": rec.get("status"),
+                "price_nok": rec.get("price_nok"), "trade_type": rec.get("trade_type"),
+                "location_text": rec.get("location_text"), "postal_code": rec.get("postal_code"),
+                "last_modified": rec.get("last_modified"), "gallery_count": rec.get("gallery_count"),
+                "parse_quality": rec.get("parse_quality"),
+            }
+            fl.write_json(folder / "manifest.json", manifest)
+    print("-" * 88)
+    print(f"REDERIVE DONE  ads={stats['ads']} rederived={stats['rederived']} "
+          f"unchanged={stats['unchanged']} skipped_no_raw={stats['skipped_no_raw']} "
+          f"ld_json={stats['ld_json']} price_recovered={stats['price_recovered']}")
+    if log_dir:
+        fl.append_jsonl(Path(log_dir) / "rederive.jsonl", {
+            "rederived_at": fl.iso_now(), "ts": ts, "dry_run": dry_run,
+            "stats": stats, "recovered": recovered,
+        })
+    return 0
+
+
+# --------------------------------------------------------------------------- #
 # CLI
 # --------------------------------------------------------------------------- #
 
@@ -621,11 +807,17 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--delay", type=float, default=1.0, help="base delay between requests (s)")
     parser.add_argument("--jitter", type=float, default=0.8, help="random jitter added to delay (s)")
     parser.add_argument("--dry-run", action="store_true", help="show what would be scraped; do nothing")
+    parser.add_argument("--reparse-all", action="store_true",
+                        help="offline: re-derive every ad view from its newest saved raw capture")
     parser.add_argument("--json", action="store_true", help="print the full parsed record(s) as JSON")
     args = parser.parse_args(argv)
 
     root = Path(args.outdir)
     log_dir = fl.ensure_dir(fl.DATA_FINN / "_log")
+
+    # ---- offline re-derive mode (rebuild every view from its saved raw capture) ----
+    if args.reparse_all:
+        return rederive_all(root, log_dir=log_dir, dry_run=args.dry_run, verbose=True)
 
     # ---- offline parse mode ----
     if args.parse:
