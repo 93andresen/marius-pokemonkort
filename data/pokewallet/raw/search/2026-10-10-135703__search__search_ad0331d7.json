@@ -1,0 +1,16 @@
+{
+  "error": "Rate limit exceeded",
+  "message": "Hourly limit exceeded",
+  "limits": {
+    "hourly": {
+      "limit": 100,
+      "used": 101,
+      "remaining": 0
+    },
+    "daily": {
+      "limit": 1000,
+      "used": 101,
+      "remaining": 899
+    }
+  }
+}
