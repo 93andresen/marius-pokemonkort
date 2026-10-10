@@ -159,7 +159,15 @@ function styleDataSheet(sh) {
   }
   sh.setFrozenRows(1);
 
-  // Zebra banding on the body
+  // Zebra banding on the body.
+  // Remove any existing banding FIRST: re-applying on a range that already has
+  // banding (or that now overlaps/extends a previously-banded range, e.g. after
+  // a header gains a column) throws
+  //   "You cannot add alternating background colors to a range that already
+  //    has alternating background colors."
+  // Clearing first makes this step idempotent, so formatEverything can be
+  // re-run any time the data (or the header width) changes.
+  sh.getBandings().forEach(function (b) { b.remove(); });
   if (lastRow >= 2) {
     sh.getRange(2, 1, lastRow - 1, lastCol)
       .applyRowBanding(SpreadsheetApp.BandingTheme.LIGHT_GREY, false, false);
@@ -301,6 +309,15 @@ function finnRules(sh, maxRow) {
     rules.push(textRule(s, 'Solgt', THEME.neutral.bg, THEME.neutral.fg, false));
     rules.push(textRule(s, 'Inaktiv', THEME.warn.bg, THEME.warn.fg, false));
     rules.push(textRule(s, 'Aktiv', THEME.good.bg, THEME.good.fg, false));
+  }
+  // Colour-code the trust verdict so a reader can see at a glance how much to
+  // trust the market value on the row (green = trust it, red = don't).
+  if (m['Confidence']) {
+    const c = sh.getRange(2, m['Confidence'], maxRow - 1, 1);
+    rules.push(textRule(c, 'high',   THEME.good.bg,    THEME.good.fg,    true));
+    rules.push(textRule(c, 'medium', THEME.warn.bg,    THEME.warn.fg,    false));
+    rules.push(textRule(c, 'low',    THEME.bad.bg,     THEME.bad.fg,     false));
+    rules.push(textRule(c, 'none',   THEME.neutral.bg, THEME.neutral.fg, false));
   }
   return rules;
 }
