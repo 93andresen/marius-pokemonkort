@@ -548,3 +548,8 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-10T11:33:42Z,search,/search,q=Sylveon+ex+071&limit=20,200,9,909,True,
 2026-10-10T11:56:50Z,search,/search,q=GX+EX+samlekort+holografisk+lot&limit=20,429,0,900,False,HTTP 429
 2026-10-10T11:57:03Z,search,/search,q=Kingdra+EX+samlekort&limit=20,429,0,899,False,HTTP 429
+2026-10-10T12:00:54Z,search,/search,q=Stort+vintage+salg+av+Rare&limit=20,200,92,890,True,
+2026-10-10T12:01:00Z,search,/search,q=Fastpris&limit=20,200,91,889,True,
+2026-10-10T12:01:03Z,search,/search,q=Venusaur+Base+Set&limit=20,200,89,887,True,
+2026-10-10T12:01:07Z,search,/search,q=Steelix+Base+Set&limit=20,200,87,885,True,
+2026-10-10T12:01:13Z,search,/search,q=Steelix&limit=20,200,85,883,True,

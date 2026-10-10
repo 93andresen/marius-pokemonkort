@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Fastpris&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 12:01:06 GMT
+Content-Type: application/json
+Content-Length: 196
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 889
+X-RateLimit-Remaining-Hour: 91
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WIoCHnrpYBot2pRwOF3e8yD0lgHItKkVXEDnrDE5PzNzIsHkc0V8CLVMlRlixoQaiQprWZbGd1GByBvJ2%2FzrBKzgEPCEELrjPlb22w7hxI%2F%2BnABN7yfTDXrql4KmIbF89kXeZgCXOErAg9WdjRVUNw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a48577c6fa9256c1-OSL
+alt-svc: h3=":443"; ma=86400
