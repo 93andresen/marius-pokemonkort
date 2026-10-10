@@ -1,0 +1,326 @@
+[
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-10T12:07:01Z",
+    "finn_kode": "458560266",
+    "url": null,
+    "heading": "Pokémon GX/EX samlekort japansk holografisk lot",
+    "finn_price_nok": 150,
+    "identify": {
+      "intent_rank": 0,
+      "intent": "none",
+      "matched_set_names": [],
+      "matched_card_names": []
+    },
+    "set_hints": [],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-10T12:07:01Z",
+      "finn_kode": "458560266",
+      "url": null,
+      "heading": "Pokémon GX/EX samlekort japansk holografisk lot",
+      "status": "Aktiv",
+      "location": "1666 Rolvsøy",
+      "finn_price_nok": 150,
+      "parsed": {
+        "card_name": "GX EX samlekort holografisk lot",
+        "card_number": null,
+        "set_hint": null,
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "GX EX samlekort holografisk lot"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=GX+EX+samlekort+holografisk+lot&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": 150,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 0,
+    "cache_hit": true,
+    "flags": [],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  },
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-10T12:07:02Z",
+    "finn_kode": "458643794",
+    "url": null,
+    "heading": "Pokémon Kingdra EX samlekort",
+    "finn_price_nok": null,
+    "identify": {
+      "intent_rank": 0,
+      "intent": "none",
+      "matched_set_names": [],
+      "matched_card_names": []
+    },
+    "set_hints": [],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-10T12:07:02Z",
+      "finn_kode": "458643794",
+      "url": null,
+      "heading": "Pokémon Kingdra EX samlekort",
+      "status": "Aktiv",
+      "location": "1410 Kolbotn",
+      "finn_price_nok": null,
+      "parsed": {
+        "card_name": "Kingdra EX samlekort",
+        "card_number": null,
+        "set_hint": null,
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "Kingdra EX samlekort"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Kingdra+EX+samlekort&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [],
+    "card_coverage": {
+      "total": 0,
+      "considered": 0,
+      "priced": 0,
+      "unpriced": 0
+    },
+    "partial_card_coverage": false,
+    "deal": {
+      "market_value_nok": null,
+      "asking_price_nok": null,
+      "delta_nok": null,
+      "ratio": null,
+      "basis": "none"
+    },
+    "calls_spent": 0,
+    "cache_hit": true,
+    "flags": [
+      "no asking price on the ad"
+    ],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  },
+  {
+    "price_version": "finn_price/1.0.0",
+    "generated_at": "2026-10-10T12:07:05Z",
+    "finn_kode": "475878513",
+    "url": null,
+    "heading": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+    "finn_price_nok": 100,
+    "identify": {
+      "intent_rank": 1,
+      "intent": "tier1-set",
+      "matched_set_names": [
+        "Base Set",
+        "Gym Challenge",
+        "Gym Heroes",
+        "Neo Revelation",
+        "Neo Destiny"
+      ],
+      "matched_card_names": [
+        "Gengar",
+        "Jolteon",
+        "Mew",
+        "Mewtwo"
+      ]
+    },
+    "set_hints": [
+      "Base Set",
+      "Gym Challenge",
+      "Gym Heroes",
+      "Neo Revelation",
+      "Neo Destiny"
+    ],
+    "listing": {
+      "parser_version": "finn_matcher/1.0.0",
+      "generated_at": "2026-10-10T12:07:02Z",
+      "finn_kode": "475878513",
+      "url": null,
+      "heading": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+      "status": "Inaktiv",
+      "location": "1366 Lysaker",
+      "finn_price_nok": 100,
+      "parsed": {
+        "card_name": "Stort vintage salg av Rare",
+        "card_number": null,
+        "set_hint": "Fastpris",
+        "variant_hint": null,
+        "year": null
+      },
+      "queries": [
+        "Stort vintage salg av Rare",
+        "Fastpris"
+      ],
+      "calls_spent": 0,
+      "cache_hit": true,
+      "candidates": [],
+      "best": null,
+      "value": null,
+      "pricecharting_url": "https://www.pricecharting.com/search-products?q=Stort+vintage+salg+av+Rare&type=prices",
+      "pricecharting_confirmed": false,
+      "notes": [
+        "Prices are PokeWallet market values (TCGPlayer USD / CardMarket EUR).",
+        "est_nok uses an APPROXIMATE fx rate and is marked estimated=true.",
+        "PriceCharting link is stored for reference only; unconfirmed until you confirm."
+      ]
+    },
+    "listing_confidence": "none",
+    "listing_value_nok": null,
+    "cards": [
+      {
+        "name": "Venusaur",
+        "count": 1,
+        "variants": [],
+        "line_index": 41,
+        "query": "Venusaur Base Set",
+        "queries": [
+          "Venusaur Base Set",
+          "Venusaur"
+        ],
+        "pk_id": "pk_eca357c108892d463afc353ddf38efed49459a1848247625f0ae54e557ea823532aa42a6a55b6669eb17399c",
+        "pk_name": "Venusaur",
+        "pk_set_name": "Base Set 2",
+        "pk_card_number": "018/130",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 114.77,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 1228,
+        "market_value_nok": 1228,
+        "priced": true
+      },
+      {
+        "name": "Steelix",
+        "count": 1,
+        "variants": [],
+        "line_index": 43,
+        "query": "Steelix Base Set",
+        "queries": [
+          "Steelix Base Set",
+          "Steelix"
+        ],
+        "pk_id": "pk_751158ab2c453b6ec0ce02032de365e355e27a4579a0617f0942248604fa60288977cbf23a1dc159ee7d89241bb6",
+        "pk_name": "Shining Steelix",
+        "pk_set_name": "Neo Destiny",
+        "pk_card_number": "112/105",
+        "score": 59,
+        "confidence": "medium",
+        "flags": [
+          "name_substr",
+          "set",
+          "has_price"
+        ],
+        "price_native": 562.5,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 6019,
+        "market_value_nok": 6019,
+        "priced": true
+      },
+      {
+        "name": "Dragonite",
+        "count": 1,
+        "variants": [],
+        "line_index": 45,
+        "query": "Dragonite Base Set",
+        "queries": [
+          "Dragonite Base Set",
+          "Dragonite"
+        ],
+        "pk_id": "pk_9a59e31180f1f335361e2a786a5bdf3e33ae1c37f096a0ec7891d9128bc8024476495026a2440c19eba2b545b529",
+        "pk_name": "Dragonite",
+        "pk_set_name": "SM Base Set",
+        "pk_card_number": "96/149",
+        "score": 65,
+        "confidence": "medium",
+        "flags": [
+          "name_exact",
+          "set",
+          "has_price"
+        ],
+        "price_native": 3.83,
+        "price_currency": "USD",
+        "price_source": "both",
+        "unit_market_value_nok": 41,
+        "market_value_nok": 41,
+        "priced": true
+      }
+    ],
+    "card_coverage": {
+      "total": 57,
+      "considered": 3,
+      "priced": 3,
+      "unpriced": 54
+    },
+    "partial_card_coverage": true,
+    "deal": {
+      "market_value_nok": 7288,
+      "asking_price_nok": 100,
+      "delta_nok": -7188,
+      "ratio": 72.88,
+      "basis": "card_list_sum"
+    },
+    "calls_spent": 1,
+    "cache_hit": true,
+    "flags": [
+      "priced only first 3 of 57 enumerated cards",
+      "card list only partially priced (3/57)"
+    ],
+    "notes": [
+      "Market values are PokeWallet values (TCGPlayer USD / CardMarket EUR).",
+      "NOK figures use an APPROXIMATE fx rate and are marked estimated.",
+      "ratio = market / asking (higher = better deal); delta_nok = asking - market."
+    ]
+  }
+]
