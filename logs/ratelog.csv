@@ -546,3 +546,4 @@ timestamp_utc,endpoint,path,query,status,remaining_hour,remaining_day,ok,error
 2026-10-10T11:33:38Z,search,/search,q=Stor+Pok%C3%A9mon-kortsamling+%2B+bokser+Selges+samlet&limit=20,200,11,911,True,
 2026-10-10T11:33:40Z,search,/search,q=Greninja+ex+21&limit=20,200,10,910,True,
 2026-10-10T11:33:42Z,search,/search,q=Sylveon+ex+071&limit=20,200,9,909,True,
+2026-10-10T11:56:50Z,search,/search,q=GX+EX+samlekort+holografisk+lot&limit=20,429,0,900,False,HTTP 429
