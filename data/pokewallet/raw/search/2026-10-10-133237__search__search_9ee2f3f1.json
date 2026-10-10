@@ -1,0 +1,988 @@
+{
+  "query": "Pikachu 17",
+  "results": [
+    {
+      "id": "pk_27d835c4cb64fda2fb7c6312830c00a16157c16af53cefa27a9fc082fa8cac3a296ac384478ca81467",
+      "card_info": {
+        "name": "Lightning Energy (#17 Pikachu Stamped)",
+        "clean_name": "Lightning Energy 17 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Lightning Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.21,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268196"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_50c806a136e1b87abc8b3760206a9193cd695fdf0140e00a2b7b69af2ff4ae4f2e6352312762b39b56d9c3dc2e0043",
+      "card_info": {
+        "name": "Potion - 177/202 (#18 Pikachu Stamped)",
+        "clean_name": "Potion 177 202 18 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "177/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268217"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4da93d3741934c0f0100fe2c4ac5bacccb8cac512f3ff5bb9b9576d5e4758b3d266748108c20a43a69f7e8586edf16",
+      "card_info": {
+        "name": "Potion - 177/202 (#40 Pikachu Stamped)",
+        "clean_name": "Potion 177 202 40 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "177/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268218"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4b85f95b4026734bad93fe6dde85c3ed1824bb15b245a049050b97c7d7b05f8624cb3c12a9ad004ab3f35242b8b8df83",
+      "card_info": {
+        "name": "Electric Generator - Pikachu 32",
+        "clean_name": "Electric Generator Pikachu 32",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "170/198",
+        "rarity": "Uncommon",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 5 cards of your deck and attach up to 2 basic [L] Energy cards you find there to your Benched [L] Pokemon in any way you like. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556884"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f15506f27ff7edeb5f61564c8c1d119e20897de177bc8fba50e198192afd871589782f9352360a0d46174a0b078aafdd",
+      "card_info": {
+        "name": "Jacq - Pikachu 51",
+        "clean_name": "Jacq Pikachu 51",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "175/198",
+        "rarity": "Uncommon",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Evolution Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.32,
+            "mid_price": 0.4,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556919"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_39afac2202376912a45df638cad2c76f0bf6815244f7bd6b34033c3b6c1eaaffd77188125a65937c288707de58cdcf",
+      "card_info": {
+        "name": "Wattrel - Pikachu 17",
+        "clean_name": "Wattrel Pikachu 17",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "077/193",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Collect\r\n<br>Draw a card.",
+          "[1L] Glide (20)"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.13,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556942"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_01883fb58364295f2e5847e43a3c1b137d3283b4036088eb2247d52e85bf20a25e1e76816b31f53273bd3bccecf812",
+      "card_info": {
+        "name": "Electropower - 172/214 (#34 Pikachu Stamped)",
+        "clean_name": "Electropower 172 214 34 Pikachu Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "172/214",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "During this turn, your Lightning Pokémon's attacks do 30 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.55,
+            "high_price": 75,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.56,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219128"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3ceafae0f78a104e80243bbd9b6e4a14290625d3e52c714cf5ca839a884842ec7c06a7e79fbf3b157a",
+      "card_info": {
+        "name": "Lightning Energy (#17 Pikachu Stamped)",
+        "clean_name": "Lightning Energy 17 Pikachu Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Lightning Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 13.94,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219144"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4627c28a27ffe7403f7628afcf47221abf2980c2db2bd172e5dfc3973923e0bab7053f2a8579a83aed28eb6312ed",
+      "card_info": {
+        "name": "Pikachu - 94/123 (Diamond & Pearl)",
+        "clean_name": "Pikachu 94 123 Diamond and Pearl",
+        "set_name": "Breakpoint",
+        "set_code": "BKP",
+        "set_id": "2175",
+        "card_number": "094/123",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Electro Recycle</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
+        "attacks": [
+          "[1L] BikaBika (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        ],
+        "weakness": "F+10",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 58.85,
+            "mid_price": 549.52,
+            "high_price": 1309.62,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 110.17,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/174062"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5e020b6ac1da4602b742064a094b24cd2df4dfac808c68d567f0525cbd6fab89e9d3f669e0df0a7ffa642732acb6",
+      "card_info": {
+        "name": "Pikachu - 70/100 [Platinum]",
+        "clean_name": "Pikachu 70 100 Platinum",
+        "set_name": "Breakpoint",
+        "set_code": "BKP",
+        "set_id": "2175",
+        "card_number": "070/100",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "[2L] Volt Tackle (50)\r\n<br>Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F+10",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.43,
+            "mid_price": 38,
+            "high_price": 291.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 55.28,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/224679"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1c5621560fee4c10a6ff32a32e1ba2b6ea084b1b57fcba9eba4152adde047522f1ff61c3520ebc8d902f3250cb89dcf3",
+      "card_info": {
+        "name": "Pikachu (Secret)",
+        "clean_name": "Pikachu Secret",
+        "set_name": "Crown Zenith",
+        "set_code": "CRZ",
+        "set_id": "17688",
+        "card_number": "160/159",
+        "rarity": "Secret Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1LL] Wild Charge (90)\r\n<br>This Pokémon also does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.41,
+            "mid_price": 49.03,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 40.68,
+            "direct_low_price": 43.52,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478103"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 56.74,
+            "low": 30,
+            "avg1": 41.17,
+            "avg7": 53.44,
+            "avg30": 54.85,
+            "trend": 47.3,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Pikachu-CRZ160"
+      }
+    },
+    {
+      "id": "pk_493896d5bb12a29e2b24e316b70572f24b399401c06271ce8b37ccb82cccd18434dd13df24ecc64da949e1f06945d9863772",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Crown Zenith: Galarian Gallery",
+        "set_code": "CRZ:GG",
+        "set_id": "17689",
+        "card_number": "GG30/GG70",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Pika Dash</strong>\r\n<br>If this Pokémon has any Energy attached, it has no Retreat Cost.",
+        "attacks": [
+          "[2L] Whimsy Tackle (50)\r\n<br>Flip a coin. If tails, this attack does nothing."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.25,
+            "mid_price": 44.28,
+            "high_price": 2000,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 38.37,
+            "direct_low_price": 38,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478058"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e61c7e29f374fbeba31523edc92dcde516d46b31a09f57f2f4bf4085056ff5761c582ac36758fa2af7767cfc07",
+      "card_info": {
+        "name": "Ditto",
+        "clean_name": "Ditto",
+        "set_name": "Detective Pikachu",
+        "set_code": "DEP",
+        "set_id": "2409",
+        "card_number": "17/18",
+        "rarity": "Holo Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Copy Anything\r\n<br>Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 13.24,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 13.68,
+            "direct_low_price": 29.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/186025"
+      },
+      "cardmarket": {
+        "product_name": "Ditto",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.73,
+            "avg7": 5.59,
+            "avg30": 6.54,
+            "trend": 6.08,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 6.77,
+            "low": 2,
+            "avg1": 6,
+            "avg7": 6.29,
+            "avg30": 6.98,
+            "trend": 6.47,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ditto-DET17"
+      }
+    },
+    {
+      "id": "pk_5c40c30dae505e401efe0a79d94dc6ab14b5eddaa38aa26dcadf395fd797badb0c88c24266d6e05300f061720e",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "26/83",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nuzzle \r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.08,
+            "mid_price": 3.49,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.55,
+            "direct_low_price": 2.57,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 22.39,
+            "high_price": 149.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 19.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113684"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_df3d58dbaf1a96009bdaeb0b3fc9bfc96b0b1b4ba13b5d43fc1683ea117e8a75e41c6bb2e8447f69ed0e072c526df423bc",
+      "card_info": {
+        "name": "Pikachu (Full Art)",
+        "clean_name": "Pikachu Full Art",
+        "set_name": "Generations: Radiant Collection",
+        "set_code": "GEN",
+        "set_id": "1729",
+        "card_number": "RC29/RC32",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nuzzle\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 91.88,
+            "mid_price": 161.57,
+            "high_price": 399.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 154.51,
+            "direct_low_price": 151.42,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113771"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a2e9de3438375220927fbcb58f72aa0e51336c6456e6f2c424f3d77d599d08ea828f4d94c1b28c58990ee6a9b1",
+      "card_info": {
+        "name": "Pikachu EX - XY174",
+        "clean_name": "Pikachu EX XY174",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY174",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1L] Thunder Shock (30)\r\n<br>Flip a coin. If heads, your opponent's Defending Pokémon is now Paralyzed.",
+          "[1LL] Mega Thunderbolt (160)\r\n<br>Discard all Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32,
+            "mid_price": 39.51,
+            "high_price": 383.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 39.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/198772"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1a90b6b8e1605e621bd9bbaa1d1f1b93cde1bf35ce8e3c88cef148628393f68825c16d306d201e8e801c25f518",
+      "card_info": {
+        "name": "Pikachu - 5/12",
+        "clean_name": "Pikachu",
+        "set_name": "McDonald's Promos 2017",
+        "set_code": "MCD17",
+        "set_id": "2148",
+        "card_number": "005/012",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Wave\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[2L] Electro Ball (50)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.08,
+            "mid_price": 54,
+            "high_price": 300.62,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 31.07,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/152685"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15.45,
+            "avg7": 9.59,
+            "avg30": 6.48,
+            "trend": 10.21,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.95,
+            "low": 1,
+            "avg1": 12,
+            "avg7": 15.17,
+            "avg30": 13.44,
+            "trend": 13.32,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017/Pikachu-MCD175"
+      }
+    },
+    {
+      "id": "pk_fae5297f6e5da27b1c02b43c8d367de4fad601c505daa158fa4d912bfb131e9cb2467b0726e4d40e8a41dd2df7",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "POP Series 2",
+        "set_code": "POP",
+        "set_id": "1447",
+        "card_number": "016/017",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to self."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 50,
+            "mid_price": 99.99,
+            "high_price": 359.82,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 58.91,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88081"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3834adf8a198e247458b1408c17cd43094d3252536c7c890d660e7434b8f1a32758d35bf945692b07c2471ced5",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "POP Series 4",
+        "set_code": "POP",
+        "set_id": "1452",
+        "card_number": "013/017",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1L] Spark (20)\r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 42,
+            "mid_price": 65,
+            "high_price": 279.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 49.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 295.55,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 369.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88083"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cc45efe0d822fd0c66c925db00231cb93cbbd71731b8ab05dfd79df644484abdec1188c3e65bfde8fcfc53e7ad",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "POP Series 5",
+        "set_code": "POP",
+        "set_id": "1439",
+        "card_number": "012/017",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (10)",
+          "[2L] Thunderbolt (50)\r\n<br>Discard all Energy cards attached to Pikachu."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 54.99,
+            "mid_price": 249.99,
+            "high_price": 455.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 67.2,
+            "direct_low_price": 455.17,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 375,
+            "mid_price": 420.06,
+            "high_price": 966.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 313.23,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88085"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 140,
+    "total_pages": 7
+  },
+  "metadata": {
+    "total_count": 140,
+    "tcg": 127,
+    "cardmarket": 29,
+    "tcg_only": 111,
+    "cardmarket_only": 13,
+    "both_sources": 16
+  }
+}

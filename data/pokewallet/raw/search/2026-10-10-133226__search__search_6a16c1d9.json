@@ -1,0 +1,435 @@
+{
+  "query": "- 30th Celebration 24",
+  "results": [
+    {
+      "id": "pk_b6277ccfb06d2fc0f2bfbee63251b9023223b9760ecee149766ab8aa24cdbcbd842e56b147565434bb5ae923d0f7f7",
+      "card_info": {
+        "name": "Pikachu - 024/128",
+        "clean_name": "Pikachu 024 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "024/128",
+        "rarity": "Pikachu Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LCC] Volt Tackle (80)\r\n<br>This Pokémon also does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.24,
+            "mid_price": 1,
+            "high_price": 41.01,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.6,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716309"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (30C 024)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.05,
+            "low": 0.05,
+            "avg1": 0.67,
+            "avg7": 0.79,
+            "avg30": 1.04,
+            "trend": 0.61,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-30C024"
+      }
+    },
+    {
+      "id": "pk_089bdbd4bb7ea2470aa0268edc758f0bfde28589a0f08c4200d2c2d714de777d9d390175baedff5f450f1130bc77dd2a",
+      "card_info": {
+        "name": "Minior",
+        "clean_name": "Minior",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "124/128",
+        "rarity": null,
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CCC] Shoot Meteors<br> Discard all Energy from this Pokémon, and this attack does 120 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 7.5,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.16,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716513"
+      },
+      "cardmarket": {
+        "product_name": "Minior (30C 124)",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Minior-30C124"
+      }
+    },
+    {
+      "id": "pk_7ba3912028c4ee14c05e978211240e5164d5cfb531e583cb36e82a065b754211f25927478a46938bd99c68b2527f42",
+      "card_info": {
+        "name": "Rayquaza EX",
+        "clean_name": "Rayquaza EX",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "85/124",
+        "rarity": "Classic Collection",
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Celestial Roar \r\n<br>Discard the top 3 cards of your deck.  If any of those cards are Energy cards, attach them to this Pokémon.",
+          "[LR] Dragon Burst (60x) \r\n<br>Discard all basic Fire Energy or all basic Lightning Energy attached to this Pokémon.  This attack does 60 damage times the number of Energy cards you discarded."
+        ],
+        "weakness": "Ox2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 24.89,
+            "high_price": 701.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 21.12,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716196"
+      },
+      "cardmarket": {
+        "product_name": "Rayquaza EX (30C DRX 85)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 29.64,
+            "low": 19.89,
+            "avg1": 28.07,
+            "avg7": 30.29,
+            "avg30": 29.33,
+            "trend": 26.58,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Rayquaza-EX-30CDRX-85"
+      }
+    },
+    {
+      "id": "pk_d35399bc912f6b9ecdde0e504164450b3aa4a5c2312fd713ebf4b5d66bddfa3e56e67226cf48b08fd4a699fc516f77",
+      "card_info": {
+        "name": "Pikachu - 024/103",
+        "clean_name": "Pikachu 024 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "024/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Mach Bolt (30)"
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.37,
+            "mid_price": 2.25,
+            "high_price": 15,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716826"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (m6a 024)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.34,
+            "low": 0.7,
+            "avg1": 1.03,
+            "avg7": 1.07,
+            "avg30": 1.35,
+            "trend": 0.42,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Pikachu-m6a024"
+      }
+    },
+    {
+      "id": "pk_efb4fe51df9a826318c4d72669e4c87e17302470f9e87967037ab34f3c903fe5c72399eedf69c9832a83a5c06dfae937",
+      "card_info": {
+        "name": "Fuecoco ex - 124/103",
+        "clean_name": "Fuecoco ex 124 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "124/103",
+        "rarity": "Special Art Rare",
+        "card_type": null,
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.49,
+            "mid_price": 14.45,
+            "high_price": 21,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 14.61,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716924"
+      },
+      "cardmarket": {
+        "product_name": "Fuecoco ex (m6a 124)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 11.65,
+            "low": 8.92,
+            "avg1": 10.96,
+            "avg7": 10.99,
+            "avg30": 11.8,
+            "trend": 9.36,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Fuecoco-ex-V2-m6a124"
+      }
+    },
+    {
+      "id": "pk_ea1d461bebead549f68275972227486df87d2aaa6d4537c5d60bcb55f46ccf0d5fc8ada9b17fcd7509ecf4c127d169",
+      "card_info": {
+        "name": "Kangaskhan",
+        "clean_name": "Kangaskhan",
+        "set_name": "30th Celebration Premium Deck Set",
+        "set_code": "mF",
+        "set_id": "24856",
+        "card_number": "024/040",
+        "rarity": null,
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Rage (20+)<br> This attack does 10 more damage for each damage counter on this Pokémon.",
+          "[Colorless][Colorless][Colorless] Mega Punch (100)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.88,
+            "high_price": 1.5,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716786"
+      },
+      "cardmarket": {
+        "product_name": "Kangaskhan (mF 024)",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.25,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1,
+            "low": 0.25,
+            "avg1": 0.89,
+            "avg7": 0.69,
+            "avg30": 0.69,
+            "trend": 0.62,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/30th-Celebration-Premium-Deck-Set/Kangaskhan-MF024"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 6,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 6,
+    "tcg": 6,
+    "cardmarket": 6,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 6
+  }
+}

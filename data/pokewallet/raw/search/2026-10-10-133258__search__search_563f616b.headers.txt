@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=%E2%80%93+Skyridge+H24&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:03 GMT
+Content-Type: application/json
+Content-Length: 204
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 929
+X-RateLimit-Remaining-Hour: 29
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hTG3CV8AevTCH%2FMqw4kio4U6LuqVNVeIsPCebivh2ktKgwX0kF0blILnrYZUN0Z4yWGh3dA%2BMgVa2Hc7%2FBESDdqWR5wr0Goo2smE91MIcP9iU%2FttprJ0e5aMhQnkNrDXH4VHK5bFMdxUb4IgbuNqOA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854ed41ac4569a-OSL
+alt-svc: h3=":443"; ma=86400

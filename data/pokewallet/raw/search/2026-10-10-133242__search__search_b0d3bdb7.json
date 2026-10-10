@@ -1,0 +1,934 @@
+{
+  "query": "Pikachu 05",
+  "results": [
+    {
+      "id": "pk_c8c8c9d74c38ce50fd73cc894802b8bbdbb0a66d059e754aff69edd2c3d7f1d0a9e215072f37a86070e27d4d59d8",
+      "card_info": {
+        "name": "Ash's Pikachu-GX (Ash vs Team Rocket Deck Kit)",
+        "clean_name": "Ashs Pikachu GX Ash vs Team Rocket Deck Kit",
+        "set_name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
+        "set_code": "AVTR",
+        "set_id": "23095",
+        "card_number": "005/026",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\"><em>This promotional card was printed in Japanese only.</em></span>",
+        "attacks": [
+          "[L] Quick Attack (20+)\r\n<br>\r\nFlip a coin. If heads, this attack does 20 more damage.",
+          "<span style=\"color:Teal\"><strong>[LLL] Thunderbolt-GX (200)</strong>\r\n<br>Discard all Energy attached to this Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 114.49,
+            "high_price": 128.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 119.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490242"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1381319c378a6e88359b0d6208d58ad243213f308debcbe2344f064428a74a335ab7dc056cb83e178db754d7",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Base Set 2",
+        "set_code": "BS2",
+        "set_id": "605",
+        "card_number": "087/130",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.45,
+            "high_price": 24.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 3.04,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42538"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2.05,
+            "avg7": 3,
+            "avg30": 3,
+            "trend": 2.05,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9.12,
+            "low": 0.55,
+            "avg1": 1.5,
+            "avg7": 1.99,
+            "avg30": 6.31,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2/Pikachu-B287"
+      }
+    },
+    {
+      "id": "pk_3309c7788c840aa4d87fdb49a2d9952b77147f906298be6af44d0dc2de6c7e2c9ed60bd058b156ff67123d64ac35",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "058/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 198.96,
+            "mid_price": 199.95,
+            "high_price": 1078.8,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 187.13,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 29.96,
+            "mid_price": 151.48,
+            "high_price": 294.14,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 45.65,
+            "direct_low_price": 192.98,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/107055"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_78b67d2306c60e343d2a59c5dd09b9e2515bf5e071f7c181b0e78ee9be4aa1188079660bef754699ed732ada8860",
+      "card_info": {
+        "name": "Pikachu (Red Cheeks)",
+        "clean_name": "Pikachu Red Cheeks",
+        "set_name": "Base Set (Shadowless)",
+        "set_code": "BSS",
+        "set_id": "1663",
+        "card_number": "058/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 884,
+            "mid_price": 2299.99,
+            "high_price": 3593.14,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 429.98,
+            "direct_low_price": 2299.99,
+            "sub_type_name": "1st Edition"
+          },
+          {
+            "low_price": 57.08,
+            "mid_price": 93.74,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 107.91,
+            "direct_low_price": 795.99,
+            "sub_type_name": "Unlimited"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/147229"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_25f404f23fc742cedbecc9f124cd4ce940eae98f175f66f0199b55b6ef6712372e947bd568d7442b9cb43082",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Base Set",
+        "set_code": "BS",
+        "set_id": "604",
+        "card_number": "058/102",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.17,
+            "mid_price": 6.14,
+            "high_price": 1000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 10.05,
+            "direct_low_price": 7.52,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/42402"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 7.75,
+            "low": 0.1,
+            "avg1": 5.26,
+            "avg7": 36.94,
+            "avg30": 16.34,
+            "trend": 42.62,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 1,
+            "avg7": 42.86,
+            "avg30": 22.72,
+            "trend": 36.37,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pikachu-V1-BS58"
+      }
+    },
+    {
+      "id": "pk_66403adc8bc284b82e2f91349effb542e0033d33a538e171dbf5505e5b14a876062c194b475ed88f0e4abda31620",
+      "card_info": {
+        "name": "Blitzle - 053/185 (#2 Pikachu Stamped)",
+        "clean_name": "Blitzle 053 185 2 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "053/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Zap Kick (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268169"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a9bc6bcb74db017893a74f96b518a6cbd68d779992d2327699488cd0c2bb3af11f6cef169b6eecf222e715f159a3",
+      "card_info": {
+        "name": "Blitzle - 053/185 (#15 Pikachu Stamped)",
+        "clean_name": "Blitzle 053 185 15 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "053/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Zap Kick (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268170"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_57769f880db55f61302ae301b4089060b58c36377d031f6fa1ad7232342a3090437b2c09a912a0370db10a061e3f",
+      "card_info": {
+        "name": "Blitzle - 053/185 (#30 Pikachu Stamped)",
+        "clean_name": "Blitzle 053 185 30 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "053/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Zap Kick (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268171"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b92654aa3fbc87ea2dc2713719d4baf875863fd85f9dce5a190346930d300b093e1c2ffdeef80f63a2040a39c36d",
+      "card_info": {
+        "name": "Blitzle - 053/185 (#55 Pikachu Stamped)",
+        "clean_name": "Blitzle 053 185 55 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "053/185",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Zap Kick (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268172"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1e75cb8f8ffd15b7e82cb372f074a622bacb9c5b6d70afc59bc0c6f95cee3a829bd892e028d4c90b1a26c2af1bee",
+      "card_info": {
+        "name": "Boltund - 076/202 (#16 Pikachu Stamped)",
+        "clean_name": "Boltund 076 202 16 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "076/202",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2] Bite (50)",
+          "[1LL] Electric Dash (160)\r\n<br>This Pokémon can't attack during your next turn."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268173"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5d0e31a97d66ee429c2773321ede2dfbcd95530a25da93fe5b3e034811e408ba3f3ccea8596ae546acb5d32647e5bb",
+      "card_info": {
+        "name": "Boss's Orders - 154/192 (#44 Pikachu Stamped)",
+        "clean_name": "Bosss Orders 154 192 44 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "154/192",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.57,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.53,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268174"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_18228a768dc477531d09ed7a257ba268e73a6a70a1d7d45dd92116ce79883344b0410dcbaa61614100fd38caf21bd7",
+      "card_info": {
+        "name": "Bug Catcher - 226/264 (#26 Pikachu Stamped)",
+        "clean_name": "Bug Catcher 226 264 26 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "226/264",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268175"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e532d2758ec2dad9b488b268b782f2499aa37c584abb86d738ccb3e353b3cf8b596c1640abb49d20c9ab25bb0d76c4",
+      "card_info": {
+        "name": "Bug Catcher - 226/264 (#46 Pikachu Stamped)",
+        "clean_name": "Bug Catcher 226 264 46 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "226/264",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268176"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_783d75121b44be0deeaba5762c5f0f5c8eaf5105a5ad0e9344d8b2329fafb6716cb15ce59ec90e4a32837b488f83fc",
+      "card_info": {
+        "name": "Energy Recycler - 124/163 (#32 Pikachu Stamped)",
+        "clean_name": "Energy Recycler 124 163 32 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "124/163",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle up to 5 basic Energy cards from your discard pile into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.29,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268177"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_38b9065fd76e039070b57d038579f7807ff277e1d70ccfef601b8630ee42feead59af280b18fa3adf94899ebd50a4f",
+      "card_info": {
+        "name": "Great Ball - 164/202 (#29 Pikachu Stamped)",
+        "clean_name": "Great Ball 164 202 29 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "164/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268178"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_37fdf6b6f06d44e3c4a0cc1fcbb99bcbdb8d9c6592c01c469a943d3cd224e3093211f2d0bd6fbba349f2cfde8f7808",
+      "card_info": {
+        "name": "Great Ball - 164/202 (#38 Pikachu Stamped)",
+        "clean_name": "Great Ball 164 202 38 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "164/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.18,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268179"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5f5c63dc93f9ad78022f8af999dd76558cb3a39df7760300a88d39742ae4ce6b6a96ae248300d63965274401ea8e60",
+      "card_info": {
+        "name": "Great Ball - 164/202 (#49 Pikachu Stamped)",
+        "clean_name": "Great Ball 164 202 49 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "164/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268180"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d68ef3f7582da33bcd11cb24f51657d66bbfe53d73ac593253ee186a11f1898863029da4259e5661c1c665568c677f",
+      "card_info": {
+        "name": "Great Ball - 164/202 (#57 Pikachu Stamped)",
+        "clean_name": "Great Ball 164 202 57 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "164/202",
+        "rarity": "Promo",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.09,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268181"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c2d4fc53e299d55a7fae3969e5448712c5042f40f2325a39470aa1f256d2ab0e2bb105355fc193dce54bc89bfbef4f",
+      "card_info": {
+        "name": "Hop - 165/202 (#13 Pikachu Stamped)",
+        "clean_name": "Hop 165 202 13 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "165/202",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.19,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.13,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268182"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2d197e3bafcf4906240d7f390411bf6093aa786d9b2105272bdc8420d3aa9004bade8600851959bf13e8f1ea060f13",
+      "card_info": {
+        "name": "Hop - 165/202 (#33 Pikachu Stamped)",
+        "clean_name": "Hop 165 202 33 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "165/202",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268183"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 157,
+    "total_pages": 8
+  },
+  "metadata": {
+    "total_count": 157,
+    "tcg": 156,
+    "cardmarket": 26,
+    "tcg_only": 131,
+    "cardmarket_only": 1,
+    "both_sources": 25
+  }
+}

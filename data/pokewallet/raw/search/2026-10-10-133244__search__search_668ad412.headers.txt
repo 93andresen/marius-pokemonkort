@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=-+30th+Celebration+05&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:50 GMT
+Content-Type: application/json
+Content-Length: 26742
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 936
+X-RateLimit-Remaining-Hour: 36
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tKri0zaVN36McWqGU0AaQNI2XSybLzUD5tbQhB42bJH2ksIiO2lXpJvjSSkgcOIxd%2FwUmy6GmBp0l5gBBLkbPGtR6dOOFEkKzro0rXqBF0f%2B3BAycjupEdhrx%2B%2FLGl5KFVBO9VNz6d7diyKxYJEuRg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854e7d5f3f56af-OSL
+alt-svc: h3=":443"; ma=86400

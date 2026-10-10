@@ -1,0 +1,470 @@
+{
+  "query": "Genesect EX 11",
+  "results": [
+    {
+      "id": "pk_87d3c36f6b3c27ab3ce3a3e3e45c9e14e42291b02a7c9b040854578d23e51273b84dd2481779b074423b791c1a",
+      "card_info": {
+        "name": "Genesect EX (Team Plasma)",
+        "clean_name": "Genesect EX Team Plasma",
+        "set_name": "Plasma Blast",
+        "set_code": "PLB",
+        "set_id": "1370",
+        "card_number": "11/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "Red Signal - When you attach a Plasma Energy from your hand to this Pokemon, you may switch 1 of your opponent's Benched Pokemon with his or her Active Pokemon.  (Ability)",
+        "attacks": [
+          "[1GG] Megalo Cannon (100) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.46,
+            "mid_price": 28.5,
+            "high_price": 100.62,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 27.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85665"
+      },
+      "cardmarket": {
+        "product_name": "Genesect EX",
+        "prices": [
+          {
+            "avg": 18,
+            "low": 2.5,
+            "avg1": 79.99,
+            "avg7": 20.75,
+            "avg30": 14.54,
+            "trend": 25.25,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 3,
+            "avg7": 3.65,
+            "avg30": 3.09,
+            "trend": 3.32,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Blast/Genesect-EX-PLB11"
+      }
+    },
+    {
+      "id": "pk_e0f6b98b9a7f9cd0e288cf25a9b98ca7fa6bdee92455e5dca851771f92ed0287c69324869094ea9c5f8874fcc8f9",
+      "card_info": {
+        "name": "Genesect EX - 2014 (Andrew Estrada)",
+        "clean_name": "Genesect EX 2014 Andrew Estrada",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "11/101",
+        "rarity": "Ultra Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Red Signal</strong>\r\n<br>\r\nWhen you attach a Plasma Energy from your hand to this Pokémon, you may switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+        "attacks": [
+          "[1GG] Megalo Cannon (100)\r\n<br>\r\nDoes 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.49,
+            "mid_price": 2.82,
+            "high_price": 51.12,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 3.12,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480871"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_eedc791bd1395d1b47bcae165cbcb668a3c7344ca8a95b357026a9d9ecfa4b9c7065ea60bdd8f1e7c9bb1d13013ed6",
+      "card_info": {
+        "name": "Genesect ex - 069/086",
+        "clean_name": "Genesect ex",
+        "set_name": "SV11B: Black Bolt",
+        "set_code": "SV11B",
+        "set_id": "24349",
+        "card_number": "069/086",
+        "rarity": "Double Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Metal][Metal][Colorless] Protect Charge (150)<br> During your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "[Fire] x2",
+        "resistance": "[Grass] -30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.35,
+            "high_price": 2,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.26,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/636423"
+      },
+      "cardmarket": {
+        "product_name": "Genesect ex",
+        "prices": [
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.18,
+            "avg7": 0.15,
+            "avg30": 0.18,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt-JP/Genesect-ex-V1-sv11B069"
+      }
+    },
+    {
+      "id": "pk_7679d0cc86d218578aedb953870835ca83bdeee0c107bbcb3722fbaf964e47439007c6f50f7b4eadf569a540baadb75d",
+      "card_info": {
+        "name": "Genesect ex - 164/086",
+        "clean_name": "Genesect ex",
+        "set_name": "SV11B: Black Bolt",
+        "set_code": "SV11B",
+        "set_id": "24349",
+        "card_number": "164/086",
+        "rarity": "Super Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Metal][Metal][Colorless] Protect Charge (150)<br> During your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "[Fire] x2",
+        "resistance": "[Grass] -30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.69,
+            "mid_price": 1.25,
+            "high_price": 14.98,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 1.08,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/636518"
+      },
+      "cardmarket": {
+        "product_name": "Genesect ex",
+        "prices": [
+          {
+            "avg": 0.96,
+            "low": 0.5,
+            "avg1": 1,
+            "avg7": 1.1,
+            "avg30": 1.1,
+            "trend": 0.9,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt-JP/Genesect-ex-V2-sv11B164"
+      }
+    },
+    {
+      "id": "pk_fecccabd082afe39a710a5634f9a73da4d921203bb43f6f9ab9dbee86232203a651a7e9130d5ea61d9d3009674b369cb",
+      "card_info": {
+        "name": "Genesect ex - 172/086",
+        "clean_name": "Genesect ex",
+        "set_name": "SV11B: Black Bolt",
+        "set_code": "SV11B",
+        "set_id": "24349",
+        "card_number": "172/086",
+        "rarity": "Special Art Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[Metal][Metal][Colorless] Protect Charge (150)<br> During your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "[Fire] x2",
+        "resistance": "[Grass] -30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.95,
+            "mid_price": 25.98,
+            "high_price": 31.43,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 24.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/636526"
+      },
+      "cardmarket": {
+        "product_name": "Genesect ex",
+        "prices": [
+          {
+            "avg": 17.97,
+            "low": 10.5,
+            "avg1": 15.75,
+            "avg7": 14.96,
+            "avg30": 18.23,
+            "trend": 14.98,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt-JP/Genesect-ex-V3-sv11B172"
+      }
+    },
+    {
+      "id": "pk_a59f2715b3cf3ee0a0c71834b95b0cf121f18d0e95853e219c71919edaf1d673e4a6a7618905c1de9ad0917dc1a74806",
+      "card_info": {
+        "name": "Genesect ex",
+        "clean_name": "Genesect ex",
+        "set_name": "MEGA Dream ex",
+        "set_code": "M2a",
+        "set_id": "24499",
+        "card_number": "119/193",
+        "rarity": "Double Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "220.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Metallic Signal</strong> Once during your turn, you may search your deck for up to 2 Evolution Metal Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [
+          "[Metal][Metal][Colorless] Protect Charge (150)<br> During your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Firex2",
+        "resistance": "Grass-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 35,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/665790"
+      },
+      "cardmarket": {
+        "product_name": "Genesect ex",
+        "prices": [
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.15,
+            "avg30": 0.17,
+            "trend": 0.17,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Dream-ex/Genesect-ex-m2a119"
+      }
+    },
+    {
+      "id": "pk_a9071842de02976d69572763f8625e849a27a8c2c34e126ccb6f7cdaa3f78d882a9d5b321fe9742e9d4a516ff0feec",
+      "card_info": {
+        "name": "Genesect EX (Team Plasma)",
+        "clean_name": "Genesect EX Team Plasma",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "11/101",
+        "rarity": "Classic Collection",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GGC] Megalo Cannon (100) Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.5,
+            "mid_price": 7,
+            "high_price": 192.9,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 6.35,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716158"
+      },
+      "cardmarket": {
+        "product_name": "Genesect EX (30C PLB 97)",
+        "prices": [
+          {
+            "avg": 6.74,
+            "low": 4.5,
+            "avg1": 7.3,
+            "avg7": 7,
+            "avg30": 6.77,
+            "trend": 6.57,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Genesect-EX-30CPLB-97"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 7,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 7,
+    "tcg": 7,
+    "cardmarket": 6,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 6
+  }
+}

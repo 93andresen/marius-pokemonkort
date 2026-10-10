@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Morpeko+135&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:17 GMT
+Content-Type: application/json
+Content-Length: 1495
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 922
+X-RateLimit-Remaining-Hour: 22
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BbcCiqMjsPD%2Bw0UqbCbJaiY8X%2BzfZyJogn7kF2xi0co%2FpG7U3%2F%2B%2BGlqh7mONPSRflETZgK4HEB4%2BAsaElDi4eMpjo4GSvTjexBMVdwWIOP67KYQS0hwCdDaeLlDTYAV3HIVeCKL2WfKhkRy9OhsgEg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f2bda8435a6-OSL
+alt-svc: h3=":443"; ma=86400

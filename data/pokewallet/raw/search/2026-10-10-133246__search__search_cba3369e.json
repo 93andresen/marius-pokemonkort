@@ -1,0 +1,1369 @@
+{
+  "query": "mega gengar",
+  "results": [
+    {
+      "id": "pk_d69ad6f3f46a17c02631ba24fd35c83c15c77f83fb3516c05cb7b067f98d56d7e22da9eca28263696b1d86a9c9ae5a",
+      "card_info": {
+        "name": "Mega Gengar ex",
+        "clean_name": "Mega Gengar ex",
+        "set_name": "ME02: Phantasmal Flames",
+        "set_code": "PFL",
+        "set_id": "24448",
+        "card_number": "056/094",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "350.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Shadowy Concealment</strong> If 1 of your Darkness Pokemon is Knocked Out by damage from an attack from your opponent's Pokemon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+        "attacks": [
+          "[DD] Void Gale (230)<br> Move an Energy from this Pokemon to 1 of your Benched Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.11,
+            "mid_price": 2.88,
+            "high_price": 999,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 2.36,
+            "direct_low_price": 3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660380"
+      },
+      "cardmarket": {
+        "product_name": "Mega Gengar ex",
+        "prices": [
+          {
+            "avg": 1.74,
+            "low": 0.35,
+            "avg1": 1.43,
+            "avg7": 1.55,
+            "avg30": 1.65,
+            "trend": 1.56,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Gengar-ex-V1-PFL056"
+      }
+    },
+    {
+      "id": "pk_5386a677425a6a52a89816e4206f1171a7a335c9e80c76a0bb90ef26545421e5bd29fcdbddad93665b5da8c6bffc",
+      "card_info": {
+        "name": "Mega Gengar ex",
+        "clean_name": "Mega Gengar ex",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "003/021",
+        "rarity": "Double Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "350.0",
+        "stage": "MegaEX",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Darkness] Void Gale (230)<br>Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        ],
+        "weakness": "[Fighting] x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.5,
+            "mid_price": 6.78,
+            "high_price": 16,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 6.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/653856"
+      },
+      "cardmarket": {
+        "product_name": "Mega Gengar ex",
+        "prices": [
+          {
+            "avg": 3.4,
+            "low": 0.5,
+            "avg1": 1.82,
+            "avg7": 8.51,
+            "avg30": 4.22,
+            "trend": 5.31,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Mega-Gengar-ex-mBG003"
+      }
+    },
+    {
+      "id": "pk_702a99e2354c3cf1610d010cc3eb6096c20366a7ba5840ccc14b06175aeac28fdd68dc32ab9a9c41b9438b4bc5d873",
+      "card_info": {
+        "name": "Haunter - 022/021",
+        "clean_name": "Haunter",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "022/021",
+        "rarity": "Art Rare",
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Spooky Shot (40)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.36,
+            "mid_price": 21.4,
+            "high_price": 37.99,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 17.15,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654108"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 16.53,
+            "low": 10,
+            "avg1": 12.3,
+            "avg7": 15.64,
+            "avg30": 17.39,
+            "trend": 16.75,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Haunter-V2-mBG022"
+      }
+    },
+    {
+      "id": "pk_f048cb6b66f34107236f837d200f02ffe87da53777b906bdae812bfecfdbeb685aab04bcd927784506b40e5f651990",
+      "card_info": {
+        "name": "Prime Catcher",
+        "clean_name": "Prime Catcher",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "013/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.49,
+            "high_price": 4.99,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.42,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654130"
+      },
+      "cardmarket": {
+        "product_name": "Prime Catcher",
+        "prices": [
+          {
+            "avg": 0.17,
+            "low": 0.07,
+            "avg1": 0.1,
+            "avg7": 0.12,
+            "avg30": 0.35,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Prime-Catcher-mBG013"
+      }
+    },
+    {
+      "id": "pk_4253f38c93b080bec005e8c6ed12137ef16e7209b583729e5c01e49f94e18cbe8d06c7440e660d7a7e901f95f894",
+      "card_info": {
+        "name": "Gastly",
+        "clean_name": "Gastly",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "001/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Petty Grudge (10)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.48,
+            "mid_price": 0.56,
+            "high_price": 2.19,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.53,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660119"
+      },
+      "cardmarket": {
+        "product_name": "Gastly",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.04,
+            "avg1": 0.03,
+            "avg7": 0.09,
+            "avg30": 0.13,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Gastly-mBG001"
+      }
+    },
+    {
+      "id": "pk_2c3874b2657917c657840112a829c78ac64d968cc4f654dab8d52d790e75d7bc3109714482eb030f2f8f3ff0b9d6",
+      "card_info": {
+        "name": "Haunter - 002/021",
+        "clean_name": "Haunter",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "002/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Spooky Shot (40)"
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.64,
+            "mid_price": 0.73,
+            "high_price": 2.59,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.65,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660120"
+      },
+      "cardmarket": {
+        "product_name": "Haunter",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.22,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Haunter-V1-mBG002"
+      }
+    },
+    {
+      "id": "pk_a24161ee5ed84b586750657cefc7e4320b46f0e918c9d7ae4cead4da14555136f1c9576667477e92f7a1aeb45e5b",
+      "card_info": {
+        "name": "Murkrow",
+        "clean_name": "Murkrow",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "004/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Ambush (10+)<br> Flip a coin. If heads, this attack does 20 more damage."
+        ],
+        "weakness": "[Lightning]x2",
+        "resistance": "[Fighting]-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.79,
+            "high_price": 1.26,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660121"
+      },
+      "cardmarket": {
+        "product_name": "Murkrow",
+        "prices": [
+          {
+            "avg": 0.6,
+            "low": 0.2,
+            "avg1": 0.05,
+            "avg7": 0.53,
+            "avg30": 0.76,
+            "trend": 0.88,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Murkrow-mBG004"
+      }
+    },
+    {
+      "id": "pk_1f16eb5a86e1d6d85d9b28829ed6a83e247a8601cc2ff584ff1baefc427fe12086ee28129a72c7dbe48e812eac44",
+      "card_info": {
+        "name": "Honchkrow",
+        "clean_name": "Honchkrow",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "005/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Wind of Darkness (30)",
+          "[Darkness][Darkness][Colorless] Snipe Feather<br> Discard 2 Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "[Lightning]x2",
+        "resistance": "[Fighting]-30",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.58,
+            "high_price": 1.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.59,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660122"
+      },
+      "cardmarket": {
+        "product_name": "Honchkrow",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.21,
+            "avg30": 0.3,
+            "trend": 0.14,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Honchkrow-mBG005"
+      }
+    },
+    {
+      "id": "pk_f3b7acd301f91aebe7477e1994456bf9d9277edccc7ef719e3c8a71a681cff72f52770268f31811f5641cb83a2a5",
+      "card_info": {
+        "name": "Sableye",
+        "clean_name": "Sableye",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "006/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Arrogant Claw (20+)<br> If you have any Stage 2 Darkness Pokémon on your Bench, this attack does 70 more damage."
+        ],
+        "weakness": "[Grass]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 0.68,
+            "high_price": 2.09,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660123"
+      },
+      "cardmarket": {
+        "product_name": "Sableye",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.05,
+            "avg1": 0.05,
+            "avg7": 0.09,
+            "avg30": 0.14,
+            "trend": 0.08,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Sableye-mBG006"
+      }
+    },
+    {
+      "id": "pk_af9a2a224ea4efcbbd21776c37ac2e4bd71c6cd35837a8801728e5ec673c11a1749464e96da7843c763495a530c6",
+      "card_info": {
+        "name": "Absol",
+        "clean_name": "Absol",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "007/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Allure<br> Draw 2 cards.",
+          "[Darkness][Colorless] Dark Cutter (60)"
+        ],
+        "weakness": "[Grass]x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.39,
+            "mid_price": 0.59,
+            "high_price": 1.02,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.58,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660124"
+      },
+      "cardmarket": {
+        "product_name": "Absol",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.05,
+            "avg1": 0.04,
+            "avg7": 0.2,
+            "avg30": 0.22,
+            "trend": 0.17,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Absol-mBG007"
+      }
+    },
+    {
+      "id": "pk_96adc20043752dcc068754f53c36224de6d6b5a99b89ad240ecf4f775004ac77b45fcccad8e9eff2e8a84b65c58c",
+      "card_info": {
+        "name": "Eternatus",
+        "clean_name": "Eternatus",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "008/021",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "150.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness][Darkness] Shatter (50)<br> Discard a Stadium in play.",
+          "[Darkness][Darkness][Darkness] Power Rush (130)<br> Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+        ],
+        "weakness": "[Fighting]x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.44,
+            "mid_price": 0.8,
+            "high_price": 1.35,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.65,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660125"
+      },
+      "cardmarket": {
+        "product_name": "Eternatus",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.27,
+            "avg30": 0.3,
+            "trend": 0.18,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Eternatus-mBG008"
+      }
+    },
+    {
+      "id": "pk_452f69338201c8e0e892ba770971fadb1b4b4983cd64c9a65987e728a41e2245fec8145ca1eb993db73288cd2b41",
+      "card_info": {
+        "name": "Tatsugiri",
+        "clean_name": "Tatsugiri",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "009/021",
+        "rarity": null,
+        "card_type": "Dragon",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire][Water] Surf (50)"
+        ],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.73,
+            "high_price": 1.95,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.73,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660126"
+      },
+      "cardmarket": {
+        "product_name": "Tatsugiri",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.08,
+            "avg1": 0.1,
+            "avg7": 0.3,
+            "avg30": 0.31,
+            "trend": 0.09,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Tatsugiri-mBG009"
+      }
+    },
+    {
+      "id": "pk_2218dfe8d9a7691fae9efc7ac08b740b66489a3b6e809c8b710844041668d47b106d2415b28e32ee928a3b8717b9cf",
+      "card_info": {
+        "name": "Buddy-Buddy Poffin",
+        "clean_name": "Buddy Buddy Poffin",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "010/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.25,
+            "high_price": 1.39,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.3,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660127"
+      },
+      "cardmarket": {
+        "product_name": "Buddy-Buddy Poffin",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.06,
+            "trend": 0.11,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Buddy-Buddy-Poffin-mBG010"
+      }
+    },
+    {
+      "id": "pk_41e2d862a5c234478a900631f649877539b4c1860958d048346826dcfd9139a47cde88be1fe82a7cb122461116959e",
+      "card_info": {
+        "name": "Ultra Ball",
+        "clean_name": "Ultra Ball",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "011/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.24,
+            "high_price": 0.89,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660128"
+      },
+      "cardmarket": {
+        "product_name": "Ultra Ball",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Ultra-Ball-mBG011"
+      }
+    },
+    {
+      "id": "pk_0bd01e8f4380cb0831009c43866ffdfd3694117fe8d874617a5b214c887246f0d720ccfaa624ad70d869d63f096060",
+      "card_info": {
+        "name": "Rare Candy",
+        "clean_name": "Rare Candy",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "012/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.25,
+            "high_price": 1.25,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660129"
+      },
+      "cardmarket": {
+        "product_name": "Rare Candy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Rare-Candy-mBG012"
+      }
+    },
+    {
+      "id": "pk_b3b12535130a3a77cebbf3b0a39da3c1504520d741638de3f9d78a8be47d8c082ce455d27e3d00be00177db11fb5bf",
+      "card_info": {
+        "name": "Switch",
+        "clean_name": "Switch",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "014/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.25,
+            "high_price": 0.95,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660130"
+      },
+      "cardmarket": {
+        "product_name": "Switch",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Switch-mBG014"
+      }
+    },
+    {
+      "id": "pk_7a4da0b4faeda618e69c1db3731bf3164987501962d3a63c7aa7672436f985b526a129069050fb3e2c49de810102ad",
+      "card_info": {
+        "name": "Mega Signal",
+        "clean_name": "Mega Signal",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "015/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.45,
+            "high_price": 1.75,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660131"
+      },
+      "cardmarket": {
+        "product_name": "Mega Signal",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Mega-Signal-mBG015"
+      }
+    },
+    {
+      "id": "pk_1023de405773b34562c0494a46d53784071cbabbd512e1050625e595440945495395b3818844a654c4189e04470548",
+      "card_info": {
+        "name": "Night Stretcher",
+        "clean_name": "Night Stretcher",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "016/021",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.5,
+            "high_price": 1.75,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660132"
+      },
+      "cardmarket": {
+        "product_name": "Night Stretcher",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.03,
+            "avg1": 0.05,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Night-Stretcher-mBG016"
+      }
+    },
+    {
+      "id": "pk_39924a64465a9d93a563e3ee26449da4777e56296d12846f0bc50377ec90e7ad62fac5231329c3cc448599085ce57d",
+      "card_info": {
+        "name": "Punk Helmet",
+        "clean_name": "Punk Helmet",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "017/021",
+        "rarity": null,
+        "card_type": "Trainer - Pokémon Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.47,
+            "high_price": 0.95,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660133"
+      },
+      "cardmarket": {
+        "product_name": "Punk Helmet",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Punk-Helmet-mBG017"
+      }
+    },
+    {
+      "id": "pk_02a258abc04cdd0a421559b5d9bf8f731e2260b3ccd93030ab6009a2aa6d2f80e7da053047f7235dfa116e448e9983",
+      "card_info": {
+        "name": "Air Balloon",
+        "clean_name": "Air Balloon",
+        "set_name": "MBG: MEGA Starter Set Mega Gengar ex",
+        "set_code": "MBG",
+        "set_id": "24444",
+        "card_number": "018/021",
+        "rarity": null,
+        "card_type": "Trainer - Pokémon Tool",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.49,
+            "high_price": 0.79,
+            "updated_at": "2026-10-10T10:53:22.458686",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/660134"
+      },
+      "cardmarket": {
+        "product_name": "Air Balloon",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.04,
+            "trend": 0.07,
+            "updated_at": "2026-10-10T10:32:09.577597",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Starter-Set-Mega-Gengar-ex/Air-Balloon-mBG018"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 37,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 37,
+    "tcg": 36,
+    "cardmarket": 30,
+    "tcg_only": 7,
+    "cardmarket_only": 1,
+    "both_sources": 29
+  }
+}

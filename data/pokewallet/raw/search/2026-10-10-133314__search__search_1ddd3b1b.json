@@ -1,0 +1,492 @@
+{
+  "query": "Crobat G 47",
+  "results": [
+    {
+      "id": "pk_32aac6714bbb7c5e1a36227c751bfe071c486d5211bd8574191d29277d7bdd7b26915c88ea407d0d06b44a1bac",
+      "card_info": {
+        "name": "Crobat G",
+        "clean_name": "Crobat G",
+        "set_name": "Platinum",
+        "set_code": "PL",
+        "set_id": "1406",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.8,
+            "mid_price": 4.01,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.01,
+            "direct_low_price": 5.54,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10.99,
+            "mid_price": 13.91,
+            "high_price": 179.72,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 19.49,
+            "direct_low_price": 13.92,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84494"
+      },
+      "cardmarket": {
+        "product_name": "Crobat [G] Lv.44",
+        "prices": [
+          {
+            "avg": 1.88,
+            "low": 0.02,
+            "avg1": 2.5,
+            "avg7": 1.86,
+            "avg30": 1.68,
+            "trend": 1.91,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.73,
+            "low": 0.15,
+            "avg1": 1.75,
+            "avg7": 3.94,
+            "avg30": 4.35,
+            "trend": 3.53,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Crobat-G-Lv44-PL47"
+      }
+    },
+    {
+      "id": "pk_0c376fab0e036e5663d526b7e02320ffee0590bdf0d96aba5613ac8a3ce7df8387274d7b6bfd69a46c5be0e506d1",
+      "card_info": {
+        "name": "Crobat (147)",
+        "clean_name": "Crobat 147",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "147/144",
+        "rarity": "Secret Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Grass, Fire, or Psychic basic Energy card from your hand to Crobat, Crobat's type (color) becomes the same as that type of Energy until the end of the turn.",
+        "attacks": [
+          "[1GR] Poison Flame (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned and Poisoned.",
+          "[GPP] Squared Attack (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 330,
+            "mid_price": 391.25,
+            "high_price": 499.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 350,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/84485"
+      },
+      "cardmarket": {
+        "product_name": "Crobat",
+        "prices": [
+          {
+            "avg": 234.74,
+            "low": 59.98,
+            "avg1": 499.99,
+            "avg7": 172.37,
+            "avg30": 236.91,
+            "trend": 220.25,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1283.39,
+            "low": 59.98,
+            "avg1": 279.99,
+            "avg7": 940.37,
+            "avg30": 590,
+            "trend": 986.21,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Crobat-V1-SK147"
+      }
+    },
+    {
+      "id": "pk_57c3c58afcfc9150f98a766456df23cd09ac68b86e9418b970a7b4438b652e062ef38c3d3bb442909c13b2e688b6",
+      "card_info": {
+        "name": "Crobat G - 2009 (Tsubasa Nakamura)",
+        "clean_name": "Crobat G 2009 Tsubasa Nakamura",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.09,
+            "mid_price": 10,
+            "high_price": 39.99,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 2.71,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479874"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e83f5d1d4d99fdf15b54837f82ff8b850d2dd6d49c5480fbc5f61931d362d6680712babc79ef4c07cb74fe511d92",
+      "card_info": {
+        "name": "Crobat G - 2009 (Stephen Silvestro)",
+        "clean_name": "Crobat G 2009 Stephen Silvestro",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.5,
+            "mid_price": 8.5,
+            "high_price": 49.52,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 8.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479875"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e8e351a9df48edf631188d90b360514f2ce75eedd20c4226dc63ac682f0ecab81e8efee5fbb06dd5083b995927fa",
+      "card_info": {
+        "name": "Crobat G - 2009 (Jason Martinez)",
+        "clean_name": "Crobat G 2009 Jason Martinez",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.8,
+            "mid_price": 6.94,
+            "high_price": 89.72,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 5.64,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479876"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_56f87162950b08485db1aa9149df31ddfffc883e57c2fb223de6eb8e4c7639e04137ecc4a1c4bbbde8801ddf4ab3",
+      "card_info": {
+        "name": "Crobat G - 2010 (Mychael Bryan)",
+        "clean_name": "Crobat G 2010 Mychael Bryan",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 2,
+            "high_price": 2,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 1.91,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480020"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5d89088bbcf6e614a9e00a7b34315fc55becbfa63e6880985821dc723db770cad87644fc88349c3663da49ea52a8",
+      "card_info": {
+        "name": "Crobat G - 2010 (Yuta Komatsuda)",
+        "clean_name": "Crobat G 2010 Yuta Komatsuda",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 53.92,
+            "high_price": 67.95,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 4.98,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480021"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cacfc5ea822e1899bf321e4ea717e59d893364b6a7e0f7bc079e0d6e1410031d5fdc0e28f533126ea43262bb7248",
+      "card_info": {
+        "name": "Crobat G - 2010 (Yuka Furusawa)",
+        "clean_name": "Crobat G 2010 Yuka Furusawa",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "47/127",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Flash Bite</strong>\r\n<br>\r\nOnce during your turn, when put Crobat G from your hand onto your Bench, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[1P] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 69.99,
+            "high_price": 72.32,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 15.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480022"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e9cf58c96f37e8419273475221c56818d4272fefcaa2f1ae52cad4acd3cf1b17048527bffca18f4fd8bedb78569223",
+      "card_info": {
+        "name": "Crobat G",
+        "clean_name": "Crobat G",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "47/127",
+        "rarity": "Classic Collection",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[PC] Toxic Fang\r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.73,
+            "mid_price": 6.71,
+            "high_price": 225,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 5.17,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716191"
+      },
+      "cardmarket": {
+        "product_name": "Crobat [G] Lv.44 (30C PL 47)",
+        "prices": [
+          {
+            "avg": 7.99,
+            "low": 4.99,
+            "avg1": 8.25,
+            "avg7": 8.17,
+            "avg30": 7.99,
+            "trend": 6.67,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Crobat-G-Lv44-30CPL-47"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 9,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 9,
+    "tcg": 9,
+    "cardmarket": 3,
+    "tcg_only": 6,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

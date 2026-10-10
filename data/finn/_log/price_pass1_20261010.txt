@@ -109,3 +109,155 @@ FINN price  |  107 record(s)  |  offline=False  max_calls=92  index=yes
         cards: 0/0 priced  partial=False
         deal: basis=listing_best asking=20 market=12 ratio=0.6 delta=8
         calls=1 cache=False
+  [28/107] 'Pokémon: Mew #111 – Holon Phantoms'
+        cards: 1/2 priced  partial=True
+        deal: basis=card_list_sum asking=None market=5621 ratio=None delta=None
+        calls=5 cache=False
+  [29/107] 'Pokémon Mew ex 066/128 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=28 ratio=None delta=None
+        calls=1 cache=False
+  [30/107] 'Pokemonkort fra mange sett'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=50 market=None ratio=None delta=None
+        calls=1 cache=False
+  [31/107] 'Pokemon kort, 30th celebration'
+        cards: 0/1 priced  partial=True
+        deal: basis=none asking=150 market=None ratio=None delta=None
+        calls=2 cache=False
+  [32/107] 'Pokémon Pikachu 023/128 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=20 market=None ratio=None delta=None
+        calls=1 cache=False
+  [33/107] 'Pikachu 024/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=20 market=None ratio=None delta=None
+        calls=1 cache=False
+  [34/107] 'Pikachu 026/128'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=29 market=9 ratio=0.3103 delta=20
+        calls=1 cache=False
+  [35/107] 'Pikachu 60/106 - Pokemon Emerald'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=175 ratio=None delta=None
+        calls=1 cache=False
+  [36/107] 'Gengar holo 5/92 - Pokemon EX Legend Maker'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [37/107] 'Mightyena reverse holo 66/146 - Pokemon Legends Awakened'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=19 ratio=None delta=None
+        calls=1 cache=False
+  [38/107] 'Pokemon kort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=750 market=None ratio=None delta=None
+        calls=0 cache=False
+  [39/107] 'Pikachu 28/73 - Pokemon Shining Legends'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=138 ratio=None delta=None
+        calls=1 cache=False
+  [40/107] 'Pikachu 24/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [41/107] 'Pikachu 24/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=6 ratio=None delta=None
+        calls=1 cache=True
+  [42/107] 'Pikachu 24/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=6 ratio=None delta=None
+        calls=0 cache=True
+  [43/107] 'Pikachu 21/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [44/107] 'Pikachu 21/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=16 ratio=None delta=None
+        calls=1 cache=True
+  [45/107] 'Pikachu 19/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [46/107] 'Pikachu 17/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [47/107] 'Pikachu 12/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [48/107] 'Pikachu 05/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=1284 ratio=None delta=None
+        calls=1 cache=False
+  [49/107] 'Pikachu 05/30 - Pokemon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=1284 ratio=None delta=None
+        calls=1 cache=True
+  [50/107] 'Pokemon mega gengar'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=7900 market=None ratio=None delta=None
+        calls=1 cache=False
+  [51/107] 'Pokemon Pikachu ex'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=7800 market=None ratio=None delta=None
+        calls=1 cache=False
+  [52/107] '🃏 Mew ex 158/128 – Pokémon 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=2 cache=False
+  [53/107] 'Pokémon Eevee Heroes Japansk Booster Pack – Uåpnet / Sealed'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [54/107] 'Pokémon: Poliwrath #H24 – Skyridge'
+        cards: 1/2 priced  partial=True
+        deal: basis=card_list_sum asking=None market=5360 ratio=None delta=None
+        calls=5 cache=False
+  [55/107] 'Primeape 50/110 - Pokemon Holon Phantoms'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=36 ratio=None delta=None
+        calls=1 cache=False
+  [56/107] 'Oddish 73/110 - Pokemon Holon Phantoms'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=17 ratio=None delta=None
+        calls=1 cache=False
+  [57/107] 'Piloswine 43/144 - Pokemon Skyridge'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [58/107] 'Pokémon GX/EX samlekort japansk holografisk lot'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=150 market=None ratio=None delta=None
+        calls=0 cache=True
+  [59/107] 'Pokémon Kingdra EX samlekort'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=0 cache=True
+  [60/107] 'Pokémon Morpeko 135/128 30th Celebration'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=85 market=59 ratio=0.6941 delta=26
+        calls=1 cache=False
+  [61/107] 'Crobat G 47/127'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=70 market=55 ratio=0.7857 delta=15
+        calls=1 cache=False
+  [62/107] 'Uxie 43/146'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=229 market=54 ratio=0.2358 delta=175
+        calls=1 cache=False
+  [63/107] 'Pokémon 30th Anniversary Poster Collection'
+        cards: 0/0 priced  partial=False
+        deal: basis=none asking=None market=None ratio=None delta=None
+        calls=1 cache=False
+  [64/107] 'Genesect EX 11/101'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=70 market=68 ratio=0.9714 delta=2
+        calls=1 cache=False
+  [65/107] 'Kingdra Prime 85/95  2010 – Pokemon'
+        cards: 0/0 priced  partial=False
+        deal: basis=listing_best asking=None market=671 ratio=None delta=None
+        calls=1 cache=False

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Kingdra+Prime+85&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:30 GMT
+Content-Type: application/json
+Content-Length: 1659
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 917
+X-RateLimit-Remaining-Hour: 17
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eGhcq5yhP3VP61E5Uo1i%2B0NfyCE0HPlnmSnIDY247N41GTNRl34hLRKLYn7XtPsZCxLq7ht4K%2BTWlsFFNMxANcDcfHGggMKJLA2z7r07K%2B7rrpIepXy42lRZhmraIf%2F2C1tVSm3yVKLay7hVTvlOSw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f7bcce55ebd-OSL
+alt-svc: h3=":443"; ma=86400

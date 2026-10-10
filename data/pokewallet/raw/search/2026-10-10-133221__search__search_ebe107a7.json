@@ -1,0 +1,1077 @@
+{
+  "query": "Pikachu 28",
+  "results": [
+    {
+      "id": "pk_a8e6dfff598c9cad1c1cd5c7c0b70c4712b4c4795dba6998b67b3703e125b2efcf0d639648f1095dca12a564ffc4",
+      "card_info": {
+        "name": "Luxray - 093/264 (#28 Pikachu Stamped)",
+        "clean_name": "Luxray 093 264 28 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "093/264",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1L] Thunder Claws (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.19,
+            "mid_price": 0.25,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268210"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9b74c04f26123cd05b415c3d8414b9dd4635127a8d99680671d25a60c38c68f0abebc9167428448d7520b24a",
+      "card_info": {
+        "name": "Ampharos - Pikachu 28",
+        "clean_name": "Ampharos Pikachu 28",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "109",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[L][C] Electric Ball (110)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.26,
+            "mid_price": 4.3,
+            "high_price": 32.52,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 3.11,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556880"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2fae98cdb61395a4789eb66faa46e4faa428bba35303ba286c36279d331cf9d05993910d8c756cb716c76826b0f004",
+      "card_info": {
+        "name": "Pokemon Fan Club - 133/156 (#28 Pikachu Stamped)",
+        "clean_name": "Pokemon Fan Club 133 156 28 Pikachu Stamped",
+        "set_name": "Battle Academy",
+        "set_code": "BTA",
+        "set_id": "2686",
+        "card_number": "133/156",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.31,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:15.626281",
+            "market_price": 0.28,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/219159"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_36bc3d400114b0f13961c4fd99e5a8da88989c0acf3ff5e5919ea3bbb96906d664bf9005c75ca1d88c9c4d6251",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Celebrations",
+        "set_code": "CLB",
+        "set_id": "2867",
+        "card_number": "005/025",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, this Pokémon also does 10 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.55,
+            "mid_price": 6.02,
+            "high_price": 1000,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 5.01,
+            "direct_low_price": 3.46,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250303"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.53,
+            "low": 1.5,
+            "avg1": 3.88,
+            "avg7": 3.93,
+            "avg30": 4.32,
+            "trend": 3.88,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005"
+      }
+    },
+    {
+      "id": "pk_0c35dad074b879072a9ed3d238d853e3b724b03d0f2ee2885ecced5325ef48f523ad800867d2d35031db6d7f90",
+      "card_info": {
+        "name": "Flying Pikachu V",
+        "clean_name": "Flying Pikachu V",
+        "set_name": "Celebrations",
+        "set_code": "CLB",
+        "set_id": "2867",
+        "card_number": "006/025",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thunder Shock (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[3] Fly (120)\r\n<br>Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.94,
+            "mid_price": 4.6,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 3.94,
+            "direct_low_price": 3.94,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250304"
+      },
+      "cardmarket": {
+        "product_name": "Flying Pikachu V",
+        "prices": [
+          {
+            "avg": 3.39,
+            "low": 1.97,
+            "avg1": 3.19,
+            "avg7": 9.16,
+            "avg30": 4.9,
+            "trend": 5.19,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-V"
+      }
+    },
+    {
+      "id": "pk_437de7a1a257ed8e7062428e40c924c7102f4380d99a59ed1d9c40c55251831b7760ca9dd8bfe0ce865a457e27",
+      "card_info": {
+        "name": "Flying Pikachu VMAX",
+        "clean_name": "Flying Pikachu VMAX",
+        "set_name": "Celebrations",
+        "set_code": "CLB",
+        "set_id": "2867",
+        "card_number": "007/025",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "VMAX",
+        "card_text": null,
+        "attacks": [
+          "[2L] Max Balloon (160)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.04,
+            "mid_price": 7.77,
+            "high_price": 1000,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 5.44,
+            "direct_low_price": 5.55,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250305"
+      },
+      "cardmarket": {
+        "product_name": "Flying Pikachu VMAX",
+        "prices": [
+          {
+            "avg": 7.13,
+            "low": 2.99,
+            "avg1": 5.19,
+            "avg7": 9.07,
+            "avg30": 6.38,
+            "trend": 6.55,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-VMAX"
+      }
+    },
+    {
+      "id": "pk_cee6cc152fdc8d8142ac271714a3ebf2b7e34ca1a83976acf7a263f8632c48ecf6536bb9c5321a79ab12005ce3",
+      "card_info": {
+        "name": "Surfing Pikachu V",
+        "clean_name": "Surfing Pikachu V",
+        "set_name": "Celebrations",
+        "set_code": "CLB",
+        "set_id": "2867",
+        "card_number": "008/025",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Surf (150)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 5,
+            "high_price": 125,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 3.99,
+            "direct_low_price": 3.71,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250306"
+      },
+      "cardmarket": {
+        "product_name": "Surfing Pikachu V",
+        "prices": [
+          {
+            "avg": 3.64,
+            "low": 1.7,
+            "avg1": 3.32,
+            "avg7": 7.07,
+            "avg30": 4.49,
+            "trend": 5.21,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-V"
+      }
+    },
+    {
+      "id": "pk_e7c573cdd5f55bef347a7fdf36e2e66bcc54420833b0321d7c618e85eb3028e0044c43e1b758755d46229fc393",
+      "card_info": {
+        "name": "Surfing Pikachu VMAX",
+        "clean_name": "Surfing Pikachu VMAX",
+        "set_name": "Celebrations",
+        "set_code": "CLB",
+        "set_id": "2867",
+        "card_number": "009/025",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "VMAX",
+        "card_text": null,
+        "attacks": [
+          "[WWW] Max Surfer (160)\r\n<br>This attack also does 30 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.25,
+            "mid_price": 8.01,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 6.18,
+            "direct_low_price": 4.45,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/250307"
+      },
+      "cardmarket": {
+        "product_name": "Surfing Pikachu VMAX",
+        "prices": [
+          {
+            "avg": 5.73,
+            "low": 1.99,
+            "avg1": 5.25,
+            "avg7": 7.84,
+            "avg30": 6.14,
+            "trend": 6.95,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:57.569723",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-VMAX"
+      }
+    },
+    {
+      "id": "pk_64c6e778864398d74362317fd6c7c1e30583d207c9a46c253c1b1511797206b29b6b66515ce3e7b6855b20f0d7ce",
+      "card_info": {
+        "name": "Pikachu - 28/73 (Cracked Ice Holo)",
+        "clean_name": "Pikachu 28 73 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "028/073",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Iron Tail (20x)\r\n<br>Flip a coin until you get tails. This attack does 20 damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.25,
+            "mid_price": 12.98,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 12.93,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189761"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5c40c30dae505e401efe0a79d94dc6ab14b5eddaa38aa26dcadf395fd797badb0c88c24266d6e05300f061720e",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Generations",
+        "set_code": "GEN",
+        "set_id": "1728",
+        "card_number": "26/83",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Nuzzle \r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+          "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.08,
+            "mid_price": 3.49,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.55,
+            "direct_low_price": 2.57,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 10,
+            "mid_price": 22.39,
+            "high_price": 149.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 19.5,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/113684"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 3.32,
+            "low": 0.25,
+            "avg1": 5,
+            "avg7": 3.12,
+            "avg30": 3.16,
+            "trend": 2.81,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 15.55,
+            "low": 7.99,
+            "avg1": 6,
+            "avg7": 13.92,
+            "avg30": 13.95,
+            "trend": 11.82,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Pikachu-V1-GEN26"
+      }
+    },
+    {
+      "id": "pk_a2e9de3438375220927fbcb58f72aa0e51336c6456e6f2c424f3d77d599d08ea828f4d94c1b28c58990ee6a9b1",
+      "card_info": {
+        "name": "Pikachu EX - XY174",
+        "clean_name": "Pikachu EX XY174",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY174",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1L] Thunder Shock (30)\r\n<br>Flip a coin. If heads, your opponent's Defending Pokémon is now Paralyzed.",
+          "[1LL] Mega Thunderbolt (160)\r\n<br>Discard all Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32,
+            "mid_price": 39.51,
+            "high_price": 383.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 39.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/198772"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_dfe1d960c992d2cb1fd5d5fda3aba85c358e6ee413d8e76c85727aa250ff9188e818efd457afc8753064da8648",
+      "card_info": {
+        "name": "Pikachu GX - SM232",
+        "clean_name": "Pikachu GX SM232",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM232",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Agility (20)\r\n<br>Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent’s next turn.",
+          "[1LL] Volt Tackle (150)\r\n<br>This Pokémon does 30 damage to itself.",
+          "<span style=\"color:Teal\"><strong>[1LL] Tail Break GX (100)</strong>\r\n<br>Your opponent’s Active Pokémon is now Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.39,
+            "mid_price": 8.42,
+            "high_price": 99.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 8.45,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/200274"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3a84d69bd1362a74eaa64a8ff475cf3c005b2be87ec180e912401f762ae0eb032abd1dd8195338d9c6ae5ddc6f",
+      "card_info": {
+        "name": "Pikachu EX - XY124",
+        "clean_name": "Pikachu EX XY124",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY124",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1] Iron Tail (30x)\r\n<br>\r\nFlip a coin until you get tails. This attack does 30 damage times the number of heads.",
+          "[2L] Overspark (50x)\r\n<br>\r\nDiscard all Lightning Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 99.99,
+            "high_price": 99.99,
+            "updated_at": "2026-09-18T09:55:42.397477",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211463"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ea8e43d6e1ab96b29892923b350c1135c872562edc1ca78d6405d605e4ed6585870feb061861e58594131b9b9791",
+      "card_info": {
+        "name": "Pikachu - 58/102",
+        "clean_name": "Pikachu",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "058/102",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>\r\nFlip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 34.99,
+            "mid_price": 37.98,
+            "high_price": 56,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 28.09,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211500"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d765bff1c6da7c08eee9695994b6189c834adb8efcc1755e30cf2775d489fec7f1d67aa912dcf2fdbbe88de3f41354",
+      "card_info": {
+        "name": "Pikachu V - SWSH061",
+        "clean_name": "Pikachu V SWSH061",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH061",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Charge\r\n<br>Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "[1LL] Thunderbolt (200)\r\n<br>Discard all Energy from this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.98,
+            "mid_price": 3.12,
+            "high_price": 34.82,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.26,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/232443"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d43710e0a29f60cb1098909cd7e89f41ece66347fe4842f0491c68ada15a640f759d514e835e7f04b3",
+      "card_info": {
+        "name": "Pikachu V-UNION",
+        "clean_name": "Pikachu V UNION",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "V-Union",
+        "card_text": "<em>How to play a Pokémon V-UNION</em>\r\n<br>\r\nOnce per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.\r\n<br><br>\r\n<em>V-UNION rule — When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[1] Union Gain\r\n<br>Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon.",
+          "[1L] Shocking Shock (120)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[1LLL] Disconnect (150)\r\n<br>During your opponent's next turn, they can't play any Item cards from their hand."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.99,
+            "mid_price": 14.4,
+            "high_price": 150.42,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 13.04,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/251100"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1e1de95d534d1e1b872c8e92f23942861673af42b4244d5d26cda2ddc9b7020e0e72f774c6a09b370b6792f186",
+      "card_info": {
+        "name": "Pikachu & Zekrom GX - SM248",
+        "clean_name": "Pikachu and Zekrom GX SM248",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SM248",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "240.0",
+        "stage": "Basic",
+        "card_text": "<em>TAG TEAM rule — When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.</em>",
+        "attacks": [
+          "[LLL] Full Blitz (150)\r\n<br>Search your deck for up to 3 Lightning Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+          "<span style=\"color:Teal\"><strong>[LLL+] Tag Bolt GX (200)</strong>\r\n<br>If this Pokémon has at least 3 extra Lightning Energy attached to it <em>(in addition to this attack's cost)</em>, this attack does 170 damage to 1 of your opponent's Benched Pokémon. <em> (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.84,
+            "mid_price": 12.95,
+            "high_price": 129.62,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 9.52,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/253398"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9bb8c09b7d76eb3b25f9d32fcaeda18ee68acff7fb108d4a6652f05e11c5892395fd31c371b9a3f7facd88a36c98",
+      "card_info": {
+        "name": "Pikachu - 58/102 (25th Anniversary)",
+        "clean_name": "Pikachu 58 102 25th Anniversary",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "58/102",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>\r\nFlip a coin. If tails, Pikachu does 10 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.95,
+            "mid_price": 8.5,
+            "high_price": 109.82,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 7.48,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/257780"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b9ce17d99ebd5e86781d48d61ce5d9b26bc17b14253d0cb0185fe6904f91ab4427eb3c33c2b733d9c9ccb3bd82d30d",
+      "card_info": {
+        "name": "Pikachu V - SWSH198",
+        "clean_name": "Pikachu V SWSH198",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH198",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1LL] Lightning Blast (100+)\r\n<br>You may discard all Lightning Energy from this Pokémon. If you do, this attack does 120 more damage,"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.11,
+            "mid_price": 3.24,
+            "high_price": 50,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 3.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/260712"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_cbf101912bc35ecd65a3fc5444f763cf0045175a744f1841c5ba29d49850dd95d2b08cefb720546e4692653842cfe9",
+      "card_info": {
+        "name": "Pikachu VMAX - SWSH286",
+        "clean_name": "Pikachu VMAX SWSH286",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "SWSH286",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "310.0",
+        "stage": "VMAX",
+        "card_text": "<em>VMAX rule — When your Pokémon VMAX is Knocked Out, your opponent  takes 2 Prize cards.</em>",
+        "attacks": [
+          "[L] Tail Charge (30)\r\n<br>Attach up to 3 Lightning Energy cards from your discard pile to 1 of your Pokémon.",
+          "[1LLL] G-Max Thunder (250)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 5.54,
+            "high_price": 54.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 5.59,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/478425"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 111,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 111,
+    "tcg": 107,
+    "cardmarket": 42,
+    "tcg_only": 69,
+    "cardmarket_only": 4,
+    "both_sources": 38
+  }
+}

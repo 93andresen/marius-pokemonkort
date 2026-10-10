@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+05&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:48 GMT
+Content-Type: application/json
+Content-Length: 19411
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 937
+X-RateLimit-Remaining-Hour: 37
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2B5g7Yw3dbajsmN4V2KnVZCCRpJ7qygtIuBqTQ1zIuHxhBMwTWOdoSKZO%2FTWtN960KlUlAXnYAt49gjFL6RFuu7FpK9ZFSEZ07JKPH%2BQtwQEkoF8g8ZZ7Ke4yV2InlNbOYPU55zeAbPHuHMaS2yJVbg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854e6dada235a6-OSL
+alt-svc: h3=":443"; ma=86400

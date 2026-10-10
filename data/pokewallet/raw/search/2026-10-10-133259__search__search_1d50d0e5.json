@@ -1,0 +1,164 @@
+{
+  "query": "Poliwrath Skyridge",
+  "results": [
+    {
+      "id": "pk_eb69ea4b23eed466bbee874a5b3bd5602549124e95cae8d2b1c1981120ac5c0920f520cd6bfcd5024c0d10f1854a",
+      "card_info": {
+        "name": "Poliwrath (H24)",
+        "clean_name": "Poliwrath H24",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "H24/H32",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Strange Spiral</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+        "attacks": [
+          "[1FF] Spiral Punch (40+)\r\n<br>Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 139.99,
+            "mid_price": 139.99,
+            "high_price": 139.99,
+            "updated_at": "2026-10-07T11:54:48.929003",
+            "market_price": 500.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88272"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 30,
+            "avg7": 38.73,
+            "avg30": 31.07,
+            "trend": 40.82,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 2750,
+            "low": 69.99,
+            "avg1": 2750,
+            "avg7": 504.28,
+            "avg30": 195.39,
+            "trend": 634.29,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwrath-V1-SKH24"
+      }
+    },
+    {
+      "id": "pk_86279a4e48134f7c9cf1cc83f393017f18314c635e794b680344f1d51b8ffa6c33170e7983a7e65afc2bdaac3d",
+      "card_info": {
+        "name": "Poliwrath (26)",
+        "clean_name": "Poliwrath 26",
+        "set_name": "Skyridge",
+        "set_code": "SK",
+        "set_id": "1372",
+        "card_number": "026/144",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Poké-POWER — Strange Spiral</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+        "attacks": [
+          "[1FF] Spiral Punch (40+)\r\n<br>Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+        ],
+        "weakness": "P",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 84.99,
+            "mid_price": 179.99,
+            "high_price": 567.02,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 60.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 340,
+            "mid_price": 345,
+            "high_price": 349.99,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 102.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88273"
+      },
+      "cardmarket": {
+        "product_name": "Poliwrath",
+        "prices": [
+          {
+            "avg": 16.96,
+            "low": 3,
+            "avg1": 14,
+            "avg7": 15.1,
+            "avg30": 17.57,
+            "trend": 9.94,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 58.95,
+            "low": 3,
+            "avg1": 32.5,
+            "avg7": 43.63,
+            "avg30": 43.36,
+            "trend": 27.48,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwrath-V2-SK26"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

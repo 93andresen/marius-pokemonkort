@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Primeape+50&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:09 GMT
+Content-Type: application/json
+Content-Length: 4424
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 925
+X-RateLimit-Remaining-Hour: 25
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FAxA%2F%2Ffqr3AdL5A386fXgNgi4NRyKd6b2Pbr8QoHYK%2BDUZ2IBAVGNG8MOCAtkuGiGrrdhkLKLOoa9i64u4H8pb%2Bxtq1CJY%2BpZXbswPaSuQ45lyOoc9VXzqe0AZzu5oSsHae6h2dEQ15o5M8yCco3%2BQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854ef6bcca0b69-OSL
+alt-svc: h3=":443"; ma=86400

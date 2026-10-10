@@ -1,0 +1,856 @@
+{
+  "query": "Pikachu 19",
+  "results": [
+    {
+      "id": "pk_5d0e31a97d66ee429c2773321ede2dfbcd95530a25da93fe5b3e034811e408ba3f3ccea8596ae546acb5d32647e5bb",
+      "card_info": {
+        "name": "Boss's Orders - 154/192 (#44 Pikachu Stamped)",
+        "clean_name": "Bosss Orders 154 192 44 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "154/192",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.57,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.53,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268174"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0a21624015536149af2dbdb369859703336d9b5dbf36cf63895857da57bc969e5d9033a536e0f777ca",
+      "card_info": {
+        "name": "Lightning Energy (#19 Pikachu Stamped)",
+        "clean_name": "Lightning Energy 19 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": null,
+        "rarity": "Promo",
+        "card_type": "Basic Lightning Energy",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268197"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1809628de56af50643f56eb7091f2ec83a3bbecde2b2e6afa92e8371bbd68d2f034c2e1f0b165c7a1a9ce3701478ff",
+      "card_info": {
+        "name": "Sonia - 167/192 (#51 Pikachu Stamped)",
+        "clean_name": "Sonia 167 192 51 Pikachu Stamped",
+        "set_name": "Battle Academy 2022",
+        "set_code": "BA22",
+        "set_id": "3051",
+        "card_number": "167/192",
+        "rarity": "Promo",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Pokemon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.22,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/268229"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4b85f95b4026734bad93fe6dde85c3ed1824bb15b245a049050b97c7d7b05f8624cb3c12a9ad004ab3f35242b8b8df83",
+      "card_info": {
+        "name": "Electric Generator - Pikachu 32",
+        "clean_name": "Electric Generator Pikachu 32",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "170/198",
+        "rarity": "Uncommon",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 5 cards of your deck and attach up to 2 basic [L] Energy cards you find there to your Benched [L] Pokemon in any way you like. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556884"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_ff456b8ca0a70d5856be62bcc3e6bb9c21163053d6a0da2ece2719fa33bc88ebef8eaa7e65b5fd8d88af9238b89670",
+      "card_info": {
+        "name": "Electrode - Pikachu 56",
+        "clean_name": "Electrode Pikachu 56",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556886"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_261721c2eb094c49690f737cd602831fa58368c1d04a505e8a726ac5ad9abede824c5a531c7ba8fb83cbf6806793e0",
+      "card_info": {
+        "name": "Electrode - Pikachu 6",
+        "clean_name": "Electrode Pikachu 6",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.24,
+            "high_price": 20.23,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556887"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_39b9bc860a8e324bc4c6616a6a94bf49d64386a1046d0a68bdfdbe4ced162387a13623c2341019ed55a0da263254b0",
+      "card_info": {
+        "name": "Electrode - Pikachu 25",
+        "clean_name": "Electrode Pikachu 25",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "067/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[L] Lightning Ball (60)",
+          "[C][C][C] Rolling Tackle (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556889"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_5820f1e44f83b3e9abee756b77458256994a4b2b18785fb61dd3b022ec4d3cf8df67db3c4d4da134be14247604d0bd11",
+      "card_info": {
+        "name": "Great Ball - Pikachu 29",
+        "clean_name": "Great Ball Pikachu 29",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "183/193",
+        "rarity": "Common",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.24,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.21,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556913"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_50f1ec2b6171b997c324a8c2d3d73ea1d9f5350687fa96a744541f31ceaed6beeb856a581a18049b7cfda3b5e84a338a",
+      "card_info": {
+        "name": "Great Ball - Pikachu 38",
+        "clean_name": "Great Ball Pikachu 38",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "183/193",
+        "rarity": "Common",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.11,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556914"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_050b4cc40663124d6a1c7aadbe84065d45e8c7607b1eb86916dce3f8023074e60398e3bdedf36b15162597f613743b26",
+      "card_info": {
+        "name": "Great Ball - Pikachu 49",
+        "clean_name": "Great Ball Pikachu 49",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "183/193",
+        "rarity": "Common",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556915"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8b416ef733954fb8b2b782411c77cbc186ea74b031c5d1012765c7a39e5c58882f1456465a440576ca2c2b665a23bfc5",
+      "card_info": {
+        "name": "Great Ball - Pikachu 57",
+        "clean_name": "Great Ball Pikachu 57",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "183/193",
+        "rarity": "Common",
+        "card_type": "Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.13,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556916"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f15506f27ff7edeb5f61564c8c1d119e20897de177bc8fba50e198192afd871589782f9352360a0d46174a0b078aafdd",
+      "card_info": {
+        "name": "Jacq - Pikachu 51",
+        "clean_name": "Jacq Pikachu 51",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "175/198",
+        "rarity": "Uncommon",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Evolution Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.32,
+            "mid_price": 0.4,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556919"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_541d69b030403ce67039b6e4ee41968f323a8b01563314cf43802000092218b95d04408a8240a8e3674a21a645745453",
+      "card_info": {
+        "name": "Potion - Pikachu 15",
+        "clean_name": "Potion Pikachu 15",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "188/192",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Heal 30 damage from 1 of your Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556920"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_f0486f52a8595ff533743e6bb39776c2e2c393ee283c51b6f41602267d0b0bde3b3794296ce2a8cbb0486f9452a22af0",
+      "card_info": {
+        "name": "Potion - Pikachu 18",
+        "clean_name": "Potion Pikachu 18",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "188/192",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Heal 30 damage from 1 of your Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556921"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_525fe47a98ae1a970e614b42d6a67ec79bc6487263b5022e49cb56f423da7ad3851e4d91fd81e359d4e65ef132b4ac",
+      "card_info": {
+        "name": "Kilowattrel - Pikachu 40",
+        "clean_name": "Kilowattrel Pikachu 40",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "082/193",
+        "rarity": "Uncommon",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Peck (20)",
+          "[C][C][C] Jet Wing (150) During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.22,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556922"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3705a8e429a08b844fb8b36c6f5793b4817a63e4acc5738147d8bf925b6e9175f895b22f2c21859c7444b569",
+      "card_info": {
+        "name": "Mareep - Pikachu 19",
+        "clean_name": "Mareep Pikachu 19",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "107",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Headbutt (10)",
+          "[L][C] Lightning Ball (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.27,
+            "mid_price": 0.5,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.38,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556923"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_fd9a6890717011b90196b2668774db65502f9645b2d6545845cd43146d3bdc38b92fa9595f3e5744d5e8c3ca0fd666",
+      "card_info": {
+        "name": "Rotom - Pikachu 14",
+        "clean_name": "Rotom Pikachu 14",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "069/198",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Linear Attack\r\n<br>This attack does 20 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.22,
+            "high_price": 20.23,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.18,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556925"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_40ffbefd88d38cc698c07d420809927c39a7f44967acf268f43a65b3641945b6b71b5b985545dce6ce899c7341e7ec5b",
+      "card_info": {
+        "name": "Switch - Pikachu 36",
+        "clean_name": "Switch Pikachu 36",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "194/198",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.12,
+            "mid_price": 0.2,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.16,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556928"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_977372e45511e0397a0d38c28b567d78d5e4669649a1f06c716e46bf37cc08f140efdf5506186d1f0372a3cca1a32cbe",
+      "card_info": {
+        "name": "Nemona - Pikachu 13",
+        "clean_name": "Nemona Pikachu 13",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "180/198",
+        "rarity": "Common",
+        "card_type": "Supporter",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.17,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556930"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8085dcfd8526bdb99f565953b89dbeae592f314fece64910447a12d8a7e05ca3ad708b732857860b6868753cff2b3786",
+      "card_info": {
+        "name": "Switch - Pikachu 52",
+        "clean_name": "Switch Pikachu 52",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "194/198",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "product_type": "card",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.23,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 0.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556931"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 109,
+    "total_pages": 6
+  },
+  "metadata": {
+    "total_count": 109,
+    "tcg": 102,
+    "cardmarket": 30,
+    "tcg_only": 79,
+    "cardmarket_only": 7,
+    "both_sources": 23
+  }
+}

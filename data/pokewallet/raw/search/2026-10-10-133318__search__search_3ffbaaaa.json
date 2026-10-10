@@ -1,0 +1,508 @@
+{
+  "query": "Uxie 43",
+  "results": [
+    {
+      "id": "pk_3276323239c1c5ee97e81a531b8be15db4c75dceefb68a87eada1453420dd3489b0f6f3b8f50b4a4492e7ec9a531",
+      "card_info": {
+        "name": "Uxie - 43/146 (League Promo)",
+        "clean_name": "Uxie 43 146 League Promo",
+        "set_name": "League & Championship Cards",
+        "set_code": "PR",
+        "set_id": "1539",
+        "card_number": "043/146",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>Once during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20) \r\n<br>You may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.48,
+            "mid_price": 15.85,
+            "high_price": 154.92,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 15.02,
+            "direct_low_price": 13.72,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/145871"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_6ff84bb108f2df36c56db305c20cabb0c2819153b684910bf861dc9e9b918d268a3fc920c4af601be088a4a9f5",
+      "card_info": {
+        "name": "Uxie",
+        "clean_name": "Uxie",
+        "set_name": "Legends Awakened",
+        "set_code": "LA",
+        "set_id": "1417",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 18,
+            "mid_price": 27.5,
+            "high_price": 168.52,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 18.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 18,
+            "mid_price": 25.03,
+            "high_price": 240.52,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 19.99,
+            "direct_low_price": 27.32,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/90260"
+      },
+      "cardmarket": {
+        "product_name": "Uxie Lv.55",
+        "prices": [
+          {
+            "avg": 6.09,
+            "low": 1,
+            "avg1": 2.75,
+            "avg7": 5.57,
+            "avg30": 6.01,
+            "trend": 4.47,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 2.9,
+            "avg1": 2.45,
+            "avg7": 4.75,
+            "avg30": 8.06,
+            "trend": 6.41,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Uxie-Lv55-V1-LA43"
+      }
+    },
+    {
+      "id": "pk_3a920217802449cf8294dd50136a0db6d6f96b59645b2b87f3a56c7385d00007888fd4d643f3e06cbdde0070f74b",
+      "card_info": {
+        "name": "Uxie - 2009 (Tsubasa Nakamura)",
+        "clean_name": "Uxie 2009 Tsubasa Nakamura",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 4.27,
+            "high_price": 46.02,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 2.74,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479973"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9c8b612b0a06d5da722811c37c15972a8767831020ccef66ccb81aeefa25d0dedfadfcab5a3005902659b3a1c680",
+      "card_info": {
+        "name": "Uxie - 2009 (Jason Martinez)",
+        "clean_name": "Uxie 2009 Jason Martinez",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.99,
+            "mid_price": 6.9,
+            "high_price": 89.62,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 7,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479975"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_40523f1ca8d913fc04af35d33f7099a600e1ddf42ede5fcade1d919e3e81ce84dc5ec07a352b92c7b9f812fcff52",
+      "card_info": {
+        "name": "Uxie - 2009 (David Cohen)",
+        "clean_name": "Uxie 2009 David Cohen",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.9,
+            "mid_price": 4.18,
+            "high_price": 47.82,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 3.46,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/479977"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_8c003dd0905dfd57c9dc9c38077da255656c4476ce4d6e8ef4c073648951efb604d52bf2c47761b638ac0cde715a",
+      "card_info": {
+        "name": "Uxie - 2010 (Michael Pramawat)",
+        "clean_name": "Uxie 2010 Michael Pramawat",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.95,
+            "mid_price": 7.69,
+            "high_price": 89.62,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 4.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480123"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_dd1016a2f5c6df3a8a1d1cb0190bc499bd0a4acfbc918ca50c7e1f8117af3d2a8b034cd7acb41afba038af9a8c1f",
+      "card_info": {
+        "name": "Uxie - 2010 (Mychael Bryan)",
+        "clean_name": "Uxie 2010 Mychael Bryan",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 6.47,
+            "high_price": 92.89,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 5.2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480124"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_4aa774b5198e1315d6fbc163e9c1c9e15d0c79175c57779aa58f2ca8794da072e60fa29f9d77d7044122907d0bf7",
+      "card_info": {
+        "name": "Uxie - 2010 (Yuta Komatsuda)",
+        "clean_name": "Uxie 2010 Yuta Komatsuda",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.87,
+            "mid_price": 7.91,
+            "high_price": 99.9,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 5.42,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/480125"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2c1b537e686f72afaba7990a5b44c2b38f9e67e6849674e3374eb93f5ee1eeb3c1c6495bc67391ffe20ddda0f963",
+      "card_info": {
+        "name": "Uxie - 2010 (Yuka Furusawa)",
+        "clean_name": "Uxie 2010 Yuka Furusawa",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "43/146",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Poké-POWER — Set Up</strong>\r\n<br>\r\nOnce during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "attacks": [
+          "[1] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7,
+            "mid_price": 7.99,
+            "high_price": 59.82,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 5.14,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/534467"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_d6bbef376fa01de12e2c3e0d4d459601d02234b74a3452bff60b57a76d53d5a73e7cf0e1b01f43fc9bcc94f5e883f4",
+      "card_info": {
+        "name": "Uxie",
+        "clean_name": "Uxie",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "43/146",
+        "rarity": "Classic Collection",
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Psychic Restore (20)\r\n<br>\r\nYou may put Uxie and all cards attached to it on the bottom of your deck in any order."
+        ],
+        "weakness": "P+20",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.99,
+            "mid_price": 6,
+            "high_price": 219.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 5.04,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716163"
+      },
+      "cardmarket": {
+        "product_name": "Uxie Lv.55 (30C LA 43)",
+        "prices": [
+          {
+            "avg": 6.91,
+            "low": 3.6,
+            "avg1": 6.84,
+            "avg7": 6.8,
+            "avg30": 6.9,
+            "trend": 6.04,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Uxie-Lv55-30CLA-43"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 10,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 10,
+    "tcg": 10,
+    "cardmarket": 2,
+    "tcg_only": 8,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

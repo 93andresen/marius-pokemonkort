@@ -1,0 +1,234 @@
+{
+  "query": "Primeape 50",
+  "results": [
+    {
+      "id": "pk_92faef8ed4ebcd8de28d09877445a459beeca9df7dc44bf3a95767d122e73eb0e4fa53f51b8a7b1072fbe9228f",
+      "card_info": {
+        "name": "Primeape (Delta Species)",
+        "clean_name": "Primeape Delta Species",
+        "set_name": "Holon Phantoms",
+        "set_code": "HP",
+        "set_id": "1379",
+        "card_number": "50/110",
+        "rarity": "Uncommon",
+        "card_type": "Fire",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1R] Wreck (30+) \r\n<br>If there is any Stadium card in play, this attack does 30 damage plus 30 more damage.  Discard that Stadium card.",
+          "[2R] Flames of Rage (10+) \r\n<br>Discard 2 Energy attached to Primeape.  This attack does 10 damage plus 20 more damage for each damage counter on Primeape."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.75,
+            "mid_price": 3.44,
+            "high_price": 19.8,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 3.37,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.82,
+            "mid_price": 124.49,
+            "high_price": 681.38,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 65.9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88367"
+      },
+      "cardmarket": {
+        "product_name": "Primeape δ Delta Species",
+        "prices": [
+          {
+            "avg": 1.26,
+            "low": 0.15,
+            "avg1": 2.13,
+            "avg7": 1.54,
+            "avg30": 1.27,
+            "trend": 1.82,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 7.81,
+            "low": 5,
+            "avg1": 9,
+            "avg7": 12.27,
+            "avg30": 18.72,
+            "trend": 13.57,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Primeape-Delta-Species-HP50"
+      }
+    },
+    {
+      "id": "pk_718c7da0294161ecb175413067e513fb80ac2a891df0649160fce8dbc0fe3e2630f68ef321893d9bb98fcae3792f3a",
+      "card_info": {
+        "name": "Primeape",
+        "clean_name": "Primeape",
+        "set_name": "SM4A: Ultradimensional Beasts",
+        "set_code": "SM4A",
+        "set_id": "23682",
+        "card_number": "024/050",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Low Kick (30)",
+          "[Fighting][Fighting] Lucha Fight (90)<br> During your opponent's next turn, the Defending Pokémon's attacks do 30 more damage <em>(before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 4,
+            "high_price": 4,
+            "updated_at": "2026-10-10T10:53:24.334751",
+            "market_price": 2.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/572020"
+      },
+      "cardmarket": {
+        "product_name": "Primeape",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.69,
+            "low": 0.45,
+            "avg1": 0.69,
+            "avg7": 0.52,
+            "avg30": 0.44,
+            "trend": 0.48,
+            "updated_at": "2026-10-10T10:31:55.314624",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultradimensional-Beasts/Primeape"
+      }
+    },
+    {
+      "id": "pk_e89005a612ea7c0e69120cda638cde1a969a6c05addb773ebc0173f58a5199ddadd2ac41cf91e524499fd5e14ea860",
+      "card_info": {
+        "name": "Primeape",
+        "clean_name": "Primeape",
+        "set_name": "SV1V: Violet ex",
+        "set_code": "SV1V",
+        "set_id": "23606",
+        "card_number": "050/078",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Fighting] Raging Punch (70)<br> This Pokémon does 20 damage to itself."
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.18,
+            "high_price": 1.35,
+            "updated_at": "2026-10-10T10:53:23.438907",
+            "market_price": 0.07,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/568276"
+      },
+      "cardmarket": {
+        "product_name": "Primeape",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Violet-ex/Primeape-sv1V050"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 3,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 3,
+    "tcg": 3,
+    "cardmarket": 3,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 3
+  }
+}

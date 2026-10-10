@@ -1,0 +1,92 @@
+{
+  "query": "Morpeko 135",
+  "results": [
+    {
+      "id": "pk_7750a7ef76212a675ca41dafc97c1546a153d1420c049832f7d0ed8e22131b245558f35d50f5b8711c4d80d5ad65c24c",
+      "card_info": {
+        "name": "Morpeko - 135/128",
+        "clean_name": "Morpeko 135 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "135/128",
+        "rarity": "Illustration Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Select a Snack<br> Discard the top 3 cards of your deck and put 1 of them into your hand.",
+          "[L] Slap (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.49,
+            "mid_price": 7,
+            "high_price": 115.03,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 5.5,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716223"
+      },
+      "cardmarket": {
+        "product_name": "Morpeko (30C 135)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.54,
+            "low": 1.2,
+            "avg1": 4.22,
+            "avg7": 4.32,
+            "avg30": 5.5,
+            "trend": 3.23,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Morpeko-V2-30C135"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+17&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:43 GMT
+Content-Type: application/json
+Content-Length: 19898
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 939
+X-RateLimit-Remaining-Hour: 39
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Opc4bJLn6%2FpQvvMxCBLXMB%2FBExUZjKIvvlca5SocBj808lILOzzorWX6upzkx7SGvGKlBEr8YPmqMPJcCX7ataMFkV9rlzUHg6z%2BjI82QnIGIz4Q22ogvt5dnsrXF5yrCOOWXiTFN%2BN%2Fi5O9wgecZw%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854e4d0a8d2efa-OSL
+alt-svc: h3=":443"; ma=86400

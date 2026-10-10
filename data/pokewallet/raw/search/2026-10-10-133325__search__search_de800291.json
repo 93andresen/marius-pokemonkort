@@ -1,0 +1,89 @@
+{
+  "query": "Kingdra Prime 85",
+  "results": [
+    {
+      "id": "pk_bfc04f080c5fdb845b8e9fec0483c485fb8cb7321a24a2589f89c9470be42b9a615deea4c53f375b37c8fb56",
+      "card_info": {
+        "name": "Kingdra (Prime)",
+        "clean_name": "Kingdra Prime",
+        "set_name": "Unleashed",
+        "set_code": "UL",
+        "set_id": "1399",
+        "card_number": "85/95",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": "Spray Splash - Once during your turn (before your attack), you may put 1 damage counter on 1 of your opponent's Pokemon.  This power can't be used if Kingdra is affected by a Special Condition.  (Poke-POWER)",
+        "attacks": [
+          "[W] Dragon Steam (60) If your opponent has any R Pokemon in play, this attack's base damage is 20 instead of 60."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 134.15,
+            "mid_price": 250,
+            "high_price": 612.92,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 62.72,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/86448"
+      },
+      "cardmarket": {
+        "product_name": "Kingdra",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.99,
+            "avg7": 7.07,
+            "avg30": 6.22,
+            "trend": 7.03,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 22.66,
+            "low": 1.9,
+            "avg1": 46.33,
+            "avg7": 34.4,
+            "avg30": 32.57,
+            "trend": 29.05,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Kingdra-UL85"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

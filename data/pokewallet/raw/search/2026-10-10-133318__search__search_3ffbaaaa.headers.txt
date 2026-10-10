@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Uxie+43&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:23 GMT
+Content-Type: application/json
+Content-Length: 11517
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 920
+X-RateLimit-Remaining-Hour: 20
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=n3lqBtJI4IfQ1BKGgVvHjV3koNTngSBHJh0Bn8h3488OA6EboV3oaNp0xQYHOjA8Fq0vr7pc8FUXwV9UnuAgqwpSQD4cLwMoptZldZ8aAXTGOw%2BDfIrB41u7WdI9auL6U7jAw%2B9izKz0tGsA5FSFKA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f480aa6b4fa-OSL
+alt-svc: h3=":443"; ma=86400

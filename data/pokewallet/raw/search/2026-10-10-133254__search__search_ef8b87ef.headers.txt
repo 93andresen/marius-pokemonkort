@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Eevee+Heroes+Booster+Pack+%E2%80%93+U%C3%A5pnet+Sealed&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:00 GMT
+Content-Type: application/json
+Content-Length: 232
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 931
+X-RateLimit-Remaining-Hour: 31
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dRWxKTrWnQVMxOdTS%2FYm3nJC20kk43eOQtNRJn%2BI7MpWMgEFJIUet0Niib2nv%2FZaKuOvf64bWBngj0wMy1IhzAz0x3TD%2F2u%2BR8p6FL0OQckWzxAC6u4TgpLbZLa6OP%2FyOOt4fSTqt1GAqWzlesUd3Q%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854ec0387c723c-OSL
+alt-svc: h3=":443"; ma=86400

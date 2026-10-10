@@ -1,0 +1,301 @@
+{
+  "query": "- 30th Celebration 21",
+  "results": [
+    {
+      "id": "pk_2f1163e5e7824a44b44946988c15bf39f18570f615a30759846d350d1f96b99eca77176e7aa464c1bc7b24b8e48085",
+      "card_info": {
+        "name": "Greninja ex - 021/128",
+        "clean_name": "Greninja ex 021 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "021/128",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "product_type": "card",
+        "hp": "300.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[W] Stealthy Slash<br> This attack does 30 damage to 1 of your opponent's Pok?mon for each damage counter on that Pok?mon. <em>(Don't apply Weakness and Resistance for Benched Pok?mon.)</em>",
+          "[WW] Aqua Edge (160)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.64,
+            "high_price": 49.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.51,
+            "direct_low_price": 0.79,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/696676"
+      },
+      "cardmarket": {
+        "product_name": "Greninja ex (30C 021)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.54,
+            "low": 0.03,
+            "avg1": 0.44,
+            "avg7": 0.4,
+            "avg30": 0.54,
+            "trend": 0.31,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Greninja-ex-V1-30C021"
+      }
+    },
+    {
+      "id": "pk_2e508b21cdcb73972eeab890061d9382591faef697dcaf2feba9c4096b2a73615354f10f7ee5451b64af8346692d71b5",
+      "card_info": {
+        "name": "Lugia",
+        "clean_name": "Lugia",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "121/128",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RWL] Elemental Blast (250)<br> Discard a Fire Energy, a Water Energy, and a Lightning Energy from this Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.4,
+            "high_price": 49,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.29,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716510"
+      },
+      "cardmarket": {
+        "product_name": "Lugia (30C 121)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.18,
+            "avg30": 0.22,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Lugia-30C121"
+      }
+    },
+    {
+      "id": "pk_45e463810c9a29a1a7e746e9523158465319fc52fa96776a6d076890ce5e346cf96b0965f30d297dc8575e90deb28d",
+      "card_info": {
+        "name": "Pikachu - 021/103",
+        "clean_name": "Pikachu 021 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "021/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Nap<br> Heal 30 damage from this Pokemon."
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.9,
+            "mid_price": 1.79,
+            "high_price": 4.99,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 1.53,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716823"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (m6a 021)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.52,
+            "low": 0.95,
+            "avg1": 1.35,
+            "avg7": 1.26,
+            "avg30": 1.52,
+            "trend": 0.52,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Pikachu-m6a021"
+      }
+    },
+    {
+      "id": "pk_050e246a1b18f8ba1226e16f37911d582b3235ddc4faed3305c9816a1c5eaf600a29ae6c7234427e2fe9ad7fbef756",
+      "card_info": {
+        "name": "Deino",
+        "clean_name": "Deino",
+        "set_name": "30th Celebration Premium Deck Set",
+        "set_code": "mF",
+        "set_id": "24856",
+        "card_number": "021/040",
+        "rarity": null,
+        "card_type": "Darkness",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Gnaw (10)",
+          "[Darkness][Colorless] Headbutt (20)"
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.35,
+            "high_price": 1.2,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716796"
+      },
+      "cardmarket": {
+        "product_name": "Deino (mF 021)",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.25,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1,
+            "low": 0.25,
+            "avg1": 0.5,
+            "avg7": 0.67,
+            "avg30": 0.67,
+            "trend": 0.56,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/it/Pokemon/Products/Singles/30th-Celebration-Premium-Deck-Set/Deino-MF021"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 4,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 4,
+    "tcg": 4,
+    "cardmarket": 4,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 4
+  }
+}

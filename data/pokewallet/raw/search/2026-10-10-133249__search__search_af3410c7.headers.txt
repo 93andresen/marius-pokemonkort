@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Pikachu+ex&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:32:55 GMT
+Content-Type: application/json
+Content-Length: 22670
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 934
+X-RateLimit-Remaining-Hour: 34
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ti1JaUW%2BLgk%2BgzyP3W402xOPTvtbUtRl2aF3zvg2hdWvtcXs4clhjXA%2FA%2Frc6n0q8GajIbT7QOMhSos44re7BxUXJ8Kc%2BQMtYnr%2BzExrLoEwtqrmI6nkpHybMeimI3t34EdIjedW7oAHgu2hwMwtwg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854e999c922efa-OSL
+alt-svc: h3=":443"; ma=86400

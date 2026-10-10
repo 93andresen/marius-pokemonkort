@@ -1,0 +1,1438 @@
+{
+  "query": "- 30th Celebration 05",
+  "results": [
+    {
+      "id": "pk_d98014ef2c09f810845c621415151fe5e609154bace5464050538c3fecfb8c689e63bf2f99a10fb35629f9934dcf26",
+      "card_info": {
+        "name": "Zeraora",
+        "clean_name": "Zeraora",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "057/128",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Rapid Draw (20)<br> Draw a card.",
+          "[LC] Electrobullet (50)<br> This attack also does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 49,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.23,
+            "direct_low_price": 0.17,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/696831"
+      },
+      "cardmarket": {
+        "product_name": "Zeraora (30C 057)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Zeraora-30C057"
+      }
+    },
+    {
+      "id": "pk_22f64f0c53df58c3f47714edd3cb09d007ba60b456536f14ad7cd67c8dd6e7add8844eef279093b47cb88b2e5d80bf",
+      "card_info": {
+        "name": "Pikachu - 050/128",
+        "clean_name": "Pikachu 050 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "050/128",
+        "rarity": "Pikachu Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLCC] Satisfied Spark (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.38,
+            "mid_price": 1.06,
+            "high_price": 40.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.82,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/712950"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (30C 050)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.94,
+            "low": 0.25,
+            "avg1": 1.4,
+            "avg7": 1.58,
+            "avg30": 1.92,
+            "trend": 1.42,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-30C050"
+      }
+    },
+    {
+      "id": "pk_903be703cd0d2a313d64f677f623062d04a74e3e3cfe9f83252f24984f25956faf09dacbd7f51b5f5bdcf0834f936b",
+      "card_info": {
+        "name": "Pikachu ex - 053/128",
+        "clean_name": "Pikachu ex 053 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "053/128",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Pika-Pika Parade\r\n<br>Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+          "[LLC] Thunderbolt (200)\r\n<br>Discard all Energy from this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.54,
+            "mid_price": 1.33,
+            "high_price": 49,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 1.15,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/712951"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex (30C 053)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.9,
+            "low": 0.18,
+            "avg1": 1.35,
+            "avg7": 1.45,
+            "avg30": 1.88,
+            "trend": 1.17,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-ex-V1-30C053"
+      }
+    },
+    {
+      "id": "pk_72fd41497eb3f9a99eedba62819b6d68354aa55e52a874a1044d2939d2d1d379ef2b50067de459b3e7bb87b59b1137",
+      "card_info": {
+        "name": "Pikachu ex - 054/128",
+        "clean_name": "Pikachu ex 054 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "054/128",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Zip-Zap Frenzy\r\n<br>You may attach any number of Basic Energy cards from your hand to your Pokémon in any way you like.",
+          "[LLC] Thunder (200)\r\n<br>This Pokémon also does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.79,
+            "mid_price": 1.55,
+            "high_price": 25,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 1.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/712952"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex (30C 054)",
+        "prices": [
+          {
+            "avg": 1.95,
+            "low": 0.2,
+            "avg1": 1.31,
+            "avg7": 1.49,
+            "avg30": 1.94,
+            "trend": 1.2,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-ex-V1-30C054"
+      }
+    },
+    {
+      "id": "pk_76367d191dfddcb37f1a2b1913bab1f762a15d0b7fd51790d0f8f32c8eed307617a791fd02019dfc11c2909a52d9e0",
+      "card_info": {
+        "name": "Pikachu - 051/128",
+        "clean_name": "Pikachu 051 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "051/128",
+        "rarity": "Pikachu Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLL] Lightning Crash\r\n<br>Discard all Lightning Energy from this Pokémon, and this attack does 90 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1,
+            "high_price": 46,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.78,
+            "direct_low_price": 0.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716317"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (30C 051)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.05,
+            "low": 0.09,
+            "avg1": 0.7,
+            "avg7": 0.79,
+            "avg30": 1.04,
+            "trend": 0.62,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-30C051"
+      }
+    },
+    {
+      "id": "pk_9c16425340d88ae2fa9804e1068452a8545ecdc0475ee1b43d394fe3e6bc299fe6b725d0c252259c9dc60e39f5cd29",
+      "card_info": {
+        "name": "Pikachu - 052/128",
+        "clean_name": "Pikachu 052 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "052/128",
+        "rarity": "Pikachu Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Angry Bolt (10+)\r\n<br>This attack does 10 more damage for each damage counter on this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.34,
+            "mid_price": 1,
+            "high_price": 41,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.67,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716318"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu (30C 052)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.14,
+            "low": 0.05,
+            "avg1": 0.72,
+            "avg7": 0.8,
+            "avg30": 1.13,
+            "trend": 0.57,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Pikachu-30C052"
+      }
+    },
+    {
+      "id": "pk_0203db75d352a614b9063d131a7a30bbaa7f1328586a65e70182d166e71fb08c8d00eb76a0358f36d43103446f63",
+      "card_info": {
+        "name": "Tropius",
+        "clean_name": "Tropius",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "005/128",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GC] Rally Back (30+)<br> If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage.",
+          "[GCC] Cutting Wind (90)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 2.81,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.14,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716439"
+      },
+      "cardmarket": {
+        "product_name": "Tropius (30C 005)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Tropius-30C005"
+      }
+    },
+    {
+      "id": "pk_3e179b554611f241849f0811631e920c8589a719aa0068cdfb7c57372e22ca5de75d2e081da8d2930a4a028b88a103",
+      "card_info": {
+        "name": "Zapdos - 055/128",
+        "clean_name": "Zapdos 055 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "055/128",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLLC] Thundering Lightning (210)<br> This Pokémon also does 60 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 5.12,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.22,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716455"
+      },
+      "cardmarket": {
+        "product_name": "Zapdos (30C 055)",
+        "prices": [
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.1,
+            "avg30": 0.14,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Zapdos-V1-30C055"
+      }
+    },
+    {
+      "id": "pk_5b186d908319a54c57f1e4df97b50739704a5f0be9d01537d99696c6746a56ecc21807e33c305c1768bab2192dd0fe",
+      "card_info": {
+        "name": "Zekrom",
+        "clean_name": "Zekrom",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "056/128",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LC] Slash (50)",
+          "[LCC] Nitro Thunder (80+)<br> If this Pokémon has any Fire Energy attached, this attack does 80 more damage."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.24,
+            "high_price": 49,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.18,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716456"
+      },
+      "cardmarket": {
+        "product_name": "Zekrom (30C 056)",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.12,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Zekrom-30C056"
+      }
+    },
+    {
+      "id": "pk_be99a1fd0df12c4e3cc5ceb349bada5880f926726aab394d76eda4172665b85487b53e7103aaaf32beaf7c03429faa",
+      "card_info": {
+        "name": "Toxel",
+        "clean_name": "Toxel",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "058/128",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Ram (10)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 35,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.16,
+            "direct_low_price": 0.13,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716457"
+      },
+      "cardmarket": {
+        "product_name": "Toxel (30C 058)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.03,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Toxel-30C058"
+      }
+    },
+    {
+      "id": "pk_8af5aa2c56d247559d4e27ee7ec8a2b6be4624c14adc7622b7a91becbffcc2ff8c64bdeb9e5063764a080e90fde0d1",
+      "card_info": {
+        "name": "Toxtricity - 059/128",
+        "clean_name": "Toxtricity 059 128",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "059/128",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[LC] Mach Bolt (80)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 49,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.23,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716458"
+      },
+      "cardmarket": {
+        "product_name": "Toxtricity (30C 059)",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.08,
+            "avg30": 0.1,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Toxtricity-30C059"
+      }
+    },
+    {
+      "id": "pk_a2889c147801d1b589ff5847cdcf9167686bfdb6b67dcdba1fe62f6f5c0f64952845cc80784702c853bb071717a36803",
+      "card_info": {
+        "name": "Solgaleo",
+        "clean_name": "Solgaleo",
+        "set_name": "30th Celebration",
+        "set_code": "30C",
+        "set_id": "24722",
+        "card_number": "105/128",
+        "rarity": "Rare",
+        "card_type": "Metal",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[MMCC] Sunsteel Strike (220)<br> Discard all Energy from this Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": "G-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 25,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 0.16,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716498"
+      },
+      "cardmarket": {
+        "product_name": "Solgaleo (30C 105)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.11,
+            "trend": 0.04,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Solgaleo-30C105"
+      }
+    },
+    {
+      "id": "pk_bfb8c09bfe9eef06eb20398f2bb0faed798dde123f97f2d575664288a86f5c224c328ab61e986b2ca4c9c938928bdc",
+      "card_info": {
+        "name": "Raikou",
+        "clean_name": "Raikou",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "050/185",
+        "rarity": "Classic Collection",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[GLM] Amazing Shot (120)\r\n<br>This attack also does 120 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.45,
+            "mid_price": 12,
+            "high_price": 499.99,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 9.71,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716192"
+      },
+      "cardmarket": {
+        "product_name": "Raikou (30C VIV 50)",
+        "prices": [
+          {
+            "avg": 12.19,
+            "low": 9,
+            "avg1": 12.27,
+            "avg7": 12.47,
+            "avg30": 12.12,
+            "trend": 11.55,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Raikou-30CVIV-50"
+      }
+    },
+    {
+      "id": "pk_1b13bab32d745f1a1a90e43a404a61088f618100b97150814531a0c9d3b32f2afa80ea0204b65d45e53e0e06f403dcd6",
+      "card_info": {
+        "name": "Shining Celebi",
+        "clean_name": "Shining Celebi",
+        "set_name": "30th Celebration - Classic Collection",
+        "set_code": "30C",
+        "set_id": "24837",
+        "card_number": "106/105",
+        "rarity": "Classic Collection",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Healing Water\r\n<br>\r\nRemove a number of damage counters from 1 of your Benched Pokémon equal to the number of Water Energy cards attached to Shining Celebi. If the Pokémon has fewer damage counters than that, remove all of them.",
+          "[GP] Miracle Leaf (10)\r\n<br>\r\nFlip a number of coins equal to the number of Energy attached to the Defending Pokémon. If you get 1 or more heads, the Defending Pokémon is now Asleep, Confused, or Poisoned (your choice)."
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 21.5,
+            "mid_price": 33,
+            "high_price": 1132.98,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 24.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716205"
+      },
+      "cardmarket": {
+        "product_name": "Shining Celebi (30C NDE 106)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 37.54,
+            "low": 26,
+            "avg1": 31.35,
+            "avg7": 33.23,
+            "avg30": 37.45,
+            "trend": 28.2,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration/Shining-Celebi-30CNDE-106"
+      }
+    },
+    {
+      "id": "pk_91cd18a3593dcfeacd487572e719f0c7dd2da3054cb4f5d9fe267eb7cc37dfb58f9d70b6f36d8e0ea83525419af5",
+      "card_info": {
+        "name": "Vivillon",
+        "clean_name": "Vivillon",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "005/103",
+        "rarity": null,
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability: Guiding Dance</strong> Once during your turn, you may use this Ability. Flip a coin. If heads, search your deck for a Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "attacks": [
+          "[Grass][Colorless] Poison Powder (60)<br> Your opponent's Active Pokemon is now Poisoned."
+        ],
+        "weakness": "Firex2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.85,
+            "high_price": 3,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716807"
+      },
+      "cardmarket": {
+        "product_name": "Vivillon (m6a 005)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.12,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Vivillon-m6a005"
+      }
+    },
+    {
+      "id": "pk_26435b005a8c98221e912f9e2964133081b073a0ce8ab96ac48d3954ed97541dde557bbe06b9222bb0fe56d1daa813",
+      "card_info": {
+        "name": "Zekrom",
+        "clean_name": "Zekrom",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "050/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning][Colorless] Slash (50)",
+          "[Lightning][Colorless][Colorless] Nitro Thunder (80+)<br> If this Pokemon has any Fire Energy attached, this attack does 80 more damage."
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.73,
+            "high_price": 3,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.58,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716852"
+      },
+      "cardmarket": {
+        "product_name": "Zekrom (m6a 050)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1,
+            "low": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.16,
+            "avg30": 0.18,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Zekrom-m6a050"
+      }
+    },
+    {
+      "id": "pk_2a6d04464dafc5d777f4afe0d20b3fa5f336abe5b307b3832bedda8f7cd1598e1df4a03843b551f2c6bcd67db0f142",
+      "card_info": {
+        "name": "Toxtricity - 051/103",
+        "clean_name": "Toxtricity 051 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "051/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Light Punch (40)",
+          "[Lightning][Colorless][Colorless] Thunderous Bolt (150)<br> During your next turn, this Pokemon can't use attacks."
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.32,
+            "mid_price": 0.87,
+            "high_price": 0.98,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716853"
+      },
+      "cardmarket": {
+        "product_name": "Toxtricity (m6a 051)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Toxtricity-m6a051"
+      }
+    },
+    {
+      "id": "pk_3b4d2b54e1fbb8fc5b185b928d8e560502e4bf45ea8b453d78663315c13421217e6c622a93b98cbb68aa74b067fabd",
+      "card_info": {
+        "name": "Morpeko - 052/103",
+        "clean_name": "Morpeko 052 103",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "052/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Select a Snack<br> Discard the top 3 cards of your deck and put 1 of them into your hand.",
+          "[Lightning] Slap (30)"
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.85,
+            "high_price": 2,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.81,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716854"
+      },
+      "cardmarket": {
+        "product_name": "Morpeko (m6a 052)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.03,
+            "avg1": 0.1,
+            "avg7": 0.1,
+            "avg30": 0.15,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Morpeko-m6a052"
+      }
+    },
+    {
+      "id": "pk_d89d053274b0e5a0442e51d409737580a1b027c80c28e596ea497a8d80bde240cb9d3c48fd842068937bb0c45efd21",
+      "card_info": {
+        "name": "Miraidon",
+        "clean_name": "Miraidon",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "053/103",
+        "rarity": null,
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Lightning] Mach Bolt (20)",
+          "[Lightning][Lightning][Colorless] Electro Drift (140)<br> Discard 2 Lightning Energy from this Pokemon."
+        ],
+        "weakness": "Fightingx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.85,
+            "high_price": 3,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.5,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716855"
+      },
+      "cardmarket": {
+        "product_name": "Miraidon (m6a 053)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1,
+            "low": 0.03,
+            "avg1": 0.14,
+            "avg7": 0.16,
+            "avg30": 0.24,
+            "trend": 0.02,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Miraidon-m6a053"
+      }
+    },
+    {
+      "id": "pk_95b5983511e40b46dc72528b21ff50f92bfa3667fb5d3231f582e9977a72df25fff9138dec39b7ed37f91fb4153f3b",
+      "card_info": {
+        "name": "Mewtwo",
+        "clean_name": "Mewtwo",
+        "set_name": "30th Celebration - Japanese",
+        "set_code": "m6a",
+        "set_id": "24721",
+        "card_number": "054/103",
+        "rarity": null,
+        "card_type": "Psychic",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Psychic] Empower<br> Attach up to 2 Basic Energy cards from your discard pile to 1 of your Pokemon.",
+          "[Psychic][Psychic][Colorless] Psydrive (120)<br> Discard an Energy from this Pokemon."
+        ],
+        "weakness": "Darknessx2",
+        "resistance": "Fighting-30",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.44,
+            "mid_price": 1,
+            "high_price": 4,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 0.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/716856"
+      },
+      "cardmarket": {
+        "product_name": "Mewtwo (m6a 054)",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.36,
+            "low": 0.18,
+            "avg1": 0.3,
+            "avg7": 0.27,
+            "avg30": 0.36,
+            "trend": 0.1,
+            "updated_at": "2026-10-10T10:32:11.027774",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/30th-Celebration-JP/Mewtwo-m6a054"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 28,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 28,
+    "tcg": 28,
+    "cardmarket": 27,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 27
+  }
+}

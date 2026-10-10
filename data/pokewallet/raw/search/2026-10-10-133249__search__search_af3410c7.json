@@ -1,0 +1,1125 @@
+{
+  "query": "Pikachu ex",
+  "results": [
+    {
+      "id": "pk_c8c8c9d74c38ce50fd73cc894802b8bbdbb0a66d059e754aff69edd2c3d7f1d0a9e215072f37a86070e27d4d59d8",
+      "card_info": {
+        "name": "Ash's Pikachu-GX (Ash vs Team Rocket Deck Kit)",
+        "clean_name": "Ashs Pikachu GX Ash vs Team Rocket Deck Kit",
+        "set_name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
+        "set_code": "AVTR",
+        "set_id": "23095",
+        "card_number": "005/026",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": "<span style=\"color:red\"><em>This promotional card was printed in Japanese only.</em></span>",
+        "attacks": [
+          "[L] Quick Attack (20+)\r\n<br>\r\nFlip a coin. If heads, this attack does 20 more damage.",
+          "<span style=\"color:Teal\"><strong>[LLL] Thunderbolt-GX (200)</strong>\r\n<br>Discard all Energy attached to this Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 114.49,
+            "high_price": 128.99,
+            "updated_at": "2026-10-07T11:54:37.82686",
+            "market_price": 119.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/490242"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_483e145e34ce9a6ef081a14381e28c46d734667f747e73cfdd5a0ad5069cc52bdfc2a977acac46ae2a1944bd",
+      "card_info": {
+        "name": "Pikachu ex (Pikachu 60)",
+        "clean_name": "Pikachu ex Pikachu 60",
+        "set_name": "Battle Academy 2024",
+        "set_code": "BA24",
+        "set_id": "23520",
+        "card_number": "106",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLC] Thunderbolt (120)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.61,
+            "mid_price": 12.44,
+            "high_price": 166.22,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 11.87,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/556443"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 8.16,
+            "low": 7.8,
+            "avg1": 8.5,
+            "avg7": 9,
+            "avg30": 12.16,
+            "trend": 10.82,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Academy-2024/Pikachu-ex-BA24P60"
+      }
+    },
+    {
+      "id": "pk_7e4206f19acf102d025347cd8d4d24f6167bf55e7dee98968d34cc8df0abe32db155c8c2a6c1713e3551b57cb75c",
+      "card_info": {
+        "name": "Pikachu - 35/108 (Cracked Ice Holo)",
+        "clean_name": "Pikachu 35 108 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "035/108",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12,
+            "mid_price": 22.25,
+            "high_price": 100,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 22.47,
+            "direct_low_price": 13.9,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/131308"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_64c6e778864398d74362317fd6c7c1e30583d207c9a46c253c1b1511797206b29b6b66515ce3e7b6855b20f0d7ce",
+      "card_info": {
+        "name": "Pikachu - 28/73 (Cracked Ice Holo)",
+        "clean_name": "Pikachu 28 73 Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "028/073",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Iron Tail (20x)\r\n<br>Flip a coin until you get tails. This attack does 20 damage for each heads."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.25,
+            "mid_price": 12.98,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 12.93,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/189761"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3f3d5aec6ce5e0b356e9d4d11b3f582ff2f5b2a11e8d2962dc4d762f5c8af1c645acaf32068f515d1b03cca995d5",
+      "card_info": {
+        "name": "Raikou - 32/73 (Let's Play, Pikachu!) (Cracked Ice Holo)",
+        "clean_name": "Raikou 32 73 Lets Play Pikachu Cracked Ice Holo",
+        "set_name": "Deck Exclusives",
+        "set_code": "PR",
+        "set_id": "1840",
+        "card_number": "032/073",
+        "rarity": "Holo Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "120.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Booming Thunder (30)\r\n<br>Attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "[1LL] Electric Ball (90)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.4,
+            "mid_price": 2.7,
+            "high_price": 32.62,
+            "updated_at": "2026-10-10T10:53:16.969612",
+            "market_price": 2.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/190939"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_717f270e6f81b2c4f78fecf5f08f833c12d535f81163ddb97765d75b54170a2e9c8a6ee8dcb934d8d506d3",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "EX Trainer Kit 1: Latias & Latios",
+        "set_code": "PR",
+        "set_id": "1543",
+        "card_number": "6/10",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Scratch (10)",
+          "[2L] Pika Bolt (40)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.78,
+            "mid_price": 7,
+            "high_price": 58.23,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 7.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88079"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_b77079b0642725bfa9cd3b3f8e2348bb032864841004f283aa5e264414952f7887fe44adc9abe9b699e7a030056c",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Expedition",
+        "set_code": "EX",
+        "set_id": "1375",
+        "card_number": "124/165",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Lightning Tail\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "[1L] Tackle (20)"
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "fr"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.69,
+            "mid_price": 44.97,
+            "high_price": 246.31,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 30.54,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 249.99,
+            "mid_price": 494.99,
+            "high_price": 1309.62,
+            "updated_at": "2026-10-10T10:53:20.160531",
+            "market_price": 99.99,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88076"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": 11.77,
+            "low": 1,
+            "avg1": 16.76,
+            "avg7": 13.3,
+            "avg30": 11.97,
+            "trend": 12.13,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 117.25,
+            "low": 32.5,
+            "avg1": 150,
+            "avg7": 103.8,
+            "avg30": 62.57,
+            "trend": 91.26,
+            "updated_at": "2026-10-10T10:31:44.203451",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Expedition-Base-Set/Pikachu-EX124"
+      }
+    },
+    {
+      "id": "pk_a2e9de3438375220927fbcb58f72aa0e51336c6456e6f2c424f3d77d599d08ea828f4d94c1b28c58990ee6a9b1",
+      "card_info": {
+        "name": "Pikachu EX - XY174",
+        "clean_name": "Pikachu EX XY174",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY174",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1L] Thunder Shock (30)\r\n<br>Flip a coin. If heads, your opponent's Defending Pokémon is now Paralyzed.",
+          "[1LL] Mega Thunderbolt (160)\r\n<br>Discard all Energy attached to this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 32,
+            "mid_price": 39.51,
+            "high_price": 383.72,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": 39.05,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/198772"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_3a84d69bd1362a74eaa64a8ff475cf3c005b2be87ec180e912401f762ae0eb032abd1dd8195338d9c6ae5ddc6f",
+      "card_info": {
+        "name": "Pikachu EX - XY124",
+        "clean_name": "Pikachu EX XY124",
+        "set_name": "Jumbo Cards",
+        "set_code": "PR",
+        "set_id": "1528",
+        "card_number": "XY124",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+        "attacks": [
+          "[1] Iron Tail (30x)\r\n<br>\r\nFlip a coin until you get tails. This attack does 30 damage times the number of heads.",
+          "[2L] Overspark (50x)\r\n<br>\r\nDiscard all Lightning Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 99.99,
+            "mid_price": 99.99,
+            "high_price": 99.99,
+            "updated_at": "2026-09-18T09:55:42.397477",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 99.99,
+            "mid_price": 99.99,
+            "high_price": 99.99,
+            "updated_at": "2026-10-10T10:53:18.154077",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/211463"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7,
+            "avg7": 7.45,
+            "avg30": 6.72,
+            "trend": 7.91,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 26,
+            "low": 7,
+            "avg1": 27.94,
+            "avg7": 37.36,
+            "avg30": 32.68,
+            "trend": 46.24,
+            "updated_at": "2026-10-10T10:31:51.155812",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Black-Star-Promos/Pikachu-EX-V4-XYPR124"
+      }
+    },
+    {
+      "id": "pk_438b019b309722c725d95fe82b55454af259ac05a6acb7428bd8d514ac4e2580a8ef2aff5dbb94de7628b663eee7",
+      "card_info": {
+        "name": "Pikachu - 20/108 (Build-A-Bear Workshop Exclusive)",
+        "clean_name": "Pikachu 20 108 Build A Bear Workshop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "020/108",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tail Whip\r\n<br>Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+          "[1L] Electro Ball (30)"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 27.27,
+            "mid_price": 39.44,
+            "high_price": 449.6,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 39.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/155086"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_7b5e9faee5337522f6417bc316d511f4eeba9dc07e19e0755a18213fa472428fac40434fa3bc8bad7f1d8641",
+      "card_info": {
+        "name": "Pikachu - SM86 (Build-A-Bear Workshop Exclusive)",
+        "clean_name": "Pikachu SM86 Build A Bear Workshop Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "SM86",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Tail Whap (10)",
+          "[1L] Spark (20)\r\n<br>This attack does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 148.68,
+            "mid_price": 209.99,
+            "high_price": 1999.72,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 59.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/228812"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_208b0992d5cc30dbe5b95e14f27ffed784b28aa579b17c9281d02981837085a3b4b9c6ba1ba4f5663e6dfa243a44",
+      "card_info": {
+        "name": "Pikachu ex (Holiday Calendar)",
+        "clean_name": "Pikachu ex Holiday Calendar",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "063/193",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pika Punch (30)",
+          "[1LL] Dynamic Bolt (220)\r\n<br>Flip a coin. If tails, discard all Energy attached to this Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.25,
+            "mid_price": 13,
+            "high_price": 56.42,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 12.09,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/565437"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_38b49ccf9f5cf24475a73de5c0c5324b4ca3d799baf5a70d1279a74be6274fd0fb3ff1134ef6ddfe7d8a19a20f9f",
+      "card_info": {
+        "name": "Pikachu - 025/165 (Reverse Cosmos Holo) (Costco Exclusive)",
+        "clean_name": "Pikachu 025 165 Reverse Cosmos Holo Costco Exclusive",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "025/165",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": "[L] <strong>Charge </strong> <br>\r\nSearch your deck for a Basic L Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "attacks": [
+          "[1LL] Pike Punch (50)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.15,
+            "mid_price": 5.57,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 5.26,
+            "direct_low_price": 7.19,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/587938"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_a9b1563a646caed1fec850aa4ea4118ea9b416985402f0c77fae29975ec3bd14916999f58f1363ac2feb36a9",
+      "card_info": {
+        "name": "Pikachu",
+        "clean_name": "Pikachu",
+        "set_name": "Next Destinies",
+        "set_code": "NXD",
+        "set_id": "1412",
+        "card_number": "39/99",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Thundershock (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+          "[2] Tail Whap (20)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.79,
+            "mid_price": 4.55,
+            "high_price": 38.49,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 4.69,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 26,
+            "mid_price": 39.99,
+            "high_price": 302.39,
+            "updated_at": "2026-10-10T10:53:19.223664",
+            "market_price": 34.38,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88102"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu",
+        "prices": [
+          {
+            "avg": null,
+            "low": 4,
+            "avg1": 0.5,
+            "avg7": 12.95,
+            "avg30": 14.62,
+            "trend": 12.53,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 3.46,
+            "low": 0.07,
+            "avg1": 4.99,
+            "avg7": 2.69,
+            "avg30": 2.91,
+            "trend": 1.94,
+            "updated_at": "2026-10-10T10:31:48.551575",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Next-Destinies/Pikachu-NXD39"
+      }
+    },
+    {
+      "id": "pk_c82c0fa4386ad5ff3380050801d3271a2e380cb77c5dd7946b4cb1b938f81d680c9085fbcebd7d4fc2",
+      "card_info": {
+        "name": "Pikachu - 012 (EX Series Collector's Tin)",
+        "clean_name": "Pikachu 012 EX Series Collectors Tin",
+        "set_name": "Nintendo Promos",
+        "set_code": "PR",
+        "set_id": "1423",
+        "card_number": "012",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Agility\r\n<br>Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn.",
+          "[1L] Thundershock (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        ],
+        "weakness": "F",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 163,
+            "mid_price": 262.5,
+            "high_price": 1993.91,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 163.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/88067"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_1aeaa53ffb3bc56cb7794f778cec1f0a36b3cea3fc239a23567b2d74861b79dca8cadd18f8a47aef9664cdb14e0605",
+      "card_info": {
+        "name": "Pikachu ex - 057/191",
+        "clean_name": "Pikachu ex",
+        "set_name": "Prize Pack Series Cards",
+        "set_code": "22880",
+        "set_id": "22880",
+        "card_number": "057/191",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Resolute Heart</strong> If this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10.",
+        "attacks": [
+          "[GLM] Topaz Bolt (300)<br> Discard 3 Energy from this Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 26.27,
+            "mid_price": 33.54,
+            "high_price": 290.82,
+            "updated_at": "2026-10-10T10:53:13.892885",
+            "market_price": 27.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/648703"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 16.99,
+            "low": 5.99,
+            "avg1": 15.95,
+            "avg7": 16.06,
+            "avg30": 16.57,
+            "trend": 16.72,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:07.996736",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Play-Pokemon-Prize-Pack-Series-Seven/Pikachu-ex-PPS7SSP-057"
+      }
+    },
+    {
+      "id": "pk_ca9f025ac178148fbbd97f4efb05cc9fc72ef1fc376d395de671175585e431be1c2721ca8c3044ff0923bb47582fde49",
+      "card_info": {
+        "name": "Red's Pikachu (Japanese Exclusive)",
+        "clean_name": "Reds Pikachu Japanese Exclusive",
+        "set_name": "SM Promos",
+        "set_code": "SMP",
+        "set_id": "1861",
+        "card_number": "270/SM-P",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[LLL] Volt Tackle (100)\r\n<br>This Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Fx2",
+        "resistance": "M-20",
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/489919"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0b3480002edff7537a190d12403e0cc78b5fd1627c2da49558288a6b6ece1104149c43e4a2aea9e659964880efbbf1",
+      "card_info": {
+        "name": "Pikachu ex",
+        "clean_name": "Pikachu ex",
+        "set_name": "SV02: Paldea Evolved",
+        "set_code": "PAL",
+        "set_id": "23120",
+        "card_number": "063/193",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "190.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Pika Punch (30)",
+          "[1LL] Dynamic Bolt (220)\r\n<br>Flip a coin. If tails, discard all Energy attached to this Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.99,
+            "mid_price": 4.99,
+            "high_price": 24.49,
+            "updated_at": "2026-10-10T10:53:12.640537",
+            "market_price": 5.01,
+            "direct_low_price": 7.41,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/497474"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 1.98,
+            "low": 0.29,
+            "avg1": 2.07,
+            "avg7": 2.13,
+            "avg30": 1.96,
+            "trend": 1.86,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:02.607516",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Pikachu-ex-V1-PAL063"
+      }
+    },
+    {
+      "id": "pk_f95cb88e150db6898970762e32e864ef0138fdcfa70ed989e9462b467181c712a141495a3fee33dd9516b02101bd6c",
+      "card_info": {
+        "name": "Pikachu ex - 057/191",
+        "clean_name": "Pikachu ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "057/191",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Resolute Heart</strong> If this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10.",
+        "attacks": [
+          "[GLM] Topaz Bolt (300)<br> Discard 3 Energy from this Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5,
+            "high_price": 96.95,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 4.6,
+            "direct_low_price": 6.97,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590025"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 4.52,
+            "low": 1.2,
+            "avg1": 4.15,
+            "avg7": 4.36,
+            "avg30": 4.35,
+            "trend": 4.24,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Pikachu-ex-V1-SSP057"
+      }
+    },
+    {
+      "id": "pk_9e383a1947db81b22f3b78738b164b4e83a283175b21c5f273dbfa65b498f0a4fdd5006987bc69f4d43a986c0246c88f",
+      "card_info": {
+        "name": "Pikachu ex - 219/191",
+        "clean_name": "Pikachu ex",
+        "set_name": "SV08: Surging Sparks",
+        "set_code": "SSP",
+        "set_id": "23651",
+        "card_number": "219/191",
+        "rarity": "Ultra Rare",
+        "card_type": "Lightning",
+        "product_type": "card",
+        "hp": "200.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Resolute Heart</strong> If this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10.",
+        "attacks": [
+          "[GLM] Topaz Bolt (300)<br> Discard 3 Energy from this Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "images": {
+        "languages": [
+          "en",
+          "it",
+          "fr",
+          "de",
+          "es",
+          "pt"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 29.99,
+            "high_price": 202.22,
+            "updated_at": "2026-10-10T10:53:09.15598",
+            "market_price": 27.43,
+            "direct_low_price": 30.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/590026"
+      },
+      "cardmarket": {
+        "product_name": "Pikachu ex",
+        "prices": [
+          {
+            "avg": 27.66,
+            "low": 12,
+            "avg1": 18.75,
+            "avg7": 22.1,
+            "avg30": 27.67,
+            "trend": 25.87,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-10-10T10:32:06.418311",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Pikachu-ex-V2-SSP219"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 100,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 100,
+    "tcg": 85,
+    "cardmarket": 58,
+    "tcg_only": 42,
+    "cardmarket_only": 15,
+    "both_sources": 43
+  }
+}

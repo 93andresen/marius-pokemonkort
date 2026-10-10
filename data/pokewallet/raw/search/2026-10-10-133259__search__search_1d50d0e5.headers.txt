@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Poliwrath+Skyridge&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:05 GMT
+Content-Type: application/json
+Content-Length: 3574
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 928
+X-RateLimit-Remaining-Hour: 28
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WJ5YIbP%2BvyI7wJ1jr4g%2FviBlVyGA%2BHkz8VdeWsGHpTZ9QKofSa2iy6XS%2Ba6W9GmIiLoVVTgFpQHSPmr%2Fk0AUpphUn7UF1BsJwxD2uG56OFqyfvETXimf5GoSffTARAezXPZqFrQigHDyHlCr4hQ8Qg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854edb5d0fb505-OSL
+alt-svc: h3=":443"; ma=86400

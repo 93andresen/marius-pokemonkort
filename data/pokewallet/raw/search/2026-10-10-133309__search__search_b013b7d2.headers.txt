@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Piloswine+43&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:14 GMT
+Content-Type: application/json
+Content-Length: 2347
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 923
+X-RateLimit-Remaining-Hour: 23
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7yPlJtGQ%2F8CKGvdmrmUPePXLL8%2B%2B7aLf3TGv8TqCtLSrjVX8PA%2B6baOxn%2B2W6Vszavj8JLW7%2BMqnecXb4Jn6qD3Y2sgopG77eF3rM1VFRhuYtxLo6zLyQZZowXE2emNDRvpyj3Qf9%2Ff69y3z9Umayg%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f18187eb503-OSL
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=Genesect+EX+11&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:28 GMT
+Content-Type: application/json
+Content-Length: 9769
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 918
+X-RateLimit-Remaining-Hour: 18
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dCrY%2FzH72b7Vc1Trhf7ndzrjkGw862HP5iV4ly1aeuBF9kZFcQ%2B%2FV1c0ChF9c1Jgp5PxUfL4nwZsXa5jDDDyMysUqI%2Ftgrukl2nUslODbghPZk0ZyHETDfN9vsrBflcTe9oDfYSL5Bhm8KW8iUtfqQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f6eeace5691-OSL
+alt-svc: h3=":443"; ma=86400

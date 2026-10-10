@@ -1,0 +1,20 @@
+URL: https://api.pokewallet.io/search?q=30th+Anniversary+Poster+Collection&limit=20
+STATUS: 200
+
+--- response headers ---
+Date: Sat, 10 Oct 2026 11:33:26 GMT
+Content-Type: application/json
+Content-Length: 222
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=900
+X-Cache: MISS
+X-RateLimit-Limit-Day: 1000
+X-RateLimit-Limit-Hour: 100
+X-RateLimit-Remaining-Day: 919
+X-RateLimit-Remaining-Hour: 19
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jQnfJyHGxlcXTrUcITJeoBF%2B%2FCSdawhLsZvJhkMTOo%2Ftfxq66BB3aURzf2cBhJG%2FrCmqiikNnc0XbJGNfe8CoBAaUNfiR5kP2CaBhqapF5tKh8RB%2FKRusdgq7wnKVExSby71p%2Fjr%2FvP%2BbMl4cEqrNA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+CF-RAY: a4854f5d4b1223eb-OSL
+alt-svc: h3=":443"; ma=86400
