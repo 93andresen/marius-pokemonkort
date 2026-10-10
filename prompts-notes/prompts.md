@@ -667,3 +667,8 @@ GO!
 ---
 
 Portfolio --> Format Everything:
+```
+Message details
+Exception: You cannot add alternating background colors to a range that already has alternating background colors.
+```
+
