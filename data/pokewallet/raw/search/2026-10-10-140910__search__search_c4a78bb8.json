@@ -1,0 +1,72 @@
+{
+  "query": "Venusaur Gym Challenge",
+  "results": [
+    {
+      "id": "pk_b3033c93a8a5c3f16ce23a1d4b0ed27e86b845c8876811ce444bf609663eef3a30a98bda1101d4307bb18a30",
+      "card_info": {
+        "name": "Erika's Venusaur",
+        "clean_name": "Erikas Venusaur",
+        "set_name": "Gym Challenge",
+        "set_code": "G2",
+        "set_id": "1440",
+        "card_number": "004/132",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "product_type": "card",
+        "hp": "90.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Growth\r\n<br>Flip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Erika's Venusaur.",
+          "[GGGG] Wide Solarbeam (20)\r\n<br>If your opponent has any Benched Pokémon, choose 2 of them (or 1 if he or she has only 1). This attack does 20 damage to each of them. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "R",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "images": {
+        "languages": [
+          "en"
+        ]
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 500,
+            "mid_price": 812.8,
+            "high_price": 5000,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 650,
+            "direct_low_price": null,
+            "sub_type_name": "1st Edition Holofoil"
+          },
+          {
+            "low_price": 153.52,
+            "mid_price": 249.99,
+            "high_price": 9999,
+            "updated_at": "2026-10-10T10:53:21.496433",
+            "market_price": 181.65,
+            "direct_low_price": 798.36,
+            "sub_type_name": "Unlimited Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/85307"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}
