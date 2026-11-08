@@ -773,3 +773,13 @@ NEW TABS!
 
 ---
 
+All this new info needs to be included in the spreadsheet. make it all so that one sheet contains all relevant information and so its easy to see and compare prices across everything and write where everything is from and so on
+
+The prices for the norwegian  retailes and anything else relevant are here in these files:
+
+C:\data\code\marius-pokemonkort_hermes\docs\2026-11-08-2330-kaishi-norwegian-retail-full-report.md
+C:\data\code\marius-pokemonkort_hermes\docs\2026-11-08-2340-findings-index.md
+
+
+---
+
