@@ -102,6 +102,130 @@ OFFER: list[tuple] = [
      "price cut off by the screenshot edge"),
 ]
 
+# ------------------------------------- Norwegian retail (2026-11-08 23:33) ----
+# Transcribed from
+#   C:\data\code\marius-pokemonkort_hermes\docs\2026-11-08-2330-kaishi-norwegian-retail-full-report.md
+# section 3. (retail_nok, source, note); retail_nok None = no Norwegian price found.
+NO_RETAIL: dict[str, tuple] = {
+    "Snow Hazard": (1_298, "prisjakt.no", ""),
+    "Violet ex": (1_399, "cardcenter.no", ""),
+    "VSTAR Universe": (3_799, "cardcenter.no", "wishlist only"),
+    "Paradigm Trigger": (None, "", ""),
+    "Lost Abyss": (6_199, "cardcenter.no", "wishlist, 4 stk"),
+    "Battle Region": (None, "", ""),
+    "VMAX Climax": (None, "", ""),
+    "25th Anniversary Collection": (9_199, "cardcenter.no", ""),
+    "Eevee Heroes": (3_499, "prisjakt.no", "LANGUAGE UNVERIFIED - likely the Korean box"),
+    "Jet-Black Spirit": (None, "prisjakt.nu", "2 090 SEK, not NOK"),
+    "Silver Lance": (None, "pricerunner.se", "1 390 SEK, not NOK"),
+    "30th CELEBRATION 9-Item Set": (None, "", ""),
+    "30th CELEBRATION": (None, "", ""),
+    "Storm Emerald": (1_199, "prisjakt.no", "lcgcards 899 out of stock"),
+    "Abyss Eye": (899, "prisjakt.no", "finn.no 750-1 500"),
+    "Ninja Spinner": (899, "klarna / prisjakt", "5 shops"),
+    "Munikis Zero": (None, "pricerunner.dk", "630 DKK, not NOK"),
+    "Mega Dream ex": (1_199, "pokenordic.no", "10+ in stock"),
+    "Inferno X": (1_499, "prisjakt.no", "cardcenter 2 199"),
+    "Mega Brave": (1_249, "sprosaker.com", ""),
+    "Mega Symphonia": (None, "", "Korean 619 kr only"),
+    "Black Bolt": (2_849, "pokestore.no", ""),
+    "White Flare": (None, "pokestore.no", "page exists, price missing"),
+    "??? (name cropped)": (None, "", "name unknown"),
+    "Heat Wave Arena": (2_499, "cardcenter.no", "in stock"),
+    "Battle Partners": (1_499, "pokestore.no", ""),
+    "Terastal Festival ex": (2_199, "alt-japansk.no", "Norway-stocked"),
+    "Stellar Miracle": (1_299, "pokestore.no", ""),
+    "Night Wanderer": (None, "", ""),
+    "Mask of Change": (None, "", ""),
+    "Shiny Treasure ex": (1_000, "finn.no", "used, not retail"),
+    "Ancient Roar": (None, "", ""),
+    "Future Flash": (1_194, "prisjakt.no", ""),
+    "Ruler of the Black Flame": (None, "", ""),
+    "Raging Surf": (None, "", ""),
+    "Pokémon Card 151": (4_999, "prisjakt.no", "cardcenter/pokestore 5 999"),
+    "Clay Burst": (None, "", "offer price also unknown"),
+}
+
+# The FINN-kode behind each FINN lowest ask in OFFER.
+FINN_SOURCE: dict[str, int] = {
+    "VSTAR Universe": 480509351,
+    "Lost Abyss": 467898771,
+    "VMAX Climax": 480254788,
+    "30th CELEBRATION": 476606430,
+    "Storm Emerald": 472045392,
+    "Abyss Eye": 472039650,
+    "Munikis Zero": 480587151,
+    "Mega Dream ex": 480378085,
+    "Inferno X": 480394719,
+    "Mega Brave": 480396500,
+    "Mega Symphonia": 480396681,
+    "Heat Wave Arena": 480082813,
+    "Terastal Festival ex": 480587158,
+    "Stellar Miracle": 480373254,
+    "Shiny Treasure ex": 480424068,
+    "Pokémon Card 151": 480092769,
+}
+
+# Source legend for the master tab.
+SOURCES: list[tuple] = [
+    ("Kaishi offer (3 Signal screenshots)", "the wholesale offer being evaluated",
+     "Offer NOK/box and line totals"),
+    ("prisjakt.no", "Norwegian price-comparison index over Norwegian shops",
+     "Snow Hazard, Storm Emerald, Abyss Eye, Inferno X, Future Flash, 151, Eevee Heroes"),
+    ("cardcenter.no", "Norwegian retailer, own shelf prices",
+     "VSTAR Universe, Lost Abyss, 25th Anniversary, Heat Wave Arena, 151"),
+    ("pokestore.no", "Norwegian retailer, largest advertised range",
+     "Black Bolt, Battle Partners, Stellar Miracle, 151"),
+    ("pokenordic.no", "Norwegian retailer", "Mega Dream ex"),
+    ("sprosaker.com", "Norwegian retailer", "Mega Brave"),
+    ("alt-japansk.no", "Norwegian-stocked importer", "Terastal Festival ex"),
+    ("lcgcards.no", "Norwegian retailer", "Storm Emerald 899, out of stock"),
+    ("klarna / prisjakt", "checkout price across 5 shops", "Ninja Spinner"),
+    ("finn.no", "Norwegian private marketplace, used",
+     "Shiny Treasure ex 1 000 (used, not retail)"),
+    ("FINN.no scrape (this workbook)", "13 searches, 483 unique ads, 82 scraped in detail",
+     "the FINN lowest NOK column"),
+    ("pricerunner.se / prisjakt.nu / pricerunner.dk", "Swedish and Danish indexes",
+     "prices found, but not in NOK - not converted"),
+]
+
+# The 17 lines with no Norwegian price, and what the search found instead.
+GAPS: list[tuple] = [
+    (4, "Paradigm Trigger", 1_344, 30,
+     "PriceCharting $107.50 · Japan2UK £149.99 · mewtwo.eu €184.69 · eBay $189.99 · TCGplayer $178.28"),
+    (6, "Battle Region", 866, 10,
+     "TCGplayer pack $5.15 · PriceCharting $150.00 and $90.00 · eBay $99.99 / $68.25 / $105.44 / $129.98"),
+    (7, "VMAX Climax", 1_911, 10,
+     "TCGplayer $226.66 · PriceCharting $192.19 · Samurai Sword Tokyo ¥32,480"),
+    (10, "Jet-Black Spirit", 1_344, 5,
+     "DoubleHolo $108.81 · PriceCharting $94.99 · TCGplayer pack $7.75 · prisjakt.nu 2 090 SEK"),
+    (11, "Silver Lance", 1_135, 5,
+     "PriceCharting $99.98 · Samurai Sword Tokyo ¥17,083 and ¥19,504 · pricerunner.se 1 390 SEK"),
+    (12, "30th CELEBRATION 9-Item Set", 1_105, 50,
+     "PokeNinJapan ¥15,000 · TCGplayer $205.43-211.56 · Samurai Sword Tokyo ¥7,200 (20-pack)"),
+    (13, "30th CELEBRATION", 1_523, 200,
+     "PriceCharting $146.36 · TCGplayer low ask $93.25 · community reports $180-190 cost, $450 asking"),
+    (17, "Munikis Zero", 537, 150,
+     "CardPenguin $74.99 · Monketic $75.85 · pricerunner.dk 630 DKK"),
+    (21, "Mega Symphonia", 508, 300,
+     "PriceCharting $75.00 · TCGplayer $79.88 · eBay pairs ~$193-204 · Korean box 619 kr at 4 Norwegian shops"),
+    (23, "White Flare", 1_421, 50,
+     "pokestore.no carries the Japanese box; the price did not fit the snippet"),
+    (24, "??? (name cropped)", 1_541, 50,
+     "nothing identifiable - the set name is cropped in the source screenshots"),
+    (29, "Night Wanderer", 806, 30,
+     "TCGplayer $88.94, last sale $64.30 · Walmart $149.00"),
+    (30, "Mask of Change", 878, 20,
+     "Japan2UK £84.99 · CollectorStore $119.99 (7 left)"),
+    (32, "Ancient Roar", 776, 70, "no comparable captured"),
+    (34, "Ruler of the Black Flame", 1_224, 20,
+     "PriceCharting $139.64 · Japan2UK £119.99 · PokeUnlimited $160.00"),
+    (35, "Raging Surf", 1_027, 40,
+     "eBay ~$127.29 · Samurai Sword Tokyo ¥14,637"),
+    (37, "Clay Burst", None, 60,
+     "TCGplayer $103.33 · PriceCharting $116.85 and $88.45 · TCGRepublic $187.56"),
+]
+
 EXPECT_QTY = 3_480
 EXPECT_JPY = 55_817_500
 EXPECT_NOK = 3_333_065
@@ -179,8 +303,8 @@ FINN_ADS: list[tuple] = [
     (467898771, 3_999, "Pokemon Lost Abyss Booster Boks", "JP by set name", ""),
 ]
 
-TABS = ["Sealed-Overview", "Sealed-Offer", "Sealed-Searches", "Sealed-Compare",
-        "Sealed-FINN", "Sealed-Ads"]
+TABS = ["Sealed-Master", "Sealed-Overview", "Sealed-Offer", "Sealed-Searches",
+        "Sealed-Compare", "Sealed-FINN", "Sealed-Ads"]
 
 
 # ------------------------------------------------------------- helpers ------
@@ -360,6 +484,7 @@ def overview_rows() -> list[list]:
     rows.append(["TABS IN THIS WORKBOOK", "", "", ""])
     rows.append(["Tab", "What it holds", "", ""])
     rows += [
+        ["Sealed-Master", "ONE TABLE: all 37 lines with offer, Norwegian retail and FINN side by side, every price with its source", "", ""],
         ["Sealed-Offer", "37 offer lines: JPY/NOK per box, line totals, and the FINN comparable where one exists", "", ""],
         ["Sealed-Searches", "the 13 FINN queries with match counts and page counts", "", ""],
         ["Sealed-Compare", "the 16 sets where FINN has a comparable, with the ratio", "", ""],
@@ -464,6 +589,123 @@ def ads_rows() -> list[list]:
     return rows
 
 
+def verdict_for(ratio: float | None) -> str:
+    if ratio is None:
+        return "no comparable"
+    if ratio < 1.0:
+        return "below cost"
+    if ratio < 1.2:
+        return "thin"
+    if ratio <= 1.6:
+        return "workable"
+    if ratio <= 2.0:
+        return "good"
+    return "strong"
+
+
+def master_rows() -> tuple[list[list], dict[str, int]]:
+    """One row per offer line: offer, Norwegian retail and FINN side by side.
+
+    Returns the rows plus a map of section row indices, so the formatting block
+    never has to hard-code a row number (that is what broke the Overview tab).
+    """
+    rows: list[list] = []
+    m: dict[str, int] = {}
+
+    def add(row: list) -> None:
+        rows.append(row)
+
+    m["title"] = len(rows)
+    add(["JAPANESE SEALED BOXES — OFFER vs NORWEGIAN RETAIL vs FINN.NO"])
+    m["subtitle"] = len(rows)
+    add(["One row per offer line. Every price in NOK. Every price has a source. "
+         "Compiled 2026-11-08 · FX 100 NOK = 1 674,68 JPY"])
+    add([])
+
+    m["headline"] = len(rows)
+    add(["HEADLINE NUMBERS"])
+    m["headline_hdr"] = len(rows)
+    add(["Metric", "Value", "Note"])
+    m["headline_first"] = len(rows)
+    add(["Lines in the offer", 37, "36 priced, 1 price cropped (Clay Burst)"])
+    add(["Boxes offered", EXPECT_QTY, "including Clay Burst's 60"])
+    add(["Offer value (JPY)", EXPECT_JPY, "36 priced lines"])
+    add(["Offer value (NOK)", EXPECT_NOK, "36 priced lines"])
+    add(["Average per box (NOK)", 958, "3 333 065 ÷ 3 480"])
+    add(["Lines with a Norwegian retail price", 20, "2 380 boxes = 68,4% of the list"])
+    add(["Their offer value (NOK)", 2_350_060, "the 20 priced lines"])
+    add(["Their Norwegian retail value (NOK)", 3_875_870, "lowest NO price × qty offered"])
+    add(["Volume-weighted NO retail ÷ offer", 1.65, "the honest aggregate"])
+    add(["Median per-line NO retail ÷ offer", 1.80, "range 0,45× – 2,41×"])
+    add(["Best line", "25th Anniversary Collection", "2,41× — cardcenter.no 9 199 vs offer 3 822"])
+    add(["Worst line", "Eevee Heroes", "0,45× — prisjakt 3 499, language unverified (likely Korean)"])
+    add(["Lines with a FINN comparable", 16, "of 37"])
+    add(["Median FINN ÷ offer", 1.43, "range 1,02× – 2,58×"])
+    add(["Lines with no comparable at all", 17, "no Norwegian price and no FINN listing"])
+    add(["The constraint", "volume, not price", "3 480 boxes vs 31 competing JP sealed listings on FINN"])
+    m["headline_last"] = len(rows) - 1
+    add([])
+
+    m["table"] = len(rows)
+    add(["THE 37 LINES — OFFER vs NORWEGIAN RETAIL vs FINN.NO"])
+    m["table_hdr"] = len(rows)
+    add(["#", "Set", "Qty", "JPY/box", "Offer NOK/box", "Offer NOK total",
+         "NO retail NOK", "NO retail ÷ offer", "NO retail source", "NO retail note",
+         "FINN lowest NOK", "FINN ÷ offer", "FINN source",
+         "Best NOK", "Best ÷ offer", "Best source", "Verdict", "Note"])
+    m["table_first"] = len(rows)
+    for i, (name, qty, jpy, nok, jpy_t, nok_t, finn, note) in enumerate(OFFER, start=1):
+        retail, retail_src, retail_note = NO_RETAIL.get(name, (None, "", ""))
+        finn_src = FINN_SOURCE.get(name)
+        cands: list[tuple] = []
+        if retail:
+            cands.append((retail, retail_src))
+        if finn:
+            cands.append((finn, f"FINN {finn_src}" if finn_src else "FINN"))
+        best, best_src = max(cands) if cands else (None, "")
+        add([
+            i, name, qty, jpy, nok, nok_t,
+            retail,
+            round(retail / nok, 2) if (retail and nok) else None,
+            retail_src,
+            retail_note,
+            finn,
+            round(finn / nok, 2) if (finn and nok) else None,
+            f"FINN {finn_src}" if finn_src else "",
+            best,
+            round(best / nok, 2) if (best and nok) else None,
+            best_src,
+            verdict_for(best / nok if (best and nok) else None),
+            note,
+        ])
+    m["table_last"] = len(rows) - 1
+    m["total"] = len(rows)
+    add(["", "TOTAL", EXPECT_QTY, "", "", EXPECT_NOK, "", "", "", "", "", "", "", "", "", "", "",
+         "excludes Clay Burst"])
+    add([])
+
+    m["sources"] = len(rows)
+    add(["WHERE THE NUMBERS COME FROM"])
+    m["sources_hdr"] = len(rows)
+    add(["Source", "What it is", "Used for"])
+    m["sources_first"] = len(rows)
+    for row in SOURCES:
+        add(list(row))
+    m["sources_last"] = len(rows) - 1
+    add([])
+
+    m["gaps"] = len(rows)
+    add(["THE 17 LINES WITH NO NORWEGIAN PRICE — gaps in the search, not evidence of absence"])
+    m["gaps_hdr"] = len(rows)
+    add(["#", "Set", "Offer NOK", "Qty", "What the search found instead"])
+    m["gaps_first"] = len(rows)
+    for row in GAPS:
+        add(list(row))
+    m["gaps_last"] = len(rows) - 1
+
+    return rows, m
+
+
 # ------------------------------------------------------------------ main ----
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="build the Sealed-* tabs")
@@ -528,7 +770,9 @@ def main(argv: list[str] | None = None) -> int:
 
     # --- write values -------------------------------------------------------
     ads = ads_rows()
+    master, marks = master_rows()
     payload = {
+        "Sealed-Master": master,
         "Sealed-Overview": overview_rows(),
         "Sealed-Offer": offer_rows(),
         "Sealed-Searches": search_rows(),
@@ -549,7 +793,113 @@ def main(argv: list[str] | None = None) -> int:
         print(f"wrote {tab:<18} {len(rows):>4} rows x {max(len(r) for r in rows)} cols")
 
     # --- formatting ---------------------------------------------------------
-    reqs: list[dict] = []
+    # Put the master tab first so it is the landing page of the workbook.
+    reqs: list[dict] = [{
+        "updateSheetProperties": {
+            "properties": {"sheetId": ids["Sealed-Master"], "index": 0},
+            "fields": "index",
+        }
+    }]
+
+    # ===== Sealed-Master =====
+    # Row indices come from master_rows()'s marks map, never hard-coded.
+    sid = ids["Sealed-Master"]
+    reqs += [
+        merge(sid, marks["title"], marks["title"] + 1, 0, 18),
+        merge(sid, marks["subtitle"], marks["subtitle"] + 1, 0, 18),
+        merge(sid, marks["headline"], marks["headline"] + 1, 0, 18),
+        merge(sid, marks["table"], marks["table"] + 1, 0, 18),
+        merge(sid, marks["sources"], marks["sources"] + 1, 0, 18),
+        merge(sid, marks["gaps"], marks["gaps"] + 1, 0, 18),
+        fmt_req(sid, marks["title"], marks["title"] + 1, 0, 18,
+                bg=NAVY, fg=WHITE, bold=True, size=14, halign="LEFT", valign="MIDDLE"),
+        fmt_req(sid, marks["subtitle"], marks["subtitle"] + 1, 0, 18,
+                bg=PALE, fg=INK, size=9, halign="LEFT"),
+        fmt_req(sid, marks["headline"], marks["headline"] + 1, 0, 18,
+                bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
+        fmt_req(sid, marks["headline_hdr"], marks["headline_hdr"] + 1, 0, 3,
+                bg=LIGHT, fg=INK, bold=True, halign="LEFT"),
+        fmt_req(sid, marks["headline_first"], marks["headline_last"] + 1, 0, 1, halign="LEFT"),
+        fmt_req(sid, marks["headline_first"], marks["headline_last"] + 1, 1, 2,
+                halign="RIGHT", bold=True, numfmt="#,##0"),
+        # the three ratio rows need decimals, not thousands separators
+        fmt_req(sid, marks["headline_first"] + 8, marks["headline_first"] + 10, 1, 2,
+                halign="RIGHT", bold=True, numfmt="0.00"),
+        fmt_req(sid, marks["headline_first"] + 13, marks["headline_first"] + 14, 1, 2,
+                halign="RIGHT", bold=True, numfmt="0.00"),
+        fmt_req(sid, marks["headline_first"], marks["headline_last"] + 1, 2, 3,
+                halign="LEFT", wrap="WRAP", size=9),
+        fmt_req(sid, marks["table"], marks["table"] + 1, 0, 18,
+                bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
+        fmt_req(sid, marks["table_hdr"], marks["table_hdr"] + 1, 0, 18,
+                bg=NAVY, fg=WHITE, bold=True, halign="CENTER", valign="MIDDLE", wrap="WRAP"),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 0, 1,
+                halign="CENTER", fg="#666666"),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 1, 2, halign="LEFT", bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 2, 3,
+                halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 3, 6,
+                halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 6, 7,
+                halign="RIGHT", numfmt="#,##0", bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 7, 8,
+                halign="CENTER", numfmt='0.00"×"', bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 8, 9,
+                halign="LEFT", size=9),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 9, 10,
+                halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 10, 11,
+                halign="RIGHT", numfmt="#,##0", bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 11, 12,
+                halign="CENTER", numfmt='0.00"×"', bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 12, 13,
+                halign="LEFT", size=9),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 13, 14,
+                halign="RIGHT", numfmt="#,##0", bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 14, 15,
+                halign="CENTER", numfmt='0.00"×"', bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 15, 16,
+                halign="LEFT", size=9),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 16, 17,
+                halign="LEFT", size=9, bold=True),
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 17, 18,
+                halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
+        fmt_req(sid, marks["total"], marks["total"] + 1, 0, 18, bg=GREY, bold=True,
+                numfmt="#,##0",
+                border={"top": {"style": "SOLID", "width": 2, "color": rgb(NAVY)}}),
+        fmt_req(sid, marks["sources"], marks["sources"] + 1, 0, 18,
+                bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
+        fmt_req(sid, marks["sources_hdr"], marks["sources_hdr"] + 1, 0, 3,
+                bg=LIGHT, fg=INK, bold=True, halign="LEFT"),
+        fmt_req(sid, marks["sources_first"], marks["sources_last"] + 1, 0, 1,
+                halign="LEFT", bold=True),
+        fmt_req(sid, marks["sources_first"], marks["sources_last"] + 1, 1, 2,
+                halign="LEFT", wrap="WRAP", size=9),
+        fmt_req(sid, marks["sources_first"], marks["sources_last"] + 1, 2, 3,
+                halign="LEFT", wrap="WRAP", size=9, fg="#666666"),
+        fmt_req(sid, marks["gaps"], marks["gaps"] + 1, 0, 18,
+                bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
+        fmt_req(sid, marks["gaps_hdr"], marks["gaps_hdr"] + 1, 0, 5,
+                bg=LIGHT, fg=INK, bold=True, halign="LEFT"),
+        fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 0, 1,
+                halign="CENTER", fg="#666666"),
+        fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 1, 2, halign="LEFT", bold=True),
+        fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 2, 3,
+                halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 3, 4,
+                halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 4, 5,
+                halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
+        freeze(sid, marks["table_hdr"] + 1),
+    ]
+    # colour the three ratio columns per row
+    for i, row in enumerate(master[marks["table_first"]:marks["table_last"] + 1],
+                            start=marks["table_first"]):
+        for col in (7, 11, 14):
+            if row[col] is not None:
+                reqs.append(fmt_req(sid, i, i + 1, col, col + 1, bg=ratio_colour(row[col])))
+    reqs += col_widths(sid, [40, 250, 60, 80, 100, 110, 100, 100, 150, 200,
+                             100, 90, 110, 90, 90, 150, 110, 300])
 
     # ===== Sealed-Overview =====
     # Row map (0-based): 0 title, 1 subtitle, 3 KEY NUMBERS, 4 table header,
@@ -573,8 +923,8 @@ def main(argv: list[str] | None = None) -> int:
         fmt_req(sid, 21, 25, 0, 4, halign="LEFT", wrap="WRAP", valign="TOP"),
         fmt_req(sid, 26, 27, 0, 4, bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
         fmt_req(sid, 27, 28, 0, 2, bg=LIGHT, fg=INK, bold=True, halign="LEFT"),
-        fmt_req(sid, 28, 33, 0, 1, bold=True, halign="LEFT"),
-        fmt_req(sid, 28, 33, 1, 2, halign="LEFT", wrap="WRAP", size=9),
+        fmt_req(sid, 28, 34, 0, 1, bold=True, halign="LEFT"),
+        fmt_req(sid, 28, 34, 1, 2, halign="LEFT", wrap="WRAP", size=9),
         freeze(sid, 0),
     ]
     reqs += col_widths(sid, [300, 120, 420, 40])
