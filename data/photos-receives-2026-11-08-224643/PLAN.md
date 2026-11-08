@@ -158,6 +158,39 @@ through the Sheets API `batchUpdate` with the service-account key.
 
 ---
 
+### Phase E — one consolidated master tab — DONE
+
+The user asked for **one sheet that holds everything**, so prices can be compared
+across all sources in one place, with the origin of every number written down.
+
+- [x] E1. Read the two Norwegian retail reports:
+      `2026-11-08-2330-kaishi-norwegian-retail-full-report.md` (825 lines) and
+      `2026-11-08-2340-findings-index.md`.
+- [x] E2. Transcribed section 3 of the full report into `NO_RETAIL` — 20 of 37
+      lines have a Norwegian price, each with its shop and a note.
+- [x] E3. Mapped each FINN lowest ask back to its FINN-kode (`FINN_SOURCE`, 16 sets).
+- [x] E4. Built `Sealed-Master`: 97 rows × 18 columns.
+      - headline block (16 metrics)
+      - the 37 lines, one row each: offer, Norwegian retail, FINN, **best of the
+        two**, and a source column for each of the three
+      - source legend (12 entries)
+      - the 17 lines with no Norwegian price and what the search found instead
+- [x] E5. Moved `Sealed-Master` to index 0 so it is the landing tab.
+- [x] E6. Verified: all seven tabs read back `OK`.
+
+**Design note:** `master_rows()` returns `(rows, marks)`. The formatting block
+reads row numbers from `marks` instead of hard-coding them — the hard-coded row
+numbers are exactly what broke the Overview tab in phase D.
+
+**Two formatting bugs found and fixed here:**
+
+1. `#,##0.##` renders a trailing dot in Google Sheets (`37.`, `3,480.`). Switched
+   to `#,##0` for the headline block and `0.00` on the three ratio rows.
+2. The Overview tab list grew from 5 to 6 rows, so its formatting range had to
+   extend from `28..33` to `28..34`.
+
+---
+
 ## 5. Rules I am holding myself to
 
 - **No Google Sheet writes until the user says so.**
@@ -190,3 +223,8 @@ through the Sheets API `batchUpdate` with the service-account key.
 | 23:00 | D1 | Second bug: merges survive `values.clear()`. Added `unmergeCells` before the value write. |
 | 23:00 | D3 | Re-ran: **all six tabs OK**. Gross spread 1 103 935 restored. |
 | 23:01 | — | Committed (`16e039b`). |
+| 23:07 | E1 | User supplied two Norwegian retail reports and asked for one consolidated tab. |
+| 23:09 | E2–E3 | `NO_RETAIL` (20 priced lines) and `FINN_SOURCE` (16 sets) transcribed. |
+| 23:11 | E4 | `Sealed-Master` built: 97 × 18, 399 formatting requests. All 7 tabs OK. |
+| 23:12 | E4 | `#,##0.##` left trailing dots; switched to `#,##0` + `0.00` on ratio rows. |
+| 23:13 | — | Committed (`ae2a266`). |
