@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479990063",
+  "url": "https://www.finn.no/recommerce/forsale/item/479990063",
+  "slug": "479990063_zacian-v-225-pokemon-japanese-vstar-universe",
+  "first_seen": "2026-11-08T22:46:34Z",
+  "last_seen": "2026-11-08T22:46:34Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Zacian V #225 Pokemon Japanese VSTAR Universe",
+    "status": "Aktiv",
+    "price_nok": 190,
+    "trade_type": null,
+    "location_text": "3511 Hønefoss",
+    "postal_code": "3511",
+    "last_modified": "2026-10-31T20:59:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:34Z",
+      "raw": "479990063_zacian-v-225-pokemon-japanese-vstar-universe/raw/479990063_2026-11-08-224634.html",
+      "parse_quality": "full",
+      "price_nok": 190,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480134728",
+      "heading": "Zeraora VSTAR #42 Pokemon Japanese VSTAR Universe",
+      "price_label": "20 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480134728"
+    },
+    {
+      "item_id": "479305333",
+      "heading": "Adaman #240 Pokemon Japanese VSTAR Universe",
+      "price_label": "70 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479305333"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "479990113",
+      "heading": "Absol #191 Pokemon Japanese VSTAR Universe",
+      "price_label": "80 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479990113"
+    },
+    {
+      "item_id": "480134682",
+      "heading": "Entei V #19 Pokemon Japanese VSTAR Universe",
+      "price_label": "20 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480134682"
+    },
+    {
+      "item_id": "480134631",
+      "heading": "Hatterene V #65 Pokemon Japanese VSTAR Universe",
+      "price_label": "20 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480134631"
+    },
+    {
+      "item_id": "480258396",
+      "heading": "N's Zekrom #210 Pokemon Japanese Mega Dream ex",
+      "price_label": "60 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480258396"
+    },
+    {
+      "item_id": "480134662",
+      "heading": "Hisuian Zoroark V #128 Pokemon Japanese VSTAR Universe",
+      "price_label": "20 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480134662"
+    },
+    {
+      "item_id": "479990072",
+      "heading": "Oricorio #176 Pokemon Japanese VSTAR Universe",
+      "price_label": "40 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479990072"
+    }
+  ]
+}

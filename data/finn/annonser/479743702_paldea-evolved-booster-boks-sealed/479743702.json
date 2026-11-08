@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:32Z",
+  "contact_button": {
+    "adId": "479743702",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "479743702",
+  "kode_candidates": {
+    "canonical": "479743702",
+    "object_info": "479743702",
+    "maplink": "479743702",
+    "contact_button": "479743702",
+    "hint": "479743702"
+  },
+  "ld_json": {
+    "sku": "479743702",
+    "name": "Paldea evolved booster boks sealed",
+    "url": "https://www.finn.no/recommerce/forsale/item/479743702",
+    "item_condition": "NewCondition",
+    "price_raw": "4599",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 4599
+  },
+  "title_source": "dom",
+  "title": "Paldea evolved booster boks sealed",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 4599,
+  "price_nok_source": "ld+json",
+  "location_text": "3158 Andebu",
+  "lat": 59.305901243228405,
+  "lon": 10.17649525169453,
+  "postal_code": "3158",
+  "last_modified_raw": "8.11.2026 kl. 22:13",
+  "last_modified": "2026-11-08T22:13:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "4b0333aa-c6e5-4601-bb4c-e2a982d3a25f",
+    "5aa94dd8-d4bb-4dde-a62b-56d1661a6439"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger en paldea evolved booster boks, hel og fin i plasten. Beskyttelse følger med.\n\n \n\n \n\nKjøper betaler frakt.\n\n \n\nBetalingsalternativer\n\nVipps/kontanter eller bankoverføring \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nTags: Pokemon, Pokémon, Pokemon kort, Pokémon kort, pokemonkort, Pokemon TCG, Pokemon samling, Pokemon sealed, Sealed Pokemon, Pokemon pakker, Pokemon packs, Pokemon booster, Pokemon boosters, Pokemon booster box, Pokemon boosterbox, Pokemon boosterbokser, Booster box, Booster boks, Booster display, Boosterpakker, Pokemon boosterpakker, Booster Bundle, Pokemon ETB, Elite Trainer Box, Pokemon Center, Pokemon Center ETB, Pokemon UPC, Ultra Premium Collection, Premium Collection, Collection Box, Pokemon boks, Pokemon samleboks, Pokemon samler, Pokemon vintage, Vintage sealed, Pokemon samlekort, Samlekort, Pokemon investering, Pokemon samling sealed, Uåpnet Pokemon, Fabrikkforseglet, Original shrinkwrap, Pokemon Japanese, Japansk Pokemon, Japanese Pokemon, Japanske boosterbokser, Japanese booster box, English Pokemon, Engelsk Pokemon, Sword & Shield, Sun & Moon, Scarlet & Violet, Mega Evolution, Pokemon 151, Japanese 151, Prismatic Evolutions, Paldean Fates, Paldea Evolved, Surging Sparks, Destined Rivals, Black Bolt, White Flare, Obsidian Flames, Phantasmal Flames, Evolving Skies, Lost Origin, Fusion Strike, Brilliant Stars, Silver Tempest, Crown Zenith, Chilling Reign, Astral Radiance, Battle Styles, Vivid Voltage, Darkness Ablaze, Hidden Fates, Shining Fates, Shining Legends, Cosmic Eclipse, Burning Shadows, Team Up, Celebrations, Twilight Masquerade, Temporal Forces, Stellar Crown, Paradox Rift, Pokemon 25th, Pokemon 30th, 25th Anniversary, 30th Anniversary, Pokemon jubileum, Pokemon Anniversary, Pokemon Celebrations, 25th Anniversary Collection, 30th Celebration, VSTAR Universe, VMAX Climax, Terastal Festival, Mega Dream ex, Shiny Treasure ex, Electric Breaker, Ruler of the Black Flame, Crimson Haze, Paradise Dragona, Ancient Roar, Future Flash, Cyber Judge, Wild Force, Raging Surf, Pokemon Charizard, Pikachu, Umbreon, Mew, Mewtwo, Eevee, Eeveelutions, Gengar, Rayquaza, Lugia, Giratina, Dragonite, Blastoise, Venusaur, Vintage Pokemon, Pokemon collection, Pokemon kortsamling, Sjelden, Samleobjekt, Pokemon gave, Nintendo, Trading Cards, TCG",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "397706517",
+      "heading": "Pokemon Kort Paldea Evolved Booster Box",
+      "price_label": "5 500 kr",
+      "location": "Åsgårdstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/397706517"
+    },
+    {
+      "item_id": "479743903",
+      "heading": "Mega Evolution booster boks",
+      "price_label": "3 200 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479743903"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479031175",
+      "heading": "Pokemon booster bokser selges",
+      "price_label": "13 000 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479031175"
+    },
+    {
+      "item_id": "479454899",
+      "heading": "Pokémon Paldea Evolved Booster Box",
+      "price_label": "4 999 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479454899"
+    },
+    {
+      "item_id": "471292423",
+      "heading": "🔥Pokémon Paldea Evolved booster box",
+      "price_label": "4 500 kr",
+      "location": "Stordal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471292423"
+    },
+    {
+      "item_id": "479470131",
+      "heading": "Pokémon Paldea Evolved Booster Box – Forseglet m/ akrylboks",
+      "price_label": "5 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479470131"
+    },
+    {
+      "item_id": "477014195",
+      "heading": "Build & Battle Stadium Pokemon Paldea Evolved Sealed",
+      "price_label": "2 200 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477014195"
+    },
+    {
+      "item_id": "479743975",
+      "heading": "Phantasmal flames",
+      "price_label": "4 899 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479743975"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "4b0333aa-c6e5-4601-bb4c-e2a982d3a25f",
+      "item_ref": "479743702",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/479743702/4b0333aa-c6e5-4601-bb4c-e2a982d3a25f"
+    },
+    {
+      "uuid": "5aa94dd8-d4bb-4dde-a62b-56d1661a6439",
+      "item_ref": "479743702",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/479743702/5aa94dd8-d4bb-4dde-a62b-56d1661a6439"
+    }
+  ],
+  "raw_capture": "479743702_paldea-evolved-booster-boks-sealed/raw/479743702_2026-11-08-224632.html"
+}

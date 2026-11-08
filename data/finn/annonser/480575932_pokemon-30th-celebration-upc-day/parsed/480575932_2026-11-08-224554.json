@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:54Z",
+  "contact_button": {
+    "adId": "480575932",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480575932",
+  "kode_candidates": {
+    "canonical": "480575932",
+    "object_info": "480575932",
+    "maplink": "480575932",
+    "contact_button": "480575932",
+    "hint": "480575932"
+  },
+  "ld_json": {
+    "sku": "480575932",
+    "name": "Pokemon 30th celebration upc day",
+    "url": "https://www.finn.no/recommerce/forsale/item/480575932",
+    "item_condition": "NewCondition",
+    "price_raw": "4700",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 4700
+  },
+  "title_source": "dom",
+  "title": "Pokemon 30th celebration upc day",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 4700,
+  "price_nok_source": "ld+json",
+  "location_text": "1463 Fjellhamar",
+  "lat": 59.939600473775954,
+  "lon": 10.984300662826568,
+  "postal_code": "1463",
+  "last_modified_raw": "8.11.2026 kl. 21:22",
+  "last_modified": "2026-11-08T21:22:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "f6077c82-d22f-437c-92e6-a7ed6bb25ade",
+    "f512468a-ab77-4500-b2a0-ce8794a9d73f",
+    "acdf3707-e416-40cf-bf30-20ba6a6a32b8",
+    "dfe18066-9c8a-4293-8a1e-623fb185fd01"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger en Pokémon 30th Celebration Ultra Premium Collection, Day-versjonen. Esken er uåpnet og forseglet (sealed), ingen skader på verken esken eller plasten.\n\n \n\n \n\n \n\n \n\nSøkeord:\n\nPokemon, 30th celebration, upc, Pokemonkort",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480382381",
+      "heading": "Pokemon 30th Celebration Ultra Premium Collection (Day)",
+      "price_label": "4 999 kr",
+      "location": "Holmestrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480382381"
+    },
+    {
+      "item_id": "479748126",
+      "heading": "Pokémon 30th Celebration Ultra Premium Collection Day",
+      "price_label": "4 999 kr",
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479748126"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480407593",
+      "heading": "Pokemon 30th Celebration UPC day",
+      "price_label": "4 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480407593"
+    },
+    {
+      "item_id": "480554592",
+      "heading": "30th Celebration Day Ultra-Premium Collection (UPC)",
+      "price_label": "4 899 kr",
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554592"
+    },
+    {
+      "item_id": "480418193",
+      "heading": "Pokemon 30th Celebration UPC - Day",
+      "price_label": "4 500 kr",
+      "location": "Dal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480418193"
+    },
+    {
+      "item_id": "480414174",
+      "heading": "Pokemon 30th Celebration Ultra-premium collection  DAY (UPC DAY) sealed",
+      "price_label": "4 770 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480414174"
+    },
+    {
+      "item_id": "480455228",
+      "heading": "Pokémon 30th UPC Day",
+      "price_label": "4 299 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480455228"
+    },
+    {
+      "item_id": "480359896",
+      "heading": "Pokemon 30th Celebration Ultra Premium Collection (Day)",
+      "price_label": "4 999 kr",
+      "location": "Borgenhaugen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480359896"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "f6077c82-d22f-437c-92e6-a7ed6bb25ade",
+      "item_ref": "480575932",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480575932/f6077c82-d22f-437c-92e6-a7ed6bb25ade"
+    },
+    {
+      "uuid": "f512468a-ab77-4500-b2a0-ce8794a9d73f",
+      "item_ref": "480575932",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480575932/f512468a-ab77-4500-b2a0-ce8794a9d73f"
+    },
+    {
+      "uuid": "acdf3707-e416-40cf-bf30-20ba6a6a32b8",
+      "item_ref": "480575932",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480575932/acdf3707-e416-40cf-bf30-20ba6a6a32b8"
+    },
+    {
+      "uuid": "dfe18066-9c8a-4293-8a1e-623fb185fd01",
+      "item_ref": "480575932",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480575932/dfe18066-9c8a-4293-8a1e-623fb185fd01"
+    }
+  ],
+  "raw_capture": "480575932_pokemon-30th-celebration-upc-day/raw/480575932_2026-11-08-224554.html"
+}

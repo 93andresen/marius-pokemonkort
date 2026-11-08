@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:46Z",
+  "contact_button": {
+    "adId": "480413649",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480413649",
+  "kode_candidates": {
+    "canonical": "480413649",
+    "object_info": "480413649",
+    "maplink": "480413649",
+    "contact_button": "480413649",
+    "hint": "480413649"
+  },
+  "ld_json": {
+    "sku": "480413649",
+    "name": "Pokémon Mega Evolution – Delta Reign Booster Box.",
+    "url": "https://www.finn.no/recommerce/forsale/item/480413649",
+    "item_condition": "NewCondition",
+    "price_raw": "3500",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 3500
+  },
+  "title_source": "dom",
+  "title": "Pokémon Mega Evolution – Delta Reign Booster Box.",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 3500,
+  "price_nok_source": "ld+json",
+  "location_text": "4876 Grimstad",
+  "lat": 58.339397502667424,
+  "lon": 8.588302441091903,
+  "postal_code": "4876",
+  "last_modified_raw": "6.11.2026 kl. 20:15",
+  "last_modified": "2026-11-06T20:15:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "76aef4a8-92a6-494f-9b7e-57d8384c4a32",
+    "2ce16507-5a88-4fec-9c5f-946bd5644da5",
+    "a6d23f93-0fce-471d-af6e-d07b3ccd47f8",
+    "71be5ad3-f498-4428-b064-bfa431e0c817"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Boksen er helt ny og uåpnet, med original forsegling. Inneholder 36 boosterpakker.\n\n \n\nSe bilder for tilstand.\n\n \n\nSendes godt pakket med sporing. Kjøper betaler frakt.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPokémon, Pokemon, Pokemon TCG, Delta Reign, Mega Evolution, Booster Box, Boosterboks, Booster Display, 36 pakker, Rayquaza, Sealed, Forseglet, Engelsk Pokémon",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480124124",
+      "heading": "Pokémon TCG Delta Reign booster display",
+      "price_label": "3 599 kr",
+      "location": "Arendal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480124124"
+    },
+    {
+      "item_id": "480347067",
+      "heading": "Pokemon - Delta Reign Booster Box [Sealed]",
+      "price_label": "3 900 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480347067"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480364387",
+      "heading": "Pokémon Delta Reign Booster Box",
+      "price_label": "3 199 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480364387"
+    },
+    {
+      "item_id": "480407013",
+      "heading": "Pokémon Mega Evolution: Delta Reign Booster Box | 36 pakker | Forseglet",
+      "price_label": "3 500 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480407013"
+    },
+    {
+      "item_id": "480118026",
+      "heading": "Delta Reign booster box",
+      "price_label": "3 500 kr",
+      "location": "Eydehavn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480118026"
+    },
+    {
+      "item_id": "480265259",
+      "heading": "Pokémon Mega Evolution – Delta Reign Booster Box (36 pakker) – forseglet",
+      "price_label": "3 500 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480265259"
+    },
+    {
+      "item_id": "480461804",
+      "heading": "Pokemon Mega Evolution Delta Reign Booster Box Sealed",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480461804"
+    },
+    {
+      "item_id": "480342617",
+      "heading": "Pokemon Delta Reign booster box helt ny GRATIS FRAKT",
+      "price_label": "3 149 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480342617"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "76aef4a8-92a6-494f-9b7e-57d8384c4a32",
+      "item_ref": "480413649",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480413649/76aef4a8-92a6-494f-9b7e-57d8384c4a32"
+    },
+    {
+      "uuid": "2ce16507-5a88-4fec-9c5f-946bd5644da5",
+      "item_ref": "480413649",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480413649/2ce16507-5a88-4fec-9c5f-946bd5644da5"
+    },
+    {
+      "uuid": "a6d23f93-0fce-471d-af6e-d07b3ccd47f8",
+      "item_ref": "480413649",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480413649/a6d23f93-0fce-471d-af6e-d07b3ccd47f8"
+    },
+    {
+      "uuid": "71be5ad3-f498-4428-b064-bfa431e0c817",
+      "item_ref": "480413649",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480413649/71be5ad3-f498-4428-b064-bfa431e0c817"
+    }
+  ],
+  "raw_capture": "480413649_pok-mon-mega-evolution-delta-reign-booster-box/raw/480413649_2026-11-08-224546.html"
+}

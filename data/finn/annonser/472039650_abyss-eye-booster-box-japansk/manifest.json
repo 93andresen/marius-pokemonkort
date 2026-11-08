@@ -1,0 +1,169 @@
+{
+  "finn_kode": "472039650",
+  "url": "https://www.finn.no/recommerce/forsale/item/472039650",
+  "slug": "472039650_abyss-eye-booster-box-japansk",
+  "first_seen": "2026-11-08T22:45:05Z",
+  "last_seen": "2026-11-08T22:45:05Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Abyss Eye Booster Box Japansk",
+    "status": "Aktiv",
+    "price_nok": 799,
+    "trade_type": "Til salgs",
+    "location_text": "4331 Ålgård",
+    "postal_code": null,
+    "last_modified": "2026-11-01T13:16:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:05Z",
+      "raw": "472039650_abyss-eye-booster-box-japansk/raw/472039650_2026-11-08-224505.html",
+      "parse_quality": "full",
+      "price_nok": 799,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "472045392",
+      "heading": "Storm Emeralda Booster Box",
+      "price_label": "920 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472045392"
+    },
+    {
+      "item_id": "469759826",
+      "heading": "SEALED Abyss Eye - Booster Box",
+      "price_label": "1 049 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469759826"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "469939634",
+      "heading": "Abyss Eye Booster Box (japansk)",
+      "price_label": "1 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469939634"
+    },
+    {
+      "item_id": "476532260",
+      "heading": "Mega Symphonia Booster Box",
+      "price_label": "749 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476532260"
+    },
+    {
+      "item_id": "448584157",
+      "heading": "Mega Dream EX Booster Box",
+      "price_label": "1 189 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/448584157"
+    },
+    {
+      "item_id": "457773718",
+      "heading": "Glory of Team Rocket Booster Box",
+      "price_label": "2 299 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457773718"
+    },
+    {
+      "item_id": "475236302",
+      "heading": "Pokemon Abyss Eye - Booster Box",
+      "price_label": "999 kr",
+      "location": "Fornebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475236302"
+    },
+    {
+      "item_id": "457771911",
+      "heading": "Inferno X Booster Box",
+      "price_label": "1 599 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457771911"
+    }
+  ]
+}

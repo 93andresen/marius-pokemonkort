@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480509351",
+  "url": "https://www.finn.no/recommerce/forsale/item/480509351",
+  "slug": "480509351_pok-mon-vstar-universe-booster-boks-1st-print",
+  "first_seen": "2026-11-08T22:46:03Z",
+  "last_seen": "2026-11-08T22:46:03Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon VSTAR Universe booster boks. 1st print",
+    "status": "Aktiv",
+    "price_nok": 2500,
+    "trade_type": null,
+    "location_text": "4706 Vennesla",
+    "postal_code": "4706",
+    "last_modified": "2026-11-08T10:59:00",
+    "gallery_count": 6,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:03Z",
+      "raw": "480509351_pok-mon-vstar-universe-booster-boks-1st-print/raw/480509351_2026-11-08-224603.html",
+      "parse_quality": "full",
+      "price_nok": 2500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477286526",
+      "heading": "Pokemon Vstar Universe Box / Boks",
+      "price_label": "2 790 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477286526"
+    },
+    {
+      "item_id": "478712389",
+      "heading": "Pokemon Vstar Universe boosterboks japansk",
+      "price_label": "2 899 kr",
+      "location": "Nedenes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478712389"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "477853120",
+      "heading": "Pokemon VSTAR Universe Booster Box",
+      "price_label": "2 599 kr",
+      "location": "Kråkstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477853120"
+    },
+    {
+      "item_id": "476962018",
+      "heading": "Pokemon Shiny Star V Booster Box Boks",
+      "price_label": "2 300 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476962018"
+    },
+    {
+      "item_id": "478108049",
+      "heading": "Pokemon VSTAR Universe boosterboks japansk",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478108049"
+    },
+    {
+      "item_id": "480192982",
+      "heading": "Inferno X Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480192982"
+    },
+    {
+      "item_id": "479962662",
+      "heading": "5x Pokémon Vstar Universe boosterpacks JP",
+      "price_label": "900 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479962662"
+    },
+    {
+      "item_id": "453100258",
+      "heading": "Pokémon TCG JPN samlerpakke – 151 + VSTAR Universe + Storm Emeralda – forseglet",
+      "price_label": "9 490 kr",
+      "location": "Florø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/453100258"
+    }
+  ]
+}

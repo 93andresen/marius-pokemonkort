@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480082813",
+  "url": "https://www.finn.no/recommerce/forsale/item/480082813",
+  "slug": "480082813_pok-mon-heat-wave-arena-japansk-boosterboks",
+  "first_seen": "2026-11-08T22:46:15Z",
+  "last_seen": "2026-11-08T22:46:15Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Heat Wave Arena japansk boosterboks",
+    "status": "Aktiv",
+    "price_nok": 1250,
+    "trade_type": null,
+    "location_text": "5261 Indre Arna",
+    "postal_code": "5261",
+    "last_modified": "2026-11-05T09:45:00",
+    "gallery_count": 4,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:15Z",
+      "raw": "480082813_pok-mon-heat-wave-arena-japansk-boosterboks/raw/480082813_2026-11-08-224615.html",
+      "parse_quality": "full",
+      "price_nok": 1250,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "475604931",
+      "heading": "Japanske Pokemon Booster Bokser",
+      "price_label": "900 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475604931"
+    },
+    {
+      "item_id": "477005480",
+      "heading": "Gratis Frakt, Pokemon Scarlet & Violet Stellar Miracle boosterboks japansk",
+      "price_label": "1 000 kr",
+      "location": "Tårnåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477005480"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "471270948",
+      "heading": "Pokémon Mega Dream EX Japansk Sealed Boosterboks ( 1 av 5)",
+      "price_label": "1 299 kr",
+      "location": "Mosby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471270948"
+    },
+    {
+      "item_id": "464616478",
+      "heading": "Pokémon Mega Dream EX japanske boosterbokser",
+      "price_label": "1 750 kr",
+      "location": "Sofiemyr",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464616478"
+    },
+    {
+      "item_id": "470432654",
+      "heading": "Pokemon Japansk Legendary Heartbeat s3a Booster Box - forseglet",
+      "price_label": "3 200 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470432654"
+    },
+    {
+      "item_id": "473224440",
+      "heading": "Pokémon Ascended Heroes booster-boks",
+      "price_label": "1 100 kr",
+      "location": "Nyborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473224440"
+    },
+    {
+      "item_id": "479217777",
+      "heading": "Pokemon Mega Dream EX boosterboks japansk",
+      "price_label": "1 200 kr",
+      "location": "Førde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479217777"
+    },
+    {
+      "item_id": "476108812",
+      "heading": "Pokémon Mega Evolution Ascended Heroes Booster Bundle",
+      "price_label": "1 200 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476108812"
+    }
+  ]
+}

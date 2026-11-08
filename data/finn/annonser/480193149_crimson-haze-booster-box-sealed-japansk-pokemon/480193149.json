@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:16Z",
+  "contact_button": {
+    "adId": "480193149",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480193149",
+  "kode_candidates": {
+    "canonical": "480193149",
+    "object_info": "480193149",
+    "maplink": "480193149",
+    "contact_button": "480193149",
+    "hint": "480193149"
+  },
+  "ld_json": {
+    "sku": "480193149",
+    "name": "Crimson Haze Booster Box Sealed Japansk Pokemon",
+    "url": "https://www.finn.no/recommerce/forsale/item/480193149",
+    "item_condition": "NewCondition",
+    "price_raw": "1100",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1100
+  },
+  "title_source": "dom",
+  "title": "Crimson Haze Booster Box Sealed Japansk Pokemon",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1100,
+  "price_nok_source": "ld+json",
+  "location_text": "4630 Kristiansand S",
+  "lat": 58.16187176722176,
+  "lon": 7.99648152371463,
+  "postal_code": "4630",
+  "last_modified_raw": "7.11.2026 kl. 09:18",
+  "last_modified": "2026-11-07T09:18:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "e4c15eee-b132-46b5-8c33-fc4c94cb9eb1",
+    "4fbdc9d5-b31b-4ffc-bcbc-82a0b1c7165c"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Sealed japansk pokemon booster boks.\n\n \n\nInneholder 30 pakker, med 5 kort i hver pakke.\n\n \n\nJeg har 2 stk.\n\n \n\nKjøper betaler frakt\n\nPris: 1100kr per stk. \n\n \n\nTa kontakt dersom du lurer på noe.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480192982",
+      "heading": "Inferno X Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480192982"
+    },
+    {
+      "item_id": "480192701",
+      "heading": "Triple Beat Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 350 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480192701"
+    },
+    {
+      "item_id": "479670678",
+      "heading": "💎 469KR – MYSTERY BOOSTER MINI-BOX+ 💎",
+      "price_label": "469 kr",
+      "location": "Nodeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479670678"
+    },
+    {
+      "item_id": "477772475",
+      "heading": "Pokemon 30th anniversary BoosterBox japansk",
+      "price_label": "2 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477772475"
+    },
+    {
+      "item_id": "471270948",
+      "heading": "Pokémon Mega Dream EX Japansk Sealed Boosterboks ( 1 av 5)",
+      "price_label": "1 299 kr",
+      "location": "Mosby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471270948"
+    },
+    {
+      "item_id": "475604931",
+      "heading": "Japanske Pokemon Booster Bokser",
+      "price_label": "900 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475604931"
+    },
+    {
+      "item_id": "468596032",
+      "heading": "Pokemon Scarlet ex booster box japansk",
+      "price_label": "1 000 kr",
+      "location": "Namsos",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468596032"
+    },
+    {
+      "item_id": "479488380",
+      "heading": "Japansk Pokemon - Shiny Treasure Ex Booster Boks - SV4A",
+      "price_label": "1 600 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488380"
+    },
+    {
+      "item_id": "476977415",
+      "heading": "Pokemon japanese Japansk booster box sv4a shiny treasure NY PRIS 01.10",
+      "price_label": "1 477 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476977415"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "e4c15eee-b132-46b5-8c33-fc4c94cb9eb1",
+      "item_ref": "480193149",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480193149/e4c15eee-b132-46b5-8c33-fc4c94cb9eb1"
+    },
+    {
+      "uuid": "4fbdc9d5-b31b-4ffc-bcbc-82a0b1c7165c",
+      "item_ref": "480193149",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480193149/4fbdc9d5-b31b-4ffc-bcbc-82a0b1c7165c"
+    }
+  ],
+  "raw_capture": "480193149_crimson-haze-booster-box-sealed-japansk-pokemon/raw/480193149_2026-11-08-224516.html"
+}

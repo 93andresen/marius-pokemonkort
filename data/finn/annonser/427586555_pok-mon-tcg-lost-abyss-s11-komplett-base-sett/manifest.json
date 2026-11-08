@@ -1,0 +1,169 @@
+{
+  "finn_kode": "427586555",
+  "url": "https://www.finn.no/recommerce/forsale/item/427586555",
+  "slug": "427586555_pok-mon-tcg-lost-abyss-s11-komplett-base-sett",
+  "first_seen": "2026-11-08T22:46:55Z",
+  "last_seen": "2026-11-08T22:46:55Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon TCG - Lost Abyss s11 - komplett base sett!",
+    "status": "Aktiv",
+    "price_nok": 600,
+    "trade_type": "Til salgs",
+    "location_text": "1397 Nesøya",
+    "postal_code": "1397",
+    "last_modified": "2026-09-02T20:17:00",
+    "gallery_count": 9,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:55Z",
+      "raw": "427586555_pok-mon-tcg-lost-abyss-s11-komplett-base-sett/raw/427586555_2026-11-08-224655.html",
+      "parse_quality": "full",
+      "price_nok": 600,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477178694",
+      "heading": "Pokemon singles til salgs",
+      "price_label": "750 kr",
+      "location": "Borgen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477178694"
+    },
+    {
+      "item_id": "467683366",
+      "heading": "Pokemon Abyss Eye - hits og hundrevis av kort",
+      "price_label": "390 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467683366"
+    },
+    {
+      "item_id": "409876135",
+      "heading": "‼️ POKEMON TCG DECKS 🌟💫‼️",
+      "price_label": "499 kr",
+      "location": "Kattem",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/409876135"
+    },
+    {
+      "item_id": "474001143",
+      "heading": "Pokemon Kort Bulk - Ancient Origins (28%)",
+      "price_label": "200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474001143"
+    },
+    {
+      "item_id": "465764406",
+      "heading": "En pakke med diverse pokemonkort",
+      "price_label": "999 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465764406"
+    },
+    {
+      "item_id": "477537637",
+      "heading": "Pokemonkort selges!",
+      "price_label": "800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477537637"
+    },
+    {
+      "item_id": "475947534",
+      "heading": "Pokemon samlekort – diverse kort selges enkeltvis",
+      "price_label": "600 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475947534"
+    },
+    {
+      "item_id": "458804240",
+      "heading": "Lost Origin samling",
+      "price_label": "240 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/458804240"
+    },
+    {
+      "item_id": "475749144",
+      "heading": "2kg Pokemon bulk - prismatic, pitch black, storm emeralda +++",
+      "price_label": "800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475749144"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480528894",
+  "url": "https://www.finn.no/recommerce/forsale/item/480528894",
+  "slug": "480528894_forseglet-pok-mon-30-r-jubileum-boks-sealed-30th-celebration",
+  "first_seen": "2026-11-08T22:46:02Z",
+  "last_seen": "2026-11-08T22:46:02Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Forseglet Pokémon 30 år jubileum boks sealed 30th celebration booster bundle box",
+    "status": "Aktiv",
+    "price_nok": 999,
+    "trade_type": null,
+    "location_text": "7503 Stjørdal",
+    "postal_code": "7503",
+    "last_modified": "2026-11-08T21:53:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:02Z",
+      "raw": "480528894_forseglet-pok-mon-30-r-jubileum-boks-sealed-30th-celebration/raw/480528894_2026-11-08-224602.html",
+      "parse_quality": "full",
+      "price_nok": 999,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479704861",
+      "heading": "Pokemon 30th Booster Bundle pack",
+      "price_label": "850 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479704861"
+    },
+    {
+      "item_id": "478573697",
+      "heading": "Pokemon 30th Celebration, Booster Bundle",
+      "price_label": "825 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478573697"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "478245867",
+      "heading": "Pokémon 30th Celebration Booster Bundle Sealed",
+      "price_label": "1 500 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478245867"
+    },
+    {
+      "item_id": "480358754",
+      "heading": "30th booster bundle | Pokémon 30th Celebration booster bundle",
+      "price_label": "850 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480358754"
+    },
+    {
+      "item_id": "478247998",
+      "heading": "Pokémon 30th Celebration Booster Bundle kortpakke",
+      "price_label": "1 200 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478247998"
+    },
+    {
+      "item_id": "480488963",
+      "heading": "Pokemon 30th Celebration Booster Bundle",
+      "price_label": "799 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480488963"
+    },
+    {
+      "item_id": "480138990",
+      "heading": "30th boosterbundle 5stk  Pokémon 30th Celebration boosterbundle",
+      "price_label": "4 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480138990"
+    },
+    {
+      "item_id": "479126052",
+      "heading": "Pokemon 30th Celebration samleboks med kort",
+      "price_label": "1 000 kr",
+      "location": "Saupstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479126052"
+    }
+  ]
+}

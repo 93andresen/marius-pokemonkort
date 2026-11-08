@@ -1,0 +1,329 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:01Z",
+  "contact_button": {
+    "adId": "478510711",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478510711",
+  "kode_candidates": {
+    "canonical": "478510711",
+    "object_info": "478510711",
+    "maplink": "478510711",
+    "contact_button": "478510711",
+    "hint": "478510711"
+  },
+  "ld_json": {
+    "sku": "478510711",
+    "name": "Pokémon tcg samling selges",
+    "url": "https://www.finn.no/recommerce/forsale/item/478510711",
+    "item_condition": "NewCondition",
+    "price_raw": "30000",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 30000
+  },
+  "title_source": "dom",
+  "title": "Pokémon tcg samling selges",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 30000,
+  "price_nok_source": "ld+json",
+  "location_text": "1344 Haslum",
+  "lat": 59.91562750184603,
+  "lon": 10.560833407472963,
+  "postal_code": "1344",
+  "last_modified_raw": "11.10.2026 kl. 18:43",
+  "last_modified": "2026-10-11T18:43:00",
+  "gallery_count": 22,
+  "image_uuids": [
+    "b15055a5-3fae-49b3-8303-deee4c96f920",
+    "6fa75cba-e6fb-47c5-b4aa-4c3f78f1c064",
+    "3d6f6edf-2a9c-4518-8f54-0ec911221cb7",
+    "02ddec75-4bff-47c4-9db3-7ab05560ac1d",
+    "92a8fd5a-2706-43d1-a5f6-f4dd35078968",
+    "4573d29b-4665-41fe-8fce-03923eba65d9",
+    "7fe70433-c9de-468d-bcf5-f9a1972cbf77",
+    "ed7dd1ba-e659-44eb-9335-79ba3e6c57c2",
+    "aec76ffe-deaf-466b-87f5-052a2835c6b0",
+    "70b14683-7800-48cf-8694-966d34f41151",
+    "fe9c0abc-566f-4727-a0f8-db1fee502121",
+    "bf0024cd-5027-4f10-85f9-46cc7470c2c2",
+    "17355d48-e3a0-4862-8ebe-393a61633e71",
+    "ca7f9656-5c5c-43b5-9c3c-22bc03eab2f4",
+    "92aa5be8-0139-4375-823f-f4126bf181ae",
+    "e7f762e6-1dbc-4590-b8eb-e7e9864814f5",
+    "9ee64e3c-08ce-4951-be73-d90a832f4573",
+    "313628d4-c156-4822-8c5a-728ca663edf8",
+    "8075a227-275d-457b-914a-392138d31639",
+    "ea4a64ad-b793-4392-9e07-c0da7928aa15",
+    "e84c76a6-ba2d-4691-8036-937f9a13b451",
+    "2fba61ed-5c18-4689-8f19-d536b1bb8bd2"
+  ],
+  "image_count_from_html": 22,
+  "description_raw": "Hei selger mye pokemon kort.\n\n \n\nAlt er sealed/uåpnet i fin tilstand.\n\n \n\nMå bruke vips.\n\n \n\nSelger alt til 30,000 kr nok (fast pris)\n\n \n\nHer er alt jeg har\n\n \n\n \n\nSealed:\n\n \n\n• Kingdra ex special illustration collection (x1)\n\n \n\n•phantasmal flames ETB (x1)\n\n \n\n•Astral radiance build and battle stadium 12 booster packer ark (X3)\n\n \n\n•terastal festival ex booster box (X1)\n\n \n\n•prismatic evolution accessory pouch special collection (X3)\n\n \n\n•151 mini tin gengar & poliwag (X2)\n\n \n\n•151 mini tin dragonite & vileplume (X2)\n\n \n\n•151 mini tin hitmonchan & meowth (X1)\n\n \n\n•151 mini tin slowpoke & sandslash (X2)\n\n \n\n•151 mini tin electabuzz & magnetic (X2)\n\n \n\n•151 mini tin hitmonlee & kadabra (X1)\n\n \n\n•paldea evolved 3 pack blister tinkatink (X1)\n\n \n\n•twilight masquerade 3 pack blister snorlax (12)\n\n \n\n•astral radiance 3 pack blister Eevee (X1)\n\n \n\n•astral radiance 3 pack blister sylveon (X1)\n\n \n\n•prismatic evolutions mini tin espeon (X1)\n\n \n\n•prismatic evolutions mini tin vaporeon (X1)\n\n \n\n•twilight masquerade 3 pack blister revavroom (X4)\n\n \n\n•prismatic evolutions mini tin jolteon (x1)\n\n \n\n•prismatic evolutions mini tin flareon (X1)\n\n \n\n•kanto friends mini tin bulbasaur (X1)\n\n \n\n•temporal forces premium chacklane blister togekiss (X1\n\n \n\n•mega heros mini tin (X3)\n\n \n\nLøse kort:\n\n \n\n•Galvantula ex sir\n\n \n\n•turtonator or\n\n \n\n•cinderace ex Ur\n\n \n\n•joltick JP art rare\n\n \n\n•dachsbun ex Ur\n\n \n\n•hydraple Jo super rare\n\n \n\n•crabominable it\n\n \n\n•flygon ex Ur\n\n \n\nTotal er den norske market verdien lit over 30,000kr\n\n \n\nSøk ord:\n\n \n\nPokémon tcg\n\n \n\nKort\n\n \n\nGøy\n\n \n\n \n\n \n\n \n\n \n\n \n\nPokémon cards, booster packs, booster boxes, booster bundles, Elite Trainer Boxes, Pokémon Center ETBs, collection boxes, premium collections, ultra-premium collections, tins, mini tins, stacking tins, Poké Ball tins, collector chests, treasure chests, blister packs, sleeved boosters, three-pack blisters, promo cards, jumbo cards, full arts, alternate arts, illustration rares, special illustration rares, secret rares, hyper rares, rainbow rares, gold cards, shiny cards, holographic cards, reverse holos, non-holos, first editions, shadowless cards, vintage cards, modern cards, graded cards, raw cards, PSA 10, BGS 10, CGC 10, pristine cards, gem mint cards, error cards, misprints, swirl holos, stamped cards, staff promos, prerelease promos, tournament promos, trophy cards, championship cards, world championship decks, Japanese cards, English cards, Korean cards, Chinese cards, French cards, German cards, Italian cards, Spanish cards, sealed products, sealed cases, master sets, complete sets, binder collections, graded collections, sealed collections, card lots, bulk cards, mystery packs, mystery boxes, repacks, god packs, chase cards, grail cards, Charizard, Pikachu, Mew, Mewtwo, Lugia, Ho-Oh, Rayquaza, Giratina, Gengar, Umbreon, Espeon, Sylveon, Leafeon, Glaceon, Flareon, Jolteon, Vaporeon, Eevee, Dragonite, Blastoise, Venusaur, Arceus, Dialga, Palkia, Darkrai, Deoxys, Celebi, Jirachi, Suicune, Entei, Raikou, Zapdos, Articuno, Moltres, Latios, Latias, Kyogre, Groudon, Gardevoir, Greninja, Lucario, Garchomp, Tyranitar, Dragonair, Magikarp, Gyarados, Snorlax, Dragonair, Alakazam, Machamp, Nidoking, Ninetales, Arcanine, Aerodactyl, Lapras, Ditto, Porygon, Porygon-Z, Scizor, Steelix, Metagross, Salamence, Flygon, Absol, Milotic, Altaria, Houndoom, Crobat, Ampharos, Heracross, Donphan, Kingdra, Blaziken, Sceptile, Swampert, Infernape, Torterra, Empoleon, Luxray, Zoroark, Reshiram, Zekrom, Kyurem, Yveltal, Xerneas, Solgaleo, Lunala, Necrozma, Zacian, Zamazenta, Eternatus, Miraidon, Koraidon, Terapagos, Ogerpon, Pecharunt, Iron Valiant, Roaring Moon, Walking Wake, Iron Leaves, Raging Bolt, Gouging Fire, Iron Crown, Iron Boulder, Iron Hands, Iron Thorns, Flutter Mane, Scream Tail, Great Tusk, Iron Treads, Chien-Pao, Ting-Lu, Chi-Yu, Wo-Chien, Skeledirge, Meowscarada, Quaquaval, Fuecoco, Sprigatito, Quaxly, Charmander, Squirtle, Bulbasaur, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Turtwig, Chimchar, Piplup, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Grookey, Scorbunny, Sobble, Pokémon V, Pokémon VMAX, Pokémon VSTAR, Pokémon ex, Pokémon EX, Pokémon-GX, TAG TEAM GX, Mega EX, Mega Evolution Pokémon ex, Pokémon BREAK, Pokémon LEGEND, Pokémon Prime, Radiant Pokémon, Amazing Rare Pokémon, Shining Pokémon, Crystal Pokémon, Gold Star Pokémon, Delta Species Pokémon, Ancient Pokémon, Future Pokémon, Tera Pokémon, Trainer Gallery, Galarian Gallery, Character Rares, Character Secret Rares, Secret Illustration Rares, ACE SPEC cards, Prism Star cards, Rainbow Energy, Basic Energy, Special Energy, Double Colorless Energy, Darkness Energy, Metal Energy, Fire Energy, Water Energy, Grass Energy, Lightning Energy, Psychic Energy, Fighting Energy, Fairy Energy, Dragon Pokémon, Colorless Pokémon, Stadium cards, Supporter cards, Item cards, Pokémon Tool cards, Technical Machine cards, Trainer cards, Energy Retrieval, Rare Candy, Ultra Ball, Great Ball, Master Ball, Nest Ball, Quick Ball, Level Ball, Dive Ball, Dusk Ball, Timer Ball, Repeat Ball, Friend Ball, Love Ball, Beast Ball, Moon Ball, Heavy Ball, Cherish Ball, Switch, Escape Rope, Boss's Orders, Professor's Research, Iono, Arven, Penny, Miriam, Nemona, Marnie, N, Lillie, Cynthia, Rosa, Skyla, Misty, Brock, Erika, Sabrina, Giovanni, Professor Oak, Professor Elm, Professor Birch, Professor Juniper, Professor Sycamore, Professor Kukui, Professor Magnolia, Professor Sada, Professor Turo, Steven, Lance, Red, Blue, Green, Nessa, Bea, Raihan, Leon, Hop, Bede, Klara, Avery, Kabu, Korrina, Zinnia, Lisia, Acerola, Guzma, Lusamine, Wicke, Olivia, Gardenia, Candice, Irida, Adaman, Volo, Perrin, Carmine, Kieran, Crispin, Drayton, Lacey, Amarys, Team Rocket, Team Aqua, Team Magma, Team Galactic, Team Plasma, Team Flare, Team Skull, Team Yell, Team Star, Base Set, Jungle, Fossil, Base Set 2, Team Rocket, Gym Heroes, Gym Challenge, Neo Genesis, Neo Discovery, Neo Revelation, Neo Destiny, Legendary Collection, Expedition Base Set, Aquapolis, Skyridge, EX Ruby & Sapphire, EX Sandstorm, EX Dragon, EX Team Magma vs Team Aqua, EX Hidden Legends, EX FireRed & LeafGreen, EX Team Rocket Returns, EX Deoxys, EX Emerald, EX Unseen Forces, EX Delta Species, EX Legend Maker, EX Holon Phantoms, EX Crystal Guardians, EX Dragon Frontiers, EX Power Keepers, Diamond & Pearl, Mysterious Treasures, Secret Wonders, Great Encounters, Majestic Dawn, Legends Awakened, Stormfront, Platinum, Rising Rivals, Supreme Victors, Arceus, HeartGold & SoulSilver, Unleashed, Undaunted, Triumphant, Call of Legends, Black & White, Emerging Powers, Noble Victories, Next Destinies, Dark Explorers, Dragons Exalted, Dragon Vault, Boundaries Crossed, Plasma Storm, Plasma Freeze, Plasma Blast, Legendary Treasures, XY, Flashfire, Furious Fists, Phantom Forces, Primal Clash, Double Crisis, Roaring Skies, Ancient Origins, BREAKthrough, BREAKpoint, Generations, Fates Collide, Steam Siege, Evolutions, Sun & Moon, Guardians Rising, Burning Shadows, Shining Legends, Crimson Invasion, Ultra Prism, Forbidden Light, Celestial Storm, Dragon Majesty, Lost Thunder, Team Up, Detective Pikachu, Unbroken Bonds, Unified Minds, Hidden Fates, Cosmic Eclipse, Sword & Shield, Rebel Clash, Darkness Ablaze, Champion's Path, Vivid Voltage, Shining Fates, Battle Styles, Chilling Reign, Evolving Skies, Celebrations, Fusion Strike, Brilliant Stars, Astral Radiance, Pokémon GO, Lost Origin, Silver Tempest, Crown Zenith, Scarlet & Violet, Paldea Evolved, Obsidian Flames, Pokémon 151, Paradox Rift, Paldean Fates, Temporal Forces, Twilight Masquerade, Shrouded Fable, Stellar Crown, Surging Sparks, Prismatic Evolutions, Journey Together, Destined Rivals, Black Bolt, White Flare, Mega Evolution, Phantasmal Flames, Ascended Heroes, Perfect Order, Base Set booster pack, Jungle booster pack, Fossil booster pack, Team Rocket booster pack, Neo Genesis booster pack, Neo Destiny booster pack, Skyridge booster pack, Legendary Collection booster pack, EX Deoxys booster pack, EX Dragon Frontiers booster pack, Platinum booster pack, HeartGold SoulSilver booster pack, Black & White booster pack, Plasma Storm booster pack, XY Evolutions booster pack, Hidden Fates booster pack, Evolving Skies booster pack, Celebrations booster pack, Crown Zenith booster pack, 151 booster pack, Prismatic Evolutions booster pack, Japanese 151 booster box, VSTAR Universe booster box, Shiny Treasure ex booster box, Shiny Star V booster box, VMAX Climax booster box, Tag Team GX All Stars booster box, Eevee Heroes booster box, Blue Sky Stream booster box, Lost Abyss booster box, Paradigm Trigger booster box, Clay Burst booster box, Snow Hazard booster box, Ruler of the Black Flame booster box, Ancient Roar booster box, Future Flash booster box, Wild Force booster box, Cyber Judge booster box, Crimson Haze booster box, Mask of Change booster box, Night Wanderer booster box, Stellar Miracle booster box, Paradise Dragona booster box, Super Electric Breaker booster box, Terastal Festival ex booster box, Battle Partners booster box, Heat Wave Arena booster box, Glory of Team Rocket booster box, Black Bolt booster box, White Flare booster box, Mega Brave booster box, Mega Symphonia booster box, Japanese promo packs, Pokémon Center exclusives, special delivery promos, Pokémon Center stamped promos, Pokémon Day promos, Pokémon League promos, league prize cards, league battle decks, battle decks, ex battle decks, V battle decks, VMAX battle decks, theme decks, starter decks, starter kits, Battle Academy, Build & Battle Boxes, Build & Battle Stadiums, Trainer's Toolkits, Trainer Kits, starter collections, mini portfolios, collector portfolios, nine-pocket binders, twelve-pocket binders, four-pocket binders, zip binders, ring binders, top-loader binders, card sleeves, penny sleeves, perfect-fit sleeves, inner sleeves, outer sleeves, matte sleeves, holographic sleeves, Japanese card sleeves, Pokémon Center sleeves, deck protectors, toploaders, semi-rigid holders, Card Savers, magnetic card holders, one-touch cases, acrylic card stands, graded card stands, slab protectors, slab sleeves, slab cases, graded card storage boxes, deck boxes, double deck boxes, premium deck boxes, magnetic deck boxes, acrylic booster boxes, booster pack cases, booster box protectors, ETB protectors, tin protectors, display stands, card display frames, wall displays, UV-protective cases, collection cabinets, storage boxes, card sorting trays, card dividers, card separators, deck dividers, playmats, rubber playmats, cloth playmats, Pokémon Center playmats, tournament playmats, dice, damage dice, damage counters, acrylic damage counters, metal damage counters, condition markers, poison markers, burn markers, VSTAR markers, GX markers, coin-flip dice, Pokémon coins, jumbo coins, metal coins, status tokens, ability markers, energy markers, damage indicator tokens, Pokémon pins, enamel pins, collector pins, Pokémon figures, acrylic figures, card stands, mini posters, jumbo posters, collector posters, art prints, Pokémon stickers, card stickers, Pokémon TCG calendars, Pokémon advent calendars, holiday calendars, holiday gift boxes, holiday collections, Pokémon lunchboxes, collector lunchboxes, Pokémon pencils, Pokémon erasers, Pokémon pencil cases, Pokémon notebooks, Pokémon folders, Pokémon backpacks, Pokémon card carrying cases, Pokémon trading card albums, Pokémon card catalogs, Pokémon set lists, Pokémon card checklists, Pokémon collector guides, Pokémon price guides, Pokémon TCG rulebooks, Pokémon TCG strategy guides, Pokémon TCG player guides, Pokémon TCG artwork books, card grading, card authentication, card restoration detection, population reports, grading labels, certification numbers, graded slabs, grading submissions, grading returns, graded reveals, card centering, card corners, card edges, card surface, print lines, whitening, scratches, holo scratches, holo bleed, ink errors, crimp errors, miscut cards, off-center cards, missing texture errors, alignment dots, square-cut cards, double-stamped cards, ghost stamps, inverted backs, blank cards, test prints, prototype cards, sample cards, no-rarity cards, unlimited print cards, first-edition stamps, unlimited editions, promotional stamps, staff stamps, prerelease stamps, Pokémon Center stamps, league stamps, winner stamps, tournament stamps, anniversary stamps, gold-stamped cards, silver-stamped cards, cosmos holos, cracked ice holos, galaxy holos, mirror holos, reverse holo patterns, Poké Ball reverse holos, Master Ball reverse holos, etched holos, textured cards, embossed cards, foil cards, gold foil cards, silver foil cards, rainbow foil cards, black star promos, WotC promos, Nintendo promos, POP Series cards, McDonald's promo cards, General Mills promo cards, Pokémon movie promos, Pokémon Center opening promos, Pokémon World Championships promos, Play! Pokémon prize packs, Prize Pack Series, league challenge promos, league cup promos, regional championship promos, international championship promos, world championship promos, championship deck replicas, autograph cards, signed Pokémon cards, signed slabs, artist-signed cards, trophy Pikachu cards, Pikachu Illustrator, No. 1 Trainer, No. 2 Trainer, No. 3 Trainer, Tropical Wind, Tropical Mega Battle, University Magikarp, Masaki promos, vending series cards, CoroCoro promos, CD promos, ANA airline promos, Japanese gym promos, Japanese postcard promos, Pokémon art contest cards, Pokémon Snap contest cards, Pokémon fan club promos, birthday cards, birthday Pikachu, ancient Mew, armored Mewtwo, Detective Pikachu promos, Mario Pikachu, Luigi Pikachu, Poncho Pikachu, Scream promos, Kanazawa Pikachu, Yokohama Pikachu, Osaka Pikachu, Tokyo Pikachu, Shibuya Pikachu, Kyoto Pikachu, Surfing Pikachu, Flying Pikachu, Ash's Pikachu, Red's Pikachu, Rocket's Pokémon, Dark Pokémon, Light Pokémon, Owner's Pokémon, Trainer's Pokémon, Baby Pokémon, Basic Pokémon, Stage 1 Pokémon, Stage 2 Pokémon, Ancient Trait Pokémon, Lost Zone cards, Fusion Strike cards, Rapid Strike cards, Single Strike cards, Ancient cards, Future cards, Terastal Pokémon, Tera Stellar Pokémon, Pokémon with abilities, Pokémon with attacks, Pokémon with retreat costs, Pokémon with weaknesses, Pokémon with resistances, double rare cards, ultra rare cards, uncommon cards, common cards, rare cards, rare holo cards, rare reverse holos, promo rares, parallel cards, set-numbered cards, secret-numbered cards, special-energy cards, hyper rare cards, gold secret rares, trainer full arts, supporter full arts, trainer gallery cards, character artwork cards, connecting artwork cards, illustration collections, artist collections, complete Pokédex binders, Eeveelution collections, legendary collections, mythical collections, starter Pokémon collections, shiny Pokémon collections, dragon Pokémon collections, fossil Pokémon collections, baby Pokémon collections, regional Pokémon collections, Kanto collections, Johto collections, Hoenn collections, Sinnoh collections, Unova collections, Kalos collections, Alola collections, Galar collections, Paldea collections, vintage holo sets, modern illustration sets, master ball sets, reverse holo master sets, complete promo sets, sealed master collections, booster pack art collections, booster box collections, ETB collections, tin collections, pin collections, coin collections, playmat collections, jumbo card collections, deck collections, tournament collections, Japanese exclusive products, Pokémon Center limited editions, Pokémon anniversary boxes, Pokémon celebration products, Pokémon TCG Classic decks, Pokémon TCG Classic accessories, Pokémon TCG Live, Pokémon TCG Pocket, digital card collections, virtual booster packs, virtual decks, code cards, online redemption codes, Pokémon TCG tournaments, Pokémon League, prerelease tournaments, League Challenges, League Cups, Regional Championships, International Championships, World Championships, Championship Points, competitive decks, casual decks, meta decks, rogue decks, control decks, stall decks, aggro decks, single-prize decks, multi-prize decks, energy acceleration decks, discard decks, Lost Zone decks, mill decks, evolution decks, toolbox decks, deck lists, deck profiles, deck-building guides, card ratios, draw engines, search engines, damage calculations, prize cards, six-prize matches, best-of-three matches, Standard format, Expanded format, Unlimited format, rotation marks, regulation marks, banned cards, restricted cards, legal cards, tournament-legal sleeves, official Pokémon TCG merchandise, Pokémon card shops, Pokémon vending machines, Pokémon card conventions, trading events, collector meetups, card shows, trade binders, trading cards, card swaps, sealed trades, graded trades, Pokémon auctions, card auctions, eBay listings, TCGplayer listings, Cardmarket listings, price charts, market prices, sold listings, card valuations, grading fees, shipping supplies, bubble mailers, team bags, cardboard backing, shipping boxes, card insurance, collection insurance, storage humidity, UV protection, temperature-controlled storage, sealed investment collections, Pokémon card collecting, Pokémon pack openings, booster box openings, ETB openings, mystery box openings, vintage pack openings, graded card reveals, Pokémon card hunting, Pokémon card shopping, chase-card hunting, set completion, binder organizing, collection showcasing, Pokémon trading, Pokémon battling, deck building, tournament playing, Pokémon TCG collecting.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479989966",
+      "heading": "Pokémon TCG samlekort og bokser",
+      "price_label": "15 000 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479989966"
+    },
+    {
+      "item_id": "465561994",
+      "heading": "5x Pokemon TCG Prismatic Premium Figure Collection eske",
+      "price_label": "15 000 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465561994"
+    },
+    {
+      "item_id": "480498666",
+      "heading": "Sjekker interesse for Pokemon kort!",
+      "price_label": null,
+      "location": "Hundvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480498666"
+    },
+    {
+      "item_id": "477430089",
+      "heading": "🔥 Pokémon TCG – Sealed produkter, kort & graded kort 🔥",
+      "price_label": "123 456 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477430089"
+    },
+    {
+      "item_id": "477898615",
+      "heading": "Pokemon TCG samling – Elite Trainer Box, Vaporeon VMAX boks og Brilliant Stars",
+      "price_label": "25 000 kr",
+      "location": "Straume",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477898615"
+    },
+    {
+      "item_id": "477538808",
+      "heading": "Pokemonkort uåpnet ETBer, boosterboxer med mer",
+      "price_label": "45 000 kr",
+      "location": "Strusshamn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477538808"
+    },
+    {
+      "item_id": "478056302",
+      "heading": "Pokemon kort",
+      "price_label": "14 000 kr",
+      "location": "Kongsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478056302"
+    },
+    {
+      "item_id": "472057598",
+      "heading": "Ulike pokemon kort og sealed, ascended heros, 151",
+      "price_label": "18 000 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472057598"
+    },
+    {
+      "item_id": "477975753",
+      "heading": "Stor samling Pokémon kort ( HITS / BULK / SLEEVES / VINTAGE)",
+      "price_label": "14 999 kr",
+      "location": "Sistranda",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477975753"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b15055a5-3fae-49b3-8303-deee4c96f920",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478510711/b15055a5-3fae-49b3-8303-deee4c96f920"
+    },
+    {
+      "uuid": "6fa75cba-e6fb-47c5-b4aa-4c3f78f1c064",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/6fa75cba-e6fb-47c5-b4aa-4c3f78f1c064"
+    },
+    {
+      "uuid": "3d6f6edf-2a9c-4518-8f54-0ec911221cb7",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/3d6f6edf-2a9c-4518-8f54-0ec911221cb7"
+    },
+    {
+      "uuid": "02ddec75-4bff-47c4-9db3-7ab05560ac1d",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/02ddec75-4bff-47c4-9db3-7ab05560ac1d"
+    },
+    {
+      "uuid": "92a8fd5a-2706-43d1-a5f6-f4dd35078968",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/92a8fd5a-2706-43d1-a5f6-f4dd35078968"
+    },
+    {
+      "uuid": "4573d29b-4665-41fe-8fce-03923eba65d9",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/4573d29b-4665-41fe-8fce-03923eba65d9"
+    },
+    {
+      "uuid": "7fe70433-c9de-468d-bcf5-f9a1972cbf77",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/7fe70433-c9de-468d-bcf5-f9a1972cbf77"
+    },
+    {
+      "uuid": "ed7dd1ba-e659-44eb-9335-79ba3e6c57c2",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/ed7dd1ba-e659-44eb-9335-79ba3e6c57c2"
+    },
+    {
+      "uuid": "aec76ffe-deaf-466b-87f5-052a2835c6b0",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/aec76ffe-deaf-466b-87f5-052a2835c6b0"
+    },
+    {
+      "uuid": "70b14683-7800-48cf-8694-966d34f41151",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/70b14683-7800-48cf-8694-966d34f41151"
+    },
+    {
+      "uuid": "fe9c0abc-566f-4727-a0f8-db1fee502121",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478510711/fe9c0abc-566f-4727-a0f8-db1fee502121"
+    },
+    {
+      "uuid": "bf0024cd-5027-4f10-85f9-46cc7470c2c2",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/bf0024cd-5027-4f10-85f9-46cc7470c2c2"
+    },
+    {
+      "uuid": "17355d48-e3a0-4862-8ebe-393a61633e71",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/17355d48-e3a0-4862-8ebe-393a61633e71"
+    },
+    {
+      "uuid": "ca7f9656-5c5c-43b5-9c3c-22bc03eab2f4",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/ca7f9656-5c5c-43b5-9c3c-22bc03eab2f4"
+    },
+    {
+      "uuid": "92aa5be8-0139-4375-823f-f4126bf181ae",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/92aa5be8-0139-4375-823f-f4126bf181ae"
+    },
+    {
+      "uuid": "e7f762e6-1dbc-4590-b8eb-e7e9864814f5",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/e7f762e6-1dbc-4590-b8eb-e7e9864814f5"
+    },
+    {
+      "uuid": "9ee64e3c-08ce-4951-be73-d90a832f4573",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/9ee64e3c-08ce-4951-be73-d90a832f4573"
+    },
+    {
+      "uuid": "313628d4-c156-4822-8c5a-728ca663edf8",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/313628d4-c156-4822-8c5a-728ca663edf8"
+    },
+    {
+      "uuid": "8075a227-275d-457b-914a-392138d31639",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/8075a227-275d-457b-914a-392138d31639"
+    },
+    {
+      "uuid": "ea4a64ad-b793-4392-9e07-c0da7928aa15",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/ea4a64ad-b793-4392-9e07-c0da7928aa15"
+    },
+    {
+      "uuid": "e84c76a6-ba2d-4691-8036-937f9a13b451",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/e84c76a6-ba2d-4691-8036-937f9a13b451"
+    },
+    {
+      "uuid": "2fba61ed-5c18-4689-8f19-d536b1bb8bd2",
+      "item_ref": "478510711",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478510711/2fba61ed-5c18-4689-8f19-d536b1bb8bd2"
+    }
+  ],
+  "raw_capture": "478510711_pok-mon-tcg-samling-selges/raw/478510711_2026-11-08-224701.html"
+}

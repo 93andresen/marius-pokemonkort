@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:49Z",
+  "contact_button": {
+    "adId": "470097965",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "470097965",
+  "kode_candidates": {
+    "canonical": "470097965",
+    "object_info": "470097965",
+    "maplink": "470097965",
+    "contact_button": "470097965",
+    "hint": "470097965"
+  },
+  "ld_json": {
+    "sku": "470097965",
+    "name": "Pokemon Lost Abyss japansk boosterboks",
+    "url": "https://www.finn.no/recommerce/forsale/item/470097965",
+    "item_condition": "NewCondition",
+    "price_raw": "4290",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 4290
+  },
+  "title_source": "dom",
+  "title": "Pokemon Lost Abyss japansk boosterboks",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "4 290 kr",
+  "price_nok": 4290,
+  "price_nok_source": "dom",
+  "location_text": "3724 Skien",
+  "lat": 59.20189715954589,
+  "lon": 9.615700072745184,
+  "postal_code": "3724",
+  "last_modified_raw": "23.9.2026 kl. 09:36",
+  "last_modified": "2026-09-23T09:36:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "983eebc8-d12f-4157-8990-e84428046075",
+    "affd27bb-d85d-473f-85d9-6ecce640bc35",
+    "c033a312-8e63-469c-a7a3-32b419a9926a",
+    "a28ae3c0-f533-40ec-b92a-0852f6931a99"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger fabrikkforseglede Pokemon Lost Abyss Booster Boxes (JP). Boksene kommer rett fra leverandør og har blitt oppbevart trygt i original eske, nesten helt urørt.\n\n \n\nBoosterboksene er i svært god stand:\n\n \n\nFabrikkforseglet plast\n\nIngen rifter eller synlige skader\n\nOppbevart tørt og trygt\n\n100 % ekte japansk Pokemon-produkt\n\n \n\nJeg har totalt 2 stk. tilgjengelig.\n\n \n\nPris gjelder per boosterboks. Ved kjøp av flere bokser eller andre Pokemon-produkter kan vi eventuelt bli enige om en pakkepris.\n\n \n\nJeg selger også flere forseglede Pokemon-produkter. Se gjerne mine andre annonser.\n\n \n\nIngen trades.\n\n \n\nSendes med Norgespakke. Kjøper betaler frakt.\n\nKan hentes i Skien ved avtale.\n\n \n\nSøkeord: Pokemon Lost Abyss, Lost Abyss Booster Box, Lost Abyss JP, japansk boosterboks, Pokemon booster box, Pokemon TCG Japan, Lost Origin japansk, Giratina Pokemon, sealed booster box, fabrikkforseglet Pokemon, uåpnet Pokemon, japanske Pokemon-kort, Pokemon samlekort, samlerprodukt, sealed collection",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "467898771",
+      "heading": "Pokemon Lost Abyss Booster Boks",
+      "price_label": "3 999 kr",
+      "location": "Porsgrunn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467898771"
+    },
+    {
+      "item_id": "469939634",
+      "heading": "Abyss Eye Booster Box (japansk)",
+      "price_label": "1 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469939634"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "470091949",
+      "heading": "Pokemon Shiny Treasure ex japansk boosterboks",
+      "price_label": "1 990 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470091949"
+    },
+    {
+      "item_id": "475369922",
+      "heading": "Pokemon Abyss Eye Sealed boosterboks",
+      "price_label": "899 kr",
+      "location": "Nedenes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475369922"
+    },
+    {
+      "item_id": "470099735",
+      "heading": "Pokemon Ruler of the Black Flame japansk boosterboks",
+      "price_label": "1 990 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470099735"
+    },
+    {
+      "item_id": "479671976",
+      "heading": "Pokémon Abyss Eye booster box",
+      "price_label": "800 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479671976"
+    },
+    {
+      "item_id": "478033548",
+      "heading": "Pokémon Abyss eye",
+      "price_label": "2 050 kr",
+      "location": "Brønnøysund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478033548"
+    },
+    {
+      "item_id": "475236302",
+      "heading": "Pokemon Abyss Eye - Booster Box",
+      "price_label": "999 kr",
+      "location": "Fornebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475236302"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "983eebc8-d12f-4157-8990-e84428046075",
+      "item_ref": "470097965",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/470097965/983eebc8-d12f-4157-8990-e84428046075"
+    },
+    {
+      "uuid": "affd27bb-d85d-473f-85d9-6ecce640bc35",
+      "item_ref": "470097965",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/470097965/affd27bb-d85d-473f-85d9-6ecce640bc35"
+    },
+    {
+      "uuid": "c033a312-8e63-469c-a7a3-32b419a9926a",
+      "item_ref": "470097965",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/470097965/c033a312-8e63-469c-a7a3-32b419a9926a"
+    },
+    {
+      "uuid": "a28ae3c0-f533-40ec-b92a-0852f6931a99",
+      "item_ref": "470097965",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/470097965/a28ae3c0-f533-40ec-b92a-0852f6931a99"
+    }
+  ],
+  "raw_capture": "470097965_pokemon-lost-abyss-japansk-boosterboks/raw/470097965_2026-11-08-224649.html"
+}

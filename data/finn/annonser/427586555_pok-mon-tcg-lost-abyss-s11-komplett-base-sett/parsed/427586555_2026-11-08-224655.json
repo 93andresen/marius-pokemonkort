@@ -1,0 +1,251 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:55Z",
+  "contact_button": {
+    "adId": "427586555",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "427586555",
+  "kode_candidates": {
+    "canonical": "427586555",
+    "object_info": "427586555",
+    "maplink": "427586555",
+    "contact_button": "427586555",
+    "hint": "427586555"
+  },
+  "ld_json": {
+    "sku": "427586555",
+    "name": "Pokémon TCG - Lost Abyss s11 - komplett base sett!",
+    "url": "https://www.finn.no/recommerce/forsale/item/427586555",
+    "item_condition": "NewCondition",
+    "price_raw": "600",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 600
+  },
+  "title_source": "dom",
+  "title": "Pokémon TCG - Lost Abyss s11 - komplett base sett!",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "600 kr",
+  "price_nok": 600,
+  "price_nok_source": "dom",
+  "location_text": "1397 Nesøya",
+  "lat": 59.87064105866115,
+  "lon": 10.530445349257032,
+  "postal_code": "1397",
+  "last_modified_raw": "2.9.2026 kl. 20:17",
+  "last_modified": "2026-09-02T20:17:00",
+  "gallery_count": 9,
+  "image_uuids": [
+    "91b0c2d4-5891-4682-9dc4-4e33e6f1fcc3",
+    "00795525-dcf8-49bc-bdcd-3dbaf890057a",
+    "9a8874e6-dbd5-4051-911a-ed84136f58cf",
+    "dfa4f9c6-cb80-435a-b946-9efa27290097",
+    "552da266-b22e-432a-835d-e5d97de272c8",
+    "24e91561-38af-49cc-b8a5-b6dc9dad716d",
+    "f87bd188-d612-48b4-9420-5db7046562f5",
+    "6872f1f8-cdba-4be1-8eb0-84ad73d1028a",
+    "cf32c66b-38fe-4998-8148-dc4aa099e0e2"
+  ],
+  "image_count_from_html": 9,
+  "description_raw": "- Lost Abyss s11 -\n\n \n\nKomplett base sett.\n\n600,- for alt.\n\n \n\nPermen er ikke inkludert. \n\n \n\n---\n\n \n\nEkstra kort:\n\n \n\nV / VSTAR:          \n\n029/100 Kyurem V x2       \n\n037/100 Rotom V x2      \n\n066/100 Drapion V \n\n         \n\nHolo:   \n\n012/100 Trevenant          \n\n024/100 Seaking         \n\n034/100 Glastier x2        \n\n044/100 Sableye x2       \n\n054/100 Dragapult          \n\n061/100 Barbaracle          \n\n070/100 Krookodile x2           \n\n075/100 Metagross x2      \n\n \n\n+ bulk.\n\n \n\n◾ Sender med Posten eller Postnord.                                                                \n\n◾ Kjøper dekker selv frakt.                                                                \n\n◾ Vipps betaling.                                                                \n\n◾ Gi beskjed om flere bilder eller mer info ønskes!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477178694",
+      "heading": "Pokemon singles til salgs",
+      "price_label": "750 kr",
+      "location": "Borgen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477178694"
+    },
+    {
+      "item_id": "467683366",
+      "heading": "Pokemon Abyss Eye - hits og hundrevis av kort",
+      "price_label": "390 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467683366"
+    },
+    {
+      "item_id": "409876135",
+      "heading": "‼️ POKEMON TCG DECKS 🌟💫‼️",
+      "price_label": "499 kr",
+      "location": "Kattem",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/409876135"
+    },
+    {
+      "item_id": "474001143",
+      "heading": "Pokemon Kort Bulk - Ancient Origins (28%)",
+      "price_label": "200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474001143"
+    },
+    {
+      "item_id": "465764406",
+      "heading": "En pakke med diverse pokemonkort",
+      "price_label": "999 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465764406"
+    },
+    {
+      "item_id": "477537637",
+      "heading": "Pokemonkort selges!",
+      "price_label": "800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477537637"
+    },
+    {
+      "item_id": "475947534",
+      "heading": "Pokemon samlekort – diverse kort selges enkeltvis",
+      "price_label": "600 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475947534"
+    },
+    {
+      "item_id": "458804240",
+      "heading": "Lost Origin samling",
+      "price_label": "240 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/458804240"
+    },
+    {
+      "item_id": "475749144",
+      "heading": "2kg Pokemon bulk - prismatic, pitch black, storm emeralda +++",
+      "price_label": "800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475749144"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "91b0c2d4-5891-4682-9dc4-4e33e6f1fcc3",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/427586555/91b0c2d4-5891-4682-9dc4-4e33e6f1fcc3"
+    },
+    {
+      "uuid": "00795525-dcf8-49bc-bdcd-3dbaf890057a",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/427586555/00795525-dcf8-49bc-bdcd-3dbaf890057a"
+    },
+    {
+      "uuid": "9a8874e6-dbd5-4051-911a-ed84136f58cf",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/9a8874e6-dbd5-4051-911a-ed84136f58cf"
+    },
+    {
+      "uuid": "dfa4f9c6-cb80-435a-b946-9efa27290097",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/dfa4f9c6-cb80-435a-b946-9efa27290097"
+    },
+    {
+      "uuid": "552da266-b22e-432a-835d-e5d97de272c8",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/552da266-b22e-432a-835d-e5d97de272c8"
+    },
+    {
+      "uuid": "24e91561-38af-49cc-b8a5-b6dc9dad716d",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/24e91561-38af-49cc-b8a5-b6dc9dad716d"
+    },
+    {
+      "uuid": "f87bd188-d612-48b4-9420-5db7046562f5",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/f87bd188-d612-48b4-9420-5db7046562f5"
+    },
+    {
+      "uuid": "6872f1f8-cdba-4be1-8eb0-84ad73d1028a",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/6872f1f8-cdba-4be1-8eb0-84ad73d1028a"
+    },
+    {
+      "uuid": "cf32c66b-38fe-4998-8148-dc4aa099e0e2",
+      "item_ref": "427586555",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/427586555/cf32c66b-38fe-4998-8148-dc4aa099e0e2"
+    }
+  ],
+  "raw_capture": "427586555_pok-mon-tcg-lost-abyss-s11-komplett-base-sett/raw/427586555_2026-11-08-224655.html"
+}

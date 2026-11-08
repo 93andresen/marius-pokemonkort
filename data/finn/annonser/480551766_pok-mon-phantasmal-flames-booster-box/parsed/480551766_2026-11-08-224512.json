@@ -1,0 +1,233 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:12Z",
+  "contact_button": {
+    "adId": "480551766",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480551766",
+  "kode_candidates": {
+    "canonical": "480551766",
+    "object_info": "480551766",
+    "maplink": "480551766",
+    "contact_button": "480551766",
+    "hint": "480551766"
+  },
+  "ld_json": {
+    "sku": "480551766",
+    "name": "Pokémon Phantasmal Flames Booster Box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480551766",
+    "item_condition": "NewCondition",
+    "price_raw": "4449",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 4449
+  },
+  "title_source": "dom",
+  "title": "Pokémon Phantasmal Flames Booster Box",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 4449,
+  "price_nok_source": "ld+json",
+  "location_text": "2150 Årnes",
+  "lat": 60.121102870221534,
+  "lon": 11.466301313584912,
+  "postal_code": "2150",
+  "last_modified_raw": "8.11.2026 kl. 16:22",
+  "last_modified": "2026-11-08T16:22:00",
+  "gallery_count": 6,
+  "image_uuids": [
+    "787883a8-294f-4de8-b4b5-8befe740717f",
+    "9bb88187-b685-4626-beb7-cdb5c5ad0977",
+    "5373c511-81c0-49f7-bbcb-6499a36f3eb5",
+    "7276455f-c11c-43ba-82e1-cb91e641e886",
+    "9143212a-f611-4835-9da4-343d0baeba8c",
+    "950838b0-bd62-474a-9adb-818884c22a4b"
+  ],
+  "image_count_from_html": 6,
+  "description_raw": "Selger en Phantasmal flame booster boks. Boksen er sealed. Tilstand som vist på bildene. Fin i plasten.\n\n \n\nKan sendes godt innpakket eller hentes på Årnes etter avtale. Fri frakt via Fiks Ferdig, ellers betaler kjøperen for frakten. Kan kjøpes uten Fiks Ferdig. \n\nTa gjerne kontakt hvis du har spørsmål eller er interessert!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480330202",
+      "heading": "Pokemon Phantasmal Flames Booster Box",
+      "price_label": "4 500 kr",
+      "location": "Klepp stasjon",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480330202"
+    },
+    {
+      "item_id": "480525256",
+      "heading": "Pokemon - Phantasmal Flames Booster Box",
+      "price_label": "4 400 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480525256"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "478395991",
+      "heading": "Phantasmal Flames booster box",
+      "price_label": "5 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478395991"
+    },
+    {
+      "item_id": "480465400",
+      "heading": "Pokémon - Phantasmal Flames Booster Box",
+      "price_label": "4 500 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480465400"
+    },
+    {
+      "item_id": "480545436",
+      "heading": "Pokemon  phantasmal booster box inkludert akryl",
+      "price_label": "4 250 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480545436"
+    },
+    {
+      "item_id": "470654565",
+      "heading": "Pokemon Kort Phantasmal Flames Booster Box",
+      "price_label": "5 000 kr",
+      "location": "Åsgårdstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470654565"
+    },
+    {
+      "item_id": "477865964",
+      "heading": "Phantasmal Flames Sleeved Booster Case (24 stk boosterpakker)",
+      "price_label": "3 500 kr",
+      "location": "Mo i Rana",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477865964"
+    },
+    {
+      "item_id": "471288923",
+      "heading": "Pokémon TCG: Phantasmal Flames Elite Trainer Box (ETB) – Sealed",
+      "price_label": "1 999 kr",
+      "location": "Sofiemyr",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471288923"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "787883a8-294f-4de8-b4b5-8befe740717f",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480551766/787883a8-294f-4de8-b4b5-8befe740717f"
+    },
+    {
+      "uuid": "9bb88187-b685-4626-beb7-cdb5c5ad0977",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480551766/9bb88187-b685-4626-beb7-cdb5c5ad0977"
+    },
+    {
+      "uuid": "5373c511-81c0-49f7-bbcb-6499a36f3eb5",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480551766/5373c511-81c0-49f7-bbcb-6499a36f3eb5"
+    },
+    {
+      "uuid": "7276455f-c11c-43ba-82e1-cb91e641e886",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480551766/7276455f-c11c-43ba-82e1-cb91e641e886"
+    },
+    {
+      "uuid": "9143212a-f611-4835-9da4-343d0baeba8c",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480551766/9143212a-f611-4835-9da4-343d0baeba8c"
+    },
+    {
+      "uuid": "950838b0-bd62-474a-9adb-818884c22a4b",
+      "item_ref": "480551766",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480551766/950838b0-bd62-474a-9adb-818884c22a4b"
+    }
+  ],
+  "raw_capture": "480551766_pok-mon-phantasmal-flames-booster-box/raw/480551766_2026-11-08-224512.html"
+}

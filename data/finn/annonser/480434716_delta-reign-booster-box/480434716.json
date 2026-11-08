@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:22Z",
+  "contact_button": {
+    "adId": "480434716",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480434716",
+  "kode_candidates": {
+    "canonical": "480434716",
+    "object_info": "480434716",
+    "maplink": "480434716",
+    "contact_button": "480434716",
+    "hint": "480434716"
+  },
+  "ld_json": {
+    "sku": "480434716",
+    "name": "Delta reign booster box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480434716",
+    "item_condition": "NewCondition",
+    "price_raw": "3249",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 3249
+  },
+  "title_source": "dom",
+  "title": "Delta reign booster box",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "3 249 kr",
+  "price_nok": 3249,
+  "price_nok_source": "dom",
+  "location_text": "0598 Oslo",
+  "lat": 59.939813027799175,
+  "lon": 10.82884867120819,
+  "postal_code": "0598",
+  "last_modified_raw": "7.11.2026 kl. 10:39",
+  "last_modified": "2026-11-07T10:39:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "40fbb962-05e0-4888-8cc1-68a988e125dc"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Vurderes solgt\n\n \n\nSendes eller hentes\n\n \n\n \n\n \n\n \n\n \n\n \n\nKan vurdere trades i psa og sealed\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPokemonkort, promo, singles,, surging sparks, elite trainer boks, blister, paradox rift, temporal forces, eevee, zorua, solgaleo, cgc 10, gradert kort, samling,: Pokemon kort, Pokémon kort, pokemonkort, pokemon bunker, pokemon bulk, pokemon sealed, vintage kort, Pokémon EX, Pokémon GX, Full art, Pokémon starterpakke, pokemon pakke, pokemon pakker, pokemon vintage, pokemon samling, pokeman, pokemon packs, Dragonite Fossil Unlimited, Pokemon kort, Gamle pokemonkort, Pokémon, Pokemon-kort, Holo, Reverse holo, Charizard, Venusaur, Blastoise, Alt art, Alternate art, Evolving skies, Base set, Base set 2, Team Rocket, Fossil, Jungle, Neo genesis, Legendary collection, Neo Revelation, Neo Discovery, Neo Destiny, Gym Challange, Gym Heroes, E-series, 1st edition, First edition, Shadowless, EX Sandstorm, Ex Fire, Red & Leaf Green, Ex Dragon, Ex Magma vs Team Aqua, Ex Hidden Legends, Ex Crystal Guardians, Ex Power Keepers, Ex delta species, Ex Legend maker, XY Evolutions, Wizards of the Coast, PSA TCG WOTC Black star promo, Sword & Shield, Expedition, base set, Aquapolis, Skyridge, Ex Ruby & Sapphire, Anniversary, XY-Promo Gx V Vmax XY B&W Sun & Moon, Nintendo, Arita EX, Lv.X,, Generat, Mew, Legend maker, Regirock ex, Ex emerald, Superpakker, Vintage, vmax, hits, \n\n \n\n \n\n \n\nsamling, rare, holo, reverse, mysterypacks, pakker, dragonite, vstar, giratina, charizard, pikachu, pokemonkort, pakker, kort, samlekort, 151, moderne, base set, vintage, samling, gave, tilbud, pakker, mystery pakker, destined rivals, booster box, phantasmsl flames, preorder, case, megs evolution, mega charizard, mewtwo, white flare, black bolt, victini, zekrom, reshiram, sesmitoad, mega evolution, inferno x, phantasmal flames, mega charizard, destined rivals, first edition",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479345302",
+      "heading": "Delta Reign Booster Box - case fresh",
+      "price_label": "3 499 kr",
+      "location": "Lysaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479345302"
+    },
+    {
+      "item_id": "480493253",
+      "heading": "Pokemon delta reign booster box",
+      "price_label": "3 299 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480493253"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480342617",
+      "heading": "Pokemon Delta Reign booster box helt ny GRATIS FRAKT",
+      "price_label": "3 149 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480342617"
+    },
+    {
+      "item_id": "480347067",
+      "heading": "Pokemon - Delta Reign Booster Box [Sealed]",
+      "price_label": "3 900 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480347067"
+    },
+    {
+      "item_id": "480461804",
+      "heading": "Pokemon Mega Evolution Delta Reign Booster Box Sealed",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480461804"
+    },
+    {
+      "item_id": "480575987",
+      "heading": "Pokémon Delta Reign booster display box",
+      "price_label": "3 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480575987"
+    },
+    {
+      "item_id": "480333502",
+      "heading": "Pokemon Delta Reign Booster Box Sealed",
+      "price_label": "3 300 kr",
+      "location": "Røyneberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480333502"
+    },
+    {
+      "item_id": "480405366",
+      "heading": "Helt ny seald uåpnet Delta Reign Booster Box",
+      "price_label": "3 300 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480405366"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "40fbb962-05e0-4888-8cc1-68a988e125dc",
+      "item_ref": "480434716",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480434716/40fbb962-05e0-4888-8cc1-68a988e125dc"
+    }
+  ],
+  "raw_capture": "480434716_delta-reign-booster-box/raw/480434716_2026-11-08-224622.html"
+}

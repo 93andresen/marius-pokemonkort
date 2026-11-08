@@ -1,0 +1,233 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:30Z",
+  "contact_button": {
+    "adId": "480476719",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480476719",
+  "kode_candidates": {
+    "canonical": "480476719",
+    "object_info": "480476719",
+    "maplink": "480476719",
+    "contact_button": "480476719",
+    "hint": "480476719"
+  },
+  "ld_json": {
+    "sku": "480476719",
+    "name": "Vintage Pokémon samling - ønsker gjennomgang og salg i Bergen - å",
+    "url": "https://www.finn.no/recommerce/forsale/item/480476719",
+    "item_condition": "UsedCondition",
+    "price_raw": "7500",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 7500
+  },
+  "title_source": "dom",
+  "title": "Vintage Pokémon samling - ønsker gjennomgang og salg i Bergen - åpen for bud",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 7500,
+  "price_nok_source": "ld+json",
+  "location_text": "5104 Eidsvåg i Åsane",
+  "lat": 60.4399973228445,
+  "lon": 5.298210386275838,
+  "postal_code": "5104",
+  "last_modified_raw": "7.11.2026 kl. 18:33",
+  "last_modified": "2026-11-07T18:33:00",
+  "gallery_count": 6,
+  "image_uuids": [
+    "7d216747-72ae-4ae8-83ca-efcdcc74c7e1",
+    "aaf08371-56ab-445b-b7b1-04bccf3b5a5c",
+    "ea35f24d-4152-4c20-823e-278b10ede680",
+    "3fbed330-bc42-408e-8443-83a72909b9a9",
+    "366fa1a0-9628-4853-9c92-3ca9db8437ac",
+    "f432b22e-5a4f-408b-b0c4-8bc742a4904d"
+  ],
+  "image_count_from_html": 6,
+  "description_raw": "Jeg fant nylig en bunke Pokémon-kort i boden fra samlingen jeg hadde da jeg var yngre. \n\n \n\nDessverre ser det ut til at samlingen inneholdt en blanding av ekte og falske kort. Jeg har undersøkt kortene så grundig jeg klarer og skilt ut dem jeg mener er ekte. Jeg synes selv jeg har gjort en grundig jobb, men jeg er ingen ekspert og kan derfor ikke garantere at alle er riktig vurdert.\n\n \n\nJeg ønsker helst å selge til noen i Bergensområdet som vil møtes og se gjennom kortene før et eventuelt kjøp. Da får du undersøkt både ekthet og tilstand selv. Jeg ønsker å være åpen om usikkerheten og unngå å sende kort frem og tilbake i posten.\n\n \n\nSamlet veiledende verdi for kortene jeg mener er ekte, er beregnet til **ca. 13 690 kr**, basert på PriceCharting-priser. Dette er et prisestimat, og tilstanden er ikke vurdert individuelt i beregningen. Kortene varierer en del i tilstand: Noen er veldig fine, mens andre har tydelig slitasje. Jeg vil ikke beskrive noen av dem som «near mint».\n\n \n\nJeg tar gjerne imot bud på hele samlingen og er sikker på at vi kan bli enige om en god pris, med hensyn til tilstand på kortene.\n\n \n\nDu kan også få se gjennom bunken jeg har sortert ut som antatt falske kort. Dersom noen av disse viser seg å være ekte, kan vi avtale å inkludere dem i handelen. Kort som er falske, selges ikke som del av samlingen.\n\n \n\nBud på hele samlingen uten besiktigelse er også velkomne, men da må usikkerheten rundt ekthet og tilstand være forstått og avklart før kjøpet. Jeg tilbyr ikke frivillig retur, og foretrekker derfor at kjøper undersøker kortene på forhånd.\n\n \n\nSend gjerne en melding ved interesse eller for å avtale en titt på kortene!\n\n \n\n \n\n \n\nSamlet veiledende verdi: 13 690 kr\n\n \n\n**Base Set – 1999**\n\n- Abra #43 – 17 kr (2 stk.)\n\n- Kakuna #33 – 18 kr\n\n- Machop [Shadowless] #52 – 25 kr\n\n- Metapod [1999–2000] #54 – 38 kr\n\n- Pidgey #57 – 19 kr\n\n- Ponyta [1999–2000] #60 – 31 kr\n\n- Porygon [1999–2000] #39 – 88 kr\n\n \n\n**Jungle – 1999**\n\n- Exeggcute #52 – 10 kr\n\n- Lickitung #38 – 22 kr\n\n- Rhydon #45 – 17 kr\n\n \n\n**Fossil – 1999**\n\n- Mysterious Fossil #62 – 11 kr\n\n \n\n**Base Set 2 – 2000**\n\n- Bellsprout #66 – 13 kr\n\n- Meowth #80 – 18 kr\n\n- Potion #122 – 9 kr\n\n \n\n**Team Rocket – 2000**\n\n- Dark Raticate #51 – 19 kr\n\n \n\n**Gym Heroes – 2000**\n\n- Blaine's Kangaskhan #36 – 47 kr\n\n- Blaine's Ponyta #63 – 19 kr\n\n- Brock's Geodude #38 – 25 kr\n\n- Brock's Mankey #68 – 14 kr\n\n- Brock's Onix #69 – 24 kr\n\n- Erika's Exeggcute #77 – 16 kr\n\n- Lt. Surge's Magnemite #50 – 22 kr\n\n- Lt. Surge's Raticate #51 – 21 kr\n\n- Lt. Surge's Spearow #52 – 16 kr\n\n- Misty's Poliwag #87 – 17 kr\n\n- Misty's Tentacool #57 – 23 kr\n\n- Sabrina's Venonat #96 – 16 kr\n\n \n\n**Gym Challenge – 2000**\n\n- Koga's Pidgey #80 – 18 kr\n\n \n\n**Expedition – 2002**\n\n- Electabuzz [Reverse Holo] #76 – 330 kr\n\n \n\n**Aquapolis – 2003**\n\n- Apricorn Forest #118 – 58 kr (2 stk.)\n\n- Exeggcute #76 – 33 kr\n\n- Exeggcute #77 – 74 kr (2 stk.)\n\n- Fighting Cube 01 #121 – 19 kr\n\n- Goldeen #78 – 53 kr (2 stk.)\n\n- Hitmonchan #81 – 153 kr\n\n- Hypno #16 – 328 kr\n\n- Juggler #126 – 19 kr\n\n- Metal Cube 01 #129 – 19 kr (3 stk.)\n\n- Miltank #94 – 57 kr\n\n- Nidorino #55 – 60 kr\n\n- Primeape #29 – 644 kr\n\n- Psyduck #104 – 1 593 kr\n\n- Seer #133 – 35 kr\n\n- Slowking #34 – 271 kr\n\n- Spinarak #62 – 100 kr\n\n- Super Energy Removal 2 #134 – 21 kr\n\n- Undersea Ruins #138 – 49 kr\n\n- Warp Energy #147 – 66 kr (2 stk.)\n\n- Water Cube 01 #140 – 19 kr (2 stk.)\n\n \n\n**Skyridge – 2003**\n\n- Electrode #36 – 139 kr\n\n- Star Piece [Reverse Holo] #139 – 206 kr\n\n \n\n**Ruby & Sapphire – 2003**\n\n- Nosepass #18 – 14 kr\n\n- Professor Birch #89 – 13 kr\n\n \n\n**Sandstorm – 2003**\n\n- Anorith #27 – 19 kr\n\n- Azumarill #30 – 31 kr\n\n- Double Full Heal #86 – 8 kr\n\n- Sableye #10 – 896 kr\n\n \n\n**Dragon – 2003**\n\n- Mudkip #65 – 72 kr\n\n- TV Reporter #88 – 4 kr\n\n \n\n**Team Magma & Team Aqua – 2004**\n\n- Baltoy #32 – 23 kr\n\n- Houndour #35 – 52 kr\n\n- Seviper [Reverse Holo] #17 – 99 kr\n\n- Technical Machine 01 #79 – 19 kr\n\n \n\n**EX Latias & Latios / EX Trainer Kit – 2004**\n\n- Pikachu #6 – 47 kr\n\n \n\n**Hidden Legends – 2004**\n\n- Beldum #29 – 24 kr\n\n- Island Cave #89 – 15 kr\n\n \n\n**Fire Red & Leaf Green – 2004**\n\n- Bill's Maintenance #87 – 3 kr\n\n- Hypno #25 – 19 kr\n\n- Wartortle #50 – 58 kr\n\n \n\n**EX Battle Stadium – 2004**\n\n- Energy Removal 2 #80 – 21 kr\n\n- Professor Birch #89 – 12 kr\n\n \n\n**Deoxys – 2005**\n\n- Koffing #62 – 18 kr\n\n- Lunatone #36 – 19 kr\n\n- Zubat #83 – 16 kr\n\n \n\n**Emerald – 2005**\n\n- Dodrio #26 – 16 kr\n\n- Electrike #47 – 9 kr\n\n- Grovyle #28 – 19 kr\n\n \n\n**POP Series 2 – 2005**\n\n- Ivysaur #7 – 364 kr\n\n \n\n**Unseen Forces – 2005**\n\n- Energy Recycle System #81 – 28 kr\n\n- Gloom #58 – 13 kr\n\n- Hitmonlee #25 – 32 kr\n\n- Natu #63 – 8 kr\n\n- Pineco #66 – 5 kr\n\n- Totodile #78 – 28 kr\n\n- Tyranitar EX #111 – 3 196 kr\n\n- Wooper #79 – 29 kr\n\n \n\n**Delta Species – 2005**\n\n- Dratini #66 – 35 kr\n\n- Eevee #69 – 78 kr\n\n \n\n**Legend Maker – 2006**\n\n- Gastly #52 – 17 kr\n\n- Growlithe #55 – 51 kr\n\n- Machoke #39 – 19 kr\n\n- Mysterious Fossil #79 – 28 kr\n\n- Omastar #23 – 22 kr\n\n- Power Tree #76 – 30 kr\n\n \n\n**Holon Phantoms – 2006**\n\n- Gloom #42 – 24 kr\n\n- Golduck #43 – 28 kr\n\n- Manectric #46 – 16 kr\n\n- Pidgeotto #49 – 28 kr\n\n- Pidgey #77 – 16 kr\n\n \n\n**Crystal Guardians – 2006**\n\n- Jigglypuff #53 – 22 kr\n\n- Squirtle #63 – 38 kr\n\n- Treecko #68 – 24 kr\n\n \n\n**Power Keepers – 2007**\n\n- Bagon #43 – 8 kr\n\n- Baltoy #44 – 4 kr\n\n- Beldum #45 – 11 kr\n\n- Cacnea #46 – 7 kr\n\n- Carvanha #47 – 9 kr\n\n- Charmeleon #28 – 26 kr\n\n- Duskull #50 – 14 kr\n\n- Fire Energy [Holo] #104 – 49 kr\n\n- Glacia's Stadium #76 – 16 kr\n\n- Kabuto #51 – 23 kr\n\n- Lairon #32 – 25 kr\n\n- Lanturn #15 – 21 kr\n\n- Lileep #52 – 14 kr\n\n- Machoke #33 – 16 kr\n\n- Magnemite #54 – 16 kr\n\n- Mightyena #18 – 28 kr\n\n- Poochyena #58 – 16 kr (2 stk.)\n\n- Sableye #22 – 16 kr\n\n- Seviper #23 – 33 kr\n\n- Sharpedo #38 – 18 kr\n\n- Slakoth #63 – 18 kr\n\n- Snorunt #64 – 19 kr\n\n- Steven's Advice [Reverse Holo] #83 – 111 kr\n\n- Torchic #67 – 13 kr\n\n- Vulpix #69 – 14 kr\n\n- Zangoose #25 – 19 kr\n\n \n\n**Diamond & Pearl – 2007**\n\n- Bibarel #20 – 32 kr\n\n- Carnivine #21 – 38 kr\n\n- Cascoon #44 – 8 kr\n\n- Chimchar #76 – 15 kr\n\n- Duskull #80 – 5 kr\n\n- Goldeen #84 – 4 kr\n\n- Heracross #28 – 16 kr\n\n- Hoothoot #85 – 5 kr (2 stk.)\n\n- Monferno [Reverse Holo] #56 – 54 kr\n\n- Monferno #56 – 14 kr\n\n- Noctowl #34 – 14 kr\n\n- Nuzleaf #57 – 5 kr\n\n- Piplup #93 – 19 kr\n\n- PlusPower #109 – 5 kr (2 stk.)\n\n- Poke Ball #110 – 3 kr (2 stk.)\n\n- Ponyta #94 – 10 kr\n\n- Prinplup #58 – 25 kr\n\n- Riolu #61 – 14 kr\n\n- Rival #113 – 3 kr\n\n- Sneasel #100 – 11 kr (3 stk.)\n\n- Torterra #17 – 104 kr\n\n- Turtwig #103 – 11 kr (2 stk.)\n\n- Wurmple #104 – 4 kr (3 stk.)\n\n \n\n**Mysterious Treasures – 2007**\n\n- Dewgong #45 – 19 kr\n\n- Exeggcute #82 – 9 kr\n\n- Nidoran F #91 – 4 kr\n\n- Parasect #58 – 9 kr\n\n- Sandslash #61 – 23 kr\n\n- Unown E #65 – 18 kr\n\n- Vulpix #107 – 18 kr\n\n \n\n**Manaphy & Lucario / Diamond & Pearl Trainer Kit – 2007**\n\n- Dusk Ball #9 – 3 kr\n\n- Energy Search #10 – 3 kr (2 stk.)\n\n- Energy Search #8 – 4 kr\n\n- Potion #9 – 2 kr (2 stk.)\n\n- Starly #7 – 8 kr\n\n \n\n**Secret Wonders – 2007**\n\n- Metal Energy #130 – 7 kr\n\n- Potion #127 – 2 kr\n\n- Rival #124 – 8 kr\n\n \n\n**Majestic Dawn – 2008**\n\n- Fossil Excavator #82 – 15 kr\n\n- Piplup #71 – 26 kr\n\n \n\n**Legends Awakened – 2008**\n\n- Poliwrath #35 – 31 kr\n\n \n\n**Stormfront – 2008**\n\n- Energy Switch #84 – 9 kr (2 stk.)\n\n \n\n**Platinum – 2009**\n\n- Tauros #98 – 9 kr\n\n- Vulpix #102 – 18 kr\n\n \n\n**Rising Rivals – 2009**\n\n- Aerodactyl GL #55 – 18 kr\n\n- Drapion #17 – 28 kr\n\n- Gallade #20 – 24 kr\n\n- Jolteon #26 – 123 kr\n\n- Kecleon #67 – 13 kr\n\n- Mismagius GL [Reverse Holo] #10 – 75 kr\n\n- Shellos East Sea #79 – 25 kr\n\n- Sunyshore City Gym #94 – 8 kr\n\n- Weedle #86 – 9 kr\n\n \n\n**Arceus – 2009**\n\n- Arceus #AR3 – 141 kr\n\n- Haunter #42 – 26 kr\n\n- Ponyta #46 – 17 kr\n\n- Ponyta #72 – 7 kr\n\n- Tangrowth #10 – 27 kr\n\n \n\n**HeartGold & SoulSilver – 2010**\n\n- Magikarp #72 – 20 kr\n\n- Sandshrew #79 – 15 kr\n\n \n\n**Unleashed – 2010**\n\n- Kingdra #17 – 48 kr\n\n- Metang #33 – 14 kr\n\n- Minun #34 – 38 kr\n\n- Tauros #41 – 30 kr\n\n \n\n**Undaunted – 2010**\n\n- Skarmory #21 – 8 kr\n\n \n\n**Triumphant – 2010**\n\n- Dratini #62 – 19 kr\n\n \n\n**Call of Legends – 2011**\n\n- Clefairy #54 – 18 kr\n\n- Jolteon #45 – 42 kr\n\n- Lost World #81 – 11 kr\n\n- Mareep #63 – 11 kr\n\n- Pidgey #67 – 12 kr\n\n- Professor Oak's New Theory #83 – 17 kr\n\n- Snubbull #71 – 10 kr\n\n- Teddiursa #73 – 17 kr\n\n- Ursaring #37 – 22 kr\n\n \n\n**Black & White – 2011**\n\n- Darumaka #23 – 5 kr\n\n- Deerling #13 – 9 kr\n\n- Ducklett #36 – 7 kr\n\n- Emboar [Reverse Holo] #20 – 39 kr\n\n- Liepard #67 – 17 kr\n\n- Pignite #18 – 16 kr\n\n- Samurott [Cracked Ice] #31 – 30 kr\n\n- Simipour #34 – 9 kr\n\n- Simisage #8 – 7 kr\n\n- Snivy #1 – 8 kr\n\n- Super Scoop Up [Reverse Holo] #103 – 7 kr\n\n- Tepig #15 – 11 kr\n\n- Timburr #59 – 13 kr\n\n \n\n**Excadrill & Zoroark / Black & White Trainer Kit – 2011**\n\n- Lillipup #1 – 7 kr\n\n- Pidove #14 – 15 kr\n\n- PlusPower #11 – 2 kr\n\n \n\n**Noble Victories – 2011**\n\n- Archeops #67 – 107 kr\n\n- Axew [Reverse Holo] #86 – 23 kr\n\n- Axew #86 – 9 kr\n\n- Bisharp #76 – 18 kr\n\n- Crustle #7 – 8 kr\n\n- Frillish #30 – 11 kr\n\n- Litwick #57 – 5 kr\n\n- Litwick #58 – 10 kr\n\n- Mienfoo #69 – 3 kr\n\n- Rocky Helmet #94 – 3 kr\n\n- Tynamo #39 – 3 kr\n\n \n\n**Dragons Exalted – 2012**\n\n- Bidoof #106 – 5 kr\n\n- Claydol #64 – 6 kr\n\n- Flaaffy #39 – 6 kr\n\n- Honchkrow [Reverse Holo] #73 – 12 kr\n\n- Magmar #20 – 6 kr\n\n- Maractus #16 – 3 kr\n\n- Roselia #12 – 6 kr\n\n- Slakoth #101 – 10 kr",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480577660",
+      "heading": "Vintage Pokemon Kort Selges!",
+      "price_label": null,
+      "location": "Olsvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480577660"
+    },
+    {
+      "item_id": "480421059",
+      "heading": "Stor vintage Pokemon kort samling 93-kort!",
+      "price_label": "6 000 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480421059"
+    },
+    {
+      "item_id": "480458498",
+      "heading": "100++ Graderte Pokemonkort 🔥",
+      "price_label": null,
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480458498"
+    },
+    {
+      "item_id": "480380445",
+      "heading": "Vintage Pokémon kort holo og reverse holo selges samlet!",
+      "price_label": "4 500 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480380445"
+    },
+    {
+      "item_id": "467776668",
+      "heading": "Pokemon samling.  Selges for 65%",
+      "price_label": "8 750 kr",
+      "location": "Lindås",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467776668"
+    },
+    {
+      "item_id": "478010436",
+      "heading": "Pokemon kort selges",
+      "price_label": "5 000 kr",
+      "location": "Indre Arna",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478010436"
+    },
+    {
+      "item_id": "463874340",
+      "heading": "Pokemon samlekort",
+      "price_label": "2 000 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463874340"
+    },
+    {
+      "item_id": "472848882",
+      "heading": "Pokémon-kort samling selges – Vintage, 1st Edition, Full Art & sjeldne kort",
+      "price_label": "15 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472848882"
+    },
+    {
+      "item_id": "476826266",
+      "heading": "Stor Pokemon E-reader samling",
+      "price_label": "4 000 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476826266"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "7d216747-72ae-4ae8-83ca-efcdcc74c7e1",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480476719/7d216747-72ae-4ae8-83ca-efcdcc74c7e1"
+    },
+    {
+      "uuid": "aaf08371-56ab-445b-b7b1-04bccf3b5a5c",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480476719/aaf08371-56ab-445b-b7b1-04bccf3b5a5c"
+    },
+    {
+      "uuid": "ea35f24d-4152-4c20-823e-278b10ede680",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480476719/ea35f24d-4152-4c20-823e-278b10ede680"
+    },
+    {
+      "uuid": "3fbed330-bc42-408e-8443-83a72909b9a9",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480476719/3fbed330-bc42-408e-8443-83a72909b9a9"
+    },
+    {
+      "uuid": "366fa1a0-9628-4853-9c92-3ca9db8437ac",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480476719/366fa1a0-9628-4853-9c92-3ca9db8437ac"
+    },
+    {
+      "uuid": "f432b22e-5a4f-408b-b0c4-8bc742a4904d",
+      "item_ref": "480476719",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480476719/f432b22e-5a4f-408b-b0c4-8bc742a4904d"
+    }
+  ],
+  "raw_capture": "480476719_vintage-pok-mon-samling-nsker-gjennomgang-og-salg-i-bergen-p/raw/480476719_2026-11-08-224630.html"
+}

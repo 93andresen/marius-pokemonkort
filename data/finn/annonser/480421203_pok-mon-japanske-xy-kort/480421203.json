@@ -1,0 +1,251 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:19Z",
+  "contact_button": {
+    "adId": "480421203",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480421203",
+  "kode_candidates": {
+    "canonical": "480421203",
+    "object_info": "480421203",
+    "maplink": "480421203",
+    "contact_button": "480421203",
+    "hint": "480421203"
+  },
+  "ld_json": {
+    "sku": "480421203",
+    "name": "Pokémon- japanske XY kort",
+    "url": "https://www.finn.no/recommerce/forsale/item/480421203",
+    "item_condition": null,
+    "price_raw": "700",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 700
+  },
+  "title_source": "dom",
+  "title": "Pokémon- japanske XY kort",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "700 kr",
+  "price_nok": 700,
+  "price_nok_source": "dom",
+  "location_text": "3402 Lier",
+  "lat": 59.77579646942905,
+  "lon": 10.230909002007538,
+  "postal_code": "3402",
+  "last_modified_raw": "6.11.2026 kl. 23:19",
+  "last_modified": "2026-11-06T23:19:00",
+  "gallery_count": 9,
+  "image_uuids": [
+    "aa4f1f75-78e6-4882-ac1e-381fc8943f56",
+    "e3b5344d-0fc4-422d-8b08-757a7f2dc631",
+    "d164c39a-3855-4a65-90dc-3f27f939b42e",
+    "f2ad65ff-587e-4ff6-85cb-714c834743a0",
+    "aeef8cf6-79a5-48f4-b8b6-c4045693661a",
+    "bcc1dfd5-9625-4789-bb40-163fa3034408",
+    "b4ac8ef4-3f75-4de7-a13d-b169b049b931",
+    "45f8eedc-9c95-4d2b-a2f3-db210e9e5cf9",
+    "96009d10-1fe7-459d-8c8d-ec4e77b0156e"
+  ],
+  "image_count_from_html": 9,
+  "description_raw": "Japanske Pokémon XY-kort selges\n\n \n\n* Kingdra Holo XY5t 053) – 200 kr\n\n* Azumarill  Holo XY5t 049) – 200 kr\n\n* Sceptile Holo XY5g 006) – 200 kr\n\n* Articuno XY – 100 kr\n\n \n\nAlle er NM, veldig fine- se bilder. Samlet: 700 kr\n\n \n\nSøkeord / Tags:\n\n \n\nPokemon, Pokémon, Pokémonkort, Pokemonkort, Pokemon TCG, Japanese Pokemon, Japansk Pokemon, Japanese Cards, Vintage Pokemon, Vintage Japanese, Pokemon Collection, Pokemon Singles, Holo Rare, Reverse Holo, Rare Holo, Full Art, Secret Rare, Ancient Trait, XY Era, XY Series, XY5, XY5t, XY5g, Gaia Volcano, Tidal Storm, EX Era, EX Series, EX Ruby Sapphire, EX Sandstorm, EX Dragon, EX Team Magma Aqua, EX Hidden Legends, EX FireRed LeafGreen, EX Team Rocket Returns, EX Deoxys, EX Emerald, EX Unseen Forces, EX Delta Species, EX Legend Maker, EX Holon Phantoms, EX Crystal Guardians, EX Dragon Frontiers, EX Power Keepers, Diamond Pearl, DP Era, Platinum, HeartGold SoulSilver, HGSS, Prime, LV.X, Black White, BW Era, BW Series, Sun Moon, SM Era, GX, Tag Team GX, Mega EX, M EX, Pokemon EX, Pokemon V, VMAX, VSTAR, Alternate Art, Illustration Rare, Special Art Rare, SAR, AR, CHR, CSR, PSA 10, PSA 9, CGC 10, BGS 10, Grading, Graded Pokemon, Raw Pokemon, Near Mint, Mint, NM, Gem Mint, Low Population, Low Pop, First Edition, 1st Edition, WOTC, E Reader, Expedition, Aquapolis, Skyridge, Neo Genesis, Neo Discovery, Neo Revelation, Neo Destiny, Team Rocket, Gym Heroes, Gym Challenge, Base Set, Jungle, Fossil, Legendary Collection, Charizard, Pikachu, Raichu, Mew, Mewtwo, Mew ex, Rayquaza, Lugia, Ho-Oh, Gengar, Umbreon, Espeon, Eevee, Eeveelutions, Vaporeon, Jolteon, Flareon, Leafeon, Glaceon, Sylveon, Dragonite, Tyranitar, Blastoise, Venusaur, Charmeleon, Charmander, Squirtle, Bulbasaur, Latias, Latios, Deoxys, Giratina, Arceus, Dialga, Palkia, Darkrai, Cresselia, Celebi, Jirachi, Suicune, Entei, Raikou, Feraligatr, Typhlosion, Meganium, Sceptile, Swampert, Blaziken, Kingdra, Azumarill, Articuno, Zapdos, Moltres, Garchomp, Lucario, Metagross, Salamence, Gyarados, Milotic, Absol, Alakazam, Machamp, Nidoking, Ninetales, Snorlax, Dragonair, Pokémon Samling, Pokemon Investering, Samlekort, Trading Cards, TCG Norge, Pokemon Norge",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478457952",
+      "heading": "Pokémon- mid-vintage Holo  Japanske kort",
+      "price_label": "400 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478457952"
+    },
+    {
+      "item_id": "474045567",
+      "heading": "Pokémon hits - Japanese",
+      "price_label": null,
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474045567"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "477144968",
+      "heading": "Pokémon japanske GX Tag Team",
+      "price_label": "150 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477144968"
+    },
+    {
+      "item_id": "479832845",
+      "heading": "Diverse hits fra eldre generasjon Pokémon kort.",
+      "price_label": null,
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479832845"
+    },
+    {
+      "item_id": "480440868",
+      "heading": "Pokemon- GX Tag team kort",
+      "price_label": "855 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480440868"
+    },
+    {
+      "item_id": "478719406",
+      "heading": "Pokémon Japanske og Kinesiske Stilige Kort!",
+      "price_label": "299 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478719406"
+    },
+    {
+      "item_id": "474698649",
+      "heading": "Pokemon kort, forskjellig",
+      "price_label": "900 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474698649"
+    },
+    {
+      "item_id": "479847089",
+      "heading": "Pokémonkort selges - Ho-Oh LEGEND, Shaymin LV.X, Typhlosion m.fl.",
+      "price_label": "1 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479847089"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "aa4f1f75-78e6-4882-ac1e-381fc8943f56",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480421203/aa4f1f75-78e6-4882-ac1e-381fc8943f56"
+    },
+    {
+      "uuid": "e3b5344d-0fc4-422d-8b08-757a7f2dc631",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480421203/e3b5344d-0fc4-422d-8b08-757a7f2dc631"
+    },
+    {
+      "uuid": "d164c39a-3855-4a65-90dc-3f27f939b42e",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/d164c39a-3855-4a65-90dc-3f27f939b42e"
+    },
+    {
+      "uuid": "f2ad65ff-587e-4ff6-85cb-714c834743a0",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/f2ad65ff-587e-4ff6-85cb-714c834743a0"
+    },
+    {
+      "uuid": "aeef8cf6-79a5-48f4-b8b6-c4045693661a",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/aeef8cf6-79a5-48f4-b8b6-c4045693661a"
+    },
+    {
+      "uuid": "bcc1dfd5-9625-4789-bb40-163fa3034408",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/bcc1dfd5-9625-4789-bb40-163fa3034408"
+    },
+    {
+      "uuid": "b4ac8ef4-3f75-4de7-a13d-b169b049b931",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/b4ac8ef4-3f75-4de7-a13d-b169b049b931"
+    },
+    {
+      "uuid": "45f8eedc-9c95-4d2b-a2f3-db210e9e5cf9",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/45f8eedc-9c95-4d2b-a2f3-db210e9e5cf9"
+    },
+    {
+      "uuid": "96009d10-1fe7-459d-8c8d-ec4e77b0156e",
+      "item_ref": "480421203",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480421203/96009d10-1fe7-459d-8c8d-ec4e77b0156e"
+    }
+  ],
+  "raw_capture": "480421203_pok-mon-japanske-xy-kort/raw/480421203_2026-11-08-224619.html"
+}

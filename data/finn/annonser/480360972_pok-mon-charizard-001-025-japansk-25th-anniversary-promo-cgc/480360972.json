@@ -1,0 +1,205 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:14Z",
+  "contact_button": {
+    "adId": "480360972",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480360972",
+  "kode_candidates": {
+    "canonical": "480360972",
+    "object_info": "480360972",
+    "maplink": "480360972",
+    "contact_button": "480360972",
+    "hint": "480360972"
+  },
+  "ld_json": {
+    "sku": "480360972",
+    "name": "Pokémon Charizard 001/025 Japansk 25th Anniversary Promo – CGC 10",
+    "url": "https://www.finn.no/recommerce/forsale/item/480360972",
+    "item_condition": "NewCondition",
+    "price_raw": "17000",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 17000
+  },
+  "title_source": "dom",
+  "title": "Pokémon Charizard 001/025 Japansk 25th Anniversary Promo – CGC 10 Pristine",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 17000,
+  "price_nok_source": "ld+json",
+  "location_text": "4624 Kristiansand S",
+  "lat": 58.10347877863439,
+  "lon": 7.949700724332388,
+  "postal_code": "4624",
+  "last_modified_raw": "6.11.2026 kl. 00:28",
+  "last_modified": "2026-11-06T00:28:00",
+  "gallery_count": 25,
+  "image_uuids": [
+    "83946ae1-333c-4417-8554-3a2ae7c158ea"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Den japanske 25th Anniversary Promo-utgaven av Charizard (001/025), gradert til den aller høyeste karakteren: CGC 10 Pristine (gull-label). Et absolutt praktkort i feilfri tilstand for den kresne samleren.\n\n \n\nKORTDETALJER\n\n• Kort: Charizard\n\n• Nummer: 001/025 (japansk 25th Anniversary Promo)\n\n• Gradering: CGC 10 Pristine (gull-label)\n\n• Cert-nummer: 4101045079 (kan verifiseres hos CGC)\n\n \n\nKJØP OG LEVERING\n\n• Sendes med Fiks ferdig (trygg betaling og sporbar frakt) eller hentes i Kristiansand\n\n• Betaling: Fiks ferdig, Vipps, bankoverføring eller krypto\n\n \n\nBYTTE\n\nJeg tar gjerne delvis bytte mot raw hits (ugraderte chase-kort, SIR, alt arts o.l.). Byttekort regnes til 70–85 % av prisen på pricecharting.com, avhengig av tilstand. Send bilder av for- og bakside.\n\n \n\nSpørsmål eller bud? Send gjerne en melding.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480361002",
+      "heading": "Pokémon Charizard 4/102 Celebrations Classic Collection – CGC 10 Pristine",
+      "price_label": "7 200 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361002"
+    },
+    {
+      "item_id": "478131501",
+      "heading": "Charizard Holo-chi 25TH PSA-10",
+      "price_label": "5 000 kr",
+      "location": "Søgne",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478131501"
+    },
+    {
+      "item_id": "480207579",
+      "heading": "Original art av Mitsuhiro Arita, Feraligatr 2002 World Championships",
+      "price_label": "3 500 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480207579"
+    },
+    {
+      "item_id": "468717363",
+      "heading": "Charizard Expedition Holo PSA 10 SWIRL",
+      "price_label": "135 000 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468717363"
+    },
+    {
+      "item_id": "476691715",
+      "heading": "Eksklusiv Charizard-pakke(Celebrations Metal, CGC 10 & Classic Holo) kun samlet",
+      "price_label": "9 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476691715"
+    },
+    {
+      "item_id": "478893112",
+      "heading": "🔥 Charizard Reverse Holo evolutions psa 10",
+      "price_label": "28 000 kr",
+      "location": "Mandal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478893112"
+    },
+    {
+      "item_id": "454942539",
+      "heading": "Charizard base japanese cgc 8 pokemon kort",
+      "price_label": "12 999 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/454942539"
+    },
+    {
+      "item_id": "480361010",
+      "heading": "Pokémon Charizard Gullkort #4 Celebrations Ultra-Premium (metall) – PSA 9",
+      "price_label": "6 150 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361010"
+    },
+    {
+      "item_id": "480167057",
+      "heading": "Pokemon Graderte Kort - Charizard, Pikachu, Lugia",
+      "price_label": "26 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480167057"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [
+    "gallery_count (25) != image uuids (1)"
+  ],
+  "image_candidates": [
+    {
+      "uuid": "83946ae1-333c-4417-8554-3a2ae7c158ea",
+      "item_ref": "480360972",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480360972/83946ae1-333c-4417-8554-3a2ae7c158ea"
+    }
+  ],
+  "raw_capture": "480360972_pok-mon-charizard-001-025-japansk-25th-anniversary-promo-cgc/raw/480360972_2026-11-08-224714.html"
+}

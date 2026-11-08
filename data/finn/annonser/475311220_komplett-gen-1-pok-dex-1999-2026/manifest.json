@@ -1,0 +1,169 @@
+{
+  "finn_kode": "475311220",
+  "url": "https://www.finn.no/recommerce/forsale/item/475311220",
+  "slug": "475311220_komplett-gen-1-pok-dex-1999-2026",
+  "first_seen": "2026-11-08T22:46:57Z",
+  "last_seen": "2026-11-08T22:46:57Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Komplett Gen 1 Pokédex (1999-2026)",
+    "status": "Aktiv",
+    "price_nok": 2500,
+    "trade_type": null,
+    "location_text": "1473 Lørenskog",
+    "postal_code": "1473",
+    "last_modified": "2026-11-02T10:52:00",
+    "gallery_count": 38,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:57Z",
+      "raw": "475311220_komplett-gen-1-pok-dex-1999-2026/raw/475311220_2026-11-08-224657.html",
+      "parse_quality": "full",
+      "price_nok": 2500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "471562820",
+      "heading": "Komplett Kanto Hits Pokédex (2003-2026)",
+      "price_label": "3 800 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471562820"
+    },
+    {
+      "item_id": "480087798",
+      "heading": "Pokémon pokedex gen 1",
+      "price_label": "400 kr",
+      "location": "Rasta",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480087798"
+    },
+    {
+      "item_id": "480486228",
+      "heading": "Diverse graderte Pokemon kort",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486228"
+    },
+    {
+      "item_id": "478132906",
+      "heading": "✨️Komplett Pokedex 1. Gen | 151 kort i album",
+      "price_label": "1 600 kr",
+      "location": "Kløfta",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478132906"
+    },
+    {
+      "item_id": "470017268",
+      "heading": "Pokemon neo genesis 10 kort",
+      "price_label": "1 234 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470017268"
+    },
+    {
+      "item_id": "469184389",
+      "heading": "Stor Pokémon-samling 1999–2001 – Base, Jungle, Fossil, Team Rocket",
+      "price_label": "79 999 kr",
+      "location": "Skjetten",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469184389"
+    },
+    {
+      "item_id": "474584913",
+      "heading": "Charmander samling (2016-2026)",
+      "price_label": "200 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474584913"
+    },
+    {
+      "item_id": "469943709",
+      "heading": "Samling nyere Pokémon-kort",
+      "price_label": "12 345 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469943709"
+    },
+    {
+      "item_id": "480130535",
+      "heading": "Pokémon Vintage – 12 kort - Base Set, Jungle og Fossil",
+      "price_label": "2 400 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480130535"
+    }
+  ]
+}

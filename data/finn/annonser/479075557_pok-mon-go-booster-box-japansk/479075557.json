@@ -1,0 +1,251 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:07Z",
+  "contact_button": {
+    "adId": "479075557",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "479075557",
+  "kode_candidates": {
+    "canonical": "479075557",
+    "object_info": "479075557",
+    "maplink": "479075557",
+    "contact_button": "479075557",
+    "hint": "479075557"
+  },
+  "ld_json": {
+    "sku": "479075557",
+    "name": "Pokémon GO Booster Box Japansk",
+    "url": "https://www.finn.no/recommerce/forsale/item/479075557",
+    "item_condition": "NewCondition",
+    "price_raw": "2399",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 2399
+  },
+  "title_source": "dom",
+  "title": "Pokémon GO Booster Box Japansk",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 2399,
+  "price_nok_source": "ld+json",
+  "location_text": "Ludvig Skattums gate 15, 2819 Gjøvik",
+  "lat": 60.801633,
+  "lon": 10.679942,
+  "postal_code": null,
+  "last_modified_raw": "19.10.2026 kl. 10:18",
+  "last_modified": "2026-10-19T10:18:00",
+  "gallery_count": 9,
+  "image_uuids": [
+    "6a05a537-137b-407e-8250-ad1ca7c21d81",
+    "68f86df3-2d9f-4dd2-98c7-e194a61a0476",
+    "4ff5de03-5c80-4026-a92d-4ad632b39839",
+    "9a135215-4cdc-4ea5-929b-8e16c309551b",
+    "6ca9bc9f-b943-43ec-b966-61687bf4e258",
+    "43222ef9-8c6c-4ae9-81e6-69758395a6a8",
+    "8ffa32f7-eb60-4899-935f-5ee3819fcfb8",
+    "3bedaed2-4724-4ccf-9c81-599572042ba6",
+    "7d424a6d-cf0b-45e1-a914-4ce25bea4b96"
+  ],
+  "image_count_from_html": 9,
+  "description_raw": "Pokémon GO er et japansk Pokémon TCG-sett fra Sword & Shield-serien, utgitt i 2022. Settet er inspirert av mobilspillet Pokémon GO og inneholder blant annet Radiant Charizard, Radiant Blastoise og Radiant Venusaur.\n\nInnhold:\n\n20 boosterpakker\n\n6 kort per pakke\n\nTotalt 120 kort\n\nJapanske kort\n\nSettkode: S10b\n\nKortene er tilfeldig fordelt. Bestemte kort er ikke garantert.\n\nHvorfor kjøpe fra oss?\n\nCollectorscorner er en norsk nettbutikk drevet av et registrert AS, med fysisk lokasjon i Gjøvik. Vi tilbyr rask utsendelse og 14 dagers angrerett.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478648073",
+      "heading": "Pokémon 30th Celebration Booster Box Japansk",
+      "price_label": "2 599 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478648073"
+    },
+    {
+      "item_id": "479077088",
+      "heading": "Pokémon Shiny Star V Booster Box Japansk",
+      "price_label": "2 099 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479077088"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479076284",
+      "heading": "Pokémon Incandescent Arcana Booster Box Japansk",
+      "price_label": "1 149 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479076284"
+    },
+    {
+      "item_id": "472061967",
+      "heading": "Pokemon GO Japansk Boosterboks - S10b",
+      "price_label": "1 500 kr",
+      "location": "Lysaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472061967"
+    },
+    {
+      "item_id": "479030552",
+      "heading": "Pokémon 30th Celebration samleboks japansk",
+      "price_label": "2 300 kr",
+      "location": "Skarnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479030552"
+    },
+    {
+      "item_id": "477285771",
+      "heading": "Pokemon GO japansk box / boks",
+      "price_label": "2 300 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477285771"
+    },
+    {
+      "item_id": "479348274",
+      "heading": "Pokemon Japanske Booster pakker/ Tag Bolt Double Blaze",
+      "price_label": "1 500 kr",
+      "location": "Åmot",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479348274"
+    },
+    {
+      "item_id": "480164423",
+      "heading": "Pokemon 30th booster box Japansk",
+      "price_label": "2 100 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480164423"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "6a05a537-137b-407e-8250-ad1ca7c21d81",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/479075557/6a05a537-137b-407e-8250-ad1ca7c21d81"
+    },
+    {
+      "uuid": "68f86df3-2d9f-4dd2-98c7-e194a61a0476",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/479075557/68f86df3-2d9f-4dd2-98c7-e194a61a0476"
+    },
+    {
+      "uuid": "4ff5de03-5c80-4026-a92d-4ad632b39839",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/4ff5de03-5c80-4026-a92d-4ad632b39839"
+    },
+    {
+      "uuid": "9a135215-4cdc-4ea5-929b-8e16c309551b",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/9a135215-4cdc-4ea5-929b-8e16c309551b"
+    },
+    {
+      "uuid": "6ca9bc9f-b943-43ec-b966-61687bf4e258",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/6ca9bc9f-b943-43ec-b966-61687bf4e258"
+    },
+    {
+      "uuid": "43222ef9-8c6c-4ae9-81e6-69758395a6a8",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/43222ef9-8c6c-4ae9-81e6-69758395a6a8"
+    },
+    {
+      "uuid": "8ffa32f7-eb60-4899-935f-5ee3819fcfb8",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/8ffa32f7-eb60-4899-935f-5ee3819fcfb8"
+    },
+    {
+      "uuid": "3bedaed2-4724-4ccf-9c81-599572042ba6",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/3bedaed2-4724-4ccf-9c81-599572042ba6"
+    },
+    {
+      "uuid": "7d424a6d-cf0b-45e1-a914-4ce25bea4b96",
+      "item_ref": "479075557",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479075557/7d424a6d-cf0b-45e1-a914-4ce25bea4b96"
+    }
+  ],
+  "raw_capture": "479075557_pok-mon-go-booster-box-japansk/raw/479075557_2026-11-08-224507.html"
+}

@@ -677,3 +677,99 @@ I updated it with the new code. all formatting worked. now, continue pupulating 
 
 ---
 
+2026-11-08-22.52.24
+
+He sent me these 3 photos:
+
+data\photos-receives-2026-11-08-224643\signal-2026-11-08-22-42-01-555.jpg
+data\photos-receives-2026-11-08-224643\signal-2026-11-08-22-42-10-312.jpg
+data\photos-receives-2026-11-08-224643\signal-2026-11-08-22-42-06-105.jpg
+
+and he wants me to find the prices for them.
+
+is that doable?
+
+---
+
+100 Norwegian Krone equals
+1 674,68 Japanese Yen
+8 Nov, 22:01 UTC
+
+---
+
+we can search finn.no and see what the prices are for this?
+
+do that. run the code that searches on finn, one at a time, FIRST do all the searches, one of them at a time, then after that look at the search results and decide what would be sensable to scrape and make a md report of current status and further plan.
+
+the md report should include estimates and what you found just based of the searches
+
+but START BY DOING the first 5 SEARCHES and make a report JUST FROM THOSE 5 and ASK ME OF YOU SHOULD CONTINUE
+
+---
+
+Search the web and figure out what the prices are for these. One at a time. One search pr line. and then make a md report with all findings after. NOT USED! I MEAN WHAT THE STORES IN NORWAY or wherever we would get them are selling these boxes for.
+
+but START BY DOING the first 5 SEARCHES and make a report JUST FROM THOSE 5 and ASK ME OF YOU SHOULD CONTINUE
+
+---
+
+Continue with the rest of the searches. one search pr. line then provide me with the final report in md file
+
+---
+
+Continue with the rest of the searches. one search pr. line then provide me with the final report in md file
+
+then I will tell you to scrape the induvidual ones after that maybe depending on the search results
+
+you should include what you think also if its even any point to that in the report
+
+---
+
+make a big report file with all the findings all the numbers
+
+---
+
+First: you should update the google sheet with all the information you found so far, from all the searches.
+
+make a new sheet just for that.
+
+then: scrape the individual ads.
+
+you should scrape the 10 most relevant ads from each search.
+
+Then: make a report of what you found and what you think about it. Include all the numbers and all the information you can find. Make it as comprehensive as possible.
+
+Then, after that you should update the google sheet with all the information you found again which now will include the induvidual ads.
+
+the induvidual ads should have a new tab/sheet in the sheet, so this doesent confuse the other data.
+
+make sure all you do in the spreadsheet loks good, is properly colored and formatted and gives a good overview of the entire situation.
+
+YOU SHOULD NOT OBSESS OVER DOING EVERYTHING WITH CODE, JUST DO IT MANUALLY! ESPESSIALLY UPDATING THE SPREADSHHEED IT SHOULD RATHER BE HAND CURATED YOU CAN MAKE IT GOOD THIS IS JUST A ONE OFF JOB!
+
+START NOW, By creating a md file that is a PLAN for this entire job everything that you are abuot to do and you should update it with progress as you  go!
+
+---
+
+ACTUALLY: YOU NEED TO DO EVERYTHING ELSE THEN UPDATING THE GOOGLE SPREADSHEET FIRST AND I WILL TELL YOU WHEN YOU CAN UPDATE THE GOOGLE SPREADSHEET!
+
+---
+
+OKAY! NOW I HAVE FIXED THE GOOGLE SHEET AND IT IS READY FOR YOU TO UPDATE IT WITH ALL THE DATA YOU HAVE FOUND SO FAR!
+
+SO NOW FOLLOW THE ORIGINAL PLAN!
+
+---
+
+THERE IS AN MCP SERVER FOR INTERRACTING WITH THE SPREADSHEET!
+
+I ENABLED IT NOW!
+
+---
+
+USE THE MCP SERVER AND UPDATE THE SPREADSHEET NOW!
+
+NEW TABS!
+
+---
+

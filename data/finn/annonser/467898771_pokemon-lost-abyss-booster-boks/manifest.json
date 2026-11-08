@@ -1,0 +1,169 @@
+{
+  "finn_kode": "467898771",
+  "url": "https://www.finn.no/recommerce/forsale/item/467898771",
+  "slug": "467898771_pokemon-lost-abyss-booster-boks",
+  "first_seen": "2026-11-08T22:46:53Z",
+  "last_seen": "2026-11-08T22:46:53Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon Lost Abyss Booster Boks",
+    "status": "Aktiv",
+    "price_nok": 3999,
+    "trade_type": "Til salgs",
+    "location_text": "3949 Porsgrunn",
+    "postal_code": "3949",
+    "last_modified": "2026-09-06T21:58:00",
+    "gallery_count": 3,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:53Z",
+      "raw": "467898771_pokemon-lost-abyss-booster-boks/raw/467898771_2026-11-08-224653.html",
+      "parse_quality": "full",
+      "price_nok": 3999,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "470097965",
+      "heading": "Pokemon Lost Abyss japansk boosterboks",
+      "price_label": "4 290 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470097965"
+    },
+    {
+      "item_id": "445770307",
+      "heading": "Lost Origin Booster boks (Sealed booster boks pokemon)",
+      "price_label": "9 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/445770307"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "457363461",
+      "heading": "Lost Origin Booster Bundle",
+      "price_label": "2 200 kr",
+      "location": "Grimstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457363461"
+    },
+    {
+      "item_id": "360063900",
+      "heading": "Har du denne ? Lost Origin booster box",
+      "price_label": null,
+      "location": "Tertnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/360063900"
+    },
+    {
+      "item_id": "272910780",
+      "heading": "Lost Origin Booster bokser",
+      "price_label": "9 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/272910780"
+    },
+    {
+      "item_id": "469939634",
+      "heading": "Abyss Eye Booster Box (japansk)",
+      "price_label": "1 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469939634"
+    },
+    {
+      "item_id": "422975009",
+      "heading": "Pokémon Lost Origin Booster Box – Sealed",
+      "price_label": "8 500 kr",
+      "location": "Åsgårdstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/422975009"
+    },
+    {
+      "item_id": "479805637",
+      "heading": "Lost Thunder sealed booster boks",
+      "price_label": "35 000 kr",
+      "location": "Randaberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479805637"
+    }
+  ]
+}

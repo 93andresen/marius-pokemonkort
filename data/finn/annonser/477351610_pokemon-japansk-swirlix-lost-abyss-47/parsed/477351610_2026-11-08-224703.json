@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:03Z",
+  "contact_button": {
+    "adId": "477351610",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "477351610",
+  "kode_candidates": {
+    "canonical": "477351610",
+    "object_info": "477351610",
+    "maplink": "477351610",
+    "contact_button": "477351610",
+    "hint": "477351610"
+  },
+  "ld_json": {
+    "sku": "477351610",
+    "name": "Pokemon Japansk Swirlix Lost Abyss (47)",
+    "url": "https://www.finn.no/recommerce/forsale/item/477351610",
+    "item_condition": "UsedCondition",
+    "price_raw": "15",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 15
+  },
+  "title_source": "dom",
+  "title": "Pokemon Japansk Swirlix Lost Abyss (47)",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 15,
+  "price_nok_source": "ld+json",
+  "location_text": "4747 Valle",
+  "lat": 59.212197813853884,
+  "lon": 7.5349927958391705,
+  "postal_code": "4747",
+  "last_modified_raw": "26.9.2026 kl. 15:27",
+  "last_modified": "2026-09-26T15:27:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "f5f6141d-53e4-4864-989d-2353bf77df01",
+    "ede99589-8747-41ea-aed1-2c2c1e2f84f9"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Japansk Swirlix fra Lost Abyss",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "476055027",
+      "heading": "Pokemon Japansk Swablu Paradise Dragona (48)",
+      "price_label": "15 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476055027"
+    },
+    {
+      "item_id": "478474638",
+      "heading": "Pokemon Japansk Azurill Storm Emeralda (86) Art Rare",
+      "price_label": "45 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478474638"
+    },
+    {
+      "item_id": "475860051",
+      "heading": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "price_label": "98 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475860051"
+    },
+    {
+      "item_id": "470756241",
+      "heading": "Pokemon Silcoon Lost Origin (007)",
+      "price_label": "3 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470756241"
+    },
+    {
+      "item_id": "475507640",
+      "heading": "Pokemon Japansk Kirlia MEGA Dream ex (70)",
+      "price_label": "4 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475507640"
+    },
+    {
+      "item_id": "470756683",
+      "heading": "Pokemon Lickitung Lost Origin (138)",
+      "price_label": "3 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470756683"
+    },
+    {
+      "item_id": "478146315",
+      "heading": "Pokemon Japansk Jigglypuff Inferno X (64)",
+      "price_label": "4 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478146315"
+    },
+    {
+      "item_id": "470756265",
+      "heading": "Pokemon Jynx Lost Origin (68)",
+      "price_label": "2 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470756265"
+    },
+    {
+      "item_id": "470756427",
+      "heading": "Pokemon Swanna Lost Origin (47)",
+      "price_label": "2 kr",
+      "location": "Valle",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470756427"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "f5f6141d-53e4-4864-989d-2353bf77df01",
+      "item_ref": "477351610",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/477351610/f5f6141d-53e4-4864-989d-2353bf77df01"
+    },
+    {
+      "uuid": "ede99589-8747-41ea-aed1-2c2c1e2f84f9",
+      "item_ref": "477351610",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/477351610/ede99589-8747-41ea-aed1-2c2c1e2f84f9"
+    }
+  ],
+  "raw_capture": "477351610_pokemon-japansk-swirlix-lost-abyss-47/raw/477351610_2026-11-08-224703.html"
+}

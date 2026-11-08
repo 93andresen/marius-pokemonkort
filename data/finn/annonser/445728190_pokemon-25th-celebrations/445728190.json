@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:21Z",
+  "contact_button": {
+    "adId": "445728190",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "445728190",
+  "kode_candidates": {
+    "canonical": "445728190",
+    "object_info": "445728190",
+    "maplink": "445728190",
+    "contact_button": "445728190",
+    "hint": "445728190"
+  },
+  "ld_json": {
+    "sku": "445728190",
+    "name": "Pokemon 25th Celebrations",
+    "url": "https://www.finn.no/recommerce/forsale/item/445728190",
+    "item_condition": "NewCondition",
+    "price_raw": "200",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 200
+  },
+  "title_source": "dom",
+  "title": "Pokemon 25th Celebrations",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 200,
+  "price_nok_source": "ld+json",
+  "location_text": "4331 Ålgård",
+  "lat": 58.76419982338628,
+  "lon": 5.852521110732346,
+  "postal_code": "4331",
+  "last_modified_raw": "23.8.2026 kl. 18:35",
+  "last_modified": "2026-08-23T18:35:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "1afeb039-bcc4-4e60-8538-da71a3b62f9a"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Selger unna dubletter fra det populære 25-årsjubileumssettet \"Celebrations\". \n\n \n\nDette er en perfekt mulighet for deg som ønsker å fullføre samlingen eller starte på et Master Set!\n\n \n\nFERDIGE STARTPAKKER (16 KORT):\n\nHar 1 igjen av ferdige bunker med de 16 \"vanlige\" kortene i settet (Ho-Oh til og med Professor's Research).\n\nHer får du alle de unike holo-kortene fra hovedsettet (minus de mest sjeldne/full art).\n\n \n\nPris per pakke: 200,- kr (Mye verdi for pengene og en lynstart på samlingen!)\n\n \n\nPrisliste resterende kort:\n\n- Ho-oh 01/25 (Bare i startpakke)\n\n- Reshiram 02/25 10kr (3stk)\n\n- Kyogre 03/25 10kr (Bare i startpakke)\n\n- Palkia 04/25 10kr (2stk)\n\n- Zekrom 10/25 10kr (10stk)\n\n- Mew 11/25 (Bare i startpakke)\n\n- Xerneas 12/25 10kr (6stk)\n\n- Cosmog 13/25 10kr (12stk)\n\n- Cosmoem 14/25 10kr (3stk)\n\n- Lunala 15/25 10kr (1stk)\n\n- Groudon 17/25 10kr (Bare i startpakke)\n\n- Yveltal 19/25 10kr (8stk)\n\n- Dialga 20/25 10kr (8stk)\n\n- Solgaleo 21/25 10kr (2stk)\n\n- Lugia 22/25 10kr (Bare i startpakke)\n\n- Professor's Research 23/25 10kr (1stk)\n\n \n\nTa kontakt ved spørsmål! 🤗\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nTags: Pokemon, Pokémon, Pokemonkort, Celebrations, 25th Anniversary, 25 års jubileum, TCG, Samlekort, Nintendo, Full Art, Holo, Master Set, Startpakke, Samling, Hobby, Gave, Barn, Trading Cards, Kort, Samleobjekt, Byttekort, Pocket Monsters, Samleobjetker",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "470711475",
+      "heading": "Pokemon 25th celebration bulk",
+      "price_label": "450 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470711475"
+    },
+    {
+      "item_id": "478560378",
+      "heading": "Pokemon TCG 25th celebration",
+      "price_label": "75 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478560378"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "478561205",
+      "heading": "Pokemon 30 th celebrations",
+      "price_label": "600 kr",
+      "location": "Hafrsfjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478561205"
+    },
+    {
+      "item_id": "479885287",
+      "heading": "Pokemon 30th Celebration Bulk",
+      "price_label": "700 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479885287"
+    },
+    {
+      "item_id": "435756682",
+      "heading": "Pokemon 30th celebration hits",
+      "price_label": "1 000 kr",
+      "location": "Åkrehamn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/435756682"
+    },
+    {
+      "item_id": "478123828",
+      "heading": "Pokémon 30th celebration",
+      "price_label": "1 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478123828"
+    },
+    {
+      "item_id": "479113005",
+      "heading": "✨✨✨ Pokémon 30th Celebration – Diverse hits ✨✨✨",
+      "price_label": "103 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479113005"
+    },
+    {
+      "item_id": "479405733",
+      "heading": "Pokemon 30th celebration",
+      "price_label": "150 kr",
+      "location": "Sandve",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479405733"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "1afeb039-bcc4-4e60-8538-da71a3b62f9a",
+      "item_ref": "445728190",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/445728190/1afeb039-bcc4-4e60-8538-da71a3b62f9a"
+    }
+  ],
+  "raw_capture": "445728190_pokemon-25th-celebrations/raw/445728190_2026-11-08-224721.html"
+}

@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480254788",
+  "url": "https://www.finn.no/recommerce/forsale/item/480254788",
+  "slug": "480254788_pok-mon-japansk-vmax-climax-booster-box-sealed-boks-high-cla",
+  "first_seen": "2026-11-08T22:45:14Z",
+  "last_seen": "2026-11-08T22:45:14Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Japansk VMAX Climax Booster box sealed boks high class 2021",
+    "status": "Aktiv",
+    "price_nok": 4930,
+    "trade_type": null,
+    "location_text": "0569 Oslo",
+    "postal_code": "0569",
+    "last_modified": "2026-11-04T14:01:00",
+    "gallery_count": 4,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:14Z",
+      "raw": "480254788_pok-mon-japansk-vmax-climax-booster-box-sealed-boks-high-cla/raw/480254788_2026-11-08-224514.html",
+      "parse_quality": "full",
+      "price_nok": 4930,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "470611686",
+      "heading": "Pokemon VMAX Climax boosterboks japansk",
+      "price_label": "3 000 kr",
+      "location": "Stokke",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470611686"
+    },
+    {
+      "item_id": "470432654",
+      "heading": "Pokemon Japansk Legendary Heartbeat s3a Booster Box - forseglet",
+      "price_label": "3 200 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470432654"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "473720042",
+      "heading": "Pokémon Booster Boxes – Japansk / Sealed",
+      "price_label": "10 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473720042"
+    },
+    {
+      "item_id": "361382839",
+      "heading": "Pokemon TCG 25th Celebrations Japansk Booster Box s8a Sealed",
+      "price_label": "5 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/361382839"
+    },
+    {
+      "item_id": "463817842",
+      "heading": "Super Electric Breaker Japansk Booster Display Box",
+      "price_label": "1 750 kr",
+      "location": "Stord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463817842"
+    },
+    {
+      "item_id": "479137603",
+      "heading": "Shiny treasure ex booster box",
+      "price_label": "1 890 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479137603"
+    },
+    {
+      "item_id": "469262187",
+      "heading": "Pokemon TCG High class Terastal festival Boosterbox, japansk,  selges",
+      "price_label": "1 900 kr",
+      "location": "Silsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469262187"
+    },
+    {
+      "item_id": "245465232",
+      "heading": "Pokemon Sealed Booster Box GX Ultra Shiny SM8b Japansk",
+      "price_label": "10 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/245465232"
+    }
+  ]
+}

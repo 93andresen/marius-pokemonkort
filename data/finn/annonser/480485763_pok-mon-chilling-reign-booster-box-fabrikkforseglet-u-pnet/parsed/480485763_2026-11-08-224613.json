@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:13Z",
+  "contact_button": {
+    "adId": "480485763",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480485763",
+  "kode_candidates": {
+    "canonical": "480485763",
+    "object_info": "480485763",
+    "maplink": "480485763",
+    "contact_button": "480485763",
+    "hint": "480485763"
+  },
+  "ld_json": {
+    "sku": "480485763",
+    "name": "Pokémon Chilling Reign Booster Box – Fabrikkforseglet / Uåpnet",
+    "url": "https://www.finn.no/recommerce/forsale/item/480485763",
+    "item_condition": "NewCondition",
+    "price_raw": "5499",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 5499
+  },
+  "title_source": "dom",
+  "title": "Pokémon Chilling Reign Booster Box – Fabrikkforseglet / Uåpnet",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "5 499 kr",
+  "price_nok": 5499,
+  "price_nok_source": "dom",
+  "location_text": "4343 Orre",
+  "lat": 58.717399340510916,
+  "lon": 5.5699146302256635,
+  "postal_code": "4343",
+  "last_modified_raw": "7.11.2026 kl. 20:36",
+  "last_modified": "2026-11-07T20:36:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "04da53c4-7a4d-4457-bc57-b2c4dc7729fe",
+    "b9a92447-c465-4a7e-8946-1f87f05bffa1",
+    "ebd38c45-a484-4d30-98e9-ffaf0a837dd3",
+    "e569f428-3121-4fd9-9389-70464af43e9f"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger en uåpnet Pokémon Sword & Shield: Chilling Reign Booster Box med 36 boosterpakker.\n\n \n\nBoksen er fortsatt fabrikkforseglet i original plast og har aldri vært åpnet.\n\n \n\nForetrekker personlig overlevering, men kan også sendes på kjøpers regning og risiko. Ved sending kreves forhåndsbetaling av både varen og frakt.\n\n \n\nNB: Ingen trading / innbytte.\n\n \n\nTa gjerne kontakt ved spørsmål eller interesse!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480484237",
+      "heading": "Pokémon Silver Tempest Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "6 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480484237"
+    },
+    {
+      "item_id": "480106232",
+      "heading": "Strøken og forseglet Pokémon Chilling Reign Booster Box (Sword & Shield)",
+      "price_label": "7 499 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480106232"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480222455",
+      "heading": "Pokémon Chilling Reign booster box",
+      "price_label": "5 500 kr",
+      "location": "Ågotnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480222455"
+    },
+    {
+      "item_id": "476991974",
+      "heading": "Chilling Reign boosterpakker 50 stk",
+      "price_label": "5 500 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476991974"
+    },
+    {
+      "item_id": "480485007",
+      "heading": "Pokémon Fusion Strike Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "10 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480485007"
+    },
+    {
+      "item_id": "479613624",
+      "heading": "Pokémon Silver Tempest Booster Box – Forseglet m/ akrylboks (Sword & Shield)",
+      "price_label": "6 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479613624"
+    },
+    {
+      "item_id": "480424043",
+      "heading": "POKEMON CHILLING REIGN BOOSTER BOX",
+      "price_label": "5 600 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480424043"
+    },
+    {
+      "item_id": "441396968",
+      "heading": "Pokémon Astral Radiance Booster Box – Sealed",
+      "price_label": "4 500 kr",
+      "location": "Åsgårdstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/441396968"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "04da53c4-7a4d-4457-bc57-b2c4dc7729fe",
+      "item_ref": "480485763",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480485763/04da53c4-7a4d-4457-bc57-b2c4dc7729fe"
+    },
+    {
+      "uuid": "b9a92447-c465-4a7e-8946-1f87f05bffa1",
+      "item_ref": "480485763",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480485763/b9a92447-c465-4a7e-8946-1f87f05bffa1"
+    },
+    {
+      "uuid": "ebd38c45-a484-4d30-98e9-ffaf0a837dd3",
+      "item_ref": "480485763",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480485763/ebd38c45-a484-4d30-98e9-ffaf0a837dd3"
+    },
+    {
+      "uuid": "e569f428-3121-4fd9-9389-70464af43e9f",
+      "item_ref": "480485763",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480485763/e569f428-3121-4fd9-9389-70464af43e9f"
+    }
+  ],
+  "raw_capture": "480485763_pok-mon-chilling-reign-booster-box-fabrikkforseglet-u-pnet/raw/480485763_2026-11-08-224613.html"
+}

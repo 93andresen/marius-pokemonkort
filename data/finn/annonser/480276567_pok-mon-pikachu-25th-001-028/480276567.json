@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:19Z",
+  "contact_button": {
+    "adId": "480276567",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480276567",
+  "kode_candidates": {
+    "canonical": "480276567",
+    "object_info": "480276567",
+    "maplink": "480276567",
+    "contact_button": "480276567",
+    "hint": "480276567"
+  },
+  "ld_json": {
+    "sku": "480276567",
+    "name": "Pokémon Pikachu 25th 001/028",
+    "url": "https://www.finn.no/recommerce/forsale/item/480276567",
+    "item_condition": "NewCondition",
+    "price_raw": "600",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 600
+  },
+  "title_source": "dom",
+  "title": "Pokémon Pikachu 25th 001/028",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "600 kr",
+  "price_nok": 600,
+  "price_nok_source": "dom",
+  "location_text": "1473 Lørenskog",
+  "lat": 59.92379078222394,
+  "lon": 10.954192277701672,
+  "postal_code": "1473",
+  "last_modified_raw": "4.11.2026 kl. 18:44",
+  "last_modified": "2026-11-04T18:44:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "abb3738e-539b-4a51-a5ed-b597a9f520bb",
+    "647b9087-d6ee-4cc1-85c8-02301fc73827"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pokemon pikachu kort\n\nPikachu 25th Anniversary japansk 001",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477145437",
+      "heading": "Pokémon Pikachu 25th Anniversary kort CCG 10",
+      "price_label": "890 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477145437"
+    },
+    {
+      "item_id": "468491598",
+      "heading": "Pokémon Pikachu 25th Anniversary Collection japansk kort CGC 10 Pristine",
+      "price_label": "1 500 kr",
+      "location": "Tønsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468491598"
+    },
+    {
+      "item_id": "480066386",
+      "heading": "2015 Pokemon XY Full Art/ SHAYMIN EX i fra Roaring Skies PSA 9",
+      "price_label": "4 500 kr",
+      "location": "Rykkinn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480066386"
+    },
+    {
+      "item_id": "473295791",
+      "heading": "Pikachu #20/M-P Pokemon Japanese Promo PSA 9 GRATIS FRAKT",
+      "price_label": "644 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473295791"
+    },
+    {
+      "item_id": "474959365",
+      "heading": "Pikachu #3 Pokemon Japanese 25th Anniversary Golden Box",
+      "price_label": "1 100 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474959365"
+    },
+    {
+      "item_id": "477872395",
+      "heading": "Pokémon - Pikachu #173 | Japanese 151 - Gradert",
+      "price_label": "650 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477872395"
+    },
+    {
+      "item_id": "474958328",
+      "heading": "Pikachu VMAX #6 Pokemon Japanese 25th Anniversary Golden Box",
+      "price_label": "1 200 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474958328"
+    },
+    {
+      "item_id": "477343098",
+      "heading": "Pokemon Pikachu 124/s-p Holo PSA 9 japansk promo 2020",
+      "price_label": "1 500 kr",
+      "location": "Gjettum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477343098"
+    },
+    {
+      "item_id": "477081313",
+      "heading": "Surfing Pikachu psa 10",
+      "price_label": "950 kr",
+      "location": "Borgen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477081313"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "abb3738e-539b-4a51-a5ed-b597a9f520bb",
+      "item_ref": "480276567",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480276567/abb3738e-539b-4a51-a5ed-b597a9f520bb"
+    },
+    {
+      "uuid": "647b9087-d6ee-4cc1-85c8-02301fc73827",
+      "item_ref": "480276567",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480276567/647b9087-d6ee-4cc1-85c8-02301fc73827"
+    }
+  ],
+  "raw_capture": "480276567_pok-mon-pikachu-25th-001-028/raw/480276567_2026-11-08-224719.html"
+}

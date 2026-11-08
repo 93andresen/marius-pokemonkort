@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:44:59Z",
+  "contact_button": {
+    "adId": "480587161",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480587161",
+  "kode_candidates": {
+    "canonical": "480587161",
+    "object_info": "480587161",
+    "maplink": "480587161",
+    "contact_button": "480587161",
+    "hint": "480587161"
+  },
+  "ld_json": {
+    "sku": "480587161",
+    "name": "Japansk Mega Dream ex - Booster Box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480587161",
+    "item_condition": "NewCondition",
+    "price_raw": "1299",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1299
+  },
+  "title_source": "dom",
+  "title": "Japansk Mega Dream ex - Booster Box",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 1299,
+  "price_nok_source": "ld+json",
+  "location_text": "4100 Jørpeland",
+  "lat": 59.02250428653369,
+  "lon": 6.0408088236914965,
+  "postal_code": null,
+  "last_modified_raw": "8.11.2026 kl. 23:10",
+  "last_modified": "2026-11-08T23:10:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "91c131ec-ec76-48ec-a6c2-95e96e858e3c"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Pokémon TCG Mega Dream ex Booster Box i japansk utgave. High Class-sett fra Mega Evolution-serien.\n\nInnhold:\n• 1 fabrikkforseglet Booster Box\n• 10 boosterpakker\n• 10 japanske Pokémon-kort per pakke\n\nPris: 1 299 kr per boks.\n\nProduktet sendes uåpnet. Kortinnholdet i boosterpakkene er tilfeldig; ingen bestemte kort eller treff garanteres. Bildene er produktbilder.\n\nSelges av Cardero, norsk nettbutikk for Pokémon-kort, TCG og samlertilbehør. Se produktlenken for bestilling og tilgjengelige fraktalternativer. Du kan også sende oss en melding på FINN.\n\nTags:\nPokemon, Pokémon, Pokemonkort, Pokémon TCG, Mega Dream ex, Booster Box, boosterboks, booster display, japanske Pokemonkort, japansk Pokemon, Japanese Pokemon, samlekort, sealed Pokemon, forseglet",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "448584157",
+      "heading": "Mega Dream EX Booster Box",
+      "price_label": "1 189 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/448584157"
+    },
+    {
+      "item_id": "477848838",
+      "heading": "Pokémon MEGA Dream ex Booster Box – japansk High Class Pack",
+      "price_label": "1 489 kr",
+      "location": "Finsland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477848838"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480587145",
+      "heading": "Japansk Mega Symphonia - Booster Box",
+      "price_label": "1 299 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587145"
+    },
+    {
+      "item_id": "480378085",
+      "heading": "Pokémon Mega Dream ex – Japansk Booster Box",
+      "price_label": "1 099 kr",
+      "location": "Hokksund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480378085"
+    },
+    {
+      "item_id": "476826074",
+      "heading": "Pokémon TCG: MEGA Dream ex – Japanese High Class Booster Box 🇯🇵",
+      "price_label": "1 600 kr",
+      "location": "Gullaug",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476826074"
+    },
+    {
+      "item_id": "471270948",
+      "heading": "Pokémon Mega Dream EX Japansk Sealed Boosterboks ( 1 av 5)",
+      "price_label": "1 299 kr",
+      "location": "Mosby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471270948"
+    },
+    {
+      "item_id": "479488392",
+      "heading": "Japansk Pokemon - Mega Dream Ex Booster Boks - M2A",
+      "price_label": "1 100 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488392"
+    },
+    {
+      "item_id": "478536295",
+      "heading": "Pokemon Mega Dream EX Booster Box JP",
+      "price_label": "1 270 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478536295"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "91c131ec-ec76-48ec-a6c2-95e96e858e3c",
+      "item_ref": "480587161",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480587161/91c131ec-ec76-48ec-a6c2-95e96e858e3c"
+    }
+  ],
+  "raw_capture": "480587161_japansk-mega-dream-ex-booster-box/raw/480587161_2026-11-08-224459.html"
+}

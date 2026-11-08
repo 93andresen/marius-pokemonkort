@@ -1,0 +1,169 @@
+{
+  "finn_kode": "472537578",
+  "url": "https://www.finn.no/recommerce/forsale/item/472537578",
+  "slug": "472537578_sealed-chaos-rising-booster-box",
+  "first_seen": "2026-11-08T22:47:28Z",
+  "last_seen": "2026-11-08T22:47:28Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Sealed Chaos rising booster box",
+    "status": "Aktiv",
+    "price_nok": 3199,
+    "trade_type": null,
+    "location_text": "3085 Holmestrand",
+    "postal_code": "3085",
+    "last_modified": "2026-09-29T20:59:00",
+    "gallery_count": 4,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:28Z",
+      "raw": "472537578_sealed-chaos-rising-booster-box/raw/472537578_2026-11-08-224728.html",
+      "parse_quality": "full",
+      "price_nok": 3199,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "465632752",
+      "heading": "Pokemon Chaos Rising Booster Box",
+      "price_label": "3 499 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465632752"
+    },
+    {
+      "item_id": "480406095",
+      "heading": "Chaos Rising Booster Box",
+      "price_label": "2 699 kr",
+      "location": "Stjørdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480406095"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479129882",
+      "heading": "Pokemon Chaos Rising Booster Box",
+      "price_label": "2 500 kr",
+      "location": "Langesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479129882"
+    },
+    {
+      "item_id": "468682623",
+      "heading": "🔥 Mega Evolution Chaos Rising  sealed sleeved booster packs🔥",
+      "price_label": "2 800 kr",
+      "location": "Greåker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468682623"
+    },
+    {
+      "item_id": "479211265",
+      "heading": "Pokemon Chaos Rising booster boks",
+      "price_label": "2 890 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479211265"
+    },
+    {
+      "item_id": "467123832",
+      "heading": "Pokemon TCG Chaos Rising Booster Boks",
+      "price_label": "2 999 kr",
+      "location": "Nesbru",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467123832"
+    },
+    {
+      "item_id": "464448881",
+      "heading": "Pokémon TCG Chaos Rising booster box SEALED BOX",
+      "price_label": "2 900 kr",
+      "location": "Nesoddtangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464448881"
+    },
+    {
+      "item_id": "465018630",
+      "heading": "Pokémon Chaos Rising Booster Box",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465018630"
+    }
+  ]
+}

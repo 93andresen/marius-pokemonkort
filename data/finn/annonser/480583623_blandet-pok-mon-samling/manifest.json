@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480583623",
+  "url": "https://www.finn.no/recommerce/forsale/item/480583623",
+  "slug": "480583623_blandet-pok-mon-samling",
+  "first_seen": "2026-11-08T22:45:31Z",
+  "last_seen": "2026-11-08T22:45:31Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Blandet Pokémon-samling",
+    "status": "Aktiv",
+    "price_nok": 13000,
+    "trade_type": null,
+    "location_text": "4708 Vennesla",
+    "postal_code": "4708",
+    "last_modified": "2026-11-08T22:56:00",
+    "gallery_count": 32,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:31Z",
+      "raw": "480583623_blandet-pok-mon-samling/raw/480583623_2026-11-08-224531.html",
+      "parse_quality": "full",
+      "price_nok": 13000,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "473328068",
+      "heading": "Pokemon samling",
+      "price_label": "10 000 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473328068"
+    },
+    {
+      "item_id": "476019509",
+      "heading": "Stor Pokémon-kortsamling 2004–2016 – Lugia, Arceus, Gengar, Snorlax, holos m.m.",
+      "price_label": "19 890 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476019509"
+    },
+    {
+      "item_id": "480486228",
+      "heading": "Diverse graderte Pokemon kort",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486228"
+    },
+    {
+      "item_id": "477648450",
+      "heading": "Pokemon samling",
+      "price_label": "17 000 kr",
+      "location": "Førde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477648450"
+    },
+    {
+      "item_id": "478944332",
+      "heading": "Pokémon-samling | Vintage, EX/GX, 30th +++",
+      "price_label": "15 000 kr",
+      "location": "Mo i Rana",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478944332"
+    },
+    {
+      "item_id": "478700331",
+      "heading": "Pokemon samlekort – blandet lot med holo og spesialkort",
+      "price_label": "6 000 kr",
+      "location": "Saltrød",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478700331"
+    },
+    {
+      "item_id": "478910406",
+      "heading": "Pokemon samling med EX / GX / V kort i perm",
+      "price_label": "15 000 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478910406"
+    },
+    {
+      "item_id": "480367937",
+      "heading": "Pokémon samling selges billig",
+      "price_label": "8 800 kr",
+      "location": "Stavern",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480367937"
+    },
+    {
+      "item_id": "470821848",
+      "heading": "Pokemon samlekort blandet lot",
+      "price_label": "10 000 kr",
+      "location": "Ski",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470821848"
+    }
+  ]
+}

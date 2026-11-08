@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:34Z",
+  "contact_button": {
+    "adId": "480583418",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480583418",
+  "kode_candidates": {
+    "canonical": "480583418",
+    "object_info": "480583418",
+    "maplink": "480583418",
+    "contact_button": "480583418",
+    "hint": "480583418"
+  },
+  "ld_json": {
+    "sku": "480583418",
+    "name": "Blastoise VMAX - SWSH103 - Sword & Shield Promo",
+    "url": "https://www.finn.no/recommerce/forsale/item/480583418",
+    "item_condition": "NewCondition",
+    "price_raw": "310",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 310
+  },
+  "title_source": "dom",
+  "title": "Blastoise VMAX - SWSH103 - Sword & Shield Promo",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 310,
+  "price_nok_source": "ld+json",
+  "location_text": "4331 Ålgård",
+  "lat": 58.76419982338628,
+  "lon": 5.852521110732346,
+  "postal_code": "4331",
+  "last_modified_raw": "8.11.2026 kl. 21:59",
+  "last_modified": "2026-11-08T21:59:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "84a43a84-b0db-4494-9c0f-a58c8833ed26",
+    "72642a9b-6930-43d6-9836-9dfe94208061"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Pokémon-kort selges.\n\n \n\nSe bildene for tilstand og detaljer.\n\n \n\nTa gjerne en kikk på de andre Pokémon-annonsene mine om du ønsker samlet frakt/kjøp.\n\n \n\nPakkes og sendes trygt, eller kan hentes etter avtale.\n\n \n\nTa kontakt ved spørsmål! 🤗\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nTags: pokemon, pokemonkort, kort, samling, samlekort, samler, tcg, nintendo, gamefreak, anime, gaming, lek, leker, hobby, kortspill, vintage, retro, promo, secret rare, ultra rare, alt art, full art, holo, reverse, illustration rare, japansk, engelsk",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477446196",
+      "heading": "Pokémon Blastoise VMAX kort",
+      "price_label": "260 kr",
+      "location": "Hafrsfjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477446196"
+    },
+    {
+      "item_id": "479227875",
+      "heading": "Blastoise LV.60 - 2/127 - Platinum",
+      "price_label": "500 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479227875"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "479674163",
+      "heading": "Blastoise VMAX SWSH103 – Black Star Promo – 2021",
+      "price_label": "425 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479674163"
+    },
+    {
+      "item_id": "479227755",
+      "heading": "Blastoise - 16/101 - Plasma Blast",
+      "price_label": "250 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479227755"
+    },
+    {
+      "item_id": "479226840",
+      "heading": "Blastoise LV.52 - 2/132 - Secret Wonders",
+      "price_label": "750 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479226840"
+    },
+    {
+      "item_id": "479891046",
+      "heading": "M Blastoise EX",
+      "price_label": "350 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479891046"
+    },
+    {
+      "item_id": "479641361",
+      "heading": "Pokémon kort Mega Blastoise EX",
+      "price_label": "500 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479641361"
+    },
+    {
+      "item_id": "479464185",
+      "heading": "Pokémon Blastoise EX holo kort",
+      "price_label": "800 kr",
+      "location": "Sauda",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479464185"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "84a43a84-b0db-4494-9c0f-a58c8833ed26",
+      "item_ref": "480583418",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480583418/84a43a84-b0db-4494-9c0f-a58c8833ed26"
+    },
+    {
+      "uuid": "72642a9b-6930-43d6-9836-9dfe94208061",
+      "item_ref": "480583418",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480583418/72642a9b-6930-43d6-9836-9dfe94208061"
+    }
+  ],
+  "raw_capture": "480583418_blastoise-vmax-swsh103-sword-shield-promo/raw/480583418_2026-11-08-224534.html"
+}

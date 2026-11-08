@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480092769",
+  "url": "https://www.finn.no/recommerce/forsale/item/480092769",
+  "slug": "480092769_pok-mon-scarlet-violet-151-japansk-booster-box",
+  "first_seen": "2026-11-08T22:45:19Z",
+  "last_seen": "2026-11-08T22:45:19Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Scarlet & Violet 151 Japansk Booster Box",
+    "status": "Aktiv",
+    "price_nok": 3200,
+    "trade_type": null,
+    "location_text": "1364 Fornebu",
+    "postal_code": "1364",
+    "last_modified": "2026-11-08T09:44:00",
+    "gallery_count": 6,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:19Z",
+      "raw": "480092769_pok-mon-scarlet-violet-151-japansk-booster-box/raw/480092769_2026-11-08-224519.html",
+      "parse_quality": "full",
+      "price_nok": 3200,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479137838",
+      "heading": "Pokemon 151 Japansk Booster Box",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479137838"
+    },
+    {
+      "item_id": "475958670",
+      "heading": "Pokémon 151 scarlet and violet japansk booster",
+      "price_label": "3 500 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475958670"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "474035443",
+      "heading": "151 Japansk booster box",
+      "price_label": "4 000 kr",
+      "location": "Sarpsborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474035443"
+    },
+    {
+      "item_id": "467504529",
+      "heading": "Pokémon Scarlet & Violet 151 Booster Bundle",
+      "price_label": "2 550 kr",
+      "location": "Haslum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467504529"
+    },
+    {
+      "item_id": "479354763",
+      "heading": "🇯🇵 ❤️ Pokémon 151 – Japansk Booster Box ❤️ 🇯🇵",
+      "price_label": "3 500 kr",
+      "location": "Knarrlagsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479354763"
+    },
+    {
+      "item_id": "478482135",
+      "heading": "Pokémon Scarlet & Violet 151 Booster Bundle",
+      "price_label": "1 899 kr",
+      "location": "Nesøya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478482135"
+    },
+    {
+      "item_id": "479770313",
+      "heading": "Pokémon Scarlet & Violet 151 Booster Bundle",
+      "price_label": "2 000 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479770313"
+    },
+    {
+      "item_id": "464384778",
+      "heading": "Pokemon Scarlet & Violet 151 booster bundle",
+      "price_label": "2 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464384778"
+    }
+  ]
+}

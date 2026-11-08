@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:12Z",
+  "contact_button": {
+    "adId": "480484237",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480484237",
+  "kode_candidates": {
+    "canonical": "480484237",
+    "object_info": "480484237",
+    "maplink": "480484237",
+    "contact_button": "480484237",
+    "hint": "480484237"
+  },
+  "ld_json": {
+    "sku": "480484237",
+    "name": "Pokémon Silver Tempest Booster Box – Fabrikkforseglet / Uåpnet",
+    "url": "https://www.finn.no/recommerce/forsale/item/480484237",
+    "item_condition": "NewCondition",
+    "price_raw": "6499",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 6499
+  },
+  "title_source": "dom",
+  "title": "Pokémon Silver Tempest Booster Box – Fabrikkforseglet / Uåpnet",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "6 499 kr",
+  "price_nok": 6499,
+  "price_nok_source": "dom",
+  "location_text": "4343 Orre",
+  "lat": 58.717399340510916,
+  "lon": 5.5699146302256635,
+  "postal_code": "4343",
+  "last_modified_raw": "7.11.2026 kl. 20:37",
+  "last_modified": "2026-11-07T20:37:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "bff010e9-d28b-444b-8645-0ad2365aa5d7",
+    "3959c728-1b0a-4552-9c0c-909c2e58c575",
+    "7c818bb3-f4e7-4940-9f88-3a0d57653859",
+    "7b740156-e0db-41be-804c-16b65badef3f"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger en uåpnet Pokémon Sword & Shield: Silver Tempest Booster Box med 36 boosterpakker.\n\n \n\nBoksen er fortsatt fabrikkforseglet i original plast og har aldri vært åpnet.\n\n \n\nForetrekker personlig overlevering, men kan også sendes på kjøpers regning og risiko. Ved sending kreves forhåndsbetaling av både varen og frakt.\n\n \n\nNB: Ingen trading / innbytte.\n\n \n\nTa gjerne kontakt ved spørsmål eller interesse!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479613624",
+      "heading": "Pokémon Silver Tempest Booster Box – Forseglet m/ akrylboks (Sword & Shield)",
+      "price_label": "6 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479613624"
+    },
+    {
+      "item_id": "480485763",
+      "heading": "Pokémon Chilling Reign Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "5 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480485763"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480485007",
+      "heading": "Pokémon Fusion Strike Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "10 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480485007"
+    },
+    {
+      "item_id": "480486148",
+      "heading": "Pokémon Evolving skies Booster Box – Fabrikkforseglet / Uåpnet med akryl boks",
+      "price_label": "27 999 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486148"
+    },
+    {
+      "item_id": "461764938",
+      "heading": "Silver tempest",
+      "price_label": null,
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/461764938"
+    },
+    {
+      "item_id": "360066575",
+      "heading": "Har du denne ? Silver tempest booster box",
+      "price_label": null,
+      "location": "Tertnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/360066575"
+    },
+    {
+      "item_id": "462360507",
+      "heading": "Surging Sparks Booster Box uåpnet med plastikk",
+      "price_label": "3 700 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462360507"
+    },
+    {
+      "item_id": "476798704",
+      "heading": "Booster bokser / box",
+      "price_label": "3 000 kr",
+      "location": "Klepp stasjon",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476798704"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "bff010e9-d28b-444b-8645-0ad2365aa5d7",
+      "item_ref": "480484237",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480484237/bff010e9-d28b-444b-8645-0ad2365aa5d7"
+    },
+    {
+      "uuid": "3959c728-1b0a-4552-9c0c-909c2e58c575",
+      "item_ref": "480484237",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480484237/3959c728-1b0a-4552-9c0c-909c2e58c575"
+    },
+    {
+      "uuid": "7c818bb3-f4e7-4940-9f88-3a0d57653859",
+      "item_ref": "480484237",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480484237/7c818bb3-f4e7-4940-9f88-3a0d57653859"
+    },
+    {
+      "uuid": "7b740156-e0db-41be-804c-16b65badef3f",
+      "item_ref": "480484237",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480484237/7b740156-e0db-41be-804c-16b65badef3f"
+    }
+  ],
+  "raw_capture": "480484237_pok-mon-silver-tempest-booster-box-fabrikkforseglet-u-pnet/raw/480484237_2026-11-08-224612.html"
+}

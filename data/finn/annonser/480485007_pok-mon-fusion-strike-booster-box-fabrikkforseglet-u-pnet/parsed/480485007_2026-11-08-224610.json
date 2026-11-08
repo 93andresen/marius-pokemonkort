@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:10Z",
+  "contact_button": {
+    "adId": "480485007",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480485007",
+  "kode_candidates": {
+    "canonical": "480485007",
+    "object_info": "480485007",
+    "maplink": "480485007",
+    "contact_button": "480485007",
+    "hint": "480485007"
+  },
+  "ld_json": {
+    "sku": "480485007",
+    "name": "Pokémon Fusion Strike Booster Box – Fabrikkforseglet / Uåpnet",
+    "url": "https://www.finn.no/recommerce/forsale/item/480485007",
+    "item_condition": "NewCondition",
+    "price_raw": "10499",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 10499
+  },
+  "title_source": "dom",
+  "title": "Pokémon Fusion Strike Booster Box – Fabrikkforseglet / Uåpnet",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "10 499 kr",
+  "price_nok": 10499,
+  "price_nok_source": "dom",
+  "location_text": "4343 Orre",
+  "lat": 58.717399340510916,
+  "lon": 5.5699146302256635,
+  "postal_code": "4343",
+  "last_modified_raw": "7.11.2026 kl. 20:37",
+  "last_modified": "2026-11-07T20:37:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "d0cebb9f-13d0-49b6-acf8-50d37e3de191",
+    "5e2972d1-da6a-4d75-9153-c1bd2c400090",
+    "e318a593-2846-45aa-92df-c863dda88206",
+    "f3f744d3-ca55-43b7-b5e8-b95c652d4cc0"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger en uåpnet Pokémon Sword & Shield: Fusion Strike Booster Box med 36 boosterpakker.\n\n \n\nBoksen er fortsatt fabrikkforseglet i original plast og har aldri vært åpnet.\n\n \n\nForetrekker personlig overlevering, men kan også sendes på kjøpers regning og risiko. Ved sending kreves forhåndsbetaling av både varen og frakt.\n\n \n\nNB: Ingen trading / innbytte.\n\n \n\nTa gjerne kontakt ved spørsmål eller interesse!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480485763",
+      "heading": "Pokémon Chilling Reign Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "5 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480485763"
+    },
+    {
+      "item_id": "475164230",
+      "heading": "Pokemon Sword & Shield Fusion Strike half boosterboks",
+      "price_label": "12 345 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475164230"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480486148",
+      "heading": "Pokémon Evolving skies Booster Box – Fabrikkforseglet / Uåpnet med akryl boks",
+      "price_label": "27 999 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486148"
+    },
+    {
+      "item_id": "480484237",
+      "heading": "Pokémon Silver Tempest Booster Box – Fabrikkforseglet / Uåpnet",
+      "price_label": "6 499 kr",
+      "location": "Orre",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480484237"
+    },
+    {
+      "item_id": "474529693",
+      "heading": "Fusion Strike Half Booster Box",
+      "price_label": "5 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474529693"
+    },
+    {
+      "item_id": "479078744",
+      "heading": "Pokémon fusion strike boster box",
+      "price_label": "10 500 kr",
+      "location": "Ågotnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479078744"
+    },
+    {
+      "item_id": "469917418",
+      "heading": "Pokemon Sword & Shield Fusion Strike Elite Trainer Box",
+      "price_label": "4 750 kr",
+      "location": "Heimdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469917418"
+    },
+    {
+      "item_id": "476798704",
+      "heading": "Booster bokser / box",
+      "price_label": "3 000 kr",
+      "location": "Klepp stasjon",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476798704"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "d0cebb9f-13d0-49b6-acf8-50d37e3de191",
+      "item_ref": "480485007",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480485007/d0cebb9f-13d0-49b6-acf8-50d37e3de191"
+    },
+    {
+      "uuid": "5e2972d1-da6a-4d75-9153-c1bd2c400090",
+      "item_ref": "480485007",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480485007/5e2972d1-da6a-4d75-9153-c1bd2c400090"
+    },
+    {
+      "uuid": "e318a593-2846-45aa-92df-c863dda88206",
+      "item_ref": "480485007",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480485007/e318a593-2846-45aa-92df-c863dda88206"
+    },
+    {
+      "uuid": "f3f744d3-ca55-43b7-b5e8-b95c652d4cc0",
+      "item_ref": "480485007",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480485007/f3f744d3-ca55-43b7-b5e8-b95c652d4cc0"
+    }
+  ],
+  "raw_capture": "480485007_pok-mon-fusion-strike-booster-box-fabrikkforseglet-u-pnet/raw/480485007_2026-11-08-224610.html"
+}

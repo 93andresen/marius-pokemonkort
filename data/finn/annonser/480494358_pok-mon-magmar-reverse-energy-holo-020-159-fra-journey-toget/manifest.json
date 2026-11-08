@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480494358",
+  "url": "https://www.finn.no/recommerce/forsale/item/480494358",
+  "slug": "480494358_pok-mon-magmar-reverse-energy-holo-020-159-fra-journey-toget",
+  "first_seen": "2026-11-08T22:45:36Z",
+  "last_seen": "2026-11-08T22:45:36Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Magmar Reverse Energy Holo 020/159 fra Journey Together (JTG EN)",
+    "status": "Aktiv",
+    "price_nok": 10,
+    "trade_type": null,
+    "location_text": "6411 Molde",
+    "postal_code": "6411",
+    "last_modified": "2026-11-08T21:56:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:36Z",
+      "raw": "480494358_pok-mon-magmar-reverse-energy-holo-020-159-fra-journey-toget/raw/480494358_2026-11-08-224536.html",
+      "parse_quality": "full",
+      "price_nok": 10,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480517804",
+      "heading": "Magmar #20 Reverse Holofoil",
+      "price_label": "9 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480517804"
+    },
+    {
+      "item_id": "480441854",
+      "heading": "Pokémon Maractus Reverse Energi Holo 008/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480441854"
+    },
+    {
+      "item_id": "478320971",
+      "heading": "🚀POKÉMON MYSTERY PACK  – KUN 50 STK!🚀",
+      "price_label": "59 kr",
+      "location": "Nodeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478320971"
+    },
+    {
+      "item_id": "480495598",
+      "heading": "Pokémon Ninetales Reverse Holo 020/132 fra Mega Evolution (MEG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480495598"
+    },
+    {
+      "item_id": "480494426",
+      "heading": "Pokémon Metang Reverse Energy Holo 062/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480494426"
+    },
+    {
+      "item_id": "479934233",
+      "heading": "Pokémon Noivern  Holo  128/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479934233"
+    },
+    {
+      "item_id": "479934750",
+      "heading": "Pokémon Numel Reverse Holo 021/132 fra Mega Evolution (MEG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479934750"
+    },
+    {
+      "item_id": "479934068",
+      "heading": "Pokémon Blowtorch Reverse Holo 086/094 fra Phantasmal Flames (PFL EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479934068"
+    },
+    {
+      "item_id": "480261039",
+      "heading": "Magmortar #21 Holofoil",
+      "price_label": "8 kr",
+      "location": "Kristiansund N",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480261039"
+    }
+  ]
+}

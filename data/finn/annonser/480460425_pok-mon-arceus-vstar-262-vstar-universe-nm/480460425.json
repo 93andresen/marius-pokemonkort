@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:40Z",
+  "contact_button": {
+    "adId": "480460425",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480460425",
+  "kode_candidates": {
+    "canonical": "480460425",
+    "object_info": "480460425",
+    "maplink": "480460425",
+    "contact_button": "480460425",
+    "hint": "480460425"
+  },
+  "ld_json": {
+    "sku": "480460425",
+    "name": "Pokémon - Arceus VSTAR 262 VSTAR Universe NM",
+    "url": "https://www.finn.no/recommerce/forsale/item/480460425",
+    "item_condition": "NewCondition",
+    "price_raw": "1400",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1400
+  },
+  "title_source": "dom",
+  "title": "Pokémon - Arceus VSTAR 262 VSTAR Universe NM",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1400,
+  "price_nok_source": "ld+json",
+  "location_text": "5057 Bergen",
+  "lat": 60.378444678993,
+  "lon": 5.326340512601047,
+  "postal_code": "5057",
+  "last_modified_raw": "7.11.2026 kl. 14:57",
+  "last_modified": "2026-11-07T14:57:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "eb6ffcf3-774d-4ba1-b689-996fd505b6c2",
+    "405459d8-1b5c-44bf-a328-c6f5b657d3e3"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger et nydelig Arceus vstar kort! Kan fint kombineres med andre annonser. Kortet er litt OC men den er ellers i NM condition",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "474475675",
+      "heading": "Pokémon kort Arceus VSTAR VSTAR Universe",
+      "price_label": "2 000 kr",
+      "location": "Stabekk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474475675"
+    },
+    {
+      "item_id": "464669876",
+      "heading": "Arceus V 166/172 Brilliant Stars CGC 9 🔥",
+      "price_label": "1 000 kr",
+      "location": "Isdalstø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464669876"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "478885388",
+      "heading": "Pokémon kort Arceus AR7 Holo",
+      "price_label": "400 kr",
+      "location": "Sandsli",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478885388"
+    },
+    {
+      "item_id": "476560208",
+      "heading": "Arceus LV.X",
+      "price_label": "900 kr",
+      "location": "Asker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476560208"
+    },
+    {
+      "item_id": "478939269",
+      "heading": "Pokemon - Arceus JP",
+      "price_label": "1 100 kr",
+      "location": "Hafrsfjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478939269"
+    },
+    {
+      "item_id": "479245641",
+      "heading": "Pokemon Arceus vstar Crown zenith Ace 10",
+      "price_label": "2 599 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479245641"
+    },
+    {
+      "item_id": "476512029",
+      "heading": "Pokémon kort Arceus LV.X holografisk VINTAGE KORT",
+      "price_label": "350 kr",
+      "location": "Kaupanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476512029"
+    },
+    {
+      "item_id": "454676836",
+      "heading": "Pokemon Arceus VSTAR 280 HP 123/172 samlekort",
+      "price_label": "450 kr",
+      "location": "Kleppe",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/454676836"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "eb6ffcf3-774d-4ba1-b689-996fd505b6c2",
+      "item_ref": "480460425",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480460425/eb6ffcf3-774d-4ba1-b689-996fd505b6c2"
+    },
+    {
+      "uuid": "405459d8-1b5c-44bf-a328-c6f5b657d3e3",
+      "item_ref": "480460425",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480460425/405459d8-1b5c-44bf-a328-c6f5b657d3e3"
+    }
+  ],
+  "raw_capture": "480460425_pok-mon-arceus-vstar-262-vstar-universe-nm/raw/480460425_2026-11-08-224640.html"
+}

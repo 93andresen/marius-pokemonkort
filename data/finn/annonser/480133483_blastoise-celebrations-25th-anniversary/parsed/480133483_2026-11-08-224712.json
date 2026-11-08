@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:12Z",
+  "contact_button": {
+    "adId": "480133483",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480133483",
+  "kode_candidates": {
+    "canonical": "480133483",
+    "object_info": "480133483",
+    "maplink": "480133483",
+    "contact_button": "480133483",
+    "hint": "480133483"
+  },
+  "ld_json": {
+    "sku": "480133483",
+    "name": "Blastoise celebrations 25th anniversary",
+    "url": "https://www.finn.no/recommerce/forsale/item/480133483",
+    "item_condition": null,
+    "price_raw": "300",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 300
+  },
+  "title_source": "dom",
+  "title": "Blastoise celebrations 25th anniversary",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "300 kr",
+  "price_nok": 300,
+  "price_nok_source": "dom",
+  "location_text": "2827 Hunndalen",
+  "lat": 60.78777578979589,
+  "lon": 10.640898217301164,
+  "postal_code": "2827",
+  "last_modified_raw": "2.11.2026 kl. 18:02",
+  "last_modified": "2026-11-02T18:02:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "bb6c3753-7069-4d9e-8048-3c0d1fe7e44f",
+    "1877efa9-79f2-4cc5-b592-0ad96e0ce260"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "💰Pris: 300kr\n\n \n\n💵 Betaling:\n\n✅Vipps\n\n \n\n✉️Frakt: \n\n✅ postnord 75/139kr\n\n🏡 Kan hentes etter avtale i Gjøvik\n\n \n\nSøkeord:\n\nPokemon samling \n\nPokemon kort\n\n2021\n\nCelebrations\n\nEnglish\n\nBooster pack\n\nBooster box\n\nPikachu\n\nBlastoise\n\nHolo\n\n25th anniversary",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "476679504",
+      "heading": "Pokémon kort - Blastoise 2/127 Holo -NM/LP",
+      "price_label": "275 kr",
+      "location": "Brumunddal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476679504"
+    },
+    {
+      "item_id": "479979232",
+      "heading": "Pokémon Blastoise #2/102",
+      "price_label": "400 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479979232"
+    },
+    {
+      "item_id": "475860051",
+      "heading": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "price_label": "98 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475860051"
+    },
+    {
+      "item_id": "438388030",
+      "heading": "Blastoise 14/100 Reverse Holo Pokemon Crystal Guardians",
+      "price_label": "890 kr",
+      "location": "Hamar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/438388030"
+    },
+    {
+      "item_id": "469217524",
+      "heading": "Pokémon Blastoise kort holo 2/102",
+      "price_label": "900 kr",
+      "location": "Maura",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469217524"
+    },
+    {
+      "item_id": "472875476",
+      "heading": "Blastoise Crystal Guardians reverse holo pokemon kort",
+      "price_label": "2 500 kr",
+      "location": "Isfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472875476"
+    },
+    {
+      "item_id": "477584925",
+      "heading": "6x Pokemon Celebrations Blastoise #2 x6 Venusaur #15",
+      "price_label": "2 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477584925"
+    },
+    {
+      "item_id": "476591239",
+      "heading": "25 celebration Charizard og Blastois",
+      "price_label": null,
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476591239"
+    },
+    {
+      "item_id": "477487263",
+      "heading": "Pokémon Blastoise δ 2/100 Holo – EX Crystal Guardians 2006",
+      "price_label": "2 490 kr",
+      "location": "Furnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477487263"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "bb6c3753-7069-4d9e-8048-3c0d1fe7e44f",
+      "item_ref": "480133483",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480133483/bb6c3753-7069-4d9e-8048-3c0d1fe7e44f"
+    },
+    {
+      "uuid": "1877efa9-79f2-4cc5-b592-0ad96e0ce260",
+      "item_ref": "480133483",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480133483/1877efa9-79f2-4cc5-b592-0ad96e0ce260"
+    }
+  ],
+  "raw_capture": "480133483_blastoise-celebrations-25th-anniversary/raw/480133483_2026-11-08-224712.html"
+}

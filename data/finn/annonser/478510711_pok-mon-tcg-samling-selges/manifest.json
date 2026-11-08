@@ -1,0 +1,169 @@
+{
+  "finn_kode": "478510711",
+  "url": "https://www.finn.no/recommerce/forsale/item/478510711",
+  "slug": "478510711_pok-mon-tcg-samling-selges",
+  "first_seen": "2026-11-08T22:47:01Z",
+  "last_seen": "2026-11-08T22:47:01Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon tcg samling selges",
+    "status": "Aktiv",
+    "price_nok": 30000,
+    "trade_type": null,
+    "location_text": "1344 Haslum",
+    "postal_code": "1344",
+    "last_modified": "2026-10-11T18:43:00",
+    "gallery_count": 22,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:01Z",
+      "raw": "478510711_pok-mon-tcg-samling-selges/raw/478510711_2026-11-08-224701.html",
+      "parse_quality": "full",
+      "price_nok": 30000,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479989966",
+      "heading": "Pokémon TCG samlekort og bokser",
+      "price_label": "15 000 kr",
+      "location": "Larvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479989966"
+    },
+    {
+      "item_id": "465561994",
+      "heading": "5x Pokemon TCG Prismatic Premium Figure Collection eske",
+      "price_label": "15 000 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465561994"
+    },
+    {
+      "item_id": "480498666",
+      "heading": "Sjekker interesse for Pokemon kort!",
+      "price_label": null,
+      "location": "Hundvåg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480498666"
+    },
+    {
+      "item_id": "477430089",
+      "heading": "🔥 Pokémon TCG – Sealed produkter, kort & graded kort 🔥",
+      "price_label": "123 456 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477430089"
+    },
+    {
+      "item_id": "477898615",
+      "heading": "Pokemon TCG samling – Elite Trainer Box, Vaporeon VMAX boks og Brilliant Stars",
+      "price_label": "25 000 kr",
+      "location": "Straume",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477898615"
+    },
+    {
+      "item_id": "477538808",
+      "heading": "Pokemonkort uåpnet ETBer, boosterboxer med mer",
+      "price_label": "45 000 kr",
+      "location": "Strusshamn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477538808"
+    },
+    {
+      "item_id": "478056302",
+      "heading": "Pokemon kort",
+      "price_label": "14 000 kr",
+      "location": "Kongsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478056302"
+    },
+    {
+      "item_id": "472057598",
+      "heading": "Ulike pokemon kort og sealed, ascended heros, 151",
+      "price_label": "18 000 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472057598"
+    },
+    {
+      "item_id": "477975753",
+      "heading": "Stor samling Pokémon kort ( HITS / BULK / SLEEVES / VINTAGE)",
+      "price_label": "14 999 kr",
+      "location": "Sistranda",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477975753"
+    }
+  ]
+}

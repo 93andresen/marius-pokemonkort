@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480337816",
+  "url": "https://www.finn.no/recommerce/forsale/item/480337816",
+  "slug": "480337816_pokemon-sealed-produkter",
+  "first_seen": "2026-11-08T22:46:24Z",
+  "last_seen": "2026-11-08T22:46:24Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon: Sealed produkter",
+    "status": "Aktiv",
+    "price_nok": 399,
+    "trade_type": "Til salgs",
+    "location_text": "3045 Drammen",
+    "postal_code": "3045",
+    "last_modified": "2026-11-05T17:55:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:24Z",
+      "raw": "480337816_pokemon-sealed-produkter/raw/480337816_2026-11-08-224624.html",
+      "parse_quality": "full",
+      "price_nok": 399,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477569887",
+      "heading": "Sealed pokemon produkter selges!",
+      "price_label": "123 kr",
+      "location": "Godvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477569887"
+    },
+    {
+      "item_id": "478070860",
+      "heading": "Pokemon mye forskellig sealed produkter",
+      "price_label": "80 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478070860"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "460532433",
+      "heading": "Pokemon Sealed • 30th Celebration • Ascended Heroes • Prismatic Evolutions + mer",
+      "price_label": "130 kr",
+      "location": "Nesøya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460532433"
+    },
+    {
+      "item_id": "478210556",
+      "heading": "Pokèmon Sealed produkter - ETB og bundles",
+      "price_label": "550 kr",
+      "location": "Røyken",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478210556"
+    },
+    {
+      "item_id": "479636609",
+      "heading": "Pokemon sealed produkter & psa slabs",
+      "price_label": null,
+      "location": "Haslum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479636609"
+    },
+    {
+      "item_id": "465369891",
+      "heading": "Pokemon diverse sealed produkter oppdatert 21/09",
+      "price_label": "600 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465369891"
+    },
+    {
+      "item_id": "477820902",
+      "heading": "Diverse sealed Pokemon",
+      "price_label": "1 234 kr",
+      "location": "Lysaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477820902"
+    },
+    {
+      "item_id": "477872446",
+      "heading": "Pokemon sealed samling selges",
+      "price_label": null,
+      "location": "Halden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477872446"
+    }
+  ]
+}

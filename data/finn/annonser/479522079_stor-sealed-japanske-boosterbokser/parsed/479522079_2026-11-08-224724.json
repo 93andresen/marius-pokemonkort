@@ -1,0 +1,257 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:24Z",
+  "contact_button": {
+    "adId": "479522079",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "479522079",
+  "kode_candidates": {
+    "canonical": "479522079",
+    "object_info": "479522079",
+    "maplink": "479522079",
+    "contact_button": "479522079",
+    "hint": "479522079"
+  },
+  "ld_json": {
+    "sku": "479522079",
+    "name": "Stor sealed japanske boosterbokser",
+    "url": "https://www.finn.no/recommerce/forsale/item/479522079",
+    "item_condition": "NewCondition",
+    "price_raw": "37500",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 37500
+  },
+  "title_source": "dom",
+  "title": "Stor sealed japanske boosterbokser",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 37500,
+  "price_nok_source": "ld+json",
+  "location_text": "3158 Andebu",
+  "lat": 59.305901243228405,
+  "lon": 10.17649525169453,
+  "postal_code": "3158",
+  "last_modified_raw": "30.10.2026 kl. 18:33",
+  "last_modified": "2026-10-30T18:33:00",
+  "gallery_count": 10,
+  "image_uuids": [
+    "b7757e40-ae8a-4f2b-af7d-8d1422bde0d2",
+    "6dfe6773-9c05-414c-ac9d-f46f306660e0",
+    "e2ec0b61-ab19-4eab-a0c9-90e464073133",
+    "5bccee94-3213-435d-8b61-743466cd22dc",
+    "1adec9b5-3bca-40cb-b170-cfe2d49b906a",
+    "af115cca-73b9-4b53-8e81-c9b25209915a",
+    "3b154686-a279-41eb-be8c-a4ce5d97fec5",
+    "6434b2f4-e283-4d0c-816a-ffcf5d47d5e2",
+    "52a1f89c-ea79-41b3-b824-af1a0c571ea5",
+    "b0d9ccd8-5487-4489-9989-3eb7ed6c2212"
+  ],
+  "image_count_from_html": 10,
+  "description_raw": "Selger en større samling japanske boosterbokser. Alle er uåpnede og oppbevart som samlingsobjekter. \n\n \n\nSamlingen består av:\n\nS&V 151. 3 stk\n\nMega dream. 2 stk \n\nPokemon Scarlet Ex. 1 stk \n\nShiny treasure Ex. 3 stk\n\nAncien roar. 1 stk\n\nParadise dragon. 1 stk \n\nFuture flash. 1 stk\n\nElectric breaker. 2 stk\n\nCyber judge. 1 stk\n\nRaging surf. 1 stk\n\nWild force. 1 stk\n\nStorm emerald. 2 stk\n\nTerastal festival. 3 stk\n\nRuler of black flame. 1 stk \n\nCrimson haze. 1 stk\n\nTotalt 24 booster bokser.\n\n \n\nSamlet pris 41.100,- er satt etter markedsverdi, noe under. Ved kjøp av alle samlet ordner vi en pakkepris.\n\n \n\nØnsker primært og selge hele samlet, men kan vurdere salg av flere bokser sammen, fks og dele den opp i 3.. \n\nSeriøse bud besvares.\n\n \n\nFlere bilder av boksene og forsegling kan sendes ved interesse. Disse er kun eid av meg!\n\n \n\nHenting/ møtes i vestfold. Sending med post etter avtale.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nPokemon TCG, Pokemon Trading Card Game, Pokemon samlekortspill, Pokemon samler, Pokemon samlere, Pokemon samlerkort, Pokemon kortsamling, Pokemon samlerobjekter, Pokemon lot, Pokemon collection, Pokemon card collection, Pokemon sealed collection, Pokemon booster, Pokemon boosters, Pokemon booster box, Pokemon boosterbox, Pokemon boosterbokser, Pokemon booster display, Booster display, Booster box, Booster boxes, Booster bundle, Booster bundles, Sealed booster box, Factory sealed, Shrinkwrap, Original shrinkwrap, Uåpnet Pokemon, Fabrikkforseglet Pokemon, Pokemon investeringssamling, Pokemon lot sale, Pokemon TCG sealed, English Pokemon, Japanese Pokemon, Japanske Pokemonkort, Japansk boosterboks, Japanese booster box, Pokemon Japan, Pokemon JP, Pokemon high class, High Class Pack, Pokemon Elite Trainer Box, Pokemon ETB, Pokemon Center ETB, Pokemon Premium Collection, Pokemon Ultra Premium Collection, Pokemon UPC, Pokemon promo, Promo card, Secret Rare, Special Illustration Rare, Illustration Rare, Hyper Rare, Rainbow Rare, Gold Rare, Trainer Gallery, Galarian Gallery, Shiny Pokemon, Shiny Vault, Amazing Rare, Tag Team GX, Full Art Trainer, Alt Art Pokemon, Pokemon PSA 10, PSA 9, PSA graded, CGC graded, BGS graded, Graded Pokemon cards, Pokemon slabs, Pokemon vintage sealed, Pokemon modern sealed",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479288337",
+      "heading": "Japanske boosterbokser",
+      "price_label": "1 500 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479288337"
+    },
+    {
+      "item_id": "479031175",
+      "heading": "Pokemon booster bokser selges",
+      "price_label": "13 000 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479031175"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "431428064",
+      "heading": "Pokemon Mega Evolution Booster Boks Case",
+      "price_label": "23 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/431428064"
+    },
+    {
+      "item_id": "462523691",
+      "heading": "151 Japanese booster display case (12 bokser)",
+      "price_label": "45 000 kr",
+      "location": "Tverlandet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462523691"
+    },
+    {
+      "item_id": "479129746",
+      "heading": "Div. uåpnede pokemon booster bokser.",
+      "price_label": "19 000 kr",
+      "location": "Tønsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479129746"
+    },
+    {
+      "item_id": "473720042",
+      "heading": "Pokémon Booster Boxes – Japansk / Sealed",
+      "price_label": "10 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473720042"
+    },
+    {
+      "item_id": "469939634",
+      "heading": "Abyss Eye Booster Box (japansk)",
+      "price_label": "1 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469939634"
+    },
+    {
+      "item_id": "477783019",
+      "heading": "Pokemon Booster Bokser",
+      "price_label": "1 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477783019"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b7757e40-ae8a-4f2b-af7d-8d1422bde0d2",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/479522079/b7757e40-ae8a-4f2b-af7d-8d1422bde0d2"
+    },
+    {
+      "uuid": "6dfe6773-9c05-414c-ac9d-f46f306660e0",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/479522079/6dfe6773-9c05-414c-ac9d-f46f306660e0"
+    },
+    {
+      "uuid": "e2ec0b61-ab19-4eab-a0c9-90e464073133",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/e2ec0b61-ab19-4eab-a0c9-90e464073133"
+    },
+    {
+      "uuid": "5bccee94-3213-435d-8b61-743466cd22dc",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/5bccee94-3213-435d-8b61-743466cd22dc"
+    },
+    {
+      "uuid": "1adec9b5-3bca-40cb-b170-cfe2d49b906a",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/1adec9b5-3bca-40cb-b170-cfe2d49b906a"
+    },
+    {
+      "uuid": "af115cca-73b9-4b53-8e81-c9b25209915a",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/af115cca-73b9-4b53-8e81-c9b25209915a"
+    },
+    {
+      "uuid": "3b154686-a279-41eb-be8c-a4ce5d97fec5",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/3b154686-a279-41eb-be8c-a4ce5d97fec5"
+    },
+    {
+      "uuid": "6434b2f4-e283-4d0c-816a-ffcf5d47d5e2",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/6434b2f4-e283-4d0c-816a-ffcf5d47d5e2"
+    },
+    {
+      "uuid": "52a1f89c-ea79-41b3-b824-af1a0c571ea5",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/52a1f89c-ea79-41b3-b824-af1a0c571ea5"
+    },
+    {
+      "uuid": "b0d9ccd8-5487-4489-9989-3eb7ed6c2212",
+      "item_ref": "479522079",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/479522079/b0d9ccd8-5487-4489-9989-3eb7ed6c2212"
+    }
+  ],
+  "raw_capture": "479522079_stor-sealed-japanske-boosterbokser/raw/479522079_2026-11-08-224724.html"
+}

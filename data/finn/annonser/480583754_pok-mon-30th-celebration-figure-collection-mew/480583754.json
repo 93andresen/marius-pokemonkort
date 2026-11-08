@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:58Z",
+  "contact_button": {
+    "adId": "480583754",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480583754",
+  "kode_candidates": {
+    "canonical": "480583754",
+    "object_info": "480583754",
+    "maplink": "480583754",
+    "contact_button": "480583754",
+    "hint": "480583754"
+  },
+  "ld_json": {
+    "sku": "480583754",
+    "name": "Pokémon 30th Celebration Figure Collection – Mew",
+    "url": "https://www.finn.no/recommerce/forsale/item/480583754",
+    "item_condition": "NewCondition",
+    "price_raw": "820",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 820
+  },
+  "title_source": "dom",
+  "title": "Pokémon 30th Celebration Figure Collection – Mew",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 820,
+  "price_nok_source": "ld+json",
+  "location_text": "0585 Oslo",
+  "lat": 59.931953046009205,
+  "lon": 10.792340107582447,
+  "postal_code": "0585",
+  "last_modified_raw": "8.11.2026 kl. 22:04",
+  "last_modified": "2026-11-08T22:04:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "fc729a7a-8f8c-4516-9038-7517681456af",
+    "60d56410-48b3-4551-96cd-3b488dc3966a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Jeg selger en Pokemon 30th Celebration Figure Collection med Mew. Esken er ny og uåpnet, og i fin stand.\n\n \n\nInnhold:\n\n• 1 foil promokort med Mew\n\n• 1 oversize foilkort med Mew\n\n• 1 figur av Mew\n\n• 5 boosterpakker fra 30th Celebration\n\n \n\nHentes i Oslo med betaling via Vipps, eller sendes med Fiks ferdig.\n\n \n\nSe mine andre annonser for flere esker, tins, displays, ETB og bundles.\n\n \n\npokemon, pokémon, pokemonkort, pokemon kort, pokémon kort, pokemon kort norge, samlekort, trading cards, tcg, trading card game, figure collection, figur, booster, boosterpakker, forseglet, sealed, ny og uåpnet, promo, promokort, foilkort, oversize, jumbokort, samleobjekt, 30th celebration, 30th anniversary, 30 års jubileum, mew, mewtwo, pikachu",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480379947",
+      "heading": "Pokémon- 30th Celebration Figure Collection - Mew",
+      "price_label": "929 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480379947"
+    },
+    {
+      "item_id": "480374835",
+      "heading": "Pokemon 30th Celebration Figure Coll #1 Mew Figure Collection",
+      "price_label": "999 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480374835"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480375150",
+      "heading": "Pokemon 30th Celebration Figure Coll #2 MewTwo Figure Collection",
+      "price_label": "999 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480375150"
+    },
+    {
+      "item_id": "480476563",
+      "heading": "Pokémon 30th Figure collection Mew",
+      "price_label": "1 123 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480476563"
+    },
+    {
+      "item_id": "480557430",
+      "heading": "Pokémon kort 30th Celebration Figure Collection-Mew!",
+      "price_label": "849 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480557430"
+    },
+    {
+      "item_id": "480373187",
+      "heading": "Mew Figure Collection - 30th celebrations",
+      "price_label": "1 299 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480373187"
+    },
+    {
+      "item_id": "480460400",
+      "heading": "Pokémon 30th Celebration Mew Figure Collection",
+      "price_label": "1 199 kr",
+      "location": "Furnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480460400"
+    },
+    {
+      "item_id": "480374452",
+      "heading": "30th Mew figure collection!",
+      "price_label": "849 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480374452"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "fc729a7a-8f8c-4516-9038-7517681456af",
+      "item_ref": "480583754",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480583754/fc729a7a-8f8c-4516-9038-7517681456af"
+    },
+    {
+      "uuid": "60d56410-48b3-4551-96cd-3b488dc3966a",
+      "item_ref": "480583754",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480583754/60d56410-48b3-4551-96cd-3b488dc3966a"
+    }
+  ],
+  "raw_capture": "480583754_pok-mon-30th-celebration-figure-collection-mew/raw/480583754_2026-11-08-224558.html"
+}

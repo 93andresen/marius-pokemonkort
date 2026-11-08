@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480476719",
+  "url": "https://www.finn.no/recommerce/forsale/item/480476719",
+  "slug": "480476719_vintage-pok-mon-samling-nsker-gjennomgang-og-salg-i-bergen-p",
+  "first_seen": "2026-11-08T22:46:30Z",
+  "last_seen": "2026-11-08T22:46:30Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Vintage Pokémon samling - ønsker gjennomgang og salg i Bergen - åpen for bud",
+    "status": "Aktiv",
+    "price_nok": 7500,
+    "trade_type": null,
+    "location_text": "5104 Eidsvåg i Åsane",
+    "postal_code": "5104",
+    "last_modified": "2026-11-07T18:33:00",
+    "gallery_count": 6,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:30Z",
+      "raw": "480476719_vintage-pok-mon-samling-nsker-gjennomgang-og-salg-i-bergen-p/raw/480476719_2026-11-08-224630.html",
+      "parse_quality": "full",
+      "price_nok": 7500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480577660",
+      "heading": "Vintage Pokemon Kort Selges!",
+      "price_label": null,
+      "location": "Olsvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480577660"
+    },
+    {
+      "item_id": "480421059",
+      "heading": "Stor vintage Pokemon kort samling 93-kort!",
+      "price_label": "6 000 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480421059"
+    },
+    {
+      "item_id": "480458498",
+      "heading": "100++ Graderte Pokemonkort 🔥",
+      "price_label": null,
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480458498"
+    },
+    {
+      "item_id": "480380445",
+      "heading": "Vintage Pokémon kort holo og reverse holo selges samlet!",
+      "price_label": "4 500 kr",
+      "location": "Rådal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480380445"
+    },
+    {
+      "item_id": "467776668",
+      "heading": "Pokemon samling.  Selges for 65%",
+      "price_label": "8 750 kr",
+      "location": "Lindås",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467776668"
+    },
+    {
+      "item_id": "478010436",
+      "heading": "Pokemon kort selges",
+      "price_label": "5 000 kr",
+      "location": "Indre Arna",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478010436"
+    },
+    {
+      "item_id": "463874340",
+      "heading": "Pokemon samlekort",
+      "price_label": "2 000 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463874340"
+    },
+    {
+      "item_id": "472848882",
+      "heading": "Pokémon-kort samling selges – Vintage, 1st Edition, Full Art & sjeldne kort",
+      "price_label": "15 000 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472848882"
+    },
+    {
+      "item_id": "476826266",
+      "heading": "Stor Pokemon E-reader samling",
+      "price_label": "4 000 kr",
+      "location": "Kolltveit",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476826266"
+    }
+  ]
+}

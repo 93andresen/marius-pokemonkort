@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:28Z",
+  "contact_button": {
+    "adId": "480282306",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480282306",
+  "kode_candidates": {
+    "canonical": "480282306",
+    "object_info": "480282306",
+    "maplink": "480282306",
+    "contact_button": "480282306",
+    "hint": "480282306"
+  },
+  "ld_json": {
+    "sku": "480282306",
+    "name": "Black Bolt og White Flare Booster Bundles",
+    "url": "https://www.finn.no/recommerce/forsale/item/480282306",
+    "item_condition": "NewCondition",
+    "price_raw": "1150",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1150
+  },
+  "title_source": "dom",
+  "title": "Black Bolt og White Flare Booster Bundles",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1150,
+  "price_nok_source": "ld+json",
+  "location_text": "5261 Indre Arna",
+  "lat": 60.41939978257222,
+  "lon": 5.465521188410146,
+  "postal_code": "5261",
+  "last_modified_raw": "4.11.2026 kl. 19:59",
+  "last_modified": "2026-11-04T19:59:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "043e4755-796d-4ed8-b100-090c7942c633",
+    "c918b27a-ad94-45b6-91e3-c7d36a10dea8",
+    "466e1cad-6fc4-4533-a775-3b45948e253a",
+    "7ea36776-66f0-4ffd-99a0-bad4ed608814"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Selger Pokemon black bolt og white flare booster bundles. Pris: 1150kr per stykk\n\n \n\nHar \n\n2 x black bolt \n\n2 x white flare\n\n \n\n \n\n \n\n \n\n \n\n \n\npokemon slab psa\n\nPokemon TCG\n\nAscended Heroes\n\nPikachu\n\nDragonite\n\nBooster packs\n\nBooster bundle\n\nAscended Heroes\n\nSpecial Illustration Rare\n\nHyper rare\n\nCharizard\n\nMega Gengar EX\n\nPikachu EX\n\nMega Charizard Y EX \n\nMega Dragonite EX\n\nTeam Rocket’s Mewtwo\n\nGengar\n\nDragonite\n\nPikachu\n\nUmbreon\n\nUmbreon EX\n\nUmbreon Master Ball Holo\n\nSylveon EX\n\nLeafeon EX\n\nEspeon EX\n\nVaporeon EX\n\nGlaceon EX\n\nFlareon EX\n\nJolteon EX\n\nEevee EX Roaring Moon Ex\n\nCeruledge EX\n\nPikachu EX\n\nTerapagos EX\n\nSylveon Master Ball Holo\n\nSAR\n\nEeveelutions\n\nFull odds God pack\n\nDemi God Pack\n\nMaster Ball God Pack\n\nBoosterpacks\n\nBoosterpakker\n\nGod Packs \n\nGod Pack\n\nMega Evolution\n\nScarlet & Violet\n\nSword & Shield\n\nSealed",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "470002700",
+      "heading": "Pokemon Mega Evolution Pitch Black booster bundle",
+      "price_label": "789 kr",
+      "location": "Ulset",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470002700"
+    },
+    {
+      "item_id": "477071403",
+      "heading": "Pokemon Ascended Heroes Booster Bundle",
+      "price_label": "1 400 kr",
+      "location": "Nesøya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477071403"
+    },
+    {
+      "item_id": "480131034",
+      "heading": "🎄 CHRISTMAS SPECIAL – KUN 25 TILGJENGELIG! 🎄",
+      "price_label": "920 kr",
+      "location": "Nodeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480131034"
+    },
+    {
+      "item_id": "477638326",
+      "heading": "Pokemon Ascended Heroes Booster Bundle",
+      "price_label": "1 150 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477638326"
+    },
+    {
+      "item_id": "477725787",
+      "heading": "Sealed Pokemon Ascended Heroes Booster Bundle",
+      "price_label": "1 199 kr",
+      "location": "Bekkestua",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477725787"
+    },
+    {
+      "item_id": "480304904",
+      "heading": "Ascended Heroes Booster Bundle",
+      "price_label": "1 150 kr",
+      "location": "Tårnåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480304904"
+    },
+    {
+      "item_id": "480409522",
+      "heading": "Pokemon kort Ascended heroes Booster bundles !",
+      "price_label": "999 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480409522"
+    },
+    {
+      "item_id": "479924792",
+      "heading": "Pokémon TCG Black Bolt Booster Bundle",
+      "price_label": "1 000 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479924792"
+    },
+    {
+      "item_id": "461639237",
+      "heading": "Pokémon Ascended Heroes Booster Bundle",
+      "price_label": "1 200 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/461639237"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "043e4755-796d-4ed8-b100-090c7942c633",
+      "item_ref": "480282306",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480282306/043e4755-796d-4ed8-b100-090c7942c633"
+    },
+    {
+      "uuid": "c918b27a-ad94-45b6-91e3-c7d36a10dea8",
+      "item_ref": "480282306",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480282306/c918b27a-ad94-45b6-91e3-c7d36a10dea8"
+    },
+    {
+      "uuid": "466e1cad-6fc4-4533-a775-3b45948e253a",
+      "item_ref": "480282306",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480282306/466e1cad-6fc4-4533-a775-3b45948e253a"
+    },
+    {
+      "uuid": "7ea36776-66f0-4ffd-99a0-bad4ed608814",
+      "item_ref": "480282306",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480282306/7ea36776-66f0-4ffd-99a0-bad4ed608814"
+    }
+  ],
+  "raw_capture": "480282306_black-bolt-og-white-flare-booster-bundles/raw/480282306_2026-11-08-224628.html"
+}

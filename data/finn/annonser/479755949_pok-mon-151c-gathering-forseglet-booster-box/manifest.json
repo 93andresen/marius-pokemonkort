@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479755949",
+  "url": "https://www.finn.no/recommerce/forsale/item/479755949",
+  "slug": "479755949_pok-mon-151c-gathering-forseglet-booster-box",
+  "first_seen": "2026-11-08T22:47:26Z",
+  "last_seen": "2026-11-08T22:47:26Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon 151C Gathering – Forseglet booster box",
+    "status": "Aktiv",
+    "price_nok": 790,
+    "trade_type": null,
+    "location_text": "7053 Ranheim",
+    "postal_code": "7053",
+    "last_modified": "2026-11-01T14:52:00",
+    "gallery_count": 7,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:26Z",
+      "raw": "479755949_pok-mon-151c-gathering-forseglet-booster-box/raw/479755949_2026-11-08-224726.html",
+      "parse_quality": "full",
+      "price_nok": 790,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479684014",
+      "heading": "Pokémon 151C Surprise – Forseglet booster box",
+      "price_label": "890 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479684014"
+    },
+    {
+      "item_id": "479884595",
+      "heading": "Pokémon 151 Gathering Vol. 4 booster – Pikachu",
+      "price_label": "65 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479884595"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480013393",
+      "heading": "Pokémon 151 Surprise Vol. 3 booster – Gengar/Pikachu",
+      "price_label": "75 kr",
+      "location": "Charlottenlund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480013393"
+    },
+    {
+      "item_id": "476497976",
+      "heading": "Pokémon 151 SV2a Japansk Booster Box – Sealed",
+      "price_label": "3 450 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476497976"
+    },
+    {
+      "item_id": "477552804",
+      "heading": "Pokemon Chinese Collect 151 Gathering, Journey og Hope",
+      "price_label": "2 700 kr",
+      "location": "Røros",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477552804"
+    },
+    {
+      "item_id": "475809784",
+      "heading": "151 booster bundle",
+      "price_label": "2 150 kr",
+      "location": "Ranheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475809784"
+    },
+    {
+      "item_id": "473921546",
+      "heading": "(Sealed) Pokemon Collect 151 Journey Kinesisk Booster Box",
+      "price_label": "799 kr",
+      "location": "Stavern",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473921546"
+    },
+    {
+      "item_id": "442485742",
+      "heading": "Kinesisk Pokemon Collect 151 \"Gathering\" Thick booster boks",
+      "price_label": "1 700 kr",
+      "location": "Lillestrøm",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/442485742"
+    }
+  ]
+}

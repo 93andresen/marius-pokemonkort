@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:26Z",
+  "contact_button": {
+    "adId": "480080856",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480080856",
+  "kode_candidates": {
+    "canonical": "480080856",
+    "object_info": "480080856",
+    "maplink": "480080856",
+    "contact_button": "480080856",
+    "hint": "480080856"
+  },
+  "ld_json": {
+    "sku": "480080856",
+    "name": "Aroma Lady #86 Japanese Eevee Heroes",
+    "url": "https://www.finn.no/recommerce/forsale/item/480080856",
+    "item_condition": null,
+    "price_raw": "130",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 130
+  },
+  "title_source": "dom",
+  "title": "Aroma Lady #86 Japanese Eevee Heroes",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 130,
+  "price_nok_source": "ld+json",
+  "location_text": "2833 Raufoss",
+  "lat": 60.71419633915701,
+  "lon": 10.596709194105577,
+  "postal_code": "2833",
+  "last_modified_raw": "2.11.2026 kl. 04:49",
+  "last_modified": "2026-11-02T04:49:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "a437c7a9-60a4-4a39-8dd6-15376c520903",
+    "c5260727-45a5-41f1-b389-82ff34edd85a"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Aroma Lady 86 Pokemon kort fra Japanese Eevee Heroes.\n\n \n\n📩Kan sendes (kjøper betaler frakt) eller hentes.\n\n📨Lite brev, 31kr - Stort brev, 49kr.\n\n📦 Norgespakke, 80kr - Postnord 79kr.\n\n📫 Fiks ferdig.\n\n👀 Se mine andre annonser for kombinert frakt!",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479770137",
+      "heading": "Pokémon Lady samlekort",
+      "price_label": "150 kr",
+      "location": "Reinsvoll",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479770137"
+    },
+    {
+      "item_id": "477647772",
+      "heading": "Eevee #173 Promo",
+      "price_label": "250 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477647772"
+    },
+    {
+      "item_id": "480194872",
+      "heading": "Pokémon Eevee Heroes boosterboks",
+      "price_label": "1 kr",
+      "location": "Ålen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480194872"
+    },
+    {
+      "item_id": "469619824",
+      "heading": "Aroma Lady Full Art 96/68 - Japanese Eevee Heroes",
+      "price_label": "100 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469619824"
+    },
+    {
+      "item_id": "480567690",
+      "heading": "Eevee #173 Promo",
+      "price_label": "199 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480567690"
+    },
+    {
+      "item_id": "475263651",
+      "heading": "Team Rocket's Wobbuffet #103 Japanese Glory of Team Rocket",
+      "price_label": "65 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475263651"
+    },
+    {
+      "item_id": "476739222",
+      "heading": "Mint Eevee ex (JP) #223 SAR SV8A Terastal Festival (2024)",
+      "price_label": "500 kr",
+      "location": "Skjåk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476739222"
+    },
+    {
+      "item_id": "480433722",
+      "heading": "Jasmine's Gaze #233 Surging Sparks",
+      "price_label": "30 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480433722"
+    },
+    {
+      "item_id": "479308650",
+      "heading": "Zinnia's Trust #102 Japanese Storm Emeralda",
+      "price_label": "110 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479308650"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "a437c7a9-60a4-4a39-8dd6-15376c520903",
+      "item_ref": "480080856",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480080856/a437c7a9-60a4-4a39-8dd6-15376c520903"
+    },
+    {
+      "uuid": "c5260727-45a5-41f1-b389-82ff34edd85a",
+      "item_ref": "480080856",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480080856/c5260727-45a5-41f1-b389-82ff34edd85a"
+    }
+  ],
+  "raw_capture": "480080856_aroma-lady-86-japanese-eevee-heroes/raw/480080856_2026-11-08-224626.html"
+}

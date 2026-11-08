@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:03Z",
+  "contact_button": {
+    "adId": "480587151",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480587151",
+  "kode_candidates": {
+    "canonical": "480587151",
+    "object_info": "480587151",
+    "maplink": "480587151",
+    "contact_button": "480587151",
+    "hint": "480587151"
+  },
+  "ld_json": {
+    "sku": "480587151",
+    "name": "Japansk Nihil Zero Booster Box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480587151",
+    "item_condition": "NewCondition",
+    "price_raw": "990",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 990
+  },
+  "title_source": "dom",
+  "title": "Japansk Nihil Zero Booster Box",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 990,
+  "price_nok_source": "ld+json",
+  "location_text": "4100 Jørpeland",
+  "lat": 59.02250428653369,
+  "lon": 6.0408088236914965,
+  "postal_code": null,
+  "last_modified_raw": "8.11.2026 kl. 23:09",
+  "last_modified": "2026-11-08T23:09:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "fb44560a-c881-427f-8508-64c4e0d4ed6a"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Pokémon TCG Nihil Zero Booster Box i japansk utgave. En boks med boosterpakker for deg som samler japanske Pokémon-kort.\n\n• 1 Nihil Zero Booster Box\n• Japanske Pokémon-kort\n\nPris: 990 kr per boks.\n\nProduktet sendes uåpnet. Kortinnholdet i boosterpakkene er tilfeldig; ingen bestemte kort eller treff garanteres. Bildene er produktbilder.\n\nSelges av Cardero, norsk nettbutikk for Pokémon-kort, TCG og samlertilbehør. Se produktlenken for bestilling og tilgjengelige fraktalternativer. Du kan også sende oss en melding på FINN.\n\nTags:\nPokemon, Pokémon, Pokemonkort, Pokémon TCG, Nihil Zero, Booster Box, boosterboks, booster display, japanske Pokemonkort, japansk Pokemon, Japanese Pokemon, samlekort, sealed Pokemon, forseglet",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480587145",
+      "heading": "Japansk Mega Symphonia - Booster Box",
+      "price_label": "1 299 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587145"
+    },
+    {
+      "item_id": "476532260",
+      "heading": "Mega Symphonia Booster Box",
+      "price_label": "749 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476532260"
+    },
+    {
+      "item_id": "479670678",
+      "heading": "💎 469KR – MYSTERY BOOSTER MINI-BOX+ 💎",
+      "price_label": "469 kr",
+      "location": "Nodeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479670678"
+    },
+    {
+      "item_id": "480193149",
+      "heading": "Crimson Haze Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 100 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480193149"
+    },
+    {
+      "item_id": "457927024",
+      "heading": "Pokémon Nihil Zero japansk box (BULK) *GRATIS FRAKT*",
+      "price_label": "199 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457927024"
+    },
+    {
+      "item_id": "475875982",
+      "heading": "White flare japansk booster box sealed",
+      "price_label": "1 890 kr",
+      "location": "Bjørndalstræ",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475875982"
+    },
+    {
+      "item_id": "480396500",
+      "heading": "Pokémon Mega Brave Japansk Boosterboks",
+      "price_label": "950 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480396500"
+    },
+    {
+      "item_id": "480587161",
+      "heading": "Japansk Mega Dream ex - Booster Box",
+      "price_label": "1 299 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587161"
+    },
+    {
+      "item_id": "475876106",
+      "heading": "Japansk black bolt sealed booster box",
+      "price_label": "1 890 kr",
+      "location": "Bjørndalstræ",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475876106"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "fb44560a-c881-427f-8508-64c4e0d4ed6a",
+      "item_ref": "480587151",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480587151/fb44560a-c881-427f-8508-64c4e0d4ed6a"
+    }
+  ],
+  "raw_capture": "480587151_japansk-nihil-zero-booster-box/raw/480587151_2026-11-08-224503.html"
+}

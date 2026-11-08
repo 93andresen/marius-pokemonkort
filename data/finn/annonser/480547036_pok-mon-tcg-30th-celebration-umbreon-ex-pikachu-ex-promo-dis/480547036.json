@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:00Z",
+  "contact_button": {
+    "adId": "480547036",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480547036",
+  "kode_candidates": {
+    "canonical": "480547036",
+    "object_info": "480547036",
+    "maplink": "480547036",
+    "contact_button": "480547036",
+    "hint": "480547036"
+  },
+  "ld_json": {
+    "sku": "480547036",
+    "name": "Pokémon TCG: 30th Celebration – Umbreon ex & Pikachu ex Promo + D",
+    "url": "https://www.finn.no/recommerce/forsale/item/480547036",
+    "item_condition": "NewCondition",
+    "price_raw": "2000",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 2000
+  },
+  "title_source": "dom",
+  "title": "Pokémon TCG: 30th Celebration – Umbreon ex & Pikachu ex Promo + Display",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 2000,
+  "price_nok_source": "ld+json",
+  "location_text": "1511 Moss",
+  "lat": 59.437699315887514,
+  "lon": 10.639793666097573,
+  "postal_code": "1511",
+  "last_modified_raw": "8.11.2026 kl. 19:42",
+  "last_modified": "2026-11-08T19:42:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "7bf85590-2178-42e6-86c2-9f77d52085dd",
+    "142b1f30-9cec-45c3-bd15-a599f24232c5"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger promo kortene til UPC 30th anniversary (night). De er uåpnet og fortsatt i originalplasten.\n\n \n\nTags:\n\n \n\nPokemon TCG 2026, Pokemon 30th Anniversary 2026, Pokemon 30 års jubileum, Pokemon jubileum, Pokemon anniversary, Pokemon 30 year celebration, Pokemon vintage, Vintage Pokemon, Modern Pokemon, Pokemon collector, Pokemon collecting, Pokemon investor, Pokemon market, Pokemon rare cards, Rare Pokemon Cards, Collectors Card, Trading Card Collection, TCG Collection, Pokemon binder, Pokemon master set, Pokemon sealed, Sealed Pokemon, Pokemon booster, Booster Box, Elite Trainer Box, ETB, Pokemon promo, Promo Card, Black Star Promo, Holo Rare, Double Rare, Ultra Rare, Hyper Rare, Illustration Rare, Alternate Art, Alt Art, Rainbow Rare, Gold Card, Secret Rare, Special Art Rare, SAR, AR, SR, UR, HR, RR, EX Card, Mega EX, Mega Evolution, Pokemon V, Pokemon VMAX, Pokemon VSTAR, Pokemon GX, Pokemon LEGEND, First Edition, Shadowless, Japanese Pokemon, English Pokemon, Chinese Pokemon, Korean Pokemon, Pokemon Japan, Pokemon Korea, Pokemon China, PSA Graded, PSA 9, PSA 10, CGC Graded, CGC Pristine 10, BGS Graded, Beckett Grading, ACE Grading, Graded Cards, Graded Pokemon Cards, Pokemon Slabs, Pokemon Slab, Pokemon Singles, Pokemon Card Lot, Pokemon Bulk, Pokemon Cards for Sale, Pokemon Trading Cards, Pokemon TCG Cards, Pikachu Card, Charizard Card, Mew Card, Mewtwo Card, Rayquaza Card, Gengar Card, Umbreon Card, Eevee Card, Lugia Card, Dragonite Card, Greninja Card, Lucario Card, Collectible Cards, Card Collection, Hobby Collection, Nintendo, Game Freak, The Pokemon Company",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480473056",
+      "heading": "Pokemon 30th anniversary pakker",
+      "price_label": "1 299 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480473056"
+    },
+    {
+      "item_id": "480479469",
+      "heading": "Pokemon 30th Celebration UPC - Umbreon & Pikachu Promokort",
+      "price_label": "2 100 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480479469"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480000926",
+      "heading": "Pokemon 30th Anniversary Celebration Premium Deck Set Espeon EX & Umbreon EX",
+      "price_label": "3 000 kr",
+      "location": "Langhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480000926"
+    },
+    {
+      "item_id": "480574025",
+      "heading": "Pokémon 30th Celebration Ultra-Premium Collection DAY – UÅPNET",
+      "price_label": "4 500 kr",
+      "location": "Kråkerøy",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480574025"
+    },
+    {
+      "item_id": "480460380",
+      "heading": "Pokémon TCG 30th Celebration – Ultra-Premium Collection Night (Umbreon)",
+      "price_label": "4 699 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480460380"
+    },
+    {
+      "item_id": "478252065",
+      "heading": "Pokemon 30th Anniversary Celebrations eksklusiv box Espeon Umbreon card kinesisk",
+      "price_label": "2 700 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478252065"
+    },
+    {
+      "item_id": "478348891",
+      "heading": "Pokémon 30th Anniversary Espeon & Umbreon - Japansk",
+      "price_label": "1 800 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478348891"
+    },
+    {
+      "item_id": "480404769",
+      "heading": "Pokemon 30th Celebration Ultra Premium Collection - Day",
+      "price_label": "5 000 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480404769"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "7bf85590-2178-42e6-86c2-9f77d52085dd",
+      "item_ref": "480547036",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480547036/7bf85590-2178-42e6-86c2-9f77d52085dd"
+    },
+    {
+      "uuid": "142b1f30-9cec-45c3-bd15-a599f24232c5",
+      "item_ref": "480547036",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480547036/142b1f30-9cec-45c3-bd15-a599f24232c5"
+    }
+  ],
+  "raw_capture": "480547036_pok-mon-tcg-30th-celebration-umbreon-ex-pikachu-ex-promo-dis/raw/480547036_2026-11-08-224600.html"
+}

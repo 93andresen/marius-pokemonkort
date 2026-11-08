@@ -1,0 +1,169 @@
+{
+  "finn_kode": "442598666",
+  "url": "https://www.finn.no/recommerce/forsale/item/442598666",
+  "slug": "442598666_japanske-pok-mon-kort-selges",
+  "first_seen": "2026-11-08T22:46:51Z",
+  "last_seen": "2026-11-08T22:46:51Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Japanske Pokémon kort selges",
+    "status": "Aktiv",
+    "price_nok": 500,
+    "trade_type": null,
+    "location_text": "4050 Sola",
+    "postal_code": "4050",
+    "last_modified": "2026-08-22T14:27:00",
+    "gallery_count": 6,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:51Z",
+      "raw": "442598666_japanske-pok-mon-kort-selges/raw/442598666_2026-11-08-224651.html",
+      "parse_quality": "full",
+      "price_nok": 500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "463390163",
+      "heading": "Pokemon trainer kort selges",
+      "price_label": null,
+      "location": "Sola",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463390163"
+    },
+    {
+      "item_id": "478407094",
+      "heading": "Pokémon kort Lillie’s Determination JP",
+      "price_label": "650 kr",
+      "location": "Hafrsfjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478407094"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "480380118",
+      "heading": "Pokemon Kort SIR Dendra",
+      "price_label": "150 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480380118"
+    },
+    {
+      "item_id": "480577789",
+      "heading": "Lugia GX 072/095 – Japansk RR – Super-Burst Impact 2018 Pokémon",
+      "price_label": "199 kr",
+      "location": "Sola",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480577789"
+    },
+    {
+      "item_id": "470247967",
+      "heading": "Pokémon kort Amarys supporter trainer",
+      "price_label": "30 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470247967"
+    },
+    {
+      "item_id": "470923892",
+      "heading": "Pokemon kort gold/rainbow/fullart/retro",
+      "price_label": "100 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470923892"
+    },
+    {
+      "item_id": "479892074",
+      "heading": "Irida",
+      "price_label": "100 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479892074"
+    },
+    {
+      "item_id": "463949753",
+      "heading": "Pokemon Ascended Heroes - Reverse Holo, Holo og Normal kort",
+      "price_label": null,
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/463949753"
+    }
+  ]
+}

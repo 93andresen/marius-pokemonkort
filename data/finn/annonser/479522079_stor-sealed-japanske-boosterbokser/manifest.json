@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479522079",
+  "url": "https://www.finn.no/recommerce/forsale/item/479522079",
+  "slug": "479522079_stor-sealed-japanske-boosterbokser",
+  "first_seen": "2026-11-08T22:47:24Z",
+  "last_seen": "2026-11-08T22:47:24Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Stor sealed japanske boosterbokser",
+    "status": "Aktiv",
+    "price_nok": 37500,
+    "trade_type": null,
+    "location_text": "3158 Andebu",
+    "postal_code": "3158",
+    "last_modified": "2026-10-30T18:33:00",
+    "gallery_count": 10,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:24Z",
+      "raw": "479522079_stor-sealed-japanske-boosterbokser/raw/479522079_2026-11-08-224724.html",
+      "parse_quality": "full",
+      "price_nok": 37500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479288337",
+      "heading": "Japanske boosterbokser",
+      "price_label": "1 500 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479288337"
+    },
+    {
+      "item_id": "479031175",
+      "heading": "Pokemon booster bokser selges",
+      "price_label": "13 000 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479031175"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "431428064",
+      "heading": "Pokemon Mega Evolution Booster Boks Case",
+      "price_label": "23 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/431428064"
+    },
+    {
+      "item_id": "462523691",
+      "heading": "151 Japanese booster display case (12 bokser)",
+      "price_label": "45 000 kr",
+      "location": "Tverlandet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/462523691"
+    },
+    {
+      "item_id": "479129746",
+      "heading": "Div. uåpnede pokemon booster bokser.",
+      "price_label": "19 000 kr",
+      "location": "Tønsberg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479129746"
+    },
+    {
+      "item_id": "473720042",
+      "heading": "Pokémon Booster Boxes – Japansk / Sealed",
+      "price_label": "10 000 kr",
+      "location": "Trondheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473720042"
+    },
+    {
+      "item_id": "469939634",
+      "heading": "Abyss Eye Booster Box (japansk)",
+      "price_label": "1 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469939634"
+    },
+    {
+      "item_id": "477783019",
+      "heading": "Pokemon Booster Bokser",
+      "price_label": "1 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477783019"
+    }
+  ]
+}

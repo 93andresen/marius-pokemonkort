@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:28Z",
+  "contact_button": {
+    "adId": "472537578",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "472537578",
+  "kode_candidates": {
+    "canonical": "472537578",
+    "object_info": "472537578",
+    "maplink": "472537578",
+    "contact_button": "472537578",
+    "hint": "472537578"
+  },
+  "ld_json": {
+    "sku": "472537578",
+    "name": "Sealed Chaos rising booster box",
+    "url": "https://www.finn.no/recommerce/forsale/item/472537578",
+    "item_condition": "NewCondition",
+    "price_raw": "3199",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 3199
+  },
+  "title_source": "dom",
+  "title": "Sealed Chaos rising booster box",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 3199,
+  "price_nok_source": "ld+json",
+  "location_text": "3085 Holmestrand",
+  "lat": 59.49219692523264,
+  "lon": 10.300201443477203,
+  "postal_code": "3085",
+  "last_modified_raw": "29.9.2026 kl. 20:59",
+  "last_modified": "2026-09-29T20:59:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "66b7c489-523e-45e3-950e-d4914f115796",
+    "1a82a71d-8a6a-4423-9a2e-626ddccae91b",
+    "e4b586d1-8a72-4cfc-9ae7-be4102d50f3e",
+    "5468381b-caf6-45c7-b1b3-334da8788858"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Sealed pokemon chaos rising booster box selges\n\n \n\n \n\n \n\n \n\n \n\nSøkeord: Pokemon kort, Pokémon kort, pokemonkort, pokemon bunker, pokemon bulk, pokemon sealed, vintage kort, Pokémon EX, Pokémon GX, Full art, Pokémon starterpakke, pokemon pakke, pokemon pakker, pokemon vintage, pokemon samling, pokeman, pokemon packs, Dragonite Fossil Unlimited, Pokemon kort, Gamle pokemonkort, Pokémon, Pokemon-kort, Holo, Reverse holo, Charizard, Venusaur, Blastoise, Alt art, Alternate art, Evolving skies, Base set, Base set 2, Team Rocket, Fossil, Jungle, Neo genesis, Legendary collection, Neo Revelation, Neo Discovery, Neo Destiny, Gym Challange, Gym Heroes, E-series, 1st edition, First edition, Shadowless, EX Sandstorm, Ex Fire, Red & Leaf Green, Ex Dragon, Ex Magma vs Team Aqua, Ex Hidden Legends, Ex Crystal Guardians, Ex Power Keepers, Ex delta species, Ex Legend maker, XY Evolutions, Wizards of the Coast, PSA TCG WOTC Black star promo, Sjelden, Verdifull, Sword & Shield, Expedition, base set, Aquapolis, Skyridge, Ex Ruby & Sapphire, Anniversary, XY-Promo Gx V Vmax XY B&W Sun & Moon, Nintendo, Arita EX, Lv.X, Barn, Leker, Verdifullt, Generations, Pokemon, Mew, Legend maker, Regirock ex, Ex emerald, Superpakker, vmax, hits, samling, rare, holo, reverse, mysterypacks, pakker, dragonite, vstar, giratina, charizard, pikachu, pokemonkort, pakker, kort, samlekort, 151, moderne, base set, vintage, samling, gave, tilbud, pakker, mystery pakker, vintage",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "465632752",
+      "heading": "Pokemon Chaos Rising Booster Box",
+      "price_label": "3 499 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465632752"
+    },
+    {
+      "item_id": "480406095",
+      "heading": "Chaos Rising Booster Box",
+      "price_label": "2 699 kr",
+      "location": "Stjørdal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480406095"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479129882",
+      "heading": "Pokemon Chaos Rising Booster Box",
+      "price_label": "2 500 kr",
+      "location": "Langesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479129882"
+    },
+    {
+      "item_id": "468682623",
+      "heading": "🔥 Mega Evolution Chaos Rising  sealed sleeved booster packs🔥",
+      "price_label": "2 800 kr",
+      "location": "Greåker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468682623"
+    },
+    {
+      "item_id": "479211265",
+      "heading": "Pokemon Chaos Rising booster boks",
+      "price_label": "2 890 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479211265"
+    },
+    {
+      "item_id": "467123832",
+      "heading": "Pokemon TCG Chaos Rising Booster Boks",
+      "price_label": "2 999 kr",
+      "location": "Nesbru",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467123832"
+    },
+    {
+      "item_id": "464448881",
+      "heading": "Pokémon TCG Chaos Rising booster box SEALED BOX",
+      "price_label": "2 900 kr",
+      "location": "Nesoddtangen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464448881"
+    },
+    {
+      "item_id": "465018630",
+      "heading": "Pokémon Chaos Rising Booster Box",
+      "price_label": "3 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465018630"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "66b7c489-523e-45e3-950e-d4914f115796",
+      "item_ref": "472537578",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/472537578/66b7c489-523e-45e3-950e-d4914f115796"
+    },
+    {
+      "uuid": "1a82a71d-8a6a-4423-9a2e-626ddccae91b",
+      "item_ref": "472537578",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/472537578/1a82a71d-8a6a-4423-9a2e-626ddccae91b"
+    },
+    {
+      "uuid": "e4b586d1-8a72-4cfc-9ae7-be4102d50f3e",
+      "item_ref": "472537578",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/472537578/e4b586d1-8a72-4cfc-9ae7-be4102d50f3e"
+    },
+    {
+      "uuid": "5468381b-caf6-45c7-b1b3-334da8788858",
+      "item_ref": "472537578",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/472537578/5468381b-caf6-45c7-b1b3-334da8788858"
+    }
+  ],
+  "raw_capture": "472537578_sealed-chaos-rising-booster-box/raw/472537578_2026-11-08-224728.html"
+}

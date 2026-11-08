@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480303643",
+  "url": "https://www.finn.no/recommerce/forsale/item/480303643",
+  "slug": "480303643_pokemon-vstar-universe-s12a-samling-14x-v-vstar-ar",
+  "first_seen": "2026-11-08T22:46:44Z",
+  "last_seen": "2026-11-08T22:46:44Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon VSTAR Universe (s12a) samling – 14x V / VSTAR / AR",
+    "status": "Aktiv",
+    "price_nok": 250,
+    "trade_type": null,
+    "location_text": "1415 Oppegård",
+    "postal_code": "1415",
+    "last_modified": "2026-11-05T09:38:00",
+    "gallery_count": 4,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:44Z",
+      "raw": "480303643_pokemon-vstar-universe-s12a-samling-14x-v-vstar-ar/raw/480303643_2026-11-08-224644.html",
+      "parse_quality": "full",
+      "price_nok": 250,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "476900472",
+      "heading": "Pokemon kort Vstar samling 7 kort",
+      "price_label": "123 kr",
+      "location": "Manstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476900472"
+    },
+    {
+      "item_id": "468917851",
+      "heading": "Pokemon kort V / VSTAR samlekort pakke",
+      "price_label": "180 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468917851"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "479256928",
+      "heading": "Pokemon kort samling",
+      "price_label": "500 kr",
+      "location": "Stord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479256928"
+    },
+    {
+      "item_id": "473259882",
+      "heading": "Pokemonkort alle Holo kort EX, full art, V, shiny, bulk rares",
+      "price_label": "400 kr",
+      "location": "Langhus",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473259882"
+    },
+    {
+      "item_id": "478883058",
+      "heading": "Pokémon-kort VSTAR – 7 stk. – NM/M – separat eller samlet",
+      "price_label": "333 kr",
+      "location": "Steinsland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478883058"
+    },
+    {
+      "item_id": "479680785",
+      "heading": "Pokemon V Star kort",
+      "price_label": "1 kr",
+      "location": "Søreidgrend",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479680785"
+    },
+    {
+      "item_id": "480309103",
+      "heading": "7 Pokemon  JTG Ex kort og 7 MEG EX kort selges samlet",
+      "price_label": "250 kr",
+      "location": "Oppegård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480309103"
+    },
+    {
+      "item_id": "468915832",
+      "heading": "Pokemon kort v /VSTAR – lot med 5 kort",
+      "price_label": null,
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468915832"
+    }
+  ]
+}

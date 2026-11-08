@@ -1,0 +1,205 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:10Z",
+  "contact_button": {
+    "adId": "480361020",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480361020",
+  "kode_candidates": {
+    "canonical": "480361020",
+    "object_info": "480361020",
+    "maplink": "480361020",
+    "contact_button": "480361020",
+    "hint": "480361020"
+  },
+  "ld_json": {
+    "sku": "480361020",
+    "name": "Pokémon Pikachu V 001/015 Japansk 25th Anniversary Golden Box – P",
+    "url": "https://www.finn.no/recommerce/forsale/item/480361020",
+    "item_condition": "NewCondition",
+    "price_raw": "4550",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 4550
+  },
+  "title_source": "dom",
+  "title": "Pokémon Pikachu V 001/015 Japansk 25th Anniversary Golden Box – PSA 9",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 4550,
+  "price_nok_source": "ld+json",
+  "location_text": "4624 Kristiansand S",
+  "lat": 58.10347877863439,
+  "lon": 7.949700724332388,
+  "postal_code": "4624",
+  "last_modified_raw": "6.11.2026 kl. 00:32",
+  "last_modified": "2026-11-06T00:32:00",
+  "gallery_count": 15,
+  "image_uuids": [
+    "18d8e410-fa45-4961-bd99-ca27425bfa56"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Det japanske promokortet Pikachu V (001/015) fra den eksklusive 25th Anniversary Golden Box. Kortet er gradert til PSA 9 (Mint) og er et flott samleobjekt fra 25-årsjubileet.\n\n \n\nKORTDETALJER\n\n• Kort: Pikachu V\n\n• Nummer: 001/015 (japansk, 25th Anniversary Golden Box)\n\n• Gradering: PSA 9 (Mint)\n\n• Cert-nummer: 73720119 (kan verifiseres hos PSA)\n\n \n\nKJØP OG LEVERING\n\n• Sendes med Fiks ferdig (trygg betaling og sporbar frakt) eller hentes i Kristiansand\n\n• Betaling: Fiks ferdig, Vipps, bankoverføring eller krypto\n\n \n\nBYTTE\n\nJeg tar gjerne delvis bytte mot raw hits (ugraderte chase-kort, SIR, alt arts o.l.). Byttekort regnes til 70–85 % av prisen på pricecharting.com, avhengig av tilstand. Send bilder av for- og bakside.\n\n \n\nSpørsmål eller bud? Send gjerne en melding.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480361037",
+      "heading": "Pokémon Pikachu Gullkort #58 Celebrations Ultra-Premium (metall) – PSA 9",
+      "price_label": "3 650 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361037"
+    },
+    {
+      "item_id": "479846964",
+      "heading": "Pikachu #277 PSA Mint 9 ASC EN",
+      "price_label": "3 499 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479846964"
+    },
+    {
+      "item_id": "480066386",
+      "heading": "2015 Pokemon XY Full Art/ SHAYMIN EX i fra Roaring Skies PSA 9",
+      "price_label": "4 500 kr",
+      "location": "Rykkinn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480066386"
+    },
+    {
+      "item_id": "477611335",
+      "heading": "Pokémon Birthday Pikachu #24 – PSA 10 GEM MINT – 2021 Celebrations",
+      "price_label": "2 490 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477611335"
+    },
+    {
+      "item_id": "474959365",
+      "heading": "Pikachu #3 Pokemon Japanese 25th Anniversary Golden Box",
+      "price_label": "1 100 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474959365"
+    },
+    {
+      "item_id": "472589389",
+      "heading": "Pokémon Pikachu 25th Anniversary – alle 4 kortene PSA 10",
+      "price_label": "7 000 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/472589389"
+    },
+    {
+      "item_id": "474958328",
+      "heading": "Pikachu VMAX #6 Pokemon Japanese 25th Anniversary Golden Box",
+      "price_label": "1 200 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474958328"
+    },
+    {
+      "item_id": "460916529",
+      "heading": "Pokémon Pikachu SV2a JP PSA9",
+      "price_label": "2 750 kr",
+      "location": "Sørum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460916529"
+    },
+    {
+      "item_id": "477952385",
+      "heading": "Birthday Pikachu 25th JPN #7 PSA10",
+      "price_label": "6 950 kr",
+      "location": "Sævelandsvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477952385"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [
+    "gallery_count (15) != image uuids (1)"
+  ],
+  "image_candidates": [
+    {
+      "uuid": "18d8e410-fa45-4961-bd99-ca27425bfa56",
+      "item_ref": "480361020",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480361020/18d8e410-fa45-4961-bd99-ca27425bfa56"
+    }
+  ],
+  "raw_capture": "480361020_pok-mon-pikachu-v-001-015-japansk-25th-anniversary-golden-bo/raw/480361020_2026-11-08-224710.html"
+}

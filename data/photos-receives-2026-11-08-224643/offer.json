@@ -1,0 +1,100 @@
+{
+  "schema": "japanese-sealed-offer/1",
+  "extracted_at": "2026-11-08-215949",
+  "extracted_by": "vision transcription of 3 Signal screenshots (no OCR tool used)",
+  "source": {
+    "kind": "signal-chat-screenshot",
+    "sender_display_name": "Kaishi Kakiuc...",
+    "folder": "data/photos-receives-2026-11-08-224643",
+    "images": [
+      {
+        "file": "signal-2026-11-08-22-42-01-555.jpg",
+        "bytes": 149504,
+        "content_order": 1,
+        "covers_items": "1-11",
+        "note": "Top of the list. Tail of this screenshot is followed by a Signal system message ('Kaishi's birthday is in 3 days') and two replies, so this may be the bottom of the visible conversation rather than the bottom of the list."
+      },
+      {
+        "file": "signal-2026-11-08-22-42-10-312.jpg",
+        "bytes": 149504,
+        "content_order": 2,
+        "covers_items": "12-23 plus one cropped line",
+        "note": "Last visible line is cropped mid-entry; it continues into the first line of the third screenshot."
+      },
+      {
+        "file": "signal-2026-11-08-22-42-06-105.jpg",
+        "bytes": 160768,
+        "content_order": 3,
+        "covers_items": "24-37",
+        "note": "First visible line is the cropped continuation of the second screenshot's last line. Last visible line (Clay Burst) is cropped before its price."
+      }
+    ],
+    "ordering_caveat": "Content order (1 -> 2 -> 3) was established by line continuity, NOT by filename timestamp. Filename timestamps run 22-42-01, 22-42-06, 22-42-10, so the screenshots were not taken in scroll order."
+  },
+  "product": {
+    "type": "sealed booster box",
+    "language": "Japanese",
+    "currency": "JPY",
+    "price_basis": "per box, as quoted by the sender"
+  },
+  "items": [
+    { "i": 1,  "set_name": "Snow Hazard",                    "qty": 100, "unit_price_jpy": 12000,  "line_total_jpy": 1200000, "source_image": 1, "name_confidence": "high" },
+    { "i": 2,  "set_name": "Violet ex",                      "qty": 60,  "unit_price_jpy": 11800,  "line_total_jpy": 708000,  "source_image": 1, "name_confidence": "high" },
+    { "i": 3,  "set_name": "VSTAR Universe",                 "qty": 20,  "unit_price_jpy": 29200,  "line_total_jpy": 584000,  "source_image": 1, "name_confidence": "high" },
+    { "i": 4,  "set_name": "Paradigm Trigger",               "qty": 30,  "unit_price_jpy": 22500,  "line_total_jpy": 675000,  "source_image": 1, "name_confidence": "high" },
+    { "i": 5,  "set_name": "Lost Abyss",                     "qty": 20,  "unit_price_jpy": 54000,  "line_total_jpy": 1080000, "source_image": 1, "name_confidence": "high" },
+    { "i": 6,  "set_name": "Battle Region",                  "qty": 10,  "unit_price_jpy": 14500,  "line_total_jpy": 145000,  "source_image": 1, "name_confidence": "high" },
+    { "i": 7,  "set_name": "VMAX Climax",                    "qty": 10,  "unit_price_jpy": 32000,  "line_total_jpy": 320000,  "source_image": 1, "name_confidence": "high" },
+    { "i": 8,  "set_name": "25th Anniversary Collection",    "qty": 30,  "unit_price_jpy": 64000,  "line_total_jpy": 1920000, "source_image": 1, "name_confidence": "high" },
+    { "i": 9,  "set_name": "Eevee Heroes",                   "qty": 20,  "unit_price_jpy": 130000, "line_total_jpy": 2600000, "source_image": 1, "name_confidence": "high" },
+    { "i": 10, "set_name": "Jet-Black Spirit",               "qty": 5,   "unit_price_jpy": 22500,  "line_total_jpy": 112500,  "source_image": 1, "name_confidence": "high" },
+    { "i": 11, "set_name": "Silver Lance",                   "qty": 5,   "unit_price_jpy": 19000,  "line_total_jpy": 95000,   "source_image": 1, "name_confidence": "high" },
+
+    { "i": 12, "set_name": "30th CELEBRATION 9-Item Set",    "qty": 50,  "unit_price_jpy": 18500,  "line_total_jpy": 925000,  "source_image": 2, "name_confidence": "high" },
+    { "i": 13, "set_name": "30th CELEBRATION",               "qty": 200, "unit_price_jpy": 25500,  "line_total_jpy": 5100000, "source_image": 2, "name_confidence": "high" },
+    { "i": 14, "set_name": "Storm Emerald",                  "qty": 500, "unit_price_jpy": 9700,   "line_total_jpy": 4850000, "source_image": 2, "name_confidence": "high" },
+    { "i": 15, "set_name": "Abyss Eye",                      "qty": 200, "unit_price_jpy": 9000,   "line_total_jpy": 1800000, "source_image": 2, "name_confidence": "high" },
+    { "i": 16, "set_name": "Ninja Spinner",                  "qty": 200, "unit_price_jpy": 10000,  "line_total_jpy": 2000000, "source_image": 2, "name_confidence": "high" },
+    { "i": 17, "set_name": "Munikis Zero",                   "qty": 150, "unit_price_jpy": 9000,   "line_total_jpy": 1350000, "source_image": 2, "name_confidence": "high" },
+    { "i": 18, "set_name": "Mega Dream ex",                  "qty": 150, "unit_price_jpy": 13000,  "line_total_jpy": 1950000, "source_image": 2, "name_confidence": "high" },
+    { "i": 19, "set_name": "Inferno X",                      "qty": 150, "unit_price_jpy": 18500,  "line_total_jpy": 2775000, "source_image": 2, "name_confidence": "high" },
+    { "i": 20, "set_name": "Mega Brave",                     "qty": 200, "unit_price_jpy": 8700,   "line_total_jpy": 1740000, "source_image": 2, "name_confidence": "high" },
+    { "i": 21, "set_name": "Mega Symphonia",                 "qty": 300, "unit_price_jpy": 8500,   "line_total_jpy": 2550000, "source_image": 2, "name_confidence": "high" },
+    { "i": 22, "set_name": "Black Bolt",                     "qty": 50,  "unit_price_jpy": 26800,  "line_total_jpy": 1340000, "source_image": 2, "name_confidence": "high" },
+    { "i": 23, "set_name": "White Flare",                    "qty": 50,  "unit_price_jpy": 23800,  "line_total_jpy": 1190000, "source_image": 2, "name_confidence": "high" },
+
+    { "i": 24, "set_name": null,                             "qty": 50,  "unit_price_jpy": 25800,  "line_total_jpy": 1290000, "source_image": 3, "name_confidence": "none", "note": "Set name cropped off the top of screenshot 3; the matching tail is cropped off the bottom of screenshot 2. Unrecoverable from these files." },
+
+    { "i": 25, "set_name": "Heat Wave Arena",                "qty": 50,  "unit_price_jpy": 20000,  "line_total_jpy": 1000000, "source_image": 3, "name_confidence": "high" },
+    { "i": 26, "set_name": "Battle Partners",                "qty": 120, "unit_price_jpy": 11000,  "line_total_jpy": 1320000, "source_image": 3, "name_confidence": "high" },
+    { "i": 27, "set_name": "Terastal Festival ex",           "qty": 100, "unit_price_jpy": 20200,  "line_total_jpy": 2020000, "source_image": 3, "name_confidence": "high" },
+    { "i": 28, "set_name": "Stellar Miracle",                "qty": 40,  "unit_price_jpy": 13400,  "line_total_jpy": 536000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 29, "set_name": "Night Wanderer",                 "qty": 30,  "unit_price_jpy": 13500,  "line_total_jpy": 405000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 30, "set_name": "Mask of Change",                 "qty": 20,  "unit_price_jpy": 14700,  "line_total_jpy": 294000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 31, "set_name": "Shiny Treasure ex",              "qty": 200, "unit_price_jpy": 19500,  "line_total_jpy": 3900000, "source_image": 3, "name_confidence": "high" },
+    { "i": 32, "set_name": "Ancient Roar",                   "qty": 70,  "unit_price_jpy": 13000,  "line_total_jpy": 910000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 33, "set_name": "Future Flash",                   "qty": 70,  "unit_price_jpy": 11500,  "line_total_jpy": 805000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 34, "set_name": "Ruler of the Black Flame",       "qty": 20,  "unit_price_jpy": 20500,  "line_total_jpy": 410000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 35, "set_name": "Raging Surf",                    "qty": 40,  "unit_price_jpy": 17200,  "line_total_jpy": 688000,  "source_image": 3, "name_confidence": "high" },
+    { "i": 36, "set_name": "Pokémon Card 151",               "qty": 100, "unit_price_jpy": 52300,  "line_total_jpy": 5230000, "source_image": 3, "name_confidence": "high" },
+    { "i": 37, "set_name": "Clay Burst",                     "qty": 60,  "unit_price_jpy": null,   "line_total_jpy": null,    "source_image": 3, "name_confidence": "high", "note": "Price cropped off the bottom of screenshot 3. Quantity 60 is legible." }
+  ],
+  "totals": {
+    "line_count": 37,
+    "lines_with_price": 36,
+    "total_boxes": 3480,
+    "total_jpy_priced_lines": 55817500,
+    "total_jpy_note": "Excludes item 37 (Clay Burst, price cropped). Includes item 24 whose set name is unknown.",
+    "total_nok": 3333065,
+    "fx_nok_per_jpy": 0.0597129,
+    "fx_note": "100 NOK = 1674.68 JPY (Google, 2026-11-08 22:01 UTC). No JPY rate exists in the repo FX tables (sheet/build_sheet.py has USD_NOK and EUR_NOK only), so the rate is recorded here."
+  },
+  "caveats": [
+    "These are screenshots of a chat message, not photographs of physical product. Condition, authenticity, print run and whether the boxes are sealed cannot be verified from them.",
+    "The list is a wholesale offer sheet: quantities up to 500 boxes. This is distributor scale, not a collection.",
+    "Two entries are damaged by screenshot cropping (item 24 set name, item 37 price) and cannot be recovered from these three files.",
+    "There may be a gap between item 11 (Silver Lance) and item 12 (30th CELEBRATION 9-Item Set): screenshot 1 ends at Silver Lance followed by a Signal system message, and screenshot 2 begins at item 12 with no visible overlap. Whether lines are missing in between is unknown.",
+    "PokeWallet cannot price any of this. It prices single cards only; there is no sealed-product endpoint on the free plan (see docs/pokewallet_io_api-VERIFIED-NOTES.md section 3).",
+    "No market prices are present in this file. It is a transcription of the sender's quoted prices only."
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:24Z",
+  "contact_button": {
+    "adId": "480337816",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480337816",
+  "kode_candidates": {
+    "canonical": "480337816",
+    "object_info": "480337816",
+    "maplink": "480337816",
+    "contact_button": "480337816",
+    "hint": "480337816"
+  },
+  "ld_json": {
+    "sku": "480337816",
+    "name": "Pokemon: Sealed produkter",
+    "url": "https://www.finn.no/recommerce/forsale/item/480337816",
+    "item_condition": null,
+    "price_raw": "399",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 399
+  },
+  "title_source": "dom",
+  "title": "Pokemon: Sealed produkter",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "399 kr",
+  "price_nok": 399,
+  "price_nok_source": "dom",
+  "location_text": "3045 Drammen",
+  "lat": 59.73918088369113,
+  "lon": 10.191589066124408,
+  "postal_code": "3045",
+  "last_modified_raw": "5.11.2026 kl. 17:55",
+  "last_modified": "2026-11-05T17:55:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "467f2ff5-c68d-4f78-ae83-e41a63a8c50a"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Nedskalerer deler av samlingen min og selger derfor en rekke sealed pokemonprodukter til fastpris:\n\n \n\nProduktene kan sendes på kjøpers regning og risiko (80/140 kr)\n\nKan også hentes etter avtale.\n\nBetaling: Vipps eller bankoverføring\n\n \n\nMega Evolution: Ascended Heroes – Mega Feraligatr ex Box – **799 kr**\n\n \n\nFirst Partner Illustration Collection Series 2 – **429 kr**\n\n \n\nFirst Partner Illustration Collection Series 3 – **429 kr**\n\n \n\n 151 Mini Tin Display – **5 990 kr**\n\n \n\n Paldean Fates Elite Trainer Box – **4 790 kr**\n\n \n\n Pitch Black Booster Bundle (2 stk.) – **549 kr/stk.**\n\n \n\n Crown Zenith Elite Trainer Box – ** 3949 kr**\n\n \n\n Back to School Pencil Case (med Evolving Skies) – **700 kr**\n\n \n\n Koreansk Phantasmal Flames / Inferno X Booster Box – **899 kr**\n\n \n\n Cosmic Eclipse Booster Pack – **849 kr**\n\n \n\n Journey Together Booster Box – **2 990 kr**\n\n \n\n Greninja ex Special Illustration Collection – **2199 kr**\n\n \n\n Kingdra ex Special Illustration Collection – **2099 kr**\n\n \n\n Temporal Forces Booster Box – **3 690 kr**\n\n \n\n Japansk 151 Booster Box – **3999 kr**\n\n \n\n Engelsk 151 Booster Bundle – **1 990 kr**\n\n \n\n Destined Rivals Booster Pack (2 stk.) – SOLGT\n\n \n\n Lost Origin Build & Battle Stadium (12 boostere) – *SOLGT\n\n \n\n Paldean Fates Booster Bundle – SOLGT\n\n \n\n Team Up Mimikyu Promo Blister – **4999 kr**\n\n \n\n Eevee-blindboks: - *399 kr*\n\n \n\n Pokémon Dream Painting blindboks (pikachu) *399 kr\n\n \n\n 30th Celebration Simplified Chinese Coin Set (inneholder 3 boosterpacks per) (2 stk.) –  SOLGT\n\n \n\n Japansk Tag Team GX All Stars Booster Box – 10 990 kr",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477569887",
+      "heading": "Sealed pokemon produkter selges!",
+      "price_label": "123 kr",
+      "location": "Godvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477569887"
+    },
+    {
+      "item_id": "478070860",
+      "heading": "Pokemon mye forskellig sealed produkter",
+      "price_label": "80 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478070860"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "460532433",
+      "heading": "Pokemon Sealed • 30th Celebration • Ascended Heroes • Prismatic Evolutions + mer",
+      "price_label": "130 kr",
+      "location": "Nesøya",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460532433"
+    },
+    {
+      "item_id": "478210556",
+      "heading": "Pokèmon Sealed produkter - ETB og bundles",
+      "price_label": "550 kr",
+      "location": "Røyken",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478210556"
+    },
+    {
+      "item_id": "479636609",
+      "heading": "Pokemon sealed produkter & psa slabs",
+      "price_label": null,
+      "location": "Haslum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479636609"
+    },
+    {
+      "item_id": "465369891",
+      "heading": "Pokemon diverse sealed produkter oppdatert 21/09",
+      "price_label": "600 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465369891"
+    },
+    {
+      "item_id": "477820902",
+      "heading": "Diverse sealed Pokemon",
+      "price_label": "1 234 kr",
+      "location": "Lysaker",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477820902"
+    },
+    {
+      "item_id": "477872446",
+      "heading": "Pokemon sealed samling selges",
+      "price_label": null,
+      "location": "Halden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477872446"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "467f2ff5-c68d-4f78-ae83-e41a63a8c50a",
+      "item_ref": "480337816",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480337816/467f2ff5-c68d-4f78-ae83-e41a63a8c50a"
+    }
+  ],
+  "raw_capture": "480337816_pokemon-sealed-produkter/raw/480337816_2026-11-08-224624.html"
+}

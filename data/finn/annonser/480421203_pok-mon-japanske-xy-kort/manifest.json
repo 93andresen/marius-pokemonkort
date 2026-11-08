@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480421203",
+  "url": "https://www.finn.no/recommerce/forsale/item/480421203",
+  "slug": "480421203_pok-mon-japanske-xy-kort",
+  "first_seen": "2026-11-08T22:46:19Z",
+  "last_seen": "2026-11-08T22:46:19Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon- japanske XY kort",
+    "status": "Aktiv",
+    "price_nok": 700,
+    "trade_type": "Til salgs",
+    "location_text": "3402 Lier",
+    "postal_code": "3402",
+    "last_modified": "2026-11-06T23:19:00",
+    "gallery_count": 9,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:19Z",
+      "raw": "480421203_pok-mon-japanske-xy-kort/raw/480421203_2026-11-08-224619.html",
+      "parse_quality": "full",
+      "price_nok": 700,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "478457952",
+      "heading": "Pokémon- mid-vintage Holo  Japanske kort",
+      "price_label": "400 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478457952"
+    },
+    {
+      "item_id": "474045567",
+      "heading": "Pokémon hits - Japanese",
+      "price_label": null,
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474045567"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "477144968",
+      "heading": "Pokémon japanske GX Tag Team",
+      "price_label": "150 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477144968"
+    },
+    {
+      "item_id": "479832845",
+      "heading": "Diverse hits fra eldre generasjon Pokémon kort.",
+      "price_label": null,
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479832845"
+    },
+    {
+      "item_id": "480440868",
+      "heading": "Pokemon- GX Tag team kort",
+      "price_label": "855 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480440868"
+    },
+    {
+      "item_id": "478719406",
+      "heading": "Pokémon Japanske og Kinesiske Stilige Kort!",
+      "price_label": "299 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478719406"
+    },
+    {
+      "item_id": "474698649",
+      "heading": "Pokemon kort, forskjellig",
+      "price_label": "900 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474698649"
+    },
+    {
+      "item_id": "479847089",
+      "heading": "Pokémonkort selges - Ho-Oh LEGEND, Shaymin LV.X, Typhlosion m.fl.",
+      "price_label": "1 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479847089"
+    }
+  ]
+}

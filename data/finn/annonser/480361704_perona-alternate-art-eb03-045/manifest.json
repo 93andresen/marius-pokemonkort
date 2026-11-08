@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480361704",
+  "url": "https://www.finn.no/recommerce/forsale/item/480361704",
+  "slug": "480361704_perona-alternate-art-eb03-045",
+  "first_seen": "2026-11-08T22:46:05Z",
+  "last_seen": "2026-11-08T22:46:05Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Perona [Alternate Art] EB03-045",
+    "status": "Aktiv",
+    "price_nok": 150,
+    "trade_type": null,
+    "location_text": "3511 Hønefoss",
+    "postal_code": "3511",
+    "last_modified": "2026-11-08T18:45:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:05Z",
+      "raw": "480361704_perona-alternate-art-eb03-045/raw/480361704_2026-11-08-224605.html",
+      "parse_quality": "full",
+      "price_nok": 150,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480361701",
+      "heading": "Perona EB03-045 One Piece Japanese Extra Booster Heroines Edition",
+      "price_label": "30 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361701"
+    },
+    {
+      "item_id": "480361735",
+      "heading": "Carrot [Alternate Art] EB03-013",
+      "price_label": "80 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361735"
+    },
+    {
+      "item_id": "480109386",
+      "heading": "Stort utvalg samlekort - Pokémon, Marvel, One Piece, Star Wars",
+      "price_label": null,
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480109386"
+    },
+    {
+      "item_id": "480361710",
+      "heading": "Kujyaku [Alternate Art] EB03-041",
+      "price_label": "100 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361710"
+    },
+    {
+      "item_id": "480361739",
+      "heading": "Nefeltari Vivi [Alternate Art] EB03-001",
+      "price_label": "100 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361739"
+    },
+    {
+      "item_id": "480361686",
+      "heading": "Uta EB03-061 One Piece Japanese Extra Booster Heroines Edition",
+      "price_label": "50 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361686"
+    },
+    {
+      "item_id": "480361687",
+      "heading": "Yamato [Alternate Art] EB03-057",
+      "price_label": "100 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361687"
+    },
+    {
+      "item_id": "480361695",
+      "heading": "Nami EB03-053 One Piece Japanese Extra Booster Heroines Edition",
+      "price_label": "60 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361695"
+    },
+    {
+      "item_id": "480361829",
+      "heading": "Foxy [Alternate Art] EB04-036 One Piece Japanese Extra Booster Egghead Crisis",
+      "price_label": "80 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361829"
+    }
+  ]
+}

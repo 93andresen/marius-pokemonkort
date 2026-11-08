@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:21Z",
+  "contact_button": {
+    "adId": "480325959",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480325959",
+  "kode_candidates": {
+    "canonical": "480325959",
+    "object_info": "480325959",
+    "maplink": "480325959",
+    "contact_button": "480325959",
+    "hint": "480325959"
+  },
+  "ld_json": {
+    "sku": "480325959",
+    "name": "Pokemon center japan eksklusiv eevee heroes evolving skies eeveel",
+    "url": "https://www.finn.no/recommerce/forsale/item/480325959",
+    "item_condition": "NewCondition",
+    "price_raw": "1200",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1200
+  },
+  "title_source": "dom",
+  "title": "Pokemon center japan eksklusiv eevee heroes evolving skies eeveelution album",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1200,
+  "price_nok_source": "ld+json",
+  "location_text": "0569 Oslo",
+  "lat": 59.92979918001927,
+  "lon": 10.775899005572006,
+  "postal_code": "0569",
+  "last_modified_raw": "5.11.2026 kl. 14:42",
+  "last_modified": "2026-11-05T14:42:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "1603f6bc-1919-4d7b-ad17-dc8dbca6bf24",
+    "c5d05e39-c81f-4c72-9c02-c6b3b9cf5211",
+    "0d38e786-9844-4e30-974d-39b97730e91f",
+    "cad5bf93-36d0-424f-a402-889433df0077"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Kjøpt fra pokemon center Japan.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480325481",
+      "heading": "Pokemon center japan exclusive samle album cute yurutto artwork offisiell Japan",
+      "price_label": "1 450 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480325481"
+    },
+    {
+      "item_id": "478253553",
+      "heading": "Pokemon Center Eevee & Colorful Friends",
+      "price_label": "250 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478253553"
+    },
+    {
+      "item_id": "480194872",
+      "heading": "Pokémon Eevee Heroes boosterboks",
+      "price_label": "1 kr",
+      "location": "Ålen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480194872"
+    },
+    {
+      "item_id": "477508907",
+      "heading": "Prismatic Evolutions Pokemon Center Elite Trainer Box med akryl",
+      "price_label": "6 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477508907"
+    },
+    {
+      "item_id": "478253322",
+      "heading": "Pokemon Center Eevee & Colorful Friends",
+      "price_label": "250 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478253322"
+    },
+    {
+      "item_id": "401709091",
+      "heading": "Eevee Heroes sleeves (60 stk)",
+      "price_label": "450 kr",
+      "location": "Vear",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/401709091"
+    },
+    {
+      "item_id": "449979535",
+      "heading": "Pokemon Day 2025 Promo SEALED Eevee 074/131 Black Star forseglet",
+      "price_label": "400 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/449979535"
+    },
+    {
+      "item_id": "477519878",
+      "heading": "Eevee Pokemon Center Promo (gratis frakt)",
+      "price_label": "999 kr",
+      "location": "Lier",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477519878"
+    },
+    {
+      "item_id": "479208573",
+      "heading": "Japansk eksklusiv eevee 020/019",
+      "price_label": "400 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479208573"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "1603f6bc-1919-4d7b-ad17-dc8dbca6bf24",
+      "item_ref": "480325959",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480325959/1603f6bc-1919-4d7b-ad17-dc8dbca6bf24"
+    },
+    {
+      "uuid": "c5d05e39-c81f-4c72-9c02-c6b3b9cf5211",
+      "item_ref": "480325959",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480325959/c5d05e39-c81f-4c72-9c02-c6b3b9cf5211"
+    },
+    {
+      "uuid": "0d38e786-9844-4e30-974d-39b97730e91f",
+      "item_ref": "480325959",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480325959/0d38e786-9844-4e30-974d-39b97730e91f"
+    },
+    {
+      "uuid": "cad5bf93-36d0-424f-a402-889433df0077",
+      "item_ref": "480325959",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480325959/cad5bf93-36d0-424f-a402-889433df0077"
+    }
+  ],
+  "raw_capture": "480325959_pokemon-center-japan-eksklusiv-eevee-heroes-evolving-skies-e/raw/480325959_2026-11-08-224621.html"
+}

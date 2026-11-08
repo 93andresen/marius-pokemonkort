@@ -1,0 +1,169 @@
+{
+  "finn_kode": "445728190",
+  "url": "https://www.finn.no/recommerce/forsale/item/445728190",
+  "slug": "445728190_pokemon-25th-celebrations",
+  "first_seen": "2026-11-08T22:47:21Z",
+  "last_seen": "2026-11-08T22:47:21Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon 25th Celebrations",
+    "status": "Aktiv",
+    "price_nok": 200,
+    "trade_type": null,
+    "location_text": "4331 Ålgård",
+    "postal_code": "4331",
+    "last_modified": "2026-08-23T18:35:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:21Z",
+      "raw": "445728190_pokemon-25th-celebrations/raw/445728190_2026-11-08-224721.html",
+      "parse_quality": "full",
+      "price_nok": 200,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "470711475",
+      "heading": "Pokemon 25th celebration bulk",
+      "price_label": "450 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470711475"
+    },
+    {
+      "item_id": "478560378",
+      "heading": "Pokemon TCG 25th celebration",
+      "price_label": "75 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478560378"
+    },
+    {
+      "item_id": "480078440",
+      "heading": "21 pokemon kort selges hbo 700kr.",
+      "price_label": "50 kr",
+      "location": "Førresfjorden",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480078440"
+    },
+    {
+      "item_id": "478561205",
+      "heading": "Pokemon 30 th celebrations",
+      "price_label": "600 kr",
+      "location": "Hafrsfjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478561205"
+    },
+    {
+      "item_id": "479885287",
+      "heading": "Pokemon 30th Celebration Bulk",
+      "price_label": "700 kr",
+      "location": "Haugesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479885287"
+    },
+    {
+      "item_id": "435756682",
+      "heading": "Pokemon 30th celebration hits",
+      "price_label": "1 000 kr",
+      "location": "Åkrehamn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/435756682"
+    },
+    {
+      "item_id": "478123828",
+      "heading": "Pokémon 30th celebration",
+      "price_label": "1 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478123828"
+    },
+    {
+      "item_id": "479113005",
+      "heading": "✨✨✨ Pokémon 30th Celebration – Diverse hits ✨✨✨",
+      "price_label": "103 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479113005"
+    },
+    {
+      "item_id": "479405733",
+      "heading": "Pokemon 30th celebration",
+      "price_label": "150 kr",
+      "location": "Sandve",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479405733"
+    }
+  ]
+}

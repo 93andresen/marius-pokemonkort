@@ -1,0 +1,169 @@
+{
+  "finn_kode": "402322578",
+  "url": "https://www.finn.no/recommerce/forsale/item/402322578",
+  "slug": "402322578_giratina-vstar-81-pokemon-japanese-lost-abyss-pokemon-kort",
+  "first_seen": "2026-11-08T22:46:59Z",
+  "last_seen": "2026-11-08T22:46:59Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Giratina VSTAR #81 Pokemon Japanese Lost Abyss pokemon kort",
+    "status": "Aktiv",
+    "price_nok": 150,
+    "trade_type": null,
+    "location_text": "9022 Krokelvdalen",
+    "postal_code": "9022",
+    "last_modified": "2025-04-10T17:26:00",
+    "gallery_count": 6,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:59Z",
+      "raw": "402322578_giratina-vstar-81-pokemon-japanese-lost-abyss-pokemon-kort/raw/402322578_2026-11-08-224659.html",
+      "parse_quality": "full",
+      "price_nok": 150,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477472815",
+      "heading": "Pokemon kort Altaria japansk",
+      "price_label": "5 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477472815"
+    },
+    {
+      "item_id": "470071648",
+      "heading": "Pokemon kort Latios holo",
+      "price_label": "10 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470071648"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "479527970",
+      "heading": "Pokemon kort Galarian birds japansk",
+      "price_label": "30 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479527970"
+    },
+    {
+      "item_id": "476438378",
+      "heading": "Pokemon kort Moltres japansk",
+      "price_label": "5 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476438378"
+    },
+    {
+      "item_id": "479669799",
+      "heading": "Pokemon kort Latios Gem Pack kinesisk",
+      "price_label": "10 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479669799"
+    },
+    {
+      "item_id": "479797856",
+      "heading": "Pokemon kort Koraidon holo japansk",
+      "price_label": "5 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479797856"
+    },
+    {
+      "item_id": "477473025",
+      "heading": "Pokemon kort Rufflet japansk",
+      "price_label": "5 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477473025"
+    },
+    {
+      "item_id": "479202955",
+      "heading": "Giratina v 110/100 sr fra lost abyss",
+      "price_label": "200 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479202955"
+    }
+  ]
+}

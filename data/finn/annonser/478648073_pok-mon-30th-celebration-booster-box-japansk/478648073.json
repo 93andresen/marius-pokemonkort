@@ -1,0 +1,263 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:21Z",
+  "contact_button": {
+    "adId": "478648073",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "478648073",
+  "kode_candidates": {
+    "canonical": "478648073",
+    "object_info": "478648073",
+    "maplink": "478648073",
+    "contact_button": "478648073",
+    "hint": "478648073"
+  },
+  "ld_json": {
+    "sku": "478648073",
+    "name": "Pokémon 30th Celebration Booster Box Japansk",
+    "url": "https://www.finn.no/recommerce/forsale/item/478648073",
+    "item_condition": "NewCondition",
+    "price_raw": "2599",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 2599
+  },
+  "title_source": "dom",
+  "title": "Pokémon 30th Celebration Booster Box Japansk",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 2599,
+  "price_nok_source": "ld+json",
+  "location_text": "Ludvig Skattums gate 15, 2819 Gjøvik",
+  "lat": 60.801633,
+  "lon": 10.679942,
+  "postal_code": null,
+  "last_modified_raw": "13.10.2026 kl. 15:11",
+  "last_modified": "2026-10-13T15:11:00",
+  "gallery_count": 11,
+  "image_uuids": [
+    "a5d6f8ba-b47a-4edd-852b-4165776085b5",
+    "4f66ef03-2e44-40b9-9f99-c336e27a3ca9",
+    "fe633633-3715-48bb-abeb-77806293f797",
+    "da27cfc7-080a-41cb-a3f4-324cabd43196",
+    "5f3b5712-c7b0-41bb-ab85-73ad961d91c9",
+    "0820fb78-0e13-43ed-b9eb-57dbd059fec3",
+    "5cd5c714-abfa-474e-b3fd-4d6d97152396",
+    "71d2e877-f57e-4678-8e0e-09bbe1b404b7",
+    "3263b77b-01d1-4482-997c-100f31f48adf",
+    "29d5f5ea-6252-48f1-8253-1b89e2709662",
+    "21e8e62d-84bf-4c15-b5e8-9cab8e97e326"
+  ],
+  "image_count_from_html": 11,
+  "description_raw": "30th Celebration er det japanske jubileumssettet som markerer Pokémon-kortspillets 30-årsjubileum. Settet ble utgitt 16. september 2026.\n\nInnhold\n\n20 boosterpakker med 6 kort i hver.\n\nTotalt 120 japanske Pokémon-kort.\n\nHver pakke inneholder ett spesielt Pikachu-kort fra 30-årsjubileet og ett Basic Energy-kort.\n\nKortene er tilfeldig fordelt. Bestemte illustrasjoner eller sjeldenheter er ikke garantert.\n\nHvorfor kjøpe fra oss?\nCollectorscorner er en norsk nettbutikk med fysisk lokasjon i Gjøvik og registrert AS. Vi tilbyr rask utsendelse og 14 dagers angrerett.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479030552",
+      "heading": "Pokémon 30th Celebration samleboks japansk",
+      "price_label": "2 300 kr",
+      "location": "Skarnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479030552"
+    },
+    {
+      "item_id": "479364577",
+      "heading": "Pokémon 30th Celebration Booster Bundles (GRATID FRAKT MED FIKS FERDIG ✅!)",
+      "price_label": "824 kr",
+      "location": "Hunndalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479364577"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "478187336",
+      "heading": "Pokemon 30th Celebration Japansk boosterboks – forseglet",
+      "price_label": "2 300 kr",
+      "location": "Råholt",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478187336"
+    },
+    {
+      "item_id": "480221984",
+      "heading": "Pokémon 30-årsjubileum boosterpack",
+      "price_label": "900 kr",
+      "location": "Brumunddal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480221984"
+    },
+    {
+      "item_id": "479601019",
+      "heading": "Pokemon 30th Celebration boosterbokser japansk. Gratis frakt",
+      "price_label": "2 449 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479601019"
+    },
+    {
+      "item_id": "480164423",
+      "heading": "Pokemon 30th booster box Japansk",
+      "price_label": "2 100 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480164423"
+    },
+    {
+      "item_id": "480271659",
+      "heading": "Pokémon 30th Celebration samlekort boost bundle",
+      "price_label": "795 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480271659"
+    },
+    {
+      "item_id": "477769058",
+      "heading": "Pokémon 30th Celebration boosterboks japansk",
+      "price_label": "2 600 kr",
+      "location": "Ski",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477769058"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "a5d6f8ba-b47a-4edd-852b-4165776085b5",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/478648073/a5d6f8ba-b47a-4edd-852b-4165776085b5"
+    },
+    {
+      "uuid": "4f66ef03-2e44-40b9-9f99-c336e27a3ca9",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/478648073/4f66ef03-2e44-40b9-9f99-c336e27a3ca9"
+    },
+    {
+      "uuid": "fe633633-3715-48bb-abeb-77806293f797",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/fe633633-3715-48bb-abeb-77806293f797"
+    },
+    {
+      "uuid": "da27cfc7-080a-41cb-a3f4-324cabd43196",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/da27cfc7-080a-41cb-a3f4-324cabd43196"
+    },
+    {
+      "uuid": "5f3b5712-c7b0-41bb-ab85-73ad961d91c9",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/5f3b5712-c7b0-41bb-ab85-73ad961d91c9"
+    },
+    {
+      "uuid": "0820fb78-0e13-43ed-b9eb-57dbd059fec3",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/0820fb78-0e13-43ed-b9eb-57dbd059fec3"
+    },
+    {
+      "uuid": "5cd5c714-abfa-474e-b3fd-4d6d97152396",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/5cd5c714-abfa-474e-b3fd-4d6d97152396"
+    },
+    {
+      "uuid": "71d2e877-f57e-4678-8e0e-09bbe1b404b7",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/71d2e877-f57e-4678-8e0e-09bbe1b404b7"
+    },
+    {
+      "uuid": "3263b77b-01d1-4482-997c-100f31f48adf",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/3263b77b-01d1-4482-997c-100f31f48adf"
+    },
+    {
+      "uuid": "29d5f5ea-6252-48f1-8253-1b89e2709662",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/29d5f5ea-6252-48f1-8253-1b89e2709662"
+    },
+    {
+      "uuid": "21e8e62d-84bf-4c15-b5e8-9cab8e97e326",
+      "item_ref": "478648073",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/478648073/21e8e62d-84bf-4c15-b5e8-9cab8e97e326"
+    }
+  ],
+  "raw_capture": "478648073_pok-mon-30th-celebration-booster-box-japansk/raw/478648073_2026-11-08-224521.html"
+}

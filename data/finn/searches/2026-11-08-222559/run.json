@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-08-222559",
+  "started_at": "2026-11-08T22:25:59Z",
+  "search_set": false,
+  "queries": [
+    "pokemon lost abyss"
+  ],
+  "searches": [
+    {
+      "id": "query-pokemon-lost-abyss",
+      "kind": "query",
+      "label": "pokemon lost abyss",
+      "query": "pokemon lost abyss",
+      "tier": null,
+      "sorts": [
+        "PUBLISHED_DESC"
+      ],
+      "max_pages": 1,
+      "params": [
+        [
+          "category",
+          "0.86"
+        ],
+        [
+          "sub_category",
+          "1.86.285"
+        ],
+        [
+          "product_category",
+          "2.86.285.396"
+        ]
+      ]
+    }
+  ],
+  "extra_params": [
+    [
+      "category",
+      "0.86"
+    ],
+    [
+      "sub_category",
+      "1.86.285"
+    ],
+    [
+      "product_category",
+      "2.86.285.396"
+    ]
+  ],
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "pokemon lost abyss",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+lost+abyss&sort=PUBLISHED_DESC&category=0.86&sub_category=1.86.285&product_category=2.86.285.396",
+      "status": 200,
+      "docs": 15,
+      "num_results": 15,
+      "match_count": 15,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 1
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-11-08-222559\\pokemon-lost-abyss\\page_001.html"
+    }
+  ],
+  "totals": {
+    "pages": 1,
+    "docs": 15
+  },
+  "finished_at": "2026-11-08T22:26:02Z",
+  "total_new_koder": 15
+}

@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480175144",
+  "url": "https://www.finn.no/recommerce/forsale/item/480175144",
+  "slug": "480175144_pokemon-25th-anniversary-golden-box-sealed",
+  "first_seen": "2026-11-08T22:47:07Z",
+  "last_seen": "2026-11-08T22:47:07Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon 25th Anniversary Golden Box Sealed",
+    "status": "Aktiv",
+    "price_nok": 10000,
+    "trade_type": null,
+    "location_text": "6019 Ålesund",
+    "postal_code": "6019",
+    "last_modified": "2026-11-07T03:31:00",
+    "gallery_count": 3,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:07Z",
+      "raw": "480175144_pokemon-25th-anniversary-golden-box-sealed/raw/480175144_2026-11-08-224707.html",
+      "parse_quality": "full",
+      "price_nok": 10000,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "465359524",
+      "heading": "25th anniversary Pokemon golden box",
+      "price_label": "20 000 kr",
+      "location": "Flå",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/465359524"
+    },
+    {
+      "item_id": "476346326",
+      "heading": "Pokémon 25th Anniversary Golden Box – Japansk – Samlerobjekt",
+      "price_label": "19 900 kr",
+      "location": "Klokkarstua",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476346326"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "473304358",
+      "heading": "Pokémon 25th Anniversary Golden Box – Uåpnet & Forseglet i Plast",
+      "price_label": "25 000 kr",
+      "location": "Åmot",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473304358"
+    },
+    {
+      "item_id": "464639851",
+      "heading": "25th Anniversary Gold Box (JP) (SEALED)",
+      "price_label": "17 000 kr",
+      "location": "Klepp stasjon",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464639851"
+    },
+    {
+      "item_id": "477478040",
+      "heading": "Pokémon 25th Anniversary Golden Box Japansk",
+      "price_label": "20 000 kr",
+      "location": "Søfteland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlefigurer"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477478040"
+    },
+    {
+      "item_id": "480361125",
+      "heading": "Pokémon 25th Anniversary Golden Box (japansk) – i akrylcase",
+      "price_label": "15 999 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361125"
+    },
+    {
+      "item_id": "477342570",
+      "heading": "Pokemon 25th Anniversary Sealed!",
+      "price_label": "5 200 kr",
+      "location": "Gjettum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477342570"
+    },
+    {
+      "item_id": "411964275",
+      "heading": "Pokemon 25th Anniversary Celebrations Elite ETB",
+      "price_label": "6 500 kr",
+      "location": "Brumunddal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/411964275"
+    }
+  ]
+}

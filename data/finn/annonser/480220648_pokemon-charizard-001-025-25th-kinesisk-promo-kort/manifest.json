@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480220648",
+  "url": "https://www.finn.no/recommerce/forsale/item/480220648",
+  "slug": "480220648_pokemon-charizard-001-025-25th-kinesisk-promo-kort",
+  "first_seen": "2026-11-08T22:47:15Z",
+  "last_seen": "2026-11-08T22:47:15Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon Charizard 001/025 25th Kinesisk Promo-kort",
+    "status": "Aktiv",
+    "price_nok": 1800,
+    "trade_type": "Til salgs",
+    "location_text": "3949 Porsgrunn",
+    "postal_code": "3949",
+    "last_modified": "2026-11-03T21:49:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:47:15Z",
+      "raw": "480220648_pokemon-charizard-001-025-25th-kinesisk-promo-kort/raw/480220648_2026-11-08-224715.html",
+      "parse_quality": "full",
+      "price_nok": 1800,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480173659",
+      "heading": "Pokémon charizard 30th anniversary kinesisk",
+      "price_label": "625 kr",
+      "location": "Gran",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480173659"
+    },
+    {
+      "item_id": "480121213",
+      "heading": "Charizard 137/103 – Chinese 30th Celebration",
+      "price_label": "800 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480121213"
+    },
+    {
+      "item_id": "480486228",
+      "heading": "Diverse graderte Pokemon kort",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486228"
+    },
+    {
+      "item_id": "478542997",
+      "heading": "Pokemon Charizard Kinesisk 30th Celebration",
+      "price_label": "700 kr",
+      "location": "Loddefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478542997"
+    },
+    {
+      "item_id": "468350543",
+      "heading": "Charizard 25th Japansk",
+      "price_label": "2 200 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/468350543"
+    },
+    {
+      "item_id": "477286689",
+      "heading": "Pokemon Charizard 25th box / boks kinesisk",
+      "price_label": "4 500 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477286689"
+    },
+    {
+      "item_id": "478340231",
+      "heading": "Pokémon Charizard V kort",
+      "price_label": "550 kr",
+      "location": "Porsgrunn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478340231"
+    },
+    {
+      "item_id": "476677038",
+      "heading": "Pokemon Charizard 30th",
+      "price_label": "2 000 kr",
+      "location": "Hokksund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476677038"
+    },
+    {
+      "item_id": "479671098",
+      "heading": "Kinesiske hits - Pokemon 30th Celebration",
+      "price_label": "600 kr",
+      "location": "Porsgrunn",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479671098"
+    }
+  ]
+}

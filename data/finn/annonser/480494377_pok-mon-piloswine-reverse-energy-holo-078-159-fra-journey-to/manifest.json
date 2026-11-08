@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480494377",
+  "url": "https://www.finn.no/recommerce/forsale/item/480494377",
+  "slug": "480494377_pok-mon-piloswine-reverse-energy-holo-078-159-fra-journey-to",
+  "first_seen": "2026-11-08T22:45:39Z",
+  "last_seen": "2026-11-08T22:45:39Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Piloswine Reverse Energy Holo 078/159 fra Journey Together (JTG EN)",
+    "status": "Aktiv",
+    "price_nok": 10,
+    "trade_type": null,
+    "location_text": "6411 Molde",
+    "postal_code": "6411",
+    "last_modified": "2026-11-08T21:55:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:39Z",
+      "raw": "480494377_pok-mon-piloswine-reverse-energy-holo-078-159-fra-journey-to/raw/480494377_2026-11-08-224539.html",
+      "parse_quality": "full",
+      "price_nok": 10,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479934758",
+      "heading": "Pokémon Piloswine Reverse Holo 024/094 fra Phantasmal Flames (PFL EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479934758"
+    },
+    {
+      "item_id": "476596190",
+      "heading": "Piloswine reserve holofoil #078",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476596190"
+    },
+    {
+      "item_id": "475860051",
+      "heading": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "price_label": "98 kr",
+      "location": "Lillehammer",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475860051"
+    },
+    {
+      "item_id": "480494486",
+      "heading": "Pokémon Greedent  Reverse Energy Holo 132/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480494486"
+    },
+    {
+      "item_id": "480441269",
+      "heading": "Pokémon Sprigatito Reverse Energy Holo 013/198 fra Scarlet & Violet (SV1 EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480441269"
+    },
+    {
+      "item_id": "480494457",
+      "heading": "Pokémon Wooper Reverse Energy Holo 093/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480494457"
+    },
+    {
+      "item_id": "480494470",
+      "heading": "Pokémon Skwovet Reverse Energy Holo 131/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480494470"
+    },
+    {
+      "item_id": "480441616",
+      "heading": "Pokémon Foongus Reverse Energy Holo 010/159 fra Journey Together (JTG EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480441616"
+    },
+    {
+      "item_id": "480494780",
+      "heading": "Pokémon Cetitan Reverse Energy Holo 060/198 fra Scarlet & Violet (SV1 EN)",
+      "price_label": "10 kr",
+      "location": "Molde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480494780"
+    }
+  ]
+}

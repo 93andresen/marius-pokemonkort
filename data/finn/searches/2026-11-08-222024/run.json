@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-08-222024",
+  "started_at": "2026-11-08T22:20:24Z",
+  "search_set": false,
+  "queries": [
+    "japanske pokemon kort"
+  ],
+  "searches": [
+    {
+      "id": "query-japanske-pokemon-kort",
+      "kind": "query",
+      "label": "japanske pokemon kort",
+      "query": "japanske pokemon kort",
+      "tier": null,
+      "sorts": [
+        "PUBLISHED_DESC"
+      ],
+      "max_pages": 1,
+      "params": [
+        [
+          "category",
+          "0.86"
+        ],
+        [
+          "sub_category",
+          "1.86.285"
+        ],
+        [
+          "product_category",
+          "2.86.285.396"
+        ]
+      ]
+    }
+  ],
+  "extra_params": [
+    [
+      "category",
+      "0.86"
+    ],
+    [
+      "sub_category",
+      "1.86.285"
+    ],
+    [
+      "product_category",
+      "2.86.285.396"
+    ]
+  ],
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "japanske pokemon kort",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=japanske+pokemon+kort&sort=PUBLISHED_DESC&category=0.86&sub_category=1.86.285&product_category=2.86.285.396",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 4502,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 50
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-11-08-222024\\japanske-pokemon-kort\\page_001.html"
+    }
+  ],
+  "totals": {
+    "pages": 1,
+    "docs": 53
+  },
+  "finished_at": "2026-11-08T22:20:27Z",
+  "total_new_koder": 53
+}

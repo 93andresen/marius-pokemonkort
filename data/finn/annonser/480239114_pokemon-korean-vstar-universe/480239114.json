@@ -1,0 +1,233 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:38Z",
+  "contact_button": {
+    "adId": "480239114",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480239114",
+  "kode_candidates": {
+    "canonical": "480239114",
+    "object_info": "480239114",
+    "maplink": "480239114",
+    "contact_button": "480239114",
+    "hint": "480239114"
+  },
+  "ld_json": {
+    "sku": "480239114",
+    "name": "Pokemon Korean Vstar universe",
+    "url": "https://www.finn.no/recommerce/forsale/item/480239114",
+    "item_condition": null,
+    "price_raw": "2000",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 2000
+  },
+  "title_source": "dom",
+  "title": "Pokemon Korean Vstar universe",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 2000,
+  "price_nok_source": "ld+json",
+  "location_text": "2010 Strømmen",
+  "lat": 59.94576921077124,
+  "lon": 11.00711945324585,
+  "postal_code": "2010",
+  "last_modified_raw": "4.11.2026 kl. 10:47",
+  "last_modified": "2026-11-04T10:47:00",
+  "gallery_count": 6,
+  "image_uuids": [
+    "b5220709-67db-48de-a312-c31783104f41",
+    "3704225a-a341-48bd-ad08-c1059da5e5ab",
+    "f4958440-99e0-40e1-90c2-206025f6f5d8",
+    "a1b4a906-562d-4dce-9824-a6803b302a8e",
+    "c97a69c4-0de5-46c3-ada3-a1f1150e8a59",
+    "40c37492-ac1b-4e3b-8e8d-17c9a7733a45"
+  ],
+  "image_count_from_html": 6,
+  "description_raw": "Pokemon Koreansk versjon av Vstar universe.\n\n \n\nKan hentes på strømmen område eller sendes med frakt for 76 kroner.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": null,
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "474455503",
+      "heading": "Pokemon Korean Booster Box Astonishing Volt Vivid Voltage x2 s4 NY PRIS 01.10",
+      "price_label": "1 395 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474455503"
+    },
+    {
+      "item_id": "474445963",
+      "heading": "Pokemon Korean Booster Box s6a Ny Sealed Eevee Heroes NY PRIS 01.10",
+      "price_label": "1 999 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474445963"
+    },
+    {
+      "item_id": "456190676",
+      "heading": "Original art av Mitsuhiro Arita, 2004 Pokémon TCG World Championships",
+      "price_label": "500 000 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/456190676"
+    },
+    {
+      "item_id": "477853120",
+      "heading": "Pokemon VSTAR Universe Booster Box",
+      "price_label": "2 599 kr",
+      "location": "Kråkstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477853120"
+    },
+    {
+      "item_id": "479962874",
+      "heading": "10x Pokémon Vstar Universe Boosterpakker JP",
+      "price_label": "1 800 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479962874"
+    },
+    {
+      "item_id": "474449103",
+      "heading": "Pokemon Korean Booster Box sv1a Ny Sealed x2 Triplet Beat Sword and Shield",
+      "price_label": "1 385 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474449103"
+    },
+    {
+      "item_id": "474446355",
+      "heading": "Pokemon Korean 2x Booster Box Ny Sealed Ruler of the Black Flame sv3",
+      "price_label": "1 295 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474446355"
+    },
+    {
+      "item_id": "469458718",
+      "heading": "Pokémon Mega Symphonia koreansk Booster box",
+      "price_label": "1 000 kr",
+      "location": "Silsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469458718"
+    },
+    {
+      "item_id": "477286526",
+      "heading": "Pokemon Vstar Universe Box / Boks",
+      "price_label": "2 790 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477286526"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "b5220709-67db-48de-a312-c31783104f41",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480239114/b5220709-67db-48de-a312-c31783104f41"
+    },
+    {
+      "uuid": "3704225a-a341-48bd-ad08-c1059da5e5ab",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480239114/3704225a-a341-48bd-ad08-c1059da5e5ab"
+    },
+    {
+      "uuid": "f4958440-99e0-40e1-90c2-206025f6f5d8",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480239114/f4958440-99e0-40e1-90c2-206025f6f5d8"
+    },
+    {
+      "uuid": "a1b4a906-562d-4dce-9824-a6803b302a8e",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480239114/a1b4a906-562d-4dce-9824-a6803b302a8e"
+    },
+    {
+      "uuid": "c97a69c4-0de5-46c3-ada3-a1f1150e8a59",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480239114/c97a69c4-0de5-46c3-ada3-a1f1150e8a59"
+    },
+    {
+      "uuid": "40c37492-ac1b-4e3b-8e8d-17c9a7733a45",
+      "item_ref": "480239114",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480239114/40c37492-ac1b-4e3b-8e8d-17c9a7733a45"
+    }
+  ],
+  "raw_capture": "480239114_pokemon-korean-vstar-universe/raw/480239114_2026-11-08-224638.html"
+}

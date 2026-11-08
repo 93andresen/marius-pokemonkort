@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479077088",
+  "url": "https://www.finn.no/recommerce/forsale/item/479077088",
+  "slug": "479077088_pok-mon-shiny-star-v-booster-box-japansk",
+  "first_seen": "2026-11-08T22:44:55Z",
+  "last_seen": "2026-11-08T22:44:55Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon Shiny Star V Booster Box Japansk",
+    "status": "Aktiv",
+    "price_nok": 2099,
+    "trade_type": "Til salgs",
+    "location_text": "Ludvig Skattums gate 15, 2819 Gjøvik",
+    "postal_code": null,
+    "last_modified": "2026-10-19T10:34:00",
+    "gallery_count": 8,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:44:55Z",
+      "raw": "479077088_pok-mon-shiny-star-v-booster-box-japansk/raw/479077088_2026-11-08-224455.html",
+      "parse_quality": "full",
+      "price_nok": 2099,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479076284",
+      "heading": "Pokémon Incandescent Arcana Booster Box Japansk",
+      "price_label": "1 149 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479076284"
+    },
+    {
+      "item_id": "208959705",
+      "heading": "Pokemon Shiny Star V Booster Boks Japan",
+      "price_label": "2 449 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/208959705"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479075557",
+      "heading": "Pokémon GO Booster Box Japansk",
+      "price_label": "2 399 kr",
+      "location": "Gjøvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479075557"
+    },
+    {
+      "item_id": "476962018",
+      "heading": "Pokemon Shiny Star V Booster Box Boks",
+      "price_label": "2 300 kr",
+      "location": "Lillesand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476962018"
+    },
+    {
+      "item_id": "477853120",
+      "heading": "Pokemon VSTAR Universe Booster Box",
+      "price_label": "2 599 kr",
+      "location": "Kråkstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477853120"
+    },
+    {
+      "item_id": "476977415",
+      "heading": "Pokemon japanese Japansk booster box sv4a shiny treasure NY PRIS 01.10",
+      "price_label": "1 477 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476977415"
+    },
+    {
+      "item_id": "371832413",
+      "heading": "Pokemon",
+      "price_label": "2 500 kr",
+      "location": "Brumunddal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/371832413"
+    },
+    {
+      "item_id": "475231193",
+      "heading": "Pokemon Shiny Treasure EX - Booster Box (Gratis frakt)",
+      "price_label": "1 799 kr",
+      "location": "Fornebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475231193"
+    }
+  ]
+}

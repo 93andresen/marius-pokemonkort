@@ -1,0 +1,221 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:46:15Z",
+  "contact_button": {
+    "adId": "480082813",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480082813",
+  "kode_candidates": {
+    "canonical": "480082813",
+    "object_info": "480082813",
+    "maplink": "480082813",
+    "contact_button": "480082813",
+    "hint": "480082813"
+  },
+  "ld_json": {
+    "sku": "480082813",
+    "name": "Pokémon Heat Wave Arena japansk boosterboks",
+    "url": "https://www.finn.no/recommerce/forsale/item/480082813",
+    "item_condition": "NewCondition",
+    "price_raw": "1250",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1250
+  },
+  "title_source": "dom",
+  "title": "Pokémon Heat Wave Arena japansk boosterboks",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1250,
+  "price_nok_source": "ld+json",
+  "location_text": "5261 Indre Arna",
+  "lat": 60.41939978257222,
+  "lon": 5.465521188410146,
+  "postal_code": "5261",
+  "last_modified_raw": "5.11.2026 kl. 09:45",
+  "last_modified": "2026-11-05T09:45:00",
+  "gallery_count": 4,
+  "image_uuids": [
+    "5d4e10fe-c094-4422-ab60-76918611c865",
+    "9c200f94-1dee-4059-a31e-47abcde4d40a",
+    "93f80a49-5ffd-472a-aea8-60ea0d4987d9",
+    "67ff3cfa-318f-45f6-8be8-01555af8b06c"
+  ],
+  "image_count_from_html": 4,
+  "description_raw": "Pokémon Heat Wave Arena-boks med japansk tekst og motiv av Pokémon på esken. Boksen har fargerik illustrasjon på forsiden og bilder av kort på siden.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\npokemon slab psa\n\nPokemon TCG\n\nAscended Heroes\n\nPikachu\n\nDragonite\n\nBooster packs\n\nBooster bundle\n\nAscended Heroes\n\nSpecial Illustration Rare\n\nHyper rare\n\nCharizard\n\nMega Gengar EX\n\nPikachu EX\n\nMega Charizard Y EX \n\nMega Dragonite EX\n\nTeam Rocket’s Mewtwo\n\nGengar\n\nDragonite\n\nPikachu\n\nUmbreon\n\nUmbreon EX\n\nUmbreon Master Ball Holo\n\nSylveon EX\n\nLeafeon EX\n\nEspeon EX\n\nVaporeon EX\n\nGlaceon EX\n\nFlareon EX\n\nJolteon EX\n\nEevee EX Roaring Moon Ex\n\nCeruledge EX\n\nPikachu EX\n\nTerapagos EX\n\nSylveon Master Ball Holo\n\nSAR\n\nEeveelutions\n\nFull odds God pack\n\nDemi God Pack\n\nMaster Ball God Pack\n\nBoosterpacks\n\nBoosterpakker\n\nGod Packs \n\nGod Pack\n\nMega Evolution\n\nScarlet & Violet\n\nSword & Shield\n\nSealed",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "475604931",
+      "heading": "Japanske Pokemon Booster Bokser",
+      "price_label": "900 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475604931"
+    },
+    {
+      "item_id": "477005480",
+      "heading": "Gratis Frakt, Pokemon Scarlet & Violet Stellar Miracle boosterboks japansk",
+      "price_label": "1 000 kr",
+      "location": "Tårnåsen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477005480"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "471270948",
+      "heading": "Pokémon Mega Dream EX Japansk Sealed Boosterboks ( 1 av 5)",
+      "price_label": "1 299 kr",
+      "location": "Mosby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471270948"
+    },
+    {
+      "item_id": "464616478",
+      "heading": "Pokémon Mega Dream EX japanske boosterbokser",
+      "price_label": "1 750 kr",
+      "location": "Sofiemyr",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/464616478"
+    },
+    {
+      "item_id": "470432654",
+      "heading": "Pokemon Japansk Legendary Heartbeat s3a Booster Box - forseglet",
+      "price_label": "3 200 kr",
+      "location": "Bergen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/470432654"
+    },
+    {
+      "item_id": "473224440",
+      "heading": "Pokémon Ascended Heroes booster-boks",
+      "price_label": "1 100 kr",
+      "location": "Nyborg",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473224440"
+    },
+    {
+      "item_id": "479217777",
+      "heading": "Pokemon Mega Dream EX boosterboks japansk",
+      "price_label": "1 200 kr",
+      "location": "Førde",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479217777"
+    },
+    {
+      "item_id": "476108812",
+      "heading": "Pokémon Mega Evolution Ascended Heroes Booster Bundle",
+      "price_label": "1 200 kr",
+      "location": "Nesttun",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476108812"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "5d4e10fe-c094-4422-ab60-76918611c865",
+      "item_ref": "480082813",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480082813/5d4e10fe-c094-4422-ab60-76918611c865"
+    },
+    {
+      "uuid": "9c200f94-1dee-4059-a31e-47abcde4d40a",
+      "item_ref": "480082813",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480082813/9c200f94-1dee-4059-a31e-47abcde4d40a"
+    },
+    {
+      "uuid": "93f80a49-5ffd-472a-aea8-60ea0d4987d9",
+      "item_ref": "480082813",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480082813/93f80a49-5ffd-472a-aea8-60ea0d4987d9"
+    },
+    {
+      "uuid": "67ff3cfa-318f-45f6-8be8-01555af8b06c",
+      "item_ref": "480082813",
+      "base_url": "https://images.finncdn.no/dynamic/142w/item/480082813/67ff3cfa-318f-45f6-8be8-01555af8b06c"
+    }
+  ],
+  "raw_capture": "480082813_pok-mon-heat-wave-arena-japansk-boosterboks/raw/480082813_2026-11-08-224615.html"
+}

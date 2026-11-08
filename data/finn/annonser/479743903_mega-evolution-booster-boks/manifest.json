@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479743903",
+  "url": "https://www.finn.no/recommerce/forsale/item/479743903",
+  "slug": "479743903_mega-evolution-booster-boks",
+  "first_seen": "2026-11-08T22:46:46Z",
+  "last_seen": "2026-11-08T22:46:46Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Mega Evolution booster boks",
+    "status": "Aktiv",
+    "price_nok": 3200,
+    "trade_type": null,
+    "location_text": "3158 Andebu",
+    "postal_code": "3158",
+    "last_modified": "2026-11-02T00:46:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:46Z",
+      "raw": "479743903_mega-evolution-booster-boks/raw/479743903_2026-11-08-224646.html",
+      "parse_quality": "full",
+      "price_nok": 3200,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "460082054",
+      "heading": "Pokémon Mega Evolution Enhanced Booster Box – Sealed",
+      "price_label": "4 000 kr",
+      "location": "Åsgårdstrand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/460082054"
+    },
+    {
+      "item_id": "431428064",
+      "heading": "Pokemon Mega Evolution Booster Boks Case",
+      "price_label": "23 000 kr",
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/431428064"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "479743702",
+      "heading": "Paldea evolved booster boks sealed",
+      "price_label": "4 599 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479743702"
+    },
+    {
+      "item_id": "469811230",
+      "heading": "Mega Evolution Booster Box",
+      "price_label": "3 799 kr",
+      "location": "Jar",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469811230"
+    },
+    {
+      "item_id": "479031175",
+      "heading": "Pokemon booster bokser selges",
+      "price_label": "13 000 kr",
+      "location": "Andebu",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479031175"
+    },
+    {
+      "item_id": "467789902",
+      "heading": "Mega Evolution Booster Boks med case",
+      "price_label": "3 900 kr",
+      "location": "Sandvika",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467789902"
+    },
+    {
+      "item_id": "478087534",
+      "heading": "Mega Evolution Pitch Black - Booster Boks",
+      "price_label": "2 800 kr",
+      "location": "Stavern",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478087534"
+    },
+    {
+      "item_id": "471855895",
+      "heading": "Pokémon Mega Evolution Booster boks",
+      "price_label": "4 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471855895"
+    }
+  ]
+}

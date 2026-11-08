@@ -1,0 +1,169 @@
+{
+  "finn_kode": "476606430",
+  "url": "https://www.finn.no/recommerce/forsale/item/476606430",
+  "slug": "476606430_pokemon-30th-celebration-japansk-display-booster-box",
+  "first_seen": "2026-11-08T22:45:25Z",
+  "last_seen": "2026-11-08T22:45:25Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokemon 30th Celebration Japansk Display Booster Box",
+    "status": "Aktiv",
+    "price_nok": 1899,
+    "trade_type": "Til salgs",
+    "location_text": "4331 Ålgård",
+    "postal_code": null,
+    "last_modified": "2026-11-07T20:44:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:25Z",
+      "raw": "476606430_pokemon-30th-celebration-japansk-display-booster-box/raw/476606430_2026-11-08-224525.html",
+      "parse_quality": "full",
+      "price_nok": 1899,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477280195",
+      "heading": "Pokémon 30th Celebration Booster Box japansk",
+      "price_label": "2 500 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477280195"
+    },
+    {
+      "item_id": "480586824",
+      "heading": "Pokemon 30th Celebration Booster Box (Kinesisk)",
+      "price_label": "1 290 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480586824"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "477772475",
+      "heading": "Pokemon 30th anniversary BoosterBox japansk",
+      "price_label": "2 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477772475"
+    },
+    {
+      "item_id": "476672634",
+      "heading": "Pokémon 30th Celebration Booster Box (M6a) - japansk, forseglet",
+      "price_label": "1 800 kr",
+      "location": "Lillestrøm",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476672634"
+    },
+    {
+      "item_id": "478187336",
+      "heading": "Pokemon 30th Celebration Japansk boosterboks – forseglet",
+      "price_label": "2 300 kr",
+      "location": "Råholt",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478187336"
+    },
+    {
+      "item_id": "477531885",
+      "heading": "Pokémon 30th Celebration japansk",
+      "price_label": "2 600 kr",
+      "location": "Kleppestø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477531885"
+    },
+    {
+      "item_id": "476761485",
+      "heading": "30th Celebrations Japanese Booster Box - FRAKT INKLUDERT!",
+      "price_label": "2 449 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476761485"
+    },
+    {
+      "item_id": "479844400",
+      "heading": "✨ Pokémon 30th Celebration Booster Box (M6a) – Japansk – Forseglet",
+      "price_label": "2 350 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479844400"
+    }
+  ]
+}

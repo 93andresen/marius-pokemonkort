@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480586760",
+  "url": "https://www.finn.no/recommerce/forsale/item/480586760",
+  "slug": "480586760_pok-mon-30th-celebration-espeon-umbreon-upc-duo-forseglet",
+  "first_seen": "2026-11-08T22:45:48Z",
+  "last_seen": "2026-11-08T22:45:48Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon 30th Celebration – Espeon & Umbreon UPC Duo | Forseglet",
+    "status": "Aktiv",
+    "price_nok": 10500,
+    "trade_type": null,
+    "location_text": "9008 Tromsø",
+    "postal_code": "9008",
+    "last_modified": "2026-11-08T23:02:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:48Z",
+      "raw": "480586760_pok-mon-30th-celebration-espeon-umbreon-upc-duo-forseglet/raw/480586760_2026-11-08-224548.html",
+      "parse_quality": "full",
+      "price_nok": 10500,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480580045",
+      "heading": "Pokemon 30th Celebration - Espeon 🔮Ultra Premium collection ☀️ (day edition)",
+      "price_label": "4 250 kr",
+      "location": "Talvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480580045"
+    },
+    {
+      "item_id": "480579179",
+      "heading": "Pokemon 30th Celebration - Umbreon ⚫️ Ultra Premium Collection (UPC",
+      "price_label": "4 300 kr",
+      "location": "Talvik",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480579179"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "480488837",
+      "heading": "Pokemon 30th UPC Night ! 🌙",
+      "price_label": "5 050 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480488837"
+    },
+    {
+      "item_id": "480429374",
+      "heading": "30th celebrations Ultra premium collection pokemon kort UPC",
+      "price_label": "4 500 kr",
+      "location": "Krokelvdalen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480429374"
+    },
+    {
+      "item_id": "480485190",
+      "heading": "Pokemon 30th UPC - Day (Espeon)",
+      "price_label": "4 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480485190"
+    },
+    {
+      "item_id": "480405863",
+      "heading": "Pokémon 30th Celebration Ultra Premium Collection – Day (Espeon) | Forseglet",
+      "price_label": "5 698 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480405863"
+    },
+    {
+      "item_id": "480377081",
+      "heading": "Selger en flott Pokémon 30th Celebration Ultra-Premium Collection",
+      "price_label": "5 300 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlefigurer"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480377081"
+    },
+    {
+      "item_id": "480407593",
+      "heading": "Pokemon 30th Celebration UPC day",
+      "price_label": "4 200 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480407593"
+    }
+  ]
+}

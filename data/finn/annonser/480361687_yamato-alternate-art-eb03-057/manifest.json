@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480361687",
+  "url": "https://www.finn.no/recommerce/forsale/item/480361687",
+  "slug": "480361687_yamato-alternate-art-eb03-057",
+  "first_seen": "2026-11-08T22:46:08Z",
+  "last_seen": "2026-11-08T22:46:08Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Yamato [Alternate Art] EB03-057",
+    "status": "Aktiv",
+    "price_nok": 100,
+    "trade_type": null,
+    "location_text": "3511 Hønefoss",
+    "postal_code": "3511",
+    "last_modified": "2026-11-08T18:51:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:08Z",
+      "raw": "480361687_yamato-alternate-art-eb03-057/raw/480361687_2026-11-08-224608.html",
+      "parse_quality": "full",
+      "price_nok": 100,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480361689",
+      "heading": "Yamato EB03-057 One Piece Japanese Extra Booster Heroines Edition",
+      "price_label": "30 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361689"
+    },
+    {
+      "item_id": "480361735",
+      "heading": "Carrot [Alternate Art] EB03-013",
+      "price_label": "80 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361735"
+    },
+    {
+      "item_id": "480109386",
+      "heading": "Stort utvalg samlekort - Pokémon, Marvel, One Piece, Star Wars",
+      "price_label": null,
+      "location": "Frogner",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480109386"
+    },
+    {
+      "item_id": "480361724",
+      "heading": "Tashigi [Alternate Art] EB03-018",
+      "price_label": "90 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361724"
+    },
+    {
+      "item_id": "480361710",
+      "heading": "Kujyaku [Alternate Art] EB03-041",
+      "price_label": "100 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361710"
+    },
+    {
+      "item_id": "480361921",
+      "heading": "Sengoku [Alternate Art] EB02-044",
+      "price_label": "190 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361921"
+    },
+    {
+      "item_id": "480361704",
+      "heading": "Perona [Alternate Art] EB03-045",
+      "price_label": "150 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361704"
+    },
+    {
+      "item_id": "480361739",
+      "heading": "Nefeltari Vivi [Alternate Art] EB03-001",
+      "price_label": "100 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361739"
+    },
+    {
+      "item_id": "480361925",
+      "heading": "Nefeltari Vivi [Alternate Art] EB02-026",
+      "price_label": "150 kr",
+      "location": "Hønefoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480361925"
+    }
+  ]
+}

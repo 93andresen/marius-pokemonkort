@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480576846",
+  "url": "https://www.finn.no/recommerce/forsale/item/480576846",
+  "slug": "480576846_pok-mon-30th-celebration-ditto-premium-collection",
+  "first_seen": "2026-11-08T22:45:56Z",
+  "last_seen": "2026-11-08T22:45:56Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Pokémon 30th Celebration Ditto Premium Collection",
+    "status": "Aktiv",
+    "price_nok": 999,
+    "trade_type": null,
+    "location_text": "0276 Oslo",
+    "postal_code": "0276",
+    "last_modified": "2026-11-08T20:40:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:56Z",
+      "raw": "480576846_pok-mon-30th-celebration-ditto-premium-collection/raw/480576846_2026-11-08-224556.html",
+      "parse_quality": "full",
+      "price_nok": 999,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "480557638",
+      "heading": "Pokemon 30th Ditto premium collection",
+      "price_label": "1 299 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480557638"
+    },
+    {
+      "item_id": "480406086",
+      "heading": "Pokémon TCG 30th Celebration – Ditto Premium Collection",
+      "price_label": "1 299 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480406086"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480369405",
+      "heading": "Pokemon 30th celebration ditto collection",
+      "price_label": "1 249 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480369405"
+    },
+    {
+      "item_id": "480557142",
+      "heading": "Pokemon 30th celebration Ditto collectio",
+      "price_label": "1 350 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480557142"
+    },
+    {
+      "item_id": "480456184",
+      "heading": "Pokémon 30th celebration Ditto Collection",
+      "price_label": "1 099 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480456184"
+    },
+    {
+      "item_id": "480399293",
+      "heading": "Pokemon 30th Celebration Ditto Premium Collection (8 BOOSTERS)",
+      "price_label": "1 490 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480399293"
+    },
+    {
+      "item_id": "480374426",
+      "heading": "Pokemon 30th Celebration Ditto Premium",
+      "price_label": "1 399 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480374426"
+    },
+    {
+      "item_id": "480385165",
+      "heading": "Pokemon 30th Celebration Ditto Premium Collection",
+      "price_label": "1 399 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480385165"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:44:57Z",
+  "contact_button": {
+    "adId": "480587158",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480587158",
+  "kode_candidates": {
+    "canonical": "480587158",
+    "object_info": "480587158",
+    "maplink": "480587158",
+    "contact_button": "480587158",
+    "hint": "480587158"
+  },
+  "ld_json": {
+    "sku": "480587158",
+    "name": "Japansk Terastal Festival ex Booster Box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480587158",
+    "item_condition": "NewCondition",
+    "price_raw": "2099",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 2099
+  },
+  "title_source": "dom",
+  "title": "Japansk Terastal Festival ex Booster Box",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 2099,
+  "price_nok_source": "ld+json",
+  "location_text": "4100 Jørpeland",
+  "lat": 59.02250428653369,
+  "lon": 6.0408088236914965,
+  "postal_code": null,
+  "last_modified_raw": "8.11.2026 kl. 23:10",
+  "last_modified": "2026-11-08T23:10:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "ba37fc60-65c2-4bfb-8c8f-7536bfffdc99"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Pokémon TCG Terastal Festival ex (SV8a) Booster Box i japansk utgave. Settet har Eevee og evolusjonene i fokus.\n\nInnhold:\n• 1 fabrikkforseglet Booster Box\n• 10 boosterpakker\n• 10 japanske Pokémon-kort per pakke\n\nPris: 2 099 kr per boks.\n\nProduktet sendes uåpnet. Kortinnholdet i boosterpakkene er tilfeldig; ingen bestemte kort eller treff garanteres. Bildene er produktbilder.\n\nSelges av Cardero, norsk nettbutikk for Pokémon-kort, TCG og samlertilbehør. Se produktlenken for bestilling og tilgjengelige fraktalternativer. Du kan også sende oss en melding på FINN.\n\nTags:\nPokemon, Pokémon, Pokemonkort, Pokémon TCG, Terastal Festival ex, Booster Box, boosterboks, booster display, japanske Pokemonkort, japansk Pokemon, Japanese Pokemon, samlekort, sealed Pokemon, forseglet",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "478855411",
+      "heading": "⭐ Pokémon Terastal Festival ex Booster Box – Japansk Sealed ⭐",
+      "price_label": "1 800 kr",
+      "location": "Knarrlagsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478855411"
+    },
+    {
+      "item_id": "474858317",
+      "heading": "Pokemon Terastal Festival EX boosterboks japansk",
+      "price_label": "1 999 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474858317"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "467039882",
+      "heading": "Pokemon Terastal Festival ex Booster Box",
+      "price_label": "1 800 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/467039882"
+    },
+    {
+      "item_id": "479137540",
+      "heading": "Terastal festival japansk booster boks",
+      "price_label": "1 799 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479137540"
+    },
+    {
+      "item_id": "479488384",
+      "heading": "Japansk Pokemon - Terastal Festival Ex Booster Boks - SV8A",
+      "price_label": "1 750 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488384"
+    },
+    {
+      "item_id": "477148656",
+      "heading": "Ny Pokemon Terastal Festival box + Display - uåpnet",
+      "price_label": "1 700 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477148656"
+    },
+    {
+      "item_id": "471623506",
+      "heading": "Ny Pokemon Terastal Festival boksen (Jap) - uåpnet",
+      "price_label": "1 500 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/471623506"
+    },
+    {
+      "item_id": "469262187",
+      "heading": "Pokemon TCG High class Terastal festival Boosterbox, japansk,  selges",
+      "price_label": "1 900 kr",
+      "location": "Silsand",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/469262187"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "ba37fc60-65c2-4bfb-8c8f-7536bfffdc99",
+      "item_ref": "480587158",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480587158/ba37fc60-65c2-4bfb-8c8f-7536bfffdc99"
+    }
+  ],
+  "raw_capture": "480587158_japansk-terastal-festival-ex-booster-box/raw/480587158_2026-11-08-224457.html"
+}

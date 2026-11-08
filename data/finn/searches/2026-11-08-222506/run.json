@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-08-222506",
+  "started_at": "2026-11-08T22:25:06Z",
+  "search_set": false,
+  "queries": [
+    "pokemon booster box sealed"
+  ],
+  "searches": [
+    {
+      "id": "query-pokemon-booster-box-sealed",
+      "kind": "query",
+      "label": "pokemon booster box sealed",
+      "query": "pokemon booster box sealed",
+      "tier": null,
+      "sorts": [
+        "PUBLISHED_DESC"
+      ],
+      "max_pages": 1,
+      "params": [
+        [
+          "category",
+          "0.86"
+        ],
+        [
+          "sub_category",
+          "1.86.285"
+        ],
+        [
+          "product_category",
+          "2.86.285.396"
+        ]
+      ]
+    }
+  ],
+  "extra_params": [
+    [
+      "category",
+      "0.86"
+    ],
+    [
+      "sub_category",
+      "1.86.285"
+    ],
+    [
+      "product_category",
+      "2.86.285.396"
+    ]
+  ],
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "pokemon booster box sealed",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+booster+box+sealed&sort=PUBLISHED_DESC&category=0.86&sub_category=1.86.285&product_category=2.86.285.396",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 951,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 18
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-11-08-222506\\pokemon-booster-box-sealed\\page_001.html"
+    }
+  ],
+  "totals": {
+    "pages": 1,
+    "docs": 53
+  },
+  "finished_at": "2026-11-08T22:25:09Z",
+  "total_new_koder": 53
+}

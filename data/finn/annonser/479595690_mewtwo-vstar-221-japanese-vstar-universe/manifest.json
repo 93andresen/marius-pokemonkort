@@ -1,0 +1,169 @@
+{
+  "finn_kode": "479595690",
+  "url": "https://www.finn.no/recommerce/forsale/item/479595690",
+  "slug": "479595690_mewtwo-vstar-221-japanese-vstar-universe",
+  "first_seen": "2026-11-08T22:46:42Z",
+  "last_seen": "2026-11-08T22:46:42Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Mewtwo VSTAR #221 Japanese VSTAR Universe",
+    "status": "Aktiv",
+    "price_nok": 1200,
+    "trade_type": null,
+    "location_text": "2833 Raufoss",
+    "postal_code": "2833",
+    "last_modified": "2026-11-02T20:46:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:42Z",
+      "raw": "479595690_mewtwo-vstar-221-japanese-vstar-universe/raw/479595690_2026-11-08-224642.html",
+      "parse_quality": "full",
+      "price_nok": 1200,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "477645584",
+      "heading": "Mewtwo #52 Promo",
+      "price_label": "750 kr",
+      "location": "Raufoss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477645584"
+    },
+    {
+      "item_id": "474961178",
+      "heading": "Mewtwo VSTAR #221 Pokemon Japanese VSTAR Universe",
+      "price_label": "2 500 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474961178"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "457912599",
+      "heading": "Mewtwo #12 fra Delta Species",
+      "price_label": "2 100 kr",
+      "location": "Elverum",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457912599"
+    },
+    {
+      "item_id": "474919996",
+      "heading": "Pokemon 237/193 Team Rocket's Mewtwo ex japansk",
+      "price_label": "1 300 kr",
+      "location": "Moltustranda",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474919996"
+    },
+    {
+      "item_id": "479840379",
+      "heading": "japanske Pokémon kort 30th",
+      "price_label": "1 000 kr",
+      "location": "Kongsvinger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479840379"
+    },
+    {
+      "item_id": "478686438",
+      "heading": "Mewtwo ex #134 Pokemon Japanese 30th Celebration",
+      "price_label": "700 kr",
+      "location": "Ålesund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478686438"
+    },
+    {
+      "item_id": "454461600",
+      "heading": "Mewtwo V (SWSH 223)",
+      "price_label": "499 kr",
+      "location": "Skotterud",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/454461600"
+    },
+    {
+      "item_id": "479721355",
+      "heading": "Team Rockets Mewtwo EX 237/193",
+      "price_label": "1 350 kr",
+      "location": "Oslo",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479721355"
+    }
+  ]
+}

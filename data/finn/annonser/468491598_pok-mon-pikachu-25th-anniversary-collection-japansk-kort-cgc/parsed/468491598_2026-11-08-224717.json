@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:47:17Z",
+  "contact_button": {
+    "adId": "468491598",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "468491598",
+  "kode_candidates": {
+    "canonical": "468491598",
+    "object_info": "468491598",
+    "maplink": "468491598",
+    "contact_button": "468491598",
+    "hint": "468491598"
+  },
+  "ld_json": {
+    "sku": "468491598",
+    "name": "Pokémon Pikachu 25th Anniversary Collection japansk kort CGC 10 P",
+    "url": "https://www.finn.no/recommerce/forsale/item/468491598",
+    "item_condition": "NewCondition",
+    "price_raw": "1500",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 1500
+  },
+  "title_source": "dom",
+  "title": "Pokémon Pikachu 25th Anniversary Collection japansk kort CGC 10 Pristine",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 1500,
+  "price_nok_source": "ld+json",
+  "location_text": "3122 Tønsberg",
+  "lat": 59.29204032158997,
+  "lon": 10.419190158772999,
+  "postal_code": "3122",
+  "last_modified_raw": "1.11.2026 kl. 07:49",
+  "last_modified": "2026-11-01T07:49:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "4893f697-1aaf-4ead-ab54-d30f4124245d",
+    "c4c575ef-e4bf-44bc-9c10-bfa937a88d9b"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Japansk Pikachu-kort fra Pokémon 25th Anniversary Collection, gradert CGC 10 Pristine og lagt i hard plastkapsel. Fin samlekort med tydelig gull-etikett og jubileumslogo 25 nede i hjørnet.",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "477145437",
+      "heading": "Pokémon Pikachu 25th Anniversary kort CCG 10",
+      "price_label": "890 kr",
+      "location": "Drammen",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477145437"
+    },
+    {
+      "item_id": "480276567",
+      "heading": "Pokémon Pikachu 25th 001/028",
+      "price_label": "600 kr",
+      "location": "Lørenskog",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480276567"
+    },
+    {
+      "item_id": "480486228",
+      "heading": "Diverse graderte Pokemon kort",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480486228"
+    },
+    {
+      "item_id": "477061264",
+      "heading": "Pikachu promo 224 20th Anniv. Japanese Exclusive - CGC 9",
+      "price_label": "2 865 kr",
+      "location": "Matredal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477061264"
+    },
+    {
+      "item_id": "474959365",
+      "heading": "Pikachu #3 Pokemon Japanese 25th Anniversary Golden Box",
+      "price_label": "1 100 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474959365"
+    },
+    {
+      "item_id": "474956988",
+      "heading": "'s Pikachu #7 Pokemon Japanese 25th Anniversary Promo",
+      "price_label": "3 850 kr",
+      "location": "Jessheim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/474956988"
+    },
+    {
+      "item_id": "479865750",
+      "heading": "Pokemon Pikachu Generations RC29 CGC8",
+      "price_label": "2 500 kr",
+      "location": "Nybergsund",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479865750"
+    },
+    {
+      "item_id": "480025922",
+      "heading": "Pokémon Pikachu Pokémon 2021 CGC 9.5 samlekort",
+      "price_label": "849 kr",
+      "location": "Skien",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480025922"
+    },
+    {
+      "item_id": "477611335",
+      "heading": "Pokémon Birthday Pikachu #24 – PSA 10 GEM MINT – 2021 Celebrations",
+      "price_label": "2 490 kr",
+      "location": "Sande i Vestfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477611335"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "4893f697-1aaf-4ead-ab54-d30f4124245d",
+      "item_ref": "468491598",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/468491598/4893f697-1aaf-4ead-ab54-d30f4124245d"
+    },
+    {
+      "uuid": "c4c575ef-e4bf-44bc-9c10-bfa937a88d9b",
+      "item_ref": "468491598",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/468491598/c4c575ef-e4bf-44bc-9c10-bfa937a88d9b"
+    }
+  ],
+  "raw_capture": "468491598_pok-mon-pikachu-25th-anniversary-collection-japansk-kort-cgc/raw/468491598_2026-11-08-224717.html"
+}

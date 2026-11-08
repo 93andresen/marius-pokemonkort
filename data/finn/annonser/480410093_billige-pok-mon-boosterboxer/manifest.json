@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480410093",
+  "url": "https://www.finn.no/recommerce/forsale/item/480410093",
+  "slug": "480410093_billige-pok-mon-boosterboxer",
+  "first_seen": "2026-11-08T22:46:36Z",
+  "last_seen": "2026-11-08T22:46:36Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Billige Pokémon Boosterboxer",
+    "status": "Aktiv",
+    "price_nok": 800,
+    "trade_type": "Til salgs",
+    "location_text": "4332 Figgjo",
+    "postal_code": "4332",
+    "last_modified": "2026-11-06T19:29:00",
+    "gallery_count": 1,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:46:36Z",
+      "raw": "480410093_billige-pok-mon-boosterboxer/raw/480410093_2026-11-08-224636.html",
+      "parse_quality": "full",
+      "price_nok": 800,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "475604931",
+      "heading": "Japanske Pokemon Booster Bokser",
+      "price_label": "900 kr",
+      "location": "Sandnes",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/475604931"
+    },
+    {
+      "item_id": "477280195",
+      "heading": "Pokémon 30th Celebration Booster Box japansk",
+      "price_label": "2 500 kr",
+      "location": "Stavanger",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477280195"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "477772475",
+      "heading": "Pokemon 30th anniversary BoosterBox japansk",
+      "price_label": "2 500 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/477772475"
+    },
+    {
+      "item_id": "480193149",
+      "heading": "Crimson Haze Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 100 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480193149"
+    },
+    {
+      "item_id": "480192701",
+      "heading": "Triple Beat Booster Box Sealed Japansk Pokemon",
+      "price_label": "1 350 kr",
+      "location": "Kristiansand S",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480192701"
+    },
+    {
+      "item_id": "480251952",
+      "heading": "Pokémon 30th Anniversary Booster Boxer og pakker!",
+      "price_label": "1 300 kr",
+      "location": "Tromsø",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480251952"
+    },
+    {
+      "item_id": "476798704",
+      "heading": "Booster bokser / box",
+      "price_label": "3 000 kr",
+      "location": "Klepp stasjon",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476798704"
+    },
+    {
+      "item_id": "476532260",
+      "heading": "Mega Symphonia Booster Box",
+      "price_label": "749 kr",
+      "location": "Ålgård",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476532260"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:33Z",
+  "contact_button": {
+    "adId": "480584467",
+    "segment": "PRIVATE",
+    "type": "MESSAGING",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480584467",
+  "kode_candidates": {
+    "canonical": "480584467",
+    "object_info": "480584467",
+    "maplink": "480584467",
+    "contact_button": "480584467",
+    "hint": "480584467"
+  },
+  "ld_json": {
+    "sku": "480584467",
+    "name": "Mew EX metall",
+    "url": "https://www.finn.no/recommerce/forsale/item/480584467",
+    "item_condition": "NewCondition",
+    "price_raw": "800",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 800
+  },
+  "title_source": "dom",
+  "title": "Mew EX metall",
+  "status": "Aktiv",
+  "trade_type": null,
+  "price_label": null,
+  "price_nok": 800,
+  "price_nok_source": "ld+json",
+  "location_text": "1592 Våler i Østfold",
+  "lat": 59.49100228206924,
+  "lon": 10.87420778726999,
+  "postal_code": "1592",
+  "last_modified_raw": "8.11.2026 kl. 22:16",
+  "last_modified": "2026-11-08T22:16:00",
+  "gallery_count": 2,
+  "image_uuids": [
+    "81df05c0-86c3-46ac-b42e-1d0205336e61",
+    "43222d2c-69c5-4fb1-b75a-fd4731fab59e"
+  ],
+  "image_count_from_html": 2,
+  "description_raw": "Selger MEW ex metall 205 / 165 fra 151 UPC\n\n \n\nKan sendes eller hentes i Våler \n\n \n\n \n\n \n\nPOKÉMON SØKEORD\n\n \n\nPokémon Tcg glins destined rivals phantasmal flames surging sparks journey togheter evolving skies pikachu eevee umbreon twilight masqurade scarlet violet shrouded fable Japansk japan temporal forces prismatic bulks pokebulk grand master stamp SIR\n\n \n\npokemon, pokemonkort, pokémon kort, pokemon cards, trading cards, samlekort, samleobjekt, tcg, pokemon tcg, kortspill, samling, samlekortspill, gamle pokemonkort, vintage pokemon, retro pokemonkort, original pokemon, base set, base set 2, fossil, jungle, team rocket, gym heroes, gym challenge, neo genesis, neo discovery, neo revelation, neo destiny, wotc, wizard of the coast, sjeldne pokemonkort, rare pokemon cards, holo, holografisk, holo kort, reverse holo, ultra rare, secret rare, promo kort, first edition, 1st edition, shadowless, graded, psa, psa graded, bgs, mint, near mint, nm, lp, lightly played, pikachu, charizard, blastoise, venusaur, mewtwo, mew, eevee, snorlax, gyarados, dragonite, alakazam, machamp, samling selges, pokemon lot, bulk pokemon, komplett sett, gamle kort selges, kort i god stand, kort i varierende stand, samleobjekter selges, barndomsminner, norsk, norway, selges i norge, pokemon norge, pokemon kort norge promo\n\n \n\nJungle Fossil Base Set 2 Team Rocket Gym Heroes Gym Challenge Neo Genesis Neo Discovery Neo Revelation Neo Destiny\n\nExpedition Base Set Aquapolis skyridge\n\n \n\nEX Dragon EX Team Magma vs Team Aqua\n\nEX Hidden Legends EX FireRed & LeafGreen\n\nEX Team Rocket Returns EX Deoxys\n\nEX Emerald EX Unseen Forces EX Delta Species\n\nEX Legend Maker EX Holon Phantoms EX Crystal Guardians EX Dragon Frontiers EX Power Keepers Diamond & Pearl Mysterious Treasures\n\nSecret Wonders Great Encounters Majestic Dawn Legends Awakened Stormfront\n\nPlatinum Rising Rivals Supreme Victors\n\nArceus HeartGold & SoulSilver Unleashed\n\nUndaunted Triumphant Black & White\n\nEmerging Powers Noble Victories\n\nNext Destinies Dark Explorers Dragons Exalted\n\nBoundaries Crossed Plasma Storm Plasma Freeze Plasma Blast Legendary Treasures\n\nXY Flashfire Furious Fists Phantom Forces\n\nPrimal Clash Roaring Skies Ancient Origins\n\nBREAKthrough BREAKpoint Fates Collide\n\nSteam Siege Evolutions Sun & Moon\n\nGuardians Rising Burning Shadows Crimson Invasion Ultra Prism Forbidden Light\n\nCelestial Storm Lost Thunder Team Up Unbroken Bonds Unified Minds Cosmic Eclipse\n\nSword & Shield Rebel Clash Darkness Ablaze\n\nVivid Voltage Battle Styles Rebel Clash\n\nDarkness Ablaze Vivid Voltage Battle Styles\n\n \n\nChilling Reign Evolving Skies Fusion Strike\n\nBrilliant Stars Astral Radiance Pokémon GO\n\nLost Origin Silver Tempest Crown Zenith\n\nScarlet & Violet Paldea Evolved Obsidian Flames\n\nParadox Rift Paldean Fates Temporal Forces\n\nTwilight Masquerade Shrouded Fable\n\nStellar Crown Surging Sparks Journey Together\n\nDestined Rivals Black Bolt White Flare\n\nMega Evolution Mega Dream Phantasmal flames\n\nPitch black",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "479904052",
+      "heading": "Mewtwo delta species 12 PSA 1",
+      "price_label": "3 300 kr",
+      "location": "Våler i Østfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479904052"
+    },
+    {
+      "item_id": "480571077",
+      "heading": "Mew ex",
+      "price_label": "150 kr",
+      "location": "Sellebakk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480571077"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "457682441",
+      "heading": "Pokemon Mewtwo Vstar",
+      "price_label": "500 kr",
+      "location": "Våler i Østfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457682441"
+    },
+    {
+      "item_id": "473182789",
+      "heading": "Pokémon kort Mew EX holo",
+      "price_label": "900 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473182789"
+    },
+    {
+      "item_id": "476712682",
+      "heading": "Pokémon kort Mewtwo",
+      "price_label": "1 500 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476712682"
+    },
+    {
+      "item_id": "479975944",
+      "heading": "Mewtwo 24/110 - EX Holon Phantoms",
+      "price_label": "150 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479975944"
+    },
+    {
+      "item_id": "478443531",
+      "heading": "Pokémon kort Mew holo",
+      "price_label": "30 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478443531"
+    },
+    {
+      "item_id": "479261116",
+      "heading": "Pokemon mewtwo 12/113 delta species reverse holo",
+      "price_label": "6 000 kr",
+      "location": "Tistedal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479261116"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "81df05c0-86c3-46ac-b42e-1d0205336e61",
+      "item_ref": "480584467",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480584467/81df05c0-86c3-46ac-b42e-1d0205336e61"
+    },
+    {
+      "uuid": "43222d2c-69c5-4fb1-b75a-fd4731fab59e",
+      "item_ref": "480584467",
+      "base_url": "https://images.finncdn.no/dynamic/1600w/item/480584467/43222d2c-69c5-4fb1-b75a-fd4731fab59e"
+    }
+  ],
+  "raw_capture": "480584467_mew-ex-metall/raw/480584467_2026-11-08-224533.html"
+}

@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-08-222548",
+  "started_at": "2026-11-08T22:25:48Z",
+  "search_set": false,
+  "queries": [
+    "pokemon vstar universe"
+  ],
+  "searches": [
+    {
+      "id": "query-pokemon-vstar-universe",
+      "kind": "query",
+      "label": "pokemon vstar universe",
+      "query": "pokemon vstar universe",
+      "tier": null,
+      "sorts": [
+        "PUBLISHED_DESC"
+      ],
+      "max_pages": 1,
+      "params": [
+        [
+          "category",
+          "0.86"
+        ],
+        [
+          "sub_category",
+          "1.86.285"
+        ],
+        [
+          "product_category",
+          "2.86.285.396"
+        ]
+      ]
+    }
+  ],
+  "extra_params": [
+    [
+      "category",
+      "0.86"
+    ],
+    [
+      "sub_category",
+      "1.86.285"
+    ],
+    [
+      "product_category",
+      "2.86.285.396"
+    ]
+  ],
+  "all_pages": false,
+  "dry_run": false,
+  "pages": [
+    {
+      "query": "pokemon vstar universe",
+      "sort": "PUBLISHED_DESC",
+      "page": 1,
+      "url": "https://www.finn.no/recommerce/forsale/search?q=pokemon+vstar+universe&sort=PUBLISHED_DESC&category=0.86&sub_category=1.86.285&product_category=2.86.285.396",
+      "status": 200,
+      "docs": 53,
+      "num_results": 53,
+      "match_count": 186,
+      "paging": {
+        "param": "page",
+        "current": 1,
+        "last": 4
+      },
+      "raw": "C:\\data\\code\\marius-pokemonkort\\data\\finn\\searches\\2026-11-08-222548\\pokemon-vstar-universe\\page_001.html"
+    }
+  ],
+  "totals": {
+    "pages": 1,
+    "docs": 53
+  },
+  "finished_at": "2026-11-08T22:25:52Z",
+  "total_new_koder": 53
+}

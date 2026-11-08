@@ -1,0 +1,169 @@
+{
+  "finn_kode": "480584467",
+  "url": "https://www.finn.no/recommerce/forsale/item/480584467",
+  "slug": "480584467_mew-ex-metall",
+  "first_seen": "2026-11-08T22:45:33Z",
+  "last_seen": "2026-11-08T22:45:33Z",
+  "parser_version": "finn_ad/1.1.0",
+  "latest": {
+    "title": "Mew EX metall",
+    "status": "Aktiv",
+    "price_nok": 800,
+    "trade_type": null,
+    "location_text": "1592 Våler i Østfold",
+    "postal_code": "1592",
+    "last_modified": "2026-11-08T22:16:00",
+    "gallery_count": 2,
+    "parse_quality": "full"
+  },
+  "scrapes": [
+    {
+      "scraped_at": "2026-11-08T22:45:33Z",
+      "raw": "480584467_mew-ex-metall/raw/480584467_2026-11-08-224533.html",
+      "parse_quality": "full",
+      "price_nok": 800,
+      "status": "Aktiv",
+      "missing_fields": [],
+      "warnings": []
+    }
+  ],
+  "images": [],
+  "image_count_on_disk": 0,
+  "similar_ads": [
+    {
+      "item_id": "479904052",
+      "heading": "Mewtwo delta species 12 PSA 1",
+      "price_label": "3 300 kr",
+      "location": "Våler i Østfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479904052"
+    },
+    {
+      "item_id": "480571077",
+      "heading": "Mew ex",
+      "price_label": "150 kr",
+      "location": "Sellebakk",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480571077"
+    },
+    {
+      "item_id": "480554727",
+      "heading": "Umbreon kortsamling (ugradert)",
+      "price_label": null,
+      "location": "Sandefjord",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480554727"
+    },
+    {
+      "item_id": "457682441",
+      "heading": "Pokemon Mewtwo Vstar",
+      "price_label": "500 kr",
+      "location": "Våler i Østfold",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/457682441"
+    },
+    {
+      "item_id": "473182789",
+      "heading": "Pokémon kort Mew EX holo",
+      "price_label": "900 kr",
+      "location": "Moss",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/473182789"
+    },
+    {
+      "item_id": "476712682",
+      "heading": "Pokémon kort Mewtwo",
+      "price_label": "1 500 kr",
+      "location": "Askim",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/476712682"
+    },
+    {
+      "item_id": "479975944",
+      "heading": "Mewtwo 24/110 - EX Holon Phantoms",
+      "price_label": "150 kr",
+      "location": "Vestby",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479975944"
+    },
+    {
+      "item_id": "478443531",
+      "heading": "Pokémon kort Mew holo",
+      "price_label": "30 kr",
+      "location": "Fredrikstad",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/478443531"
+    },
+    {
+      "item_id": "479261116",
+      "heading": "Pokemon mewtwo 12/113 delta species reverse holo",
+      "price_label": "6 000 kr",
+      "location": "Tistedal",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479261116"
+    }
+  ]
+}

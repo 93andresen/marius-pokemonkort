@@ -1,0 +1,203 @@
+{
+  "parser_version": "finn_ad/1.1.0",
+  "parsed_at": "2026-11-08T22:45:52Z",
+  "contact_button": {
+    "adId": "480587091",
+    "segment": "PROFESSIONAL",
+    "type": "EMAIL",
+    "name": "contact-button-podlet"
+  },
+  "finn_kode": "480587091",
+  "kode_candidates": {
+    "canonical": "480587091",
+    "object_info": "480587091",
+    "maplink": "480587091",
+    "contact_button": "480587091",
+    "hint": "480587091"
+  },
+  "ld_json": {
+    "sku": "480587091",
+    "name": "Kinesisk Pokemon Crystal Gathering - Booster Box",
+    "url": "https://www.finn.no/recommerce/forsale/item/480587091",
+    "item_condition": "NewCondition",
+    "price_raw": "829",
+    "price_currency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "price_nok": 829
+  },
+  "title_source": "dom",
+  "title": "Kinesisk Pokemon Crystal Gathering - Booster Box",
+  "status": "Aktiv",
+  "trade_type": "Til salgs",
+  "price_label": "",
+  "price_nok": 829,
+  "price_nok_source": "ld+json",
+  "location_text": "4100 Jørpeland",
+  "lat": 59.02250428653369,
+  "lon": 6.0408088236914965,
+  "postal_code": null,
+  "last_modified_raw": "8.11.2026 kl. 23:08",
+  "last_modified": "2026-11-08T23:08:00",
+  "gallery_count": 1,
+  "image_uuids": [
+    "3d964fa7-d559-4ecb-813d-758075c1f7bd"
+  ],
+  "image_count_from_html": 1,
+  "description_raw": "Pokémon Crystal Gathering Booster Box i forenklet kinesisk utgave. Settet har Eevee, Eeveelutions og Terastal-motiver i fokus.\n\nInnhold:\n• 1 fabrikkforseglet Booster Box\n• 10 boosterpakker med 10 kort i hver\n\nPris: 999 kr per boks.\n\nProduktet sendes uåpnet. Kortinnholdet i boosterpakkene er tilfeldig; ingen bestemte kort eller treff garanteres. Bildene er produktbilder.\n\nSelges av Cardero, norsk nettbutikk for Pokémon-kort, TCG og samlertilbehør. Se produktlenken for bestilling og tilgjengelige fraktalternativer. Du kan også sende oss en melding på FINN.\n\nTags:\nPokemon, Pokémon, Pokemonkort, Pokémon TCG, Crystal Gathering, Booster Box, boosterboks, booster display, kinesiske Pokemonkort, kinesisk Pokemon, Chinese Pokemon, samlekort, sealed Pokemon, forseglet",
+  "breadcrumbs": [
+    "Torget",
+    "Fritid, hobby og underholdning",
+    "Samleobjekter",
+    "Samlekort"
+  ],
+  "condition": ":",
+  "favorite_count": null,
+  "similar_ads": [
+    {
+      "item_id": "480587200",
+      "heading": "Kinesisk Crystal Gathering - Booster Pack",
+      "price_label": "109 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587200"
+    },
+    {
+      "item_id": "480587162",
+      "heading": "Kinesisk Crystal Gathering – Eevee & Friends Premium Gift Box",
+      "price_label": "3 999 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587162"
+    },
+    {
+      "item_id": "479488331",
+      "heading": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "price_label": "1 800 kr",
+      "location": "Finstadjordet",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/479488331"
+    },
+    {
+      "item_id": "480587087",
+      "heading": "Kinesisk Crystal Gathering – Eevee Collectible Tin",
+      "price_label": "259 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587087"
+    },
+    {
+      "item_id": "480587202",
+      "heading": "Kinesisk Crystal Gathering – Sylveon Collectible Tin",
+      "price_label": "259 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587202"
+    },
+    {
+      "item_id": "480587081",
+      "heading": "Kinesisk Pokémon Collect 151 Gathering - SLIM Booster Box",
+      "price_label": "899 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587081"
+    },
+    {
+      "item_id": "480587059",
+      "heading": "Kinesisk Pokémon Gem Pack Vol. 1 – Booster Box",
+      "price_label": "1 899 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587059"
+    },
+    {
+      "item_id": "480587177",
+      "heading": "Kinesisk Crystal Gathering – Umbreon Collectible Tin",
+      "price_label": "259 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587177"
+    },
+    {
+      "item_id": "480587035",
+      "heading": "Kinesisk Pokémon Gem Pack Vol. 4 – Booster Box",
+      "price_label": "499 kr",
+      "location": "Jørpeland",
+      "categories": {
+        "main_category": "Fritid, hobby og underholdning",
+        "sub_category": "Samleobjekter",
+        "prod_category": "Samlekort"
+      },
+      "disposed_text": "Solgt",
+      "disposed_value": false,
+      "type_label": "Til salgs",
+      "url": "https://www.finn.no/480587035"
+    }
+  ],
+  "missing_fields": [],
+  "parse_quality": "full",
+  "warnings": [],
+  "image_candidates": [
+    {
+      "uuid": "3d964fa7-d559-4ecb-813d-758075c1f7bd",
+      "item_ref": "480587091",
+      "base_url": "https://images.finncdn.no/dynamic/1280w/item/480587091/3d964fa7-d559-4ecb-813d-758075c1f7bd"
+    }
+  ],
+  "raw_capture": "480587091_kinesisk-pokemon-crystal-gathering-booster-box/raw/480587091_2026-11-08-224552.html"
+}
