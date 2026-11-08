@@ -191,6 +191,41 @@ numbers are exactly what broke the Overview tab in phase D.
 
 ---
 
+## 4b. Phase F — prices side by side on every box tab (DONE)
+
+The user's complaint: *"its hard to compare it whole point is to compare what that
+seller offers and so all box pages should have all prices side by side"*. Fair — the
+price columns were separated by source columns, so they could not be scanned across.
+
+**What changed**
+
+| Tab | Before | After |
+|---|---|---|
+| `Sealed-Master` | prices in D, G, J, M with sources between them | prices adjacent in **D..G**, ratios in I..K, sources in L..O |
+| `Sealed-Offer` | 10 cols, no Norwegian retail at all | 15 cols, same D..G price block, then ratios, verdict, JPY |
+| `Sealed-Compare` | 16 sets only, 5 cols | **all 37 lines**, 10 cols, ranked by best ratio, best opportunity at the top |
+
+- `freeze()` gained a `cols` argument; the set name is now frozen on all three tabs.
+- The banner merges on `Sealed-Master` start at column **C**, not A: Sheets refuses to
+  freeze a column that holds only part of a merged cell. A and B carry the same fill,
+  so the banner still reads as one full-width bar.
+- `_ratios()` now computes the three ratio lists from `OFFER` + `NO_RETAIL`, and the
+  headline medians call `_median()` on them. The numbers can no longer drift from the
+  table below them.
+
+**One number moved: FINN median 1.43× → 1.42×.** The 16 FINN ratios sort to
+`… 1.41624 (Mega Dream ex), 1.43349 (VSTAR Universe) …`, so the true median is
+**1.4249**. The written report's 1.43 came from taking the median of the *rounded*
+per-line ratios. The sheet now shows the exact value, and the Overview, the Master
+headline and the Compare footer all agree on 1.42×. The Norwegian-retail median is
+unaffected at 1.80×.
+
+**Also fixed:** the Overview value column had no number format at all, so it rendered
+`55817500`. It now uses `#,##0`, with `0.0000000` on the FX row and `0.00"×"` on the
+median row.
+
+---
+
 ## 5. Rules I am holding myself to
 
 - **No Google Sheet writes until the user says so.**
@@ -228,3 +263,10 @@ numbers are exactly what broke the Overview tab in phase D.
 | 23:11 | E4 | `Sealed-Master` built: 97 × 18, 399 formatting requests. All 7 tabs OK. |
 | 23:12 | E4 | `#,##0.##` left trailing dots; switched to `#,##0` + `0.00` on ratio rows. |
 | 23:13 | — | Committed (`ae2a266`). |
+| 23:20 | F1 | User: prices are hard to compare, put them side by side on every box tab. |
+| 23:23 | F2 | Master reordered (prices D..G), Offer rebuilt to 15 cols, Compare rebuilt to all 37 lines. |
+| 23:24 | F2 | First run failed: `can't freeze columns which contain only part of a merged cell`. Banner merges moved to start at column C. |
+| 23:25 | F3 | All 7 tabs OK, 499 formatting requests. |
+| 23:26 | F4 | Compare's MEDIAN read 1.42× vs the report's 1.43×. Root cause: median of rounded values. `_ratios()` + `_median()` now feed every headline. |
+| 23:27 | F4 | Overview value column had no number format (`55817500`). Fixed. |
+| 23:28 | F5 | Re-ran: 501 requests, all 7 tabs OK. Master, Overview and Compare all agree on 1.80× / 1.42×. |

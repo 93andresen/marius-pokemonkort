@@ -404,14 +404,16 @@ def col_widths(sheet_id: int, sizes: list[int]) -> list[dict]:
     ]
 
 
-def freeze(sheet_id: int, rows: int) -> dict:
+def freeze(sheet_id: int, rows: int, cols: int = 0) -> dict:
+    grid: dict = {"frozenRowCount": rows}
+    fields = "gridProperties.frozenRowCount"
+    if cols:
+        grid["frozenColumnCount"] = cols
+        fields += ",gridProperties.frozenColumnCount"
     return {
         "updateSheetProperties": {
-            "properties": {
-                "sheetId": sheet_id,
-                "gridProperties": {"frozenRowCount": rows},
-            },
-            "fields": "gridProperties.frozenRowCount",
+            "properties": {"sheetId": sheet_id, "gridProperties": grid},
+            "fields": fields,
         }
     }
 
@@ -450,6 +452,7 @@ def ratio_colour(ratio: float) -> str:
 
 # --------------------------------------------------------------- content ----
 def overview_rows() -> list[list]:
+    _no_r, fi_r, _be_r = _ratios()
     rows: list[list] = []
     rows.append(["JAPANESE SEALED BOOSTER BOXES — WHOLESALE OFFER vs FINN.NO", "", "", ""])
     rows.append(["Prepared 2026-11-08 · 3 Signal screenshots · 13 FINN.no searches · 483 unique ads", "", "", ""])
@@ -467,7 +470,7 @@ def overview_rows() -> list[list]:
         ["Unique FINN ads seen", 483, "after dedupe by FINN-kode", ""],
         ["Japanese sealed boxes on FINN", 31, "+8 more identifiable by set name", ""],
         ["Offer sets with a FINN comparable", "16 of 37", "", ""],
-        ["Median FINN ask ÷ offer price", 1.43, "range 1,02× – 2,58×", ""],
+        ["Median FINN ask ÷ offer price", _median(fi_r), "range 1,02× – 2,58×", ""],
         ["Median FINN ask (matched sets)", 1_275, "NOK per box", ""],
         ["Gross spread at that median", 1_103_935, "3 480 × 1 275 − 3 333 065, before shipping/import/fees", ""],
     ]
@@ -485,9 +488,9 @@ def overview_rows() -> list[list]:
     rows.append(["Tab", "What it holds", "", ""])
     rows += [
         ["Sealed-Master", "ONE TABLE: all 37 lines with offer, Norwegian retail and FINN side by side, every price with its source", "", ""],
-        ["Sealed-Offer", "37 offer lines: JPY/NOK per box, line totals, and the FINN comparable where one exists", "", ""],
+        ["Sealed-Offer", "37 offer lines: offer, Norwegian retail, FINN and best price side by side, then the ratios", "", ""],
         ["Sealed-Searches", "the 13 FINN queries with match counts and page counts", "", ""],
-        ["Sealed-Compare", "the 16 sets where FINN has a comparable, with the ratio", "", ""],
+        ["Sealed-Compare", "all 37 lines ranked by best ratio, prices side by side — the best opportunity at the top", "", ""],
         ["Sealed-FINN", "42 Japanese-relevant FINN ads: 31 sealed boxes, 3 false positives, 8 by set name", "", ""],
         ["Sealed-Ads", "82 individual ads scraped in detail: price, lot size, NOK/box, language, set, seller, bucket", "", ""],
     ]
@@ -495,12 +498,29 @@ def overview_rows() -> list[list]:
 
 
 def offer_rows() -> list[list]:
-    rows: list[list] = [["#", "Set", "Qty", "JPY/box", "NOK/box", "JPY total", "NOK total",
-                         "FINN lowest ask", "FINN ÷ offer", "Note"]]
+    """The offer tab. Same column order as Sealed-Master: the four prices sit
+    adjacent in D..G so they can be read across in one glance."""
+    rows: list[list] = [["#", "Set", "Qty",
+                         "Offer NOK/box", "NO retail", "FINN lowest ask", "Best",
+                         "Offer NOK total",
+                         "NO retail ÷ offer", "FINN ÷ offer", "Best ÷ offer", "Verdict",
+                         "JPY/box", "JPY total", "Note"]]
     for i, (name, qty, jpy, nok, jpy_t, nok_t, finn, note) in enumerate(OFFER, start=1):
-        ratio = None if (finn is None or nok is None) else round(finn / nok, 2)
-        rows.append([i, name, qty, jpy, nok, jpy_t, nok_t, finn, ratio, note])
-    rows.append(["", "TOTAL", EXPECT_QTY, "", "", EXPECT_JPY, EXPECT_NOK, "", "", "excludes Clay Burst"])
+        retail, _src, _rnote = NO_RETAIL.get(name, (None, "", ""))
+        cands = [v for v in (retail, finn) if v]
+        best = max(cands) if cands else None
+        rows.append([
+            i, name, qty,
+            nok, retail, finn, best,
+            nok_t,
+            round(retail / nok, 2) if (retail and nok) else None,
+            round(finn / nok, 2) if (finn and nok) else None,
+            round(best / nok, 2) if (best and nok) else None,
+            verdict_for(best / nok if (best and nok) else None),
+            jpy, jpy_t, note,
+        ])
+    rows.append(["", "TOTAL", EXPECT_QTY, "", "", "", "", EXPECT_NOK,
+                 "", "", "", "", "", EXPECT_JPY, "excludes Clay Burst"])
     return rows
 
 
@@ -512,20 +532,68 @@ def search_rows() -> list[list]:
     return rows
 
 
+def _median(vals: list[float]) -> float | None:
+    """Unrounded on purpose: the cell's 0.00"×" format does the display
+    rounding, so the stored value stays exact."""
+    if not vals:
+        return None
+    s = sorted(vals)
+    n = len(s)
+    mid = n // 2
+    return s[mid] if n % 2 else (s[mid - 1] + s[mid]) / 2
+
+
+def _ratios() -> tuple[list[float], list[float], list[float]]:
+    """(NO retail ÷ offer, FINN ÷ offer, best ÷ offer) over the offer lines.
+
+    Computed from OFFER + NO_RETAIL rather than typed in, so the headline
+    medians can never drift away from the per-line table below them.
+    """
+    no_r: list[float] = []
+    fi_r: list[float] = []
+    be_r: list[float] = []
+    for name, _qty, _jpy, nok, _jt, _nt, finn, _note in OFFER:
+        if not nok:
+            continue
+        retail = NO_RETAIL.get(name, (None, "", ""))[0]
+        if retail:
+            no_r.append(retail / nok)
+        if finn:
+            fi_r.append(finn / nok)
+        best = max([v for v in (retail, finn) if v], default=None)
+        if best:
+            be_r.append(best / nok)
+    return no_r, fi_r, be_r
+
+
 def compare_rows() -> list[list]:
-    rows: list[list] = [["Set", "Offer NOK/box", "FINN lowest ask", "FINN ÷ offer", "Verdict"]]
-    pairs = [(n, nok, finn) for (n, _q, _j, nok, _jt, _nt, finn, _note) in OFFER if finn is not None]
-    pairs.sort(key=lambda p: p[2] / p[1])
-    for name, nok, finn in pairs:
-        ratio = finn / nok
-        if ratio < 1.2:
-            verdict = "thin — barely above cost"
-        elif ratio <= 1.6:
-            verdict = "workable"
-        else:
-            verdict = "healthy margin"
-        rows.append([name, nok, finn, round(ratio, 2), verdict])
-    rows.append(["MEDIAN", "", "", 1.43, "16 sets, range 1,02× – 2,58×"])
+    """All 37 lines, ranked by the best ratio available, so the top of the tab is
+    the best opportunity. Lines with no comparable sort to the bottom."""
+    rows: list[list] = [["Set", "Qty",
+                         "Offer NOK/box", "NO retail", "FINN lowest ask", "Best",
+                         "NO retail ÷ offer", "FINN ÷ offer", "Best ÷ offer", "Verdict"]]
+    lines: list[tuple] = []
+    for name, qty, _jpy, nok, _jt, _nt, finn, _note in OFFER:
+        retail, _src, _rnote = NO_RETAIL.get(name, (None, "", ""))
+        cands = [v for v in (retail, finn) if v]
+        best = max(cands) if cands else None
+        lines.append((name, qty, nok, retail, finn, best))
+    lines.sort(key=lambda t: (t[5] / t[2]) if (t[5] and t[2]) else -1.0, reverse=True)
+    for name, qty, nok, retail, finn, best in lines:
+        rows.append([
+            name, qty,
+            nok, retail, finn, best,
+            round(retail / nok, 2) if (retail and nok) else None,
+            round(finn / nok, 2) if (finn and nok) else None,
+            round(best / nok, 2) if (best and nok) else None,
+            verdict_for(best / nok if (best and nok) else None),
+        ])
+    # Medians are taken on the UNROUNDED ratios. Taking the median of the
+    # rounded column values shifts it by a hundredth (1.79 instead of 1.80).
+    no_raw, fi_raw, be_raw = _ratios()
+    rows.append(["MEDIAN", "", "", "", "", "",
+                 _median(no_raw), _median(fi_raw), _median(be_raw),
+                 f"{len(no_raw)} NO prices · {len(fi_raw)} FINN comparables"])
     return rows
 
 
@@ -611,6 +679,7 @@ def master_rows() -> tuple[list[list], dict[str, int]]:
     """
     rows: list[list] = []
     m: dict[str, int] = {}
+    no_r, fi_r, _be_r = _ratios()
 
     def add(row: list) -> None:
         rows.append(row)
@@ -636,11 +705,11 @@ def master_rows() -> tuple[list[list], dict[str, int]]:
     add(["Their offer value (NOK)", 2_350_060, "the 20 priced lines"])
     add(["Their Norwegian retail value (NOK)", 3_875_870, "lowest NO price × qty offered"])
     add(["Volume-weighted NO retail ÷ offer", 1.65, "the honest aggregate"])
-    add(["Median per-line NO retail ÷ offer", 1.80, "range 0,45× – 2,41×"])
+    add(["Median per-line NO retail ÷ offer", _median(no_r), "range 0,45× – 2,41×"])
     add(["Best line", "25th Anniversary Collection", "2,41× — cardcenter.no 9 199 vs offer 3 822"])
     add(["Worst line", "Eevee Heroes", "0,45× — prisjakt 3 499, language unverified (likely Korean)"])
     add(["Lines with a FINN comparable", 16, "of 37"])
-    add(["Median FINN ÷ offer", 1.43, "range 1,02× – 2,58×"])
+    add(["Median FINN ÷ offer", _median(fi_r), "range 1,02× – 2,58×"])
     add(["Lines with no comparable at all", 17, "no Norwegian price and no FINN listing"])
     add(["The constraint", "volume, not price", "3 480 boxes vs 31 competing JP sealed listings on FINN"])
     m["headline_last"] = len(rows) - 1
@@ -649,10 +718,14 @@ def master_rows() -> tuple[list[list], dict[str, int]]:
     m["table"] = len(rows)
     add(["THE 37 LINES — OFFER vs NORWEGIAN RETAIL vs FINN.NO"])
     m["table_hdr"] = len(rows)
-    add(["#", "Set", "Qty", "JPY/box", "Offer NOK/box", "Offer NOK total",
-         "NO retail NOK", "NO retail ÷ offer", "NO retail source", "NO retail note",
-         "FINN lowest NOK", "FINN ÷ offer", "FINN source",
-         "Best NOK", "Best ÷ offer", "Best source", "Verdict", "Note"])
+    # Prices first and adjacent (D..G), then the ratios (I..K), then the sources.
+    # The whole point of this tab is to read the four prices across in one glance.
+    add(["#", "Set", "Qty",
+         "Offer NOK/box", "NO retail", "FINN", "Best",
+         "Offer NOK total",
+         "NO retail ÷ offer", "FINN ÷ offer", "Best ÷ offer", "Verdict",
+         "NO retail source", "FINN source", "Best source", "NO retail note",
+         "JPY/box", "Note"])
     m["table_first"] = len(rows)
     for i, (name, qty, jpy, nok, jpy_t, nok_t, finn, note) in enumerate(OFFER, start=1):
         retail, retail_src, retail_note = NO_RETAIL.get(name, (None, "", ""))
@@ -664,24 +737,24 @@ def master_rows() -> tuple[list[list], dict[str, int]]:
             cands.append((finn, f"FINN {finn_src}" if finn_src else "FINN"))
         best, best_src = max(cands) if cands else (None, "")
         add([
-            i, name, qty, jpy, nok, nok_t,
-            retail,
+            i, name, qty,
+            nok, retail, finn, best,
+            nok_t,
             round(retail / nok, 2) if (retail and nok) else None,
-            retail_src,
-            retail_note,
-            finn,
             round(finn / nok, 2) if (finn and nok) else None,
-            f"FINN {finn_src}" if finn_src else "",
-            best,
             round(best / nok, 2) if (best and nok) else None,
-            best_src,
             verdict_for(best / nok if (best and nok) else None),
+            retail_src,
+            f"FINN {finn_src}" if finn_src else "",
+            best_src,
+            retail_note,
+            jpy,
             note,
         ])
     m["table_last"] = len(rows) - 1
     m["total"] = len(rows)
-    add(["", "TOTAL", EXPECT_QTY, "", "", EXPECT_NOK, "", "", "", "", "", "", "", "", "", "", "",
-         "excludes Clay Burst"])
+    add(["", "TOTAL", EXPECT_QTY, "", "", "", "", EXPECT_NOK,
+         "", "", "", "", "", "", "", "", "", "excludes Clay Burst"])
     add([])
 
     m["sources"] = len(rows)
@@ -805,12 +878,16 @@ def main(argv: list[str] | None = None) -> int:
     # Row indices come from master_rows()'s marks map, never hard-coded.
     sid = ids["Sealed-Master"]
     reqs += [
-        merge(sid, marks["title"], marks["title"] + 1, 0, 18),
-        merge(sid, marks["subtitle"], marks["subtitle"] + 1, 0, 18),
-        merge(sid, marks["headline"], marks["headline"] + 1, 0, 18),
-        merge(sid, marks["table"], marks["table"] + 1, 0, 18),
-        merge(sid, marks["sources"], marks["sources"] + 1, 0, 18),
-        merge(sid, marks["gaps"], marks["gaps"] + 1, 0, 18),
+        # The banner rows are merged from column C onward, NOT from A: the first
+        # two columns are frozen, and Sheets refuses to freeze a column that
+        # holds only part of a merged cell. A and B get the same fill, so the
+        # banner still reads as one full-width bar.
+        merge(sid, marks["title"], marks["title"] + 1, 2, 18),
+        merge(sid, marks["subtitle"], marks["subtitle"] + 1, 2, 18),
+        merge(sid, marks["headline"], marks["headline"] + 1, 2, 18),
+        merge(sid, marks["table"], marks["table"] + 1, 2, 18),
+        merge(sid, marks["sources"], marks["sources"] + 1, 2, 18),
+        merge(sid, marks["gaps"], marks["gaps"] + 1, 2, 18),
         fmt_req(sid, marks["title"], marks["title"] + 1, 0, 18,
                 bg=NAVY, fg=WHITE, bold=True, size=14, halign="LEFT", valign="MIDDLE"),
         fmt_req(sid, marks["subtitle"], marks["subtitle"] + 1, 0, 18,
@@ -838,30 +915,25 @@ def main(argv: list[str] | None = None) -> int:
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 1, 2, halign="LEFT", bold=True),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 2, 3,
                 halign="RIGHT", numfmt="#,##0"),
+        # D..G — the four prices, adjacent so they read across in one glance
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 3, 6,
                 halign="RIGHT", numfmt="#,##0"),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 6, 7,
                 halign="RIGHT", numfmt="#,##0", bold=True),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 7, 8,
+                halign="RIGHT", numfmt="#,##0"),
+        # I..K — the three ratios
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 8, 11,
                 halign="CENTER", numfmt='0.00"×"', bold=True),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 8, 9,
-                halign="LEFT", size=9),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 9, 10,
-                halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 10, 11,
-                halign="RIGHT", numfmt="#,##0", bold=True),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 11, 12,
-                halign="CENTER", numfmt='0.00"×"', bold=True),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 12, 13,
                 halign="LEFT", size=9),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 13, 14,
-                halign="RIGHT", numfmt="#,##0", bold=True),
-        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 14, 15,
-                halign="CENTER", numfmt='0.00"×"', bold=True),
+        # L..O — where each price came from
+        fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 12, 15,
+                halign="LEFT", size=9),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 15, 16,
-                halign="LEFT", size=9),
+                halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 16, 17,
-                halign="LEFT", size=9, bold=True),
+                halign="RIGHT", numfmt="#,##0"),
         fmt_req(sid, marks["table_first"], marks["table_last"] + 1, 17, 18,
                 halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
         fmt_req(sid, marks["total"], marks["total"] + 1, 0, 18, bg=GREY, bold=True,
@@ -890,16 +962,18 @@ def main(argv: list[str] | None = None) -> int:
                 halign="RIGHT", numfmt="#,##0"),
         fmt_req(sid, marks["gaps_first"], marks["gaps_last"] + 1, 4, 5,
                 halign="LEFT", wrap="WRAP", size=8, fg="#666666"),
-        freeze(sid, marks["table_hdr"] + 1),
+        # freeze the header row AND the set name, so the set stays visible
+        # while you scroll right through the prices
+        freeze(sid, marks["table_hdr"] + 1, 2),
     ]
     # colour the three ratio columns per row
     for i, row in enumerate(master[marks["table_first"]:marks["table_last"] + 1],
                             start=marks["table_first"]):
-        for col in (7, 11, 14):
+        for col in (8, 9, 10):
             if row[col] is not None:
                 reqs.append(fmt_req(sid, i, i + 1, col, col + 1, bg=ratio_colour(row[col])))
-    reqs += col_widths(sid, [40, 250, 60, 80, 100, 110, 100, 100, 150, 200,
-                             100, 90, 110, 90, 90, 150, 110, 300])
+    reqs += col_widths(sid, [40, 250, 60, 100, 100, 100, 100, 110,
+                             110, 100, 100, 100, 150, 90, 150, 200, 90, 300])
 
     # ===== Sealed-Overview =====
     # Row map (0-based): 0 title, 1 subtitle, 3 KEY NUMBERS, 4 table header,
@@ -917,7 +991,11 @@ def main(argv: list[str] | None = None) -> int:
         fmt_req(sid, 3, 4, 0, 4, bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
         fmt_req(sid, 4, 5, 0, 3, bg=LIGHT, fg=INK, bold=True, halign="LEFT"),
         fmt_req(sid, 5, 18, 0, 1, halign="LEFT"),
-        fmt_req(sid, 5, 18, 1, 2, halign="RIGHT", bold=True),
+        fmt_req(sid, 5, 18, 1, 2, halign="RIGHT", bold=True, numfmt="#,##0"),
+        # row 10 is the FX rate and row 15 the median ratio, both stored
+        # unrounded — they need their own formats on top of the #,##0 above
+        fmt_req(sid, 10, 11, 1, 2, halign="RIGHT", bold=True, numfmt="0.0000000"),
+        fmt_req(sid, 15, 16, 1, 2, halign="RIGHT", bold=True, numfmt='0.00"×"'),
         fmt_req(sid, 5, 18, 2, 3, halign="LEFT", wrap="WRAP", size=9),
         fmt_req(sid, 19, 20, 0, 4, bg=BLUE, fg=WHITE, bold=True, size=11, halign="LEFT"),
         fmt_req(sid, 21, 25, 0, 4, halign="LEFT", wrap="WRAP", valign="TOP"),
@@ -930,28 +1008,32 @@ def main(argv: list[str] | None = None) -> int:
     reqs += col_widths(sid, [300, 120, 420, 40])
 
     # ===== Sealed-Offer =====
+    # Same column order as Sealed-Master: the four prices adjacent in D..G.
     sid = ids["Sealed-Offer"]
     n = len(OFFER)
     reqs += [
-        fmt_req(sid, 0, 1, 0, 10, bg=NAVY, fg=WHITE, bold=True, halign="CENTER", valign="MIDDLE", wrap="WRAP"),
+        fmt_req(sid, 0, 1, 0, 15, bg=NAVY, fg=WHITE, bold=True, halign="CENTER", valign="MIDDLE", wrap="WRAP"),
         fmt_req(sid, 1, 1 + n, 0, 1, halign="CENTER", fg="#666666"),
-        fmt_req(sid, 1, 1 + n, 1, 2, halign="LEFT"),
+        fmt_req(sid, 1, 1 + n, 1, 2, halign="LEFT", bold=True),
         fmt_req(sid, 1, 1 + n, 2, 3, halign="RIGHT", numfmt="#,##0"),
-        fmt_req(sid, 1, 1 + n, 3, 5, halign="RIGHT", numfmt="#,##0"),
-        fmt_req(sid, 1, 1 + n, 5, 7, halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, 1, 1 + n, 3, 6, halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, 1, 1 + n, 6, 7, halign="RIGHT", numfmt="#,##0", bold=True),
         fmt_req(sid, 1, 1 + n, 7, 8, halign="RIGHT", numfmt="#,##0"),
-        fmt_req(sid, 1, 1 + n, 8, 9, halign="CENTER", numfmt='0.00"×"'),
-        fmt_req(sid, 1, 1 + n, 9, 10, halign="LEFT", wrap="WRAP", size=9, fg="#666666"),
-        fmt_req(sid, 1 + n, 2 + n, 0, 10, bg=GREY, bold=True, numfmt="#,##0",
+        fmt_req(sid, 1, 1 + n, 8, 11, halign="CENTER", numfmt='0.00"×"', bold=True),
+        fmt_req(sid, 1, 1 + n, 11, 12, halign="LEFT", size=9),
+        fmt_req(sid, 1, 1 + n, 12, 14, halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, 1, 1 + n, 14, 15, halign="LEFT", wrap="WRAP", size=9, fg="#666666"),
+        fmt_req(sid, 1 + n, 2 + n, 0, 15, bg=GREY, bold=True, numfmt="#,##0",
                 border={"top": {"style": "SOLID", "width": 2, "color": rgb(NAVY)}}),
-        freeze(sid, 1),
+        freeze(sid, 1, 2),
     ]
-    # colour the ratio cell per row
-    for i, (_n, _q, _j, nok, _jt, _nt, finn, _note) in enumerate(OFFER, start=1):
-        if finn is None or nok is None:
-            continue
-        reqs.append(fmt_req(sid, i, i + 1, 8, 9, bg=ratio_colour(finn / nok), bold=True))
-    reqs += col_widths(sid, [40, 250, 60, 90, 90, 110, 110, 120, 100, 320])
+    # colour the three ratio cells per row
+    for i, row in enumerate(payload["Sealed-Offer"][1:1 + n], start=1):
+        for col in (8, 9, 10):
+            if row[col] is not None:
+                reqs.append(fmt_req(sid, i, i + 1, col, col + 1, bg=ratio_colour(row[col])))
+    reqs += col_widths(sid, [40, 250, 60, 100, 100, 110, 100, 110,
+                             110, 100, 100, 100, 90, 110, 320])
 
     # ===== Sealed-Searches =====
     sid = ids["Sealed-Searches"]
@@ -970,26 +1052,29 @@ def main(argv: list[str] | None = None) -> int:
     reqs += col_widths(sid, [40, 260, 100, 110, 120, 150, 300])
 
     # ===== Sealed-Compare =====
+    # All 37 lines, best ratio first. Same price block as the other two tabs.
     sid = ids["Sealed-Compare"]
-    pairs = [(n_, nok, finn) for (n_, _q, _j, nok, _jt, _nt, finn, _note) in OFFER if finn is not None]
-    pairs.sort(key=lambda p: p[2] / p[1])
-    k = len(pairs)
+    k = len(OFFER)
     reqs += [
-        fmt_req(sid, 0, 1, 0, 5, bg=NAVY, fg=WHITE, bold=True, halign="CENTER", valign="MIDDLE", wrap="WRAP"),
+        fmt_req(sid, 0, 1, 0, 10, bg=NAVY, fg=WHITE, bold=True, halign="CENTER", valign="MIDDLE", wrap="WRAP"),
         fmt_req(sid, 1, 1 + k, 0, 1, halign="LEFT", bold=True),
-        fmt_req(sid, 1, 1 + k, 1, 3, halign="RIGHT", numfmt="#,##0"),
-        fmt_req(sid, 1, 1 + k, 3, 4, halign="CENTER", numfmt='0.00"×"', bold=True),
-        fmt_req(sid, 1, 1 + k, 4, 5, halign="LEFT"),
-        fmt_req(sid, 1 + k, 2 + k, 0, 5, bg=GREY, bold=True, numfmt="#,##0",
+        fmt_req(sid, 1, 1 + k, 1, 2, halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, 1, 1 + k, 2, 5, halign="RIGHT", numfmt="#,##0"),
+        fmt_req(sid, 1, 1 + k, 5, 6, halign="RIGHT", numfmt="#,##0", bold=True),
+        fmt_req(sid, 1, 1 + k, 6, 9, halign="CENTER", numfmt='0.00"×"', bold=True),
+        fmt_req(sid, 1, 1 + k, 9, 10, halign="LEFT", size=9),
+        fmt_req(sid, 1 + k, 2 + k, 0, 10, bg=GREY, bold=True, numfmt="#,##0",
                 border={"top": {"style": "SOLID", "width": 2, "color": rgb(NAVY)}}),
-        # the MEDIAN row also carries a ratio, so re-apply the × format on top
+        # the MEDIAN row also carries ratios, so re-apply the × format on top
         # of the row-wide #,##0 (which would otherwise render 1.43 as "1")
-        fmt_req(sid, 1 + k, 2 + k, 3, 4, halign="CENTER", numfmt='0.00"×"', bold=True),
-        freeze(sid, 1),
+        fmt_req(sid, 1 + k, 2 + k, 6, 9, halign="CENTER", numfmt='0.00"×"', bold=True),
+        freeze(sid, 1, 1),
     ]
-    for i, (_name, nok, finn) in enumerate(pairs, start=1):
-        reqs.append(fmt_req(sid, i, i + 1, 3, 4, bg=ratio_colour(finn / nok)))
-    reqs += col_widths(sid, [260, 130, 130, 110, 200])
+    for i, row in enumerate(payload["Sealed-Compare"][1:1 + k], start=1):
+        for col in (6, 7, 8):
+            if row[col] is not None:
+                reqs.append(fmt_req(sid, i, i + 1, col, col + 1, bg=ratio_colour(row[col])))
+    reqs += col_widths(sid, [260, 60, 100, 100, 100, 100, 110, 100, 100, 200])
 
     # ===== Sealed-FINN =====
     sid = ids["Sealed-FINN"]

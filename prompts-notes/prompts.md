@@ -783,3 +783,7 @@ C:\data\code\marius-pokemonkort_hermes\docs\2026-11-08-2340-findings-index.md
 
 ---
 
+make spreadsheet better overview its hard to compare it whole point is to compare what that seller offers and so all box pages should have all prices side by side!?!?!?
+
+---
+
