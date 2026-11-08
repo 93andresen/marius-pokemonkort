@@ -632,6 +632,9 @@ def main(argv: list[str] | None = None) -> int:
         fmt_req(sid, 1, 1 + k, 4, 5, halign="LEFT"),
         fmt_req(sid, 1 + k, 2 + k, 0, 5, bg=GREY, bold=True, numfmt="#,##0",
                 border={"top": {"style": "SOLID", "width": 2, "color": rgb(NAVY)}}),
+        # the MEDIAN row also carries a ratio, so re-apply the × format on top
+        # of the row-wide #,##0 (which would otherwise render 1.43 as "1")
+        fmt_req(sid, 1 + k, 2 + k, 3, 4, halign="CENTER", numfmt='0.00"×"', bold=True),
         freeze(sid, 1),
     ]
     for i, (_name, nok, finn) in enumerate(pairs, start=1):
