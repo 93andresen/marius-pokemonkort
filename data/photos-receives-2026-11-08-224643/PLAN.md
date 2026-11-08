@@ -1,8 +1,9 @@
 # PLAN — sealed-box offer: ad scrape, report, then the sheet
 
 **Created:** 2026-11-08 22:40 UTC
-**Revised:** 2026-11-08 22:43 UTC — **order changed by the user**
-**Status:** IN PROGRESS · **Google Sheet work is BLOCKED until the user says go**
+**Revised:** 2026-11-08 22:43 UTC — order changed by the user
+**Revised:** 2026-11-08 23:01 UTC — sheet unblocked by the user, all six tabs written
+**Status:** COMPLETE
 
 This file is the single source of truth for this job. It is updated as each step
 completes. If context is lost, re-read this file and continue from the first
@@ -39,10 +40,10 @@ of tabs in the Google Sheet holding all of it, properly coloured and formatted.
 | # | Deliverable | Path / location | State |
 |---|---|---|---|
 | D1 | This plan, kept current | `data/photos-receives-2026-11-08-224643/PLAN.md` | live |
-| D2 | Scraped individual ads (raw JSON) | `data/finn/ads/2026-11-08-*/` | pending |
-| D3 | Comprehensive report | `data/photos-receives-2026-11-08-224643/ADS-REPORT.md` | pending |
-| D4 | Sheet builder (written, **not run**) | `data/photos-receives-2026-11-08-224643/build_sealed_sheet.py` | ready, blocked |
-| D5 | Google Sheet — new `Sealed-*` tabs | Sheet `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` | **BLOCKED** |
+| D2 | Scraped individual ads (raw JSON) | `data/finn/annonser/{kode}_{slug}/` | **done — 82/82** |
+| D3 | Comprehensive report | `data/photos-receives-2026-11-08-224643/ADS-REPORT.md` | **done — 467 lines** |
+| D4 | Sheet builder | `data/photos-receives-2026-11-08-224643/build_sealed_sheet.py` | **done — 6 tabs** |
+| D5 | Google Sheet — new `Sealed-*` tabs | Sheet `13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM` | **done — verified** |
 
 ---
 
@@ -124,13 +125,36 @@ Colour scheme (applied consistently):
       aggregate, the 1,53× median, the 2 590/3 480 box split and the VAT
       arithmetic were all recomputed by hand from `ads_extract.json`
 
-### Phase D — Google Sheet — **BLOCKED, awaiting the user's go-ahead**
+### Phase D — Google Sheet — DONE
 
-- [ ] D1. Run `build_sealed_sheet.py` (creates `Sealed-Overview`, `Sealed-Offer`,
-      `Sealed-Searches`, `Sealed-Compare`, `Sealed-FINN`)
-- [ ] D2. Add `Sealed-Ads` with the scraped ads
-- [ ] D3. Read every tab back and verify row/column counts
-- [ ] D4. Report the sheet URL
+- [x] D1. Ran `build_sealed_sheet.py` — created `Sealed-Overview`, `Sealed-Offer`,
+      `Sealed-Searches`, `Sealed-Compare`, `Sealed-FINN`
+- [x] D2. Added `Sealed-Ads` with the 82 scraped ads (16 columns, bucket-coloured)
+- [x] D3. Read every tab back — all six report `OK`:
+
+      | Tab | Rows × cols |
+      |---|---|
+      | Sealed-Overview | 33 × 3 |
+      | Sealed-Offer | 39 × 10 |
+      | Sealed-Searches | 15 × 7 |
+      | Sealed-Compare | 18 × 5 |
+      | Sealed-FINN | 44 × 5 |
+      | Sealed-Ads | 83 × 16 |
+
+- [x] D4. Sheet URL: <https://docs.google.com/spreadsheets/d/13TfMos8hP4zT3-Tf92F7ZE0hJ2r7cKJdEqvdj0gvtpM/edit>
+
+**Two real bugs found and fixed while running it:**
+
+1. The `Sealed-Overview` merges were off by one row and merged *over* the
+   "Gross spread at that median" row, silently discarding its value. Row map
+   corrected (VERDICT at 19, TABS at 26).
+2. Merges survive `values.clear()`, so a re-run wrote values into a still-merged
+   range and lost every cell except the top-left one. The script now issues
+   `unmergeCells` for all six tabs **before** writing values.
+
+The MCP `google-sheets` server was used to confirm the tab list and to read the
+content back; it cannot set colours/merges/widths, so the formatting itself goes
+through the Sheets API `batchUpdate` with the service-account key.
 
 ---
 
@@ -160,3 +184,9 @@ Colour scheme (applied consistently):
 | 22:50 | B6 | Bugs fixed. **23** JP sealed boxes, min 799, median 2 099, max 37 500. |
 | 22:51 | C1–C2 | [`ADS-REPORT.md`](ADS-REPORT.md) written, 467 lines, all numbers cross-checked. |
 | 22:52 | D | **Sheet still untouched.** Waiting for the go-ahead. |
+| 22:55 | D | User unblocked the sheet. Added `Sealed-Ads` (82 ads) to the builder. |
+| 22:58 | D1 | First run: 6 tabs created, 274 formatting requests. Overview reported a 4→3 column mismatch. |
+| 22:59 | D1 | Root cause: an off-by-one merge swallowed the gross-spread row. Row map fixed. |
+| 23:00 | D1 | Second bug: merges survive `values.clear()`. Added `unmergeCells` before the value write. |
+| 23:00 | D3 | Re-ran: **all six tabs OK**. Gross spread 1 103 935 restored. |
+| 23:01 | — | Committed (`16e039b`). |
